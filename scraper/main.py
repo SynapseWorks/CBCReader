@@ -29,6 +29,8 @@ from utils import (
     parse_date,
     summarize,
     compute_bias,
+    ensure_nltk_data,   # <-- add this import
+
 )
 
 # Configure logging to write to stderr with timestamps.
@@ -46,7 +48,20 @@ def load_config(path: str) -> dict:
     """Load the YAML configuration file."""
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+        
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--force", action="store_true", help="Bypass time gate and run now")
+    args = parser.parse_args()
 
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    config_path = os.path.join(base_dir, "config.yml")
+    config = load_config(config_path)
+
+    ensure_nltk_data()   # <-- add this line
+
+    if not should_run_now(config, force=args.force):
+        return
 
 def should_run_now(config: dict, force: bool = False) -> bool:
     """Determine if the scraper should run at the current time (or force)."""
