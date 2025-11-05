@@ -264,6 +264,14 @@ def main() -> None:
         json.dump(output, f, indent=2, ensure_ascii=False)
     logger.info("Wrote %d items to %s", len(final_items), output_path)
 
+    # 👉 NEW: also mirror into /docs/data/latest.json so GitHub Pages can serve it
+    docs_data_dir = os.path.join(base_dir, os.pardir, "docs", "data")
+    os.makedirs(docs_data_dir, exist_ok=True)
+    docs_output_path = os.path.join(docs_data_dir, "latest.json")
+    with open(docs_output_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+    logger.info("Also wrote %d items to %s", len(final_items), docs_output_path)
+
 # ------------------------------------------------------------------------------
 if __name__ == "__main__":
     try:
