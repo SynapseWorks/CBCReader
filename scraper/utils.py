@@ -18,17 +18,28 @@ from typing import Dict, Iterable, Optional, Tuple
 
 from dateutil import parser as date_parser
 from dateutil import tz
-import nltk
 from nltk.tokenize import sent_tokenize
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+# add with your other imports
+import nltk
+from nltk import data as nltk_data
 
-# Ensure NLTK sentence tokenizer is available.  If the data is
-# missing it will be downloaded on first run.  The try/except
-# prevents concurrent downloads from racing.
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+def ensure_nltk_data() -> None:
+    """
+    Ensure required NLTK resources exist on ephemeral runners.
+    Quietly downloads if missing.
+    """
+    needed = [
+        ("tokenizers/punkt", "punkt"),
+        # Newer NLTK splits sentence models into 'punkt_tab'
+        ("tokenizers/punkt_tab", "punkt_tab"),
+        ("sentiment/vader_lexicon.zip", "vader_lexicon"),
+    ]
+    for resource_path, pkg in needed:
+        try:
+            nltk_data.find(resource_path)
+        except LookupError:
+            nltk.download(pkg, quiet=True)
 
 
 _sentiment_analyzer = SentimentIntensityAnalyzer()
