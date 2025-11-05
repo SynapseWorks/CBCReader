@@ -243,16 +243,39 @@ def main() -> None:
             jitter = per_request_sleep * (0.5 + random.random())
             time.sleep(max(0.5, jitter))
 
-    # Deduplicate across sections and sort globally by date
-    all_items.sort(key=lambda x: x["published_at"], reverse=True)
-    deduped = deduplicate(all_items)
+    # --- new block ---
+from collections import defaultdict
 
-    output = {
-        "source": "CBC News",
-        "generated_at": now.isoformat(),
-        "timezone": config.get("timezone", "UTC"),
-        "items": deduped,
-    }
+# 1) Relabel opinions by URL pattern
+for it in all_items:
+    if "/opinion/" in (it.get("url") or ""):
+        it["section"] = "Opinion"
+
+# 2) Sort newest → oldest
+all_items.sort(key=lambda x: x["published_at"], reverse=True)
+
+# 3) Deduplicate
+deduped = deduplicate(all_items)
+
+# 4) Enforce per-section caps (Opinion = 5 by rule, others from config)
+name_to_cap = {cfg["name"]: cfg["max_items"] for cfg in config.get("sections", {}).values()}
+counts = defaultdict(int)
+final_items = []
+for it in deduped:
+    sec = it.get("section", "")
+    cap = 5 if sec == "Opinion" else name_to_cap.get(sec, 50)
+    if counts[sec] < cap:
+        final_items.append(it)
+        counts[sec] += 1
+
+output = {
+    "source": "CBC News",
+    "generated_at": now.isoformat(),
+    "timezone": config.get("timezone", "UTC"),
+    "items": final_items,
+}
+# --- end new block ---
+
 
     # Write to ../data/latest.json relative to scraper directory
     data_dir = os.path.join(base_dir, os.pardir, "data")
