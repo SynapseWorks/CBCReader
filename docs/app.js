@@ -16,7 +16,7 @@
   // Fetch the latest news JSON.
   async function fetchNews() {
     try {
-      const resp = await fetch('../data/latest.json'); // served from /docs/data/latest.json
+      const resp = await fetch('data/latest.json'); // served from /docs/data/latest.json
       if (!resp.ok) {
         throw new Error('Failed to fetch news');
       }
