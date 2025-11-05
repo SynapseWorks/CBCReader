@@ -1,0 +1,61 @@
+# Configuration for the CBC news scraper.
+#
+# The scraper relies on official CBC RSS feeds for each section.  The
+# "max_items" property defines how many stories to keep for a given
+# section over the past 24 hours.  The entertainment and opinion
+# sections are capped at five items per day, while all other
+# sections are capped at fifty items.  See README.md for details.
+
+timezone: America/Toronto
+rate_limit_seconds: 1
+window_hours: 24
+
+# Only run the scraper when the local time (America/Toronto) is
+# approximately equal to one of the times listed below.  The script
+# evaluates the hour and will exit early if it is not one of the
+# allowed slots.  This prevents redundant runs when the action
+# triggers every two hours.
+allowed_hours:
+  - 8
+  - 14
+  - 20
+
+sections:
+  top_stories:
+    name: Top Stories
+    url: http://rss.cbc.ca/lineup/topstories.xml
+    max_items: 50
+  canada:
+    name: Canada
+    url: http://rss.cbc.ca/lineup/canada.xml
+    max_items: 50
+  world:
+    name: World
+    url: http://rss.cbc.ca/lineup/world.xml
+    max_items: 50
+  business:
+    name: Business
+    url: http://rss.cbc.ca/lineup/business.xml
+    max_items: 50
+  technology_science:
+    name: Technology & Science
+    url: http://rss.cbc.ca/lineup/technology.xml
+    max_items: 50
+  health:
+    name: Health
+    url: http://rss.cbc.ca/lineup/health.xml
+    max_items: 50
+  entertainment:
+    name: Entertainment
+    url: http://rss.cbc.ca/lineup/arts.xml
+    max_items: 5
+  opinion:
+    name: Opinion
+    url: http://rss.cbc.ca/lineup/opinion.xml
+    max_items: 5
+
+# Set this to true to allow the scraper to fetch the full article
+# page and perform a deeper summary.  Because the scraper is
+# designed to respect the site’s terms of service and avoid heavy
+# scraping, this is disabled by default.
+allow_extract: false
