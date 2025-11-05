@@ -1,0 +1,41 @@
+name: Update CBC News
+
+on:
+  schedule:
+    # Run every two hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: python scraper/main.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          # Only commit if the data file has changed
+          if [ -n "$(git status --porcelain data/latest.json)" ]; then
+            git add data/latest.json
+            git commit -m "Update latest news"
+            git push
+          else
+            echo "No changes to commit"
+          fi
