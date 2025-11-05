@@ -60,3 +60,5 @@ sections:
 # designed to respect the site’s terms of service and avoid heavy
 # scraping, this is disabled by default.
 allow_extract: false
+permissions:
+  contents: write
