@@ -2,21 +2,27 @@ name: Update CBC News
 
 on:
   schedule:
-    # Run every two hours
-    # Run every two hours
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
-    {}
+    - cron: '0 */2 * * *'  # every 2 hours (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cbc-news-update
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -25,18 +31,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scraper/requirements.txt
 
-      - name: Run scraper
+      - name: Run scraper (time-gated in code)
         run: python scraper/main.py
+        # For a one-off test, you can temporarily force:
+        # run: python scraper/main.py --force
 
-      - name: Commit and push changes
+      - name: Show changed files (debug)
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          # Only commit if the data file has changed
-          if [ -n "$(git status --porcelain data/latest.json)" ]; then
-            git add data/latest.json
+          ls -la data || true
+          ls -la docs/data || true
+          git status --porcelain -- data/latest.json docs/data/latest.json || true
+
+      - name: Configure Git author & pull latest (rebase)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git pull --rebase origin main || true
+
+      - name: Commit & push updated JSON only if changed
+        run: |
+          CHANGED=$(git status --porcelain -- data/latest.json docs/data/latest.json | wc -l | tr -d ' ')
+          if [ "$CHANGED" != "0" ]; then
+            git add data/latest.json docs/data/latest.json
             git commit -m "Update latest news"
-            git push
+            git push origin HEAD:main
           else
-            echo "No changes to commit"
+            echo "No changes to commit."
           fi
