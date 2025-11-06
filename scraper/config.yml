@@ -17,9 +17,12 @@ window_hours: 24
 # triggers every two hours.
 allowed_hours:
   - 8
+  - 9
+  - 10
   - 14
   - 15
   - 20
+  - 21
 
 sections:
   top_stories:
