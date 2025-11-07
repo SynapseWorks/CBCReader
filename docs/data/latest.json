@@ -1,18 +1,122 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-07T09:14:43.686825-05:00",
+  "generated_at": "2025-11-07T15:15:04.378226-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "d8afab8f525138c04f68cabcd389c94e3488f044",
-      "url": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
-      "title": "Canada's unemployment rate edges down to 6.9% in October",
-      "published_at": "2025-11-07T03:29:03-05:00",
+      "id": "7a11de44cca92648a9ee89613b718ac13e3e97d5",
+      "url": "https://www.cbc.ca/news/politics/budget-confidence-vote-9.6971229?cmp=rss",
+      "title": "Liberal budget clears second confidence hurdle as MPs head into break week",
+      "published_at": "2025-11-07T09:01:42-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Canadian economy added 67,000 jobs in October and the unemployment rate ticked down to 6.9 per cent, Statistics Canada said on Friday.",
+      "summary_auto": "Prime Minister Mark Carney’s government survived its second confidence vote in two days after MPs voted down a Bloc amendment calling on the House to reject the Liberals’ budget.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.823,
+        "sentiment": 0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff30bf22f52651729d6781f8666cd93f515909fa",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ostrich-cull-cfia-9.6971191?cmp=rss",
+      "title": "CFIA says cull of ostriches at B.C. farm is complete",
+      "published_at": "2025-11-07T08:18:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian Food Inspection Agency says it used professional marksmen to complete a cull of a large flock of ostriches in southern B.C. where avian flu was detected last December, ending a months-long legal battle between the agency and the birds' owners.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0769182dd1941ced3ecd438b0ac9b6e573155b31",
+      "url": "https://www.cbc.ca/news/world/us-trump-administration-judges-9.6970610?cmp=rss",
+      "title": "Judges are getting fed up with Trump officials trying cases on social media, cable news",
+      "published_at": "2025-11-07T08:15:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal judge rebuked the Donald Trump administration on Thursday from the bench, taking exception in part to a Truth Social posted by the president earlier this week. It is one of a number of examples where the use of social media by White House officials has been viewed critically by judges overseeing cases.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e5fb99e36134805ec81f386070b44da34010fa0c",
+      "url": "https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss",
+      "title": "Sudanese fighters accused of massacres use Canadian-made rifles",
+      "published_at": "2025-11-07T07:20:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4d2fc50c6c43ffb3326efd9387d48f6d9d820163",
+      "url": "https://www.cbc.ca/news/entertainment/grammy-awards-2026-nominations-9.6969703?cmp=rss",
+      "title": "Kendrick Lamar leads 2026 Grammy nominations, followed by Lady Gaga, Jack Antonoff and Cirkut",
+      "published_at": "2025-11-07T06:35:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The nominations for the 2026 Grammy Awards were announced Friday via livestream, with the help of past Grammy winners.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e8ddecd8a82a8f9d742ac6c892b11ddd8b346650",
+      "url": "https://www.cbc.ca/news/canada/manitoba/elston-bostock-guilty-winnipeg-police-9.6970793?cmp=rss",
+      "title": "Winnipeg police officer faces prison after pleading guilty to multiple charges",
+      "published_at": "2025-11-07T06:35:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A veteran Winnipeg officer is expected to serve a prison sentence after pleading guilty to a number of charges, including breach of trust, offering indignity to human remains, theft under $5,000 and attempting to obstruct justice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d8afab8f525138c04f68cabcd389c94e3488f044",
+      "url": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
+      "title": "Canada's economy added 67,000 jobs, beating economists' expectations",
+      "published_at": "2025-11-07T05:16:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f5a19beb892ae554406439a74ae0129be590710",
+      "url": "https://www.cbc.ca/news/world/trump-alleged-drug-vessel-victims-9.6970471?cmp=rss",
+      "title": "Called narco-terrorists by Trump administration, men 'executed' in Venezuela are mourned by loved ones",
+      "published_at": "2025-11-07T04:42:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 60 people killed since early September when the U.S. military began attacking boats that the Trump administration alleges were smuggling drugs. The Associated Press learned the identities of four of the men who were slain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d8afab8f525138c04f68cabcd389c94e3488f044",
+      "url": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
+      "title": "Canada gains a surprise 67,000 jobs in October, beating economists' expectations",
+      "published_at": "2025-11-07T03:29:03-05:00",
+      "section": "Canada",
+      "summary_auto": "The Canadian economy added a surprising 67,000 jobs in October and the unemployment rate ticked down to 6.9 per cent, Statistics Canada said on Friday, beating economists' expectations for the month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +151,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/toronto-sudanese-escalated-violence-9.6970343?cmp=rss",
       "title": "Members of Canadian Sudanese community feel abandoned after violence escalates in Sudan",
       "published_at": "2025-11-07T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Members of Toronto’s Sudanese community say they feel abandoned by the Canadian government amid escalating violence in Sudan.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,38 +164,12 @@
       "url": "https://www.cbc.ca/news/world/typhoon-kalmegai-friday-9.6970507?cmp=rss",
       "title": "Typhoon Kalmaegi brings rain and destruction to Vietnam as death toll nears 190 in Philippines",
       "published_at": "2025-11-06T23:52:58-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "At least five people died in Vietnam after Typhoon Kalmaegi pummelled coastal regions with destructive winds and heavy rain, officials said on Friday, following the storm's deadly passage through the Philippines where it killed at least 188 people.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.967,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5fb99e36134805ec81f386070b44da34010fa0c",
-      "url": "https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss",
-      "title": "Sudanese fighters accused of massacres use Canadian-made rifles",
-      "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Rapid Support Forces in Sudan, accused of civilian massacres, have posted numerous images posing with rifles bearing the logo of a small B.C. manufacturer called Sterling Cross Defense Systems. Experts say Canada needs to 'do better' to allow for public tracking of arms sales.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa3cfa4d16a4cf263a493499e41bb8f8c670facd",
-      "url": "https://www.cbc.ca/news/business/snowbirds-us-registration-requirement-9.6970003?cmp=rss",
-      "title": "Worried about being fingerprinted? What snowbirds need to know about U.S. registration requirement",
-      "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As snowbirds flock to the border to escape the Canadian winter, many are encountering confusion as they try to comply with new U.S. registration requirements. Here's what we know about the new rules.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -121,19 +199,6 @@
       }
     },
     {
-      "id": "88977125e88b763247aa8db6d951786940260f68",
-      "url": "https://www.cbc.ca/news/canada/hamilton/dofasco-emissions-hamilton-residents-complaint-ontario-9.6969701?cmp=rss",
-      "title": "Hamilton residents request Ontario investigate ArcelorMittal Dofasco for releasing emissions far above limits",
-      "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "With ArcelorMittal Dofasco stalling on its green steel plans and releasing emissions above Ontario’s air-quality regulations, Hamilton resident Jochen Bezner says Canada’s largest steelmaker needs to be held accountable.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "f407eaf6302d3390da8e5811111775de2e97cc05",
       "url": "https://www.cbc.ca/news/canada/blue-jays-world-series-return-9.6968351?cmp=rss",
       "title": "A Blue Jays return to the World Series next year won't be easy, but fans have hope",
@@ -144,6 +209,45 @@
         "article_type": "News",
         "sentiment": 0.799,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c6a3494557948a99511dbea68fe60edba675fa2b",
+      "url": "https://www.cbc.ca/news/canada/calgary/low-oil-prices-canada-oilpatch-9.6969484?cmp=rss",
+      "title": "Low prices are hurting the oil sector, but Canada has a few advantages",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian oil producers are grappling with low commodity prices, but analysts say the sector is buoyed by certain advantages unique to this side of the border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aa3cfa4d16a4cf263a493499e41bb8f8c670facd",
+      "url": "https://www.cbc.ca/news/business/snowbirds-us-registration-requirement-9.6970003?cmp=rss",
+      "title": "Worried about being fingerprinted? What snowbirds need to know about U.S. registration requirement",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As snowbirds flock to the border to escape the Canadian winter, many are encountering confusion as they try to comply with new U.S. registration requirements. Here's what we know about the new rules.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "88977125e88b763247aa8db6d951786940260f68",
+      "url": "https://www.cbc.ca/news/canada/hamilton/dofasco-emissions-hamilton-residents-complaint-ontario-9.6969701?cmp=rss",
+      "title": "Hamilton residents request Ontario investigate ArcelorMittal Dofasco for releasing emissions far above limits",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With ArcelorMittal Dofasco stalling on its green steel plans and releasing emissions above Ontario’s air-quality regulations, Hamilton resident Jochen Bezner says Canada’s largest steelmaker needs to be held accountable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -160,19 +264,6 @@
       }
     },
     {
-      "id": "c6a3494557948a99511dbea68fe60edba675fa2b",
-      "url": "https://www.cbc.ca/news/canada/calgary/low-oil-prices-canada-oilpatch-9.6969484?cmp=rss",
-      "title": "Low prices are hurting the oil sector, but Canada has a few advantages",
-      "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Canadian oil producers are grappling with low commodity prices, but analysts say the sector is buoyed by certain advantages unique to this side of the border.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "df2ddace7bf623ea63dfd53d63403d67ec9af738",
       "url": "https://www.cbc.ca/news/politics/budget-vote-numbers-election-no-confidence-9.6969941?cmp=rss",
       "title": "By the numbers: Here's what needs to happen in a budget vote to avoid an election",
@@ -182,19 +273,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a0a50233ff09aa60c80a858e8790d59219518c95",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/hockey-canada-unveils-olympic-hockey-jerseys-9.6970478?cmp=rss",
-      "title": "Hockey Canada unveils jerseys for Olympic and Paralympic Games in Italy",
-      "published_at": "2025-11-06T18:29:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hockey Canada unveiled the Olympic hockey jerseys on Thursday for the men’s, women’s and Para teams that will compete at the Milan-Cortina Games.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -212,24 +290,11 @@
       }
     },
     {
-      "id": "c03a3e4086994253c260473c9874554337ceaf5b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/gunshots-heard-edgewood-bc-farm-9.6970419?cmp=rss",
-      "title": "Shots ring out at Universal Ostrich farm in Edgewood, B.C.",
-      "published_at": "2025-11-06T17:03:43-05:00",
-      "section": "Canada",
-      "summary_auto": "It happened the same day the Supreme Court of Canada declined to hear an appeal to save the flock at Universal Ostrich from a cull ordered by the Canadian Food Inspection Agency (CFIA).",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "f987a7670b51d0994c41a22654cdb325534eeebe",
       "url": "https://www.cbc.ca/news/world/mexico-president-assault-9.6970266?cmp=rss",
       "title": "Tepid reaction in Mexico to groping of president shows country has ‘normalized gender violence’: expert",
       "published_at": "2025-11-06T16:05:20-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The tepid and partisan domestic reaction to the apparent sexual assault Tuesday of Mexican President Claudia Sheinbaum reveals how normalized gender violence has become in the country, according to experts.",
       "bias_heuristic": {
         "article_type": "News",
@@ -260,123 +325,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2643a8b80e991ab957975c36eb56e7142924f819",
-      "url": "https://www.cbc.ca/news/world/us-senate-vote-venezuela-war-powers-9.6970156?cmp=rss",
-      "title": "U.S. Senate Republicans veto legislation to limit Trump's ability to attack Venezuela",
-      "published_at": "2025-11-06T14:50:22-05:00",
-      "section": "World",
-      "summary_auto": "Senate Republicans voted to reject legislation Thursday that would have put a check on U.S. President Donald Trump's ability to launch an attack against Venezuela, as Democrats pressed Congress to take a stronger role in Trump's high-stakes campaign against Venezuelan President Nicolás Maduro.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "179e9b7fdae03827ce0420ff2ef7fef93a9c9f87",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ostriches-cull-court-reasonablessness-alexander-vavilov-9.6969653?cmp=rss",
-      "title": "How the son of Russian spies paved the legal path for B.C. ostrich cull",
-      "published_at": "2025-11-06T14:31:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In his battle for Canadian citizenship, Alexander Vavilov got an opportunity denied to the owners of B.C. 's Universal Ostrich Farms — a chance to argue his case before Canada's top court. In the process, the son of Russian spies set a legal standard for decision-making \"reasonableness\" that would doom the B.C. birds six years later.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "017436be3120f6ae20b7d762a6db64aaa4fcfec6",
-      "url": "https://www.cbc.ca/news/health/ozempic-trumprx-cheaper-insurance-9.6970197?cmp=rss",
-      "title": "U.S. deal could cut costs for popular weight-loss drugs. What’s that mean for Canada?",
-      "published_at": "2025-11-06T14:04:09-05:00",
-      "section": "Health",
-      "summary_auto": "A new deal with major drugmakers, unveiled by U.S. President Donald Trump on Thursday, aims to expand coverage and cut prices for popular weight-loss drugs south of the border. So how much could Trump’s announcement really cut costs? And will Canadians also benefit?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.705,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8b27e46a5349014f140abe88c4e7a44eeb34ae98",
-      "url": "https://www.cbc.ca/news/world/elon-musk-trillionaire-tesla-9.6970043?cmp=rss",
-      "title": "Musk could become world's 1st trillionaire as Tesla shareholders approve giant pay package",
-      "published_at": "2025-11-06T13:20:53-05:00",
-      "section": "World",
-      "summary_auto": "Elon Musk won a shareholder vote on Thursday that would give the Tesla CEO stock worth $1 trillion if he hits certain performance targets over the next decade, handing him a chance to become history's first trillionaire.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0cc648e2363505e205d14d8e3db382f4258b2b61",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-teachers-association-bill-2-court-challenge-notwithstanding-9.6969870?cmp=rss",
-      "title": "Teachers' union taking Alberta government to court over notwithstanding clause",
-      "published_at": "2025-11-06T11:11:07-05:00",
-      "section": "Canada",
-      "summary_auto": "The Alberta Teachers’ Association has filed a constitutional challenge of a provincial government law that forced educators across the province back to work and imposed a new contract.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa53b5f45e6e3b720a794ce099116ead757cc20f",
-      "url": "https://www.cbc.ca/news/canada/edmonton/asirt-rcmp-investigation-wetaskiwin-teen-shooting-9.6969723?cmp=rss",
-      "title": "Alberta RCMP officers won't be charged in fatal shooting of 15-year-old boy: police watchdog",
-      "published_at": "2025-11-06T10:24:54-05:00",
-      "section": "Canada",
-      "summary_auto": "An Alberta Serious Response Incident Team investigation says the officers shot at the teenager up to 17 times as he came toward them in a field, holding his arm up in a backpack so that it appeared he was pointing a gun.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.682,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f50b1850c1bd6db660e48d48507350a60afa51e",
-      "url": "https://www.cbc.ca/news/canada/calgary/kalispell-montana-american-tourism-canada-9.6969652?cmp=rss",
-      "title": "'We miss you': Kalispell, Mont., launches campaign to woo back Canadian visitors",
-      "published_at": "2025-11-06T10:00:59-05:00",
-      "section": "Canada",
-      "summary_auto": "One of Montana's main travel destinations is reaching out to Canadians, offering deals, discounts and specials in an effort to lure them back for a visit. Discover Kalispell, a tourism marketing and management organization for the city in northwest Montana, has unveiled its Kalispell Canadian Welcome Pass.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fee456c216e1309936ea30e0009e5f22d273aedb",
-      "url": "https://www.cbc.ca/news/world/national-guard-sandwich-thrown-verdict-9.6968277?cmp=rss",
-      "title": "Man who threw sandwich at U.S. federal agent found not guilty of assault",
-      "published_at": "2025-11-06T09:40:44-05:00",
-      "section": "World",
-      "summary_auto": "The man who threw a sandwich and became symbol of resistance to U.S. President Donald Trump's D.C. law enforcement surge has been found not guilty of assault.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d573c5f52201ba7a3b9bbbf6ba50b307e8d36d2a",
-      "url": "https://www.cbc.ca/news/canada/toronto/in-photos-scenes-from-prince-harry-s-visit-in-toronto-9.6969575?cmp=rss",
-      "title": "IN PHOTOS | Scenes from Prince Harry's visit in Toronto",
-      "published_at": "2025-11-06T09:34:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prince Harry, who served in Afghanistan as a member of the British military, is attending several events in Toronto commemorating veterans ahead of Remembrance Day.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
