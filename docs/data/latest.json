@@ -1,14 +1,274 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-06T20:08:10.460403-05:00",
+  "generated_at": "2025-11-07T09:14:43.686825-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d8afab8f525138c04f68cabcd389c94e3488f044",
+      "url": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
+      "title": "Canada's unemployment rate edges down to 6.9% in October",
+      "published_at": "2025-11-07T03:29:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian economy added 67,000 jobs in October and the unemployment rate ticked down to 6.9 per cent, Statistics Canada said on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5916301e0d5595f4c65c5379ad7a48fb6a3648f8",
+      "url": "https://www.cbc.ca/news/world/us-ri-court-ruling-snap-benefits-9.6970546?cmp=rss",
+      "title": "Trump administration fights court ruling to pay food assistance to 42 million amid shutdown",
+      "published_at": "2025-11-07T02:40:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal judge has ordered U.S. President Donald Trump's administration to fully fund this month's food aid for 42 million low-income Americans by Friday, blocking its plan to only provide reduced benefits during the record-long government shutdown.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42c9f9090dd1fb34d1a2c26ee6fa7781f468a164",
+      "url": "https://www.cbc.ca/news/canada/north/yukon_elects_more_women_than_men-9.6969691?cmp=rss",
+      "title": "For the first time, Yukon's Legislative Assembly will have more women than men",
+      "published_at": "2025-11-07T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Eleven women and one non-binary MLA were elected in this week’s vote — making up 57 per cent of the legislature. It's the first time in Yukon history that men won't make up the majority of the territory's Legislative Assembly.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2973ff6d6fe073f77772c5e0d0c4f6d7923002da",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-sudanese-escalated-violence-9.6970343?cmp=rss",
+      "title": "Members of Canadian Sudanese community feel abandoned after violence escalates in Sudan",
+      "published_at": "2025-11-07T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Members of Toronto’s Sudanese community say they feel abandoned by the Canadian government amid escalating violence in Sudan.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.935,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7192b2c24a24aa407770f59aa55e70b90ed476c6",
+      "url": "https://www.cbc.ca/news/world/typhoon-kalmegai-friday-9.6970507?cmp=rss",
+      "title": "Typhoon Kalmaegi brings rain and destruction to Vietnam as death toll nears 190 in Philippines",
+      "published_at": "2025-11-06T23:52:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "At least five people died in Vietnam after Typhoon Kalmaegi pummelled coastal regions with destructive winds and heavy rain, officials said on Friday, following the storm's deadly passage through the Philippines where it killed at least 188 people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.967,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e5fb99e36134805ec81f386070b44da34010fa0c",
+      "url": "https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss",
+      "title": "Sudanese fighters accused of massacres use Canadian-made rifles",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Rapid Support Forces in Sudan, accused of civilian massacres, have posted numerous images posing with rifles bearing the logo of a small B.C. manufacturer called Sterling Cross Defense Systems. Experts say Canada needs to 'do better' to allow for public tracking of arms sales.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aa3cfa4d16a4cf263a493499e41bb8f8c670facd",
+      "url": "https://www.cbc.ca/news/business/snowbirds-us-registration-requirement-9.6970003?cmp=rss",
+      "title": "Worried about being fingerprinted? What snowbirds need to know about U.S. registration requirement",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As snowbirds flock to the border to escape the Canadian winter, many are encountering confusion as they try to comply with new U.S. registration requirements. Here's what we know about the new rules.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "20134b246b2e5bdc92cfe59191c4fc32d6b023e0",
+      "url": "https://www.cbc.ca/news/canada/canada-post-rotating-strikes-update-9.6968692?cmp=rss",
+      "title": "What's going on with the Canada Post strikes?",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than a month into rotating Canada Post strikes, workers and the businesses that use the national postal service are grappling with uncertainty.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e534a26584a859d23579c8106cbc4dd8a0554a08",
+      "url": "https://www.cbc.ca/news/politics/ottawa-alberta-mou-reset-relationship-oil-and-gas-cap-9.6969996?cmp=rss",
+      "title": "Ottawa and Alberta in formal talks to reset relationship after years of acrimony",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Alberta and federal governments are in negotiations to sign a major accord that could reset a relationship that had turned toxic for a decade.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "88977125e88b763247aa8db6d951786940260f68",
+      "url": "https://www.cbc.ca/news/canada/hamilton/dofasco-emissions-hamilton-residents-complaint-ontario-9.6969701?cmp=rss",
+      "title": "Hamilton residents request Ontario investigate ArcelorMittal Dofasco for releasing emissions far above limits",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With ArcelorMittal Dofasco stalling on its green steel plans and releasing emissions above Ontario’s air-quality regulations, Hamilton resident Jochen Bezner says Canada’s largest steelmaker needs to be held accountable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f407eaf6302d3390da8e5811111775de2e97cc05",
+      "url": "https://www.cbc.ca/news/canada/blue-jays-world-series-return-9.6968351?cmp=rss",
+      "title": "A Blue Jays return to the World Series next year won't be easy, but fans have hope",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It was a tough Game 7 loss on Saturday, and Blue Jays fans were still licking their World Series wounds this week when Toronto pitcher Shane Bieber exercised his player option, forgoing free agency to stay with the club. Just like that, fans, analysts — and even Blue Jays executives — were talking about the possibility that the team could be back on baseball's biggest stage next year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.799,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2f195ff4472ac9b8160185ff385b7baab931c506",
+      "url": "https://www.cbc.ca/news/marketplace/car-dealerships-ontario-price-9.6969143?cmp=rss",
+      "title": "Buying a new car? Hidden cameras show some Ontario dealerships adding extra charges and features",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Marketplace visited 15 car dealerships in the Greater Toronto Area with hidden cameras rolling, posing as customers to see if dealerships honour the price in their ads. We found out some car dealerships add extra charges or features.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c6a3494557948a99511dbea68fe60edba675fa2b",
+      "url": "https://www.cbc.ca/news/canada/calgary/low-oil-prices-canada-oilpatch-9.6969484?cmp=rss",
+      "title": "Low prices are hurting the oil sector, but Canada has a few advantages",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Canadian oil producers are grappling with low commodity prices, but analysts say the sector is buoyed by certain advantages unique to this side of the border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df2ddace7bf623ea63dfd53d63403d67ec9af738",
+      "url": "https://www.cbc.ca/news/politics/budget-vote-numbers-election-no-confidence-9.6969941?cmp=rss",
+      "title": "By the numbers: Here's what needs to happen in a budget vote to avoid an election",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Prime Minister Mark Carney’s government was elected just a few seats shy of a majority, meaning the Liberals will need the cooperation of one of the opposition parties to pass its budget.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0a50233ff09aa60c80a858e8790d59219518c95",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/hockey-canada-unveils-olympic-hockey-jerseys-9.6970478?cmp=rss",
+      "title": "Hockey Canada unveils jerseys for Olympic and Paralympic Games in Italy",
+      "published_at": "2025-11-06T18:29:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hockey Canada unveiled the Olympic hockey jerseys on Thursday for the men’s, women’s and Para teams that will compete at the Milan-Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2283a7c16b11bfc30fd47504b08294eb9131f928",
+      "url": "https://www.cbc.ca/player/play/9.6970425?cmp=rss",
+      "title": "#TheMoment Heather Hiscox hosted her final CBC Morning Live",
+      "published_at": "2025-11-06T17:05:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Heather Hiscox says goodbye to viewers across Canada as she hosts CBC Morning Live for the final time after 20 years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c03a3e4086994253c260473c9874554337ceaf5b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/gunshots-heard-edgewood-bc-farm-9.6970419?cmp=rss",
+      "title": "Shots ring out at Universal Ostrich farm in Edgewood, B.C.",
+      "published_at": "2025-11-06T17:03:43-05:00",
+      "section": "Canada",
+      "summary_auto": "It happened the same day the Supreme Court of Canada declined to hear an appeal to save the flock at Universal Ostrich from a cull ordered by the Canadian Food Inspection Agency (CFIA).",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f987a7670b51d0994c41a22654cdb325534eeebe",
+      "url": "https://www.cbc.ca/news/world/mexico-president-assault-9.6970266?cmp=rss",
+      "title": "Tepid reaction in Mexico to groping of president shows country has ‘normalized gender violence’: expert",
+      "published_at": "2025-11-06T16:05:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The tepid and partisan domestic reaction to the apparent sexual assault Tuesday of Mexican President Claudia Sheinbaum reveals how normalized gender violence has become in the country, according to experts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "389b7cefefe3224b03c777d8f57a26d0e2360ce8",
+      "url": "https://www.cbc.ca/news/entertainment/pluribus-vince-gilligan-review-9.6969384?cmp=rss",
+      "title": "Vince Gilligan's Pluribus is as great as you guessed it would be. It's also just as surreal",
+      "published_at": "2025-11-06T16:00:00-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Pluribus is a show about change — an insidiously joyful change that (without spoiling the goods) will eventually come for our main character, Carol, too. That is, unless she can figure out a way to undo what’s been wrought on the planet.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ddb7747ac858e7fd4a6377fb6f022c3e02cf431d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-communities-shut-water-intake-after-fuel-spill-9.6970280?cmp=rss",
+      "title": "Communities shut water intake from B.C. lake after fuel spill reaches 80,000 litres",
+      "published_at": "2025-11-06T15:41:44-05:00",
+      "section": "Canada",
+      "summary_auto": "A local official says small communities on Kamloops Lake in British Columbia have been shutting down their intakes from the waterway after it was revealed that more than 80,000 litres of aviation fuel spilled on its shores in a train derailment last weekend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "2643a8b80e991ab957975c36eb56e7142924f819",
       "url": "https://www.cbc.ca/news/world/us-senate-vote-venezuela-war-powers-9.6970156?cmp=rss",
       "title": "U.S. Senate Republicans veto legislation to limit Trump's ability to attack Venezuela",
       "published_at": "2025-11-06T14:50:22-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Senate Republicans voted to reject legislation Thursday that would have put a check on U.S. President Donald Trump's ability to launch an attack against Venezuela, as Democrats pressed Congress to take a stronger role in Trump's high-stakes campaign against Venezuelan President Nicolás Maduro.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,24 +290,11 @@
       }
     },
     {
-      "id": "c73b66906fab87360e785145d8875790a7cafd3c",
-      "url": "https://www.cbc.ca/news/science/cop30-climate-brazil-amazon-9.6969984?cmp=rss",
-      "title": "In the shadow of U.S. withdrawal, leaders urge action at COP30 UN climate summit in Brazil",
-      "published_at": "2025-11-06T14:20:30-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Brazilian President Luiz Inácio Lula da Silva hopes to convince world powers to mobilize enough funds to halt the ongoing destruction of climate-stabilizing tropical rainforests in danger around the world and advance the many unmet promises laid out at previous meetings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "017436be3120f6ae20b7d762a6db64aaa4fcfec6",
       "url": "https://www.cbc.ca/news/health/ozempic-trumprx-cheaper-insurance-9.6970197?cmp=rss",
       "title": "U.S. deal could cut costs for popular weight-loss drugs. What’s that mean for Canada?",
       "published_at": "2025-11-06T14:04:09-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "A new deal with major drugmakers, unveiled by U.S. President Donald Trump on Thursday, aims to expand coverage and cut prices for popular weight-loss drugs south of the border. So how much could Trump’s announcement really cut costs? And will Canadians also benefit?",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +307,7 @@
       "url": "https://www.cbc.ca/news/world/elon-musk-trillionaire-tesla-9.6970043?cmp=rss",
       "title": "Musk could become world's 1st trillionaire as Tesla shareholders approve giant pay package",
       "published_at": "2025-11-06T13:20:53-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Elon Musk won a shareholder vote on Thursday that would give the Tesla CEO stock worth $1 trillion if he hits certain performance targets over the next decade, handing him a chance to become history's first trillionaire.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +320,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/alberta-teachers-association-bill-2-court-challenge-notwithstanding-9.6969870?cmp=rss",
       "title": "Teachers' union taking Alberta government to court over notwithstanding clause",
       "published_at": "2025-11-06T11:11:07-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Alberta Teachers’ Association has filed a constitutional challenge of a provincial government law that forced educators across the province back to work and imposed a new contract.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/asirt-rcmp-investigation-wetaskiwin-teen-shooting-9.6969723?cmp=rss",
       "title": "Alberta RCMP officers won't be charged in fatal shooting of 15-year-old boy: police watchdog",
       "published_at": "2025-11-06T10:24:54-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "An Alberta Serious Response Incident Team investigation says the officers shot at the teenager up to 17 times as he came toward them in a field, holding his arm up in a backpack so that it appeared he was pointing a gun.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +359,7 @@
       "url": "https://www.cbc.ca/news/world/national-guard-sandwich-thrown-verdict-9.6968277?cmp=rss",
       "title": "Man who threw sandwich at U.S. federal agent found not guilty of assault",
       "published_at": "2025-11-06T09:40:44-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The man who threw a sandwich and became symbol of resistance to U.S. President Donald Trump's D.C. law enforcement surge has been found not guilty of assault.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,337 +372,12 @@
       "url": "https://www.cbc.ca/news/canada/toronto/in-photos-scenes-from-prince-harry-s-visit-in-toronto-9.6969575?cmp=rss",
       "title": "IN PHOTOS | Scenes from Prince Harry's visit in Toronto",
       "published_at": "2025-11-06T09:34:36-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Prince Harry, who served in Afghanistan as a member of the British military, is attending several events in Toronto commemorating veterans ahead of Remembrance Day.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "25259aa862a82ae750946ff789323de4e15ab410",
-      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-climate-budget-emissions-cap-9.6969420?cmp=rss",
-      "title": "Danielle Smith wants climate laws scrapped before Grey Cup. What will she offer in return?",
-      "published_at": "2025-11-06T08:53:52-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Before the 112th Grey Cup gets underway next week, Alberta Premier Danielle Smith is expecting a major chapter to unfold in the long-running federal-provincial battle over energy policy. But there are still unanswered questions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.013,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9d441213d2650a3b5d90efeb732cb5854d7b906d",
-      "url": "https://www.cbc.ca/news/science/northern-lights-chance-9.6969338?cmp=rss",
-      "title": "The northern lights could light up the sky on Thursday night",
-      "published_at": "2025-11-06T08:22:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Keep your fingers crossed for clear skies: the U.S. Space Weather Prediction Center is calling for a strong geomagnetic storm, which could produce the northern lights.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "69362271f06a10036f9a811ece23e3639795a87b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/new-study-finds-microplastics-in-edible-portions-of-lobster-tails-harvested-off-n-s-9.6967821?cmp=rss",
-      "title": "New N.S. study finds microplastics in edible portions of lobster tails",
-      "published_at": "2025-11-06T08:03:31-05:00",
-      "section": "Canada",
-      "summary_auto": "Dalhousie University researchers found an average of six to seven microplastic particles per gram of meat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a951c188edddd804b8ff0ee42d6f2502613c314c",
-      "url": "https://www.cbc.ca/news/entertainment/ai-artist-xania-monet-radio-billboard-chart-9.6967542?cmp=rss",
-      "title": "AI artist Xania Monet has hit the Billboard charts. What does it mean for 'real' musicians?",
-      "published_at": "2025-11-06T07:38:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Xania Monet has become the first AI-generated artist to debut on a Billboard airplay chart — and her success is raising questions about what the future could hold for human artists looking to achieve the same feat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d118fd37a0da4ceb65b30881829addd6c6b738d6",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-teacher-pleads-guilty-9.6969331?cmp=rss",
-      "title": "Ontario Grade 8 teacher pleads guilty to sex crimes against students",
-      "published_at": "2025-11-06T07:24:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An Ontario Grade 8 teacher who used Snapchat to send and solicit nude pictures from former students has pleaded guilty to luring and child pornography charges.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "165faf39b018a52eee6422a6031224c17bcbb229",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-finance-minister-providing-fall-economic-update-9.6969263?cmp=rss",
-      "title": "What's in store for Ontario's economy? Slower growth and a challenging labour market: province",
-      "published_at": "2025-11-06T07:24:02-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario's deficit projection is shrinking in its fall fiscal update, but so are the province's expectations for the labour market as U.S. tariffs are expected to continue hitting the economy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.064,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5ca8012fa93bf750eb0514e936002c17c77e26ef",
-      "url": "https://www.cbc.ca/news/world/boeing-criminal-case-agreement-9.6969078?cmp=rss",
-      "title": "Boeing officially off the hook for criminal charges in deadly crashes that killed 346 people",
-      "published_at": "2025-11-06T06:42:49-05:00",
-      "section": "World",
-      "summary_auto": "A U.S. judge on Thursday approved a request by the Justice Department to dismiss a criminal case against Boeing stemming from two fatal 737 MAX plane crashes that killed 346 people including 18 Canadians.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.945,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50773b5eb3faaba51b158747db434d98e568dfe1",
-      "url": "https://www.cbc.ca/news/canada/calgary/meg-cenovus-energy-deal-oilsands-9.6969279?cmp=rss",
-      "title": "MEG-Cenovus deal clears key shareholder vote after delays",
-      "published_at": "2025-11-06T06:36:19-05:00",
-      "section": "Business",
-      "summary_auto": "MEG Energy Corp. shareholders have given their blessing to an $8.6-billion takeover by fellow oilsands producer Cenovus Energy Inc.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2faae5b626f328faa7772380bc64cfa482e46b6e",
-      "url": "https://www.cbc.ca/news/canada/toronto/prince-harry-blue-jays-veterans-toronto-9.6969181?cmp=rss",
-      "title": "Prince Harry jokes he was 'under duress' while wearing Dodgers cap at World Series",
-      "published_at": "2025-11-06T05:52:37-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prince Harry joked in Toronto that he was \"under duress\" when he wore a Los Angeles Dodgers hat during a World Series game against the Blue Jays last week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ca10da24e33598cc7135c1afeede402046fd5e61",
-      "url": "https://www.cbc.ca/news/canada/toronto/brampton-fatal-crash-victim-found-later-9.6969088?cmp=rss",
-      "title": "Body of 2nd victim in fatal Brampton, Ont., crash only discovered once car was in police impound lot",
-      "published_at": "2025-11-06T05:45:08-05:00",
-      "section": "Canada",
-      "summary_auto": "Peel police say that the second victim in a crash involving a youth driver in Brampton Saturday was found hours after the collision, after the two vehicles had already been transported to the police impound yard.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ed75c44f4f70d5cfcd8f0c029df27807437ef83",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/supreme-court-saskatchewan-pronoun-9.6969079?cmp=rss",
-      "title": "Supreme Court will hear appeals of Saskatchewan's school pronoun law",
-      "published_at": "2025-11-06T05:21:23-05:00",
-      "section": "Canada",
-      "summary_auto": "No date has been set for the court to hear the cross appeals from the provincial government and UR Pride on the province's school pronoun law, which prevents children under 16 from changing their names or pronouns at school without parental consent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.532,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "13849a32f2649ecf5a6dfd1301693bafff31ee96",
-      "url": "https://www.cbc.ca/news/world/sudan-rsf-humanitarian-ceasefire-9.6969004?cmp=rss",
-      "title": "Sudan's paramilitary force agrees to U.S. proposal for humanitarian ceasefire",
-      "published_at": "2025-11-06T05:02:28-05:00",
-      "section": "World",
-      "summary_auto": "Sudan's paramilitary Rapid Support Forces (RSF) agreed to a proposal from the United States for a humanitarian ceasefire, the group said on Thursday in a statement.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "45fe8a284700a37867f2cf6057c6eaf3e5979721",
-      "url": "https://www.cbc.ca/news/canada/ottawa/febrio-dezoysa-ottawa-barrhaven-stabbing-2024-trial-9.6967788?cmp=rss",
-      "title": "Man pleads guilty to 'monstrous' 2024 stabbing attack that killed 6",
-      "published_at": "2025-11-06T04:24:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The man behind a mass stabbing in Ottawa last year — described by the judge as a \"monstrous, even demonic\" act — pleaded guilty Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.922,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98713a41964527d37a50d5acb8b8d6ccc3553c4c",
-      "url": "https://www.cbc.ca/news/world/mexico-manzo-assassination-9.6968796?cmp=rss",
-      "title": "Cartel-fighting mayor’s assassination in Mexico’s avocado heartland fuels citizen fury",
-      "published_at": "2025-11-06T04:23:48-05:00",
-      "section": "World",
-      "summary_auto": "Uruapan Mayor Carlos Manzo’s killing triggered a spasm of fury that has fuelled protests across the fertile Mexican state of Michoacan, which produces limes and avocados found on Canadian grocery shelves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.956,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "048e1be8c3909e4a2fec1c0bfe8cc6c022d14b82",
-      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-strikes-hezbollah-9.6968950?cmp=rss",
-      "title": "Israel strikes south Lebanon despite ceasefire, says it’s targeting Hezbollah military sites",
-      "published_at": "2025-11-06T04:19:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Israeli jets struck several towns in southern Lebanon on Thursday, marking an escalation in their near-daily strikes on the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ef8ac5d68d0700ea169806272f814ec6ad4724f",
-      "url": "https://www.cbc.ca/news/entertainment/david-common-morning-live-9.6968932?cmp=rss",
-      "title": "David Common announced as CBC’s new Morning Live host",
-      "published_at": "2025-11-06T04:11:49-05:00",
-      "section": "Canada",
-      "summary_auto": "Veteran reporter and current Metro Morning radio host David Common will replace Heather Hiscox as host of CBC Morning Live, the Crown corporation announced Thursday. The announcement comes on the same day as Hiscox’s final broadcast as host and 20 years after she first took over the position.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0719f12befcbd51ca056538a396f398baf121376",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-ostrich-farm-decision-scoc-9.6968394?cmp=rss",
-      "title": "Hundreds of ostriches at B.C. farm to be killed after top court dismisses appeal to stop cull",
-      "published_at": "2025-11-06T03:57:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7e09d3eaa2737bafeb2abd3db9ac3b5957a0b503",
-      "url": "https://www.cbc.ca/news/world/france-louvre-security-needs-auditor-report-9.6968856?cmp=rss",
-      "title": "French auditor's report raps Louvre for excessive art acquisitions even as most rooms lacked cameras",
-      "published_at": "2025-11-06T02:18:20-05:00",
-      "section": "World",
-      "summary_auto": "France's Louvre Museum began a security audit a decade ago but the recommended upgrades will not be completed until 2032, the state auditor said in a report on Thursday compiled before a spectacular heist there last month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "17155999b688a4dc75c285d2641add10ca9ffab3",
-      "url": "https://www.cbc.ca/news/world/typhoon-kalmaegi-vietnam-philippine-9.6968843?cmp=rss",
-      "title": "Vietnam evacuates hundreds of thousands as Typhoon Kalmaegi lands after leaving 114 dead in Philippines",
-      "published_at": "2025-11-06T01:17:29-05:00",
-      "section": "World",
-      "summary_auto": "Typhoon Kalmaegi slammed into Vietnam on Thursday, forcing authorities to cancel hundreds of flights and order people to \nstay indoors, two days after the storm started sweeping across the Philippines, killing at least 114 people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.893,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f3158d76de0b7a140cbf250d43b7b674a2b00ce",
-      "url": "https://www.cbc.ca/news/health/cancer-cholesterol-genetics-project-9.6968332?cmp=rss",
-      "title": "Hereditary cancer, high cholesterol risk for 100,000 Canadians to be checked in genetic screening project",
-      "published_at": "2025-11-06T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Over the the next five years, up to 100,000 people in Ontario will be screened for genetic conditions that increase their risk of hereditary cancers and a condition tied to high cholesterol and heart disease, says Princess Margaret Cancer Centre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0d82e2c07790c42d4ad14acb85e3744a34bcdffa",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/high-income-nova-scotians-2023-statistics-canada-9.6966187?cmp=rss",
-      "title": "Here's how much money you needed to make to be among Nova Scotia's top earners",
-      "published_at": "2025-11-06T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "New numbers from Statistics Canada reveal how much the highest-income Nova Scotians make. The information is based on tax filings for 2023.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01a9d39671f7c59718d894b9b13814ca151a1c8b",
-      "url": "https://www.cbc.ca/radio/thecurrent/margaret-atwood-book-of-lives-9.6961609?cmp=rss",
-      "title": "Margaret Atwood on reading palms, getting older — and holding grudges",
-      "published_at": "2025-11-05T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Margaret Atwood’s new memoir Book of Lives explores how the world has shaped her writing, and how that writing in turn shaped her life",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "847a5be77fb4672f2d246daebb0448242b178869",
-      "url": "https://www.cbc.ca/news/canada/national-school-food-9.6966685?cmp=rss",
-      "title": "The budget aims for a permanent school food program. But that doesn't mean free lunches for everyone",
-      "published_at": "2025-11-05T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "School food advocates welcome the federal budget pledge for a permanent national program with dedicated funding annually. Yet given the current patchwork of offerings in place, experts say there's much work ahead to ensure all kids can access a robust and sustainable food program at school.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.899,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4ecac253e44c5277089aeb0beb308bc42494da7e",
-      "url": "https://www.cbc.ca/news/science/bill-gates-memo-climate-change-9.6967961?cmp=rss",
-      "title": "Did Bill Gates really say we don't need to address climate change?",
-      "published_at": "2025-11-05T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Microsoft co-founder and philanthropist Bill Gates has been in the news of late, with claims that he has changed his stance on climate change, following a memo he posted on his website. But is that really the case?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8e7dfe2fd2315defb02c44831d906e9f946daf71",
-      "url": "https://www.cbc.ca/news/business/ai-economy-human-labour-data-annotation-fine-tuning-jobs-9.6967918?cmp=rss",
-      "title": "The hidden humans powering the AI economy",
-      "published_at": "2025-11-05T23:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "We usually hear two sides to the AI and employment story: star engineers earning enormous salaries, and job loss for many others. But from gig workers paid poorly to annotate data, to people with advanced degrees training specialized AI, it takes a huge labour force to develop AI.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "medium"
       }
     }
   ]
