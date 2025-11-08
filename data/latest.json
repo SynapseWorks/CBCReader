@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-08T09:12:09.194312-05:00",
+  "generated_at": "2025-11-08T15:14:01.606604-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3f3bb2da7ab1b458714ebbb8155a79aa9dcced30",
+      "url": "https://www.cbc.ca/player/play/9.6972369?cmp=rss",
+      "title": "Toronto children’s charity wins big following Jays-Dodgers rivalry",
+      "published_at": "2025-11-08T09:00:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Los Angeles Dodgers fans donated $30,000 to Toronto’s SickKids Hospital following their team’s World Series win — picking up a trend Toronto Blue Jays fans started during their post-season run.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.883,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b9913b0992d6021bef669e631308c24288fcec2f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/trailer-park-boys-star-sexual-assault-charge-bubbles-9.6972349?cmp=rss",
+      "title": "Mike Smith, Bubbles on Trailer Park Boys, charged with sexual assault",
+      "published_at": "2025-11-08T07:58:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mike Smith, the actor famous for playing Bubbles on Trailer Park Boys, has been charged with sexual assault in relation to an alleged 2017 incident in Dartmouth.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff4e02488cb7a77aadb4938e7dd919c98c554978",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-george-springer-wins-silver-slugger-award-9.6972323?cmp=rss",
+      "title": "Blue Jays' Springer wins Silver Slugger award after resurgent season",
+      "published_at": "2025-11-08T06:48:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Toronto Blue Jays leadoff hitter George Springer has won a Silver Slugger award after a resurgent season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.937,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a2deb724bad5df9cd95a32fd4ee0f511524a666d",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/grounded-container-ship-msc-baltic-iii-damaged-by-extreme-wind-and-rough-seas-9.6972283?cmp=rss",
+      "title": "Grounded container ship MSC Baltic III damaged by 'extreme wind' and rough seas",
+      "published_at": "2025-11-08T06:16:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Crews are assessing the damage to the container ship, grounded off Newfoundland's west coast since February.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42cf802269f3b6f79ec8f5b35859d002163ef24c",
+      "url": "https://www.cbc.ca/news/world/fatal-tornado-brazil-9.6972299?cmp=rss",
+      "title": "Tornado in Brazil kills 6, injures hundreds",
+      "published_at": "2025-11-08T06:13:05-05:00",
+      "section": "World",
+      "summary_auto": "A tornado accompanied by strong winds and heavy rain struck the southern Brazilian state of Parana, killing six people, the state government said on Saturday. The town of Rio Bonito do Iguaçu was hit hardest late Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e552047741ba720f81331387af13bf54fdb6abd6",
+      "url": "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss",
+      "title": "UPS, FedEx ground MD-11 air cargo fleets after deadly Louisville, Ky., crash",
+      "published_at": "2025-11-08T04:29:08-05:00",
+      "section": "World",
+      "summary_auto": "United Parcel Service and FedEx said on Friday they have grounded their combined fleet of more than 50 McDonnell Douglas MD-11 cargo planes following a crash in Louisville, Ky., this week that killed at least 14 people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f81c2361baa5083c7a28caec9304f6b42098bbc",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-general-strike-legal-explainer-9.6971345?cmp=rss",
+      "title": "An Alberta general strike raises many questions. Key among them are if — and when",
+      "published_at": "2025-11-08T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "What are the legalities around a general strike? What moves could the Alberta government take to stop it? And if it does go ahead, when should it happen?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.578,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "d5bf3fc6104685a7e347853c8f92c1cd10e3dfb2",
       "url": "https://www.cbc.ca/news/world/tanzania-police-opposition-arrests-9.6972178?cmp=rss",
@@ -13,6 +104,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a92a762150140d61b69823a42fbad77fd3a2546b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/grunthal-parents-illness-florida-genetic-sequencing-9.6962455?cmp=rss",
+      "title": "Mystery illness has Manitoba parents seeking genetic answers in Florida",
+      "published_at": "2025-11-08T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Only a week after Beau Friesen was born, his parents knew something was wrong, but two years later, they still don't know what. Now, the Grunthal, Man., family is going to Florida to see a genetics expert in search of answers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
         "subjectivity_hint": "low"
       }
     },
@@ -30,16 +134,16 @@
       }
     },
     {
-      "id": "3be44a8a029ab84f82e81003fc008ce119663629",
-      "url": "https://www.cbc.ca/news/world/faa-flight-cancellations-q-and-a-9.6971977?cmp=rss",
-      "title": "Hundreds more U.S. flights could be cancelled today. Here’s what you need to know",
-      "published_at": "2025-11-07T23:00:00-05:00",
+      "id": "6afd1714d3ee0372da15cd9aad1d368dc31ab9b5",
+      "url": "https://www.cbc.ca/news/indigenous/indigenous-veterans-day-9.6971286?cmp=rss",
+      "title": "3 Sask. men reflect on Indigenous Veterans Day",
+      "published_at": "2025-11-08T00:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Hundreds of flights have been cancelled across the U.S. this week — with more expected in the coming days — as airlines comply with a mandated reduction in service due to the ongoing government shutdown.",
+      "summary_auto": "Three First Nations men from Saskatchewan who served in the Canadian Armed Forces say National Indigenous Veterans Day on Nov. 8 is a time to reflect.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -52,6 +156,84 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f117cf2a40a55614827054eacae178a1b40b60bd",
+      "url": "https://www.cbc.ca/news/world/topshots-2025-11-08-9.6968008?cmp=rss",
+      "title": "IN PHOTOS | This week's most compelling images",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Photographers from CBC News, The Canadian Press, Reuters and others document our changing world every day. Here's a selection of the week's top images.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.458,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a3e6a13efd6d62e70e6001fbd24905430d31fc00",
+      "url": "https://www.cbc.ca/radio/costofliving/booze-free-costly-9.6969478?cmp=rss",
+      "title": "Why your booze-free drink costs just as much as the alcoholic kind",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "You might skip the alcohol, but you won’t skip the price tag. Here’s why booze-free drinks cost almost as much as the real thing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c5c0ec6e31e2e39c3f0a706135d61553fd5e7d15",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-jimmy-lai-family-mayor-g7-ministers-9.6971192?cmp=rss",
+      "title": "Niagara family, mayor call for hotelier Jimmy Lai's release from Hong Kong prison as G7 ministers set to meet",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As G7 foreign ministers prepare to meet in Ontario's Niagara Region, family of hotel owner Jimmy Lai and Niagara-on-the-Lake’s lord mayor are calling for the pro-democracy activist's release from a Hong Kong prison. \"I would love for my cousins to be able to just hug their dad before he dies,\" his niece told CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "4c081f36d88f78d07142309cd5897573f701b363",
+      "url": "https://www.cbc.ca/news/canada/montreal/hockey-hall-of-fame-daniele-sauvageau-induction-builder-9.6971174?cmp=rss",
+      "title": "How the woman who wasn't allowed to play built a future for Canadian hockey",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Danièle Sauvageau, the girl who grew up in Deux-Montanges, Que., and wasn’t allowed to play on an organized hockey team because she wasn’t a boy, is now the first woman 'Builder' inducted into the Hockey Hall of Fame.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.505,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42980044232528b701a5b15dddf8be2f26102f5d",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/first-person-black-immigrant-in-atlantic-canada-9.6959771?cmp=rss",
+      "title": "It's not easy being a Black immigrant woman in Atlantic Canada",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Chef, actor, writer and entrepreneur Angeletta McKenzie writes about her struggles moving from Jamaica to St. John's, and how she learned to make space for herself and other immigrants.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.6,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3be44a8a029ab84f82e81003fc008ce119663629",
+      "url": "https://www.cbc.ca/news/world/faa-flight-cancellations-q-and-a-9.6971977?cmp=rss",
+      "title": "Hundreds more U.S. flights could be cancelled today. Here’s what you need to know",
+      "published_at": "2025-11-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hundreds of flights have been cancelled across the U.S. this week — with more expected in the coming days — as airlines comply with a mandated reduction in service due to the ongoing government shutdown.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
         "subjectivity_hint": "medium"
       }
     },
@@ -69,38 +251,12 @@
       }
     },
     {
-      "id": "017286d80c02e5f2656dce8ff83e54a0edaa3a0c",
-      "url": "https://www.cbc.ca/news/politics/carney-budget-international-development-assistance-9.6971350?cmp=rss",
-      "title": "Budget's $2.7B cut to foreign aid leaves international development in limbo, say NGOs",
+      "id": "b1f702309eaed6d55c9b2360aba6276685c78be4",
+      "url": "https://www.cbc.ca/news/canada/toronto/city-of-oshawa-tree-sewage-back-up-durham-region-9.6969819?cmp=rss",
+      "title": "A City of Oshawa tree caused sewage to back up in this woman’s home. But the region won’t cover plumbing costs",
       "published_at": "2025-11-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada is being accused of retreating from its role as an international development leader after the Liberal government’s budget announced it will cut $2.7 billion in foreign aid over the next four years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3aa3dd7291e70200948a086b97bca2ed89711c7b",
-      "url": "https://www.cbc.ca/news/world/us-supreme-court-snap-ruling-trump-9.6972034?cmp=rss",
-      "title": "U.S. Supreme Court allows Trump admin to avoid fully funding SNAP payments for now",
-      "published_at": "2025-11-07T16:36:16-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Supreme Court on Friday allowed U.S. President Donald Trump's administration to withhold for now about $4 billion US needed to fully fund a food aid program for 42 million low-income Americans this month amid the federal government shutdown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0778fdb66c330446cdbe0ebf84a08ab152fc47c4",
-      "url": "https://www.cbc.ca/news/world/trump-national-guard-troops-portland-illegal-judge-rules-9.6972044?cmp=rss",
-      "title": "Trump's order to send National Guard troops to Portland, Ore., was illegal, U.S. judge rules",
-      "published_at": "2025-11-07T15:47:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump unlawfully ordered National Guard troops to Portland, Oregon, a federal judge ruled Friday, a legal setback to the administration's use of the military in American cities.",
+      "section": "Canada",
+      "summary_auto": "An Oshawa woman is warning other homeowners after Durham Region declined to cover $1,600 in plumbing costs caused by a city-owned tree, citing a bylaw.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.477,
@@ -108,145 +264,28 @@
       }
     },
     {
-      "id": "871c3a63e91437876f5dcd7d1203dabd1e509ce1",
-      "url": "https://www.cbc.ca/player/play/9.6972043?cmp=rss",
-      "title": "Are Trump’s global tariffs illegal? | About That",
-      "published_at": "2025-11-07T15:42:10-05:00",
+      "id": "9f860c5ab8c285f5748c71e88ae31de43cb0355c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/dulf-compassion-club-guilty-drug-trafficking-9.6972135?cmp=rss",
+      "title": "Drug User Liberation Front founders found guilty of drug trafficking",
+      "published_at": "2025-11-07T18:04:52-05:00",
       "section": "Top Stories",
-      "summary_auto": "Has Congress given the U.S. president the power to impose sweeping tariffs through the International Emergency Economic Powers Act? The Supreme Court will make a decision in a ruling that could restrain the Trump administration’s primary economic and foreign policy tool. Andrew Chang breaks down the central arguments for and against President Donald Trump’s use of the statute to impose worldwide tariffs — and explains why the justices don't seem convinced.",
+      "summary_auto": "A B.C. Supreme Court judge ruled Friday that Jeremy Kalicum and Eris Nyx had broken the law by selling the drugs to their members, and were each guilty of three counts of possession for the purpose of trafficking.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.884,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4f243521e803aaecb8dc33433e87d1a730f5b295",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-inuit-association-terminates-ceo-9.6972021?cmp=rss",
-      "title": "Manitoba Inuit Association terminates former CEO amid abuse allegations",
-      "published_at": "2025-11-07T15:25:18-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Manitoba Inuit Association has terminated its former CEO, Nastania Mullin, one week after an Ottawa woman came forward with allegations of abuse, amid a growing #InuitMeToo movement expressing concerns about his conduct.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.827,
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "8cce7dc5be21a42bec3eb5ee70ac7418120a93c4",
-      "url": "https://www.cbc.ca/player/play/9.6972015?cmp=rss",
-      "title": "Could Canada join Eurovision?",
-      "published_at": "2025-11-07T14:58:34-05:00",
+      "id": "13ddd176647bb6b2f8e1e6bf18b119e75e9dfff4",
+      "url": "https://www.cbc.ca/player/play/9.6972124?cmp=rss",
+      "title": "Drought leaves some Canadians struggling for water as wells run dry",
+      "published_at": "2025-11-07T17:24:53-05:00",
       "section": "Top Stories",
-      "summary_auto": "Government job cuts, more defence spending and … getting Canada into Eurovision? The budget promise has Europop fans excited, but CBC’s Abby Hughes explains why sending a Canadian to the campy song competition isn’t an easy feat.",
+      "summary_auto": "Drought conditions are lingering across the country and some wells have run dry, forcing people to haul water or pay the steep cost to drill a new well.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.785,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7190d66382002ae6c3d2f7712ac31280821c8fe0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/chat-rcmp-officers-sexist-racist-posts-9.6971622?cmp=rss",
-      "title": "B.C. RCMP officers violated code of conduct with racist, sexist messages: adjudicator",
-      "published_at": "2025-11-07T12:51:02-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An RCMP adjudicator has found three Coquitlam RCMP constables failed to treat people with respect and courtesy when they posted racist, sexist and homophobic comments in a group chat with other officers and on police computer terminals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "09febf199529b66b7d7e40b2398e6a631a5de13e",
-      "url": "https://www.cbc.ca/news/world/failed-amateur-spy-jailed-britain-russia-9.6971590?cmp=rss",
-      "title": "British man with James Bond dreams jailed for trying to pass secrets to Russia",
-      "published_at": "2025-11-07T12:13:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A British man who would \"dream about being like James Bond\" was jailed Friday for seven years after trying to spy for Russia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "30971fc7eeeca9c05036a4ac2a421502276465c9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/100-mile-house-mill-closure-job-losses-9.6971437?cmp=rss",
-      "title": "West Fraser to shut mill in 100 Mile House, B.C., amid market challenges",
-      "published_at": "2025-11-07T11:42:24-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The community’s mayor estimates at least 500 more jobs will be indirectly impacted and says she worries the closure could push people to leave the lumber town.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c9989da553a89ba2debf9ae97011b1926c04ab89",
-      "url": "https://www.cbc.ca/news/health/watson-james-obituary-9.6971457?cmp=rss",
-      "title": "James Watson, co-discoverer of DNA's double-helix shape, dead at 97",
-      "published_at": "2025-11-07T11:13:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "James D. Watson, the brilliant but controversial American biologist whose 1953 discovery of the structure of DNA, the molecule of heredity, ushered in the age of genetics and provided the foundation for the biotechnology revolution of the late 20th century, has died at the age of 97.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.81,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cd25f763b04e928ce9645fb71e008dd5ce3b7b9b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/northeast-b-c-measles-spike-9.6971224?cmp=rss",
-      "title": "Measles exposures spike in northeast B.C., with another 29 suspected cases",
-      "published_at": "2025-11-07T10:11:24-05:00",
-      "section": "Health",
-      "summary_auto": "Health officials say the virus continues to spread quickly through unvaccinated families and believe the true number of infections is likely higher than reported.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "587b19969540d877f961322c97c60d1ad39e0db5",
-      "url": "https://www.cbc.ca/radio/thecurrent/ukraine-drone-war-points-system-9.6971249?cmp=rss",
-      "title": "Ukraine soldiers now earn points for confirmed kills, prompting fears of a gamified war",
-      "published_at": "2025-11-07T09:54:09-05:00",
-      "section": "World",
-      "summary_auto": "An incentive program allows Ukrainian drone operators to compete for points, which are redeemable for new weapons and equipment online.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c00e8940b8e26331268b148ef81ac01335572e76",
-      "url": "https://www.cbc.ca/radio/quirks/bobs-blog-nasa-budget-cuts-9.6971123?cmp=rss",
-      "title": "How NASA’s proposed budget cuts could threaten the future of space exploration",
-      "published_at": "2025-11-07T09:52:18-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "A tremendous effort is underway at NASA to send humans to Mars and return astronauts to the moon, including the flight  of Canadian Jeremy Hanson on Artemis II early next year. Meanwhile, every other research program at the space agency is facing cuts. The US administration has  proposed a 24 per cent cut  to NASA’s budget, which would make it the smallest NASA budget since before human spaceflight programs began in 1961.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "94e01d5da2781d94ec9fe35963298b8a1abc96bb",
-      "url": "https://www.cbc.ca/news/canada/starbucks-bearista-mug-9.6970680?cmp=rss",
-      "title": "Starbucks apologizes for its bear cup drama. What's behind the 'Bearista' frenzy?",
-      "published_at": "2025-11-07T09:47:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Coffee chain Starbucks released a $43.95 \"Bearista\" glass cold cup Thursday as part of its new holiday collection, and not only did the hat-topped tumbler sell out almost immediately, but videos circulating online show customers fighting each other to get their paws on one.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.226,
         "subjectivity_hint": "low"
       }
     }
