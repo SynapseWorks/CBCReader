@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-07T20:04:40.918987-05:00",
+  "generated_at": "2025-11-07T21:58:26.577301-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3aa3dd7291e70200948a086b97bca2ed89711c7b",
+      "url": "https://www.cbc.ca/news/world/us-supreme-court-snap-ruling-trump-9.6972034?cmp=rss",
+      "title": "U.S. Supreme Court allows Trump admin to avoid fully funding SNAP payments for now",
+      "published_at": "2025-11-07T16:36:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. Supreme Court on Friday allowed U.S. President Donald Trump's administration to withhold for now about $4 billion US needed to fully fund a food aid program for 42 million low-income Americans this month amid the federal government shutdown.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0778fdb66c330446cdbe0ebf84a08ab152fc47c4",
+      "url": "https://www.cbc.ca/news/world/trump-national-guard-troops-portland-illegal-judge-rules-9.6972044?cmp=rss",
+      "title": "Trump's order to send National Guard troops to Portland, Ore., was illegal, U.S. judge rules",
+      "published_at": "2025-11-07T15:47:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump unlawfully ordered National Guard troops to Portland, Oregon, a federal judge ruled Friday, a legal setback to the administration's use of the military in American cities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "871c3a63e91437876f5dcd7d1203dabd1e509ce1",
+      "url": "https://www.cbc.ca/player/play/9.6972043?cmp=rss",
+      "title": "Are Trump’s global tariffs illegal? | About That",
+      "published_at": "2025-11-07T15:42:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Has Congress given the U.S. president the power to impose sweeping tariffs through the International Emergency Economic Powers Act? The Supreme Court will make a decision in a ruling that could restrain the Trump administration’s primary economic and foreign policy tool. Andrew Chang breaks down the central arguments for and against President Donald Trump’s use of the statute to impose worldwide tariffs — and explains why the justices don't seem convinced.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.884,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4f243521e803aaecb8dc33433e87d1a730f5b295",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-inuit-association-terminates-ceo-9.6972021?cmp=rss",
+      "title": "Manitoba Inuit Association terminates former CEO amid abuse allegations",
+      "published_at": "2025-11-07T15:25:18-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Manitoba Inuit Association has terminated its former CEO, Nastania Mullin, one week after an Ottawa woman came forward with allegations of abuse, amid a growing #InuitMeToo movement expressing concerns about his conduct.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8cce7dc5be21a42bec3eb5ee70ac7418120a93c4",
+      "url": "https://www.cbc.ca/player/play/9.6972015?cmp=rss",
+      "title": "Could Canada join Eurovision?",
+      "published_at": "2025-11-07T14:58:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Government job cuts, more defence spending and … getting Canada into Eurovision? The budget promise has Europop fans excited, but CBC’s Abby Hughes explains why sending a Canadian to the campy song competition isn’t an easy feat.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.785,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7190d66382002ae6c3d2f7712ac31280821c8fe0",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/chat-rcmp-officers-sexist-racist-posts-9.6971622?cmp=rss",
+      "title": "B.C. RCMP officers violated code of conduct with racist, sexist messages: adjudicator",
+      "published_at": "2025-11-07T12:51:02-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An RCMP adjudicator has found three Coquitlam RCMP constables failed to treat people with respect and courtesy when they posted racist, sexist and homophobic comments in a group chat with other officers and on police computer terminals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "09febf199529b66b7d7e40b2398e6a631a5de13e",
       "url": "https://www.cbc.ca/news/world/failed-amateur-spy-jailed-britain-russia-9.6971590?cmp=rss",
@@ -73,7 +151,7 @@
       "url": "https://www.cbc.ca/radio/thecurrent/ukraine-drone-war-points-system-9.6971249?cmp=rss",
       "title": "Ukraine soldiers now earn points for confirmed kills, prompting fears of a gamified war",
       "published_at": "2025-11-07T09:54:09-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "An incentive program allows Ukrainian drone operators to compete for points, which are redeemable for new weapons and equipment online.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,19 +251,6 @@
       }
     },
     {
-      "id": "e5fb99e36134805ec81f386070b44da34010fa0c",
-      "url": "https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss",
-      "title": "Sudanese fighters accused of massacres use Canadian-made rifles",
-      "published_at": "2025-11-07T07:20:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "4d2fc50c6c43ffb3326efd9387d48f6d9d820163",
       "url": "https://www.cbc.ca/news/entertainment/grammy-awards-2026-nominations-9.6969703?cmp=rss",
       "title": "Kendrick Lamar leads 2026 Grammy nominations, followed by Lady Gaga, Jack Antonoff and Cirkut",
@@ -195,32 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e8ddecd8a82a8f9d742ac6c892b11ddd8b346650",
-      "url": "https://www.cbc.ca/news/canada/manitoba/elston-bostock-guilty-winnipeg-police-9.6970793?cmp=rss",
-      "title": "Winnipeg police officer pleads guilty to offences including voiding tickets, stealing cannabis from scene",
-      "published_at": "2025-11-07T06:35:32-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Const. Elston Bostock, who has worked with the Winnipeg Police Service for more than two decades, has admitted to offences including getting traffic tickets voided in exchange for liquor and gift cards, sharing confidential police information and sending lewd texts about a photo he took of the nearly naked body of a dead woman.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8afab8f525138c04f68cabcd389c94e3488f044",
-      "url": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
-      "title": "Canada's economy added 67,000 jobs, beating economists' expectations",
-      "published_at": "2025-11-07T05:16:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
         "subjectivity_hint": "low"
       }
     },
@@ -320,25 +359,12 @@
       "url": "https://www.cbc.ca/news/canada/canada-post-rotating-strikes-update-9.6968692?cmp=rss",
       "title": "What's going on with the Canada Post strikes?",
       "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "More than a month into rotating Canada Post strikes, workers and the businesses that use the national postal service are grappling with uncertainty.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.751,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e534a26584a859d23579c8106cbc4dd8a0554a08",
-      "url": "https://www.cbc.ca/news/politics/ottawa-alberta-mou-reset-relationship-oil-and-gas-cap-9.6969996?cmp=rss",
-      "title": "Ottawa and Alberta in formal talks to reset relationship after years of acrimony",
-      "published_at": "2025-11-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Alberta and federal governments are in negotiations to sign a major accord that could reset a relationship that had turned toxic for a decade.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -394,6 +420,19 @@
       }
     },
     {
+      "id": "e534a26584a859d23579c8106cbc4dd8a0554a08",
+      "url": "https://www.cbc.ca/news/politics/ottawa-alberta-mou-reset-relationship-oil-and-gas-cap-9.6969996?cmp=rss",
+      "title": "Ottawa and Alberta in formal talks to reset relationship after years of acrimony",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Alberta and federal governments are in negotiations to sign a major accord that could reset a relationship that had turned toxic for a decade.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "88977125e88b763247aa8db6d951786940260f68",
       "url": "https://www.cbc.ca/news/canada/hamilton/dofasco-emissions-hamilton-residents-complaint-ontario-9.6969701?cmp=rss",
       "title": "Hamilton residents request Ontario investigate ArcelorMittal Dofasco for releasing emissions far above limits",
@@ -416,6 +455,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e5fb99e36134805ec81f386070b44da34010fa0c",
+      "url": "https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss",
+      "title": "Sudanese fighters accused of massacres use Canadian-made rifles",
+      "published_at": "2025-11-06T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "The Rapid Support Forces in Sudan, accused of civilian massacres, have posted numerous images posing with rifles bearing the logo of a small B.C. manufacturer called Sterling Cross Defense Systems. Experts say Canada needs to 'do better' to allow for public tracking of arms sales.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
         "subjectivity_hint": "low"
       }
     }
