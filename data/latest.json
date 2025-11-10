@@ -1,18 +1,83 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-09T15:14:23.908711-05:00",
+  "generated_at": "2025-11-09T20:11:20.713929-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e22720665f3eded8c299b6cea765b017fa8effc2",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-first-flu-death-9.6972740?cmp=rss",
+      "title": "First flu death of the season in Alberta amid warnings about potentially tough months ahead",
+      "published_at": "2025-11-09T13:59:21-05:00",
+      "section": "Canada",
+      "summary_auto": "Alberta has marked its first influenza death of this year's flu season, after last year's season proved the deadliest in more than a decade.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.94,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac694742714c5e16fbec8f569367d4be7b55d698",
+      "url": "https://www.cbc.ca/news/world/us-airlines-flight-cancellations-government-shutdown-9.6972881?cmp=rss",
+      "title": "U.S. warns air traffic could 'slow to a trickle' amid shutdown, mass quitting",
+      "published_at": "2025-11-09T13:33:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. airlines canceled more than 2,100 flights on Sunday as Transportation Secretary Sean Duffy warned that air traffic across the nation could \"slow to a trickle\" if the federal government shutdown lingers into the busy Thanksgiving travel holiday season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bb28d63b2aef2935d77e1223b9282ad2645c4dd8",
+      "url": "https://www.cbc.ca/news/canada/manitoba/grey-cup-winnipeg-economic-9.6972871?cmp=rss",
+      "title": "Hosting Grey Cup in Winnipeg hailed as 'a major economic driver' by businesses, politicians",
+      "published_at": "2025-11-09T13:31:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Members of Canada’s Armed Forces repelled from a helicopter Sunday afternoon at The Forks with precious cargo — the Grey Cup  — to mark the beginning of Grey Cup week, which will culminate with the CFL championship game on Nov. 16 at Princess Auto Stadium in Winnipeg.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38eec5733f4a0f6e7ea83c1e9e319b87536d33c9",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-medical-federations-bill-2-rally-9.6972775?cmp=rss",
+      "title": "Thousands fill Bell Centre demanding Quebec suspend law reforming doctors' pay",
+      "published_at": "2025-11-09T12:43:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of doctors, medical students and supporters filled the Bell Centre on Sunday to demand the Quebec government suspend Bill 2. The law links a part of physicians' pay to performance indicators relating to, for example, the number of patients they care for or the number of surgeries performed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1403ca95fa60494e9123c495f9f2b1827eebab3e",
+      "url": "https://www.cbc.ca/sports/football/cfl/grey-cup-primer-2025-9.6972857?cmp=rss",
+      "title": "Alouettes quarterback Davis Alexander to be key figure during Grey Cup week",
+      "published_at": "2025-11-09T12:25:03-05:00",
+      "section": "Canada",
+      "summary_auto": "The Grey Cup spotlight will be on Davis Alexander this week in Winnipeg. The Montreal quarterback takes an unblemished 13-0 career record as a CFL starter into the Alouettes' Grey Cup showdown with the Saskatchewan Roughriders on Nov. 16.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "0db654cab8610d023d057e77c239427e88418d07",
       "url": "https://www.cbc.ca/sports/baseball/mlb/emmanuel-clase-luis-ortiz-indicted-charges-sports-betting-mlb-9.6972814?cmp=rss",
       "title": "Guardians' Clase, Ortiz charged with taking bribes to rig pitches for bettors",
       "published_at": "2025-11-09T09:38:48-05:00",
       "section": "Top Stories",
-      "summary_auto": "Two Major League Baseball pitchers were indicted Sunday on charges they took bribes to give sports bettors advance notice of the types of pitches they'd throw and intentionally tossed balls instead of strikes to ensure successful bets.",
+      "summary_auto": "Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz have been charged with taking bribes from sports bettors to intentionally throw certain types of pitches, including tossing balls instead of strikes to ensure successful bets.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
+        "sentiment": 0.44,
         "subjectivity_hint": "low"
       }
     },
@@ -22,11 +87,24 @@
       "title": "Trump administration wants U.S. states to 'undo' full payouts of SNAP food benefits",
       "published_at": "2025-11-09T09:36:13-05:00",
       "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump's administration is demanding states \"undo\" full SNAP food benefits paid out under judges' orders over the past week, now that the U.S. Supreme Court has stayed those rulings, marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.",
+      "summary_auto": "U.S. President Donald Trump's administration is demanding states \"undo\" full SNAP food benefits paid out under judges' orders over the past week, now that the U.S. Supreme Court has stayed those rulings — marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.7,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "087c2280f9a2764712ee0d1ddc8c0d2795ab3066",
+      "url": "https://www.cbc.ca/player/play/9.6971769?cmp=rss",
+      "title": "Why Canadian author Louise Penny won’t be going to the U.S.",
+      "published_at": "2025-11-09T09:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In March, best-selling Canadian author Louise Penny wrote in a Facebook post that she didn’t feel she could enter the U.S. after its ‘unprovoked trade war against Canada.’ She speaks to The National’s Ian Hanomansing about why she isn’t budging on her promise.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -40,6 +118,19 @@
         "article_type": "News",
         "sentiment": -0.813,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4888ea023f484288619c2b1876930be737fbdb31",
+      "url": "https://www.cbc.ca/player/play/9.6972495?cmp=rss",
+      "title": "'My life has been poisoned': Quebec artist on upcoming demolition of his iconic fountain in San Francisco",
+      "published_at": "2025-11-09T08:18:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After standing for nearly 55 years in the middle of Embarcadero Plaza, the City of San Francisco has decided to dismantle sculptor Armand Vaillancourt's popular piece of art Québec Libre!. The decision, Vaillancourt says, leaves a blemish on his legacy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.176,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -69,6 +160,32 @@
       }
     },
     {
+      "id": "38eff0fdc8efd3c686e11e7db1d2e1765a750e42",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/sea-otters-forever-chemicals-9.6971949?cmp=rss",
+      "title": "Toxic 'forever chemicals' are in B.C. sea otters, new study finds",
+      "published_at": "2025-11-09T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The research adds to a growing body of evidence that the chemicals are making their way into the environment with detrimental results.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0bf092545b2c78088de769ff8d89b8f79c3de28c",
+      "url": "https://www.cbc.ca/news/canada/manitoba/churchill-port-expansion-analysis-9.6972402?cmp=rss",
+      "title": "The journey toward an expanded Port of Churchill has only just begun",
+      "published_at": "2025-11-09T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Compared to  other major projects  granted \"national importance\" status by Mark Carney’s Liberal government, the proposed expansion of the Port of Churchill is still a very fuzzy idea.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.583,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "55ea06b719c4ad7b2e228b902beedb5773eb4a01",
       "url": "https://www.cbc.ca/news/world/israel-hamas-war-gaza-settlers-militants-9.6972582?cmp=rss",
       "title": "Gaza death toll tops 69,000 as Israel and militants again exchange remains",
@@ -91,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "89154aa1f6c2c2e380681c025846e132ebfdeb87",
-      "url": "https://www.cbc.ca/news/entertainment/rock-and-roll-hall-of-fame-induction-9.6972573?cmp=rss",
-      "title": "Who's who of rock 'n' roll — from young stars to legends — celebrate Hall of Fame inductees",
-      "published_at": "2025-11-09T00:21:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Cyndi Lauper turned True Colors into a defiant call for courage, and the music of Outkast, Soundgarden and the White Stripes moved the house on Saturday night at the Rock & Roll Hall of Fame induction ceremony.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.927,
         "subjectivity_hint": "low"
       }
     },
@@ -177,51 +281,12 @@
       "url": "https://www.cbc.ca/news/politics/your-budget-questions-answered-9.6971678?cmp=rss",
       "title": "What’s in the federal budget for you? Your questions answered",
       "published_at": "2025-11-08T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2acf71afafe610939b2f141df0d639bb7a0aaafd",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/cfl-riders-lions-west-final-2025-9.6972525?cmp=rss",
-      "title": "Saskatchewan Roughriders to face Montreal Alouettes at next week's Grey Cup",
-      "published_at": "2025-11-08T16:55:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Saskatchewan defence forced back-to-back two-and-out possessions to give their offence an opportunity to win the game.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2acf71afafe610939b2f141df0d639bb7a0aaafd",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/cfl-riders-lions-west-final-2025-9.6972525?cmp=rss",
-      "title": "Riders score late TD to down Lions, punch ticket to Grey Cup",
-      "published_at": "2025-11-08T16:55:04-05:00",
       "section": "Canada",
-      "summary_auto": "The Saskatchewan defence forced back-to-back two-and-out possessions to give their offence an opportunity to win the game.",
+      "summary_auto": "Many Canadians wrote to us asking what they should be looking for in the new federal budget. CBC News’ Catherine Cullen and J.P. Tasker are here to help break down what is – and isn’t – in the budget.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "18432e660ac0721cde6424ce97a74b9842f16856",
-      "url": "https://www.cbc.ca/arts/tania-willard-wins-the-2025-sobey-art-award-9.6972494?cmp=rss",
-      "title": "Tania Willard wins the 2025 Sobey Art Award",
-      "published_at": "2025-11-08T15:15:04-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Known for her work with Indigenous land-based practices, the artist from Niskonlith, B.C., is the recipient of the $100,000 grand prize.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.926,
-        "subjectivity_hint": "low"
+        "sentiment": 0.402,
+        "subjectivity_hint": "medium"
       }
     }
   ]
