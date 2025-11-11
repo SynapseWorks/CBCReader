@@ -1,18 +1,148 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-11T09:15:21.052370-05:00",
+  "generated_at": "2025-11-11T15:16:13.555824-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "0545189fd8e7c0364ee7700acd486b797aba3155",
-      "url": "https://www.cbc.ca/news/world/syria-national-museum-broken-into-artifacts-stolen-9.6974583?cmp=rss",
-      "title": "Ancient Roman-era statues stolen from Syria national museum",
-      "published_at": "2025-11-11T02:43:42-05:00",
+      "id": "ea831bd32c5dccbd644b158b965fd209aa56d28e",
+      "url": "https://www.cbc.ca/news/entertainment/sally-kirkland-obituary-9.6975113?cmp=rss",
+      "title": "Sally Kirkland, stage-screen actress and Oscar nominee for Anna, dead at 84",
+      "published_at": "2025-11-11T09:55:39-05:00",
       "section": "Top Stories",
-      "summary_auto": "Thieves broke into the national museum in the Syrian capital and stole several ancient statues dating back to the Roman era, officials said Tuesday.",
+      "summary_auto": "American model-turned-actress Sally Kirkland, who was noted for her stage, TV and film roles — including sharing the screen with Paul Newman and Robert Redford in The Sting and earning an Oscar nomination for 1987's Anna — has died at 84.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.852,
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bce82a808771650d4e88d5385aee2d140c56fa97",
+      "url": "https://www.cbc.ca/news/canada/calgary/william-mcknight-calgary-shelly-mcelroy-remembrance-day-9.6974980?cmp=rss",
+      "title": "A young Calgarian was a top flying ace for Canada — and later, the namesake for a prominent boulevard",
+      "published_at": "2025-11-11T09:32:46-05:00",
+      "section": "Canada",
+      "summary_auto": "Willie McKnight, an ace pilot from Alberta, joined the Royal Air Force in 1939 and became a highly decorated fighter pilot during the Second World War. Local historian Shelly McElroy joined the Calgary Eyeopener on Remembrance Day to reflect on the namesake of the city's McKnight Boulevard.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.02,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c353379b538eb1282cf78d21821a68a661045d09",
+      "url": "https://www.cbc.ca/news/world/hurricane-melissa-death-toll-jamaica-9.6975083?cmp=rss",
+      "title": "Hurricane Melissa death toll rises to 45 in Jamaica, with 15 others still missing",
+      "published_at": "2025-11-11T09:31:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The number of confirmed deaths from Hurricane Melissa in Jamaica rose to 45, with 15 other people missing, authorities said Tuesday. The death toll is expected to rise, with officials still trying to reach two towns that remain cut off since the catastrophic Category 5 storm made landfall in western Jamaica on Oct. 28.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.944,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aa30e5ebe1fd4d562da8d3af867712ba674ee2da",
+      "url": "https://www.cbc.ca/news/business/public-citizen-sora-letter-9.6974964?cmp=rss",
+      "title": "Consumer advocacy group urges OpenAI to pull video app Sora over privacy, misinformation concerns",
+      "published_at": "2025-11-11T09:00:02-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Non-profit consumer advocacy group Public Citizen demanded in a Tuesday letter that OpenAI withdraw its video-generation software Sora 2 after the application sparked fears about the spread of misinformation and privacy violations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bf19b5707e667f4d553941a0a4131c27218678d3",
+      "url": "https://www.cbc.ca/player/play/9.6975019?cmp=rss",
+      "title": "Early, unexpected snowfall hits southern Quebec, causing outages, tough road conditions",
+      "published_at": "2025-11-11T08:47:32-05:00",
+      "section": "Canada",
+      "summary_auto": "The heavy, wet snow and strong winds forced some school closures and caused slippery road conditions. Environment and Climate Change Canada says the system intensified faster than their forecasts showed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "15b6f6b99f8f277cbd6d5048d204428661ea49e7",
+      "url": "https://www.cbc.ca/player/play/9.6975009?cmp=rss",
+      "title": "Longest-ever U.S. government shutdown inches closer to ending after 8 Democrats cave",
+      "published_at": "2025-11-11T08:22:51-05:00",
+      "section": "World",
+      "summary_auto": "The U.S. Senate is on its way to ending the longest-ever U.S. government shutdown after a group of moderate Democrats agreed to proceed without a guaranteed extension of health-care subsidies, angering many in their caucus.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6d927bc3de5efd50bd657ca301e6f6d3f7c50dc9",
+      "url": "https://www.cbc.ca/news/canada/ottawa/buddy-coffee-checks-manotick-legion-9.6974437?cmp=rss",
+      "title": "Veterans share experiences and camaraderie at 'Buddy Check Coffee' meetings",
+      "published_at": "2025-11-11T06:41:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Every other Wednesday at the Royal Canadian Legion in a rural south Ottawa community, Canadian Armed Forces veterans meet over coffee to discuss their experiences in the military. The setting is meant to reflect a military mess hall, which organizers say fosters a sense of camaraderie among those who attend the biweekly “Buddy Check Coffee” meetings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "de37d1dadf524b65623f170364f49e4272444d22",
+      "url": "https://www.cbc.ca/news/canada/ottawa/lansdowne-2-0-approved-whats-next-9.6973944?cmp=rss",
+      "title": "Ottawa businesses hopeful Lansdowne 2.0 will be an economic boon. Critics aren't so sure",
+      "published_at": "2025-11-11T05:47:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Supporters of the project — including Ottawa Tourism, the Ottawa Board of Trade and the Glebe BIA — see the $419-million redevelopment project as worthy investment. But not everyone is buying it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.027,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ccf3b8ce45af78b20e0c8c041c3b10751bfa51ac",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/hockey-hall-of-fame-2025-class-9.6974697?cmp=rss",
+      "title": "Joe Thornton's tear-filled speech shines as Hockey Hall of Fame's 2025 members inducted",
+      "published_at": "2025-11-11T05:38:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Joe Thornton was inducted Monday into the Hockey Hall of Fame alongside Zdeno Chara, Duncan Keith, Alexander Mogilny, Jennifer Botterill and Brianna Decker in the player category, while Danièle Sauvageau was enshrined as the first woman builder in the Hall's history.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc9bcbdb3d7fa442d4eec1c76c08af89b293ed36",
+      "url": "https://www.cbc.ca/news/world/sudan-humanitarian-operations-9.6974671?cmp=rss",
+      "title": "UN agency warns aid operations in Sudan on the 'brink of collapse'",
+      "published_at": "2025-11-11T04:37:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Humanitarian teams in Sudan’s North Darfur region are facing insecurity and depleted supplies, as a United Nations agency says civilians are at risk of “an even greater catastrophe” if calls for more funding and access to aid are not met.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0545189fd8e7c0364ee7700acd486b797aba3155",
+      "url": "https://www.cbc.ca/news/world/syria-national-museum-broken-into-artifacts-stolen-9.6974583?cmp=rss",
+      "title": "Ancient Roman-era statues stolen from Syria's national museum",
+      "published_at": "2025-11-11T02:43:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Several ancient statues dating back to the Roman era were stolen during a break-in at the national museum in Syria's capital, officials said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
         "subjectivity_hint": "low"
       }
     },
@@ -22,7 +152,7 @@
       "title": "Hundreds of thousands of homes without power across Quebec after heavy snowfall",
       "published_at": "2025-11-11T02:30:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Hundreds of thousands of households are without power Tuesday morning across Quebec after a first night of relentless snowfall brought as much as 35 centimeters of snow to parts of the province. Some school boards are asking that students stay at home.",
+      "summary_auto": "Hundreds of thousands of households are without power Tuesday morning across Quebec after a first night of relentless snowfall brought as much as 35 centimetres of snow to parts of the province. Some school boards are asking that students stay at home.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.052,
@@ -47,7 +177,7 @@
       "url": "https://www.cbc.ca/news/world/suicide-bomber-islamabad-pakistan-9.6974537?cmp=rss",
       "title": "Suicide bomber attacks outside Islamabad court, killing 12, says Pakistan’s interior minister",
       "published_at": "2025-11-11T00:33:04-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Pakistan’s interior minister says a suicide bomber detonated his explosives near a police vehicle outside the gate of a district court in Islamabad on Tuesday, killing 12 people and wounding 27.",
       "bias_heuristic": {
         "article_type": "News",
@@ -79,6 +209,19 @@
         "article_type": "News",
         "sentiment": -0.902,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "90df729e23f2cb0dfe09e59facc4f8d2e6e86dfd",
+      "url": "https://www.cbc.ca/news/canada/first-person-new-holidays-as-an-immigrant-9.6968301?cmp=rss",
+      "title": "Moving to Canada meant new holidays — and finding my own place within them",
+      "published_at": "2025-11-10T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Every family holds onto special dates. For Ban Zhang, moving to Canada meant learning about its history — and reconciling the significance of those holidays that once seemed distant and foreign and making them markers of his own identity, memory and belonging.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -134,19 +277,6 @@
       }
     },
     {
-      "id": "1630484ed5bd3307911b49cde12d6eca3c214940",
-      "url": "https://www.cbc.ca/news/world/remembrance-when-war-is-livestreamed-9.6974088?cmp=rss",
-      "title": "What does remembrance mean when war is livestreamed?",
-      "published_at": "2025-11-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Remembrance Day is about looking back. It’s about a collective memory of war, sacrifice and reflection. But today, conflict isn’t confined to the past; it streams live to our phones 24/7.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.781,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "b43a20fe7a261b8b5fc883e77f6fff85b9277f02",
       "url": "https://www.cbc.ca/news/politics/unknown-soldier-remembrance-world-war-dna-9.6974358?cmp=rss",
       "title": "Canada's Unknown Soldier in 2025: Where science collides with sacred symbolism",
@@ -173,28 +303,15 @@
       }
     },
     {
-      "id": "7891814b446f17e5981da8ea27318fca25b05d24",
-      "url": "https://www.cbc.ca/news/indigenous/mi-kmaw-community-remembrance-day-9.6971344?cmp=rss",
-      "title": "How a tight-knit Mi'kmaw community honours its veterans for Remembrance Day",
-      "published_at": "2025-11-10T22:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Eel River Bar First Nation, a small Mi'kmaw community in northern New Brunswick honours its veterans by hanging banners each year.",
+      "id": "05bf859721148c438619496541f7b28c0890f71e",
+      "url": "https://www.cbc.ca/news/canada/toronto/260-quebec-doctors-apply-ontario-licences-after-bill-2-9.6973978?cmp=rss",
+      "title": "Over 260 Quebec doctors apply for Ontario licences in weeks following Bill 2",
+      "published_at": "2025-11-10T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Over 250 Quebec doctors are applying to be able to work in Ontario, according to the College of Physicians and Surgeons of Ontario. The surge of applications is happening in the wake of a controversial bill reforming doctors’ pay, which was passed on Oct. 25 in Quebec.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b32531796383c437b9b64a082d67420edc340a43",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/isabelle-thomas-murder-zain-wood-9.6974434?cmp=rss",
-      "title": "Prince George man found guilty of 1st-degree murder in stabbing death of young mother",
-      "published_at": "2025-11-10T18:13:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A B.C. Supreme Court Justice found 25-year-old Zain Xavier Wood guilty of first-degree murder for fatally stabbing a Prince George, B.C., mother in front of her two children in 2023.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.952,
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -203,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/mali-influencer-killed-9.6974441?cmp=rss",
       "title": "TikTok influencer executed by armed men in Mali: mayor",
       "published_at": "2025-11-10T16:22:47-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Armed men in Mali killed a TikTok influencer who had posted videos in support of the West African nation's military, authorities said Monday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -242,115 +359,11 @@
       "url": "https://www.cbc.ca/news/world/bbc-trump-speech-9.6973686?cmp=rss",
       "title": "Trump's threat of a billion-dollar lawsuit adds to the BBC's existential crisis",
       "published_at": "2025-11-10T15:44:14-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "141326d9189ccaf1adc0f5e4e06ce57c36e13136",
-      "url": "https://www.cbc.ca/sports/soccer/nsl-semifinal-toronto-montreal-2nd-leg-9.6974348?cmp=rss",
-      "title": "AFC Toronto thumps Montreal Roses FC en route to NSL final",
-      "published_at": "2025-11-10T15:14:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Esther Okoronkwo scored three times in the first 27 minutes of Monday's semifinal match at snow-covered York Lions Stadium and the regular-season champion AFC Toronto defeated the visiting Montreal Roses 4-1, taking the two-leg aggregate 6-1.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "041c47bcc9d4c095cfe2b1079e2fcf0e56ca4b52",
-      "url": "https://www.cbc.ca/news/politics/anand-rubio-51st-state-9.6974082?cmp=rss",
-      "title": "Anand says U.S. secretary Rubio has avoided '51st state' chatter as G7 meeting looms",
-      "published_at": "2025-11-10T12:22:15-05:00",
-      "section": "Canada",
-      "summary_auto": "Foreign Affairs Minister Anita Anand says U.S. Secretary of State Marco Rubio hasn't repeated President Donald Trump's musings about making Canada the 51st state during their conversations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b2285239b9d0ea8dfe24b3f4f8d07fd2797db8c6",
-      "url": "https://www.cbc.ca/news/science/cop30-climate-lula-brazil-9.6974016?cmp=rss",
-      "title": "UN climate talks in Brazil kick off with a focus on implementing existing promises",
-      "published_at": "2025-11-10T12:11:07-05:00",
-      "section": "World",
-      "summary_auto": "U.N. climate negotiations began Monday on the edge of the Brazilian Amazon as leaders pushed for accelerating efforts to curb global warming by drastically reducing the carbon pollution that causes it. But top U.S. negotiators were absent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.431,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ec2812a4e5f33fa2628188678cfbaefb0723719",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/mlb-sports-books-bet-limit-pitches-rigging-scandal-9.6974028?cmp=rss",
-      "title": "MLB, sportsbooks cap bets on individual pitches in response to pitch rigging scandal",
-      "published_at": "2025-11-10T11:32:09-05:00",
-      "section": "World",
-      "summary_auto": "Major League Baseball said its authorized gaming operators will cap bets on individual pitches at $200 US and exclude them from parlays, a day after two Cleveland Guardians were indicted and accused of rigging pitches at the behest of gamblers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6d418ed6ab3f358954dda88cc85c1554987e38fa",
-      "url": "https://www.cbc.ca/radio/asithappens/ns-alabama-burger-mixup-9.6974005?cmp=rss",
-      "title": "Alabamian who mistakenly ordered from N.S. burger joint sends cash and apology by mail",
-      "published_at": "2025-11-10T11:07:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The owners of Bentley’s Burgers and Fries in West Chezzetcook, N.S., were gobsmacked this week when they received a handwritten apology letter all the way from Alabama, along with $40 US in cash to pay for an unclaimed order of two burgers and fries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "68d9f6d7244e2accf134a1d36e09e2a93a3c1629",
-      "url": "https://www.cbc.ca/news/livestory/booker-prize-2025-9.6973731?cmp=rss",
-      "title": "Canadian-born author David Szalay awarded 2025 Booker Prize for Flesh",
-      "published_at": "2025-11-10T10:30:53-05:00",
-      "section": "Entertainment",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "89c54913b06f73f762ffeea1f6f367875e58af76",
-      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.6973777?cmp=rss",
-      "title": "Children's aid workers didn't record key info, missed red flags before boy’s death, Milton, Ont., trial told",
-      "published_at": "2025-11-10T10:11:57-05:00",
-      "section": "Canada",
-      "summary_auto": "A child protection worker was back in the witness box at the Milton, Ont., murder trial for Becky Hamber and Brandy Cooney to testify about the Children’s Aid Society’s involvement with the couple and the two boys they were trying to adopt.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b3987f8c323a7880ca3b5086a3cb4d2f640c1f2e",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-takeover-tour-2025-26-new-cities-9.6973622?cmp=rss",
-      "title": "PWHL to visit 6 Canadian cities on Takeover Tour",
-      "published_at": "2025-11-10T09:40:18-05:00",
-      "section": "Canada",
-      "summary_auto": "As the league continues to eye expansion, the PWHL will play 16 neutral-site games this upcoming season. In addition to returning to Edmonton and Quebec City, the PWHL will make stops in Calgary, Winnipeg, Hamilton and Halifax.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
         "subjectivity_hint": "low"
       }
     }
