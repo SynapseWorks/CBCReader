@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-11T15:16:13.555824-05:00",
+  "generated_at": "2025-11-11T20:08:35.781735-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "6d41236dc55b4863b1d43dec08fb6fff9e25a5cb",
+      "url": "https://www.cbc.ca/news/canada/toronto/poisoned-workplace-in-durham-police-9.6975262?cmp=rss",
+      "title": "Durham regional police's 'poisoned' workplace highlighted in Ontario Civilian Police Commission report",
+      "published_at": "2025-11-11T14:05:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5b264b822e2c6cf5a6fff4291b0e7c88b0aec089",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-woman-marty-thorne-stabbing-death-9.6975376?cmp=rss",
+      "title": "Vancouver woman found dead in Belize after stabbing, authorities confirm",
+      "published_at": "2025-11-11T13:26:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Vancouver woman was found dead at a spa in Belize on Monday after a stabbing, local police have confirmed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ab428e0edf8a27bfd6e128f153e93844480d150",
+      "url": "https://www.cbc.ca/news/science/aurora-in-canada-9.6975207?cmp=rss",
+      "title": "Severe solar storm could trigger auroras across Canada and northern U.S. states tonight",
+      "published_at": "2025-11-11T11:52:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Skygazers are spotting the lights deeper into Canada, the U.S. and Europe because the sun is going through a major facelift. Every 11 years, its poles swap places, causing magnetic twists and tangles along the way.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ccda8d6c0135c8e1bea47e3ac86ef7f208a69b80",
+      "url": "https://www.cbc.ca/player/play/9.6975198?cmp=rss",
+      "title": "Why Trump threatened to sue the BBC for $1B US | About That",
+      "published_at": "2025-11-11T11:06:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump has threatened legal action against the BBC for its editing of a speech he gave on Jan. 6, 2021 — the day his supporters overran the Capitol — in the broadcaster's flagship Panorama documentary program. The British broadcaster admitted to an 'error of judgment,' prompting two of its senior leaders to resign. Andrew Chang breaks down how all this happened, and why the network may have to pay a steep price to defend its reputation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4675578c99b55b5edb329f8c4d1bfaf75207a99e",
+      "url": "https://www.cbc.ca/news/canada/calgary/ucp-convention-policy-resolutions-9.6974200?cmp=rss",
+      "title": "Pride flags, fluoride, abortion: Here's what UCP will push Danielle Smith to change next",
+      "published_at": "2025-11-11T11:00:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "ea831bd32c5dccbd644b158b965fd209aa56d28e",
       "url": "https://www.cbc.ca/news/entertainment/sally-kirkland-obituary-9.6975113?cmp=rss",
@@ -138,7 +203,7 @@
       "url": "https://www.cbc.ca/news/world/syria-national-museum-broken-into-artifacts-stolen-9.6974583?cmp=rss",
       "title": "Ancient Roman-era statues stolen from Syria's national museum",
       "published_at": "2025-11-11T02:43:42-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Several ancient statues dating back to the Roman era were stolen during a break-in at the national museum in Syria's capital, officials said Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -152,7 +217,7 @@
       "title": "Hundreds of thousands of homes without power across Quebec after heavy snowfall",
       "published_at": "2025-11-11T02:30:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Hundreds of thousands of households are without power Tuesday morning across Quebec after a first night of relentless snowfall brought as much as 35 centimetres of snow to parts of the province. Some school boards are asking that students stay at home.",
+      "summary_auto": "Hundreds of thousands of households are without power Tuesday across Quebec after a first night of relentless snowfall brought as much as 35 centimetres of snow to parts of the province. Some school boards are asking that students stay at home.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.052,
@@ -160,25 +225,12 @@
       }
     },
     {
-      "id": "4675578c99b55b5edb329f8c4d1bfaf75207a99e",
-      "url": "https://www.cbc.ca/news/canada/calgary/ucp-convention-policy-resolutions-9.6974200?cmp=rss",
-      "title": "Pride flags, fluoride, abortion: Here's what UCP will push Danielle Smith to change next",
-      "published_at": "2025-11-11T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta's premier likes to fulfil her party members' policy wishes. But do these ones coming to convention go too far?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.579,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "77311a3d5c419f00e93727ebb2840894fb963a7b",
       "url": "https://www.cbc.ca/news/world/suicide-bomber-islamabad-pakistan-9.6974537?cmp=rss",
-      "title": "Suicide bomber attacks outside Islamabad court, killing 12, says Pakistan’s interior minister",
+      "title": "Suicide bomber attacks outside Islamabad court, killing 12: Pakistan’s interior minister",
       "published_at": "2025-11-11T00:33:04-05:00",
       "section": "World",
-      "summary_auto": "Pakistan’s interior minister says a suicide bomber detonated his explosives near a police vehicle outside the gate of a district court in Islamabad on Tuesday, killing 12 people and wounding 27.",
+      "summary_auto": "Pakistan’s interior minister says a suicide bomber detonated his explosives near a police vehicle outside the gate of a district court in the capital, Islamabad, on Tuesday, killing 12 people and wounding 27.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.971,
@@ -251,32 +303,6 @@
       }
     },
     {
-      "id": "2d5b5d8a976fcd205e00371f3414ddbf5168d1f4",
-      "url": "https://www.cbc.ca/news/world/drones-belgium-europe-russia-9.6973910?cmp=rss",
-      "title": "Mysterious drones keep buzzing key sites in Europe. So what's the defence strategy?",
-      "published_at": "2025-11-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Belgium is the latest target in a string of mysterious drone incidents across Europe, with some officials directly pointing the finger at Russia. It has left authorities scrambling to boost defences.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.488,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ba66886ac95699207e696caf4235d75942056bb9",
-      "url": "https://www.cbc.ca/news/politics/canada-greenland-consulate-9.6973864?cmp=rss",
-      "title": "Canada opening new consulate in Greenland this week, in a bid for closer relations",
-      "published_at": "2025-11-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Foreign Affairs Minister Anita Anand will travel to Greenland's capital, Nuuk, this week to open a new Canadian consulate as both allies seek to strengthen ties amid turbulent relations with the United States.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b43a20fe7a261b8b5fc883e77f6fff85b9277f02",
       "url": "https://www.cbc.ca/news/politics/unknown-soldier-remembrance-world-war-dna-9.6974358?cmp=rss",
       "title": "Canada's Unknown Soldier in 2025: Where science collides with sacred symbolism",
@@ -303,6 +329,32 @@
       }
     },
     {
+      "id": "2d5b5d8a976fcd205e00371f3414ddbf5168d1f4",
+      "url": "https://www.cbc.ca/news/world/drones-belgium-europe-russia-9.6973910?cmp=rss",
+      "title": "Mysterious drones keep buzzing key sites in Europe. So what's the defence strategy?",
+      "published_at": "2025-11-10T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Belgium is the latest target in a string of mysterious drone incidents across Europe, with some officials directly pointing the finger at Russia. It has left authorities scrambling to boost defences.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.488,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ba66886ac95699207e696caf4235d75942056bb9",
+      "url": "https://www.cbc.ca/news/politics/canada-greenland-consulate-9.6973864?cmp=rss",
+      "title": "Canada opening new consulate in Greenland this week, in a bid for closer relations",
+      "published_at": "2025-11-10T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Foreign Affairs Minister Anita Anand will travel to Greenland's capital, Nuuk, this week to open a new Canadian consulate as both allies seek to strengthen ties amid turbulent relations with the United States.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "05bf859721148c438619496541f7b28c0890f71e",
       "url": "https://www.cbc.ca/news/canada/toronto/260-quebec-doctors-apply-ontario-licences-after-bill-2-9.6973978?cmp=rss",
       "title": "Over 260 Quebec doctors apply for Ontario licences in weeks following Bill 2",
@@ -312,58 +364,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "375e02d72f07fb2ed72c4df5576a4b37969b381c",
-      "url": "https://www.cbc.ca/news/world/mali-influencer-killed-9.6974441?cmp=rss",
-      "title": "TikTok influencer executed by armed men in Mali: mayor",
-      "published_at": "2025-11-10T16:22:47-05:00",
-      "section": "World",
-      "summary_auto": "Armed men in Mali killed a TikTok influencer who had posted videos in support of the West African nation's military, authorities said Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8a1d4fb029072493b0083526c4dec28bb86835a9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-coast-third-humpback-dead-9.6974456?cmp=rss",
-      "title": "DFO investigating 3rd whale death off B.C.'s coast within weeks",
-      "published_at": "2025-11-10T16:02:43-05:00",
-      "section": "Canada",
-      "summary_auto": "Caitlin Birdsall, executive director of the Marine Education and Research Society, says the whale discovered Nov. 8 off Lasqueti Island in the Georgia Strait near the Sunshine Coast and is the third confirmed death since late September.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "afdf0e719af1e3a04a35abfcfdb64a9c3423012d",
-      "url": "https://www.cbc.ca/player/play/9.6974440?cmp=rss",
-      "title": "New flu strain could hit infants, elderly hard | Hanomansing Tonight",
-      "published_at": "2025-11-10T15:58:47-05:00",
-      "section": "Canada",
-      "summary_auto": "With flu cases now rising in Canada, medical experts are bracing for a difficult influenza season linked to the global spread of an evolving H3N2 strain that could be a mismatch for this year’s vaccine.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.818,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c666385e129d64cef146dd82ba304d6b4485ed37",
-      "url": "https://www.cbc.ca/news/world/bbc-trump-speech-9.6973686?cmp=rss",
-      "title": "Trump's threat of a billion-dollar lawsuit adds to the BBC's existential crisis",
-      "published_at": "2025-11-10T15:44:14-05:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
         "subjectivity_hint": "low"
       }
     }
