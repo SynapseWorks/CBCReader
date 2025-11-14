@@ -1,18 +1,161 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-13T15:17:09.621222-05:00",
+  "generated_at": "2025-11-13T20:08:47.251930-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "c499d6e8328e3bd880ad781bad3f063cca45fb93",
+      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-grey-cup-primer-9.6978463?cmp=rss",
+      "title": "Grey Cup primer: Can Montreal stop Saskatchewan?",
+      "published_at": "2025-11-13T14:12:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC Sports' daily newsletter previews the 112th Grey Cup game between the Alouettes and Roughriders on Sunday night in Winnipeg.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ca12c5b60d743a852d589c67d6a9ed06b5d97df6",
+      "url": "https://www.cbc.ca/news/world/blue-origin-new-glenn-rocket-9.6978335?cmp=rss",
+      "title": "Blue Origin launches New Glenn rocket, with 2 Mars-bound satellites aboard",
+      "published_at": "2025-11-13T14:06:56-05:00",
+      "section": "World",
+      "summary_auto": "The giant New Glenn rocket from Jeff Bezos' space company Blue Origin launched from Florida on its debut mission for paying customers on Thursday, sending two NASA satellites toward Mars while also nailing the landing of its reusable booster for the first time.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f84ea6e78d36f6dacde1136ee0367a3f59fc769",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-tuberculosis-outbreak-9.6978412?cmp=rss",
+      "title": "Tuberculosis outbreak declared in Edmonton’s inner city: Alberta health officials",
+      "published_at": "2025-11-13T13:42:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Provincial health officials have declared an outbreak of tuberculosis in Edmonton's core, after lab tests confirmed two inner-city residents had the same strain of the infectious disease.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e2725fbf9536e08801834ae4cb940d320eaa9a27",
+      "url": "https://www.cbc.ca/news/politics/government-spending-outside-contractors-9.6978363?cmp=rss",
+      "title": "Government spends $19B on external services, despite vow to trim spending",
+      "published_at": "2025-11-13T13:18:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Government records show the federal government spent more than $19 billion on external professional and special services in 2024-25 — an increase of almost $2 billion since last year and of about $8.5 billion since 2020.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "22a1355344ff205d537c290f4bbbab6975d0bf9f",
+      "url": "https://www.cbc.ca/news/politics/veteran-disability-benefit-rcmp-jill-mcknight-9.6978193?cmp=rss",
+      "title": "Disability pension changes won’t impact veterans: Finance minister",
+      "published_at": "2025-11-13T12:56:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government states that its changes to disability pension for service members will not result in veterans receiving less money. The change will only apply to RCMP members, according to the government.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5830f350c15a57fe7ea13f1cd0cfb15e5585261a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/base-jumper-rescued-after-hitting-mountain-squamish-9.6977855?cmp=rss",
+      "title": "B.C. man survives BASE jumping crash into mountain that led to hours-long high-altitude rescue",
+      "published_at": "2025-11-13T12:39:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Squamish Search and Rescue found Zachery Mayne hanging onto a small outcropping of rock to stop himself from plummeting more than 450 metres to the ground.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e78b14b83bbe892f695a896965ce62fe0d55407c",
+      "url": "https://www.cbc.ca/news/canada/montreal/men-accused-in-alleged-extremist-plot-trial-9.6977823?cmp=rss",
+      "title": "Quebec men accused in alleged extremist plot will go to trial following federal indictment",
+      "published_at": "2025-11-13T11:32:48-05:00",
+      "section": "Canada",
+      "summary_auto": "Three Quebec men accused of facilitating terrorism will be sent to trial after the federal Crown prosecutor’s office filed a direct indictment on Nov. 7, along with new charges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60e64c0bdfb3ce3cf720980ea342e2856960b769",
+      "url": "https://www.cbc.ca/player/play/9.6977956?cmp=rss",
+      "title": "Paris honours attack victims with vigils, lights, 10 years on",
+      "published_at": "2025-11-13T09:54:38-05:00",
+      "section": "World",
+      "summary_auto": "Paris is marking 10 years since the Islamic State attacks that killed 130 people after gunmen and suicide bombers targeted cafés, restaurants and the Bataclan concert hall. People gathered at Place de la République for a candlelight vigil on the eve of the anniversary on Wednesday, and French President Emmanuel Macron and Paris Mayor Anne Hidalgo were among those paying tribute at the attack sites on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b82a45d42e42cb65bc00dd76115d909bf17bc812",
       "url": "https://www.cbc.ca/news/politics/csis-director-terror-investigations-9.6977874?cmp=rss",
-      "title": "1 in 10 terrorism investigations at CSIS involves a minor: spy boss",
+      "title": "Nearly 1 in 10 terrorism investigations at CSIS involves a minor: spy boss",
       "published_at": "2025-11-13T09:13:29-05:00",
       "section": "Top Stories",
       "summary_auto": "The head of Canada’s spy agency is warning about a “worrying” number of young people becoming radicalized.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cbcb314bd6577f2d0606bbb040d8e667f8f4bf16",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-non-speed-camera-road-safety-measures-9.6977879?cmp=rss",
+      "title": "Ontario to spend $210M on non-speed camera road safety measures following ban",
+      "published_at": "2025-11-13T09:11:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford's government is earmarking $210 million for municipalities to implement traffic-calming measures as its ban on speed cameras is set to take effect.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b99e4a5ed636c6527aaeff1dfa659f9be067e199",
+      "url": "https://www.cbc.ca/news/canada/windsor/edmund-fitzgerald-life-ring-settlement-9.6977767?cmp=rss",
+      "title": "Relic from wreck of the Edmund Fitzgerald is returned, plus $600K from Michigan",
+      "published_at": "2025-11-13T08:15:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The state of Michigan is giving up ownership of a rare relic from the famous Edmund Fitzgerald shipwreck, just weeks after it strangely obtained it through a settlement in a lawsuit that was unrelated to the doomed freighter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b99e4a5ed636c6527aaeff1dfa659f9be067e199",
+      "url": "https://www.cbc.ca/news/canada/windsor/edmund-fitzgerald-life-ring-settlement-9.6977767?cmp=rss",
+      "title": "Relic from the wreck of the Edmund Fitzgerald is returned, plus $600K from Michigan",
+      "published_at": "2025-11-13T08:15:11-05:00",
+      "section": "World",
+      "summary_auto": "The state of Michigan is giving up ownership of a rare relic from the famous Edmund Fitzgerald shipwreck, just weeks after it strangely obtained it through a settlement in a lawsuit that was unrelated to the doomed freighter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -82,6 +225,32 @@
       }
     },
     {
+      "id": "bf6a9bdd5396c68005e87cbb1f4f4b11f2c999af",
+      "url": "https://www.cbc.ca/sports/soccer/afc-toronto-vancouver-rise-fc-nsl-final-preview-9.6977554?cmp=rss",
+      "title": "'Relentless' AFC Toronto set to battle and host 'hard-nosed' Vancouver Rise FC in 1st NSL Final",
+      "published_at": "2025-11-13T06:30:42-05:00",
+      "section": "Canada",
+      "summary_auto": "The first Northern Super League Final will never be forgotten, regardless of Saturday's outcome. But it could be more memorable if host AFC Toronto and Vancouver Rise FC match the excitement of their respective paths to the Canadian professional women's soccer championship.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.932,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6f79244e15400b0e1e47bdbe0dbf6a615247cddc",
+      "url": "https://www.cbc.ca/news/politics/csis-referndums-foreign-interference-9.6977513?cmp=rss",
+      "title": "CSIS braces for possible foreign interference as Alberta, Quebec eye sovereignty",
+      "published_at": "2025-11-13T06:14:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With Canada facing not one but two possible sovereignty referendums in the coming years, the head of the country’s spy agency is bracing for the possibility that foreign adversaries could try to meddle in them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "6cbc396e286286b6d440e582715e3982691f9f5e",
       "url": "https://www.cbc.ca/news/health/ultra-processed-food-colon-cancer-9.6977320?cmp=rss",
       "title": "Eating more ultra-processed foods tied to increased risk of early-onset colorectal cancer",
@@ -108,24 +277,11 @@
       }
     },
     {
-      "id": "86ad7b96cdd61b9d2272426e54f4a2d5fd1c4b39",
-      "url": "https://www.cbc.ca/news/politics/cbc-ca-politics-kneecap-one-member-banned-ircc-statement-9.6977104?cmp=rss",
-      "title": "Immigration Department says only 1 Kneecap band member barred from entering Canada, contradicting Liberal MP",
-      "published_at": "2025-11-13T05:57:21-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Immigration Department only took a decision to ban one member of the controversial Irish hip-hop trio Kneecap from entering Canada, it told CBC News, contradicting a public claim from a Liberal MP in September that none of them would be allowed in country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "ccc231b52daaae1a3924bc6f15b2de5ac7d741ce",
       "url": "https://www.cbc.ca/news/health/polio-wastewater-germany-9.6977348?cmp=rss",
       "title": "Wild form of polio found in German sewage sample. What does that mean?",
       "published_at": "2025-11-13T05:54:28-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Despite the detection, there have been no reports of infection in Germany and scientists say the risk is minimized by high vaccination coverage.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,7 +294,7 @@
       "url": "https://www.cbc.ca/news/world/settlers-torch-mosque-west-bank-israel-condemnation-9.6977301?cmp=rss",
       "title": "Israeli settlers torch West Bank mosque, scrawl hateful messages",
       "published_at": "2025-11-13T04:58:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Israeli settlers torched and defaced a mosque in a Palestinian village in the central West Bank overnight, scribbling hateful messages in a show of defiance, a day after some Israeli leaders condemned a recent attack by settlers against Palestinians.",
       "bias_heuristic": {
         "article_type": "News",
@@ -156,6 +312,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "860a6625dcbae544161f673ef6d956ed66a49a6f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/international-nature-of-b-c-extortion-cases-9.6976506?cmp=rss",
+      "title": "International nature of B.C. extortion cases makes investigations complex: former RCMP officer",
+      "published_at": "2025-11-13T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The complexity of these investigations will be part of the discussion at an extortion town hall event being hosted by CBC B.C. on Thursday evening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -238,19 +407,6 @@
       }
     },
     {
-      "id": "490a902d413e2814461a5ef010c9788fdb6cc6fd",
-      "url": "https://www.cbc.ca/sports/olympics/winter/warming-weather-winter-sports-part-2-2025-9.6976726?cmp=rss",
-      "title": "As the planet gets warmer, some athletes have taken on a new role: climate advocates",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Athletes who rely on the natural environment for their sport are seeing the impact of climate change up close. And many see a responsibility to advocate for change. Canadian athletes have called on the prime minister and the IOC to make climate a top priority.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "9b246db76a49de2de4ce4a5fa5b0c5faab914c57",
       "url": "https://www.cbc.ca/news/world/gaza-power-electricity-9.6976312?cmp=rss",
       "title": "After 2 years of war, Gaza electric company takes first steps to turn the lights back on",
@@ -260,32 +416,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "215c9e5a82a07f0cc922ae4d6bba224486976e69",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-hockey-team-abuse-allegations-9.6970720?cmp=rss",
-      "title": "Hamilton boys hockey team culture was ‘cesspool’ of bullying and sexual misconduct: adjudicator",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Hockey Canada investigation found youth hockey players in Hamilton filmed bullying and harassment of teammates. One victim’s family complained. Nearly two years later, they can talk about what happened.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.932,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f803be55de93dfd9c208e6b4935ab33f20cf953",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-doctors-bill-2-clinic-gmf-9.6975880?cmp=rss",
-      "title": "Inside a Montreal clinic struggling to deal with Quebec’s imposed health reforms",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Doctors at one of Montreal's largest family medicine clinics, located in Ahuntsic, say they are worried Bill 2 will make it harder to do their jobs. Since the reform was originally tabled by the Quebec government last spring, the clinic's medical director said he has lost nine family doctors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
         "subjectivity_hint": "low"
       }
     },
@@ -316,15 +446,15 @@
       }
     },
     {
-      "id": "81061be245fecade543eec82926baf8502856291",
-      "url": "https://www.cbc.ca/player/play/9.6977003?cmp=rss",
-      "title": "Why The Tragically Hip are lending their songs to Boi-1da ahead of World Cup | Hanomansing Tonight",
-      "published_at": "2025-11-12T15:19:43-05:00",
-      "section": "Canada",
-      "summary_auto": "The Tragically Hip have given award-winning producer Boi-1da access to the band's entire catalogue for a special project to raise funds for the Canada Soccer Foundation. Rob Baker, guitarist for the Tragically Hip, discusses more about the project.",
+      "id": "8f803be55de93dfd9c208e6b4935ab33f20cf953",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-doctors-bill-2-clinic-gmf-9.6975880?cmp=rss",
+      "title": "Inside a Montreal clinic struggling to deal with Quebec’s imposed health reforms",
+      "published_at": "2025-11-12T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Doctors at one of Montreal's largest family medicine clinics, located in Ahuntsic, say they are worried Bill 2 will make it harder to do their jobs. Since the reform was originally tabled by the Quebec government last spring, the clinic's medical director said he has lost nine family doctors.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.919,
+        "sentiment": -0.765,
         "subjectivity_hint": "low"
       }
     }
