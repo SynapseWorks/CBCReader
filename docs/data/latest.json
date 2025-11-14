@@ -1,18 +1,252 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-13T20:08:47.251930-05:00",
+  "generated_at": "2025-11-14T09:14:35.945339-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "c499d6e8328e3bd880ad781bad3f063cca45fb93",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-grey-cup-primer-9.6978463?cmp=rss",
-      "title": "Grey Cup primer: Can Montreal stop Saskatchewan?",
-      "published_at": "2025-11-13T14:12:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC Sports' daily newsletter previews the 112th Grey Cup game between the Alouettes and Roughriders on Sunday night in Winnipeg.",
+      "id": "24d02344064b48ec8d1991bd0f0cc3f116372f2f",
+      "url": "https://www.cbc.ca/player/play/9.6978809?cmp=rss",
+      "title": "Indigenous protesters block entrance to Brazil climate summit",
+      "published_at": "2025-11-14T03:41:21-05:00",
+      "section": "World",
+      "summary_auto": "Dozens of Indigenous protesters blocked the front of the COP30 summit venue in Belem, Brazil, on Friday morning, staging a sit-in that forced delegates to use a side entrance to resume their negotiations on tackling climate change.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.202,
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb74034db6701bf9a92de985167b221c95eedbf6",
+      "url": "https://www.cbc.ca/news/world/fla-execution-jennings-state-record-9.6978728?cmp=rss",
+      "title": "Florida carries out record 16th execution of the year, for child murderer sentenced to death in 1980",
+      "published_at": "2025-11-14T03:17:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A man convicted of the 1979 killing of a six-year-old girl who was abducted from her bedroom has been put to death in a record 16th execution in Florida this year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.969,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ae5861cf2f481fb94877d39eac96e236c29d56f",
+      "url": "https://www.cbc.ca/news/world/london-judge-global-mining-giant-bhp-group-brazil-dam-9.6978732?cmp=rss",
+      "title": "U.K. judge finds global mining giant BHP Group liable in Brazil's worst environmental disaster",
+      "published_at": "2025-11-14T02:50:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A London judge has ruled that global mining giant BHP Group is liable in Brazil's worst environmental disaster when a dam collapse 10 years ago unleashed tons of toxic waste into a major river, killing 19 people and devastating villages downstream.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.987,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c499d6e8328e3bd880ad781bad3f063cca45fb93",
+      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-grey-cup-primer-9.6978463?cmp=rss",
+      "title": "Grey Cup primer:  Can Montreal stop Saskatchewan?",
+      "published_at": "2025-11-14T02:07:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "613e2a059b47da83ebab0f039873cb0f76a0e5b4",
+      "url": "https://www.cbc.ca/news/world/russian-missile-drone-attack-kyiv-9.6978614?cmp=rss",
+      "title": "6 killed, dozens injured in Russian drone and missile attack on Kyiv overnight",
+      "published_at": "2025-11-13T23:56:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Russia launched a heavy drone and missile attack on Ukraine early on Friday, killing six people in Kyiv and two more in the south in strikes on energy facilities, apartment buildings and infrastructure, Ukrainian officials said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.957,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "220e91ba3fb16bbb775b88f18dfeac6a52c8c43c",
+      "url": "https://www.cbc.ca/news/canada/opioid-overdose-crisis-street-drug-government-funding-9.6976562?cmp=rss",
+      "title": "They’re at risk of dying from opioid overdose. The government cut funding that could help them",
+      "published_at": "2025-11-13T23:02:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9595d831c6290ab3b65cd4280716f0d3656ef520",
+      "url": "https://www.cbc.ca/news/world/trump-50-year-mortgages-canada-9.6978153?cmp=rss",
+      "title": "Donald Trump’s 50-year mortgage plan is being panned. It also wouldn’t fly in Canada",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Many industry observers have been cool to Donald Trump’s proposal to allow 50-year mortgages in the United States. And it’s very unlikely such an idea would gain traction anytime soon in Canada, where amortization periods have been shortened over the last two decades.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.875,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b457d8742ddf39f8723f851a6b8959e112477142",
+      "url": "https://www.cbc.ca/news/business/fast-food-industry-gen-z-diners-9.6971302?cmp=rss",
+      "title": "Gen Z diners snubbing the high cost of fast food. Can they be lured back?",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fast-food chains like Chipotle and McDonald’s are lowering their sales forecasts for next year and luring people in with value meals as they foresee a pullback in spending from low-income and younger diners.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cfd5a8c18a721f72b95a3b9e11f25c0b2a6fa520",
+      "url": "https://www.cbc.ca/news/world/gaza-rubble-bodies-search-9.6978383?cmp=rss",
+      "title": "5-year-old Masa has been missing for more than a year. Hope arrives when they find a small white shoe",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mu’ayyad Ajjour and his neighbour Mohamed Zaida have searched every day among the ruins of a building, hoping they will find the remains of five-year-old Masa, Ajjour's cousin, so they can give her a proper burial. Her body is one of thousands thought to be buried in the debris of the war in Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c4c1619fa12f129a8c2132f9393d561f0527cd4c",
+      "url": "https://www.cbc.ca/player/play/9.6978314?cmp=rss",
+      "title": "Crowning Canada's worst commute",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Are you stuck in traffic everyday and thinking your commute is the absolute worst? Maybe it is. Marketplace has crunched the data and has the definitive answer of Canada's top 10-worst commutes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "220e91ba3fb16bbb775b88f18dfeac6a52c8c43c",
+      "url": "https://www.cbc.ca/news/canada/opioid-overdose-crisis-street-drug-government-funding-9.6976562?cmp=rss",
+      "title": "Health Canada ignored expert advice to expand access to safe drugs for opioid users, internal documents show",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "As deadly drug overdoses climbed across Canada, decision-makers faced political backlash for funding programs that gave drug users prescribed opioids and, against their own experts’ advice, scaled back their support of safe supply programs, an investigation by CBC’s the fifth estate has found.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cfd5a8c18a721f72b95a3b9e11f25c0b2a6fa520",
+      "url": "https://www.cbc.ca/news/world/gaza-rubble-bodies-search-9.6978383?cmp=rss",
+      "title": "They've been searching every day for a 5-year-old girl. Her remains may be under rubble",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Mu’ayyad Ajjour and his neighbour Mohamed Zaida have searched every day among the ruins of a building, hoping they will find the remains of five-year-old Masa, Ajjour's cousin, so they can give her a proper burial. Her body is one of thousands thought to be buried in the debris of the war in Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b457d8742ddf39f8723f851a6b8959e112477142",
+      "url": "https://www.cbc.ca/news/business/fast-food-industry-gen-z-diners-9.6971302?cmp=rss",
+      "title": "The fast-food industry is trying to lure in Gen Z diners. Is the meal deal helping?",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "Fast-food chains like Chipotle and McDonald’s are lowering their sales forecasts for next year and luring people in with value meals as they foresee a pullback in spending from low-income and younger diners.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "278a2b0fa58793893f2620c915fc7ccca74a8ba1",
+      "url": "https://www.cbc.ca/news/business/bread-price-fixing-settlement-deadline-9.6978171?cmp=rss",
+      "title": "You could get at least $50 from the bread price-fixing settlement. But the deadline is coming up",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "Your chance to get a piece of a $500-million class action settlement, following a years-long bread price fixing scheme will soon expire.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6998b6bbf71c80a701965be9d00e2c2207c5769a",
+      "url": "https://www.cbc.ca/news/entertainment/the-running-man-review-9.6978354?cmp=rss",
+      "title": "Glen Powell's The Running Man seriously runs out of steam",
+      "published_at": "2025-11-13T23:00:00-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Edgar Wright's The Running Man does boast impressive action sequences. But any cultural observation the 1980 Stephen King story once offered seems out of date now.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85e8b0cf9cf280622de646db8d06c42f83de565c",
+      "url": "https://www.cbc.ca/player/play/9.6978618?cmp=rss",
+      "title": "#TheMoment he ran the 276-km Cabot Trail in memory of his dad",
+      "published_at": "2025-11-13T17:13:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Herbie Sakalauskas tells The National about the moment he ran 276 kilometres of the Cabot Trail in four days and raised over $41,000 for charity in memory of his dad.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0bb51ba13c9efee69f0997cb63c62a477e1ce460",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/avian-flu-ostriches-burial-9.6978573?cmp=rss",
+      "title": "'Deep burial' for ostriches at B.C. landfill as CFIA completes cull and disposal work",
+      "published_at": "2025-11-13T16:06:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian Food Inspection Agency says it has completed its \"active operations\" at the British Columbia ostrich farm where its flock was culled by professional marksmen following an outbreak of avian flu. A statement from the agency says the carcasses of 314 ostriches as well as eggs and other material were disposed of through \"deep burial\" at a B.C. landfill.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7a884c06a4e0587b20011091b8d97b8304c386b0",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/extortion-town-hall-cbc-news-surrey-bc-live-9.6976890?cmp=rss",
+      "title": "Frustrated community grills police, politicians about extortion in B.C.’s Lower Mainland",
+      "published_at": "2025-11-13T15:53:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cc5e8c90bd883588a83577d120d6ebbaa520015d",
+      "url": "https://www.cbc.ca/news/world/israel-confirms-militants-return-hostage-remains-9.6978527?cmp=rss",
+      "title": "Israel returns bodies of 15 Palestinians to Gaza after receiving remains of hostage",
+      "published_at": "2025-11-13T15:41:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israel said Thursday that militants have handed over the body of one of the last four remaining hostages taken during the Oct. 7, 2023, attack that launched the war in Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
         "subjectivity_hint": "low"
       }
     },
@@ -39,32 +273,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e2725fbf9536e08801834ae4cb940d320eaa9a27",
-      "url": "https://www.cbc.ca/news/politics/government-spending-outside-contractors-9.6978363?cmp=rss",
-      "title": "Government spends $19B on external services, despite vow to trim spending",
-      "published_at": "2025-11-13T13:18:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Government records show the federal government spent more than $19 billion on external professional and special services in 2024-25 — an increase of almost $2 billion since last year and of about $8.5 billion since 2020.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22a1355344ff205d537c290f4bbbab6975d0bf9f",
-      "url": "https://www.cbc.ca/news/politics/veteran-disability-benefit-rcmp-jill-mcknight-9.6978193?cmp=rss",
-      "title": "Disability pension changes won’t impact veterans: Finance minister",
-      "published_at": "2025-11-13T12:56:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government states that its changes to disability pension for service members will not result in veterans receiving less money. The change will only apply to RCMP members, according to the government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -104,357 +312,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.953,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b82a45d42e42cb65bc00dd76115d909bf17bc812",
-      "url": "https://www.cbc.ca/news/politics/csis-director-terror-investigations-9.6977874?cmp=rss",
-      "title": "Nearly 1 in 10 terrorism investigations at CSIS involves a minor: spy boss",
-      "published_at": "2025-11-13T09:13:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The head of Canada’s spy agency is warning about a “worrying” number of young people becoming radicalized.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cbcb314bd6577f2d0606bbb040d8e667f8f4bf16",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-non-speed-camera-road-safety-measures-9.6977879?cmp=rss",
-      "title": "Ontario to spend $210M on non-speed camera road safety measures following ban",
-      "published_at": "2025-11-13T09:11:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario Premier Doug Ford's government is earmarking $210 million for municipalities to implement traffic-calming measures as its ban on speed cameras is set to take effect.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b99e4a5ed636c6527aaeff1dfa659f9be067e199",
-      "url": "https://www.cbc.ca/news/canada/windsor/edmund-fitzgerald-life-ring-settlement-9.6977767?cmp=rss",
-      "title": "Relic from wreck of the Edmund Fitzgerald is returned, plus $600K from Michigan",
-      "published_at": "2025-11-13T08:15:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The state of Michigan is giving up ownership of a rare relic from the famous Edmund Fitzgerald shipwreck, just weeks after it strangely obtained it through a settlement in a lawsuit that was unrelated to the doomed freighter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b99e4a5ed636c6527aaeff1dfa659f9be067e199",
-      "url": "https://www.cbc.ca/news/canada/windsor/edmund-fitzgerald-life-ring-settlement-9.6977767?cmp=rss",
-      "title": "Relic from the wreck of the Edmund Fitzgerald is returned, plus $600K from Michigan",
-      "published_at": "2025-11-13T08:15:11-05:00",
-      "section": "World",
-      "summary_auto": "The state of Michigan is giving up ownership of a rare relic from the famous Edmund Fitzgerald shipwreck, just weeks after it strangely obtained it through a settlement in a lawsuit that was unrelated to the doomed freighter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a53334c298cf977268f95e669fbc0353128c92d",
-      "url": "https://www.cbc.ca/news/entertainment/rockstar-grand-theft-auto-layoffs-union-9.6977594?cmp=rss",
-      "title": "Grand Theft Auto makers accused of union-busting after firing employees in Canada, U.K.",
-      "published_at": "2025-11-13T07:54:30-05:00",
-      "section": "Business",
-      "summary_auto": "The company behind the Grand Theft Auto games fired more than 30 employees last week in what a union leader called an egregious example of union-busting, with some effects being felt in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a68aedafb6a2296cd296a204499c9942710684bf",
-      "url": "https://www.cbc.ca/news/canada/calgary/meg-takeover-saga-draws-to-a-close-as-cenovus-completes-purchase-9.6977684?cmp=rss",
-      "title": "MEG takeover saga draws to a close as Cenovus completes purchase",
-      "published_at": "2025-11-13T07:36:27-05:00",
-      "section": "Business",
-      "summary_auto": "Oilsands giant Cenovus Energy has completed its takeover of MEG Energy, and gets another 110,000 barrels of production per day with the purchase.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f3cbdd5965e19d97be2ed46a1330896f9afbf75",
-      "url": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss",
-      "title": "Trump-appointed attorneys have been disqualified 3 times this year. Will the Comey, James prosecutor be next?",
-      "published_at": "2025-11-13T07:18:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Former FBI director James Comey and current New York State Attorney General Letitia James have argued their recent indictments are politically motivated prosecutions fuelled by Donald Trump's animus. They say the appointment of Trump's hand-picked choice to oversee their cases negates their indictments altogether.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f3cbdd5965e19d97be2ed46a1330896f9afbf75",
-      "url": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss",
-      "title": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
-      "published_at": "2025-11-13T07:18:34-05:00",
-      "section": "World",
-      "summary_auto": "Former FBI director James Comey and current New York State Attorney General Letitia James have argued their recent indictments are politically motivated prosecutions fuelled by Donald Trump's animus. They say the appointment of Trump's hand-picked choice to oversee their cases negates their indictments altogether.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ffba674f1a08f6f159f9ca3f3cad304332d6f726",
-      "url": "https://www.cbc.ca/news/canada/in-photos-stargazers-treated-to-more-northern-lights-9.6977429?cmp=rss",
-      "title": "IN PHOTOS | Stargazers treated to more northern lights",
-      "published_at": "2025-11-13T06:52:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Solar storms brought colourful northern lights — a.k.a. aurora borealis — across much of Canada, the United States and parts of Europe for a second straight night on Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bf6a9bdd5396c68005e87cbb1f4f4b11f2c999af",
-      "url": "https://www.cbc.ca/sports/soccer/afc-toronto-vancouver-rise-fc-nsl-final-preview-9.6977554?cmp=rss",
-      "title": "'Relentless' AFC Toronto set to battle and host 'hard-nosed' Vancouver Rise FC in 1st NSL Final",
-      "published_at": "2025-11-13T06:30:42-05:00",
-      "section": "Canada",
-      "summary_auto": "The first Northern Super League Final will never be forgotten, regardless of Saturday's outcome. But it could be more memorable if host AFC Toronto and Vancouver Rise FC match the excitement of their respective paths to the Canadian professional women's soccer championship.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.932,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6f79244e15400b0e1e47bdbe0dbf6a615247cddc",
-      "url": "https://www.cbc.ca/news/politics/csis-referndums-foreign-interference-9.6977513?cmp=rss",
-      "title": "CSIS braces for possible foreign interference as Alberta, Quebec eye sovereignty",
-      "published_at": "2025-11-13T06:14:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "With Canada facing not one but two possible sovereignty referendums in the coming years, the head of the country’s spy agency is bracing for the possibility that foreign adversaries could try to meddle in them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6cbc396e286286b6d440e582715e3982691f9f5e",
-      "url": "https://www.cbc.ca/news/health/ultra-processed-food-colon-cancer-9.6977320?cmp=rss",
-      "title": "Eating more ultra-processed foods tied to increased risk of early-onset colorectal cancer",
-      "published_at": "2025-11-13T06:14:31-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "842322e9edba66eb5c6a8d279bc6d395a972d48d",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/university-regina-chancellor-cadmus-delorme-indigenous-identity-9.6976311?cmp=rss",
-      "title": "University of Regina incorporates a stole signifying Indigenous identity for this year’s fall graduation",
-      "published_at": "2025-11-13T06:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "As 10th Chancellor of the University of Regina, Cadmus Delorme sought to ensure his Indigenous identity is reflected in his role.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ccc231b52daaae1a3924bc6f15b2de5ac7d741ce",
-      "url": "https://www.cbc.ca/news/health/polio-wastewater-germany-9.6977348?cmp=rss",
-      "title": "Wild form of polio found in German sewage sample. What does that mean?",
-      "published_at": "2025-11-13T05:54:28-05:00",
-      "section": "Health",
-      "summary_auto": "Despite the detection, there have been no reports of infection in Germany and scientists say the risk is minimized by high vaccination coverage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "33ce7d04b27c271ed48bf502a562bc0fe4872196",
-      "url": "https://www.cbc.ca/news/world/settlers-torch-mosque-west-bank-israel-condemnation-9.6977301?cmp=rss",
-      "title": "Israeli settlers torch West Bank mosque, scrawl hateful messages",
-      "published_at": "2025-11-13T04:58:00-05:00",
-      "section": "World",
-      "summary_auto": "Israeli settlers torched and defaced a mosque in a Palestinian village in the central West Bank overnight, scribbling hateful messages in a show of defiance, a day after some Israeli leaders condemned a recent attack by settlers against Palestinians.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c07c1a7ad6576efceb907dc101765468fdd9897c",
-      "url": "https://www.cbc.ca/news/entertainment/adele-acting-debut-9.6977239?cmp=rss",
-      "title": "Adele to make acting debut in Tom Ford adaptation of Anne Rice's Cry to Heaven",
-      "published_at": "2025-11-13T04:39:11-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The film is currently in pre-production with aims for a fall 2026 release, with fashion mogul Tom Ford at the helm. Ford also tapped Nicholas Hoult, Aaron Taylor-Johnson, Colin Firth, Adolescence breakout Owen Cooper and Hunter Schafer for roles in the adaptation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "860a6625dcbae544161f673ef6d956ed66a49a6f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/international-nature-of-b-c-extortion-cases-9.6976506?cmp=rss",
-      "title": "International nature of B.C. extortion cases makes investigations complex: former RCMP officer",
-      "published_at": "2025-11-13T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The complexity of these investigations will be part of the discussion at an extortion town hall event being hosted by CBC B.C. on Thursday evening.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "abec442fcbecd227489b14c3c5abfea7f435c69e",
-      "url": "https://www.cbc.ca/news/world/zelenskyy-ukraine-corruption-scandal-fallout-ministers-9.6977211?cmp=rss",
-      "title": "EU renews demand that Ukraine crack down on corruption in wake of major energy scandal",
-      "published_at": "2025-11-13T03:08:20-05:00",
-      "section": "World",
-      "summary_auto": "European Union officials warned Ukraine on Thursday that it must keep cracking down on graft in the wake of a major corruption scandal that could hurt the country's ability to attract financial help. But they also offered assurances that aid will continue to flow as Kyiv strains to hold back Russia's invasion.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.069,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a0a6242c92c48cb0e3f631b496903e40cface745",
-      "url": "https://www.cbc.ca/player/play/9.6977203?cmp=rss",
-      "title": "Taps run dry as Iran faces drought crisis",
-      "published_at": "2025-11-13T02:48:50-05:00",
-      "section": "World",
-      "summary_auto": "Iran is grappling with its worst water crisis in decades after a scorching summer. President Masoud Pezeshkian has cautioned that if rainfall does not arrive by December, the government must start rationing water in Tehran and may even have to evacuate the city.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.923,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "070a3bde64164f535f41be959ce1d94c4e13f5b7",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-grey-cup-veterans-9.6976958?cmp=rss",
-      "title": "Saskatchewan Roughriders don’t lack in Grey Cup experience",
-      "published_at": "2025-11-13T02:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Grey Cup is just days away and the Saskatchewan Roughriders are putting the final touches on Sunday's game plan. It’s the first time in over 10 years that the Riders have been to the Grey Cup but the team certainly doesn't lack in Grey Cup experience.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.609,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "afcd85b54f2ad05b038513ebc98398396d356a18",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-lung-wellness-clinic-opening-9.6976405?cmp=rss",
-      "title": "New lung clinic to tackle Nova Scotia's long waitlists for breathing tests",
-      "published_at": "2025-11-13T00:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "A new lung clinic opening in Halifax at the end of November is hoping to tackle long waitlists for breathing tests, while also aiming to act as a recruitment tool to fill respiratory therapy vacancies in Nova Scotia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ff58ebb30f918c1d2f899693c5813251d6550920",
-      "url": "https://www.cbc.ca/news/health/cbc-explains-flu-shots-influenza-vaccine-2025-9.6976530?cmp=rss",
-      "title": "What’s the point of getting a flu shot? Here’s what the science says",
-      "published_at": "2025-11-12T23:20:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73d843ad2f347a19d092ef372f58af865e3d56fc",
-      "url": "https://www.cbc.ca/news/world/celebrity-weight-loss-ozempic-9.6975758?cmp=rss",
-      "title": "Once-curvy celebrities called 'unrecognizable' after weight loss. But why are we so mad about it?",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "While society's obsession with female bodies is nothing new, a wave of celebrities who embraced their larger bodies are shedding pounds — often with the help of weight-loss drugs such as Ozempic and Mounjaro — and it's touched a cultural nerve. While some have bemoaned the supposed betrayal, others point out the hypocrisy of shaming women for losing weight.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9b246db76a49de2de4ce4a5fa5b0c5faab914c57",
-      "url": "https://www.cbc.ca/news/world/gaza-power-electricity-9.6976312?cmp=rss",
-      "title": "After 2 years of war, Gaza electric company takes first steps to turn the lights back on",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "While crews were deployed to parts of Gaza to do maintenance work on power lines, they say they face challenges that stall the work, including border closures blocking essential equipment and machinery.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ff58ebb30f918c1d2f899693c5813251d6550920",
-      "url": "https://www.cbc.ca/news/health/cbc-explains-flu-shots-influenza-vaccine-2025-9.6976530?cmp=rss",
-      "title": "Is there any point in getting a flu shot that's mismatched to the virus? Here’s what the science says",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Some scientists say this year's flu shot isn't well matched to a key strain that could spread widely in the months ahead. So, is there still a point in getting it? Medical experts say: absolutely. Here’s why.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.763,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f17e16e161491ba6667d4561838db61ca018bfef",
-      "url": "https://www.cbc.ca/news/business/us-shutdown-economy-tariffs-9.6976669?cmp=rss",
-      "title": "A post-shutdown fog will hang over the U.S. economy for months",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "Key economic data was not gathered during the U.S. government shut down — casting a fog of uncertainty over the state of the U.S. economy at a crucial time. The Canada-U.S. trade war has dragged on and the tariffs have begun to bite, but no one can say for certain whether that has slowed the economy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f803be55de93dfd9c208e6b4935ab33f20cf953",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-doctors-bill-2-clinic-gmf-9.6975880?cmp=rss",
-      "title": "Inside a Montreal clinic struggling to deal with Quebec’s imposed health reforms",
-      "published_at": "2025-11-12T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Doctors at one of Montreal's largest family medicine clinics, located in Ahuntsic, say they are worried Bill 2 will make it harder to do their jobs. Since the reform was originally tabled by the Quebec government last spring, the clinic's medical director said he has lost nine family doctors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
         "subjectivity_hint": "low"
       }
     }
