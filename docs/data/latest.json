@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-15T15:14:16.657482-05:00",
+  "generated_at": "2025-11-15T20:13:13.329323-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "254573e92eb0f24b012eebc1b8d12dc6fed6d86b",
+      "url": "https://www.cbc.ca/sports/football/montreal-carabins-thump-saint-mary-s-huskies-to-advance-to-vanier-cup-game-9.6980577?cmp=rss",
+      "title": "Montreal Carabins thump Saint Mary's Huskies to advance to Vanier Cup game",
+      "published_at": "2025-11-15T13:24:49-05:00",
+      "section": "Canada",
+      "summary_auto": "Mathieu Barsalou ran in four touchdowns as the Montreal Carabins defeated the Saint Mary's Huskies 49-19 on Saturday in the Uteck Bowl.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d11646b406b6dd630ad787b31e58ab0e7238b155",
+      "url": "https://www.cbc.ca/news/canada/richard-falk-detained-cbsa-palestine-conference-9.6980514?cmp=rss",
+      "title": "Prominent legal scholar detained at Canadian border while on his way to a conference on Palestine",
+      "published_at": "2025-11-15T11:54:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A well-known academic and former UN special rapporteur says he was detained by customs agents in Toronto while on his way to speak at a conference on human rights violations against Palestinians.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "2259795fdbdbeb73a1b44cf84a90c83157ca476a",
       "url": "https://www.cbc.ca/sports/soccer/federal-government-plans-to-invest-up-to-5-45m-to-help-grow-women-s-soccer-9.6980464?cmp=rss",
@@ -13,6 +39,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.92,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4d0e02b351b890196d00cd9dfe14453a75cdf330",
+      "url": "https://www.cbc.ca/news/canada/ottawa/1-dead-after-2-planes-collide-north-of-cornwall-9.6980463?cmp=rss",
+      "title": "1 dead after 2 planes collide north of Cornwall",
+      "published_at": "2025-11-15T08:53:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Transportation Safety Board investigators have been dispatched to the scene of a fatal mid-air plane crash southeast of Ottawa that claimed the life of one pilot.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -53,6 +92,19 @@
         "article_type": "News",
         "sentiment": 0.552,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "df6ceab717f00fcb52385aa5b3c04712adbec098",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-tb-alberta-outbreak-9.6980065?cmp=rss",
+      "title": "Edmonton doctor says inner-city TB outbreak low risk to general public",
+      "published_at": "2025-11-15T03:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The head of Alberta's tuberculosis clinic says an outbreak in Edmonton's inner-city is is of little risk to Edmontonians at large.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.613,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -108,6 +160,19 @@
       }
     },
     {
+      "id": "9f44c1e766f599df8457922940f76bf3ab9dc898",
+      "url": "https://www.cbc.ca/news/world/sudan-uae-canada-carney-9.6976682?cmp=rss",
+      "title": "Carney heads to the UAE amid questions about atrocities in Sudan",
+      "published_at": "2025-11-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney will travel to the United Arab Emirates next week, as both that country and Canada face questions over alleged links to actrocities in Sudan.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "e6e456c33ea183505d3f7cedaa98afe6c0edd36e",
       "url": "https://www.cbc.ca/news/politics/carney-dentremont-poilievre-budget-analysis-9.6979682?cmp=rss",
       "title": "Is Mark Carney's budget a Progressive Conservative budget?",
@@ -136,13 +201,13 @@
     {
       "id": "d6409863f332c2df55e548538f803af7d183c44a",
       "url": "https://www.cbc.ca/sports/soccer/afc-toronto-vancouver-rise-fc-nsl-final-nov-15-9.6979302?cmp=rss",
-      "title": "Watch the NSL Final: AFC Toronto vs. Vancouver Rise FC",
+      "title": "Resilient Vancouver Rise captures inaugural NSL championship with win over AFC Toronto",
       "published_at": "2025-11-14T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The first Northern Super League Final will pit the host AFC Toronto against Vancouver Rise FC. Live coverage is underway from BMO Field in Toronto.",
+      "summary_auto": "Vancouver Rise are the first-ever Northern Super League champions after a 2-1 win over AFC Toronto at BMO Field on Saturday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.599,
+        "sentiment": 0.957,
         "subjectivity_hint": "low"
       }
     },
@@ -157,19 +222,6 @@
         "article_type": "News",
         "sentiment": 0.052,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9f44c1e766f599df8457922940f76bf3ab9dc898",
-      "url": "https://www.cbc.ca/news/world/sudan-uae-canada-carney-9.6976682?cmp=rss",
-      "title": "Carney heads to the UAE amid questions about atrocities in Sudan",
-      "published_at": "2025-11-14T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney will travel to the United Arab Emirates next week, as both that country and Canada face questions over alleged links to actrocities in Sudan.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
       }
     },
     {
