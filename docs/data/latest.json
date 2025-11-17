@@ -1,18 +1,213 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-16T20:09:35.932994-05:00",
+  "generated_at": "2025-11-17T09:15:05.889036-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "ac11dbbe63a325077b6e624cbc443ed46d6da1f1",
-      "url": "https://www.cbc.ca/sports/football/cfl/roughriders-lead-alouettes-15-7-at-grey-cup-9.6981016?cmp=rss",
-      "title": "Roughriders lead Alouettes 15-7 at Grey Cup",
-      "published_at": "2025-11-16T13:18:20-05:00",
+      "id": "eece4e81ad98da04c04ca8a9a4aa4c8851da7b60",
+      "url": "https://www.cbc.ca/news/business/inflation-rate-october-9.6981287?cmp=rss",
+      "title": "Inflation rate ticks down to 2.2% in October",
+      "published_at": "2025-11-17T03:36:36-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Montreal Alouettes take on the Saskatchewan Roughriders for the Canadian Football League's highest prize at Princess Auto Stadium in Winnipeg.",
+      "summary_auto": "Canada's inflation rated edged down to 2.2 per cent in October, largely due to gas prices falling at a faster pace, Statistics Canada said on Monday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.542,
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c202227ab565de8f895240b7a85d05b8bbb66956",
+      "url": "https://www.cbc.ca/news/world/saudi-medina-accident-india-pilgrims-9.6981219?cmp=rss",
+      "title": "Dozens of religious pilgrims from India feared dead in Saudi bus accident",
+      "published_at": "2025-11-17T02:49:26-05:00",
+      "section": "World",
+      "summary_auto": "Dozens of Indian pilgrims are feared dead after a bus was in collision with a diesel tanker on Monday near the holy city of Medina in Saudi Arabia, Indian officials said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.967,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "edc057bb9b183ecc6c0a6aedcb1a54bff4795c6a",
+      "url": "https://www.cbc.ca/player/play/9.6980993?cmp=rss",
+      "title": "Pediatricians warn application of Bill 2 could leave many children undiagnosed",
+      "published_at": "2025-11-17T02:40:32-05:00",
+      "section": "Health",
+      "summary_auto": "As Quebec physicians continue to oppose the CAQ government’s controversial law that ties a part of doctors' pay to performance indicators, pediatricians argue that the new vulnerability classification in the law will worsen access to care for the province’s youngest patients.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d5788cc6ead87c2147e22914c1f0e207f3367ec3",
+      "url": "https://www.cbc.ca/news/canada/christmas-budget-gifts-9.6977866?cmp=rss",
+      "title": "Christmas presents, in this economy? How some people are shifting their spending",
+      "published_at": "2025-11-17T02:38:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9cad2ea125f08c20627c069a95c76c48bc0894b5",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364?cmp=rss",
+      "title": "Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates",
+      "published_at": "2025-11-17T02:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Some Alberta pediatricians say they've got an idea to help improve routine childhood vaccination rates, but they're facing roadblocks. The doctors want the shots, including measles and whooping cough vaccines, made routinely available in pediatric hospitals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "255ac6c902348c6ea27a5221b53aecc856ba0ed4",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-man-eviction-complaints-residential-tenancies-program-9.6979505?cmp=rss",
+      "title": "Halifax man faces eviction following year of complaints to property management company",
+      "published_at": "2025-11-17T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ralph Pearson moved into a Halifax apartment last November. He signed a one-year fixed-term lease and was told the unit was “move-in ready,” but since then he has been trying to get issues resolved with little success.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.587,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b04e3ed1bc4d5928780b43d7359d0c1373974fe",
+      "url": "https://www.cbc.ca/news/world/epstein-trump-files-release-sunday-9.6981122?cmp=rss",
+      "title": "In reversal, Trump urges Republicans to vote to release Epstein files",
+      "published_at": "2025-11-16T23:59:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump on Sunday urged his fellow Republicans in the House of Representatives to vote for the release of files related to the late convicted sex offender Jeffrey Epstein, after weeks of railing against the Democrats' desire to pass the Epstein Transparency Act.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f12ee1f2960a2c7a7d28053c2eacfb0c5a915d2d",
+      "url": "https://www.cbc.ca/news/world/bangladesh-tribunal-sentence-exiled-hasina-9.6981196?cmp=rss",
+      "title": "Bangladesh's ousted PM Sheikh Hasina sentenced to death for student crackdown",
+      "published_at": "2025-11-16T23:57:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Bangladesh war crimes court sentenced ousted prime minister Sheikh Hasina to death on Monday, concluding a months-long trial that found her guilty of ordering a deadly crackdown on a student-led uprising last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.94,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d526a2532fcbd8c77dec9cd64e63855a4b3c630",
+      "url": "https://www.cbc.ca/news/canada/toronto/skills-development-fund-explained-9.6979595?cmp=rss",
+      "title": "A minister under fire, alleged lobbyist connections: Ontario's Skills Development Fund controversy explained",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The latest scandal at Queen’s Park revolves around the Skills Development Fund – a little known pocket of government funding for organizations to address challenges in hiring, training or retraining workers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b601944a3e206c5a616c2757ad6df8ab3dc28074",
+      "url": "https://www.cbc.ca/news/investigates/crypto-to-cash-canada-9.6979928?cmp=rss",
+      "title": "Illicit crypto-to-cash deals are unlocking new ways to launder money in Canada",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has long had a problem with dirty money in its economy, whether in banking or real estate, but the advent of anonymous crypto-to-cash services has opened new frontiers for potential laundering and illicit finance, experts say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "078b029d24ae359b837e240365ccaed30581e950",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-empp-wait-times-refugee-9.6979625?cmp=rss",
+      "title": "Federal refugee employment program faces 'extremely long, ballooning wait times'",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Instead of months, a federal program is now taking years to process the applications of skilled refugees living overseas and have a job waiting for them in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df13885527d906de51f6815495dbc927b384bb50",
+      "url": "https://www.cbc.ca/news/gopublic/go-public-rogers-customer-service-issues-9.6977461?cmp=rss",
+      "title": "Rogers clients complain of customer service nightmare, spending hours on hold to resolve simple issues",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Rogers customers say they’re furious about what they say is a lack of customer service — spending hours and hours trying to cancel services or fix bills — as workers who handled Rogers customer service calls get laid off. Experts point to a lack of competition in the industry and few regulatory protections as the culprit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6635cecd51f4a74fcfc96bdd482fb56393ced3ac",
+      "url": "https://www.cbc.ca/news/canada/ottawa/canada-budget-2025-student-grants-experts-students-university-ottawa-9.6973812?cmp=rss",
+      "title": "Budget 2025 slashes Canada Student Grants, experts warn",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Some experts are concerned that post-secondary students will have access to less money through the Canada Student Grant (CSG), based on a line item buried in Budget 2025.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "11e3c02f133426b24d92911b1c2767d8c3c7ff8a",
+      "url": "https://www.cbc.ca/books/bookends/back-on-earth-astronaut-chris-hadfield-writes-about-space-9.6977807?cmp=rss",
+      "title": "Back on earth, astronaut Chris Hadfield writes about space",
+      "published_at": "2025-11-16T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The Canadian author discussed his book, Final Orbit, on Bookends with Mattea Roach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "20853c6bd42a8264db9eb3c45ca7dc880ba34511",
+      "url": "https://www.cbc.ca/news/canada/calgary/tanya-fir-calgary-peigan-voicemail-9.6981046?cmp=rss",
+      "title": "Calgary MLA apologizes for using 'inappropriate word' in voicemail to constituent",
+      "published_at": "2025-11-16T16:49:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Calgary-Peigan MLA Tanya Fir has apologized to a constituent after leaving a voicemail punctuated with profanity, which was shared online.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b8f28eab5889ce0674beea3263cfa02fdb757ca1",
+      "url": "https://www.cbc.ca/sports/football/cfl/roughriders-defeat-alouettes-25-17-to-win-grey-cup-9.6981016?cmp=rss",
+      "title": "Roughriders defeat Alouettes 25-17 to win Grey Cup",
+      "published_at": "2025-11-16T13:18:20-05:00",
+      "section": "Canada",
+      "summary_auto": "The Saskatchewan Roughriders have won the 2025 Grey Cup with a 25-17 victory tonight over the Montreal Alouettes at Princess Auto Stadium in Winnipeg. It is Saskatchewan's first CFL championship since 2013.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -58,13 +253,13 @@
     {
       "id": "4a8c4f6d52c249ac2ed1c317568b674382c152b1",
       "url": "https://www.cbc.ca/news/world/us-venezuela-aircraft-carrier-9.6980914?cmp=rss",
-      "title": "U.S. stations its most advanced aircraft carrier near Venezuela amid escalating show of force",
+      "title": "Trump says 'Venezuela would like to talk' after U.S. stations aircraft carrier nearby",
       "published_at": "2025-11-16T09:47:46-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Washington's most advanced aircraft carrier arrived in the Caribbean Sea on Sunday in a display of U.S. military power, raising questions about what the new influx of troops and weaponry could signal for the Trump administration's intentions in South America as it conducts military strikes against vessels suspected of transporting drugs.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.181,
+        "sentiment": -0.13,
         "subjectivity_hint": "medium"
       }
     },
@@ -73,232 +268,11 @@
       "url": "https://www.cbc.ca/player/play/9.6980905?cmp=rss",
       "title": "U.S.-based liqueur brand Sour Puss moves some production to Canada amid ongoing trade war",
       "published_at": "2025-11-16T09:26:30-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Chief political correspondent Rosemary Barton speaks with Andy England, CEO of Phillips Distilling Company, about his company's decision to move production of Sour Puss liqueur to Montreal after being taken off the shelf over the trade war.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d866cd5ad202fc404c2f1bd38e839cc0dc71ce6f",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-father-dead-5-year-old-girl-missing-after-california-ocean-wave-sweeps-them-away-9.6980908?cmp=rss",
-      "title": "Calgary father dead, 5-year-old girl missing after California ocean wave sweeps them away",
-      "published_at": "2025-11-16T09:14:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Investigators in California say a Calgary man is dead and his five-year-old daughter is missing after the pair were swept off the shoreline by a tall ocean wave on Garrapata State Beach.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b4baea1c79d2f466a9f66174b653ce2b877cc8aa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/report-domestic-intimate-partner-violence-bc-housing-crisis-9.6980216?cmp=rss",
-      "title": "Domestic abusers are weaponizing B.C.'s housing crisis, report reveals",
-      "published_at": "2025-11-16T09:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A legal group's interviews with survivors of intimate partner violence show that many stay in abusive relationships because they can't find affordable housing. Following the interviews, a report from Rise Women's Legal Centre is recommending changes to provincial laws, and an expansion of legal aid services.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.938,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51bae800fd1571c09c2b8960ae7b1363eb531125",
-      "url": "https://www.cbc.ca/news/world/mexico-colosio-shooter-9.6980661?cmp=rss",
-      "title": "Ex-intelligence officer's arrest in Mexico raises spectre of plot behind 1994 political assassination",
-      "published_at": "2025-11-16T08:45:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The March 23, 1994, death of Luis Donaldo Colosio, a reformer on the cusp of winning the Mexican presidency who promised a more just and democratic country, holds a space in the country's consciousness like the 1963 killing of President John F. Kennedy does in the United States. Federal authorities in Mexico recently arrested a 64-year-old man in Tijuana in connection with Colosio’s killing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51bae800fd1571c09c2b8960ae7b1363eb531125",
-      "url": "https://www.cbc.ca/news/world/mexico-colosio-shooter-9.6980661?cmp=rss",
-      "title": "Mexican government pursues second-shooter theory in 1994 political assassination that shook country",
-      "published_at": "2025-11-16T08:45:05-05:00",
-      "section": "World",
-      "summary_auto": "The March 23, 1994, death of Luis Donaldo Colosio, a reformer on the cusp of winning the Mexican presidency who promised a more just and democratic country, holds a space in the country's consciousness like the 1963 killing of President John F. Kennedy does in the United States. Federal authorities in Mexico recently arrested a 64-year-old man in Tijuana in connection with Colosio’s killing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "456f129e8b8ace95c08bf8a001c4601ff6dc2258",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/items-discovered-during-volunteer-search-for-missing-n-s-children-not-relevant-rcmp-9.6980852?cmp=rss",
-      "title": "Items discovered during volunteer search for missing N.S. children not relevant: RCMP",
-      "published_at": "2025-11-16T08:23:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After a grueling day wading through rushing river waters and climbing through dense woods, some family members of two missing Nova Scotia children were left disappointed their last-ditch search for the siblings before the snow flies did not result in a breakthrough.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd0dfed09d98857ea3b59abe5a6d911cbdaffebb",
-      "url": "https://www.cbc.ca/news/canada/edmonton/rcmp-peerless-trout-first-nation-armed-robbery-shelter-in-place-9.6980862?cmp=rss",
-      "title": "First Nation in northern Alberta sheltered in place overnight as RCMP searched for 3 robbery suspects",
-      "published_at": "2025-11-16T08:16:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A First Nation in northern Alberta had to shelter in place overnight, after RCMP spotted three people near the community Saturday evening who were believed to be armed, having allegedly robbed several guns and shot at someone earlier that day.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "feada572c96d24834029164e78bf160467d3b411",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/newport-station-nova-scotia-dogs-fire-9.6980790?cmp=rss",
-      "title": "'They just kept coming': Nearly 20 dogs rescued from fire in Newport Station, N.S.",
-      "published_at": "2025-11-16T05:26:46-05:00",
-      "section": "Canada",
-      "summary_auto": "Roughly 20 dogs were saved after a Saturday fire in Newport Station, N.S. All but one of the dogs survived.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.705,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5172612a41758974fb5c6086a16cd6f8377bd3db",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/truck-driving-game-to-add-british-columbia-9.6976551?cmp=rss",
-      "title": "This video game lets you drive a long-haul truck across western U.S.A. — and soon, B.C.",
-      "published_at": "2025-11-16T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "American Truck Simulator lets players get behind the wheel as a virtual truck driver. The B.C. expansion is its first location outside the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f56723a65757406dce49fa0c7b411b9bd0db9f2",
-      "url": "https://www.cbc.ca/news/world/britain-asylum-overhaul-9.6980717?cmp=rss",
-      "title": "Britain to make refugee status temporary under asylum overhaul",
-      "published_at": "2025-11-16T03:34:13-05:00",
-      "section": "World",
-      "summary_auto": "Britain said it would make refugee status temporary and the wait for permanent settlement would be quadrupled to 20 years under the country's most sweeping overhaul of policy on asylum seekers in modern times.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6e3ff96dea0dc983ff324158fafe09b0721f01e0",
-      "url": "https://www.cbc.ca/news/canada/calgary/the-boss-bow-valley-grizzly-bear-split-lip-9.6979193?cmp=rss",
-      "title": "Banff’s infamous grizzly ‘The Boss’ continues to dominate Bow Valley — but he’s got competition",
-      "published_at": "2025-11-16T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bears No. 122 and 136, known as The Boss and Split Lip respectively, are arguably two of the most famous grizzlies in Canada. The Boss is currently considered Banff National Park's dominant grizzly bear, while the younger Split Lip has been challenging him for the top spot.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.535,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "52c9afbf4b13dfdbf54c29eaf21128083897828a",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-musician-leith-fleming-smith-9.6979478?cmp=rss",
-      "title": "This former engineering student gave up on a music career. Now he's one of Halifax’s busiest musicians",
-      "published_at": "2025-11-16T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite his passion for music, Leith Fleming-Smith thought music would be no more than a hobby for him. But an encounter at a Halifax concert when he was in university turned out to be life-changing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.327,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a9b7e77a69af0a4a3813f6c6e632ba83c671e2d5",
-      "url": "https://www.cbc.ca/news/canada/lake-ontario-great-lakes-toronto-shipwreck-9.6978162?cmp=rss",
-      "title": "Divers seeking lost shipwreck near Toronto find an even older mystery",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An exploration dive team seeking the century-old wreck of the Rapid City has instead found a much rarer prize: a virtually undisturbed vessel, potentially dating back to the first half of the 19th century.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d8fd4354f1f080b313b642f3b25bb36b78ebe65",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-school-canada-isolating-friendship-9.6969026?cmp=rss",
-      "title": "I craved friendship after moving to Canada, but learned some friends aren't worth having",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After moving to Canada from Dubai, Musfirah Jamal learned to navigate the challenges of middle school friendships by doing whatever she could to fit in. But when a friend cut off ties with her abruptly, she realized it had been a mistake to give up her own identity to find belonging.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.894,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "244da8e4126e991808a49adeb209dab140e3209b",
-      "url": "https://www.cbc.ca/news/world/prince-william-andrew-prince-harry-cap-9.6979584?cmp=rss",
-      "title": "A prince under pressure: Why there's so much at stake for William as the monarchy faces scandal",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prince William's recent visit to Brazil reflected both the personal and public sides of an heir to the throne coming under increasing focus as the monarchy faces its own pressures and recent scandal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ef438511f2bd31153ad1c76f542594697d8835f9",
-      "url": "https://www.cbc.ca/player/play/9.6979103?cmp=rss",
-      "title": "Quebec’s video game industry says it’s thriving — but government cuts could stall success",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "While the province is seen internationally as a significant video game development player — and Canada’s $5-billion industry overall is benefiting from global political trends — industry leaders in Quebec say there are still sources of uncertainty affecting business and talent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.593,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "600760fdc7a3f353c5e27c31240c1395fca8b565",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-green-fund-surplus-9.6976654?cmp=rss",
-      "title": "Is Quebec serious about climate change? New government bill raises questions",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A new government bill aimed at reducing bureaucracy and increasing state efficiency could take a bite out of Quebec's ability to fight climate change. Under the proposed legislation, the finance minister will be allowed to divert surpluses from the province's Green Fund to other unrelated government programs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "285bd383c6bea58e141ef7fb331232f1185447a4",
-      "url": "https://www.cbc.ca/radio/sunday/cormorants-toronto-poop-9.6968437?cmp=rss",
-      "title": "Cormorants and their acidic poop are causing a stink on Toronto islands. What can be done?",
-      "published_at": "2025-11-15T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Double-crested cormorants and their acidic poop are destroying habitats and driving people away from Toronto islands. But getting rid of them, or getting them to move, isn’t so easy. Plus, as its defenders point out, the problem bird is native to the area. So some people are thinking outside the box to get them to move.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.036,
         "subjectivity_hint": "low"
       }
     }
