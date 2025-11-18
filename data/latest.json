@@ -1,57 +1,304 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-18T09:14:56.066667-05:00",
+  "generated_at": "2025-11-18T15:17:24.979830-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "2bcc7823ce472bf755b0963e96ec910ba3c1f346",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/saffron-farms-budding-in-canada-9.6981899?cmp=rss",
-      "title": "They are growing the world's most expensive spice in Canada. Here's how",
-      "published_at": "2025-11-18T04:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "As golden hour settles over Avtar Dhillon’s farm in Abbotsford, B.C., rows of delicate purple flowers are in full bloom. Inside lies an ancient spice Canadian farmers are beginning to get excited about.",
+      "id": "513e1c2d575e2eba074fcd1a7af30d49b745f48c",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-city-council-flags-motion-9.6983177?cmp=rss",
+      "title": "Proposal to ban raising of national flags at Calgary city hall delayed",
+      "published_at": "2025-11-18T10:08:13-05:00",
+      "section": "Canada",
+      "summary_auto": "The proposal, brought forward by Ward 13 Coun. Dan McLean, called for council to discuss amendments to Calgary's flag policy during its scheduled public hearing meeting as an \"urgent business\" matter.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e55c0b6b48c0d868aa10709c033398d5772248e7",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-red-deer-to-host-world-junior-hockey-championship-9.6983405?cmp=rss",
+      "title": "Edmonton, Red Deer to co-host world junior hockey championship in 2027",
+      "published_at": "2025-11-18T09:44:51-05:00",
+      "section": "Canada",
+      "summary_auto": "Edmonton and Red Deer will host the 2027 world junior hockey championship after two previous plans to share the international tournament between the cities were scuttled by the COVID-19 pandemic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "76e24ec742a358d949b5b9f733a97c07a5a56994",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/livestory/grey-cup-parade-2025-9.6983423?cmp=rss",
+      "title": "GREY CUP 2025​: ​Roughrider fans cheer on CFL champs as team parades down Green Mile",
+      "published_at": "2025-11-18T09:35:52-05:00",
+      "section": "Canada",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.792,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "82e62a8fcb8aa6ba8a1bdbec5e21ba483c3b67f5",
+      "url": "https://www.cbc.ca/news/entertainment/parasocial-word-of-the-year-9.6983335?cmp=rss",
+      "title": "‘Parasocial’ is Cambridge Dictionary's word of the year",
+      "published_at": "2025-11-18T09:10:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "If you felt more excited for Taylor Swift’s engagement announcement earlier this year than you did for your friend or family member’s, you might relate to Cambridge Dictionary’s word of 2025: \"parasocial,\" which describes having a one-sided connection with someone you do not know, such as a celebrity, a fictional character or an AI chatbot.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.836,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0d7dfd834092d5ea3ae367c45eaa370989a29f2b",
+      "url": "https://www.cbc.ca/news/canada/calgary/westjet-power-wheelchair-weight-limit-9.6982990?cmp=rss",
+      "title": "WestJet weight cap on power wheelchairs leaves some Canadians grounded, advocates say",
+      "published_at": "2025-11-18T08:24:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Travellers and advocates say a rule of the Calgary-based airline that bars mobility aids of more than 136 kilograms from most of its planes discriminates against people living with a disability.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a7b92928eec7abb9508b1e0f8b65821c60f9cd7a",
+      "url": "https://www.cbc.ca/news/canada/london/why-ontario-researchers-want-more-people-to-eat-fermented-food-9.6982799?cmp=rss",
+      "title": "Why Ontario researchers want more people to eat fermented food",
+      "published_at": "2025-11-18T07:33:16-05:00",
+      "section": "Canada",
+      "summary_auto": "A first-of-its-kind Canadian network launched in London, Ont., this week aims to help Canadians better understand the health benefits of fermented foods, and even make them part of daily diets, hospital meals and national nutrition guidelines.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1161c901f3d4a01c5234e63f0e3110eb88d427bc",
+      "url": "https://www.cbc.ca/news/entertainment/wicked-for-good-review-9.6982650?cmp=rss",
+      "title": "Cynthia Erivo, Ariana Grande shine in good-enough Wicked: For Good",
+      "published_at": "2025-11-18T07:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "This isn’t to say the much-anticipated followup to 2024’s Oscar-nominated first outing of Wicked is a disappointment. At least not an abject one. It’s more or less competent, buoyed by undeniably incredible singing and framed by charmingly fantastical set design.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.07,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4c2ae4afb41c6d52df2964ff612807328dd2669c",
+      "url": "https://www.cbc.ca/news/world/us-venezuela-war-ships-9.6982734?cmp=rss",
+      "title": "As U.S. escalates threats on Maduro, some Venezuelans welcome regime change",
+      "published_at": "2025-11-18T06:43:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With U.S. warships and an aircraft carrier massing off Venezuela’s coast, a former U.S. ambassador to the country says the buildup looks less like a counternarcotics mission and more like preparation for regime change.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4999f700509ab98dbb4813a5d5fa394fffe393a9",
+      "url": "https://www.cbc.ca/news/world/us-north-carolina-cities-troops-deportations-9.6982750?cmp=rss",
+      "title": "North Carolina becomes latest battleground as military-aided operations ebb in other cities",
+      "published_at": "2025-11-18T06:20:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Federal immigration authorities could expand their enforcement action in North Carolina to a second city, as operations in other U.S. cities approved by Donald Trump's administration have either been deprioritized or caught up in legal limbo.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7acf7d4dbe6b21ae62ad5bac7fc4a0d892e66683",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/sidney-crosby-team-canada-prepare-olympics-2026-9.6982266?cmp=rss",
+      "title": "After 12 years away from the Olympics, Sidney Crosby is 'motivated' for another shot at gold",
+      "published_at": "2025-11-18T06:15:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "For years, Crosby wondered if he'd ever make it back to the Olympics. Grateful for another opportunity, Crosby plans to make the most of it — and he hopes it won't be his last Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c3e7e65dd5c7bad7bb5ce1ece8d0e7a8298b495c",
+      "url": "https://www.cbc.ca/sports/olympics/team-canada-olympics-paralympics-athlete-kits-milan-cortina-9.6983028?cmp=rss",
+      "title": "Team Canada unveils athlete outfits for Milan-Cortina Olympics, Paralympics",
+      "published_at": "2025-11-18T05:54:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A wide range of adaptive and inclusive designs, new adaptive footwear and bold Maple Leaf designs are part of the Team Canada athlete kits from Lululemon, the organization’s official outfitter, unveiled Tuesday for the upcoming Olympics and Paralympics in Milan Cortina.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0245c88ad8a6f206668c2b255bb8e3dbb5f53da0",
+      "url": "https://www.cbc.ca/news/politics/politics-jet-fighters-bombs-canada-us-israel-9.6982606?cmp=rss",
+      "title": "Jet fighter maintenance parts, bombs shipped to Israel via U.S., groups say in new report",
+      "published_at": "2025-11-18T05:48:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hundreds of shipments of explosives and fighter jet components have made their way from Canada to Israel by passing through the U.S. over the last two years, a new report by a group of four NGOs alleges, examining export data and U.S. Department of Defence contracts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f32461a2ce3c99223f23f6a02579edae4986c47",
+      "url": "https://www.cbc.ca/news/business/cmhc-housing-starts-october-2025-9.6982821?cmp=rss",
+      "title": "New home construction dropped 17% in October, says CMHC",
+      "published_at": "2025-11-18T05:38:53-05:00",
+      "section": "Business",
+      "summary_auto": "The annual pace of housing starts, also known as new home construction, fell 17 per cent in October compared with September, the Canada Mortgage and Housing Corp. said on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e7c6dad47216564cf12bd58eccd327f5259d52e8",
+      "url": "https://www.cbc.ca/news/entertainment/roblox-safety-guidelines-9.6982834?cmp=rss",
+      "title": "Roblox increases safety guidelines with age verification, grouping users into age-based chats",
+      "published_at": "2025-11-18T05:07:02-05:00",
+      "section": "Entertainment",
+      "summary_auto": "The rules will make it so kids and teens can only message people within a similar age group to their own. The moves come as the popular gaming platform continues to face criticism and lawsuits over child safety and a growing number of countries and jurisdictions are implementing age verification laws.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea5d4523d0f42879f3c4945cbcd9c8f83b51f87b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/parents-doctors-call-for-free-infant-9.6978576?cmp=rss",
+      "title": "Parents, doctors call for free RSV shots for all infants in B.C.",
+      "published_at": "2025-11-18T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "An infant immunization for respiratory syncytial virus (RSV) is now available across Canada, but it still has to be paid for out of pocket — and at a steep cost — by most parents in B.C.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.285,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "860025205040a953690178627fd4901bd07f67e7",
+      "url": "https://www.cbc.ca/news/canada/toronto/top-10-stolen-vehicles-2024-9.6982137?cmp=rss",
+      "title": "Ontario’s most stolen vehicles of 2024 revealed",
+      "published_at": "2025-11-18T04:57:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.541,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "606bfdf5eb9c442b3462aaf7a92a182abebc92b8",
+      "url": "https://www.cbc.ca/news/world/west-bank-gaza-israel-united-nations-resolution-9.6982773?cmp=rss",
+      "title": "Israeli killed in West Bank after spate of settler attacks against Palestinians",
+      "published_at": "2025-11-18T04:53:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Palestinian attackers stabbed an Israeli to death and wounded three more in the occupied West Bank on Tuesday before being shot down by troops, in the latest violence to rock the occupied territory, the Israeli military said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.972,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "68772255238be5f0bb2026a0b7c77606cb12ce37",
+      "url": "https://www.cbc.ca/news/entertainment/sean-diddy-combs-new-assault-claim-investigation-9.6982757?cmp=rss",
+      "title": "L.A. County sheriff investigating new sex battery claim against Sean (Diddy) Combs",
+      "published_at": "2025-11-18T04:39:10-05:00",
+      "section": "World",
+      "summary_auto": "The Los Angeles County Sheriff's Department said Monday it's investigating a new sexual battery allegation against hip-hop mogul Sean (Diddy) Combs. The claim involves an unnamed music producer who says he was asked to come to a photo shoot in 2020 at a Los Angeles warehouse.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2bcc7823ce472bf755b0963e96ec910ba3c1f346",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/saffron-farms-budding-in-canada-9.6981899?cmp=rss",
+      "title": "These farmers have a dream for the world’s most expensive spice, and it's rooted in Canadian soil",
+      "published_at": "2025-11-18T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As golden hour settles over Avtar Dhillon’s farm in Abbotsford, B.C., rows of delicate purple flowers are in full bloom. Inside lies an ancient spice some Canadian farmers are beginning to get excited about.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "49880f56c204cc261339161cf5533f1ec5252878",
       "url": "https://www.cbc.ca/news/business/cloudflare-chatgpt-x-internet-services-9.6982721?cmp=rss",
-      "title": "Cloudflare outage takes down ChatGPT, X, other internet services",
+      "title": "Cloudflare restoring services after outage takes down ChatGPT, X, other sites",
       "published_at": "2025-11-18T03:53:32-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Internet infrastructure provider Cloudflare says it has identified an issue that caused outages for the social media platform X, some multiplayer games and ChatGPT.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "cab1f0198a096d3e921b8371bddbfcdffb892dae",
       "url": "https://www.cbc.ca/news/world/washington-saudi-prince-mbs-salman-trump-white-house-9.6982672?cmp=rss",
-      "title": "Fighter jet, investment deals on agenda as Saudi crown prince visits White House",
+      "title": "Saudi crown prince MBS unaware of Khashoggi killing, Trump says in White House visit",
       "published_at": "2025-11-18T03:24:46-05:00",
-      "section": "World",
-      "summary_auto": "President Donald Trump is set to fete Crown Prince Mohammed bin Salman on Tuesday when the de facto leader of Saudi Arabia makes his first White House visit since the 2018 killing of Jamal Khashoggi, a Saudi citizen and U.S. resident, by Saudi agents.",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump said on Tuesday that Saudi Crown Prince Mohammed bin Salman knew nothing about the murder of U.S. resident and Saudi citizen Jamal Khashoggi.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.586,
+        "sentiment": -0.353,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "94e57d218ad175067081fd7931a94b79cdc829ab",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-court-of-appeal-first-degree-murder-new-trial-demetroff-9.6982516?cmp=rss",
+      "title": "New trial ordered for Alberta man convicted of 1st-degree murder in 2020 shooting",
+      "published_at": "2025-11-18T03:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Kardon Demetroff's conviction in the killing of 74-year-old Larry Parker, a Wetaskiwin, Alta., landlord found dead in 2020, has been overturned in a decision from the Court of Appeal of Alberta.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.937,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "eecc2743c3a9ed1910a8fccd02543013cf96080f",
       "url": "https://www.cbc.ca/news/world/poland-russian-secret-services-railway-line-ukraine-9.6982697?cmp=rss",
-      "title": "Poland suggests Russia is behind railway blast on Ukraine delivery line",
+      "title": "2 Ukrainians working for Russia suspected of being involved in railway blast, Polish PM says",
       "published_at": "2025-11-18T02:47:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Evidence suggests that Russian secret services appear to have ordered the blowing up of a railway line in Poland over the weekend that is on a crucial route that delivers aid to Ukraine, a government spokesperson said Tuesday.",
+      "section": "World",
+      "summary_auto": "Two Ukrainian citizens working for Russia are suspected of blowing up a railway line in Poland over the weekend, Prime Minister Donald Tusk said Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -60,11 +307,24 @@
       "url": "https://www.cbc.ca/news/world/china-japan-diplomatic-tensions-taiwan-scenario-9.6982659?cmp=rss",
       "title": "Chinese airlines offer refunds on Japan trips, Tokyo warns about travel to China as tensions run high",
       "published_at": "2025-11-18T01:55:06-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Japan has warned its citizens in China to step up safety precautions and avoid crowded places amid a deepening dispute between Asia's two largest economies over Japanese Prime Minister Sanae Takaichi's comments on Taiwan.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd30439c8010cd6ae75a74d0637de78ae5578d7e",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/new-glasgow-homeless-shelter-controversy-crime-drug-use-9.6980904?cmp=rss",
+      "title": "This N.S. town has turned on a homeless shelter. The shelter says it’s facing a crisis alone",
+      "published_at": "2025-11-18T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Tensions are high in New Glasgow, N.S., where residents, business owners and town officials are upset with the behaviour of some people using a homeless shelter. But the shelter operator says they are standing alone in the face of a growing crisis in the community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.915,
         "subjectivity_hint": "low"
       }
     },
@@ -82,15 +342,15 @@
       }
     },
     {
-      "id": "53b52c3edcd19bf0434b6624eeef462e52f4802a",
-      "url": "https://www.cbc.ca/news/politics/f-35-canada-sweden-saab-9.6982139?cmp=rss",
-      "title": "F-35 defenders launch counterattack against Swedish fighter jet proposal",
+      "id": "9514e2cb6883925e72867aa33d59e399ef225c4f",
+      "url": "https://www.cbc.ca/news/indigenous/csis-indigenous-investigations-1990s-9.6979565?cmp=rss",
+      "title": "How investigating Indigenous activists became a CSIS priority for at least a decade",
       "published_at": "2025-11-17T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Former high-ranking officers of the Canadian Armed Forces are mounting a defence of the planned acquisition of 88 American F-35 fighter jets, hoping to put an end to the ongoing courtship between the Canadian government and the Swedish firm Saab.",
+      "summary_auto": "Canada's spies subjected Indigenous activists to a series of “Native extremism” investigations for at least a decade beginning in 1988, in what internal documents show was a countrywide surveillance program that became more intrusive following the resistance at Kanehsatà:ke, or the Oka Crisis.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.691,
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -108,28 +368,15 @@
       }
     },
     {
-      "id": "daa54e93f26f690134415c78b80668b8a89a9ef6",
-      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-milton-ontario-trial-9.6982064?cmp=rss",
-      "title": "Couple accused of murder saw boy on camera — screaming, vomiting on his last day alive, Ontario court told",
+      "id": "53b52c3edcd19bf0434b6624eeef462e52f4802a",
+      "url": "https://www.cbc.ca/news/politics/f-35-canada-sweden-saab-9.6982139?cmp=rss",
+      "title": "F-35 defenders launch counterattack against Swedish fighter jet proposal",
       "published_at": "2025-11-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A protection worker with Halton Children’s Aid Society testified at the murder trial for Brandy Cooney and Becky Hamber about his interview with the couple a day after the boy died in 2022, as the weeks-long trial in Milton, Ont., continued.",
+      "section": "Canada",
+      "summary_auto": "Former high-ranking officers of the Canadian Armed Forces are mounting a defence of the planned acquisition of 88 American F-35 fighter jets, hoping to put an end to the ongoing courtship between the Canadian government and the Swedish firm Saab.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.945,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "68107bf8c694f3897e8babda03213321bc922c23",
-      "url": "https://www.cbc.ca/news/politics/transport-surveillance-environment-drones-defence-9.6982250?cmp=rss",
-      "title": "Transport Canada's aviation wing moving to DND with little explanation",
-      "published_at": "2025-11-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Transport Canada will be surrendering most — if not all — of its aviation wing to the Department of Defence in a plan that’s shrouded in secrecy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
+        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -151,24 +398,11 @@
       "url": "https://www.cbc.ca/news/world/summers-epstein-investigations-trump-9.6982598?cmp=rss",
       "title": "Ex-Harvard president Larry Summers 'stepping back' from public view after Epstein correspondence revealed",
       "published_at": "2025-11-17T18:02:54-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Former U.S. treasury secretary Larry Summers said on Monday he will step back from all public commitments, days after President Donald Trump ordered the Justice Department to investigate his and other prominent Democrats' ties to convicted sex offender Jeffrey Epstein.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "30a92bbd713d2e3e8845c010b198e70de9616a73",
-      "url": "https://www.cbc.ca/news/canada/calgary/monterey-california-death-yuji-anzi-hu-9.6982511?cmp=rss",
-      "title": "Diver recounts finding Calgary girl who drowned after wave swept her into Pacific Ocean",
-      "published_at": "2025-11-17T16:24:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Anzi Hu was identified on Monday as the seven-year-old who died in California after she was caught in a large wave at Garrapata Beach. Her father, Yuji Hu, also died after attempting to rescue her.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -201,14 +435,14 @@
     {
       "id": "1a94d13953487262f0b14d73bb8117fd8570221a",
       "url": "https://www.cbc.ca/sports/baseball/mlb/canadian-first-baseman-josh-naylor-seattle-mariners-9.6982552?cmp=rss",
-      "title": "Canadian first baseman Josh Naylor agrees to 5-year contract with Mariners",
+      "title": "Canadian 1st baseman Josh Naylor agrees to 5-year, $92.5M US contract with Mariners",
       "published_at": "2025-11-17T16:03:53-05:00",
       "section": "World",
-      "summary_auto": "Canadian first baseman Josh Naylor and the Seattle Mariners finalized a five-year contract on Monday.",
+      "summary_auto": "First baseman Josh Naylor and the Seattle Mariners finalized a five-year, $92.5-million US contract on Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.202,
-        "subjectivity_hint": "low"
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -216,154 +450,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/bc-wolves-crab-traps-tool-use-9.6982536?cmp=rss",
       "title": "These B.C. wolves figured out how to pull up crab traps to get food",
       "published_at": "2025-11-17T15:34:25-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Within a day of the cameras being set up in the Heiltsuk First Nation last year, researchers  captured footage of a sea wolf emerging from the water with a buoy hanging from its mouth. The footage then showed the wolf dropping the buoy on the beach, picking up the exposed line, and pulling it until the crab trap emerged from the water.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "72d47fd144a54d006296bfa19a669265f3d11522",
-      "url": "https://www.cbc.ca/radio/asithappens/biggest-spiderweb-in-the-world-discovered-in-cave-9.6982173?cmp=rss",
-      "title": "Why the world's largest-known spider web surprised this scientist",
-      "published_at": "2025-11-17T14:23:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Serban Sarbu, a cave scientist, thought he’d seen everything — until he entered a pitch-black cave along the Albania–Greece border. Inside, he found the world’s largest known spider web, and he explains how the enormous colony came to be.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f8cc27b98f28cb10f42fa18693a030165fd8369",
-      "url": "https://www.cbc.ca/news/health/cervical-cancer-rates-plateau-9.6981969?cmp=rss",
-      "title": "Cervical cancer rates show a 'concerning plateau,' according to new Canadian Cancer Society data",
-      "published_at": "2025-11-17T14:10:42-05:00",
-      "section": "Health",
-      "summary_auto": "After decades of decline, rates of cervical cancer within Canada have plateaued, according to the Canadian Cancer Society — a troubling trend for some experts, given that the type of cancer is preventable.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.981,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fbdd7a5dbac464f7987ac99435978b2c53463194",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/riders-grey-cup-draw-delay-9.6982268?cmp=rss",
-      "title": "Duplicate order glitch delays record-setting $2M Grey Cup 50/50 draw",
-      "published_at": "2025-11-17T13:55:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Saskatchewan Roughrider Foundation says the problem was caused by a surge in traffic and affected customers will be refunded.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2c1b6156079cfa087e07febc04db81246bee2de2",
-      "url": "https://www.cbc.ca/news/canada/montreal/sean-feutch-christian-worship-concert-cancellations-9.6982093?cmp=rss",
-      "title": "Christian group sues Quebec City for cancelling MAGA-affiliated musician's summer concert",
-      "published_at": "2025-11-17T13:29:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Christian group is demanding a refund of $2,609.93 — the cost of the rental space — as well as $5,000 for unconstitutional and unjustified infringements of rights after Quebec City terminated the contract of MAGA-affiliated musician Sean Feucht.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "27fbef00fceee4894783c4f0e70a70c7d832bacc",
-      "url": "https://www.cbc.ca/news/world/un-trump-gaza-resolution-9.6982217?cmp=rss",
-      "title": "UN approves U.S. plan authorizing an international stabilization force in Gaza",
-      "published_at": "2025-11-17T13:20:13-05:00",
-      "section": "World",
-      "summary_auto": "The UN Security Council on Monday approved a U.S. plan for Gaza that authorizes an international stabilization force to provide security in the devastated territory and envisions a possible future path to an independent Palestinian state.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8bd640e48c21b533df111026081aacf1536cae2b",
-      "url": "https://www.cbc.ca/news/world/nigeria-school-abduction-9.6982120?cmp=rss",
-      "title": "25 girls abducted from high school in Nigeria",
-      "published_at": "2025-11-17T12:05:35-05:00",
-      "section": "World",
-      "summary_auto": "Gunmen attacked a high school in northwestern Nigeria before dawn on Monday, taking 25 schoolgirls and killing at least one staffer, authorities said of the latest abduction of students in the region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.938,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cce580b988cffd56d599d7b956bbf50a302c257",
-      "url": "https://www.cbc.ca/news/world/acting-fema-chief-richardson-out-9.6982062?cmp=rss",
-      "title": "FEMA acting chief out after just 6 months at helm of agency",
-      "published_at": "2025-11-17T11:36:28-05:00",
-      "section": "World",
-      "summary_auto": "The acting chief of the U.S. Federal Emergency Management Agency left his job Monday after just six months, according to the U.S. Department of Homeland Security, the latest disruption in a year of mass staff departures, program cuts and policy upheaval at the agency charged with managing federal disaster response.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c3f2c92e7cd356e46e63e366be21f46e3f587e1f",
-      "url": "https://www.cbc.ca/news/world/comey-investigation-misconduct-grand-jury-9.6982049?cmp=rss",
-      "title": "'Evidence of misconduct' in federal investigation of ex-FBI head James Comey, judge finds",
-      "published_at": "2025-11-17T11:22:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S. judge found on  Monday there is evidence of misconduct in how a federal prosecutor closely aligned with President Donald Trump secured criminal charges against James Comey. He also ordered that grand jury materials be turned over to the former FBI chief's defence lawyers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5a1062a1c6f10c16d0c27347e73452980e999d30",
-      "url": "https://www.cbc.ca/news/livestory/giller-prize-2025-9.6982460?cmp=rss",
-      "title": "Souvankham Thammavongsa wins the $100K Giller Prize for novel Pick a Colour",
-      "published_at": "2025-11-17T11:22:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f1fd39a1613025d6ac12495ce0a0316454d8f8c",
-      "url": "https://www.cbc.ca/news/entertainment/jake-paul-anthony-joshua-fight-announcement-9.6981968?cmp=rss",
-      "title": "YouTuber-turned-boxer Jake Paul to fight two-time world champion Anthony Joshua",
-      "published_at": "2025-11-17T10:22:52-05:00",
-      "section": "Entertainment",
-      "summary_auto": "YouTuber-turned-boxer Jake Paul will fight recent world heavyweight champion Anthony Joshua in a professional bout on Dec. 19. The heavyweight bout, which will consist of eight three-minute rounds, will take place at Kaseya Center in Miami and will be streamed live on Netflix.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1c62a3f65ddad96223ace83d8fbfabcfb2f492a7",
-      "url": "https://www.cbc.ca/news/entertainment/vine-reboot-divine-by-original-twitter-employees-in-beta-testing-9.6981766?cmp=rss",
-      "title": "Beloved video app Vine is back, but says no thanks to AI slop",
-      "published_at": "2025-11-17T09:16:25-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Evan Henshaw-Plath is rebooting the app Vine under the name Divine, with the support of Twitter founder Jack Dorsey. The effort aims to combat AI slop by banning any content flagged as AI-generated.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.659,
         "subjectivity_hint": "low"
       }
     }
