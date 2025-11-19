@@ -1,57 +1,239 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-19T09:14:52.378907-05:00",
+  "generated_at": "2025-11-19T15:15:06.631899-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "835be3921e89e236afc9d6cf82c258298077a673",
-      "url": "https://www.cbc.ca/news/business/stock-markets-nvidia-earnings-9.6984305?cmp=rss",
-      "title": "Stock market recovers some earlier losses while waiting on Nvidia earnings report",
-      "published_at": "2025-11-19T04:01:36-05:00",
-      "section": "Business",
-      "summary_auto": "Wall Street bounced back from this week's earlier losses on Wednesday, ahead of the latest earnings report from Nvidia, considered a bellwether for the artificial intelligence sector.",
+      "id": "e4c41c1e579af2a8c17cb711dbe0fcd76c676ce3",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-premier-confirms-plans-to-allow-surgeons-to-work-in-both-public-and-private-health-care-systems-9.6984998?cmp=rss",
+      "title": "Alberta premier confirms plans to allow surgeons to work in both public and private health care systems",
+      "published_at": "2025-11-19T09:25:18-05:00",
+      "section": "Health",
+      "summary_auto": "Alberta Premier Danielle Smith has confirmed her government's intention to allow physicians flexibility to work in both the public and private health care systems.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b232b3e53ed69d3cee0d1cce05ce347f355f53ae",
+      "url": "https://www.cbc.ca/news/health/ophthalmologists-optometrists-surgery-9.6984684?cmp=rss",
+      "title": "Ophthalmologists urge provinces not to allow optometrists to perform minor surgeries",
+      "published_at": "2025-11-19T08:57:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ophthalmologists are urging provincial governments not to move ahead with plans that would allow optometrists to perform some surgeries and laser eye treatments, which are currently outside their scope of practice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.06,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b232b3e53ed69d3cee0d1cce05ce347f355f53ae",
+      "url": "https://www.cbc.ca/news/health/ophthalmologists-optometrists-surgery-9.6984684?cmp=rss",
+      "title": "Ophthalmologists raise safety concerns as provinces weigh allowing optometrists to perform minor surgeries",
+      "published_at": "2025-11-19T08:57:00-05:00",
+      "section": "Health",
+      "summary_auto": "Ophthalmologists are urging provincial governments not to move ahead with plans that would allow optometrists to perform some surgeries and laser eye treatments, which are currently outside their scope of practice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "02c971812bb52155c2aaba5fc1934e70187f5225",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-arson-arrest-announcement-9.6984838?cmp=rss",
+      "title": "Winnipeg police announce arrest in arson cases",
+      "published_at": "2025-11-19T08:48:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "af2080f22c60ab4db73b11bd837742af39e9f56a",
+      "url": "https://www.cbc.ca/news/world/israel-gaza-ceasefire-airstrikes-9.6984864?cmp=rss",
+      "title": "Israeli airstrikes kill 25 Palestinians in Gaza, rattling ceasefire, health officials say",
+      "published_at": "2025-11-19T08:28:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "At least 25 Palestinians were killed in four Israeli airstrikes on Wednesday in a part of Gaza under Hamas control since a shaky ceasefire took effect in October, health authorities said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "969e5bcf946b5c9aa4599d24c3fa16a8e80a5aaf",
+      "url": "https://www.cbc.ca/news/health/tackling-ultraprocessed-foods-9.6984761?cmp=rss",
+      "title": "What would it take for Canadians to eat less ultra-processed foods?",
+      "published_at": "2025-11-19T08:05:02-05:00",
+      "section": "Health",
+      "summary_auto": "Researchers have linked ultra-processed foods to chronic diseases like obesity, Type 2 diabetes and cardiovascular diseases. But helping Canadians make healthier choices comes with obstacles, experts say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.039,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d1594f895c1f55b9d3ecd37124fdc07a7d35641e",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-goldfish-stormwater-pond-9.6984645?cmp=rss",
+      "title": "‘Mind-blowing’ population of feral goldfish in Ottawa pond to be euthanized",
+      "published_at": "2025-11-19T07:15:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The City of Ottawa is preparing to euthanize a school of invasive goldfish in a stormwater pond near the Central Experimental Farm — though a local fish scientist warns the city may be vastly underestimating the scale of the problem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "079f6b45391fdd7ae04a7427cb7aa21741be6c0d",
+      "url": "https://www.cbc.ca/sports/hockey/macklin-celebrini-nhl-feat-gretzky-crosby-sharks-9.6984673?cmp=rss",
+      "title": "Another Canadian joins Gretzky, Crosby as lone NHL teens with 30 points in first 20 games of a season",
+      "published_at": "2025-11-19T06:32:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Three goals on Tuesday night gave San Jose Sharks forward Macklin Celebrini 30 points in his team's first 20 games of a season, a mark reached only by two other teenagers in NHL history, Wayne Gretzky and Sidney Crosby.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a21323b3d60ceab10d001eb9baadbf473d20b793",
+      "url": "https://www.cbc.ca/news/politics/benjamin-roebuck-sexual-assault-system-report-9.6984294?cmp=rss",
+      "title": "Justice system betrays sexual violence survivors, says federal advocate for victims of crime",
+      "published_at": "2025-11-19T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A report from Canada’s victims of crime advocate says survivors of sexual violence are being systemically betrayed by the criminal justice system, as allegations are disbelieved and cases are regularly delayed or dropped.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.977,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3c7b171e3bcd6a2af76b0a5237d8afd06ee55284",
+      "url": "https://www.cbc.ca/news/canada/hamilton/belinda-sarkodie-9.6984447?cmp=rss",
+      "title": "Teen turns himself in, charged with murder after Belinda Sarkodie shot at Hamilton bus stop in July",
+      "published_at": "2025-11-19T05:44:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 17-year-old turned himself in to Hamilton police and has been arrested and charged in the death of Belinda Sarkodie, police announced Wednesday. The 26-year-old innocent bystander was waiting at a bus stop on July 11 when gunfire ensued.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "adcf89012d6630282ab64f7476b530b9880235e6",
+      "url": "https://www.cbc.ca/news/world/pope-leo-us-catholic-bishops-migrants-9.6984223?cmp=rss",
+      "title": "Pope Leo, Catholic bishops come out against 'vilification' of immigrants in U.S.",
+      "published_at": "2025-11-19T05:39:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Pope Leo has come out in support of a rare special message released by the U.S. Conference of Catholic Bishops in recent days that lamented a \"climate of fear and anxiety around questions of profiling and immigration enforcement.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "2a6b2f5491bd85f4f41b52fccf1bd7c6232f55d3",
       "url": "https://www.cbc.ca/news/entertainment/jb-revealing-identity-9.6983801?cmp=rss",
-      "title": "For the first time, the woman who Jacob Hoggard was convicted of sexually assaulting is revealing her identity",
-      "published_at": "2025-11-19T04:00:00-05:00",
+      "title": "For the first time, the woman Jacob Hoggard was convicted of sexually assaulting is revealing her identity",
+      "published_at": "2025-11-19T05:12:40-05:00",
       "section": "Top Stories",
-      "summary_auto": "Throughout the sexual assault trial of Hedley frontman Jacob Hoggard, the woman was referred to by her initials, J.B., or as the “Ottawa woman.” Now, she’s lifting the publication ban on her identity as she tells her own story in the documentary Breaking Idol.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.893,
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b1cb0224482db90e4be58b7e75dcc55414db50ac",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-season-3-preview-2025-9.6981025?cmp=rss",
+      "title": "PWHL's 3rd season features growth and Olympics as league grows to 8 teams",
+      "published_at": "2025-11-19T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The PWHL's two newest teams, the Vancouver Goldeneyes and Seattle Torrent, both look to be contenders for the Walter Cup in their first season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9205f1690181ae522c65cd82cf5943b62e952390",
+      "url": "https://www.cbc.ca/news/world/larry-summers-epstein-emails-9.6984337?cmp=rss",
+      "title": "Former U.S. treasury secretary Larry Summers quits OpenAI board over Epstein emails",
+      "published_at": "2025-11-19T04:36:28-05:00",
+      "section": "World",
+      "summary_auto": "Former U.S. treasury secretary Larry Summers is resigning from OpenAI’s board of directors, the ChatGPT maker and his office said Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "835be3921e89e236afc9d6cf82c258298077a673",
+      "url": "https://www.cbc.ca/news/business/stock-markets-nvidia-earnings-9.6984305?cmp=rss",
+      "title": "Stock market rises as investors wait on Nvidia earnings report",
+      "published_at": "2025-11-19T04:01:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. stock market is rising on Wednesday, for now at least, ahead of a huge couple of tests for Wall Street.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "8b2ea3859e0b086f317765d1560ffa553c711de1",
       "url": "https://www.cbc.ca/news/world/railway-blast-poland-ukraine-arrests-9.6984275?cmp=rss",
-      "title": "Several arrests made in connection with railway blast, Polish state media says",
+      "title": "Poland set to charge 2 Ukrainians with sabotage of terrorist nature for railway explosion",
       "published_at": "2025-11-19T03:15:39-05:00",
       "section": "World",
-      "summary_auto": "Polish authorities have arrested several people in connection with a blast that damaged a rail line linking Warsaw to the Ukrainian border over the weekend, state media reported Wednesday.",
+      "summary_auto": "Polish authorities plan to charge two Ukrainians with sabotage of a terrorist nature on behalf of Russia over an explosion that damaged a train track used for deliveries to Ukraine, prosecutors said Wednesday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.84,
+        "sentiment": -0.964,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "000e883e30659e67eaf352a9cce89b4ff014ced7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/patty-forman-homicide-cbsa-9.6980894?cmp=rss",
+      "title": "Border guard used service weapon to gun down ex-fiancée in Prince Rupert, B.C., CBC learns",
+      "published_at": "2025-11-19T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News has learned new details about the 2022 homicide in northwestern B.C., including what the murder weapon was, how it was accessed, and the recommendations around CBSA officers’ mental health that have been made since.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "d237854309a90078340c833ecc45261bf797fb69",
       "url": "https://www.cbc.ca/news/israel-lebanon-airstrike-tiri-ein-el-hilweh-9.6984203?cmp=rss",
-      "title": "Israel warns 2 villages in southern Lebanon to evacuate ahead of strikes",
+      "title": "Israeli military carries out powerful strikes on 2 southern Lebanon villages",
       "published_at": "2025-11-19T01:21:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An Israeli airstrike on a car in southern Lebanon on Wednesday killed one person and wounded 11, including students aboard a nearby bus, the Lebanese Health Ministry and state media said. The strike in the village of Tiri came hours after an Israeli drone attack on the Palestinian refugee camp of Ein el-Hilweh killed 13 people and wounded several others.",
+      "section": "World",
+      "summary_auto": "The Israeli military carried out powerful airstrikes in two villages in southern Lebanon on Wednesday, witnesses said, pressing a campaign of near-daily attacks in the border region where Israel says it is targeting Hezbollah.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.947,
+        "sentiment": 0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +242,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/bakx-alberta-speed-limit-insurance-highway-9.6983540?cmp=rss",
       "title": "Alberta already has sky-high car insurance rates. Will 120 km/h speed limits send premiums higher?",
       "published_at": "2025-11-19T01:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Vehicle insurance companies are going to keep a close watch on whether the Alberta government keeps driving forward with a proposal to increase some highway speed limits to 120km/h.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,15 +264,28 @@
       }
     },
     {
-      "id": "ef3ff3954c286b5a8295afd736930c8cb19d8629",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-attack-nov19-9.6984210?cmp=rss",
-      "title": "Heavy Russian attack on Ukraine kills 19, injures dozens, officials say",
-      "published_at": "2025-11-18T23:56:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nineteen people were killed in a heavy overnight Russian missile and drone attack that struck an apartment building in the western Ukrainian city of Ternopil, Ukrainian officials said on Wednesday.",
+      "id": "c0eaa9e831182c7eda88df9af2f6de8d43d60c95",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/struggle-students-generations-cost-of-living-1.7635102?cmp=rss",
+      "title": "The numbers don't lie: The struggle is real for Gen Z students",
+      "published_at": "2025-11-19T00:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "High tuition, rent and unemployment rates mean getting by as a Gen Z student is difficult. But do they have it the worst?",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.945,
+        "sentiment": -0.835,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef3ff3954c286b5a8295afd736930c8cb19d8629",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-attack-nov19-9.6984210?cmp=rss",
+      "title": "Heavy Russian attack on Ukraine kills at least 25 people, injures around 80, officials say",
+      "published_at": "2025-11-18T23:56:35-05:00",
+      "section": "World",
+      "summary_auto": "At least 25 people were killed in a Russian drone and missile attack overnight that hit apartment buildings in the western Ukrainian city of Ternopil, Ukrainian officials said on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.935,
         "subjectivity_hint": "low"
       }
     },
@@ -108,32 +303,6 @@
       }
     },
     {
-      "id": "11cf0e759bf679e44553a2a46dc016504cc859f6",
-      "url": "https://www.cbc.ca/news/entertainment/sound-of-music-60-anniversary-film-9.6979635?cmp=rss",
-      "title": "16 going on 60: How well has The Sound of Music aged?",
-      "published_at": "2025-11-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "This year marks the 60th anniversary of the film adaptation of The Sound of Music. Decades on, fans and critics alike are revisiting the film and reconsidering its legacy as well as what it has to say about the world today.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10258a1fffe53c9fae0ec1d91bd2c8e87f347cb4",
-      "url": "https://www.cbc.ca/news/politics/carney-united-arab-emirates-9.6981480?cmp=rss",
-      "title": "Carney heads to U.A.E. hoping to sign investment pact with gulf nation",
-      "published_at": "2025-11-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney is slated to meet with United Arab Emirates President Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi with the explicit focus on expanding the Canada-U.A.E. economic partnership in key sectors such as energy, agriculture, infrastructure and AI.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "c34c9a6702661700e8c747cf94bf84272deb248f",
       "url": "https://www.cbc.ca/radio/ideas/pivotal-people-cbc-massey-lecturer-human-rights-fight-9.6979339?cmp=rss",
       "title": "The people who inspire CBC Massey Lecturer Alex Neve to fight for human rights",
@@ -147,275 +316,54 @@
       }
     },
     {
+      "id": "10258a1fffe53c9fae0ec1d91bd2c8e87f347cb4",
+      "url": "https://www.cbc.ca/news/politics/carney-united-arab-emirates-9.6981480?cmp=rss",
+      "title": "Carney heads to U.A.E. hoping to sign investment pact with gulf nation",
+      "published_at": "2025-11-18T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Prime Minister Mark Carney is slated to meet with United Arab Emirates President Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi with the explicit focus on expanding the Canada-U.A.E. economic partnership in key sectors such as energy, agriculture, infrastructure and AI.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b7bc31cbe586cd0610ccb5fb04360a25373df199",
+      "url": "https://www.cbc.ca/documentaries/the-nature-of-things/first-person-living-with-concussion-9.6960118?cmp=rss",
+      "title": "I believed in achieving goals. Living with a concussion forced me to appreciate the journey",
+      "published_at": "2025-11-18T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Paleontologist Natalia Rybczynski studies the ancient animals of Canada’s High Arctic. After experiencing a brain injury in 2011, she had to figure out life again.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "11cf0e759bf679e44553a2a46dc016504cc859f6",
+      "url": "https://www.cbc.ca/news/entertainment/sound-of-music-60-anniversary-film-9.6979635?cmp=rss",
+      "title": "16 going on 60: How well has The Sound of Music aged?",
+      "published_at": "2025-11-18T23:00:00-05:00",
+      "section": "Entertainment",
+      "summary_auto": "This year marks the 60th anniversary of the film adaptation of The Sound of Music. Decades on, fans and critics alike are revisiting the film and reconsidering its legacy as well as what it has to say about the world today.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "c5fa590061f41a6dd8c38fd210e97a64b6bfc2e6",
       "url": "https://www.cbc.ca/news/world/nigeria-school-girls-abduction-escape-9.6984052?cmp=rss",
       "title": "1 of 25 students abducted in Nigeria found safe as search continues for missing girls",
       "published_at": "2025-11-18T15:20:25-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A schoolgirl who was abducted with 24 others from a dormitory in northwestern Nigeria has escaped and is safe, the school's principal told The Associated Press on Tuesday, as hunters joined security forces in the search for the missing students in forests close to the school.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6bb0ceacce41b496f91b9025498f597169347ce5",
-      "url": "https://www.cbc.ca/news/world/saudi-arabia-crown-prince-canada-9.6983422?cmp=rss",
-      "title": "Once shunned,  Saudi crown prince is Trump’s guest of honour. Canada is warming up, too",
-      "published_at": "2025-11-18T14:58:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "391db47dbc5fd1d664c1507d40062f7a08e65d9f",
-      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-transgender-rights-notwithstanding-clause-9.6983899?cmp=rss",
-      "title": "Danielle Smith's notwithstanding clause triple play on trans youth rights",
-      "published_at": "2025-11-18T14:53:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "638bec93234eaed3930d0f913378ff0822cc0531",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/us-cargo-barge-bella-bella-sinking-9.6984054?cmp=rss",
-      "title": "U.S.-bound cargo barge takes on water near Bella Bella, B.C.",
-      "published_at": "2025-11-18T14:39:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S.-bound cargo ship was damaged and is taking on water near Bella Bella on B.C. 's Central Coast, officials say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8d40be45dc38e506b7e697b83821308d212aebad",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-electric-vehicle-rebates-sales-mandates-9.6984032?cmp=rss",
-      "title": "B.C. redrawing EV sales mandate, scraps goal of 100% by 2035, leaves rebates to feds",
-      "published_at": "2025-11-18T14:17:51-05:00",
-      "section": "Canada",
-      "summary_auto": "British Columbia has abandoned a rebate program for electric vehicles that it paused six months ago and is scrapping a mandate that every new vehicle sold in the province must be zero-emission by 2035.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4fb6829ca99f7677292bdcfe98f93d43e0d3cece",
-      "url": "https://www.cbc.ca/news/canada/bichette-declines-qualifying-offer-blue-jays-9.6983816?cmp=rss",
-      "title": "Bo Bichette declines qualifying offer from Toronto Blue Jays",
-      "published_at": "2025-11-18T14:14:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bo Bichette has declined a qualifying offer from the Toronto Blue Jays, meaning the major-league veteran of seven seasons will opt to choose his next deal from what he is offered on the open market.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0f66b4d1a75dc5b325038f52f7d6a51d53aad9bb",
-      "url": "https://www.cbc.ca/news/canada/toronto/sentence-woman-murder-sons-grief-toronto-9.6983877?cmp=rss",
-      "title": "Toronto woman who suffocated 2 sons gets life with no chance of parole for 18 years",
-      "published_at": "2025-11-18T14:00:43-05:00",
-      "section": "Canada",
-      "summary_auto": "A Toronto woman who suffocated her sons two years ago has been sentenced to life in prison without a chance of parole for 18 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.708,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "15c65b87c4b0f7831e64efaa5ff72dc7bd2c4a79",
-      "url": "https://www.cbc.ca/news/politics/crtc-canadian-content-9.6983364?cmp=rss",
-      "title": "CRTC updates definition of Canadian content, putting limits on AI use",
-      "published_at": "2025-11-18T13:50:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal broadcast regulator has released a new definition of Canadian content — and humans, not AI, must maintain creative control in order to qualify.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e2dfa4846744ce6c5d16c242a99d856d431edc33",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-charge-won-t-play-at-smaller-lansdowne-arena-pwhl-says-9.6983885?cmp=rss",
-      "title": "Ottawa Charge won't play at smaller Lansdowne arena, PWHL says",
-      "published_at": "2025-11-18T13:20:17-05:00",
-      "section": "Canada",
-      "summary_auto": "\"We'd like to find a solution that works for us to stay in Ottawa,\" a league executive says of the Ottawa Charge. \"But the city hasn't made it easy for us.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.302,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "4ee1adae659a0242b5f2a86e24dba4adc3dce833",
-      "url": "https://www.cbc.ca/news/canada/windsor/spotted-lanternfly-invasive-species-windsor-essex-9.6981812?cmp=rss",
-      "title": "Have you seen spotted lanternfly eggs in Windsor-Essex? Invasive Species Centre urges vigilance",
-      "published_at": "2025-11-18T13:16:53-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Canada's Invasive Species Centre held a workshop at Windsor's Ojibway Nature Centre to raise local awareness of the spotted lanternfly — and its egg masses. The Asian plant-eating insect is expected to have a major impact on Canada's wine and fruit-farming industries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d04d678fcc0c619790207df75c86e22f7212ccc",
-      "url": "https://www.cbc.ca/news/business/canada-post-jobs-debt-9.6983641?cmp=rss",
-      "title": "Canada Post paints bleak financial picture, hints at big job cuts",
-      "published_at": "2025-11-18T13:01:01-05:00",
-      "section": "Business",
-      "summary_auto": "At its annual public meeting Tuesday, Canada Post revealed that it continues to bleed cash and hinted at big job cuts through attrition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06757b8943972fd587122f1429f14b79fbbe50cc",
-      "url": "https://www.cbc.ca/player/play/9.6983875?cmp=rss",
-      "title": "Is the U.S. starving for Canadian travellers? | About That",
-      "published_at": "2025-11-18T12:52:38-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian travel to the United States has dropped sharply since President Donald Trump retook office earlier this year. Andrew Chang breaks down the numbers to explain the impact on the U.S. economy, and how many American businesses are trying to win Canadians back. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6eb5b4c1112adad5dc14c64f50a68c00dd0231e7",
-      "url": "https://www.cbc.ca/news/business/meta-antitrust-victory-facebook-instagram-whatsapp-9.6983652?cmp=rss",
-      "title": "Facebook owner Meta wins U.S. antitrust case, won't have to break off Instagram, WhatsApp",
-      "published_at": "2025-11-18T12:50:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Meta has prevailed over an existential challenge to its business that could have forced the tech giant to spin off Instagram and WhatsApp after a judge ruled that the company does not hold a monopoly in social networking.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "91ad9db643afa88e455de4c450315b0b90bc7cfb",
-      "url": "https://www.cbc.ca/news/canada/montreal/extradition-quebec-montreal-u-s-9.6983523?cmp=rss",
-      "title": "Alleged Ryan Wedding associate from Montreal faces murder charge, extradition to U.S.",
-      "published_at": "2025-11-18T12:42:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A man alleged to have ties to organized crime in Montreal is facing charges in relation to a murder and cocaine trafficking, and is now facing extradition to the United States.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.922,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "28d241d1295c0e4626793ae0b5799768ccb45a4e",
-      "url": "https://www.cbc.ca/player/play/9.6983743?cmp=rss",
-      "title": "20 people stuck in elevator at the deepest light-rail station in Canada — on 1st day of service",
-      "published_at": "2025-11-18T12:05:12-05:00",
-      "section": "Canada",
-      "summary_auto": "On the first day the new Deux-Montagnes line of Montreal’s light-rail network was officially in full operation, an elevator carrying commuters at Édouard-Montpetit station broke down for an hour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0f8ceef54f7a90a30ac702acb4af1516226eac16",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-notwithstanding-clause-bills-9.6983786?cmp=rss",
-      "title": "Alberta to invoke notwithstanding clause to shield 3 transgender bills from court challenges",
-      "published_at": "2025-11-18T11:59:47-05:00",
-      "section": "Health",
-      "summary_auto": "The Alberta government has tabled legislation that seeks to invoke the notwithstanding clause to shield a suite of bills that affects transgender youth and adults from legal challenges.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fb091936ec0d38cf209c4bc2fffd625b37f5ce1b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/eagle-migration-bc-fraser-valley-9.6983295?cmp=rss",
-      "title": "Thousands of bald eagles descend on B.C.’s Fraser Valley for winter migration",
-      "published_at": "2025-11-18T11:56:05-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Every winter, tens of thousands of bald eagles descend on the lower Fraser Valley — a migration biologists say forms the world’s largest congregation of eagles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c3e7e65dd5c7bad7bb5ce1ece8d0e7a8298b495c",
-      "url": "https://www.cbc.ca/sports/olympics/team-canada-olympics-paralympics-athlete-kits-milan-cortina-9.6983028?cmp=rss",
-      "title": "Team Canada unveils athlete outfits for Milan-Cortina Olympics, Paralympics",
-      "published_at": "2025-11-18T11:20:31-05:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3711fbd30dedb0517c55abc43426d0a93d744556",
-      "url": "https://www.cbc.ca/news/world/cattelan-america-toilet-klimt-painting-sothebys-auction-9.6983561?cmp=rss",
-      "title": "Gustav Klimt painting sells for $236M US, smashing auction records",
-      "published_at": "2025-11-18T10:57:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Gustav Klimt painting that helped save the life of its Jewish subject during the Holocaust sold Tuesday for $236.4 million US — smashing several records.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "513e1c2d575e2eba074fcd1a7af30d49b745f48c",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-city-council-flags-motion-9.6983177?cmp=rss",
-      "title": "Proposal to ban raising of national flags at Calgary city hall delayed",
-      "published_at": "2025-11-18T10:08:13-05:00",
-      "section": "Canada",
-      "summary_auto": "The proposal, brought forward by Ward 13 Coun. Dan McLean, called for council to discuss amendments to Calgary's flag policy during its scheduled public hearing meeting as an \"urgent business\" matter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ca1a9113099d1d5c1155fbed93bd1f4e01cfb034",
-      "url": "https://www.cbc.ca/news/canada/manitoba/throne-speech-2025-9.6983138?cmp=rss",
-      "title": "Manitoba throne speech promises supervised consumption site by January, overpass at site of deadly bus crash",
-      "published_at": "2025-11-18T09:37:20-05:00",
-      "section": "Health",
-      "summary_auto": "Manitoba’s NDP government is promising to build, saying in its third throne speech that it will construct an overpass at the location of a bus crash that killed 17 seniors, set up the province’s first supervised consumption site and build a new fuel-burning generation station to stave off a forecast power shortage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
         "subjectivity_hint": "low"
       }
     }
