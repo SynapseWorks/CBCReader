@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-20T15:16:57.720513-05:00",
+  "generated_at": "2025-11-20T20:07:48.538676-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "90f1195700848b4b86b6a3018d0f021921a55d55",
+      "url": "https://www.cbc.ca/news/entertainment/kevin-spacey-no-home-9.6987101?cmp=rss",
+      "title": "Actor Kevin Spacey says he's living out of hotels after losing Hollywood roles",
+      "published_at": "2025-11-20T14:00:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Several men accused Spacey of making unwanted sexual advances during the #MeToo movement. In an interview with The Telegraph, Spacey said the financial hardship that followed has left him without a permanent home. While none of the allegations were proven in court, Spacey says the allegations have kept Hollywood at bay.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8abda7ae56fb50462bdf19e6387a8dd5effe18f7",
+      "url": "https://www.cbc.ca/news/world/trump-female-reporters-piggy-9.6986147?cmp=rss",
+      "title": "'Quiet, piggy': As Trump berates female reporters, what's the breaking point?",
+      "published_at": "2025-11-20T12:47:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It's certainly not the first time U.S. President Donald Trump has insulted a female reporter, but calling Bloomberg's Catherine Lucey 'piggy' on Air Force One, then berating ABC News' Mary Bruce a few days later has raised questions about just how much journalists are expected to tolerate as they do their jobs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.115,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "58cf0248f775ed61717e423b95f29e87317ad759",
+      "url": "https://www.cbc.ca/news/canada/montreal/coroner-private-contractor-body-transportation-video-9.6986342?cmp=rss",
+      "title": "Video showing mishandling of a dead body in Quebec City prompts coroner's investigation",
+      "published_at": "2025-11-20T12:16:59-05:00",
+      "section": "Canada",
+      "summary_auto": "The Quebec coroner's office has launched an internal investigation after a video circulated online showing a funeral transporter inappropriately moving a body.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecbfbfee65e7aaa426aaa74eb18160dd12f6af72",
+      "url": "https://www.cbc.ca/radio/asithappens/ticket-scalping-ban-government-britain-9.6984915?cmp=rss",
+      "title": "U.K. government moves to ban inflated resale of tickets for entertainment and sports events",
+      "published_at": "2025-11-20T12:16:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.K. government announced that it is banning the resale of concert, sports, and live event tickets above face value. Fans there could be saved from shelling out around $206 million annually for tickets.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fb2496cd8d1a44e1902b2f219ac10baadd5b53b7",
+      "url": "https://www.cbc.ca/news/world/trump-administration-oil-drilling-california-florida-9.6986697?cmp=rss",
+      "title": "Trump administration touts plan for new oil drilling off California, Florida",
+      "published_at": "2025-11-20T12:15:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Trump administration announced on Thursday new oil drilling off the California and Florida coasts for the first time in decades, advancing a project that critics say could harm coastal communities and ecosystems, as U.S. President Donald Trump seeks to expand U.S. oil production.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "278e424bf08ae3d92e1672fa7c1fecbc05022eb1",
+      "url": "https://www.cbc.ca/player/play/9.6986856?cmp=rss",
+      "title": "How one reporter’s question struck at the core of U.S.-Saudi relations | About That",
+      "published_at": "2025-11-20T12:12:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump defended Saudi Crown Prince Mohammed bin Salman during his Oval Office visit after an ABC News reporter asked about his connection to the 2018 assassination of Washington Post journalist Jamal Khashoggi. Andrew Chang breaks down what the exchange highlights about two key relationships: Trump and the media, and the U.S. and Saudi Arabia. Images provided by The Canadian Press, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "780413a5b3928bd864a0fe2522c43fd36525433f",
+      "url": "https://www.cbc.ca/news/politics/cbsa-refugee-asylum-one-touch-9.6986851?cmp=rss",
+      "title": "Border officers' union raises security concerns about use of automation during asylum intakes",
+      "published_at": "2025-11-20T11:55:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The head of the union representing Canada’s border officers is suggesting the government's move toward automating the refugee claimant process is creating security gaps — allegations the Canada Border Services Agency is pushing back against.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "43df3ce5cf8d9717740a45f372bd5d8dceef76ed",
+      "url": "https://www.cbc.ca/news/world/us-military-congress-lawful-orders-9.6986354?cmp=rss",
+      "title": "Democratic vets in Congress warn about following unlawful military orders, which Trump calls seditious",
+      "published_at": "2025-11-20T11:51:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump has lashed out at six congressional Democrats who this week released a video to social media advising troops they can decline unlawful orders, branding it seditious behaviour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a86d0b536301f30ecb5a02f61c0323b294008a64",
+      "url": "https://www.cbc.ca/news/entertainment/warner-udio-ai-music-9.6986740?cmp=rss",
+      "title": "Warner Music and Udio settle lawsuit, agree to build new AI music platform",
+      "published_at": "2025-11-20T11:51:54-05:00",
+      "section": "Entertainment",
+      "summary_auto": "The deal settles Warner's copyright infringement claims against AI music generation platform Udio, and will allow the platform to train its AI on licensed and authorized music from its artists. This agreement closely mirrors one signed weeks ago between Udio and Universal Music Group, and comes as AI generated songs and artists have been increasingly popping up on streaming platforms and rising on music charts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.485,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a5c363a258c99e452413ff7cf7a777392d2a028d",
       "url": "https://www.cbc.ca/news/business/bell-jobs-layoffs-9.6986533?cmp=rss",
@@ -30,6 +147,19 @@
       }
     },
     {
+      "id": "0e41612e97d4ad4895f25c5491bf00e50235e341",
+      "url": "https://www.cbc.ca/news/canada/windsor/coaches-fight-in-minor-league-hockey-game-9.6986341?cmp=rss",
+      "title": "Ontario minor hockey investigating after coaches get in fist fight at U13 game",
+      "published_at": "2025-11-20T08:57:11-05:00",
+      "section": "Canada",
+      "summary_auto": "All bench staff on both teams have been suspended indefinitely pending a hearing, the OMHA told CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "f16ce37bea0a01211ed4ea4198ab3eb4f60a9eaa",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/canadians-save-groceries-food-costs-survey-9.6986295?cmp=rss",
       "title": "Rising cost of food is changing how Canadians eat, survey shows",
@@ -45,13 +175,13 @@
     {
       "id": "40a90e53badfd5543f818036fb3046c78a1f89b9",
       "url": "https://www.cbc.ca/news/politics/lost-canadians-bill-senate-9.6986432?cmp=rss",
-      "title": "Bill restoring citizenship for 'Lost Canadians' clears Senate, will become law",
+      "title": "Bill restoring citizenship for 'Lost Canadians' becomes law",
       "published_at": "2025-11-20T08:37:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The \"Lost Canadians\" legislation, which aims to fix Canada's unconstitutional citizenship by descent rules, passed in the Senate Wednesday and is on track to become law.",
+      "section": "Canada",
+      "summary_auto": "The \"Lost Canadians\" legislation, which aims to fix Canada's unconstitutional citizenship by descent rules, passed in the Senate Wednesday and received royal assent Thursday afternoon.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.273,
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -73,7 +203,7 @@
       "url": "https://www.cbc.ca/news/health/autism-cdc-website-change-9.6986288?cmp=rss",
       "title": "CDC adopts Robert F. Kennedy's anti-vaccine views on autism website",
       "published_at": "2025-11-20T07:39:49-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "A U.S. Centers for Disease Control and Prevention website has been changed to contradict the longtime scientific conclusion that vaccines do not cause autism, spurring outrage among a number of public health and autism experts.",
       "bias_heuristic": {
         "article_type": "News",
@@ -84,7 +214,7 @@
     {
       "id": "7e6bdd3b7d90680255618010dce68f9f0b2d404b",
       "url": "https://www.cbc.ca/news/canada/toronto/toronto-snow-plow-demonstration-9.6986281?cmp=rss",
-      "title": "City investigating after videos show Toronto contractor drive snowplow through pro-Palestinian demonstration",
+      "title": "City investigating after videos show Toronto contractor driving snowplow through pro-Palestinian demonstration",
       "published_at": "2025-11-20T07:20:36-05:00",
       "section": "Top Stories",
       "summary_auto": "“Thank goodness no one was hurt,” Mayor Olivia Chow told reporters before confirming city staff have been asked to investigate incident.",
@@ -95,11 +225,24 @@
       }
     },
     {
+      "id": "f86e4d3580d2f91eb9aed884d5838ad092047d18",
+      "url": "https://www.cbc.ca/news/canada/manitoba/man-charged-winnipeg-hospital-parkade-assault-9.6986278?cmp=rss",
+      "title": "Man charged after Winnipeg nurse sexually assaulted in parkade",
+      "published_at": "2025-11-20T07:12:20-05:00",
+      "section": "Canada",
+      "summary_auto": "A man has been charged with sexual assault after a Winnipeg hospital nurse was attacked in a parkade, police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.915,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8818e86865d98b78a5cf886f23622e0869cc0c10",
       "url": "https://www.cbc.ca/news/world/covid-pandemic-delay-country-deaths-9.6986195?cmp=rss",
       "title": "Delay in COVID-19 lockdowns in U.K. resulted in some 23,000 more deaths: public inquiry",
       "published_at": "2025-11-20T06:43:26-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Former British prime minister Boris Johnson oversaw a \"toxic,\" \"chaotic\" and dithering response to the COVID-19 pandemic, with a delay in locking the country down resulting in about 23,000 more deaths, a report by a public inquiry concluded on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,24 +268,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/north-coast-transmission-line-bill-passes-9.6986020?cmp=rss",
       "title": "Bill passes to fast-track transmission line in northern B.C.",
       "published_at": "2025-11-20T04:51:13-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "A bill to fast-track construction of the multibillion-dollar North Coast Transmission Line passed third reading Thursday, despite attempts by the B.C. Conservatives and B.C. Greens to stall or amend it.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a28e1006d7c090edd109f6118e00600aac068f22",
-      "url": "https://www.cbc.ca/news/world/gaza-israel-airstrikes-9.6985911?cmp=rss",
-      "title": "Deadly Israeli strikes in Gaza continue into Thursday, with 32 killed in past 24 hours",
-      "published_at": "2025-11-20T04:42:16-05:00",
-      "section": "World",
-      "summary_auto": "Israeli airstrikes killed five people and wounded 18 others in Khan Younis in the southern Gaza Strip on Thursday, local health authorities said, after Hamas and Israel accused each other of violating an increasingly fragile six-week-old truce.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.953,
         "subjectivity_hint": "low"
       }
     },
@@ -160,19 +290,6 @@
       }
     },
     {
-      "id": "a8abf6bcbe0bad8d9dcc6eb9e27172d5a15dbb95",
-      "url": "https://www.cbc.ca/news/world/livestory/ukraine-russia-us-peace-deal-9.6985918?cmp=rss",
-      "title": "UN Security Council meeting now after U.S., Russia propose peace plan for Ukraine",
-      "published_at": "2025-11-20T03:38:36-05:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "73f60b802e23009b3bb5f7b6c3f0be890ba6b803",
       "url": "https://www.cbc.ca/news/canada/british-columbia/improved-pain-management-for-iud-insertions-9.6985170?cmp=rss",
       "title": "Advocates calling for improved pain management for IUD insertions in B.C.",
@@ -183,32 +300,6 @@
         "article_type": "News",
         "sentiment": -0.281,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0808fd7ae940e2e788f9714a305144cc2f6aaf35",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/long-serving-inmate-with-history-of-prison-hostage-takings-sentenced-in-n-s-case-9.6984373?cmp=rss",
-      "title": "Long-serving inmate with history of prison hostage-takings sentenced in Nova Scotia",
-      "published_at": "2025-11-20T02:37:12-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A 43-year-old convicted murderer incarcerated since a teen has been handed an additional 12 months behind bars for confining two correctional guards, with a Nova Scotia judge remarking on the lengthy periods in segregation she has faced during her time in the prison system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.906,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "032153a8729de5a483d10d50df9490448c067e19",
-      "url": "https://www.cbc.ca/news/world/us-russia-ukraine-europe-peace-plan-9.6985888?cmp=rss",
-      "title": "Europe, Ukraine must be involved in U.S.-Russia peace plan circulating, European diplomats say",
-      "published_at": "2025-11-20T02:36:44-05:00",
-      "section": "World",
-      "summary_auto": "Ukraine and Europe must be consulted on any efforts to end Russia's invasion of its neighbour, top European diplomats said Thursday, as reports circulated about a U.S.-Russian proposal to end the war at a time when corruption allegations have rattled Ukraine's government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -225,22 +316,9 @@
       }
     },
     {
-      "id": "855f2ae44abd31b6ab2c1eed849821ee54dcb8d0",
-      "url": "https://www.cbc.ca/news/canada/calgary/syrian-family-reunited-in-alberta-after-nearly-a-decade-of-immigration-hurdles-9.6984012?cmp=rss",
-      "title": "Syrian family reunited in Alberta after nearly a decade of immigration hurdles",
-      "published_at": "2025-11-20T02:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Baraah Mohammad wanted to join her family in Canada after fleeing the war. What ensued was an eight-year struggle through the immigration process.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "9d8654a3dca7f3dcc5466300bc621907029d254e",
       "url": "https://www.cbc.ca/news/canada/british-columbia/residents-in-this-rural-b-c-community-receive-a-prescription-to-exercise-at-a-rec-centre-9.6985027?cmp=rss",
-      "title": "Residents in this rural B.C community receive a prescription to exercise at a rec centre",
+      "title": "Residents in this rural B.C. community receive a prescription to exercise at a rec centre",
       "published_at": "2025-11-20T02:00:00-05:00",
       "section": "Health",
       "summary_auto": "Ian Walters received a prescription from his paramedical nurse this past summer, but instead of receiving a pill, he was given a pass to the Similkameen Recreation Centre in Keremeos, B.C., to use the gym and take part in programming.",
@@ -264,19 +342,6 @@
       }
     },
     {
-      "id": "d08c93f8410506823ff3b64f47e2d8717c590664",
-      "url": "https://www.cbc.ca/news/world/us-canada-hoekstra-trump-election-meddling-9.6985839?cmp=rss",
-      "title": "U.S. ambassador resents meddling in foreign electoral politics, but Trump doesn't seem to mind doing so",
-      "published_at": "2025-11-20T00:46:05-05:00",
-      "section": "World",
-      "summary_auto": "Pete Hoekstra accused Canada of interfering in electoral politics south in the U.S. Wednesday night at an event in Ottawa. It was an interesting perspective given that the man who nominated him for a U.S. ambassador role, President Donald Trump, hasn't exactly been circumspect in talking about foreign elections.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.063,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "c3bbdce18d9fde7ebcb31c9ad96e39d56f5f5419",
       "url": "https://www.cbc.ca/news/canada/toronto/2-dead-brampton-house-fire-9.6985836?cmp=rss",
       "title": "2 dead, child critically injured, after Brampton house fire",
@@ -287,19 +352,6 @@
         "article_type": "News",
         "sentiment": -0.955,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5d10b059b73e608f7ee9cdec78614b9ed701c21c",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/buy-canadian-could-take-a-back-seat-to-cost-9.6981999?cmp=rss",
-      "title": "‘Buy Canadian’ could take a backseat to cost and convenience this Christmas",
-      "published_at": "2025-11-20T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian businesses and retailers are hoping shoppers will continue to support local this holiday season, but ten months into the trade war with the U.S., the cost of living is now a major contributing factor in consumer spending.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.412,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -316,19 +368,6 @@
       }
     },
     {
-      "id": "024dde4cb69071425ac7b6e76e96186d1de7b216",
-      "url": "https://www.cbc.ca/news/world/trump-to-meet-nyc-mayor-elect-mamdani-at-white-house-on-friday-9.6985814?cmp=rss",
-      "title": "Trump to meet NYC mayor-elect Mamdani at White House on Friday",
-      "published_at": "2025-11-19T23:59:52-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump said he will meet New York City mayor-elect Zohran Mamdani at the White House on Friday in what would be the first meeting of the Republican leader with the democratic socialist who won this month's mayoral election.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "743467b232b8e843361f1a4ff2aabd423201e556",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/social-housing-eviction-stjohns-9.6984259?cmp=rss",
       "title": "St. John's man fears he'll be 'back on the street' after being evicted from social housing",
@@ -342,15 +381,15 @@
       }
     },
     {
-      "id": "da46f0127f36c16b27c8fd931d6b9b45be613bc5",
-      "url": "https://www.cbc.ca/news/politics/veterans-amendment-bia-9.6985498?cmp=rss",
-      "title": "Government seeks to retroactively change law, potentially avoiding paying veterans over federal error",
+      "id": "d89cb725085afca57ae1aea45224728fab01286e",
+      "url": "https://www.cbc.ca/news/politics/cpc-veterans-amendment-9.6986885?cmp=rss",
+      "title": "Government 'sneakily' moving to avoid paying veterans over federal error, Conservatives say",
       "published_at": "2025-11-19T23:00:32-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.625,
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -368,80 +407,28 @@
       }
     },
     {
+      "id": "da46f0127f36c16b27c8fd931d6b9b45be613bc5",
+      "url": "https://www.cbc.ca/news/politics/veterans-amendment-bia-9.6985498?cmp=rss",
+      "title": "Government seeks to retroactively change law, potentially avoiding paying veterans over federal error",
+      "published_at": "2025-11-19T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Carney government’s budget legislation contains an amendment that lawyers representing veterans say is a bid to cover up a decades-long error that led to overcharging for long-term care.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "fc2f8537ec10f63460dec41f40f698459dca5556",
       "url": "https://www.cbc.ca/news/canada/toy-stores-closing-9.6982786?cmp=rss",
       "title": "Do kids still want toys? Toy stores are struggling, but don't just blame screens",
       "published_at": "2025-11-19T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "In the age of screens, amid reports of retail stores struggling and studies suggesting that all kids want for Christmas are Robux, what does the future hold for the toy industry?",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.423,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f6a835b4c0c37f1920560992341f09c86ad19c21",
-      "url": "https://www.cbc.ca/news/politics/military-submarine-contract-bidders-9.6985543?cmp=rss",
-      "title": "Canada’s instructions to submarine contract bidders highlight sustainment, economic benefits",
-      "published_at": "2025-11-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada has formally issued firm bidding instructions to the two companies vying to build the navy’s new submarines, CBC News has learned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50fc912379f46631f263d9deddeb7bd6e0f71cca",
-      "url": "https://www.cbc.ca/news/world/epstein-redaction-files-justice-department-9.6985429?cmp=rss",
-      "title": "Why the U.S. Justice Department and Congress may battle over redaction of Epstein files",
-      "published_at": "2025-11-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "When it comes to the Epstein files, there are solid reasons to withold certain information from the public, experts say. However, there are also grey areas that could cause disputes between lawmakers and the U.S. Department of Justice, and which could frustrate those seeking as much information as possible about the case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "1fec55a421e8e5350aea126f907500e51a6a7fba",
-      "url": "https://www.cbc.ca/news/world/himalayan-town-sinking-climate-change-9.6984763?cmp=rss",
-      "title": "In the shadow of the Himalayas, this town is sinking, a casualty of the past and the present",
-      "published_at": "2025-11-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Almost three years ago, hundreds of residents in Joshimath, India, were forced to leave after deep cracks appeared in the walls of some 800 homes because the ground was sinking around them. The town's location, climate change and heavy construction are being blamed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4ac6f0f62ac87b502ff1ab12b51b9314cd9d3644",
-      "url": "https://www.cbc.ca/news/world/asylum-rules-proposal-united-kingdom-critics-9.6985197?cmp=rss",
-      "title": "‘Obviously cruel policies’: U.K.’s proposed asylum rules draw pushback from critics",
-      "published_at": "2025-11-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Tough new asylum rules proposed by Britain’s Labour government have sparked debate not just in Britain, but within the governing party as critics accuse the leadership of donning a hard-right mantle to counter a rise in the polls by the populist anti-immigration party, Reform UK.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.039,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f3831bb31ff393e883e3201debbfe36cd8dd7a4",
-      "url": "https://www.cbc.ca/news/canada/manitoba/ian-ross-playwright-obituary-9.6985553?cmp=rss",
-      "title": "Governor General's Award-winning playwright Ian Ross, 57, 'left a lot of love behind': artistic director",
-      "published_at": "2025-11-19T15:30:55-05:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba’s theatre community is mourning the sudden death of Ian Ross, an award-winning Métis-Ojibway playwright and storyteller who was a mainstay of the city's theatre scene. He died Wednesday at the age of 57.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
         "subjectivity_hint": "low"
       }
     }
