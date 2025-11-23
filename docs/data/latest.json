@@ -1,18 +1,31 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-22T15:15:19.251786-05:00",
+  "generated_at": "2025-11-22T20:17:50.454126-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "3699913c08ebccfdc0f25836a553933f2e2b48ca",
-      "url": "https://www.cbc.ca/news/world/cop30-deal-fossil-fuels-climate-change-crisis-9.6989208?cmp=rss",
-      "title": "COP30 pushes through uneasy climate deal that sidesteps fossil fuels concerns",
-      "published_at": "2025-11-22T07:42:16-05:00",
+      "id": "52e0dfff085d07b254dbbc0d011903e5c27e54d9",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/moncton-african-lion-azizi-dead-at-18-9.6989239?cmp=rss",
+      "title": "Azizi, beloved lion at Moncton zoo, remembered as gentle prankster",
+      "published_at": "2025-11-22T09:49:36-05:00",
       "section": "Top Stories",
-      "summary_auto": "Brazil's COP30 presidency pushed through a compromise climate deal on Saturday that would boost finance for poor nations coping with global warming but that omitted any mention of the fossil fuels driving it.",
+      "summary_auto": "Moncton zoo visitors have fond memories of Azizi, an African lion. Azizi was euthanized this week due to declining health.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.178,
+        "sentiment": 0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3699913c08ebccfdc0f25836a553933f2e2b48ca",
+      "url": "https://www.cbc.ca/news/world/cop30-deal-fossil-fuels-climate-change-crisis-9.6989208?cmp=rss",
+      "title": "'Transcends incompetence': Critics blast COP30 compromise deal that omits mention of fossil fuels",
+      "published_at": "2025-11-22T07:42:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Brazil's COP30 presidency pushed through a compromise climate deal on Saturday that would boost finance for poor nations coping with global warming but omitted any mention of the fossil fuels driving it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.392,
         "subjectivity_hint": "medium"
       }
     },
@@ -35,10 +48,10 @@
       "title": "Strike averted for Alberta nursing-care workers after last-minute deal",
       "published_at": "2025-11-22T06:43:29-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Alberta Union of Provincial Employees announced just after 9 a.m. on Saturday that its members will no longer be on strike after a tentative deal was reached for nursing-care workers.",
+      "summary_auto": "A union representing some Alberta hospital workers called its members back from the picket lines, after it reached a tentative deal with Alberta Health Services for thousands of nursing-care workers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.477,
+        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
@@ -125,12 +138,25 @@
       "url": "https://www.cbc.ca/news/canada/montreal/rem-train-dead-critical-condition-9.6989021?cmp=rss",
       "title": "1 dead, 1 in critical condition after REM train collision on Montreal's South Shore",
       "published_at": "2025-11-22T02:29:16-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "One person is dead, another is in critical condition, and a third is out of danger after they got hit by a REM train on Montreal's South Shore.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.959,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f5d315af318ccc0357748be7eba09aaebd191d1",
+      "url": "https://www.cbc.ca/news/canada/idf-soldiers-canada-entry-9.6980946?cmp=rss",
+      "title": "IDF soldiers are doing speaking events in Canada. Some say they shouldn't be here",
+      "published_at": "2025-11-21T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A violent incident at a Toronto speaking event has sparked calls for more scrutiny on Israeli soldiers entering Canada, with some saying they should be barred entry or investigated for potential participation in war crimes amid accusations of genocide in Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -173,19 +199,6 @@
       }
     },
     {
-      "id": "8f5d315af318ccc0357748be7eba09aaebd191d1",
-      "url": "https://www.cbc.ca/news/canada/idf-soldiers-canada-entry-9.6980946?cmp=rss",
-      "title": "IDF soldiers are doing speaking events in Canada. Some say they shouldn't be here",
-      "published_at": "2025-11-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A violent incident at a Toronto speaking event has sparked calls for more scrutiny on Israeli soldiers entering Canada, with some saying they should be barred entry or investigated for potential participation in war crimes amid accusations of genocide in Gaza.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "75a4f07fa176121e7280d111f69b0d20743d9c17",
       "url": "https://www.cbc.ca/news/entertainment/pixar-toy-story-9.6985626?cmp=rss",
       "title": "Toy Story is turning 30. But can Pixar recapture its magic?",
@@ -203,7 +216,7 @@
       "url": "https://www.cbc.ca/news/canada/school-absences-illness-mental-health-9.6988661?cmp=rss",
       "title": "Reported illnesses have tripled in some school districts. Experts say mental health is a factor",
       "published_at": "2025-11-21T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A CBC investigation finds that school time lost due to reported illness is up in all districts that provided data — more than tripling in some places compared to five years ago. While the data doesn’t say why, experts say deteriorating mental health is causing some kids to stay home.",
       "bias_heuristic": {
         "article_type": "News",
@@ -260,19 +273,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a49e36db842fdfdace9dd71f3346e4fdc6aa564c",
-      "url": "https://www.cbc.ca/news/world/marjorie-taylor-greene-resignation-9.6988817?cmp=rss",
-      "title": "Trump loyalist-turned-critic Marjorie Taylor Greene resigning from Congress",
-      "published_at": "2025-11-21T15:34:49-05:00",
-      "section": "World",
-      "summary_auto": "U.S. Rep. Marjorie Taylor Greene of Georgia, a once-loyal supporter of Donald Trump who has become a critic of the president, said Friday she is resigning from Congress in January.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
         "subjectivity_hint": "low"
       }
     }
