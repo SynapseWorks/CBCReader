@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-23T15:15:56.499736-05:00",
+  "generated_at": "2025-11-23T20:13:13.742181-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "9beaca8644235f721227996ac6150b5b71f11f6e",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-protest-72-hour-detox-centre-9.6989744?cmp=rss",
+      "title": "Vulnerable people could 'come out worse' after stay in Manitoba detox facility, advocate says",
+      "published_at": "2025-11-23T14:46:31-05:00",
+      "section": "Canada",
+      "summary_auto": "Advocates say the Manitoba government's plan to detain people intoxicated with long-lasting drugs like methamphetamine at a Winnipeg detox facility for up to 72 hours could put marginalized people at greater risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6a683b5cd98e08a1978cc9a355306068eb12daf8",
+      "url": "https://www.cbc.ca/sports/basketball/2025-wnba-draft-lottery-9.6989827?cmp=rss",
+      "title": "Wings win WNBA draft lottery for 2nd consecutive season; Tempo to pick 6th or 7th",
+      "published_at": "2025-11-23T14:21:02-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Dallas Wings won the WNBA draft lottery for the second consecutive season on Sunday night. The league is expanding to 15 teams this season with the addition of the Toronto Tempo and Portland Fire. The two teams will also pick sixth and seventh in the draft next April.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "07a10691dbdadfbeffe6eb43f9dc2a4e02774786",
+      "url": "https://www.cbc.ca/player/play/9.6989703?cmp=rss",
+      "title": "Black Friday deals arrive early with shoppers eager for deals",
+      "published_at": "2025-11-23T10:23:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Inflation and economic uncertainty have many Canadian shoppers eager to take advantage of discounts and retailers looking to get people in the door by starting Black Friday sales early.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "111c9d6d1e07591d979de5c641093a65a5ce7df1",
       "url": "https://www.cbc.ca/news/canada/yoplait-yogurt-recall-plastic-fears-9.6989705?cmp=rss",
@@ -32,7 +71,7 @@
     {
       "id": "cb8cd656ca6a21640e4ec31f1994771ff12ee2d5",
       "url": "https://www.cbc.ca/news/politics/carney-modi-negotiations-canada-india-trade-deal-9.6989535?cmp=rss",
-      "title": "Carney, Modi agree to launch negotiations on new Canada-India trade deal: source",
+      "title": "Carney, Modi agree to launch negotiations on new Canada-India trade deal",
       "published_at": "2025-11-23T06:49:58-05:00",
       "section": "Top Stories",
       "summary_auto": "",
@@ -58,13 +97,13 @@
     {
       "id": "c70686d8eb0cf14a415439d137451580b2113f6b",
       "url": "https://www.cbc.ca/news/world/israel-strike-hezbollah-beirut-9.6989505?cmp=rss",
-      "title": "Israel says it killed a senior Hezbollah official in first strike on Beirut in months",
+      "title": "Israel strikes Lebanon's capital killing top Hezbollah official, despite ceasefire",
       "published_at": "2025-11-23T04:27:45-05:00",
       "section": "Top Stories",
       "summary_auto": "Israel carried out an airstrike on a southern Beirut suburb on Sunday, saying it killed Hezbollah’s chief of staff Haytham Tabtabai and warning the Iran-backed militant group not to rearm and rebuild a year after their latest war.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.95,
+        "sentiment": -0.951,
         "subjectivity_hint": "low"
       }
     },
@@ -157,32 +196,6 @@
         "article_type": "News",
         "sentiment": 0.273,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e85af2bfe18060f1e2af1cc3d2fff510698e080c",
-      "url": "https://www.cbc.ca/radio/ideas/wonderful-wizard-of-oz-feminism-9.6932221?cmp=rss",
-      "title": "How the wonderful women of Oz pull back the curtain on L. Frank Baum’s feminism",
-      "published_at": "2025-11-22T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Wonderful Wizard of Oz, first released 125 years ago, is a seemingly simple story of friendship, self reliance and longing for home continues to speak to us. But another theme shimmers a bit deeper below the surface: feminism, in a world powered by its women, witches and queens.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "e4f162c88f4ff57332fd3da506b8f6788089ef84",
-      "url": "https://www.cbc.ca/news/politics/greenwashing-law-canada-industry-business-environment-9.6988612?cmp=rss",
-      "title": "Businesses welcome changes to Canada's greenwashing laws, but environmentalists aren't happy",
-      "published_at": "2025-11-22T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Laws about greenwashing — making a false or misleading statement about the environmental benefits of a product — will remain on the books, but the Liberal government has said it will be making changes aimed at offering businesses more certainty about what runs afoul of the law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.252,
-        "subjectivity_hint": "low"
       }
     },
     {
