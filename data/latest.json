@@ -1,18 +1,213 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-26T09:15:35.719942-05:00",
+  "generated_at": "2025-11-26T15:16:26.880817-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "f6d7b5cdd7351b639055b9276a268a6484db4829",
-      "url": "https://www.cbc.ca/news/world/livestory/hong-kong-apartment-complex-fire-9.6992796?cmp=rss",
-      "title": "Latest updates: Hong Kong highrise fire leaves at least 13 dead",
-      "published_at": "2025-11-26T02:55:35-05:00",
+      "id": "453a477c5f7cd07e8beda377e5a3994b0537e7e8",
+      "url": "https://www.cbc.ca/news/world/livestory/national-guard-shooting-washington-dc-live-updates-9.6993532?cmp=rss",
+      "title": "Two National Guard members shot in Washington, D.C.",
+      "published_at": "2025-11-26T10:13:41-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.772,
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e9efd203ec3e580b0b0286c0ebda3adb4d1e4417",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-grocers-deal-avoid-collecting-beer-wine-empties-9.6993472?cmp=rss",
+      "title": "Ontario grocers could avoid taking beer and wine empties under new deal",
+      "published_at": "2025-11-26T09:51:33-05:00",
+      "section": "Canada",
+      "summary_auto": "Ontario grocers and the Beer Store have reached an agreement-in-principle on alcohol recycling that will allow the retailers to avoid collecting empties at their stores and gives a renewed role to the brewers, The Canadian Press has learned.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "062507d352667cbb656517edf05161f427786dfd",
+      "url": "https://www.cbc.ca/player/play/9.6993420?cmp=rss",
+      "title": "Canadian astronaut Jeremy Hansen answers your questions",
+      "published_at": "2025-11-26T09:50:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Astronaut Jeremy Hansen took questions from across the country before he blasts off to space for the Artemis II mission, where he’ll become the first Canadian to fly around the moon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "80b93d8624eb943b952c277e925ec28292dfab79",
+      "url": "https://www.cbc.ca/news/entertainment/stranger-things-fan-theories-9.6993297?cmp=rss",
+      "title": "How will Stranger Things’ final season end? Fans have many theories on that",
+      "published_at": "2025-11-26T09:25:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Stranger Things fans will finally get some answers when Season 5 drops today — but that's not stopping them from speculating about who might die or how the show’s villains might be defeated. They say whether they’re right or wrong, it's fun to predict how the beloved series will come to a close.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.904,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3290911536e0ccfc31c63b616d9bdde33d72b280",
+      "url": "https://www.cbc.ca/news/canada/montreal/quadriplegic-quebec-man-assisted-dying-normand-meunier-9.6993149?cmp=rss",
+      "title": "Year after quadriplegic Quebec man chose assisted dying, advocates prepare class action",
+      "published_at": "2025-11-26T09:17:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates and the widow of a quadriplegic Quebec man are preparing to file a class-action lawsuit against the province after the 66-year-old requested medical assistance in dying following a hospital stay last year that left him with a severe bedsore.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d540a283cc6f0bf4217f36f4063b98b0ab4814a7",
+      "url": "https://www.cbc.ca/news/canada/calgary/wti-wcs-enserva-2026-forecast-9.6993382?cmp=rss",
+      "title": "Oilpatch drilling slows as oil and natural gas prices sink",
+      "published_at": "2025-11-26T08:39:13-05:00",
+      "section": "Canada",
+      "summary_auto": "Low oil and natural gas prices are taking a toll on the industry as drilling activity is falling in Western Canada and job losses are mounting.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "745440204583c7f05d06973fca62e7b28b356717",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/eccc-weather-warning-system-changes-9.6991783?cmp=rss",
+      "title": "Canada’s weather warning system has changed. Here’s how",
+      "published_at": "2025-11-26T08:30:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Canada's weather warnings have changed to a new colour-coded, risk-tiered system implemented by Environment and Climate Change Canada. The three alert levels — yellow, orange and red — are based on the potential impacts of a weather event and the forecast confidence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "67de8f007f00b4052105fc209bff4722d383f7ba",
+      "url": "https://www.cbc.ca/news/politics/high-speed-rail-property-expropriations-9.6993241?cmp=rss",
+      "title": "Critics worry about Liberal plan to fast-track high-speed rail",
+      "published_at": "2025-11-26T07:38:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In an effort to halve the approval time for Canada’s new high-speed rail network, the Liberal government is streamlining how it expropriates land in a way that some say could compromise property rights and lead to costly mistakes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "57a05250cf79e95b558c49a46f618e7383a2e88b",
+      "url": "https://www.cbc.ca/news/indigenous/first-nations-inuit-policing-pbo-9.6991871?cmp=rss",
+      "title": "Millions in funding for First Nations and Inuit policing left unspent, says budget watchdog",
+      "published_at": "2025-11-26T07:27:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A report from the federal spending watchdog shows that although funding has increased for First Nations and Inuit policing services, spending for the programs hasn't caught up, while Indigenous communities say their police services are going underfunded.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "872915a250460aa82af8f7c8bd7ba7b900c68d8d",
+      "url": "https://www.cbc.ca/news/world/trump-georgia-election-charges-dropped-9.6993093?cmp=rss",
+      "title": "New prosecutor won't pursue charges against Trump in Georgia election interference case",
+      "published_at": "2025-11-26T06:23:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A judge on Wednesday dismissed the Georgia election interference case against U.S. President Donald Trump and others after the prosecutor who took over the case said he would not pursue the charges, ending the last effort to prosecute Trump for his efforts to overturn his 2020 election loss.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.334,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0540d483cf6fc03e08f0182a15a9c8ea35422eb7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/naloxone-runs-out-bc-shelter-9.6992470?cmp=rss",
+      "title": "Shelter runs out of naloxone as B.C. community sees 80 drug overdoses in 24 hours",
+      "published_at": "2025-11-26T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Erin Kapela, executive director of the Canadian Mental Health Association (CMHA) Cowichan Valley Branch, said an estimated 80 toxic drug poisonings were reported from Nov. 18 to 19 — but as of Nov. 25, no resulting fatalities had been confirmed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.344,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac60a98391360ef0edbf9260e8a3e40491169aa6",
+      "url": "https://www.cbc.ca/news/business/equifax-third-quarter-more-canadians-missing-payments-9.6992861?cmp=rss",
+      "title": "More Canadians are missing non-mortgage debt payments, says Equifax",
+      "published_at": "2025-11-26T04:41:01-05:00",
+      "section": "Business",
+      "summary_auto": "Equifax Canada says the number of consumers missing a non-mortgage debt payment in the third quarter rose compared with a year ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.811,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5587e3d2682fc33cd751932b0ac688b534168de9",
+      "url": "https://www.cbc.ca/sports/paralympics/winter-sports/100-days-until-paralympics-2026-9.6992228?cmp=rss",
+      "title": "The best yet on ice and snow: Excitement builds 100 days out to Winter Paralympics in Italy",
+      "published_at": "2025-11-26T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 600 athletes are expected to compete across 6 sports when the best Para athletes in the world descend on Italy in March.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6d7b5cdd7351b639055b9276a268a6484db4829",
+      "url": "https://www.cbc.ca/news/world/livestory/hong-kong-apartment-complex-fire-9.6992796?cmp=rss",
+      "title": "36 dead, 279 missing in Hong Kong highrise complex fire",
+      "published_at": "2025-11-26T03:34:30-05:00",
+      "section": "World",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "791221811740df330023c3e5f3c97a130e925d62",
+      "url": "https://www.cbc.ca/news/world/us-trump-white-house-witkoff-ushakov-report-9.6992706?cmp=rss",
+      "title": "Steve Witkoff to meet Russian officials again as leaked phone call rankles U.S. lawmakers",
+      "published_at": "2025-11-26T03:24:48-05:00",
+      "section": "World",
+      "summary_auto": "Donald Trump is sticking with longtime friend and special envoy for peace missions, Steve Witkoff, even as a report late Tuesday appeared to portray Witkoff as coaching an aide to Russian President Vladimir Putin on how to approach the U.S. president.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9265bdd3505ee2377f0d6fa7e57ec157608790ae",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-dual-practice-health-care-reaction-9.6992504?cmp=rss",
+      "title": "Experts warn the devil is in the details with Alberta's 'experiment' to expand private health care",
+      "published_at": "2025-11-26T02:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Some health experts say they’re worried the new legislation designed to expand private health care in Alberta was not properly planned and is missing key protections for the public health system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -30,15 +225,28 @@
       }
     },
     {
-      "id": "d9650b2615ca89a21c0eff1ca25c41878c113c4f",
-      "url": "https://www.cbc.ca/news/world/hong-kong-tai-po-hotel-fire-9.6992705?cmp=rss",
-      "title": "Hong Kong highrise fire leaves at least 13 dead, with reports of residents trapped",
-      "published_at": "2025-11-26T00:42:09-05:00",
-      "section": "World",
-      "summary_auto": "A fire ravaged a highrise housing complex in Hong Kong on Wednesday, killing at least 13 people and leaving others trapped inside, authorities said.",
+      "id": "999cebc9d62bd3d2e326da2d5b160c7d35d8379a",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/madison-jimmy-charged-with-murder-describes-triple-homicide-farm-turtleford-sask-9.6991649?cmp=rss",
+      "title": "Woman at centre of Sask. triple homicide says she shot in self-defence",
+      "published_at": "2025-11-26T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Madison Jimmy describes the events that led to her being charged with second-degree murder after a triple homicide on a farm near Turtleford, Sask.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.965,
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9650b2615ca89a21c0eff1ca25c41878c113c4f",
+      "url": "https://www.cbc.ca/news/world/hong-kong-tai-po-hotel-fire-9.6992705?cmp=rss",
+      "title": "Hong Kong highrise fire leaves at least 36 dead",
+      "published_at": "2025-11-26T00:42:09-05:00",
+      "section": "World",
+      "summary_auto": "Hong Kong's leader John Lee has said that 36 people were reported dead in the fire that spread through a dense highrise residential complex on Wednesday, and that another 279 people were reported missing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
         "subjectivity_hint": "low"
       }
     },
@@ -47,24 +255,11 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/can-you-see-newfoundland-from-cape-breton-9.6991525?cmp=rss",
       "title": "Can you see Newfoundland from Cape Breton? Online photo sparks debate",
       "published_at": "2025-11-26T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "An online photo has sparked a passionate debate about whether or not it's possible.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73497a905ec2a8f6eec81b890996e24a9ce3d50b",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/maine-woodland-pulp-tariff-new-brunswick-9.6986152?cmp=rss",
-      "title": "Shockwaves felt in N.B. forestry sector as Maine mill halts Canadian imports",
-      "published_at": "2025-11-26T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. tariffs targeting Canadian timber that came into effect Oct. 14 have prompted a Maine pulp and paper manufacturer to halt the importation of unfinished wood from New Brunswick, cutting off at least one stream of income for dozens of suppliers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     },
@@ -82,15 +277,15 @@
       }
     },
     {
-      "id": "0f87147e94aceabbb3a48c4e7a55ed487c5dcf9e",
-      "url": "https://www.cbc.ca/news/world/israel-identifies-latest-hostage-remains-returned-from-gaza-as-phase-1-of-ceasefire-winds-down-9.6992693?cmp=rss",
-      "title": "Israel identifies latest hostage remains returned from Gaza as phase 1 of ceasefire winds down",
+      "id": "05917a45eb3e55527bce270b24232578ec9130f8",
+      "url": "https://www.cbc.ca/news/world/israel-gaza-remains-9.6992693?cmp=rss",
+      "title": "Israel returns 15 more Palestinian bodies to Gaza as 1st phase of ceasefire nears end",
       "published_at": "2025-11-25T23:54:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Benjamin Netanyahu said Wednesday that Israel had identified the latest remains returned from Gaza as hostage Dror Or. That leaves the bodies of two hostages in Gaza as the first phase of the Israel-Hamas ceasefire agreement nears a conclusion.",
+      "section": "World",
+      "summary_auto": "Israel handed over the bodies of 15 Palestinians on Wednesday, a day after Hamas returned the remains of an Israeli hostage.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.494,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -121,48 +316,9 @@
       }
     },
     {
-      "id": "217d536d3bacad222902aa098a535760763a760c",
-      "url": "https://www.cbc.ca/news/canada/montreal/first-nations-quebec-constitution-9.6991803?cmp=rss",
-      "title": "'We are rights holders': First Nations chiefs push back on Quebec's draft constitution",
-      "published_at": "2025-11-25T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "First Nations leaders in Quebec are calling out Premier François Legault's government, saying the province's proposed constitution was drafted without their consent and fails to recognize their status as sovereign nations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.537,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5dd444f88dbbb95727edfce3f45e1433b67a9df6",
-      "url": "https://www.cbc.ca/news/canada/nothwithstanding-clause-taboo-premiers-9.6992441?cmp=rss",
-      "title": "Why invoking the notwithstanding clause no longer seems politically taboo",
-      "published_at": "2025-11-25T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The notwithstanding clause allows for premiers or prime ministers to override rulings on legislation that judges have determined would violate sections of the Charter. But the use of the clause, once viewed by many as a political taboo, has become more frequent in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "637d721ce5693aa551a3072ea3a6dc8cdbe53483",
-      "url": "https://www.cbc.ca/news/politics/x-twitter-foreign-interference-9.6992278?cmp=rss",
-      "title": "New location feature on X sheds light on accounts — but also has errors",
-      "published_at": "2025-11-25T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian researchers who track online misinformation and foreign interference are welcoming a new feature that reveals the location of an X account but warn that it still has glitches and its results should be taken with a grain of salt.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "30ddfc9fe8ec1a0e3bb1111739885a88699e9f53",
       "url": "https://www.cbc.ca/news/canada/transit-crimes-canada-9.6991533?cmp=rss",
-      "title": "Transit violence rising across Canada — in some cities, by nearly 300%",
+      "title": "Transit violence rising across Canada — in some cities by nearly 300%",
       "published_at": "2025-11-25T23:00:00-05:00",
       "section": "Canada",
       "summary_auto": "A joint investigation by CBC News and the Investigative Journalism Foundation has found that transit violence in some of Canada's biggest municipalities remains well above pre-pandemic levels, despite recent decreases. It has roughly doubled over the past decade in eight major Canadian cities.",
@@ -186,6 +342,19 @@
       }
     },
     {
+      "id": "5dd444f88dbbb95727edfce3f45e1433b67a9df6",
+      "url": "https://www.cbc.ca/news/canada/nothwithstanding-clause-taboo-premiers-9.6992441?cmp=rss",
+      "title": "Why invoking the notwithstanding clause no longer seems politically taboo",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The notwithstanding clause allows for premiers or prime ministers to override rulings on legislation that judges have determined would violate sections of the Charter. But the use of the clause, once viewed by many as a political taboo, has become more frequent in recent years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "153b557966eb9b17f7a9192bb9c8ade3d3e95c16",
       "url": "https://www.cbc.ca/news/science/alberta-carney-oil-pipeline-carbon-9.6992271?cmp=rss",
       "title": "Will the Canada-Alberta 'Grand Bargain' oil pipeline deal lead to more emissions?",
@@ -199,15 +368,15 @@
       }
     },
     {
-      "id": "4dc42d9b00bbf1a3138ffef263853fb98210252b",
-      "url": "https://www.cbc.ca/news/canada/carney-ottawa-steel-aluminum-producers-aid-9.6992636?cmp=rss",
-      "title": "Carney to announce new support measures for aluminum and steel producers",
+      "id": "cdfdb5137ab8ede60464a0bd51b2eec0be61cc3d",
+      "url": "https://www.cbc.ca/news/politics/carney-ottawa-steel-aluminum-producers-aid-9.6992636?cmp=rss",
+      "title": "Carney to announce aid measures for steel and lumber sectors",
       "published_at": "2025-11-25T18:00:43-05:00",
       "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney will announce new aid measures Wednesday aimed at helping Canada's aluminum and steel producers.",
+      "summary_auto": "Prime Minister Mark Carney will announce new aid measures Wednesday aimed at helping Canada's steel and lumber sectors.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.599,
+        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -216,7 +385,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/bc-teacher-grindr-sexual-contact-9.6992405?cmp=rss",
       "title": "B.C. teacher disciplined after talking to student on Grindr, engaging in sexual contact: regulator",
       "published_at": "2025-11-25T17:36:17-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A B.C. teacher will not be allowed to be certified for eight years after messaging a student on the Grindr dating app and engaging in sexual relations with them.",
       "bias_heuristic": {
         "article_type": "News",
@@ -225,198 +394,16 @@
       }
     },
     {
-      "id": "9711ff2ece6244052beb7309e640a6b506527daa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/cub-scouts-golden-ears-provincial-park-9.6992633?cmp=rss",
-      "title": "Cub Scout group comes to the aid of 3 unprepared hikers in B.C.'s Golden Ears Provincial Park",
-      "published_at": "2025-11-25T16:34:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A group of young Cub Scouts came to the aid of three unprepared hikers in B.C. 's Golden Ears Provincial Park over the weekend amid torrential rain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "273ee573697a85c1014636f549519153b09b20f0",
       "url": "https://www.cbc.ca/homepage/jamaica-bobsled-team-first-gold-medal-9.6992545?cmp=rss",
       "title": "Jamaican bobsleigh team captures historic gold medal at Whistler competition",
       "published_at": "2025-11-25T15:58:36-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Nearly 40 years after the Jamaica bobsleigh team's first Winter Olympics inspired the film Cool Runnings, the team made history again last weekend when it captured its first ever gold medal at an international bobsleigh race.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.893,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "db64f3241371d560b4f513bdd6c81ca95b9cdced",
-      "url": "https://www.cbc.ca/player/play/9.6992553?cmp=rss",
-      "title": "Explaining whereabouts rules for athletes after swimmer Penny Oleksiak's ban",
-      "published_at": "2025-11-25T15:28:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Olympic multi-medallist Penny Oleksiak has accepted a two-year ban from competitions due to three whereabouts failures. Her former teammate Brittany MacLean Campbell, host of The Ready Room on CBC Radio, discusses the rules and shares her perspective on the violations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cca2c9e2390db546d56cf25c86b51ba5a00efba1",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-language-english-9.6992435?cmp=rss",
-      "title": "Quebec’s language law causes confusion for English speakers, federal commissioner says",
-      "published_at": "2025-11-25T14:05:31-05:00",
-      "section": "Canada",
-      "summary_auto": "Changes to Quebec’s French-language law are creating confusion for English-speaking residents trying to access services, according to a midterm report from Canada’s commissioner of official languages.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8ca1ccd1a00491db7bba0e02c983a8c86235b9d",
-      "url": "https://www.cbc.ca/news/indigenous/thomas-king-daniel-heath-justice-identity-9.6992262?cmp=rss",
-      "title": "Indigenous writers, academics say they aren’t shocked to hear Thomas King’s not Cherokee",
-      "published_at": "2025-11-25T13:26:54-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "810afa182279c247f20a0b4d1e7ec1de0e7eed06",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nhl-catch-up-9.6992346?cmp=rss",
-      "title": "NHL catch-up: Canadian players hot, Canadian teams cold",
-      "published_at": "2025-11-25T12:55:37-05:00",
-      "section": "Canada",
-      "summary_auto": "CBC Sports' daily newsletter checks in on some NHL trends at the quarter mark of the season, including a great start by some top Canadian players and a bad one for most Canadian teams.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4c23244e9c25d7e21fc655de231492b046b8d58f",
-      "url": "https://www.cbc.ca/news/world/pope-leo-turkey-lebanon-9.6992165?cmp=rss",
-      "title": "Pope Leo headed to Turkey and Lebanon for 1st trip abroad as leader of Catholic Church",
-      "published_at": "2025-11-25T12:15:44-05:00",
-      "section": "World",
-      "summary_auto": "Pope Leo will embark on his first trip outside Italy as the leader of the Catholic Church on Thursday, traveling to Turkey and Lebanon, where he is expected to make appeals for peace in the region and urge unity among long-divided Christian churches.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b58f33f9df5693e30da9c55cf4f2c20211831a0d",
-      "url": "https://www.cbc.ca/news/politics/cannabis-tax-revenue-9.6992173?cmp=rss",
-      "title": "Canada collected over $5.4B in cannabis tax revenue since legalization",
-      "published_at": "2025-11-25T11:43:58-05:00",
-      "section": "Canada",
-      "summary_auto": "Ottawa and the provinces raked in more than $5.4 billion in cannabis tax revenue since the drug was legalized for recreational use in October 2018.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7337a1e16fff7d73cdacd59006f3d71448ab0945",
-      "url": "https://www.cbc.ca/player/play/9.6992016?cmp=rss",
-      "title": "Can 3D printing limbs help Gaza's war wounded?",
-      "published_at": "2025-11-25T11:21:31-05:00",
-      "section": "World",
-      "summary_auto": "Gaza now has more child amputees per capita than anywhere else in the world. CBC News chief correspondent Adrienne Arsenault meets with organizations in Cairo trying to help, including a Canadian non-profit organization hoping to provide 3D printed prosthetics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4e4e37aeb295903c8081078a1abe8ac62502d31c",
-      "url": "https://www.cbc.ca/news/world/bolsonaro-27-year-sentence-9.6992044?cmp=rss",
-      "title": "Former Brazilian president Jair Bolsonaro begins serving 27-year prison sentence",
-      "published_at": "2025-11-25T10:35:57-05:00",
-      "section": "World",
-      "summary_auto": "Brazil's Supreme Court on  Tuesday ordered former president Jair Bolsonaro to begin a  prison sentence of more than 27 years for plotting a coup in 2022, according to a court document.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6cf76bac13937aefc0a3ffbe182f079e3bbbc512",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/wakeham-address-finances-9.6991980?cmp=rss",
-      "title": "After ‘poring over’ docs, new N.L. premier says deficit likely higher than previously reported",
-      "published_at": "2025-11-25T10:21:56-05:00",
-      "section": "Canada",
-      "summary_auto": "Newfoundland and Labrador Premier Tony Wakeham says the state of the province’s finances is dire, and believes the deficit is higher than $620 million reported in a fiscal update in August.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b32691fa6962681264d3fdb3e8564025e8d7c4f3",
-      "url": "https://www.cbc.ca/news/world/nigeria-schoolgirls-abducted-returned-9.6992005?cmp=rss",
-      "title": "Abducted Nigerian schoolgirls rescued, president says",
-      "published_at": "2025-11-25T10:07:13-05:00",
-      "section": "World",
-      "summary_auto": "All 24 schoolgirls who were  abducted by armed assailants from a school last week in Kebbi  in northwestern Nigeria have been rescued, the country's president announced Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "928632b92b4dc15ab2b54962c527e1df7e2f2380",
-      "url": "https://www.cbc.ca/news/canada/montreal/norman-meunier-coroner-recommendations-9.6991339?cmp=rss",
-      "title": "Quebec coroner finds gaps in medical care for man who sought MAID after bedsores",
-      "published_at": "2025-11-25T09:53:16-05:00",
-      "section": "Health",
-      "summary_auto": "A Quebec coroner issued 31 recommendations in relation to the death of Normand Meunier, who sought a medically assisted death in March 2024 after his severe bedsores were made significantly worse by an ER stay in Saint-Jérôme.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.883,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "784e36bf08373ce8f1e12d02f9855f151e41ade8",
-      "url": "https://www.cbc.ca/news/world/israel-hamas-hostage-remains-returned-9.6991936?cmp=rss",
-      "title": "Israel isn't sure latest human remains returned by Hamas are those of a hostage",
-      "published_at": "2025-11-25T09:49:01-05:00",
-      "section": "World",
-      "summary_auto": "Israel on Tuesday said it received human remains that Palestinian militants handed over to the Red Cross, but it was not immediately clear if they were one of three hostages remaining in the Gaza Strip.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.503,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "122692bb5787a0050c924777f1ac749106c60d4a",
-      "url": "https://www.cbc.ca/news/world/campbell-soup-lawsuit-9.6991398?cmp=rss",
-      "title": "Campbell's exec on leave after allegedly mocking 'poor people' who eat its soup",
-      "published_at": "2025-11-25T09:48:13-05:00",
-      "section": "World",
-      "summary_auto": "A lawsuit filed by a former security analyst at Campbell's alleges he was fired for reporting inappropriate conduct by a senior executive, including an hour-long rant in which the executive allegedly called the company's products \"s--t for f---ing poor people\" in a secret recording.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "medium"
       }
     }
   ]
