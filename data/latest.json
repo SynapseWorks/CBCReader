@@ -1,14 +1,274 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-25T20:08:50.086847-05:00",
+  "generated_at": "2025-11-26T09:15:35.719942-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "f6d7b5cdd7351b639055b9276a268a6484db4829",
+      "url": "https://www.cbc.ca/news/world/livestory/hong-kong-apartment-complex-fire-9.6992796?cmp=rss",
+      "title": "Latest updates: Hong Kong highrise fire leaves at least 13 dead",
+      "published_at": "2025-11-26T02:55:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fdd7157c071765b229dfd98a5ee69443549324fe",
+      "url": "https://www.cbc.ca/news/canada/toronto/vaughan-townhomes-stormwater-collapse-special-assessments-9.6992063?cmp=rss",
+      "title": "Townhome owners stuck footing $2M bill after stormwater system at new-build complex collapses",
+      "published_at": "2025-11-26T01:13:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9650b2615ca89a21c0eff1ca25c41878c113c4f",
+      "url": "https://www.cbc.ca/news/world/hong-kong-tai-po-hotel-fire-9.6992705?cmp=rss",
+      "title": "Hong Kong highrise fire leaves at least 13 dead, with reports of residents trapped",
+      "published_at": "2025-11-26T00:42:09-05:00",
+      "section": "World",
+      "summary_auto": "A fire ravaged a highrise housing complex in Hong Kong on Wednesday, killing at least 13 people and leaving others trapped inside, authorities said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.965,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "07b4598c32931cd53df658a209981b395b9f6418",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/can-you-see-newfoundland-from-cape-breton-9.6991525?cmp=rss",
+      "title": "Can you see Newfoundland from Cape Breton? Online photo sparks debate",
+      "published_at": "2025-11-26T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An online photo has sparked a passionate debate about whether or not it's possible.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "73497a905ec2a8f6eec81b890996e24a9ce3d50b",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/maine-woodland-pulp-tariff-new-brunswick-9.6986152?cmp=rss",
+      "title": "Shockwaves felt in N.B. forestry sector as Maine mill halts Canadian imports",
+      "published_at": "2025-11-26T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. tariffs targeting Canadian timber that came into effect Oct. 14 have prompted a Maine pulp and paper manufacturer to halt the importation of unfinished wood from New Brunswick, cutting off at least one stream of income for dozens of suppliers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a422f353d183975c39d6f34c05b81cddb520325",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/sistema-musician-carnegie-hall-elsipogtoq-first-nation-9.6987600?cmp=rss",
+      "title": "N.B. viola player tuning up for performance at Carnegie Hall",
+      "published_at": "2025-11-26T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Earlier this year, Elsipogtog First Nation's Daniel Milliea placed third in an international talent competition. He's been invited to perform at Carnegie Hall on Dec. 20 alongside some of the best musicians from 10 countries.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f87147e94aceabbb3a48c4e7a55ed487c5dcf9e",
+      "url": "https://www.cbc.ca/news/world/israel-identifies-latest-hostage-remains-returned-from-gaza-as-phase-1-of-ceasefire-winds-down-9.6992693?cmp=rss",
+      "title": "Israel identifies latest hostage remains returned from Gaza as phase 1 of ceasefire winds down",
+      "published_at": "2025-11-25T23:54:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Benjamin Netanyahu said Wednesday that Israel had identified the latest remains returned from Gaza as hostage Dror Or. That leaves the bodies of two hostages in Gaza as the first phase of the Israel-Hamas ceasefire agreement nears a conclusion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e499f2890b40316836b6b34bdfa0590647c8d9e6",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-sea-urchin-fishery-9.6992234?cmp=rss",
+      "title": "N.L. sea urchin fishery in jeopardy, says owner of one of the province's only plants",
+      "published_at": "2025-11-25T23:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Newfoundland and Labrador's sea urchin fishery is on the verge of collapse, as the fish harvesters and divers are confined to certain overfished areas, says Jerry and Alisha Hodder, owners of one of the province's last urchin plants. They say DFO could fix the problem with the stroke of a pen.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "30ddfc9fe8ec1a0e3bb1111739885a88699e9f53",
+      "url": "https://www.cbc.ca/news/canada/transit-crimes-canada-9.6991533?cmp=rss",
+      "title": "Assaults on public transit have doubled in 8 major Canadian cities",
+      "published_at": "2025-11-25T23:00:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "217d536d3bacad222902aa098a535760763a760c",
+      "url": "https://www.cbc.ca/news/canada/montreal/first-nations-quebec-constitution-9.6991803?cmp=rss",
+      "title": "'We are rights holders': First Nations chiefs push back on Quebec's draft constitution",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "First Nations leaders in Quebec are calling out Premier François Legault's government, saying the province's proposed constitution was drafted without their consent and fails to recognize their status as sovereign nations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.537,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5dd444f88dbbb95727edfce3f45e1433b67a9df6",
+      "url": "https://www.cbc.ca/news/canada/nothwithstanding-clause-taboo-premiers-9.6992441?cmp=rss",
+      "title": "Why invoking the notwithstanding clause no longer seems politically taboo",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The notwithstanding clause allows for premiers or prime ministers to override rulings on legislation that judges have determined would violate sections of the Charter. But the use of the clause, once viewed by many as a political taboo, has become more frequent in recent years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "637d721ce5693aa551a3072ea3a6dc8cdbe53483",
+      "url": "https://www.cbc.ca/news/politics/x-twitter-foreign-interference-9.6992278?cmp=rss",
+      "title": "New location feature on X sheds light on accounts — but also has errors",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian researchers who track online misinformation and foreign interference are welcoming a new feature that reveals the location of an X account but warn that it still has glitches and its results should be taken with a grain of salt.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "30ddfc9fe8ec1a0e3bb1111739885a88699e9f53",
+      "url": "https://www.cbc.ca/news/canada/transit-crimes-canada-9.6991533?cmp=rss",
+      "title": "Transit violence rising across Canada — in some cities, by nearly 300%",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A joint investigation by CBC News and the Investigative Journalism Foundation has found that transit violence in some of Canada's biggest municipalities remains well above pre-pandemic levels, despite recent decreases. It has roughly doubled over the past decade in eight major Canadian cities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3e7c8d7f06586a1f6302f50d8fe20fb0e75a2b95",
+      "url": "https://www.cbc.ca/news/politics/f-35-gripen-dnd-competition-9.6992167?cmp=rss",
+      "title": "F-35 beat Gripen fighter jet 'by a mile' in 2021 Defence Department competition",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The American-built F-35 fighter jet dominated its Swedish rival Gripen in terms of technical and military capabilities during a competition held by the Defence Department in 2021, according to data obtained by Radio-Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "153b557966eb9b17f7a9192bb9c8ade3d3e95c16",
+      "url": "https://www.cbc.ca/news/science/alberta-carney-oil-pipeline-carbon-9.6992271?cmp=rss",
+      "title": "Will the Canada-Alberta 'Grand Bargain' oil pipeline deal lead to more emissions?",
+      "published_at": "2025-11-25T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A historic oil pipeline deal between the federal and Alberta governments — set to be announced on Thursday — could lead to more production in the oilsands, cementing Canada’s position as one of the world’s largest fossil fuel producers while pushing its climate targets even further out of reach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4dc42d9b00bbf1a3138ffef263853fb98210252b",
+      "url": "https://www.cbc.ca/news/canada/carney-ottawa-steel-aluminum-producers-aid-9.6992636?cmp=rss",
+      "title": "Carney to announce new support measures for aluminum and steel producers",
+      "published_at": "2025-11-25T18:00:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney will announce new aid measures Wednesday aimed at helping Canada's aluminum and steel producers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5b4a869e4ccee14fb01b40987e43f386760d5bf3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-teacher-grindr-sexual-contact-9.6992405?cmp=rss",
+      "title": "B.C. teacher disciplined after talking to student on Grindr, engaging in sexual contact: regulator",
+      "published_at": "2025-11-25T17:36:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A B.C. teacher will not be allowed to be certified for eight years after messaging a student on the Grindr dating app and engaging in sexual relations with them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9711ff2ece6244052beb7309e640a6b506527daa",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/cub-scouts-golden-ears-provincial-park-9.6992633?cmp=rss",
+      "title": "Cub Scout group comes to the aid of 3 unprepared hikers in B.C.'s Golden Ears Provincial Park",
+      "published_at": "2025-11-25T16:34:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A group of young Cub Scouts came to the aid of three unprepared hikers in B.C. 's Golden Ears Provincial Park over the weekend amid torrential rain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "273ee573697a85c1014636f549519153b09b20f0",
+      "url": "https://www.cbc.ca/homepage/jamaica-bobsled-team-first-gold-medal-9.6992545?cmp=rss",
+      "title": "Jamaican bobsleigh team captures historic gold medal at Whistler competition",
+      "published_at": "2025-11-25T15:58:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nearly 40 years after the Jamaica bobsleigh team's first Winter Olympics inspired the film Cool Runnings, the team made history again last weekend when it captured its first ever gold medal at an international bobsleigh race.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db64f3241371d560b4f513bdd6c81ca95b9cdced",
+      "url": "https://www.cbc.ca/player/play/9.6992553?cmp=rss",
+      "title": "Explaining whereabouts rules for athletes after swimmer Penny Oleksiak's ban",
+      "published_at": "2025-11-25T15:28:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Olympic multi-medallist Penny Oleksiak has accepted a two-year ban from competitions due to three whereabouts failures. Her former teammate Brittany MacLean Campbell, host of The Ready Room on CBC Radio, discusses the rules and shares her perspective on the violations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "cca2c9e2390db546d56cf25c86b51ba5a00efba1",
       "url": "https://www.cbc.ca/news/canada/montreal/quebec-language-english-9.6992435?cmp=rss",
       "title": "Quebec’s language law causes confusion for English speakers, federal commissioner says",
       "published_at": "2025-11-25T14:05:31-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Changes to Quebec’s French-language law are creating confusion for English-speaking residents trying to access services, according to a midterm report from Canada’s commissioner of official languages.",
       "bias_heuristic": {
         "article_type": "News",
@@ -17,15 +277,15 @@
       }
     },
     {
-      "id": "f2e4f63eb7769fffa71372db471310eb2734440f",
-      "url": "https://www.cbc.ca/radio/asithappens/niigaan-sinclair-thomas-king-9.6992087?cmp=rss",
-      "title": "Thomas King revelation ‘a blemish on the entire Canadian literary industry,’ says Niigaan Sinclair",
+      "id": "d8ca1ccd1a00491db7bba0e02c983a8c86235b9d",
+      "url": "https://www.cbc.ca/news/indigenous/thomas-king-daniel-heath-justice-identity-9.6992262?cmp=rss",
+      "title": "Indigenous writers, academics say they aren’t shocked to hear Thomas King’s not Cherokee",
       "published_at": "2025-11-25T13:26:54-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +294,7 @@
       "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nhl-catch-up-9.6992346?cmp=rss",
       "title": "NHL catch-up: Canadian players hot, Canadian teams cold",
       "published_at": "2025-11-25T12:55:37-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "CBC Sports' daily newsletter checks in on some NHL trends at the quarter mark of the season, including a great start by some top Canadian players and a bad one for most Canadian teams.",
       "bias_heuristic": {
         "article_type": "News",
@@ -47,7 +307,7 @@
       "url": "https://www.cbc.ca/news/world/pope-leo-turkey-lebanon-9.6992165?cmp=rss",
       "title": "Pope Leo headed to Turkey and Lebanon for 1st trip abroad as leader of Catholic Church",
       "published_at": "2025-11-25T12:15:44-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Pope Leo will embark on his first trip outside Italy as the leader of the Catholic Church on Thursday, traveling to Turkey and Lebanon, where he is expected to make appeals for peace in the region and urge unity among long-divided Christian churches.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +320,7 @@
       "url": "https://www.cbc.ca/news/politics/cannabis-tax-revenue-9.6992173?cmp=rss",
       "title": "Canada collected over $5.4B in cannabis tax revenue since legalization",
       "published_at": "2025-11-25T11:43:58-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Ottawa and the provinces raked in more than $5.4 billion in cannabis tax revenue since the drug was legalized for recreational use in October 2018.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +333,7 @@
       "url": "https://www.cbc.ca/player/play/9.6992016?cmp=rss",
       "title": "Can 3D printing limbs help Gaza's war wounded?",
       "published_at": "2025-11-25T11:21:31-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Gaza now has more child amputees per capita than anywhere else in the world. CBC News chief correspondent Adrienne Arsenault meets with organizations in Cairo trying to help, including a Canadian non-profit organization hoping to provide 3D printed prosthetics.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/bolsonaro-27-year-sentence-9.6992044?cmp=rss",
       "title": "Former Brazilian president Jair Bolsonaro begins serving 27-year prison sentence",
       "published_at": "2025-11-25T10:35:57-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Brazil's Supreme Court on  Tuesday ordered former president Jair Bolsonaro to begin a  prison sentence of more than 27 years for plotting a coup in 2022, according to a court document.",
       "bias_heuristic": {
         "article_type": "News",
@@ -99,7 +359,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/wakeham-address-finances-9.6991980?cmp=rss",
       "title": "After ‘poring over’ docs, new N.L. premier says deficit likely higher than previously reported",
       "published_at": "2025-11-25T10:21:56-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Newfoundland and Labrador Premier Tony Wakeham says the state of the province’s finances is dire, and believes the deficit is higher than $620 million reported in a fiscal update in August.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,298 +411,12 @@
       "url": "https://www.cbc.ca/news/world/campbell-soup-lawsuit-9.6991398?cmp=rss",
       "title": "Campbell's exec on leave after allegedly mocking 'poor people' who eat its soup",
       "published_at": "2025-11-25T09:48:13-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A lawsuit filed by a former security analyst at Campbell's alleges he was fired for reporting inappropriate conduct by a senior executive, including an hour-long rant in which the executive allegedly called the company's products \"s--t for f---ing poor people\" in a secret recording.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.927,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a4d00aaebf8a7a5ca6d25627430c8b541f71de87",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/proposed-class-action-suit-cowichan-tribes-decision-9.6991947?cmp=rss",
-      "title": "Proposed B.C. class action claims governments misled property owners in light of Cowichan Tribes decision",
-      "published_at": "2025-11-25T09:12:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A proposed class action lawsuit accuses the federal and B.C. governments of keeping property owners in the dark amid the Cowichan Tribes Aboriginal title ruling.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b947cbee11c9206db00f59bf886817e0506f9233",
-      "url": "https://www.cbc.ca/news/canada/calgary/14-alberta-government-mlas-are-now-facing-recall-drives-here-s-how-the-process-works-9.6991770?cmp=rss",
-      "title": "14 Alberta MLAs are now facing recall drives. Here's how the process works",
-      "published_at": "2025-11-25T09:01:02-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8b98059333ea600fcef4976ba5aa001246c2498c",
-      "url": "https://www.cbc.ca/news/politics/mps-recommend-criminalizing-coercive-control-9.6991835?cmp=rss",
-      "title": "MPs recommend criminalizing coercive control to combat intimate partner violence",
-      "published_at": "2025-11-25T08:56:41-05:00",
-      "section": "Canada",
-      "summary_auto": "Members of Parliament have revived calls for Canada to criminalize the concept of coercive control as a way of combating intimate partner violence, after a previous bill died when Parliament was dissolved.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11c7d7e17dccb0d1b67cbdc91bf773b1dae56506",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/colleen-jones-obituary-9.6991829?cmp=rss",
-      "title": "Colleen Jones, champion curler and CBC reporter, dead at 65",
-      "published_at": "2025-11-25T08:50:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eb6e247a40dc06712ba7cfce11d5d5a9da2c5608",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/penny-oleksiak-whereabouts-ban-2027-9.6991795?cmp=rss",
-      "title": "Swimmer Penny Oleksiak banned from competition until 2027 as part of anti-doping regulations",
-      "published_at": "2025-11-25T08:34:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3fe9fb168a2744404076392dfa76ee303a1e19e",
-      "url": "https://www.cbc.ca/player/play/9.6991759?cmp=rss",
-      "title": "Ontario ballet's stolen Nutcracker set recovered",
-      "published_at": "2025-11-25T07:22:14-05:00",
-      "section": "Canada",
-      "summary_auto": "A moving truck loaded with 'irreplaceable' sets and backdrops for an Ontario-wide tour of The Nutcracker has been found one day after it was reported stolen, ahead of the production’s show in Burlington, Ont.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0f84c0bfdc9da8efffb855e42cf3e6b7dd47c836",
-      "url": "https://www.cbc.ca/news/canada/manitoba/indigenous-led-red-dress-alert-program-must-be-implemented-in-manitoba-without-delay-report-9.6991334?cmp=rss",
-      "title": "Indigenous-led Red Dress Alert program must be implemented in Manitoba 'without delay': report",
-      "published_at": "2025-11-25T07:01:21-05:00",
-      "section": "Canada",
-      "summary_auto": "A Manitoba Red Dress Alert program must launch no later than June 2026 and be implemented through an Indigenous-led independent organization, says a report released Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.487,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5d6f8782678ae90d4888e5f77a80c4e81a6d81ab",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/mystery-man-kitchener-home-saluting-planting-flag-remembrance-day-identified-9.6991565?cmp=rss",
-      "title": "Mystery man who placed flag and saluted Kitchener, Ont., home on Remembrance Day identified",
-      "published_at": "2025-11-25T06:42:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Reg Kirby takes a stroll around his old neighbourhood in Kitchener every Remembrance Day. This year, a security camera caught him placing a flag in the lawn of a home in the area and saluting. He says he lived in the home as a child and his annual tradition honours his parents and the sacrifices they made for him and his brother, Kerry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "02de06f0540ffe64d7f5a9940d2916acd80dd887",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-to-table-andrews-law-9.6991599?cmp=rss",
-      "title": "Ontario proposes harsher penalties for dangerous driving, including lifetime bans",
-      "published_at": "2025-11-25T06:02:34-05:00",
-      "section": "Canada",
-      "summary_auto": "The proposed law, inspired by the death of a man killed in an alleged dangerous driver incident this summer, would enact lifetime driving bans for those convicted of dangerous driving causing death.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.971,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6b866a6497fb6bd182d713a258fac672d96f9da4",
-      "url": "https://www.cbc.ca/sports/football/mcgill-university-25-teams-cut-u-sports-ceo-9.6991534?cmp=rss",
-      "title": "McGill University's decision to cut 25 sports teams called 'unfortunate' by U Sports CEO",
-      "published_at": "2025-11-25T05:20:18-05:00",
-      "section": "Canada",
-      "summary_auto": "U Sports chief executive officer Pierre Arsenault says McGill University's decision to cut 25 sports teams following the 2025-26 season is \"unfortunate.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cce2a01bff223cbf7148b6748c6879c80d183061",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-economic-update-november-2025-9.6991253?cmp=rss",
-      "title": "Quebec economic update includes tax breaks for workers, use of Green Fund to tackle debt",
-      "published_at": "2025-11-25T05:04:40-05:00",
-      "section": "Canada",
-      "summary_auto": "Finance Minister Eric Girard plans to help workers save $1.8 billion over five years through a reduction of contribution rates to the Quebec Pension Plan (QPP) and Quebec Parental Insurance Plan (QPIP).",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8bdc44f565394ace82da587423edfeb90a2a3965",
-      "url": "https://www.cbc.ca/news/world/sudan-us-proposal-rsf-sudanese-army-9.6991431?cmp=rss",
-      "title": "Sudanese army, paramilitary fighters haven't signed onto truce plan, Trump adviser says",
-      "published_at": "2025-11-25T04:50:54-05:00",
-      "section": "World",
-      "summary_auto": "The United States has presented Sudan's warring parties with a proposal for a truce but neither side has formally accepted it, U.S. envoy Massad Boulos said Tuesday, as the army accused its rivals of staging an attack despite declaring a ceasefire.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c45d6bbf015ec9c80c757e8666427114b83faf5e",
-      "url": "https://www.cbc.ca/news/entertainment/court-order-coroner-details-teen-found-in-singer-d4vd-car-9.6991374?cmp=rss",
-      "title": "Court order prevents L.A. coroner from releasing details of teen's body found in singer d4vd's Tesla",
-      "published_at": "2025-11-25T04:22:37-05:00",
-      "section": "World",
-      "summary_auto": "Los Angeles police have blocked the county coroner's office from releasing details about the death of a teen girl whose body was found in the trunk of a car registered to the singer d4vd, the medical examiner's office said on Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ecc514a8337713486df2c4d49e1333c639e0e294",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/whale-detection-technology-on-b-c-s-coast-9.6990987?cmp=rss",
-      "title": "Meet the B.C. residents hosting whale detection devices on their properties",
-      "published_at": "2025-11-25T04:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "From infrared thermal cameras to hydrophones, these B.C. residents offered up space on their properties as researchers look to help safeguard marine mammals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5abc3efe812f57939bf3b0214fb3c6e61ee53836",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/lheidli-tenneh-herbicide-glysophate-forestry-prince-george-9.6991032?cmp=rss",
-      "title": "Lheidli T'enneh First Nation bans herbicide use across north-central B.C.",
-      "published_at": "2025-11-25T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The ban takes particular aim at use of glyphosate in forestry, though it's not clear if it will impact private land.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.699,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7297b87af149c9166b63af1b0bf36de85fe14e36",
-      "url": "https://www.cbc.ca/news/canada/calgary/barn-owl-endangered-species-canada-calgary-9.6989764?cmp=rss",
-      "title": "Endangered barn owl makes 'extremely rare' appearance in Calgary",
-      "published_at": "2025-11-25T03:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "The barn owl, one of Canada's most endangered owls, isn't native to Alberta and is considered extremely rare anywhere in the province, which is why wildlife photographers were shocked when one made a surprise appearance in a Calgary park.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "47b3b51f3a241e1f0685a7389282f67cf5627f06",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rcmp-officer-investigation-9.6977485?cmp=rss",
-      "title": "Caregiver wants apology after off-duty RCMP officer arrested woman with intellectual delay",
-      "published_at": "2025-11-25T01:54:16-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "47b3b51f3a241e1f0685a7389282f67cf5627f06",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rcmp-officer-investigation-9.6977485?cmp=rss",
-      "title": "Complaint filed about off-duty RCMP officer who arrested woman with intellectual delay",
-      "published_at": "2025-11-24T23:30:00-05:00",
-      "section": "Health",
-      "summary_auto": "A complaint process is underway for an RCMP officer who arrested an intellectually delayed woman and removed her from a social centre, while off duty and in a different police jurisdiction.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bece639c6020da4a0f8330279fb0b9e9f3ad0f34",
-      "url": "https://www.cbc.ca/news/canada/ottawa/oc-transpo-ottawa-ai-security-camera-transit-9.6990550?cmp=rss",
-      "title": "AI could watch Ottawa's transit cameras for crime, emergencies",
-      "published_at": "2025-11-24T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "OC Transpo is looking to use artificial intelligence (AI) to alert special constables to crime and emergencies occurring within the agency's vehicles and facilities, Ottawa city councillors have heard.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d44053c281e2fcc6753d39e3fcf173932d90f3f2",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-ceasefire-violations-tracker-9.6990252?cmp=rss",
-      "title": "Tracking Palestinian, Israeli deaths since the Gaza ceasefire went into effect",
-      "published_at": "2025-11-24T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "In the first six weeks since Israel and Palestinian militant group Hamas reached a truce deal aimed at ending their two-year war, Israeli attacks in Gaza have been reported almost daily.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9cd38a60a330d46168e91e499898c8878feac2a4",
-      "url": "https://www.cbc.ca/news/politics/g20-south-africa-future-9.6990491?cmp=rss",
-      "title": "Some wins for multilateralism at the G20 — and big questions about its long-term future",
-      "published_at": "2025-11-24T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "The G20 summit is supposed to be the pinnacle of multilateralism: the idea that nations can co-operate, compromise and co-ordinate for the greater good. But a lot has changed in the past two decades.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.619,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "20efcecef4fd629719fb3a23caa1b201ab649c40",
-      "url": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-season-34-social-media-star-cast-9.6990649?cmp=rss",
-      "title": "How Dancing with the Stars made all the right moves with Gen Z",
-      "published_at": "2025-11-24T23:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Dancing with the Stars recently celebrated its 20th anniversary — but that's not why it's been the talk of Instagram, TikTok, Twitter and, yes, water coolers everywhere this season. Blending nostalgia with a new kind of stardom, the show has successfully reimagined the dance competition for a new generation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.881,
-        "subjectivity_hint": "low"
       }
     }
   ]
