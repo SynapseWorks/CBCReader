@@ -1,18 +1,122 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-27T15:14:27.337453-05:00",
+  "generated_at": "2025-11-27T20:06:24.599731-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "5757e82bc4e8519fba35cb316e3930833ffd920d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/plane-crash-vancouver-island-nanaimo-bc-9.6995059?cmp=rss",
-      "title": "No survivors after plane crashes near Nanaimo, B.C., on Vancouver Island: RCMP",
-      "published_at": "2025-11-27T09:51:53-05:00",
-      "section": "Canada",
-      "summary_auto": "RCMP say there has been a plane crash with no survivors in a wooded area near Twilight Way in Nanaimo, B.C., on Vancouver Island.",
+      "id": "256252d3648bf31304c544123cff69e5373c169b",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-murder-conviction-appeal-rees-thurrott-9.6995519?cmp=rss",
+      "title": "New trial ordered for Ontario man who spent 23 years in prison for 10-year-old girl’s murder",
+      "published_at": "2025-11-27T13:52:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario’s court of appeal has set aside a conviction and ordered a new trial for a man who spent 23 years in prison for the murder of a 10-year-old girl in 1989 — but by all accounts, it’s unlikely that trial will ever happen.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.727,
+        "sentiment": -0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "421dcbf5eb31344975dbdae2d209c3cca0043c97",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-second-quarter-fiscal-update-9.6995312?cmp=rss",
+      "title": "Latest fiscal update shows Alberta’s budget deficit holding steady at $6.4B",
+      "published_at": "2025-11-27T12:41:10-05:00",
+      "section": "Canada",
+      "summary_auto": "The outlook for Alberta's budget in its second-quarter update remains largely unchanged from the previously grim forecast provided in August.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4985f225811d6af168b129e6b8d4f5dfd5d4c8c5",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/marten-falls-first-nation-agreement-9.6995151?cmp=rss",
+      "title": "Ontario signs nearly $40M deal with another First Nation in Ring of Fire region",
+      "published_at": "2025-11-27T12:01:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As part of its ongoing plans to develop in the mineral-rich Ring of Fire region, the Ontario government has signed a community partnership agreement with Marten Falls First Nation. Here's how the agreement builds on other deals the province has made with communities in the region, and why some First Nations are critical of the province's fast-tracked development approach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "64c94c729998fd73ccd42849cef480a0a101a2e2",
+      "url": "https://www.cbc.ca/news/politics/guilbeault-quitting-cabinet-9.6995299?cmp=rss",
+      "title": "Guilbeault quits Carney’s cabinet over energy deal with Alberta",
+      "published_at": "2025-11-27T11:25:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Liberal MP Steven Guilbeault has quit cabinet over the federal government signing Thursday’s memorandum of understanding with Alberta.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "01c8dc21884a29a2f25abb445837d63b73bc5b13",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-police-officers-charged-sexual-misconduct-mcbride-harms-hobberstad-9.6995204?cmp=rss",
+      "title": "3 Calgary police officers accused of sexual misconduct involving 7 women",
+      "published_at": "2025-11-27T11:14:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Three Calgary police officers have been charged with criminal offences linked to allegations of sexual misconduct involving seven women, one of whom was allegedly photographed while partially naked and in custody.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f904593a788cf7aa7f1cfdc769635a18b35a5da9",
+      "url": "https://www.cbc.ca/news/entertainment/olivia-dean-ticketmaster-9.6994425?cmp=rss",
+      "title": "Ticketmaster will partially refund fans of singer Olivia Dean after she called out 'vile' reselling",
+      "published_at": "2025-11-27T10:58:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "'The prices at which you’re allowing tickets to be re-sold is vile and completely against our wishes,' U.K. musician and breakout star Olivia Dean said of Ticketmaster on Instagram last week. Ticketmaster and parent company Live Nation said they’ll limit the ability to resell tickets above face value going forward, and will refund fans the difference.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.563,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1a49fdbaec8140bc7318a1c3e2779a59e5e52f5c",
+      "url": "https://www.cbc.ca/news/world/west-bank-two-men-killed-israeli-forces-footage-9.6995092?cmp=rss",
+      "title": "Israeli forces kill 2 Palestinians in West Bank who seemed to be surrendering: video",
+      "published_at": "2025-11-27T10:13:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli security forces shot two Palestinian men on Thursday who appeared to be surrendering and unarmed during a raid in the Israeli-occupied West Bank, Palestine TV news footage showed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5757e82bc4e8519fba35cb316e3930833ffd920d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/plane-crash-vancouver-island-nanaimo-bc-9.6995059?cmp=rss",
+      "title": "Pilot dies in small plane crash near Nanaimo, B.C., on Vancouver Island",
+      "published_at": "2025-11-27T09:51:53-05:00",
+      "section": "Canada",
+      "summary_auto": "Sealand Flight Ltd., a flight training school based in Campbell River, B.C., said one of its pilots died in the crash, which involved a Sealand Flight Cessna 172 on a private flight.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "32d1fe0cad6f4df14f2e9fe0c18434cb418225d4",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-police-ride-locations-advance-9.6992078?cmp=rss",
+      "title": "Ottawa police to share RIDE locations in advance",
+      "published_at": "2025-11-27T09:51:12-05:00",
+      "section": "Canada",
+      "summary_auto": "Ottawa police are taking a new approach to their annual holiday season RIDE campaign — they're letting drivers know in advance where the sobriety checkpoints will be.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -84,27 +188,14 @@
     {
       "id": "e0938088d44a1795fee4a6f1053481b15d299901",
       "url": "https://www.cbc.ca/news/politics/ottawa-alberta-energy-agreement-pipeline-9.6994715?cmp=rss",
-      "title": "Here's what to know about the energy agreement between Ottawa and Alberta",
+      "title": "Here's what to know about Canada's landmark energy agreement with Alberta",
       "published_at": "2025-11-27T07:13:31-05:00",
       "section": "Canada",
       "summary_auto": "Prime Minister Mark Carney and Alberta Premier Danielle Smith have jointly agreed on a path forward for a new bitumen pipeline to the B.C. coast — a hugely significant development that the federal government is framing as a chance to further develop Alberta's energy sector, diversify Canada's economy and lessen dependence on the U.S.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.891,
+        "sentiment": 0.898,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "98598a44638f27400cdd7213f137c8c849cea48b",
-      "url": "https://www.cbc.ca/news/politics/diplomatic-cable-trump-rubio-immigration-9.6994458?cmp=rss",
-      "title": "Immigration minister denies knowledge of U.S. diplomatic directive to get Canada, allies to lower immigration",
-      "published_at": "2025-11-27T05:05:26-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Federal Immigration Minister Lena Diab says she’s unaware of a reported directive sent to the U.S. Embassy from the Trump administration ordering its envoy in Ottawa to press Canada to lower most immigration levels.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -134,28 +225,15 @@
       }
     },
     {
-      "id": "161e202f13ed9f4c476309ecf0ee82dff847c99d",
-      "url": "https://www.cbc.ca/radio/frontburner/in-chad-inside-camps-for-sudans-refugees-9.6993775?cmp=rss",
-      "title": "In Chad, inside camps for Sudan’s refugees",
-      "published_at": "2025-11-27T02:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Sudan’s civil war is the worst displacement crisis in the world. Michelle Shephard brings us a rare on the ground report from inside two refugee camps near Sudan’s eastern border.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.92,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "7746030eda74c964d24848fddb63e11c954f495d",
       "url": "https://www.cbc.ca/news/canada/manitoba/killarney-food-bank-accredidation-9.6993428?cmp=rss",
       "title": "Rural Manitoba food bank fears new rules may limit garden, farm donations",
       "published_at": "2025-11-27T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "A rural Manitoba food bank worries Food Banks Canada's new accreditation program, launched in 2024, ignores the practicalities of small communities facing rising food insecurity. Killarney Food Bank says it wants accreditation, but that involves a lot of paperwork and would change what they can distribute.",
+      "summary_auto": "A Manitoba food bank worries new national accreditation standards ignore the realities of small communities. Killarney Food Bank says Food Banks Canada's accreditation involves a lot of paperwork and would change what it can distribute.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.612,
+        "sentiment": -0.796,
         "subjectivity_hint": "medium"
       }
     },
@@ -238,28 +316,15 @@
       }
     },
     {
-      "id": "6c37af63d0f3801f984bd8b7dbb4c963eb589397",
-      "url": "https://www.cbc.ca/news/canada/ccisf-charity-shutdown-fraud-allegations-9.6992099?cmp=rss",
-      "title": "Charity for first responders disbands amid fraud allegations against CEO, treasurer",
+      "id": "5f39fc40a43b5d4a6e773b713caad5bb6a1da3d9",
+      "url": "https://www.cbc.ca/news/canada/calgary/northern-gateway-pipeline-retrospective-alberta-bc-carney-smith-9.6993499?cmp=rss",
+      "title": "Spills, spies and Tim Hortons boycotts: A look back at the 'fight for Canada's soul' over Northern Gateway",
       "published_at": "2025-11-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A charity for Canadian first responders and their families is suing its former CEO and treasurer, alleging massive fraud and misappropriation of donor funds. CBC News has learned that the Hamilton-based Canadian Critical Incident Stress Foundation quietly ceased operations late last year and is suing former CEO Renee Jarvis and her daughter, former treasurer Kelsey Pitt.",
+      "section": "Canada",
+      "summary_auto": "The details of the decade-long, fractious debate over the Northern Gateway pipeline may have faded in memory, but that fight takes on a renewed relevance today, as Ottawa and Alberta come together with a new vision for a pipeline through British Columbia.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "19dbc0463ce5b598c3f295a3f9579bd8cdd3621c",
-      "url": "https://www.cbc.ca/news/canada/grizzly-bears-bella-coola-attack-9.6993983?cmp=rss",
-      "title": "If the grizzly that attacked a B.C. school group is found, what happens next?",
-      "published_at": "2025-11-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Efforts to locate the bear that attacked a school group near Bella Coola, B.C., last Thursday are still underway. The rare attack that injured four people is prompting questions about what should happen to the animal if it's found.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
+        "sentiment": -0.527,
         "subjectivity_hint": "medium"
       }
     },
@@ -277,15 +342,15 @@
       }
     },
     {
-      "id": "5f39fc40a43b5d4a6e773b713caad5bb6a1da3d9",
-      "url": "https://www.cbc.ca/news/canada/calgary/northern-gateway-pipeline-retrospective-alberta-bc-carney-smith-9.6993499?cmp=rss",
-      "title": "Spills, spies and Tim Hortons boycotts: A look back at the 'fight for Canada's soul' over Northern Gateway",
+      "id": "19dbc0463ce5b598c3f295a3f9579bd8cdd3621c",
+      "url": "https://www.cbc.ca/news/canada/grizzly-bears-bella-coola-attack-9.6993983?cmp=rss",
+      "title": "If the grizzly that attacked a B.C. school group is found, what happens next?",
       "published_at": "2025-11-26T23:00:00-05:00",
       "section": "Canada",
-      "summary_auto": "The details of the decade-long, fractious debate over the Northern Gateway pipeline may have faded in memory, but that fight takes on a renewed relevance today, as Ottawa and Alberta come together with a new vision for a pipeline through British Columbia.",
+      "summary_auto": "Efforts to locate the bear that attacked a school group near Bella Coola, B.C., last Thursday are still underway. The rare attack that injured four people is prompting questions about what should happen to the animal if it's found.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.527,
+        "sentiment": -0.896,
         "subjectivity_hint": "medium"
       }
     },
@@ -316,6 +381,19 @@
       }
     },
     {
+      "id": "6c37af63d0f3801f984bd8b7dbb4c963eb589397",
+      "url": "https://www.cbc.ca/news/canada/ccisf-charity-shutdown-fraud-allegations-9.6992099?cmp=rss",
+      "title": "Charity for first responders disbands amid fraud allegations against CEO, treasurer",
+      "published_at": "2025-11-26T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A charity for Canadian first responders and their families is suing its former CEO and treasurer, alleging massive fraud and misappropriation of donor funds. CBC News has learned that the Hamilton-based Canadian Critical Incident Stress Foundation quietly ceased operations late last year and is suing former CEO Renee Jarvis and her daughter, former treasurer Kelsey Pitt.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0f2fa0956c66ae7476ae1971e6ff7733ef60395d",
       "url": "https://www.cbc.ca/news/politics/conservatives-steve-outhouse-pierre-poilievre-9.6993317?cmp=rss",
       "title": "Conservatives have a new campaign manager. How much has really changed?",
@@ -338,19 +416,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10ad5b100799f8a2b24dd1684473adede0cc7787",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/drug-user-liberation-front-constitutional-challenge-9.6994064?cmp=rss",
-      "title": "B.C. man who bought drugs for compassion club surprised by Health Canada's lack of 'urgency' on crisis",
-      "published_at": "2025-11-26T15:17:16-05:00",
-      "section": "Canada",
-      "summary_auto": "A co-founder of Vancouver's Drug User Liberation Front said he was surprised by Health Canada's lack of \"urgency\" about the deadly toxic drug crisis, and the absence of a pharmaceutical-grade supplier meant the club had to turn to the dark web to get pure substances.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
         "subjectivity_hint": "low"
       }
     }
