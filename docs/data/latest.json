@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-28T15:15:55.426408-05:00",
+  "generated_at": "2025-11-28T20:06:55.210729-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "f90aa389e3cd2eb89e19f5e8ef771d466beee0e0",
+      "url": "https://www.cbc.ca/news/politics/energy-minister-hodgson-apologizes-zoom-comment-coastal-first-nations-9.6997207?cmp=rss",
+      "title": "Minister apologizes for 'poor choice of words' about meeting with B.C. First Nations group",
+      "published_at": "2025-11-28T14:17:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Federal Energy Minister Tim Hodgson says he has apologized to Coastal First Nations for what he says were a “poor choice of words” regarding a meeting he offered to have with the group on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "38cf4f43ede64351211fd0cc7253e40d32132ae2",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-search-brady-road-landfill-monday-9.6997072?cmp=rss",
+      "title": "Manitoba will begin Brady Road landfill search for remains of First Nations women on Monday",
+      "published_at": "2025-11-28T13:46:48-05:00",
+      "section": "Canada",
+      "summary_auto": "A search of another Winnipeg landfill for the remains of First Nations women will begin on Monday, CBC News has learned.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46597e0addd5aa147c2148ee52048e137bf1d2c3",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-u-s-alcohol-ban-continues-pain-point-9.6996732?cmp=rss",
+      "title": "Manitoba sticking to U.S. alcohol ban since it's a 'pain point' for Trump: premier",
+      "published_at": "2025-11-28T11:31:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Manitoba Premier Wab Kinew showed no willingness Friday to relax his province's ban on American alcohol products. He argued the prohibition, enacted by several provinces, has been one of Canada's responses to the U.S. trade dispute the Trump administration has noticed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.928,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db596cb11c0cbe16460489631399eae5b0e1638f",
+      "url": "https://www.cbc.ca/news/world/livestory/airbus-recall-passenger-disruption-live-updates-9.6996720?cmp=rss",
+      "title": "These are the airlines most affected by the massive Airbus A320 recall",
+      "published_at": "2025-11-28T11:02:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.225,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1297723a825de5394dce01e2e49f5c4b66e51f8c",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/crown-seeks-for-former-christian-school-principal-duff-friesen-guilty-of-assault-9.6996495?cmp=rss",
+      "title": "Crown seeks jail for former Saskatoon Christian school principal guilty of assaulting student",
+      "published_at": "2025-11-28T10:00:44-05:00",
+      "section": "Canada",
+      "summary_auto": "The Crown prosecution says Duff Friesen should serve jail time for assaulting a student. His lawyer wants a conditional discharge.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "724e39f6b3b14fbac3dd9c90ee594952026f2f35",
       "url": "https://www.cbc.ca/radio/quirks/bobs-blog-thirty-meter-telescope-9.6996441?cmp=rss",
@@ -14,6 +79,32 @@
         "article_type": "News",
         "sentiment": -0.477,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "47f6b18c0f6dc34716a513be883a0b5fe5bbdbfc",
+      "url": "https://www.cbc.ca/news/politics/liberal-mps-say-caucus-united-9.6996605?cmp=rss",
+      "title": "Liberals say caucus is united despite former environment minister's resignation from cabinet",
+      "published_at": "2025-11-28T09:29:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some Liberal MPs are insisting their caucus remains united despite Steven Guilbeault’s decision to quit cabinet over Prime Minister Mark Carney’s deal with Alberta that could lead to a pipeline to the B.C. coast.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7fcd6cff510ad090737f25505de318d6409a3a33",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-school-assault-forcible-confinement-9.6996302?cmp=rss",
+      "title": "Student grabbed by sex offender in Winnipeg elementary school bathroom, police say",
+      "published_at": "2025-11-28T09:02:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Winnipeg police say a child was grabbed by a stranger in a St. Vital elementary school bathroom Thursday, leading to charges of assault and forcible confinement against a 28-year-old man who is a registered sex offender.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -34,7 +125,7 @@
       "url": "https://www.cbc.ca/news/health/measles-who-9.6996234?cmp=rss",
       "title": "Surging measles cases could augur poorly for other diseases, World Health Organization says",
       "published_at": "2025-11-28T07:34:52-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Measles deaths dropped 88 per cent over 24 years thanks to global immunization efforts but the number of cases surged in 2024, the World Health Organization says.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +242,7 @@
       "url": "https://www.cbc.ca/news/business/canada-gdp-q3-2025-9.6995959?cmp=rss",
       "title": "Canada's economy sees surprise boost in 3rd quarter, avoiding a technical recession",
       "published_at": "2025-11-28T03:39:08-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "The Canadian economy grew at an annualized rate of 2.6 per cent in the third quarter, Statistics Canada said on Friday, avoiding a technical recession largely due to a surge in defence spending.",
       "bias_heuristic": {
         "article_type": "News",
@@ -225,19 +316,6 @@
       }
     },
     {
-      "id": "008b6f5a15a983c00bcbb3914628f97c00155eb5",
-      "url": "https://www.cbc.ca/news/canada/ottawa/government-demanding-public-servants-reimburse-years-old-phoenix-overpayments-9.6995231?cmp=rss",
-      "title": "Government demanding public servants reimburse years-old Phoenix overpayments",
-      "published_at": "2025-11-27T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Federal public servants are being threatened with legal action if they don’t repay money they were mistakenly overpaid during the error-plagued rollout of the Phoenix pay system nearly a decade ago, Radio-Canada has learned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "05f8000b0d2a0091a5492c55d609f8f2f76b470f",
       "url": "https://www.cbc.ca/news/canada/montreal/first-person-aging-dana-kobernick-9.6993272?cmp=rss",
       "title": "My outlook on aging changed when my friend died. Here’s the clarity I found as I enter my 60s",
@@ -251,6 +329,19 @@
       }
     },
     {
+      "id": "008b6f5a15a983c00bcbb3914628f97c00155eb5",
+      "url": "https://www.cbc.ca/news/canada/ottawa/government-demanding-public-servants-reimburse-years-old-phoenix-overpayments-9.6995231?cmp=rss",
+      "title": "Government demanding public servants reimburse years-old Phoenix overpayments",
+      "published_at": "2025-11-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Federal public servants are being threatened with legal action if they don’t repay money they were mistakenly overpaid during the error-plagued rollout of the Phoenix pay system nearly a decade ago, Radio-Canada has learned.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "00c81a7adaf23c998574cfbd6a221e0f2ce429df",
       "url": "https://www.cbc.ca/news/canada/commercial-lobster-fishing-indigenous-rights-dfo-9.6995262?cmp=rss",
       "title": "Some commercial lobster fishers say Indigenous treaty fishing threatens stocks. Government memo says otherwise",
@@ -260,32 +351,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c12633defff634ba02b5e3042f223f28ee51f052",
-      "url": "https://www.cbc.ca/news/canada/toronto/xmas-tree-trends-2025-9.6993539?cmp=rss",
-      "title": "Christmas tree farmers forced to adapt to climate change and affordability crisis",
-      "published_at": "2025-11-27T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Christmas trees are a long-running tradition for many, but modern-day circumstances are slowly transforming the tree farming industry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.55,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5aff18d3752331ccc641da14916f4766218c945",
-      "url": "https://www.cbc.ca/news/canada/caf-students-recruits-9.6993565?cmp=rss",
-      "title": "Military family inspires some young Canadians to enlist, despite recruitment hurdles",
-      "published_at": "2025-11-27T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Against a backdrop of increased tensions with the U.S. and dismal labour prospects for young Canadians, some students are looking to the military for their future careers. They tell CBC News why the Canadian Armed Forces has captured their interest and where they're at with recruitment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -338,19 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.754,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fac8261963c378cee61b95382eb8e70878d2f58e",
-      "url": "https://www.cbc.ca/news/business/molson-canada-vendors-lawsuit-fraud-allegations-9.6995802?cmp=rss",
-      "title": "Molson Canada accuses ex-managers of multimillion-dollar fraud scheme",
-      "published_at": "2025-11-27T17:38:06-05:00",
-      "section": "Canada",
-      "summary_auto": "Molson Canada has accused former managers of embezzling millions of dollars in an intricate fraud scheme allegedly involving\nfake vendors, shell companies, the president of a major pub chain and a pair of married couples.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
         "subjectivity_hint": "low"
       }
     }
