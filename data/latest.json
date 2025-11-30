@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-30T09:13:14.200075-05:00",
+  "generated_at": "2025-11-30T15:15:52.254661-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d679bc4705807c1ec933f3522cfe3977be94e7d9",
+      "url": "https://www.cbc.ca/news/politics/environment-minister-steven-guilbeault-canada-climate-policies-9.6998023?cmp=rss",
+      "title": "Environment minister disputes Guilbeault’s claim that Canada is cutting climate policies",
+      "published_at": "2025-11-30T08:23:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Environment and Climate Change Minister Julie Dabrusin is pushing back against claims from Steven Guilbeault, who resigned from cabinet this week over Ottawa’s memorandum of understanding with Alberta and said Canada is dismantling several pieces of its climate plan.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f59bbf1935fb3f919df39e305045d7b371569764",
+      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-village-trailer-park-mobile-homes-cortina-italy-9.6998007?cmp=rss",
+      "title": "Cortina Olympic Village is a trailer park featuring 400 mobile homes in an alpine valley",
+      "published_at": "2025-11-30T06:24:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The temporary Village that will house up to 1,400 athletes and other team members during the Feb. 6-22 Milan-Cortina Olympics consists of 377 rented mobile homes arranged close to one another on a humid valley floor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d70e3e86f2e2bf4bba58c1d83058e3c77d8c921d",
+      "url": "https://www.cbc.ca/news/world/netanyahu-pardon-request-corruption-trial-9.6997900?cmp=rss",
+      "title": "Netanyahu submits request for a pardon during his ongoing corruption trial",
+      "published_at": "2025-11-30T04:25:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli Prime Minister Benjamin Netanyahu on Sunday asked the country’s president to grant him a pardon from corruption charges — seeking to end a long-running trial that has bitterly divided the nation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "1d3cb189b9f2741c9de3039f1d2392d309953724",
       "url": "https://www.cbc.ca/news/world/death-tolls-rise-in-indonesia-sri-lanka-flooding-9.6997892?cmp=rss",
@@ -43,6 +82,19 @@
       }
     },
     {
+      "id": "5f08c56f4a010c97d4eb1edcbd7c9fdb8f302802",
+      "url": "https://www.cbc.ca/news/canada/calgary/eritrean-psychologist-refugee-calgary-9.6995052?cmp=rss",
+      "title": "Former Eritrean refugees sponsor their own psychologist to fill health-care gap",
+      "published_at": "2025-11-30T03:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "A group of Eritrean community members are banding together to try to bring a clinical psychologist from East Africa to Calgary, hoping to help the community access the kind of support that’s chronically difficult for many newcomers to get in the mainstream health-care system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d5b65844a47a94409887bccbd0b1dfa555d56858",
       "url": "https://www.cbc.ca/news/business/eu-kidfluencer-ban-9.6994957?cmp=rss",
       "title": "Should kidfluencers be banned? That’s the plan in the EU",
@@ -69,16 +121,42 @@
       }
     },
     {
-      "id": "5706a45467fae32b231a8f3c6e0c5da316877c2d",
-      "url": "https://www.cbc.ca/news/science/neil-degrasse-tyson-9.6992178?cmp=rss",
-      "title": "Neil deGrasse Tyson on deepfakes, being a 'buzzkill' and what keeps him up at night",
+      "id": "f02aba26bf48789d48a8e6f78418d6a82e1ade24",
+      "url": "https://www.cbc.ca/news/canada/toronto/scarborough-reverend-opens-garage-food-bank-9.6995457?cmp=rss",
+      "title": "A priest in Toronto opened a food bank in her garage",
       "published_at": "2025-11-29T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Renowned astrophysicist Neil deGrasse Tyson is perhaps best known for his podcast “Star Talk,” where he discusses covers various topics with scientists from around the world. He sat down with CBC News recently to talk about being deepfaked and what it is about the cosmos that keeps him up at night.",
+      "summary_auto": "When a Scarborough church food bank was nearly forced to shut down because of renovations, the priest took matters into her own hands and moved it to a new location: her garage.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.637,
+        "sentiment": -0.44,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1125d299fee433b7f13a78113abafd57b80deb85",
+      "url": "https://www.cbc.ca/radio/sunday/human-animal-bond-cloning-communication-9.6994865?cmp=rss",
+      "title": "What science can tell us about our relationship to pets and our desire to clone them",
+      "published_at": "2025-11-29T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than half of Canadian households have at least one pet. Humans are eager to deepen their connection with animals, but the current science of cloning and decoding animal communication doesn't bring us close enough.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "9c0704a45ca77de57f8e864b3c07b99a08edef5c",
+      "url": "https://www.cbc.ca/news/canada/first-person-restorative-justice-9.6985799?cmp=rss",
+      "title": "Restorative justice helped me turn my life around — and it started with one drum",
+      "published_at": "2025-11-29T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ruby Harry spent many years inside correctional institutions. It wasn't until she learned about restorative justice that she found her way back to her culture and began healing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -95,16 +173,16 @@
       }
     },
     {
-      "id": "f983b397983bdde89318cd98f1c7a4901633085f",
-      "url": "https://www.cbc.ca/news/canada/hamilton/ukrainian-surgeon-in-hamilton-9.6996324?cmp=rss",
-      "title": "What this surgeon from Ukraine is learning in Canada about treating war victims",
+      "id": "5706a45467fae32b231a8f3c6e0c5da316877c2d",
+      "url": "https://www.cbc.ca/news/science/neil-degrasse-tyson-9.6992178?cmp=rss",
+      "title": "Neil deGrasse Tyson on deepfakes, being a 'buzzkill' and what keeps him up at night",
       "published_at": "2025-11-29T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Dr. Mariia Kuzeikiv, an Ukrainian surgeon, is learning skills that could help her save lives in the war while in Hamilton, Ont.",
+      "summary_auto": "Renowned astrophysicist Neil deGrasse Tyson is perhaps best known for his podcast “Star Talk,” where he discusses covers various topics with scientists from around the world. He sat down with CBC News recently to talk about being deepfaked and what it is about the cosmos that keeps him up at night.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -117,6 +195,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.869,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f983b397983bdde89318cd98f1c7a4901633085f",
+      "url": "https://www.cbc.ca/news/canada/hamilton/ukrainian-surgeon-in-hamilton-9.6996324?cmp=rss",
+      "title": "What this surgeon from Ukraine is learning in Canada about treating war victims",
+      "published_at": "2025-11-29T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Dr. Mariia Kuzeikiv, an Ukrainian surgeon, is learning skills that could help her save lives in the war while in Hamilton, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
         "subjectivity_hint": "medium"
       }
     },
@@ -139,49 +230,10 @@
       "title": "Vancouver Whitecaps to face Inter Miami in 1st MLS Cup final in club's history",
       "published_at": "2025-11-29T18:13:36-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Vancouver Whitecaps are heading to the MLS Cup final for the first time in the club’s history after a commanding 3–1 win over San Diego FC in Saturday night’s Western Conference final.",
+      "summary_auto": "The Vancouver Whitecaps are heading to the MLS Cup final for the first time in the club’s history after a commanding 3–1 win over hometown San Diego FC in Saturday night’s Western Conference final.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f1c60e1757538b29e15c2ccb19e925bd3d53333e",
-      "url": "https://www.cbc.ca/news/canada/toronto/snow-alert-sunday-toronto-9.6997781?cmp=rss",
-      "title": "Heavy snowfall expected in Toronto Sunday",
-      "published_at": "2025-11-29T14:22:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A special weather statement has been issued for Toronto, as five to seven centimetres of snow are expected Sunday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b932648a9195599ab45ee386ca75dbe0ca438bce",
-      "url": "https://www.cbc.ca/news/world/trump-maduro-venezuela-airspace-9.6997688?cmp=rss",
-      "title": "Maduro slams 'colonial threat' as Trump says Venezuelan airspace should be closed",
-      "published_at": "2025-11-29T10:49:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump on Saturday said that the airspace \"above and surrounding\" Venezuela should be considered as \"closed in its entirety,\" an assertion that raised more questions about the U.S. pressure on Venezuelan leader Nicolas Maduro. His government accused Trump of making a \"colonial threat\" and seeking to undermine the South American country's sovereignty.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "79ad4e43427745982f64e5e7bee7481f01743e57",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/cpkc-train-derailment-near-cranbrook-9.6997676?cmp=rss",
-      "title": "Evacuation order lifted after train derailment east of Cranbrook, B.C.",
-      "published_at": "2025-11-29T10:24:46-05:00",
-      "section": "Canada",
-      "summary_auto": "The evacuation order for five properties in a rural area in B.C.’s East Kootenay has been lifted hours after a train derailment, east of Cranbrook, prompted local authorities to clear the area.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
         "subjectivity_hint": "low"
       }
     }
