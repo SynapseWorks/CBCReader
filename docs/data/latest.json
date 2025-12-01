@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-11-30T15:15:52.254661-05:00",
+  "generated_at": "2025-11-30T20:21:37.605967-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c4da76459ca47cb52691e70afe26406a0383ebc1",
+      "url": "https://www.cbc.ca/player/play/9.6998252?cmp=rss",
+      "title": "Why does Trump keep berating female reporters?",
+      "published_at": "2025-11-30T14:55:42-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump's recent remarks towards female journalists, including calling one 'piggy,' is renewing discussion about how much journalists are expected to tolerate as they do their jobs. Industry experts suggest these incidents are 'an unmistakable pattern of hostility — often directed at women — that undermines the essential role of a free and independent press.'",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a00fc32606864b535899f86592158ec1243b94b",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/moh-ahmed-victory-canadian-cross-country-championships-london-9.6998160?cmp=rss",
+      "title": "Olympic runner Moh Ahmed wins his 1st Canadian cross-country title",
+      "published_at": "2025-11-30T11:05:53-05:00",
+      "section": "Canada",
+      "summary_auto": "In his long-awaited return to the Canadian cross-country championships, Olympic track medallist Moh Ahmed took control late in the open men’s 10-kilometre race and won in 29 minutes 30.4 seconds at Fanshawe Golf Course on Saturday in London, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "108919c9c4f43f923888fe9fa3d4ab9caad83dbc",
+      "url": "https://www.cbc.ca/news/world/stockton-california-shooting-9.6998136?cmp=rss",
+      "title": "Children among 4 dead in birthday party mass shooting, California police say",
+      "published_at": "2025-11-30T10:36:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Authorities in California asked the public for tips on Sunday in finding the person responsible for a shooting a day earlier that left four people dead, three of them children, at a family gathering at a banquet hall in Stockton and wounded many more.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "395de1fb6931ec674e949509265586ba617bb0d0",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-charge-head-coach-carla-macleod-diagnosed-with-breast-cancer-9.6998107?cmp=rss",
+      "title": "Ottawa Charge head coach Carla MacLeod diagnosed with breast cancer",
+      "published_at": "2025-11-30T10:28:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Carla MacLeod says that while she'll begin treatment this week and will miss the Charge's upcoming game on Tuesday, she plans to return to the PWHL club later this season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "d679bc4705807c1ec933f3522cfe3977be94e7d9",
       "url": "https://www.cbc.ca/news/politics/environment-minister-steven-guilbeault-canada-climate-policies-9.6998023?cmp=rss",
@@ -17,15 +69,15 @@
       }
     },
     {
-      "id": "f59bbf1935fb3f919df39e305045d7b371569764",
-      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-village-trailer-park-mobile-homes-cortina-italy-9.6998007?cmp=rss",
-      "title": "Cortina Olympic Village is a trailer park featuring 400 mobile homes in an alpine valley",
-      "published_at": "2025-11-30T06:24:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The temporary Village that will house up to 1,400 athletes and other team members during the Feb. 6-22 Milan-Cortina Olympics consists of 377 rented mobile homes arranged close to one another on a humid valley floor.",
+      "id": "8fc7ec0e7e0c590e7e8b74991940ae3c7c0a86a8",
+      "url": "https://www.cbc.ca/player/play/9.6996536?cmp=rss",
+      "title": "German Christmas markets open 1 year after deadly attack",
+      "published_at": "2025-11-30T05:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Christmas markets are open in Germany with increased security this year. In 2024, a man drove an SUV into crowds at the Christmas market in the central city of Magdeburg, killing six. Freelance journalist Natalie Carney spoke to visitors at the Christmas market in Munich.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +99,7 @@
       "url": "https://www.cbc.ca/news/world/death-tolls-rise-in-indonesia-sri-lanka-flooding-9.6997892?cmp=rss",
       "title": "Indonesian residents hunt for food and water after deadly floods; 193 dead in Sri Lanka",
       "published_at": "2025-11-30T03:49:43-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Some residents of the flood-hit Indonesian island of Sumatra have resorted to stealing food and water to survive, authorities said Sunday, while Sri Lankan officials said deaths from floods and mudslides in that island nation have risen to 193.",
       "bias_heuristic": {
         "article_type": "News",
@@ -65,19 +117,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.966,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0fae5c2d7bd592b3ea8864e2b259e284748e0882",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-nov-30-2025-9.6995150?cmp=rss",
-      "title": "Hotel reservation woes and predators on school-issued laptops: CBC's Marketplace cheat sheet",
-      "published_at": "2025-11-30T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
         "subjectivity_hint": "low"
       }
     },
@@ -108,19 +147,6 @@
       }
     },
     {
-      "id": "db82975fc5226b608d0d56e198d486f93896e957",
-      "url": "https://www.cbc.ca/news/world/chicago-sanctuary-city-war-zone-9.6996046?cmp=rss",
-      "title": "Trump sent federal troops to 'save' Chicago. The 'Midway Blitz' raids forced the Windy City to defend itself",
-      "published_at": "2025-11-29T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After the death of MAGA activist Charlie Kirk, U.S. President Donald Trump promised \"to save Chicago\" from crime and migrants. But in the wake of violent immigration raids, Chicagoans themselves are divided over who the criminals are — and who is ultimately responsible for keeping their city safe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.747,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "f02aba26bf48789d48a8e6f78418d6a82e1ade24",
       "url": "https://www.cbc.ca/news/canada/toronto/scarborough-reverend-opens-garage-food-bank-9.6995457?cmp=rss",
       "title": "A priest in Toronto opened a food bank in her garage",
@@ -130,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db82975fc5226b608d0d56e198d486f93896e957",
+      "url": "https://www.cbc.ca/news/world/chicago-sanctuary-city-war-zone-9.6996046?cmp=rss",
+      "title": "Trump sent federal troops to 'save' Chicago. The 'Midway Blitz' raids forced the Windy City to defend itself",
+      "published_at": "2025-11-29T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After the death of MAGA activist Charlie Kirk, U.S. President Donald Trump promised \"to save Chicago\" from crime and migrants. But in the wake of violent immigration raids, Chicagoans themselves are divided over who the criminals are — and who is ultimately responsible for keeping their city safe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.747,
         "subjectivity_hint": "low"
       }
     },
@@ -186,19 +225,6 @@
       }
     },
     {
-      "id": "e47afbf947b12568254225a3bbca55695787ede9",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/goodenowe-als-health-moose-jaw-9.6965651?cmp=rss",
-      "title": "American ALS patient died alone after paying $84K US in pursuit of healing at controversial Sask. facility",
-      "published_at": "2025-11-29T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A 70-year-old American ALS patient came to Saskatchewan chasing the promise of healing offered by the Dr. Goodenowe Restorative Health Center in Moose Jaw, Sask. But former Goodenowe employees say that as her condition worsened, Goodenowe centre management left Susie to fight for her life on her own.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "f983b397983bdde89318cd98f1c7a4901633085f",
       "url": "https://www.cbc.ca/news/canada/hamilton/ukrainian-surgeon-in-hamilton-9.6996324?cmp=rss",
       "title": "What this surgeon from Ukraine is learning in Canada about treating war victims",
@@ -208,6 +234,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.637,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e47afbf947b12568254225a3bbca55695787ede9",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/goodenowe-als-health-moose-jaw-9.6965651?cmp=rss",
+      "title": "American ALS patient died alone after paying $84K US in pursuit of healing at controversial Sask. facility",
+      "published_at": "2025-11-29T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "A 70-year-old American ALS patient came to Saskatchewan chasing the promise of healing offered by the Dr. Goodenowe Restorative Health Center in Moose Jaw, Sask. But former Goodenowe employees say that as her condition worsened, Goodenowe centre management left Susie to fight for her life on her own.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
         "subjectivity_hint": "medium"
       }
     },
@@ -222,19 +261,6 @@
         "article_type": "News",
         "sentiment": -0.052,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2ffe6c8c5cd6df71a52878003cc057ff8da85bda",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-defeat-san-diego-mls-9.6997782?cmp=rss",
-      "title": "Vancouver Whitecaps to face Inter Miami in 1st MLS Cup final in club's history",
-      "published_at": "2025-11-29T18:13:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Vancouver Whitecaps are heading to the MLS Cup final for the first time in the club’s history after a commanding 3–1 win over hometown San Diego FC in Saturday night’s Western Conference final.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
       }
     }
   ]
