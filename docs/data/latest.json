@@ -1,18 +1,291 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-02T20:10:58.900592-05:00",
+  "generated_at": "2025-12-03T09:16:18.650003-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "7fe2658750c0bee4970b0f9b81976f12a511ed1f",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/goodenowe-center-moose-jaw-health-minister-als-9.7000781?cmp=rss",
-      "title": "Sask. health minister asks regulatory bodies to investigate controversial facility after CBC report",
-      "published_at": "2025-12-02T14:45:48-05:00",
+      "id": "b36dab3923b0252a6d70d48ad3572e9c637e369d",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-interest-peace-talks-9.7001202?cmp=rss",
+      "title": "European ministers accuse Putin of feigning interest in peace talks",
+      "published_at": "2025-12-03T03:16:53-05:00",
       "section": "Top Stories",
-      "summary_auto": "Saskatchewan’s Health Minister says his government has asked the organization that regulates doctors and the treasury crown tasked with protecting consumers to investigate concerns raised in a recent CBC investigation of a controversial health centre in Moose Jaw.",
+      "summary_auto": "Ukraine and its European allies accused Russian President Vladimir Putin on Wednesday of feigning interest in peace efforts after five hours of talks with U.S. envoys at the Kremlin produced no breakthrough.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.202,
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ae94b23fabb7af2c07a0c9be7fb4589ac62c4696",
+      "url": "https://www.cbc.ca/news/politics/anand-mcguinty-nato-ukraine-9.7001195?cmp=rss",
+      "title": "Canada pledges more than $200M in funding for Ukraine at NATO meeting",
+      "published_at": "2025-12-03T02:54:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has announced a second contribution to the the Prioritized Ukraine Requirements List (PURL) fund of more than $200 million. The mechanism was established by NATO to buy U.S.-made weapons after President Donald Trump said he was no longer interested in donating military equipment to Ukraine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.748,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d2bb04bcd1317d2d1570f7aecf665c2b86256dcd",
+      "url": "https://www.cbc.ca/news/world/gaza-israel-hamas-9.7001149?cmp=rss",
+      "title": "Israel says remains handed over by Hamas aren't those of Gaza hostage",
+      "published_at": "2025-12-03T00:18:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hamas said it would hand over a hostage body on Wednesday, after Israeli forensic services concluded that remains returned a day earlier were not from one of two final deceased hostages.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a27531f8694ddc076fd88c3cb9e421cfe43e648a",
+      "url": "https://www.cbc.ca/news/world/deep-sea-search-for-missing-malaysia-airlines-flight-370-to-resume-9.7001146?cmp=rss",
+      "title": "Deep-sea search for missing Malaysia Airlines Flight 370 to resume",
+      "published_at": "2025-12-02T23:52:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Malaysia's transport ministry said Wednesday that the deep-sea hunt for Malaysia Airlines Flight 370 will resume Dec. 30, renewing hopes of finally locating the jet that vanished without a trace more than a decade ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd9f34ee39ab0ecf503e156d2f4fc72b33832277",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7000505?cmp=rss",
+      "title": "Burlington, Ont., couple joked about being brothers' jailers in text messages shown at murder trial",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The first-degree murder trial of Brandy Cooney and Becky Hamber in Milton, Ont., heard more audio recordings of the couple berating the brothers in their care, and viewed more texts in which the two demeaned the brothers before the death of the eldest boy in 2022.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f8b8cc75b1f6ad8c9fd308bca343adb09cbe6bf",
+      "url": "https://www.cbc.ca/news/health/rsv-shots-2025-9.7000455?cmp=rss",
+      "title": "New data shows RSV shots prevent ‘most dangerous’ respiratory infection for newborns",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Respiratory syncytial virus, or RSV, has long been the leading cause of infant hospitalization in Canada. While real-world studies show new RSV shots are working to keep newborns out of hospital, many Canadian families still don't have access to these groundbreaking tools.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e93e37b6db03fa01247f4940014ce8a27d2db91c",
+      "url": "https://www.cbc.ca/news/world/trump-health-insurance-costs-premiums-affordable-care-act-9.6986595?cmp=rss",
+      "title": "As millions of Americans face pricier health insurance, is 'Trumpcare' the solution?",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Health insurance is about to get a lot more expensive for millions of Americans, and that's posing a political challenge for U.S. President Donald Trump.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "706eed7e805ebd5d5d6e208ea11ed7ef3077fefd",
+      "url": "https://www.cbc.ca/radio/frontburner/national-guard-shooting-and-the-cias-secret-afghan-army-9.7000631?cmp=rss",
+      "title": "National Guard shooting and the CIA’s secret Afghan army",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Who are the Zero Units, the secretive CIA-backed Afghan fighter group the alleged Washington National Guard shooter was a part of?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "088c1a155ab08e1507ef680a1502de018eac5f10",
+      "url": "https://www.cbc.ca/news/canada/london/avian-flu-outbreak-9.7000318?cmp=rss",
+      "title": "CFIA staff won't do interviews as avian flu outbreak in Ontario grows, citing death threats since ostrich cull",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As the number of birds culled due to an avian flu outbreak on turkey farms near Strathroy, Ont., approaches 100,000, the Canadian Food Inspection Agency says they won't provide staff for media interviews for fear they will be subject of harassment, or death threats.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.975,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b1c74d91e469c5f76e419d65085411593ca82db",
+      "url": "https://www.cbc.ca/player/play/9.6999812?cmp=rss",
+      "title": "Montreal bike shop helps unhoused people switch gears, find work",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Tri-Cycle’s project manager hopes the bike shop can be a springboard into the workforce for people experiencing homelessness or housing instability despite gaps in their resumés.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "028aac6d0a80bff1253a818c569f9c3922d2f0d1",
+      "url": "https://www.cbc.ca/radio/thecurrent/raccoons-domestication-science-research-animals-9.6997038?cmp=rss",
+      "title": "New study suggests urban raccoons are becoming more domesticated. Could they be pets one day?",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In a new study, scientists discovered that raccoons who live in the city have shorter snouts, suggesting that they're moving toward domestication.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "455ef3651082c3accf23a1ad5ab672f957a93105",
+      "url": "https://www.cbc.ca/news/canada/toronto/auditor-general-advertising-ford-9.7000456?cmp=rss",
+      "title": "Ontario spent record $112M on taxpayer-funded advertising, auditor finds",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Ontario spent a record $112 million on tax-payer-funded advertising last year, with the province’s auditor saying nearly 40 per cent of the campaigns could have left a “favourable impression” of Premier Doug Ford’s government ahead of the snap election.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3b8920ed99c4a814cbd73ef5b0f60750efe3e309",
+      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-canada-funding-government-brampton-jeep-plant-9.6999357?cmp=rss",
+      "title": "Feds gave Stellantis more than $220M before Brampton decision, records show",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government paid Stellantis more than $220 million to help upgrade its plants in Ontario before the automaker revealed plans to move some production to the U.S., recent records show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "088c1a155ab08e1507ef680a1502de018eac5f10",
+      "url": "https://www.cbc.ca/news/canada/london/avian-flu-outbreak-9.7000318?cmp=rss",
+      "title": "Why Canada's food inspection agency won't do interviews as avian flu outbreak in Ontario grows",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "As the number of birds culled due to an avian flu outbreak on turkey farms near Strathroy, Ont., approaches 100,000, the Canadian Food Inspection Agency says they won't provide staff for media interviews for fear they will be subject of harassment, or death threats.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.954,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8fe16b1fcceb7fad6365f308e7fe4650cb5b722b",
+      "url": "https://www.cbc.ca/news/world/mercedes-supercar-ryan-wedding-9.6999166?cmp=rss",
+      "title": "The inside story of the $13M Mercedes linked to Ryan Wedding and seized by the FBI",
+      "published_at": "2025-12-02T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "CBC News has learned new details about the purchase last year of a rare Mercedes-Benz supercar, recently seized by the FBI amid its investigation into Canadian fugitive Ryan Wedding. The 2002 CLK-GTR Roadster was acquired for $11.9 million US by Wedding's alleged money launderer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9adb69affdf9c7f9c851a55f7fee13d2b68a8f08",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-facial-recognition-cameras-9.7000389?cmp=rss",
+      "title": "Edmonton Police Service partners with U.S. company to test use of facial-recognition bodycams",
+      "published_at": "2025-12-02T18:37:58-05:00",
+      "section": "Canada",
+      "summary_auto": "The Edmonton Police Service will test the use of bodycams that employ facial recognition, a form of artificial intelligence. Starting Wednesday, up to 50 police officers will use the cameras for the remainder of the month. However some academics warn that the technology is still not well-understood or reliable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5dc7cf14cb5a7bd782378b5ba73b7f0258095bc3",
+      "url": "https://www.cbc.ca/news/canada/toronto/ice-ordering-vehicles-brampton-roshel-9.7001107?cmp=rss",
+      "title": "ICE ordering fleet of 20 armoured vehicles from Brampton, Ont., firm",
+      "published_at": "2025-12-02T18:03:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. Immigration and Customs Enforcement earmarked millions of dollars for a bulk order for 20 armoured vehicles from Canadian defence manufacturer Roshel that are built to resist bullets and bomb blasts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56e8f293acd8aea5868e89f44ca1834fc295042b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-prescribed-safe-safer-supply-illicit-opioids-9.7000874?cmp=rss",
+      "title": "B.C. to require witnesses for those who are prescribed safer supply of drugs",
+      "published_at": "2025-12-02T17:51:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "British Columbia's overdose-prevention safer supply program will require a witness when a user takes their drugs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e7e95b41f6ae608c22063835b8736ad687340d76",
+      "url": "https://www.cbc.ca/news/world/trump-immigration-pause-somalia-9.7001078?cmp=rss",
+      "title": "Trump administration pauses all immigration applications from 19 non-European countries",
+      "published_at": "2025-12-02T17:40:24-05:00",
+      "section": "World",
+      "summary_auto": "The Trump administration on Tuesday said it paused all immigration applications, including green  card and U.S. citizenship processing, filed by immigrants from 19 non-European countries, citing concerns over national security and public safety.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c71d7a880bd743f4adcce29aee129cf345962b49",
+      "url": "https://www.cbc.ca/news/politics/algoma-steel-jobs-government-9.7000795?cmp=rss",
+      "title": "Algoma Steel is cutting 1,000 jobs. So why did it receive millions in government loans?",
+      "published_at": "2025-12-02T17:27:47-05:00",
+      "section": "Canada",
+      "summary_auto": "Just over two months after it was announced Algoma Steel would receive $500 million in government loan guarantees, the steel producer said it was issuing 1,000 layoff notices to workers at its plant in Sault Ste. Marie, Ont. The layoffs raise questions as to why it was receiving millions of dollars yet still cutting jobs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1aad67046034d28042454602874a964867533d63",
+      "url": "https://www.cbc.ca/news/world/trump-new-orleans-national-guard-deployment-9.7000947?cmp=rss",
+      "title": "Trump says National Guard will soon go to New Orleans",
+      "published_at": "2025-12-02T16:19:03-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump said Tuesday that National Guard troops will soon head to New Orleans, bringing another federal surge to the city that is already awaiting a separate immigration crackdown expected to begin this week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2548a1568b44385b37c6ae54a77951354aa27611",
+      "url": "https://www.cbc.ca/player/play/9.7000945?cmp=rss",
+      "title": "Will a fishing boat spark a crisis between China and Japan? | About That",
+      "published_at": "2025-12-02T15:43:43-05:00",
+      "section": "World",
+      "summary_auto": "Tensions between China and Japan are rising over Japanese Prime Minister Sanae Takaichi's recent comments on Taiwan, combined with a long-standing dispute over a chain of uninhabited islands. Andrew Chang breaks down why these tiny islands are so valuable, how Taiwan factors in and how this dispute has pushed two of Asia's biggest powers to a tipping point. Images provided by The Canadian Press, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.774,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +307,7 @@
       "url": "https://www.cbc.ca/news/world/costco-suing-trump-tariffs-9.7000556?cmp=rss",
       "title": "Costco joins other companies in legal fight to demand refund of Trump tariffs",
       "published_at": "2025-12-02T14:32:41-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Costco has added its voice and heft to a lawsuit against the U.S. government seeking to ensure they will be reimbursed for tariffs they've been forced to pay if the U.S. Supreme Court rejects Donald Trump's assertion that he has sweeping authority to impose tariffs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -47,7 +320,7 @@
       "url": "https://www.cbc.ca/player/play/9.7000838?cmp=rss",
       "title": "Unpacking the controversy over the notwithstanding clause",
       "published_at": "2025-12-02T13:59:41-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The notwithstanding clause has been part of Canadian law since 1982. So why is it now so controversial that it’s heading to the Supreme Court?",
       "bias_heuristic": {
         "article_type": "News",
@@ -99,7 +372,7 @@
       "url": "https://www.cbc.ca/news/entertainment/sabrina-carpenter-franklin-the-turtle-trump-9.7000562?cmp=rss",
       "title": "Sabrina Carpenter condemns Trump administration's use of lyrics after Franklin the turtle backlash",
       "published_at": "2025-12-02T11:40:15-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Pop singer Sabrina Carpenter and the publisher of the beloved children's character Franklin the Turtle are disavowing the Trump administration's use of their music and imagery to support its agenda.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,25 +385,12 @@
       "url": "https://www.cbc.ca/news/world/prada-versace-purchase-9.7000342?cmp=rss",
       "title": "Italian fashion group Prada buys rival Versace",
       "published_at": "2025-12-02T10:03:45-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The Prada Group closed the purchase of Milan fashion rival Versace in a $1.375 billion US ($1.93 billion Cdn) cash deal that puts the fashion house known for its sexy silhouettes under the same roof as Prada's \"ugly chic\" aesthetic and Miu Miu's youth-driven appeal.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6ef0e20fb7853d894e7e6d7a2686ce6ee5fcb19d",
-      "url": "https://www.cbc.ca/sports/soccer/world-cup-tickets-soccer-toronto-vancouver-popular-pricey-9.7000406?cmp=rss",
-      "title": "Tickets to FIFA World Cup games in Toronto, Vancouver sold out despite hefty price tag",
-      "published_at": "2025-12-02T10:00:22-05:00",
-      "section": "Canada",
-      "summary_auto": "Tickets to next summer's FIFA World Cup games in Vancouver and Toronto continue to be a hot commodity, despite eye-popping resale prices.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -151,285 +411,12 @@
       "url": "https://www.cbc.ca/news/world/hamas-hostage-gaza-israel-9.7000333?cmp=rss",
       "title": "Israel says remains taken for forensic testing after Hamas handover",
       "published_at": "2025-12-02T09:28:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Hamas on Tuesday handed over the remains of one of the last two deceased hostages still in Gaza, the International Committee of the Red Cross said, under terms of the October ceasefire deal.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "248aca6db135c465f0fdb1c7a887cce37efa19e2",
-      "url": "https://www.cbc.ca/sports/tennis/serena-williams-shuts-down-comeback-9.7000304?cmp=rss",
-      "title": "Serena Williams shuts down talk of a tennis comeback",
-      "published_at": "2025-12-02T09:08:44-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Serena Williams threw cold water on the idea that she might be preparing to return to tennis, saying Tuesday that she is \"NOT coming back,\" after a spokesman for the International Tennis Integrity Agency (ITIA) said the 23-time Grand Slam champion had registered with the sport's drug-testing body.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "04f6ee9629c0a0d832a1bde90aef9acf7f0fc21e",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/kevin-dineen-pancreatic-cancer-nhl-olympics-9.7000293?cmp=rss",
-      "title": "Canadian NHL player-turned coach Kevin Dineen reveals he has pancreatic cancer",
-      "published_at": "2025-12-02T09:06:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Longtime NHL player-turned-coach Kevin Dineen says he has been diagnosed with pancreatic cancer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c8841f6f1f798f9491d0a9f2969a2c13097855f4",
-      "url": "https://www.cbc.ca/news/world/us-honduras-hernandez-pardon-9.7000112?cmp=rss",
-      "title": "Ex-Honduran president, convicted of trafficking 360 tonnes of cocaine, out of prison after Trump pardon",
-      "published_at": "2025-12-02T08:23:52-05:00",
-      "section": "World",
-      "summary_auto": "Former Honduran president Juan Orlando Hernández, sentenced last year to 45 years in prison for his role in a drug-trafficking operation that moved hundreds of tonnes of cocaine to the United States, was released from prison following a pardon from President Donald Trump, officials confirmed Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9b5171bb6218b2c7682806343c7600b03c8c5f5",
-      "url": "https://www.cbc.ca/news/canada/santa-parade-signs-brantford-9.6999839?cmp=rss",
-      "title": "Is it illegal to spoil Christmas? Police in Ontario get complaints about anti-Santa signs",
-      "published_at": "2025-12-02T08:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Police in Brantford, Ont., confirmed with CBC News that they received calls from upset residents, as well as online and in-person complaints, after a house along the parade route posted anti-Santa signs in its windows.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5e6672b1d2970e82979e3105cb2288238708695",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-ppe-write-off-9.7000070?cmp=rss",
-      "title": "Ontario wrote off $1.4B of PPE, is burning expired equipment: auditor",
-      "published_at": "2025-12-02T07:10:57-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario wrote off more than one billion items of personal protective equipment at a cost of $1.4 billion since 2021, the province's auditor general found.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "42731d2b16540d7d7501f7a65a7948b31169c5fe",
-      "url": "https://www.cbc.ca/player/play/9.6999381?cmp=rss",
-      "title": "It was swamped with garbage. Now, there's swimmers in this Toronto water basin",
-      "published_at": "2025-12-02T07:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A group of volunteers have come together to transform a water basin sitting at the foot of downtown Toronto condo building. CBC's Haydn Watters found out why.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b33101c43f266c5bf6bccfd192b4547429811a71",
-      "url": "https://www.cbc.ca/news/indigenous/afn-assembly-major-projects-9.6999182?cmp=rss",
-      "title": "Assembly of First Nations calls for withdrawal of Canada-Alberta pipeline deal",
-      "published_at": "2025-12-02T06:35:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "088cdcc0c7cff749e4fc01da5ead21fdd6346a26",
-      "url": "https://www.cbc.ca/news/canada/edmonton/trial-begins-5-year-old-child-death-9.6999591?cmp=rss",
-      "title": "Trial begins for Alberta man accused in 5-year-old foster child's death",
-      "published_at": "2025-12-02T05:11:02-05:00",
-      "section": "Canada",
-      "summary_auto": "The young boy, who can't be named due to a court-ordered publication ban, was found dead on the floor of a vehicle on a rural property in June 2022. The man caring for him at the time has pleaded not guilty to manslaughter, criminal negligence causing death and failure to provide the necessaries of life.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.964,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ee3d433fa9080573b6730d81315d5a608f8f8fb4",
-      "url": "https://www.cbc.ca/news/entertainment/metroid-prime-4-review-nintendo-switch-9.6999059?cmp=rss",
-      "title": "The long-awaited Metroid Prime 4: Beyond dazzles and disappoints in equal measure",
-      "published_at": "2025-12-02T05:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "When it works, Metroid Prime 4: Beyond is a sublime new entry in the series, hitting all the points that longtime fans love. But for every awe-inspiring level design or exhilarating boss battle, it tries and fails at something new.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.412,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d3d36eeaf33a75ef34f69d9979bff8b40cbd3682",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-auditor-general-health-care-report-9.6999715?cmp=rss",
-      "title": "Ontario auditor general finds province not properly overseeing doctor billings",
-      "published_at": "2025-12-02T04:21:18-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario is not properly overseeing doctors' billings, including cases of physicians billing for more than 24 hours in a day — money that could be going toward adding more family doctors, the auditor general has found.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "300150b1511fdd64c66ea325e6de5b62ca53a15f",
-      "url": "https://www.cbc.ca/news/canada/montreal/laurentian-bank-sale-9.6999757?cmp=rss",
-      "title": "Laurentian Bank announces sale to Fairstone Bank and National Bank",
-      "published_at": "2025-12-02T03:01:48-05:00",
-      "section": "Business",
-      "summary_auto": "Fairstone Bank of Canada has agreed to acquire Laurentian Bank of Canada for $1.9 billion in cash. As part of the deal, Laurentian Bank will sell its retail and small-and-medium-sized business banking portfolios and syndicated loan portfolio to National Bank of Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5546a0419d6333d2872dbd2ef61a2caa5100e5e",
-      "url": "https://www.cbc.ca/news/world/indonesia-man-searching-for-wife-flood-9.6999749?cmp=rss",
-      "title": "'Is she alive?': Indonesian man's hopes of finding missing wife fade after flood disaster",
-      "published_at": "2025-12-02T02:53:30-05:00",
-      "section": "World",
-      "summary_auto": "In the days since cyclone-induced floods and landslides battered Indonesia's Sumatra island, Abdul Ghani has been carrying around a picture of his missing wife, showing it to everyone he meets.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "580e4b6042dac1784cbc9260478cea83a8fa979c",
-      "url": "https://www.cbc.ca/news/canada/manitoba/online-banking-fraud-winnipeg-9.6995560?cmp=rss",
-      "title": "Online banking fraud leaves Winnipeg woman on hook for $174K debt",
-      "published_at": "2025-12-02T02:50:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3d8ca1ce2566c43c0185d53040f86f9424641da",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/invisible-illnesses-women-not-believed-health-report-9.6998279?cmp=rss",
-      "title": "As women with ‘invisible illnesses’ struggle to be believed, a report on chronic pain could help",
-      "published_at": "2025-12-02T01:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Medical professionals say a 2021 report supported by Health Canada could have a major impact on how the medical system can better understand chronic pain and the best ways to diagnose it — but with its release during the height of COVID-19 pandemic, the report flew under the radar, and some doctors and advocates are hoping that can chanage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9f7502ba1e0b8019a917e78a521cd601ab462db6",
-      "url": "https://www.cbc.ca/news/canada/london/sunrise-stained-glass-9.6999094?cmp=rss",
-      "title": "Artists restoring stained glass across Ontario for nearly half a century close up shop",
-      "published_at": "2025-12-02T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The craftsmen at Sunrise Stained Glass in London, Ont. have made the difficult decision to close shop after years of making and restoring coloured glass across Ontario.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b4e1aeb5d007c5aaecb84eb37f1f435d11b837a4",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/what-a-n-s-palliative-care-unit-tells-us-about-canadas-rural-health-care-challenges-9.6996250?cmp=rss",
-      "title": "What a N.S. palliative care unit tells us about Canada’s rural health care challenges",
-      "published_at": "2025-12-02T00:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "The five-bed palliative care hospital unit in Lunenburg, N.S., is still searching for staff, four years after it was first announced.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.872,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2a4d4e7ee3b22e3e3907a18917358f7629e5c57e",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stolen-drugs-janeway-9.6970590?cmp=rss",
-      "title": "Insufficient evidence to proceed with charges in Janeway children’s hospital drug theft",
-      "published_at": "2025-12-01T23:30:00-05:00",
-      "section": "Health",
-      "summary_auto": "Data obtained by CBC News through access to information shows high-risk medication goes missing every year from hospitals across Newfoundland and Labrador.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "315f4adbc5008773a981e4ba419f4f7efcfdbd6d",
-      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.6999267?cmp=rss",
-      "title": "In text messages, Ontario women accused of murder described boy in their care as ‘loser,’ trial hears",
-      "published_at": "2025-12-01T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Ontario Provincial Police sergeant who led the investigation into Becky Hamber and Brandy Cooney testified at their first-degree murder trial Monday, outlining evidence collected in the case against the couple. The Crown showed multiple images and played audio recordings of women interacting with the boys in their care.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cea989733d14fc8d945c840ff3d4a14f90e96393",
-      "url": "https://www.cbc.ca/news/politics/alberta-metis-oil-pipeline-ownership-stake-9.6999482?cmp=rss",
-      "title": "Alberta Métis eyeing ownership stake in proposed oil pipeline",
-      "published_at": "2025-12-01T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Metis Settlements of Alberta say they’re interested in purchasing a stake in a proposed oil pipeline to the West Coast and want to work with First Nations in British Columbia who oppose the project and plan to bring forward an emergency resolution at the Assembly of First Nations meetings in Ottawa Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa128ec4ee7d85606e41a89b73994346aad1cd71",
-      "url": "https://www.cbc.ca/news/politics/rcmp-restricts-chinese-drones-9.6999268?cmp=rss",
-      "title": "RCMP restricts use of Chinese-made drones — the vast majority of its fleet",
-      "published_at": "2025-12-01T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "The Royal Canadian Mounted Police is limiting the use of its 973 Chinese-made drones to non-sensitive operations, stating the devices present \"high security risks, primarily due to their country of origin.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "39fbb40a5ff7609dfa5ef3218137c089b47416d6",
-      "url": "https://www.cbc.ca/news/canada/montreal/public-health-merger-quebec-9.6999516?cmp=rss",
-      "title": "Experts warn merger of 2 Quebec health agencies could undermine public health",
-      "published_at": "2025-12-01T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Experts are raising concerns over Quebec’s plan to merge two major health agencies as part of a broader plan to reduce bureaucracy. They warn the move could weaken public health, reduce preventive care, fragment services and prioritize short-term treatment over long-term population health.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "medium"
       }
     }
   ]
