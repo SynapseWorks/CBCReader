@@ -1,18 +1,239 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-05T09:15:54.595916-05:00",
+  "generated_at": "2025-12-05T15:17:07.405883-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "acf8e8951fefaa546a2af702299984b72c77beeb",
+      "url": "https://www.cbc.ca/news/canada/toronto/frank-gehry-obituary-death-9.7005021?cmp=rss",
+      "title": "Renowned Toronto-born architect Frank Gehry dead at 96",
+      "published_at": "2025-12-05T10:00:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Toronto-born architect Frank Gehry, whose works included the 2008 redesign of the Art Gallery of Ontario and the Walt Disney Concert Hall in Los Angeles, has died.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d27f3d8f03aa3b86dc66506442a57d755f07a7ed",
+      "url": "https://www.cbc.ca/news/world/supreme-court-trump-birthright-citizenship-order-9.7004978?cmp=rss",
+      "title": "U.S. Supreme Court to decide whether Trump's birthright citizenship order violates Constitution",
+      "published_at": "2025-12-05T09:51:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. Supreme Court agreed on Friday to take up the constitutionality of President Donald Trump's order on birthright citizenship declaring that children born to parents who are in the United States illegally or temporarily are not American citizens.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ddf33ae9914fe2ef5d2f7a0fd440000f8ebe2824",
+      "url": "https://www.cbc.ca/news/business/elon-musk-x-fine-tech-regulators-9.7004932?cmp=rss",
+      "title": "Elon Musk's X slapped with €120M fine by EU regulator for breaching content rules",
+      "published_at": "2025-12-05T09:24:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Elon Musk's social media company X was fined 120 million euros ($193.3 million Cdn) by EU tech regulators on Friday for breaching online content rules, the first sanction under landmark legislation that once again drew criticism from the U.S. government.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a6512368b7d17d0e5fb4822cf010bde2e12d5a7",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-supreme-court-challenge-bill-21-9.7004786?cmp=rss",
+      "title": "Supreme Court hearings on Quebec secularism law to begin in March",
+      "published_at": "2025-12-05T08:17:27-05:00",
+      "section": "Canada",
+      "summary_auto": "Hearings for one of the most highly anticipated Supreme Court of Canada cases in years are scheduled to begin March 23. The outcome of the Supreme Court hearings will likely set major precedents across the country, notably on minority rights and on governments' use of the notwithstanding clause.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.907,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "877a4b4372be92b585872abf3796c0c829298903",
+      "url": "https://www.cbc.ca/news/canada/london/charges-laid-in-frat-party-fire-that-injured-sorority-sisters-during-beer-olympics-9.7004581?cmp=rss",
+      "title": "Man, 20, charged in London, Ont., frat party fire that injured sorority sisters during beer Olympics",
+      "published_at": "2025-12-05T07:50:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A young man has been charged with criminal negligence causing bodily harm after a fire at a frat party near Western University that injured five sorority sisters, including two seriously, late Tuesday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.932,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42c79f1adc48675d89d15b38c74028d54c5db768",
+      "url": "https://www.cbc.ca/news/canada/montreal/bobby-the-greek-9.7004674?cmp=rss",
+      "title": "Mr. Puffs café reportedly used as Laval gang leader's headquarters targeted by gunfire",
+      "published_at": "2025-12-05T07:23:29-05:00",
+      "section": "Canada",
+      "summary_auto": "A Mr. Puffs café in Laval, Que., reportedly used as a headquarters by a recently slain gang leader was hit by gunfire overnight.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a04ad40fc9b50b206573e446d7c4f606b006c968",
+      "url": "https://www.cbc.ca/news/health/hep-b-cdc-panel-vote-9.7003999?cmp=rss",
+      "title": "RFK Jr.-appointed panel removes universal hepatitis B vaccine recommendations for U.S. infants",
+      "published_at": "2025-12-05T07:20:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0c8a2347190698ee1b981ead4631d21192d0e00a",
+      "url": "https://www.cbc.ca/news/canada/manitoba/nhl-announces-outdoor-game-in-winnipeg-with-jets-vs-canadiens-then-deletes-it-9.7004347?cmp=rss",
+      "title": "NHL announces outdoor game in Winnipeg with Jets vs. Canadiens — then deletes it",
+      "published_at": "2025-12-05T06:54:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The NHL's Heritage Classic outdoor game is back, and it's returning to Winnipeg. We think.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e7f95796ae8a530bdb2b4c3bc5d439a102f94650",
+      "url": "https://www.cbc.ca/news/health/free-style-libre-recall-9.7004476?cmp=rss",
+      "title": "FreeStyle Libre 3 sensors to monitor blood glucose recalled following ties to 7 deaths",
+      "published_at": "2025-12-05T06:42:36-05:00",
+      "section": "Health",
+      "summary_auto": "Some FreeStyle Libre 3 plus glucose monitor sensors may provide incorrect low glucose readings, Health Canada says in an alert. The recalled sensors have been linked to injuries and even deaths elsewhere in the world.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3ba1bf76864e1e27cce5dd2c428e739c0df69d1a",
+      "url": "https://www.cbc.ca/news/canada/toronto/deepak-paradkar-law-society-suspension-9.7004579?cmp=rss",
+      "title": "Law society suspends licence of Deepak Paradkar, Ontario lawyer tied to alleged drug lord Ryan Wedding",
+      "published_at": "2025-12-05T06:39:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Law Society of Ontario has suspended the licence of Deepak Paradkar, one of seven Canadians arrested in connection with alleged drug lord Ryan Wedding’s cocaine smuggling ring.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fe4720243b644d360d962ba0b1a79d072ced6eb6",
+      "url": "https://www.cbc.ca/news/canada/in-photos-see-final-supermoon-of-2025-9.7004280?cmp=rss",
+      "title": "IN PHOTOS | See final supermoon of 2025",
+      "published_at": "2025-12-05T06:08:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Stargazers were treated to a spectacular sight on Thursday evening as a supermoon, the last one of 2025, lit up the night sky.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f4971710c8ec35a289806dbd3ea33f02e42c610d",
+      "url": "https://www.cbc.ca/news/business/canadian-economy-resilient-trade-shock-imf-report-9.7004484?cmp=rss",
+      "title": "Canadian economy has held up better than expected during trade shock, says IMF",
+      "published_at": "2025-12-05T06:07:03-05:00",
+      "section": "Business",
+      "summary_auto": "A new report by the International Monetary Fund says the Canadian economy has held up better than expected under the trade shock from U.S. tariffs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "93dd0ebee0a8ced17318b9009867851978751cf4",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-involuntary-treatment-9.7004353?cmp=rss",
+      "title": "Sask. introduces involuntary treatment legislation as fall sitting ends",
+      "published_at": "2025-12-05T05:56:44-05:00",
+      "section": "Canada",
+      "summary_auto": "In its throne speech, the provincial government touted The Compassionate Intervention Act as a key component in its response to the ongoing drug addictions crisis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "05a043f371a56823f2b7ecfd4908645c3f776058",
+      "url": "https://www.cbc.ca/news/health/glyphosate-retraction-9.7004363?cmp=rss",
+      "title": "Decades-old study on common weed killer retracted after journal editor says Monsanto may have helped write it",
+      "published_at": "2025-12-05T05:40:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An influential research article that claimed a popular weed-killer was safe has been retracted 25 years after it was published, prompting environmental groups in Canada to ask the federal government to review the science on glyphosate use.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2fe3c1487f0cc12a5bab3476ee19bbea2364cb6d",
+      "url": "https://www.cbc.ca/news/canada/calgary/former-alberta-premier-jason-kenney-says-recall-legislation-being-misused-9.7004314?cmp=rss",
+      "title": "Former Alberta premier Jason Kenney says recall legislation being misused",
+      "published_at": "2025-12-05T04:36:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The architect of Alberta's politician recall legislation says it was never meant to be used as a political weapon, but as an \"ultimate tool of accountability\" if a politician engages in illegal or unethical behaviour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.857,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d782e77b4b3f6a229f2b335cf23b5186a7a297d2",
+      "url": "https://www.cbc.ca/news/entertainment/us-netflix-warner-bros-acquisition-9.7004170?cmp=rss",
+      "title": "Netflix to acquire Warner Bros. Discovery for $72B US",
+      "published_at": "2025-12-05T04:27:18-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b1193dfec56048c0f34b9c1d487d88a2946fea3e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/spate-of-highway-97-wipeouts-smash-through-peaceful-farm-9.7003296?cmp=rss",
+      "title": "'Oh no, not again': B.C. family sees 4 crashes into backyard in 3 years",
+      "published_at": "2025-12-05T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Kaleden, B.C., resident Brent Burton is asking government to fix a bend in Highway 97, after four vehicles have crashed and ended up in his backyard over three years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "62e31e65035f787c4c7a10f379efa0b3cda7978c",
       "url": "https://www.cbc.ca/news/business/canada-economy-jobs-november-2025-9.7004228?cmp=rss",
-      "title": "Canada's unemployment rate fell to 6.5% in November",
+      "title": "Canada's unemployment rate fell to 6.5% in November, a steep drop from previous month",
       "published_at": "2025-12-05T03:39:48-05:00",
       "section": "Top Stories",
       "summary_auto": "Canada's economy gained 54,000 jobs in November and the unemployment rate dropped to 6.5 per cent from the previous month's 6.9 per cent rate, Statistics Canada said on Friday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.494,
+        "sentiment": -0.649,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +242,7 @@
       "url": "https://www.cbc.ca/news/business/cloudflare-outage-linkedin-zoom-9.7004214?cmp=rss",
       "title": "Cloudflare investigating early outage that took down LinkedIn, Zoom",
       "published_at": "2025-12-05T03:32:15-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Internet infrastructure company Cloudflare on Friday said it was investigating an outage that took place in the morning that brought down several global websites, including LinkedIn and Zoom, the second such crash to affect the company in less than three weeks.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,16 +251,16 @@
       }
     },
     {
-      "id": "d782e77b4b3f6a229f2b335cf23b5186a7a297d2",
-      "url": "https://www.cbc.ca/news/entertainment/us-netflix-warner-bros-acquisition-9.7004170?cmp=rss",
-      "title": "Netflix to acquire Warner Bros. Discovery for $72B US",
-      "published_at": "2025-12-05T02:52:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Netflix has agreed to buy Warner Bros Discovery's TV and film studios and streaming division for $72 billion US,  a deal that would hand control of one of Hollywood's most prized and oldest assets to the streaming pioneer that has upended the media industry.",
+      "id": "199c99b63cc59fb231794d091399b5125ccaaa94",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/summer-mcintosh-us-open-record-swim-dec5-9.7004229?cmp=rss",
+      "title": "Canada's Summer McIntosh wins 400M freestyle by more than 15 seconds at U.S. Open swim meet",
+      "published_at": "2025-12-05T03:31:07-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada's Summer McIntosh set a new U.S. Open record in the women's 400-metre freestyle on Thursday night at the Toyota U.S. Open Championships.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.866,
-        "subjectivity_hint": "high"
+        "sentiment": 0.852,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -47,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/us-scotus-texas-redistricting-midterms-9.7004125?cmp=rss",
       "title": "U.S. Supreme Court paves way for midterm redistricting in Texas in win for Trump, Republicans",
       "published_at": "2025-12-05T02:19:01-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. Supreme Court revived on Thursday a redrawn Texas electoral map designed to add more Republicans to the U.S. House of Representatives, boosting President Donald Trump's quest for his party to keep control of Congress in the 2026 midterm elections.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +281,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/bird-flu-alberta-poultry-farmers-9.7003591?cmp=rss",
       "title": "Worst bird-flu season in years hits Alberta’s poultry farmers",
       "published_at": "2025-12-05T02:00:00-05:00",
-      "section": "Technology & Science",
+      "section": "Top Stories",
       "summary_auto": "A mild fall and long migration is being blamed for increasing numbers of poultry farms coming under orders to contain the spread of highly infectious bird flu. One turkey producer in Alberta is preparing to restart operations after his third such outbreak in four years.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,11 +316,11 @@
       }
     },
     {
-      "id": "aedd17c5124544c180c87c6c6be70cff0bf7528e",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/after-being-scammed-by-fake-holiday-market-the-real-organizers-stepped-up-to-help-9.7002878?cmp=rss",
-      "title": "After being scammed by fake holiday market, the real organizers stepped up to help",
+      "id": "f708e00d04fca0ab7559544b65f650e4f6dcd83b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/after-she-was-scammed-by-a-fake-holiday-market-the-real-organizers-stepped-up-to-help-9.7002878?cmp=rss",
+      "title": "After she was scammed by a fake holiday market, the real organizers stepped up to help",
       "published_at": "2025-12-04T23:30:00-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "A small business owner in Mount Pearl says she was the victim of a scam, and is warning others ahead of the holidays.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,16 +342,16 @@
       }
     },
     {
-      "id": "b90be613b3c0c8957b8226efc8099e1532bc6b6a",
-      "url": "https://www.cbc.ca/news/business/ai-bubble-tech-industry-side-9.7001887?cmp=rss",
-      "title": "Investors fear an AI bubble. What about computer scientists?",
-      "published_at": "2025-12-04T23:01:51-05:00",
+      "id": "f652bfc96877a2e23329d250ebae316329230cdc",
+      "url": "https://www.cbc.ca/news/apps/tiktok-wellbeing-teens-9.7001025?cmp=rss",
+      "title": "TikTok says new 'wellness' features can help build healthy habits. Should we be using apps for that?",
+      "published_at": "2025-12-04T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "",
+      "summary_auto": "TikTok has introduced new features to build healthy habits for teens, including breathing exercises, soothing sounds and an affirmation journal. But while TikTok is pitching its new wellness features as a win for teens' mental health, critics fear it's a further push toward tech apps monopolizing our downtime to collect ever more data.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
+        "sentiment": 0.81,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -147,37 +368,11 @@
       }
     },
     {
-      "id": "f652bfc96877a2e23329d250ebae316329230cdc",
-      "url": "https://www.cbc.ca/news/apps/tiktok-wellbeing-teens-9.7001025?cmp=rss",
-      "title": "TikTok says new 'wellness' features can help build healthy habits. Should we be using apps for that?",
-      "published_at": "2025-12-04T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "TikTok has introduced new features to build healthy habits for teens, including breathing exercises, soothing sounds and an affirmation journal. But while TikTok is pitching its new wellness features as a win for teens' mental health, critics fear it's a further push toward tech apps monopolizing our downtime to collect ever more data.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.81,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "9dc81e6d0f742dc3c3f1a66b0eae9b8d88361b7e",
-      "url": "https://www.cbc.ca/news/world/milan-winter-olympics-nhl-players-9.7003753?cmp=rss",
-      "title": "Milan's hockey rink still isn't ready. Will NHL players skip another Winter Olympics?",
-      "published_at": "2025-12-04T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Will the National Hockey League pull its players from the upcoming Winter Olympics in Italy? It's an open question since the Santagiulia Ice Hockey Arena, on the outskirts of Milan, is still under construction.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.355,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "647659f7b34eef8bd23a4cda0a390ffb0f858270",
       "url": "https://www.cbc.ca/news/entertainment/merrily-we-roll-along-review-9.7003925?cmp=rss",
       "title": "Merrily We Roll Along was Sondheim's biggest failure. Now it's a feature film triumph",
       "published_at": "2025-12-04T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Stephen Sondheim's 1981 musical Merrily We Roll Along was an abysmal failure that closed almost as soon as it opened. Now a Tony-winning revival has it headed to potential box-office success.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,141 +398,11 @@
       "url": "https://www.cbc.ca/news/world/asia-flooding-death-toll-9.7003955?cmp=rss",
       "title": "Death toll from flooding in Southeast Asia surpasses 1,500, calls to fight deforestation increase",
       "published_at": "2025-12-04T16:05:43-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The death toll from last week's catastrophic floods and landslides in parts of Asia surged past 1,500 on Thursday as rescue teams raced to reach survivors and hundreds of people remained unaccounted for across the region.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8c28cd327b2da66fa6d8cb12038e1a28f57697c",
-      "url": "https://www.cbc.ca/player/play/9.7003957?cmp=rss",
-      "title": "At Issue | What if Trump blows up the CUSMA trade deal?",
-      "published_at": "2025-12-04T15:39:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: U.S. President Donald Trump dials up trade uncertainty, suggesting he could pull out of CUSMA/USMCA early. Mark Miller returns to cabinet and quickly rubs Quebec’s premier the wrong way with his french language comments. Plus, B.C. Conservatives boot leader John Rustad.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "12ae17e5fb4119b08b1012fedadcf579b89c07bc",
-      "url": "https://www.cbc.ca/news/politics/lena-diab-michelle-rempel-ganer-9.7003762?cmp=rss",
-      "title": "'You are a very bad minister,' Conservative immigration critic says at tense committee meeting",
-      "published_at": "2025-12-04T14:23:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Immigration Minister Lena Diab sparred with her Conservative critic at a tense House of Commons committee meeting Thursday as the two disagreed on everything from immigration levels and deporting non-citizen criminals to what kind of salad they prefer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.95,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e9be100d6abf49e6c8ff05d466a5ef2d2895de57",
-      "url": "https://www.cbc.ca/sports/soccer/world-cup-soccer-explainer-dividing-teams-fifa-9.7001480?cmp=rss",
-      "title": "Today is the FIFA World Cup draw. Here's how it works",
-      "published_at": "2025-12-04T13:47:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22ef9df464d887c0dacd9b95f90b4203ea6c0cba",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-to-banff-rail-project-federal-funding-9.7003563?cmp=rss",
-      "title": "Calgary-Banff rail idea submitted to Major Projects Office",
-      "published_at": "2025-12-04T13:23:28-05:00",
-      "section": "Canada",
-      "summary_auto": "A proposal for a hydrogen-powered passenger rail connecting Calgary and Banff has been submitted to the federal government in the hopes of having it fast-tracked.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b91eb0917b6e6daa174df60f59f2460f4943417",
-      "url": "https://www.cbc.ca/news/indigenous/archibald-afn-lawsuit-discovery-9.7003293?cmp=rss",
-      "title": "Former national chief says AFN lawsuit to move ahead, settlement talks 'stonewalled'",
-      "published_at": "2025-12-04T12:38:49-05:00",
-      "section": "Canada",
-      "summary_auto": "Former Assembly of First Nations national chief RoseAnne Archibald says her $5-million lawsuit against the national advocacy organization is moving forward, after settlement talks “were stalled and stonewalled” for 18 months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b50402d65a2f2b4e45096b735bb39765764202c",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-legislation-would-change-citizen-referendum-rules-restrict-political-party-names-9.7003718?cmp=rss",
-      "title": "Alberta legislation would change citizen referendum rules, restrict political party names",
-      "published_at": "2025-12-04T12:31:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bill 14, introduced Thursday by Justice Minister Mickey Amery, transfers powers from the chief electoral officer to the minister when deciding whether citizen petition initiatives should proceed. It also includes an amendment to discontinue any court proceeding brought by the chief electoral officer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9dec129d83b25f40a9080187a859b23679bcb846",
-      "url": "https://www.cbc.ca/news/politics/bc-chiefs-hodgson-pipeline-9.7003269?cmp=rss",
-      "title": "Natural resources minister takes heat from B.C. chiefs over potential West Coast pipeline",
-      "published_at": "2025-12-04T12:26:24-05:00",
-      "section": "Canada",
-      "summary_auto": "Natural Resources Minister Tim Hodgson faced a failing grade and a cancelled speech at this week's Assembly of First Nations meeting as pushback grows among B.C. chiefs over the government's new  energy agreement  with Alberta.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fda8576757b44aa72c51ac91ccdf17f27ea706fe",
-      "url": "https://www.cbc.ca/news/canada/windsor/canada-stellantis-sue-brampton-jobs-default-contracts-joly-9.7003596?cmp=rss",
-      "title": "Joly says feds will serve Stellantis with notice of default on funding contracts",
-      "published_at": "2025-12-04T11:59:45-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government is escalating its fight with automotive giant Stellantis over the company's decision to move some production to the U.S., despite receiving hundreds of millions of dollars in Canadian taxpayer incentives in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11c9d381c52de6aa47c938e1a1af15e01ec8c59f",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/nb-liquor-ai-commercial-9.7003525?cmp=rss",
-      "title": "Province pauses AI commercial from N.B. Liquor after negative reception",
-      "published_at": "2025-12-04T11:36:23-05:00",
-      "section": "Canada",
-      "summary_auto": "N.B. Liquor is catching enough heat for a holiday video campaign made with artificial intelligence that a government minister has directed the Crown corporation to take the ad down.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "67b9da82bed421e8e6dbb8d1f0932d0aec0b52a1",
-      "url": "https://www.cbc.ca/news/indigenous/friendship-centres-federal-budget-9.6999206?cmp=rss",
-      "title": "Indigenous friendship centres want clarity on future federal funding",
-      "published_at": "2025-12-04T10:01:30-05:00",
-      "section": "Canada",
-      "summary_auto": "The president for the National Association of Friendship Centres says uncertainty around how much money they will have to work with next year is raising alarms for the centres that provide services for Indigenous people in urban areas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
         "subjectivity_hint": "low"
       }
     }
