@@ -1,18 +1,148 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-04T15:17:41.731797-05:00",
+  "generated_at": "2025-12-04T20:10:51.572354-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "649d4c922f26af21e9f4df269c0b072f228ac707",
-      "url": "https://www.cbc.ca/sports/former-mlse-boss-tim-leiweke-pardoned-trump-9.7003413?cmp=rss",
-      "title": "Former MLSE boss Leiweke pardoned by Trump months after being indicted",
-      "published_at": "2025-12-04T09:46:54-05:00",
+      "id": "12ae17e5fb4119b08b1012fedadcf579b89c07bc",
+      "url": "https://www.cbc.ca/news/politics/lena-diab-michelle-rempel-ganer-9.7003762?cmp=rss",
+      "title": "'You are a very bad minister,' Conservative immigration critic says at tense committee meeting",
+      "published_at": "2025-12-04T14:23:09-05:00",
       "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump pardoned Tim Leiweke on Wednesday, five months after his own justice department indicted the former president and chief executive officer of Maple Leaf Sports and Entertainment.",
+      "summary_auto": "Immigration Minister Lena Diab sparred with her Conservative critic at a tense House of Commons committee meeting Thursday as the two disagreed on everything from immigration levels and deporting non-citizen criminals to what kind of salad they prefer.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.84,
+        "sentiment": -0.95,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6c2f187b15b873cf6814974bb9a4329cf21acaac",
+      "url": "https://www.cbc.ca/sports/soccer/canada-world-cup-draw-scenarios-analysis-chris-jones-dec4-9.7003428?cmp=rss",
+      "title": "Canada's best- and worst-case scenarios for Friday's FIFA World Cup draw",
+      "published_at": "2025-12-04T13:47:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "22ef9df464d887c0dacd9b95f90b4203ea6c0cba",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-to-banff-rail-project-federal-funding-9.7003563?cmp=rss",
+      "title": "Calgary-Banff rail idea submitted to Major Projects Office",
+      "published_at": "2025-12-04T13:23:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A proposal for a hydrogen-powered passenger rail connecting Calgary and Banff has been submitted to the federal government in the hopes of having it fast-tracked.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b91eb0917b6e6daa174df60f59f2460f4943417",
+      "url": "https://www.cbc.ca/news/indigenous/archibald-afn-lawsuit-discovery-9.7003293?cmp=rss",
+      "title": "Former national chief says AFN lawsuit to move ahead, settlement talks 'stonewalled'",
+      "published_at": "2025-12-04T13:19:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b50402d65a2f2b4e45096b735bb39765764202c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-legislation-would-change-citizen-referendum-rules-restrict-political-party-names-9.7003718?cmp=rss",
+      "title": "Alberta legislation would change citizen referendum rules, restrict political party names",
+      "published_at": "2025-12-04T12:31:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Bill 14, introduced Thursday by Justice Minister Mickey Amery, transfers powers from the chief electoral officer to the minister when deciding whether citizen petition initiatives should proceed. It also includes an amendment to discontinue any court proceeding brought by the chief electoral officer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fda8576757b44aa72c51ac91ccdf17f27ea706fe",
+      "url": "https://www.cbc.ca/news/canada/windsor/canada-stellantis-sue-brampton-jobs-default-contracts-joly-9.7003596?cmp=rss",
+      "title": "Ottawa to serve Stellantis with notice of default after receiving $220M then announcing U.S. production shift",
+      "published_at": "2025-12-04T12:26:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9dec129d83b25f40a9080187a859b23679bcb846",
+      "url": "https://www.cbc.ca/news/politics/bc-chiefs-hodgson-pipeline-9.7003269?cmp=rss",
+      "title": "Natural resources minister takes heat from B.C. chiefs over potential West Coast pipeline",
+      "published_at": "2025-12-04T12:26:24-05:00",
+      "section": "Canada",
+      "summary_auto": "Natural Resources Minister Tim Hodgson faced a failing grade and a cancelled speech at this week's Assembly of First Nations meeting as pushback grows among B.C. chiefs over the government's new  energy agreement  with Alberta.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fda8576757b44aa72c51ac91ccdf17f27ea706fe",
+      "url": "https://www.cbc.ca/news/canada/windsor/canada-stellantis-sue-brampton-jobs-default-contracts-joly-9.7003596?cmp=rss",
+      "title": "Joly says feds will serve Stellantis with notice of default on funding contracts",
+      "published_at": "2025-12-04T11:59:45-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government is escalating its fight with automotive giant Stellantis over the company's decision to move some production to the U.S., despite receiving hundreds of millions of dollars in Canadian taxpayer incentives in recent years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd11b4a8268c946251695aaf2971e23125cdbc7f",
+      "url": "https://www.cbc.ca/news/indigenous/afn-ministers-priority-rank-9.7003242?cmp=rss",
+      "title": "Where do First Nations rank on Carney’s priority list, regional chief asks ministers",
+      "published_at": "2025-12-04T11:59:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Several members of Prime Minister Mark Carney’s cabinet addressed chiefs and delegates at the AFN Special Chiefs Assembly in Ottawa on Thursday. Chiefs had the opportunity to ask the ministers about First Nations priorities, including major projects and infrastructure, child welfare and community safety.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "927944eeee2e26faa44a5685e238d0d7685e2d1d",
+      "url": "https://www.cbc.ca/news/politics/bloc-quebecois-c9-hate-speech-religion-9.7003432?cmp=rss",
+      "title": "Bloc says Liberals 'fear backlash' from removing religious exemptions in hate speech law",
+      "published_at": "2025-12-04T11:47:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "11c9d381c52de6aa47c938e1a1af15e01ec8c59f",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/nb-liquor-ai-commercial-9.7003525?cmp=rss",
+      "title": "Province pauses AI commercial from N.B. Liquor after negative reception",
+      "published_at": "2025-12-04T11:36:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "N.B. Liquor is catching enough heat for a holiday video campaign made with artificial intelligence that a government minister has directed the Crown corporation to take the ad down.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -20,38 +150,64 @@
       "id": "31aa2255f13cf318f87ee6f6a2f596e98dd2da16",
       "url": "https://www.cbc.ca/news/health/pediatric-flu-visits-2025-9.7003201?cmp=rss",
       "title": "Children’s hospitals in Canada face flood of flu visits as doctors urge families to get vaccinated",
-      "published_at": "2025-12-04T08:47:09-05:00",
+      "published_at": "2025-12-04T11:16:18-05:00",
       "section": "Top Stories",
-      "summary_auto": "An early start to Canada’s flu season is hitting children hard, sending a flood of young patients into multiple pediatric hospitals as medical teams warn that emergency visits and admissions could keep climbing in the weeks ahead.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.823,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
       }
     },
     {
-      "id": "8f3d798b46cf791a458192b8c5010bf5b910a2c4",
-      "url": "https://www.cbc.ca/news/world/us-pentagon-report-signal-houthi-strikes-9.7002756?cmp=rss",
-      "title": "Hegseth and Pentagon face heat after Signal chat report, briefing on deadly boat strike",
-      "published_at": "2025-12-04T08:35:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S. navy admiral told lawmakers on Thursday that there was no \"kill them all\" order from Defence Secretary Pete Hegseth, but grave questions and concerns remain as Congress scrutinizes an attack that killed two survivors of an initial strike on an alleged drug boat in international waters near Venezuela.",
+      "id": "67b9da82bed421e8e6dbb8d1f0932d0aec0b52a1",
+      "url": "https://www.cbc.ca/news/indigenous/friendship-centres-federal-budget-9.6999206?cmp=rss",
+      "title": "Indigenous friendship centres want clarity on future federal funding",
+      "published_at": "2025-12-04T10:01:30-05:00",
+      "section": "Canada",
+      "summary_auto": "The president for the National Association of Friendship Centres says uncertainty around how much money they will have to work with next year is raising alarms for the centres that provide services for Indigenous people in urban areas.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.927,
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e221b27215aa750ee2b7bb5f4a4c036da3d8e568",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/josh-naylor-tip-oneill-award-top-canadian-mlb-9.7003365?cmp=rss",
+      "title": "Josh Naylor, who starred after trade to Mariners, named top Canadian in MLB for 2025",
+      "published_at": "2025-12-04T09:28:41-05:00",
+      "section": "Canada",
+      "summary_auto": "Seattle Mariners first baseman Josh Naylor of Mississauga, Ont., has won the 2025 Tip O'Neill Award, presented annually by the Canadian Baseball Hall of Fame to the top Canadian player in Major League Baseball.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.914,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ec990eb717471c0bc48d31cd081827a4eb37ff3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-police-watchdog-clears-officers-in-shooting-death-of-15-year-old-in-surrey-9.7003330?cmp=rss",
+      "title": "B.C. police watchdog clears officers in shooting death of 15-year-old in Surrey",
+      "published_at": "2025-12-04T09:10:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Independent Investigations Office of B.C. says there are not reasonable grounds to believe an officer committed any offence in the shooting death of a 15-year-old in Surrey earlier this year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "262e1a983c28007a93736ac98513b3ea5c236e65",
       "url": "https://www.cbc.ca/news/entertainment/spain-netherlands-israel-eurovision-9.7003235?cmp=rss",
-      "title": "Spain and the Netherlands pull out of 2026 Eurovision as Israel's participation roils contest",
+      "title": "At least 4 countries pull out of 2026 Eurovision contest as Israel's participation sows discord",
       "published_at": "2025-12-04T08:18:53-05:00",
       "section": "Top Stories",
       "summary_auto": "Spain and the Netherlands say they are pulling out of next year's Eurovision Song Contest as Israel's participation roils the competition.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +216,7 @@
       "url": "https://www.cbc.ca/news/politics/debates-commission-changes-after-controversy-2025-9.7003156?cmp=rss",
       "title": "Debates commission looking at changes after 'perfect storm' clouded last leaders' showdown",
       "published_at": "2025-12-04T08:11:23-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The head of Canada's Leaders' Debates Commission says the independent body should stop organizing post-debate news conferences and will make changes to how it decides what leaders to invite after this spring's leadership debate was surrounded by controversy.",
       "bias_heuristic": {
         "article_type": "News",
@@ -69,15 +225,15 @@
       }
     },
     {
-      "id": "a9645c0a1c32d9e25aa911b73117b57c117c39f9",
-      "url": "https://www.cbc.ca/news/world/pantone-colour-of-the-year-2026-cloud-dancer-9.7002771?cmp=rss",
-      "title": "Pantone's 2026 colour of the year is white. Some critics say the optics aren't great",
-      "published_at": "2025-12-04T07:57:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Pantone has just revealed its 2026 colour of the year, and it's, well, it's white. The pick not only surprised designers, but as some people are pointing out online, it's also a potentially loaded choice.",
+      "id": "63c3c66d564c0283a36ce06c9cf78ac5d3c015b1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/asbestos-regulations-manitoba-9.7003068?cmp=rss",
+      "title": "Manitoba updates asbestos regulations, including workers' certification, employer registration",
+      "published_at": "2025-12-04T07:21:57-05:00",
+      "section": "Health",
+      "summary_auto": "Manitoba is updating its regulations governing the handling of asbestos to protect workers from dangerous exposure to the material, the leading cause of work-place related deaths in the province, the government says.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.367,
+        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +255,7 @@
       "url": "https://www.cbc.ca/news/politics/ottawa-parti-quebecois-preparation-9.7002815?cmp=rss",
       "title": "Ottawa begins to consider the possibility of a Quebec referendum",
       "published_at": "2025-12-04T06:59:17-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Parti Québécois's dominance in the polls for nearly two years and its leader Paul St-Pierre Plamondon's promise to hold a referendum on Quebec sovereignty during his first term have reverberated all the way to Ottawa.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,15 +277,15 @@
       }
     },
     {
-      "id": "32cfad1aafeb1aab3eda882a4e4c08c55e87737e",
-      "url": "https://www.cbc.ca/news/politics/canada-military-joint-command-drones-9.7002888?cmp=rss",
-      "title": "Learning lessons of Ukraine war, Canadian military creates joint command",
-      "published_at": "2025-12-04T06:42:15-05:00",
+      "id": "d175705d5d78c4e44dbeda38873b686a767b66d7",
+      "url": "https://www.cbc.ca/news/canada/edmonton/2-ministers-notwithstanding-teachers-9.7002817?cmp=rss",
+      "title": "2 Alberta cabinet ministers say money a key factor in using Charter override on teachers",
+      "published_at": "2025-12-04T06:41:12-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Canadian military is undertaking a structural reorganization designed to make the force more nimble and adaptable to new technology, the Department of National Defence said Thursday.",
+      "summary_auto": "Two Alberta cabinet ministers say money was a key factor in the United Conservative government's decision to use the Charter's notwithstanding clause to override teachers' rights and shut down a provincewide strike.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.34,
+        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -152,10 +308,10 @@
       "title": "Manitoba to sell shelved U.S. booze with revenue going to holiday charities: premier",
       "published_at": "2025-12-04T06:20:15-05:00",
       "section": "Canada",
-      "summary_auto": "Manitoba is pulling out hundreds of thousands of dollars of U.S.-made alcohol it shelved months ago amid the tumultuous trade war with the U.S., with plans of now selling the liquor ahead of Christmas and sending the proceeds to holiday charities.",
+      "summary_auto": "Manitoba is pulling out a million dollars worth of U.S.-made alcohol it shelved months ago amid the tumultuous trade war with the U.S., with plans of now selling the liquor ahead of Christmas and sending the proceeds to holiday charities.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.784,
+        "sentiment": 0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -169,6 +325,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "116a58fe208cbd7bcf4b612a7a3e124a0d314d43",
+      "url": "https://www.cbc.ca/news/world/us-2021-pipe-bomb-republican-democratic-9.7002676?cmp=rss",
+      "title": "FBI arrest Virginia man accused of planting pipe bombs in Washington in 2021",
+      "published_at": "2025-12-04T04:38:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The FBI arrested a 30-year-old Virginia man and charged him with planting a pair of pipe bombs in Washington the night before the January 6, 2021, assault on the U.S. Capitol, officials said on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
         "subjectivity_hint": "low"
       }
     },
@@ -238,19 +407,6 @@
       }
     },
     {
-      "id": "3b94ca3d4371ea7740bb0d17d7f4c1867323fd2c",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/prime-minister-mark-carney-ai-cryptocurrency-scam-prince-albert-sask-9.6975464?cmp=rss",
-      "title": "Retiree warns others after losing $3K to crypto fraud using AI video of prime minister",
-      "published_at": "2025-12-04T01:50:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "18ab7136fe88121f7eb2453b587551708f8226be",
       "url": "https://www.cbc.ca/news/canada/saskatoon/chess-master-omid-khaledi-fide-9.7000139?cmp=rss",
       "title": "​'A really big deal': ​Sask. chess player is two steps away from becoming a grandmaster",
@@ -264,19 +420,6 @@
       }
     },
     {
-      "id": "137ea7bf3604bcb00b6f1dcef7bb123650a7766c",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/eli-wood-ground-search-kitchener-sunday-missing-person-fire-9.7001352?cmp=rss",
-      "title": "Community ground search for Eli Wood happening in Kitchener on Sunday",
-      "published_at": "2025-12-04T01:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Eli Wood has been missing since Oct. 19. Police began searching for him after a fire at the unit he was living in at a Kitchener home was deemed to be arson. Volunteers plan to gather on Sunday to take part in a ground search to find clues about where Wood may be.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "114f0f68b9e5cb5a208bb28ae8e9eb3e23c59626",
       "url": "https://www.cbc.ca/news/canada/calgary/restaurant-groups-restaurant-chains-concorde-dopo-9.6998867?cmp=rss",
       "title": "Chain restaurants are out. Restaurant groups are in",
@@ -286,45 +429,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "377d7020069f85a97054b7666d71fd2cbd596fd2",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/reservation-system-skyline-trail-cape-breton-highlands-9.7002131?cmp=rss",
-      "title": "Reservation system coming to Skyline Trail in Cape Breton Highlands",
-      "published_at": "2025-12-04T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The system for “parking and timed access” will be launched in late June.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7d575883dc1d297c13e28a692747c543748a2a46",
-      "url": "https://www.cbc.ca/news/canada/london/tow-truck-operators-urge-drivers-to-slow-down-after-fatal-hit-and-run-on-401-9.7002360?cmp=rss",
-      "title": "Tow truck operators urge drivers to slow down after fatal hit-and-run on 401",
-      "published_at": "2025-12-04T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Southwestern Ontario’s towing industry is feeling a mixture of disappointment and heartbreak following the hit-and-run death of one of their own this week, with some saying the death is proof that the attitudes of drivers need to change for safety to be possible.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3959d8a62588c3cb724eb69db8072f10f072c3c2",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/point-lepreau-shutdown-continues-9.7001846?cmp=rss",
-      "title": "Equipment failure thwarts N.B. power plant from resuming production",
-      "published_at": "2025-12-04T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "As frigid temperatures approach New Brunswick, the troubled Point Lepreau nuclear generating station missed its expected return to service date earlier this week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
         "subjectivity_hint": "low"
       }
     },
@@ -352,58 +456,6 @@
         "article_type": "News",
         "sentiment": -0.743,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9f36bf91d76ab79dd3b0e8c5fc2139d8a1180e67",
-      "url": "https://www.cbc.ca/news/canada/first-person-botox-9.7001964?cmp=rss",
-      "title": "I felt people would judge me for getting Botox. Then I realized I was judging myself",
-      "published_at": "2025-12-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In Jennifer McGuire's hometown in Ontario, plenty of women get Botox only when their partners are away during moose hunting season. That realization prompted her to grapple with why she, too, was hiding her own Botox use.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "7485b88cae665fb58559e58e4b79d1a1e48d1941",
-      "url": "https://www.cbc.ca/news/canada/australia-social-media-ban-countdown-9.7000111?cmp=rss",
-      "title": "Meta has begun shutting down kids' social media in Australia. The world is watching to see how it unfolds",
-      "published_at": "2025-12-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As platforms like Instagram, TikTok, Snapchat and YouTube begin to comply with Australia's new landmark law banning social media for those under 16, Aussie youth are now seeing pop-ups about their accounts being deactivated or put on hold. Is there a potential for ripple effects in Canada?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c3f2bcf87138ddb2fc404762c7b279bff556d22",
-      "url": "https://www.cbc.ca/radio/thecurrent/ai-toys-for-kids-safety-9.7001764?cmp=rss",
-      "title": "An AI toy meant for kids was happy to chat about sexual fetishes. Are these safe?",
-      "published_at": "2025-12-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Imagine your toddler playing with a soft teddy bear, but with ChatGPT baked in. These AI toys can chat to your kid, play games and even say, \"I love you.\" But experts are warning that we don’t know the long-term impacts to a child’s creativity and social development.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.931,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "abce02f344f826a95906fbbf1a9b368666366f72",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/ontario-ring-of-fire-ads-9.7001952?cmp=rss",
-      "title": "Ontario's Ring of Fire ads include footage of Australia, Sweden and Russia",
-      "published_at": "2025-12-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "While watching the World Series this fall, you may have noticed a series of ads from the Ontario government about the Ring of Fire, a mineral deposit in the James Bay lowlands that's long been eyed as a critical mineral source. Critics are speaking out about the use of stock footage in the ads, saying it doesn’t actually show the Ring of Fire. Here's what we found out.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -459,6 +511,19 @@
       }
     },
     {
+      "id": "7485b88cae665fb58559e58e4b79d1a1e48d1941",
+      "url": "https://www.cbc.ca/news/canada/australia-social-media-ban-countdown-9.7000111?cmp=rss",
+      "title": "Meta has begun shutting down kids' social media in Australia. The world is watching to see how it unfolds",
+      "published_at": "2025-12-03T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "As platforms like Instagram, TikTok, Snapchat and YouTube begin to comply with Australia's new landmark law banning social media for those under 16, Aussie youth are now seeing pop-ups about their accounts being deactivated or put on hold. Is there a potential for ripple effects in Canada?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "dfd1088a062c65d7cb80694037d4d32527a8e109",
       "url": "https://www.cbc.ca/news/health/singing-aphasia-choir-stroke-9.7000538?cmp=rss",
       "title": "How singing in a choir might help people find their voices after a stroke",
@@ -482,71 +547,6 @@
         "article_type": "News",
         "sentiment": 0.812,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0fb873ebb743aa4da0f9d2ec5bca38ea112ed6db",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/rustad-resigns-9.7003189?cmp=rss",
-      "title": "John Rustad resigns as leader of B.C. Conservative Party, Trevor Halford takes on interim role",
-      "published_at": "2025-12-03T19:28:12-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98cbcf237505bb436053696f18c3856b8bdd48c1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/nicotine-pouch-youth-study-9.7002330?cmp=rss",
-      "title": "Nicotine pouches glamourized on social media, little talk about risks for youth, study finds",
-      "published_at": "2025-12-03T19:10:03-05:00",
-      "section": "Canada",
-      "summary_auto": "A UBC Okanagan researcher is raising concerns about the serious health risks for youth who use oral nicotine pouches. It comes after a study found the pouches are being portrayed on social media as trendy and enjoyable among young people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.086,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "85b659fe96a6d183977eac7c42f917fd916fb684",
-      "url": "https://www.cbc.ca/news/canada/toronto/munk-debates-israeli-former-officials-protested-9.7002494?cmp=rss",
-      "title": "Munk debate featuring former Israeli officials met with protests, allegations of war crimes",
-      "published_at": "2025-12-03T17:15:31-05:00",
-      "section": "Canada",
-      "summary_auto": "As many as 200 people protested outside the Munk Debates in Toronto on Wednesday, where a panel of all-Israeli speakers discussed whether a two-state solution is in the best interest of Israel.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4960f6e5edf52f393a2e0b75f161aa7e220f287b",
-      "url": "https://www.cbc.ca/player/play/9.7002490?cmp=rss",
-      "title": "Tiny gap, big problem: Toronto’s 6-day apartment fire explained",
-      "published_at": "2025-12-03T17:07:20-05:00",
-      "section": "Canada",
-      "summary_auto": "A fire has been burning inside the walls of a Toronto apartment complex for six days. For The National, CBC’s Ashley Fraser breaks down the unique characteristics of the Thorncliffe Park buildings that are making the fire so challenging to put out.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.777,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4bebf3d8a5107b425025e43336bb4720ad708300",
-      "url": "https://www.cbc.ca/news/world/haiti-missionaries-kidnapped-mastermind-sentenced-9.7002475?cmp=rss",
-      "title": "Mastermind behind 2021 kidnapping of missionaires in Haiti — including a Canadian — sentenced to life",
-      "published_at": "2025-12-03T16:55:40-05:00",
-      "section": "World",
-      "summary_auto": "The former head of the notorious Haitian gang 400 Mawozo was sentenced on Wednesday in a U.S. court to life in prison for masterminding the 2021 kidnapping of a group of American missionaries, along with one Canadian.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
       }
     }
   ]
