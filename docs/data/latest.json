@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-06T15:15:26.021154-05:00",
+  "generated_at": "2025-12-06T20:17:31.490328-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "68f3e9a6153fb6d1ba5151f079b96e66f309effa",
+      "url": "https://www.cbc.ca/news/canada/toronto/ttc-employee-stabbing-dundas-station-9.7006046?cmp=rss",
+      "title": "Transit employee stabbed customer first at Dundas Station last week: Toronto police",
+      "published_at": "2025-12-06T10:35:08-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A man and a woman have been charged following a stabbing at Dundas Station last week, Toronto police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "6fa351a173fc2fe26016462570e9023e9c572f09",
       "url": "https://www.cbc.ca/sports/soccer/2026-world-cup-schedule-toronto-vancouver-9.7005973?cmp=rss",
@@ -19,13 +32,26 @@
     {
       "id": "94d5e431b775d95d2a7e7226e29e8519108bff7a",
       "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/mls-cup-final-9.7003879?cmp=rss",
-      "title": "LIVE UPDATES | Inter Miami lead Vancouver Whitecaps 1-0 in MLS Cup final",
-      "published_at": "2025-12-06T08:38:15-05:00",
+      "title": "Inter Miami defeats Vancouver Whitecaps 3-1 to win its first MLS Cup",
+      "published_at": "2025-12-06T08:30:34-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c55e192b2c727c8df7ec7210a3ccb3d2bc655347",
+      "url": "https://www.cbc.ca/news/canada/manitoba/st-theresa-point-shamattawa-sandy-lake-first-nation-class-action-ruling-9.7005716?cmp=rss",
+      "title": "Canada has legal duty to provide safe water, housing to remote First Nations, federal judge rules",
+      "published_at": "2025-12-06T07:25:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal judge has sided with two First Nations in Manitoba and one in Ontario that sued the Canadian government over its duty to provide them with safe housing and clean drinking water, in separate rulings delivered Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -147,6 +173,19 @@
       }
     },
     {
+      "id": "01caea5ba67ce992f93ee438a5567f1165b0dde2",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-polytechnique-massacre-2025-9.7005381?cmp=rss",
+      "title": "Montreal honours 14 victims of Polytechnique massacre at ceremony",
+      "published_at": "2025-12-05T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A total of 14 women were murdered in the mass shooting on Dec. 6, 1989. Thirteen others were injured in the attack.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "91c440fe4bd00af7f6b6bf05ba48cdfe500808c3",
       "url": "https://www.cbc.ca/news/world/topshots-2025-12-5-9.7004465?cmp=rss",
       "title": "IN PHOTOS | This week's most compelling images",
@@ -160,32 +199,6 @@
       }
     },
     {
-      "id": "e8b68c005f1b1ebd01d5168b963de3bad8ddae5b",
-      "url": "https://www.cbc.ca/news/politics/ottawa-first-nations-competing-child-welfare-reform-plans-9.7004553?cmp=rss",
-      "title": "Ottawa, First Nations prepare competing child welfare reform plans",
-      "published_at": "2025-12-05T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government is staring down a court-ordered deadline to submit a new plan to reform the on-reserve child welfare system, as a group of First Nations leaders and children's advocates prepare a competing proposal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01caea5ba67ce992f93ee438a5567f1165b0dde2",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-polytechnique-massacre-2025-9.7005381?cmp=rss",
-      "title": "Montreal to honour 14 victims of Polytechnique massacre at ceremony",
-      "published_at": "2025-12-05T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A total of 14 women were murdered in the mass shooting on Dec. 6, 1989. Thirteen others were injured in the attack.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "1746d6105be303ae8fdfb0d8cf539b72c45a9584",
       "url": "https://www.cbc.ca/news/canada/hamilton/hamber-cooney-trial-9.7005236?cmp=rss",
       "title": "Accused woman blames Children's Aid Society and eating disorder for child's death, court hears",
@@ -195,45 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7a7b0dc8913727ae9758c56db1fc0ab2c0a6bd7a",
-      "url": "https://www.cbc.ca/news/entertainment/netflix-warner-bros-deal-concerns-9.7005518?cmp=rss",
-      "title": "Breaking down the contentious merger of Netflix and Warner Bros.",
-      "published_at": "2025-12-05T17:34:45-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4945f378afaad9022eb2feeee1dcb241ce904e5a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-new-guidance-involuntary-care-youth-drugs-mental-health-9.7005188?cmp=rss",
-      "title": "B.C. directs physicians to notify parents if child shows up with mental health, drug use issues",
-      "published_at": "2025-12-05T16:01:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The B.C. government is issuing new guidance for physicians treating youth with overlapping mental health and substance use issues. It directs doctors to notify parents and potentially involuntarily detain youth if they're unable or unwilling to seek care themselves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e68c95744ba1a7389d86bd4643837de5e6889b7b",
-      "url": "https://www.cbc.ca/news/world/new-orleans-immigration-crackdown-9.7005617?cmp=rss",
-      "title": "New Orleans officials slam immigration crackdown",
-      "published_at": "2025-12-05T15:45:23-05:00",
-      "section": "World",
-      "summary_auto": "Frustrated city officials pointed to the case of Jacelynn Guzman, a 23-year-old U.S. citizen who was walking back to her Louisiana home from a trip to the grocery store on Wednesday when a truck pulled up beside her and two masked federal agents approached her, according to security footage obtained by The Associated Press.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     }
