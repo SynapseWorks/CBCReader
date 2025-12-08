@@ -1,44 +1,239 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-08T09:16:57.311941-05:00",
+  "generated_at": "2025-12-08T15:17:44.498248-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "66b7e599ad7021f7f6e835bdcc27b690a8520d67",
-      "url": "https://www.cbc.ca/news/entertainment/golden-globes-noms-9.7005150?cmp=rss",
-      "title": "One Battle After Another, Sinners, Adolescence and more nominated for 2026 Golden Globe Awards",
-      "published_at": "2025-12-08T03:29:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "One Battle After Another, Hamnet, Sinners and other big films are all tipped for a number of nominations at the 83rd Golden Globes. The award show will also have a brand new category for podcasting this year.",
+      "id": "83680ddd1c128765c1ef8db6b15e3ceb0a8fc509",
+      "url": "https://www.cbc.ca/news/health/primary-care-ourcare-family-doctors-9.7007471?cmp=rss",
+      "title": "More Canadians have a family doctor, but 'concerning gaps' found",
+      "published_at": "2025-12-08T09:54:16-05:00",
+      "section": "Health",
+      "summary_auto": "More Canadians have a family doctor or nurse practitioner compared with three years ago, though satisfaction remains low, a comprehensive new survey suggests.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.382,
+        "sentiment": 0.572,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "848e215235d74925a2a154fe15e2b03fc0502d9c",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-moe-beck-fall-2025-9.7007059?cmp=rss",
+      "title": "Drugs, inter-governmental relations and wildfires dominate Sask. fall sitting",
+      "published_at": "2025-12-08T09:11:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Scott Moe called this sitting a success, but his government has faced criticism on health care and wildfire response.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.372,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cdb5b772471daf6e0ffd9d3390e8f6d599fca092",
+      "url": "https://www.cbc.ca/news/canada/air-transat-strike-what-to-know-9.7006807?cmp=rss",
+      "title": "Flying Air Transat? Here's what customers need to know as strike looms",
+      "published_at": "2025-12-08T08:13:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Air Transat announced on Sunday it will gradually shut down operations over the next three days in response to a 72-hour strike mandate issued by the union representing its 750 pilots. Here's what travellers need to know.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c90111432b217d067ba1b10ec5852f76f5d5e89",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/fire-wallace-fish-plant-cumberland-county-9.7007114?cmp=rss",
+      "title": "Fire departments battle blaze at fish plant in Cumberland County",
+      "published_at": "2025-12-08T07:24:03-05:00",
+      "section": "Canada",
+      "summary_auto": "Emergency services are at the scene of a blaze at Aquashell Holdings Inc. in Wallace, N.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "73374aba69835e94a5493f236f4c3da2aa2c35a5",
+      "url": "https://www.cbc.ca/sports/hockey/canada-world-junior-hockey-roster-2026-gavin-mckenna-9.7007163?cmp=rss",
+      "title": "Canada unveils 27-player world junior training camp roster, led by NHL prospect Gavin McKenna",
+      "published_at": "2025-12-08T07:18:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Gavin McKenna headlines the 27 players Hockey Canada has invited to its world junior training camp ahead of the 2026 tournament in Minnesota.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fa5c5a1d3c1b67571537541d3e0b4429ff5aefe0",
+      "url": "https://www.cbc.ca/news/canada/north/kugaaruk-state-of-emergency-sea-water-9.7007131?cmp=rss",
+      "title": "Kugaaruk, Nunavut, declares state of emergency over failure at water treatment plant",
+      "published_at": "2025-12-08T07:14:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In a news release Sunday, the Nunavut Emergency Management (NEM) said the hamlet declared a local state of emergency after sea water infiltrated the water treatment plant leaving the community without a reliable source of potable water.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "675d91455bd2d986ef70ca98bf59e723b7b0e73c",
+      "url": "https://www.cbc.ca/news/business/air-transat-negotiations-what-to-know-9.7006994?cmp=rss",
+      "title": "Air Transat, pilots' union say 'progress' being made in talks as strike deadline looms",
+      "published_at": "2025-12-08T07:11:14-05:00",
+      "section": "Business",
+      "summary_auto": "Air Transat says that \"progress has been made\" in negotiations with the union representing its pilots, just a day after the Air Line Pilots Association, Intl. issued a 72-hour strike notice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "15ca1f389497cc50069b2b102672b6e2e120b4ed",
+      "url": "https://www.cbc.ca/news/politics/liberals-anti-hate-bill-stalled-9.7007038?cmp=rss",
+      "title": "Anti-hate bill stalled after Fraser’s office brokered deal without PMO approval: sources",
+      "published_at": "2025-12-08T06:51:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The future of the federal government’s anti-hate Bill C-9 is unclear, after Justice Minister Sean Fraser’s office brokered a deal with the Bloc Québécois without getting it approved by the Prime Minister’s Office, sources tell CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.508,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "08c7fc4b0f7e1beb38751ecff88dd96ac82b632f",
+      "url": "https://www.cbc.ca/news/politics/diab-foreign-doctors-permanent-residency-9.7006937?cmp=rss",
+      "title": "Liberals to open new fast track to permanent residency for 5,000 foreign doctors",
+      "published_at": "2025-12-08T05:35:45-05:00",
+      "section": "Health",
+      "summary_auto": "The federal government is promising to open up permanent residency for foreign doctors currently working in Canada as temporary foreign residents in order to tackle the doctor shortage across the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d3a433821bef5b0eeb9dda012f46be5df71c343",
+      "url": "https://www.cbc.ca/news/canada/montreal/laval-woman-seniors-residence-9.7006879?cmp=rss",
+      "title": "'She froze to death,' says grandson of woman found dead outside Laval seniors' residence",
+      "published_at": "2025-12-08T05:06:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An 88-year-old woman has died after being found outside a seniors' residence in Laval early this morning. Temperatures dropped to -18 C early Monday morning, according to Environment Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.915,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1ae2814e9e18873193af99d6a63fc31b23604cf",
+      "url": "https://www.cbc.ca/news/canada/toronto/york-police-arrests-9.7006891?cmp=rss",
+      "title": "Criminal group linked to Ontario hospital shooting, Quebec homicide dismantled, police say",
+      "published_at": "2025-12-08T05:02:32-05:00",
+      "section": "Canada",
+      "summary_auto": "A criminal network allegedly responsible for a host of violent crimes in both Ontario and Quebec has been dismantled after a multi-jurisdictional investigation that resulted in 13 arrests and over 150 charges laid, police representatives announced Monday at a news conference at York Regional Police headquarters.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aab338c9cdb56ff62ae6768745f7102049050026",
+      "url": "https://www.cbc.ca/news/world/livestory/japan-earthquake-tsunami-9.7006849?cmp=rss",
+      "title": "Japan downgrades tsunami warning, but warns of potential for stronger quakes in coming days",
+      "published_at": "2025-12-08T04:52:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8d0f5b51939c9c1c668ebcd221e300e14248a6e1",
+      "url": "https://www.cbc.ca/news/entertainment/us-paramount-skydance-warner-bros-bid-netflix-9.7006820?cmp=rss",
+      "title": "Paramount Skydance makes $108B US hostile bid for Warner Bros. Discovery after Netflix move",
+      "published_at": "2025-12-08T04:33:40-05:00",
+      "section": "Business",
+      "summary_auto": "Paramount Skydance on Monday launched a hostile bid worth $108.4 billion US for Warner Bros Discovery, throwing a wrench into the deal with Netflix in a last-ditch effort to create a media powerhouse that would challenge the dominance of the streaming giant.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "66b7e599ad7021f7f6e835bdcc27b690a8520d67",
+      "url": "https://www.cbc.ca/news/entertainment/golden-globes-noms-9.7005150?cmp=rss",
+      "title": "One Battle After Another leads Golden Globe nominations, Canadians Catherine O'Hara and Martin Short nominated",
+      "published_at": "2025-12-08T03:29:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "One Battle After Another collected nine nominations for the 83rd Golden Globes, while Sentimental Value has eight, Sinners seven, and Hamnet six. Performances by stars of The White Lotus and Adolescence helped those films rack up a number of nominations on the TV side, too.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a2e6edfd420ac34288351883b9c55e7e2cc15845",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-hate-crime-unit-jewish-prayer-scrolls-removed-9.7006706?cmp=rss",
+      "title": "Hate crime unit investigating removal of Jewish prayer scrolls from Toronto doorways",
+      "published_at": "2025-12-08T02:48:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "About 20 mezuzahs were reportedly taken over the weekend from outside multiple units of a Toronto Seniors Housing Corporation building, Toronto police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "39611ee55f124e673f68e5055a794326886dc6cf",
+      "url": "https://www.cbc.ca/news/canada/toronto/finch-west-lrt-first-monday-9.7006698?cmp=rss",
+      "title": "Could you outrun the train? Toronto's new LRT takes 55 minutes to cover 10.3 km",
+      "published_at": "2025-12-08T02:03:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Northwest Toronto's newly-opened light-rail transit (LRT) line is getting its first taste of rush hour Monday — but it doesn't appear to be rushing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "39611ee55f124e673f68e5055a794326886dc6cf",
+      "url": "https://www.cbc.ca/news/canada/toronto/finch-west-lrt-first-monday-9.7006698?cmp=rss",
+      "title": "Could you outrun the train? Finch LRT takes 55 minutes to cover 10.3 km route",
+      "published_at": "2025-12-08T02:03:30-05:00",
+      "section": "Canada",
+      "summary_auto": "Northwest Toronto's newly-opened light-rail transit (LRT) line is getting its first taste of rush hour Monday — but it doesn't appear to be rushing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
       "id": "456b904d4b5453787c74938fd59e053b03a6fa62",
       "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-london-brussels-talks-9.7006690?cmp=rss",
-      "title": "Ukraine's Zelenskyy meets with EU, NATO leaders after talks with U.S. on revised peace plan",
+      "title": "Ukraine's Zelenskyy says a revised peace plan will be shared with U.S. on Tuesday",
       "published_at": "2025-12-08T01:58:44-05:00",
       "section": "Top Stories",
-      "summary_auto": "Ukraine President Volodymyr Zelenskyy was meeting with British, French and German leaders in London on Monday, followed by scheduled NATO-hosted talks, rallying allies for support as the United States increases pressure on Kyiv to agree to a proposed peace deal with Russia.",
+      "summary_auto": "Ukraine will share a revised peace plan with the U.S. on Tuesday aimed at ending Russia's war, after talks in London between President Volodymyr Zelenskyy and the leaders of France,  Germany and Britain.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d22e02fd1298eb2819bb58fcdb79c096f3a0e799",
-      "url": "https://www.cbc.ca/news/canada/manitoba/western-star-foreign-workers-labour-violations-melita-saskatchewan-9.7000043?cmp=rss",
-      "title": "Foreign workers accuse hotelier with history of labour violations of taking advantage of them in Sask., Man.",
-      "published_at": "2025-12-08T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A man from Mexico says he toiled long hours, seven days a week, for nearly a year without proper pay for a hotel chain that he says took advantage of him and others.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.227,
+        "sentiment": 0.772,
         "subjectivity_hint": "low"
       }
     },
@@ -56,15 +251,67 @@
       }
     },
     {
+      "id": "18f88fa475157b868fb271bea414f69c05539527",
+      "url": "https://www.cbc.ca/news/canada/sudbury/intimate-partner-violence-finances-program-9.7004694?cmp=rss",
+      "title": "Northern Ontario woman who left abuser starts program to help survivors restart their lives",
+      "published_at": "2025-12-08T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Caisse Alliance credit union in North Bay, Ont., offers a unique program to help intimate partner violence survivors rebuild their financial lives, thanks to an employee who restarted her life from zero after leaving an abusive partner.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "dfb1823785495122069e2b28fe16dcfd5d5afccf",
       "url": "https://www.cbc.ca/news/world/thailand-launches-airstrikes-along-border-with-cambodia-after-deadly-clashes-9.7006656?cmp=rss",
       "title": "Thailand launches airstrikes along border with Cambodia after deadly clashes",
       "published_at": "2025-12-08T00:04:47-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Thailand launched airstrikes along the disputed border with Cambodia on Monday as both sides accused the other of breaking a ceasefire that halted fighting earlier this year.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5d8560c16d54f38a018f0757ca93aa11566bc45",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/workshops-aim-to-change-boys-will-be-boys-culture-in-construction-sector-9.7001721?cmp=rss",
+      "title": "Workshops aim to change 'boys will be boys' culture in construction sector",
+      "published_at": "2025-12-08T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The facilitator of the course says deeply rooted masculine norms in male-dominated industries such as construction can affect the health of workers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "da4de4159f12a3e30ecb5f3e86ec9cf3a4e8bfe8",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/us-national-parks-price-increase-9.6997153?cmp=rss",
+      "title": "Dramatic price increases for Canadians visiting U.S. national parks could benefit Maritimes",
+      "published_at": "2025-12-08T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Next year, it will be incredibly more expensive for foreign residents to visit American national parks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6ee37d1e6a71a1c071b50e4b67cadb5ec9a9c237",
+      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-jails-overcrowding-correctional-facility-9.7004523?cmp=rss",
+      "title": "Northern Ontario jails among the most overcrowded in the province, new data shows",
+      "published_at": "2025-12-08T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Jails in northern Ontario are facing some of the worst overcrowding pressures in the province, with population data showing dramatic increases since 2019. Frontline workers and inmates are warning the conditions inside many facilities are increasingly unsafe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -95,19 +342,6 @@
       }
     },
     {
-      "id": "f7c4a3799ce6f8cde469e71e5979a9a0a0994162",
-      "url": "https://www.cbc.ca/news/canada/ontario-jails-overcrowding-data-9.7003336?cmp=rss",
-      "title": "Ontario jails set to hit overcrowding record as bail reform looms, data shows",
-      "published_at": "2025-12-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario jails are heading toward a record year for overcrowding, remand populations and lockdowns just as politicians debate bail reforms that could lead to a further influx of accused behind bars, data analyzed by CBC News reveals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "956f1163bb6f9bdfb6ecd1d6b7c561715173a667",
       "url": "https://www.cbc.ca/news/canada/toronto/majority-of-ontario-fraud-cases-tossed-since-2020-due-to-limited-resources-crowns-association-9.7004743?cmp=rss",
       "title": "Majority of Ontario fraud cases tossed since 2020 due to limited resources: Crowns’ association",
@@ -118,6 +352,19 @@
         "article_type": "News",
         "sentiment": -0.971,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f7c4a3799ce6f8cde469e71e5979a9a0a0994162",
+      "url": "https://www.cbc.ca/news/canada/ontario-jails-overcrowding-data-9.7003336?cmp=rss",
+      "title": "Ontario jails set to hit overcrowding record as bail reform looms, data shows",
+      "published_at": "2025-12-07T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Ontario jails are heading toward a record year for overcrowding, remand populations and lockdowns just as politicians debate bail reforms that could lead to a further influx of accused behind bars, data analyzed by CBC News reveals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -173,19 +420,6 @@
       }
     },
     {
-      "id": "bcef46c6c39a37a44d4e9dc253f210e700366a12",
-      "url": "https://www.cbc.ca/player/play/9.7006627?cmp=rss",
-      "title": "Bethlehem Christmas tree lit up for first time since start of Gaza war",
-      "published_at": "2025-12-07T17:21:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds of people gathered in Bethlehem's Manger Square to watch the lighting of a Christmas tree, two years after all public celebrations for the holiday were cancelled due to the war in Gaza.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e9422da20aec9f9130b0ac19debdb972f766d065",
       "url": "https://www.cbc.ca/news/politics/trump-canada-trade-talks-9.7006620?cmp=rss",
       "title": "Trump lauds 'good relationship' with Carney but won't say if they'll restart trade talks",
@@ -203,76 +437,11 @@
       "url": "https://www.cbc.ca/news/world/donald-trump-kennedy-center-9.7006591?cmp=rss",
       "title": "Donald Trump hosting Kennedy Center Honors recognizing Stallone, Kiss, Gaynor and others",
       "published_at": "2025-12-07T15:32:08-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ba3680036a5a2d52c0b7cc7865dda5b688ab6a54",
-      "url": "https://www.cbc.ca/player/play/9.7006506?cmp=rss",
-      "title": "Is Canada’s hockey culture broken?",
-      "published_at": "2025-12-07T11:48:37-05:00",
-      "section": "Canada",
-      "summary_auto": "Questioning hockey culture in Canada can be controversial, but it’s something award-winning author and sports journalist Rick Westhead doesn’t shy away from. In conversation with The National’s Ian Hanomansing, he lays out what he uncovered for his new book We Breed Lions and the impact he hopes it has on the sport.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.115,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "73379aba168679ec42c69a8f3c4327fcda982034",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/desbiens-makes-11-saves-in-the-3rd-period-backstops-victoire-to-win-over-sceptres-9.7006502?cmp=rss",
-      "title": "Montreal Victoire defeats Toronto Sceptres 3-1, land second straight win",
-      "published_at": "2025-12-07T11:00:12-05:00",
-      "section": "Canada",
-      "summary_auto": "Ann-Renée Desbiens made 21 saves, including 11 in the third period, as the Montreal Victoire defeated the Toronto Sceptres 3-1 in Professional Women's Hockey League action Sunday afternoon at Place Bell in Laval, Que.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d6d6d873f11adc8e10a525d2fcc5fa7a3a8b0ea",
-      "url": "https://www.cbc.ca/player/play/9.7006488?cmp=rss",
-      "title": "Thousands of Santas dash through Liverpool streets for charity",
-      "published_at": "2025-12-07T10:40:54-05:00",
-      "section": "World",
-      "summary_auto": "Liverpool's annual Santa Dash made spirits bright on Sunday as thousands of runners dressed as Santa Claus took to the streets of the English city for the five-kilometre festive fun run. Participants are encouraged to raise money for local charities as part of the event, which began in 2004.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e7509e2cf6a2192a378ea14db3edbdf1406fc6be",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/fatal-trailer-fire-fort-william-first-nation-9.7006431?cmp=rss",
-      "title": "Fatal blaze in Fort William First Nation is 4th trailer fire in Thunder Bay, Ont., district in a week",
-      "published_at": "2025-12-07T09:49:37-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario’s Office of the Fire Marshal is investigating a fatal blaze in Fort William First Nation, which marks the fourth trailer fire in the Thunder Bay district within a week. Here's what we know about the recent incidents.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.922,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "523e456deb110956016e3a2f1851b97fc3a6f126",
-      "url": "https://www.cbc.ca/news/world/russia-trump-national-security-strategy-9.7006460?cmp=rss",
-      "title": "Trump's new security strategy aligns with Russia's interests, Kremlin says",
-      "published_at": "2025-12-07T09:42:14-05:00",
-      "section": "World",
-      "summary_auto": "The Kremlin on Sunday welcomed U.S. President Donald Trump's new national security strategy and said it largely accorded with Russia's own perceptions, the first time that Moscow has so fulsomely praised such a document from its former Cold War foe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.597,
         "subjectivity_hint": "low"
       }
     }
