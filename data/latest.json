@@ -1,8 +1,177 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-08T20:10:20.840488-05:00",
+  "generated_at": "2025-12-09T09:16:52.576643-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "aeb528254803c6a6f79e355050a57ce66aaa7d79",
+      "url": "https://www.cbc.ca/news/business/air-transat-cancels-six-flights-9.7008453?cmp=rss",
+      "title": "Air Transat cancels 6 flights in anticipation of pilots' strike deadline",
+      "published_at": "2025-12-09T04:13:25-05:00",
+      "section": "Business",
+      "summary_auto": "With less than 24 hours until a potential pilots' strike, Air Transat has cancelled six flights that were scheduled for Tuesday, the airline confirmed to CBC News in an email.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ce770c231b5af4d3f0016c93194f562940ccdb3b",
+      "url": "https://www.cbc.ca/news/world/international-criminal-court-sudanese-leader-9.7008390?cmp=rss",
+      "title": "ICC sentences Sudanese militia leader to 20 years in prison for Darfur atrocities",
+      "published_at": "2025-12-09T03:09:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Judges at the International Criminal Court sentenced a leader of the feared Sudanese Janjaweed militia to 20 years imprisonment Tuesday for war crimes and crimes against humanity committed in the catastrophic conflict in Darfur more than two decades ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.952,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42c2780115fda7a62172fb3d715dba087f24ed92",
+      "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-italy-peace-plan-9.7008356?cmp=rss",
+      "title": "Zelenskyy in Italy as he continues to marshal support for more favourable peace plan",
+      "published_at": "2025-12-09T02:31:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ukrainian President Volodymyr Zelenskyy met with Pope Leo XIV near Rome on Tuesday and was scheduled for talks with Italian Prime Minister Giorgia Meloni, as he continued to rally European support for Ukraine while resisting U.S. pressure for a painful compromise with Russia on a peace plan to end the war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.569,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "06099b3b15fde81ad4a88c395e41cb86fbc5e3c9",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/penny-oleksiak-cbc-interview-9.7006757?cmp=rss",
+      "title": "Canadian swim star Penny Oleksiak denies drug use, says she'll keep training despite 2-year suspension",
+      "published_at": "2025-12-09T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A two-year suspension from competitive swimming has forced Penny Oleksiak to answer questions about drug use, train by herself in public pools and defend her legacy as Canada’s most decorated female Olympian.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "91c28d6a3af49452f0c8f745c999dc654aa78125",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/annapolis-royal-historic-gardens-female-ginkgo-tree-dog-poo-9.7007645?cmp=rss",
+      "title": "'Like dog poo': Historic N.S. garden gets a smelly surprise from tree",
+      "published_at": "2025-12-09T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Annapolis Royal Historic Gardens staff initially dismissed a suggestion by a visitor that their 40-year-old ginkgo tree had suddenly started producing stinky seeds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6146b111a2a5effe6030d7ef49340e2d72f33d1a",
+      "url": "https://www.cbc.ca/news/canada/hamilton/brandy-cooney-testifies-9.7007755?cmp=rss",
+      "title": "Co-accused testifies at Ontario murder trial for 1st time. ‘I always wanted them,’ she says of brothers",
+      "published_at": "2025-12-08T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Taking the witness box in her first-degree murder trial, Brandy Cooney says she called the boy she was trying to adopt a “moron” and “loser,” used zip-ties to confine him in a wetsuit and locked him in his room at a Burlington, Ont., home.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "23f9edf483fb092d209dacbc538ae8a003beb16f",
+      "url": "https://www.cbc.ca/news/science/china-energy-solar-electric-vehicle-climate-9.7005003?cmp=rss",
+      "title": "The rise of the electrostate: By dominating clean energy, China is leading on climate action",
+      "published_at": "2025-12-08T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "China’s massive lead in clean technologies has shifted the climate fight from one of big pledges and international diplomacy toward a technological revolution in cheaper energy, analysts say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fe2417c479b88ab65d94a7cf35f3fb3ad346f79e",
+      "url": "https://www.cbc.ca/news/politics/carney-climate-guilbeault-analysis-9.7007724?cmp=rss",
+      "title": "Can Carney still put together a credible climate plan? Does it matter?",
+      "published_at": "2025-12-08T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "If Mark Carney's first nine months as prime minister have revealed a difference of opinion over how the federal government should go about fighting climate change, he now has to prove that his approach can put Canada on a credible path to net-zero emissions by 2050.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.414,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "19d61e9c0d34fe85fdc00e34744fa0a61ee81b77",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/mekhi-pelly-search-continues-9.7007237?cmp=rss",
+      "title": "'Not going to stop until I find him': First Nation man's family search for more remains in Ontario murder case",
+      "published_at": "2025-12-08T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Ontario Provincial Police have stopped looking for the rest of Mekhi Pelly’s remains as two people face charges in the murder case, but the Kenora-area man's family vows to keep searching. Here's what we know about the investigation as a range of people, including from Manitoba, help in the search.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.403,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "716f7762048b416bb4bf2bb49777ce147b13f3fa",
+      "url": "https://www.cbc.ca/news/world/new-pictures-show-changes-in-fugitive-ryan-weddings-appearance-9.7008311?cmp=rss",
+      "title": "New pictures show changes in fugitive Ryan Wedding’s appearance",
+      "published_at": "2025-12-08T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "U.S. authorities have released two new photos of Canadian fugitive Ryan Wedding, as the FBI intensifies its search for the alleged drug kingpin.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b8cd78cb2efbe4b719245305ac92a3ea68fbe7ec",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-coroner-s-inquest-begins-on-wrong-way-highway-1-triple-fatal-crash-9.7008018?cmp=rss",
+      "title": "Inquest begins on wrong-way Highway 1 crash in Chilliwack, B.C., that led to 3 deaths",
+      "published_at": "2025-12-08T17:12:26-05:00",
+      "section": "Canada",
+      "summary_auto": "A B.C. Coroners Service inquest has begun looking into the circumstances of a crash that led to three deaths five years ago. The Independent Investigations Office of B.C. cleared an RCMP officer who was pursuing a suspect in the case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "69e253b318d5d8167b88e61a873338fc04c854f3",
+      "url": "https://www.cbc.ca/player/play/9.7008233?cmp=rss",
+      "title": "See the moment a Hawaii volcano's eruption knocked out a remote camera",
+      "published_at": "2025-12-08T16:21:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A remote camera on Hawaii's erupting Kīlauea volcano captured the moment a lava fountain engulfed it and knocked it offline on Saturday. Kilauea, one of the world's most active volcanoes, has been erupting intermittently since Dec. 23, 2024.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.36,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60559902390ab0d6bb3c52d5e7153d0041cbf894",
+      "url": "https://www.cbc.ca/player/play/9.7008197?cmp=rss",
+      "title": "Japan leads the world in responding to earthquakes. Here's why",
+      "published_at": "2025-12-08T15:32:01-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The latest earthquake in Japan on Dec. 8, which triggered widespread shaking and tsunami alerts, served as another clear example of the nation’s world-leading earthquake response efforts. CBC’s Johanna Wagstaffe explores the factors that make Japan stand out and the lessons other earthquake-prone countries can learn from their approach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "cc02143a5fe8d30d1ab8b64095af47e303a0b6a1",
       "url": "https://www.cbc.ca/news/canada/calgary/corb-lund-anti-coal-petition-alberta-9.7008091?cmp=rss",
@@ -30,6 +199,19 @@
       }
     },
     {
+      "id": "f599eda8b43b6e337f34ca63749e45e2be4fae5a",
+      "url": "https://www.cbc.ca/radio/asithappens/ancient-egypt-pleasure-barge-9.7007794?cmp=rss",
+      "title": "Ancient boat unearthed off the coast of Egypt believed to be a ‘pleasure barge’ fit for a king",
+      "published_at": "2025-12-08T13:10:56-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Long before modern billionaires threw lavish parties at sea on their superyachts, the wealthy elite of ancient Egypt traversed the river Nile in luxury on their pleasure barges. Now, for the first time, archeologists believe they have unearthed one of those opulent vessels of yore from beneath the sediment off the coast of Alexandria.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "a8ccb6a912170aec41a5e2eec4a71fb3602c5d70",
       "url": "https://www.cbc.ca/news/entertainment/kimmel-contract-extended-9.7007882?cmp=rss",
       "title": "ABC signs Jimmy Kimmel to a 1-year contract extension, months after temporary suspension",
@@ -47,7 +229,7 @@
       "url": "https://www.cbc.ca/sports/basketball/nba/terry-rozier-not-guilty-plea-sports-betting-heat-nba-9.7007797?cmp=rss",
       "title": "Heat point guard Terry Rozier pleads not guilty in sports betting case",
       "published_at": "2025-12-08T12:16:46-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Miami Heat player Terry Rozier pleaded not guilty Monday to charges he helped gamblers placing bets on his performance in NBA games.",
       "bias_heuristic": {
         "article_type": "News",
@@ -91,305 +273,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "848e215235d74925a2a154fe15e2b03fc0502d9c",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-moe-beck-fall-2025-9.7007059?cmp=rss",
-      "title": "Drugs, inter-governmental relations and wildfires dominate Sask. fall sitting",
-      "published_at": "2025-12-08T09:11:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Premier Scott Moe called this sitting a success, but his government has faced criticism on health care and wildfire response.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.372,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cdb5b772471daf6e0ffd9d3390e8f6d599fca092",
-      "url": "https://www.cbc.ca/news/canada/air-transat-strike-what-to-know-9.7006807?cmp=rss",
-      "title": "Flying Air Transat? Here's what customers need to know as strike looms",
-      "published_at": "2025-12-08T08:13:19-05:00",
-      "section": "Business",
-      "summary_auto": "Air Transat announced on Sunday it will gradually shut down operations over the next three days in response to a 72-hour strike mandate issued by the union representing its 750 pilots. Here's what travellers need to know.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c90111432b217d067ba1b10ec5852f76f5d5e89",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/fire-wallace-fish-plant-cumberland-county-9.7007114?cmp=rss",
-      "title": "'A firestorm': Blaze at Cumberland County fish plant destroys facility's main building",
-      "published_at": "2025-12-08T07:24:03-05:00",
-      "section": "Canada",
-      "summary_auto": "Tom Flynn, chief of the Wallace District Volunteer Fire Department, says the main building at Aquashell Holdings in Wallace, N.S., is \"a total loss\" after a fire tore through the facility.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.875,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73374aba69835e94a5493f236f4c3da2aa2c35a5",
-      "url": "https://www.cbc.ca/sports/hockey/canada-world-junior-hockey-roster-2026-gavin-mckenna-9.7007163?cmp=rss",
-      "title": "Canada unveils 27-player world junior training camp roster, led by NHL prospect Gavin McKenna",
-      "published_at": "2025-12-08T07:18:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Gavin McKenna headlines the 27 players Hockey Canada has invited to its world junior training camp ahead of the 2026 tournament in Minnesota.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "675d91455bd2d986ef70ca98bf59e723b7b0e73c",
-      "url": "https://www.cbc.ca/news/business/air-transat-negotiations-what-to-know-9.7006994?cmp=rss",
-      "title": "Air Transat, pilots' union say 'progress' being made in talks as strike deadline looms",
-      "published_at": "2025-12-08T07:11:14-05:00",
-      "section": "Business",
-      "summary_auto": "Air Transat says that \"progress has been made\" in negotiations with the union representing its pilots, just a day after the Air Line Pilots Association, Intl. issued a 72-hour strike notice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "08c7fc4b0f7e1beb38751ecff88dd96ac82b632f",
-      "url": "https://www.cbc.ca/news/politics/diab-foreign-doctors-permanent-residency-9.7006937?cmp=rss",
-      "title": "Liberals to open new fast track to permanent residency for 5,000 foreign doctors",
-      "published_at": "2025-12-08T05:35:45-05:00",
-      "section": "Health",
-      "summary_auto": "The federal government is promising to open up permanent residency for foreign doctors currently working in Canada as temporary foreign residents in order to tackle the doctor shortage across the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7d3a433821bef5b0eeb9dda012f46be5df71c343",
-      "url": "https://www.cbc.ca/news/canada/montreal/laval-woman-seniors-residence-9.7006879?cmp=rss",
-      "title": "'She froze to death,' says grandson of woman found dead outside Laval seniors' residence",
-      "published_at": "2025-12-08T05:06:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An 88-year-old woman has died after being found outside a seniors' residence in Laval early this morning. Temperatures dropped to -18 C early Monday morning, according to Environment Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a1ae2814e9e18873193af99d6a63fc31b23604cf",
-      "url": "https://www.cbc.ca/news/canada/toronto/york-police-arrests-9.7006891?cmp=rss",
-      "title": "Criminal group linked to Ontario hospital shooting, Quebec homicide dismantled, police say",
-      "published_at": "2025-12-08T05:02:32-05:00",
-      "section": "Canada",
-      "summary_auto": "A criminal network allegedly responsible for a host of violent crimes in both Ontario and Quebec has been dismantled after a multi-jurisdictional investigation that resulted in 13 arrests and over 150 charges laid, police representatives announced Monday at a news conference at York Regional Police headquarters.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.925,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aab338c9cdb56ff62ae6768745f7102049050026",
-      "url": "https://www.cbc.ca/news/world/livestory/japan-earthquake-tsunami-9.7006849?cmp=rss",
-      "title": "Japan lifts tsunami advisories after powerful earthquake off northern coast",
-      "published_at": "2025-12-08T04:52:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a813cf40630bd3a24da3b5f804b73a6f570d498",
-      "url": "https://www.cbc.ca/news/entertainment/paramount-skydance-warner-bros-bid-netflix-9.7006820?cmp=rss",
-      "title": "Paramount Skydance makes $108B US hostile bid for Warner Bros. Discovery after Netflix move",
-      "published_at": "2025-12-08T04:33:40-05:00",
-      "section": "Business",
-      "summary_auto": "Paramount Skydance on Monday launched a hostile bid worth $108.4 billion US for Warner Bros Discovery, throwing a wrench into the deal with Netflix in a last-ditch effort to create a media powerhouse that would challenge the dominance of the streaming giant.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "66b7e599ad7021f7f6e835bdcc27b690a8520d67",
-      "url": "https://www.cbc.ca/news/entertainment/golden-globes-noms-9.7005150?cmp=rss",
-      "title": "One Battle After Another leads Golden Globe nominations, Canadians Catherine O'Hara and Martin Short nominated",
-      "published_at": "2025-12-08T03:29:27-05:00",
-      "section": "Entertainment",
-      "summary_auto": "One Battle After Another collected nine nominations for the 83rd Golden Globes, while Sentimental Value has eight, Sinners seven, and Hamnet six. Performances by stars of The White Lotus and Adolescence helped those films rack up a number of nominations on the TV side, too.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "39611ee55f124e673f68e5055a794326886dc6cf",
-      "url": "https://www.cbc.ca/news/canada/toronto/finch-west-lrt-first-monday-9.7006698?cmp=rss",
-      "title": "Could you outrun the train? Toronto's new LRT takes 55 minutes to cover 10.3 km",
-      "published_at": "2025-12-08T02:03:30-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Northwest Toronto's newly-opened light-rail transit (LRT) line is getting its first taste of rush hour Monday — but it doesn't appear to be rushing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "39611ee55f124e673f68e5055a794326886dc6cf",
-      "url": "https://www.cbc.ca/news/canada/toronto/finch-west-lrt-first-monday-9.7006698?cmp=rss",
-      "title": "Could you outrun the train? Finch LRT takes 55 minutes to cover 10.3-km route",
-      "published_at": "2025-12-08T02:03:30-05:00",
-      "section": "Canada",
-      "summary_auto": "Northwest Toronto's newly-opened light-rail transit (LRT) line is getting its first taste of rush hour Monday — but it doesn't appear to be rushing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "456b904d4b5453787c74938fd59e053b03a6fa62",
-      "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-london-brussels-talks-9.7006690?cmp=rss",
-      "title": "Ukraine's Zelenskyy says a revised peace plan will be shared with U.S. on Tuesday",
-      "published_at": "2025-12-08T01:58:44-05:00",
-      "section": "World",
-      "summary_auto": "Ukraine will share a revised peace plan with the U.S. on Tuesday aimed at ending Russia's war, after talks in London between President Volodymyr Zelenskyy and the leaders of France,  Germany and Britain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a900e70eb28f608577353ee4a3c19d0c149b1807",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-heritage-classic-reaction-9.7006541?cmp=rss",
-      "title": "NHL Heritage Classic's 2026 return to Winnipeg will be 'great for the city,' fans say",
-      "published_at": "2025-12-08T01:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The NHL's Heritage Classic is returning to Winnipeg next year and some local sports fans — including a former Jets goalie — say the outdoor hockey spectacle will draw a lot of positive attention to the city.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "18f88fa475157b868fb271bea414f69c05539527",
-      "url": "https://www.cbc.ca/news/canada/sudbury/intimate-partner-violence-finances-program-9.7004694?cmp=rss",
-      "title": "Northern Ontario woman who left abuser starts program to help survivors restart their lives",
-      "published_at": "2025-12-08T01:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Caisse Alliance credit union in North Bay, Ont., offers a unique program to help intimate partner violence survivors rebuild their financial lives, thanks to an employee who restarted her life from zero after leaving an abusive partner.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dfb1823785495122069e2b28fe16dcfd5d5afccf",
-      "url": "https://www.cbc.ca/news/world/thailand-launches-airstrikes-along-border-with-cambodia-after-deadly-clashes-9.7006656?cmp=rss",
-      "title": "Thailand launches airstrikes along border with Cambodia after deadly clashes",
-      "published_at": "2025-12-08T00:04:47-05:00",
-      "section": "World",
-      "summary_auto": "Thailand launched airstrikes along the disputed border with Cambodia on Monday as both sides accused the other of breaking a ceasefire that halted fighting earlier this year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6ee37d1e6a71a1c071b50e4b67cadb5ec9a9c237",
-      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-jails-overcrowding-correctional-facility-9.7004523?cmp=rss",
-      "title": "Northern Ontario jails among the most overcrowded in the province, new data shows",
-      "published_at": "2025-12-08T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Jails in northern Ontario are facing some of the worst overcrowding pressures in the province, with population data showing dramatic increases since 2019. Frontline workers and inmates are warning the conditions inside many facilities are increasingly unsafe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f057860b5bdda19a7a12f0570f6c8ed8f84d8857",
-      "url": "https://www.cbc.ca/news/world/chinese-spy-speaks-out-enquete-radio-canada-9.7003661?cmp=rss",
-      "title": "Chinese ex-spy opens up about targeting dissident who died mysteriously in B.C.",
-      "published_at": "2025-12-07T23:01:44-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "956f1163bb6f9bdfb6ecd1d6b7c561715173a667",
-      "url": "https://www.cbc.ca/news/canada/toronto/majority-of-ontario-fraud-cases-tossed-since-2020-due-to-limited-resources-crowns-association-9.7004743?cmp=rss",
-      "title": "Majority of Ontario fraud cases tossed since 2020 due to limited resources: Crowns’ association",
-      "published_at": "2025-12-07T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "CBC News reviewed the latest three years of fraud statistics released since its investigative series The Cost of Fraud revealed that only a fraction of fraud cases were making it through Ontario’s justice system a few years ago. The new numbers from Statistics Canada show the problem has only gotten worse, and have some experts pointing to alternative solutions to stem the flow of fraud.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.971,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7c4a3799ce6f8cde469e71e5979a9a0a0994162",
-      "url": "https://www.cbc.ca/news/canada/ontario-jails-overcrowding-data-9.7003336?cmp=rss",
-      "title": "Ontario jails set to hit overcrowding record as bail reform looms, data shows",
-      "published_at": "2025-12-07T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario jails are heading toward a record year for overcrowding, remand populations and lockdowns just as politicians debate bail reforms that could lead to a further influx of accused behind bars, data analyzed by CBC News reveals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "faf77f11ecbb647a24fe840026e629ec51936027",
-      "url": "https://www.cbc.ca/player/play/9.7006530?cmp=rss",
-      "title": "Bill 2 puts Montreal clinic serving sexual assault victims at risk of closure",
-      "published_at": "2025-12-07T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "A family clinic in downtown Montreal that treats over 10,000 patients could close its doors due to Bill 2, a controversial law that ties doctors' salaries to key performance indicators. Dr. Andrée Vincent says Clinique Medic Elle, which also serves as a centre for victims of sexual assault, could lose some of its doctors. She and her colleagues are already receiving job offers from outside the province.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.95,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e6d393c41483d14b7283a15619141e1ba9a14eff",
-      "url": "https://www.cbc.ca/books/thenextchapter/jeff-kinney-diary-of-a-wimpy-kid-9.6998927?cmp=rss",
-      "title": "Why Jeff Kinney draws from his childhood to create the smash 'Wimpy Kid' series",
-      "published_at": "2025-12-07T23:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "With more than \"300 million copies sold,\" American creator Jeff Kinney's cheeky Diary of a Wimpy Kid series is a huge hit. He stopped by The Next Chapter to discuss the series and the latest book, Partypooper.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
         "subjectivity_hint": "low"
       }
     }
