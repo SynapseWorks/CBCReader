@@ -1,28 +1,236 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-10T09:18:26.879588-05:00",
+  "generated_at": "2025-12-10T15:18:07.592696-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "7225f52b294d72fea5652d46445d027201556ef7",
+      "url": "https://www.cbc.ca/news/politics/hoekstra-us-meddling-9.7010577?cmp=rss",
+      "title": "U.S. ambassador downplays fears of Trump administration meddling in Canadian politics",
+      "published_at": "2025-12-10T10:12:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65acbef07a186ea7b6249b0526aa8c4d3d9f7a62",
+      "url": "https://www.cbc.ca/news/world/israel-west-bank-settlements-9.7010575?cmp=rss",
+      "title": "Israel approves hundreds of housing units in 3 settlements in the occupied West Bank",
+      "published_at": "2025-12-10T09:40:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israel has given the go-ahead for the construction of 764 more houses in three Jewish settlements in the occupied West Bank, a decision likely to further stoke tensions as a watchdog group accused the Israeli government of moving toward \"de facto annexation\" of the Palestinian territory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c7810ee0d1e985d4b2ea972dc0d09204e7717cad",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-influenza-december-2025-9.7010320?cmp=rss",
+      "title": "Alberta emergency rooms hit with wave of influenza patients",
+      "published_at": "2025-12-10T09:12:41-05:00",
+      "section": "Health",
+      "summary_auto": "Alberta hospitals are being slammed with flu patients at a time when they’re already under strain, and doctors are bracing for more as the worst of the respiratory virus season has yet to hit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.868,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46bae57a66828132cac9c31a7ed11f15c891914d",
+      "url": "https://www.cbc.ca/news/canada/trump-trade-us-canada-mexico-cusma-usmca-jamieson-greer-9.7010300?cmp=rss",
+      "title": "Trump’s point man on trade floats separate deals with Canada and Mexico",
+      "published_at": "2025-12-10T09:12:00-05:00",
+      "section": "Business",
+      "summary_auto": "U.S. President Donald Trump’s lead trade negotiator says the administration is considering breaking up the three-way free trade agreement with Canada and Mexico, moving toward separate deals instead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a8babd4ed41b9b1aa5b2bbd58d2db3b6e337da26",
+      "url": "https://www.cbc.ca/news/entertainment/iceland-eurovision-boycott-9.7010516?cmp=rss",
+      "title": "Iceland will boycott Eurovision in protest of Israel's participation",
+      "published_at": "2025-12-10T09:02:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Spain, the Netherlands, Ireland and Slovenia have also announced their plans to boycott the event, citing Israel's conduct in its war against Hamas in Gaza. This comes after the European Broadcasting Union, made up of a number of European public broadcasters, cleared Israel to participate last week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "22b374ef81baf489b1637c588d2976f70359df52",
+      "url": "https://www.cbc.ca/news/canada/london/slow-down-say-police-after-2-officers-injured-while-responding-to-400-southwestern-ontario-crashes-9.7010427?cmp=rss",
+      "title": "'Slow down,' say police after 2 officers injured while responding to 400 southwestern Ontario crashes",
+      "published_at": "2025-12-10T08:24:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two police officers were among the multiple people injured as treacherous road conditions resulted in more than 400 reported crashes early Wednesday in southwestern Ontario.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b6fe48d49f262afff02e6cfb51d36fbbfdc22123",
+      "url": "https://www.cbc.ca/news/canada/montreal/caq-public-security-new-bill-9.7010259?cmp=rss",
+      "title": "Quebec cracks down on organized crime, high-risk sex offenders and protests in new bill",
+      "published_at": "2025-12-10T07:49:41-05:00",
+      "section": "Canada",
+      "summary_auto": "Quebec's Public Security Minister Ian Lafrenière tabled a bill Wednesday aiming to create a public registry for high-risk sex offenders, prevent protests from taking place too close to the homes of elected officials and crack down on members of organized crime groups who show off their groups' logos or patches.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f23c1c3586983360612381f3fa8857b651ec86d",
+      "url": "https://www.cbc.ca/news/canada/montreal/anti-corruption-police-launch-investigation-into-quebec-liberals-wrongdoing-allegations-9.7010367?cmp=rss",
+      "title": "Anti-corruption police launch investigation into allegations of Quebec Liberals' wrongdoings",
+      "published_at": "2025-12-10T07:29:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Quebec's anti-corruption police have launched a criminal investigation into the Quebec Liberals' wrongdoing allegations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d18a346c8ad9c9cef546b60295400e3fb927d373",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-9.7010229?cmp=rss",
+      "title": "Brothers locked in rooms for 18 hours, restrained with zip ties overnight, co-accused tells Ont. murder trial",
+      "published_at": "2025-12-10T07:23:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Brandy Cooney was back testifying Tuesday at the Milton, Ont., murder trial for her and her wife, with the Crown challenging Cooney’s earlier narrative that she and Becky Hamber loved and cared for two brothers under their care and rarely used restraints.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "499ad22c234066bf6e50c478e9a49bc474458e79",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/dillon-dube-blues-ahl-affiliate-sexual-assault-case-nhl-9.7010358?cmp=rss",
+      "title": "Dillon Dube, player acquitted in Hockey Canada sexual assault trial, joining Blues' AHL affiliate",
+      "published_at": "2025-12-10T07:19:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Dillon Dube, the only remaining unsigned player among the five members of Canada's 2018 world junior team who were acquitted of sexual assault in the high-profile case, has agreed to an American Hockey League professional tryout with the St. Louis Blues.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1fee301b5d2e59b97437c6829403b32a8fe7d7eb",
+      "url": "https://www.cbc.ca/news/politics/yves-engler-barred-ndp-leadership-9.7010236?cmp=rss",
+      "title": "Pro-Palestinian activist Yves Engler barred from running for NDP leadership",
+      "published_at": "2025-12-10T06:16:32-05:00",
+      "section": "Canada",
+      "summary_auto": "Self-described \"agitator\" Yves Engler says he has been denied entry into the NDP leadership race.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "689e402f7248ad585a41bb40bc22edb9d5df72ea",
+      "url": "https://www.cbc.ca/news/canada/manitoba/u-s-alcohol-manitoba-liquor-marts-9.7010331?cmp=rss",
+      "title": "Customers line up at Manitoba Liquor Marts for 1st chance to buy American liquor in months",
+      "published_at": "2025-12-10T05:38:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ca4523db06bfa4560606b18017d0c133a6d94bba",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/jonathan-rowe-jail-not-bail-grinch-9.7010034?cmp=rss",
+      "title": "With the Grinch behind bars, this N.L. MP brings 'jail not bail' message to local Christmas parade",
+      "published_at": "2025-12-10T05:05:47-05:00",
+      "section": "Canada",
+      "summary_auto": "Terra Nova-The Peninsulas MP Jonathan Rowe entered a float in the Trinity Bight Christmas parade featuring the Grinch behind bars and under a banner reading \"jail not bail.\" One resident is raising questions about the place of politics in parades, while Rowe is remaining tongue-in-cheek.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b16cb76f4fea7f8e00ea3892f0fe6a2d6b17aad8",
+      "url": "https://www.cbc.ca/news/world/rwanda-backed-m23-rebels-east-congo-uvira-9.7010033?cmp=rss",
+      "title": "Rwanda-backed M23 rebels say they've seized strategic city of Uvira in east Congo",
+      "published_at": "2025-12-10T04:59:38-05:00",
+      "section": "World",
+      "summary_auto": "Rwanda-backed rebel group M23 said that it's taken control of the strategic city of Uvira in eastern Congo on Wednesday afternoon, following a rapid offensive since the start of the month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "315d3a9f4350041ba1e98d242748d3fc8ce843f8",
+      "url": "https://www.cbc.ca/news/business/bank-of-canada-dec-10-interest-rate-decision-9.7010035?cmp=rss",
+      "title": "Bank of Canada holds key interest rate at 2.25%, saying economy has proved 'resilient'",
+      "published_at": "2025-12-10T04:48:10-05:00",
+      "section": "Business",
+      "summary_auto": "The Bank of Canada is holding its key interest rate at 2.25 per cent, a move that was widely expected by economists after an encouraging round of economic data.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eb328f35e89836d7473d125c5a97679ec86b5b97",
+      "url": "https://www.cbc.ca/sports/hockey/santagiulia-hockey-arena-milan-olympics-update-nhl-9.7010523?cmp=rss",
+      "title": "NHLers 'not going' to Olympics if ice isn’t ready and safe, reiterates deputy commissioner",
+      "published_at": "2025-12-10T04:40:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "ed3a5a96f5b3026559b1d3db2a9e64bf30d66d92",
       "url": "https://www.cbc.ca/news/entertainment/sophie-kinsella-obit-9.7009950?cmp=rss",
-      "title": "Sophie Kinsella, author behind Confessions of a Shopaholic books, dies at 55",
+      "title": "Sophie Kinsella, author behind Confessions of a Shopaholic books, dead at 55",
       "published_at": "2025-12-10T04:05:31-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Sophie Kinsella was first diagnosed with an aggressive form of brain cancer in 2022, and revealed the diagnosis in 2024. In a social media post announcing her death, the author’s family said she “took nothing for granted” and battled her illness with courage.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.891,
+        "sentiment": -0.942,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "a39df31ab5c911838c2019afdaacc88458cc8d9f",
       "url": "https://www.cbc.ca/news/canada/calgary/alberta-bill-late-reading-9.7009893?cmp=rss",
-      "title": "Alberta Legislature passes bill invoking Charter override for 4th time",
+      "title": "Alberta passes bill affecting transgender people invoking notwithstanding clause",
       "published_at": "2025-12-10T03:19:31-05:00",
       "section": "Top Stories",
-      "summary_auto": "Alberta's governing United Conservatives stayed up into the early pre-dawn hours of Wednesday morning to pass a bill that marks the fourth time in under two months they have used the Charter's notwithstanding clause.",
+      "summary_auto": "Alberta's governing United Conservatives stayed up into the early pre-dawn hours of Wednesday morning to pass a bill that uses the notwithstanding clause to shield laws affecting transgender youth.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.421,
@@ -45,14 +253,14 @@
     {
       "id": "a816a8739262a34bd05b8a61751ae765e152c68b",
       "url": "https://www.cbc.ca/news/world/ukraine-elections-zelenskyy-9.7009825?cmp=rss",
-      "title": "Ukraine's Zelenskyy 'ready for elections' after Trump suggests Kyiv is 'using war' to avoid them",
+      "title": "Ukraine coalition allies speak with Trump as push to revise peace plan continues",
       "published_at": "2025-12-10T01:17:05-05:00",
       "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy said Tuesday he was prepared to hold elections within three months if the U.S. and other Kyiv allies could ensure the security of the vote.",
+      "summary_auto": "The leaders of Britain, France and Germany discussed with U.S. President Donald Trump ongoing U.S.-led peace talks for Ukraine, Prime Minister Keir Starmer's office said on Wednesday, welcoming efforts to secure a just and lasting settlement.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.906,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -60,25 +268,12 @@
       "url": "https://www.cbc.ca/news/canada/saskatoon/live-music-mementos-collector-saskatoon-roques-andres-jr-9.7002125?cmp=rss",
       "title": "Home is where the swag is: Sask. music fan amasses souvenirs from 1,200 shows",
       "published_at": "2025-12-10T01:00:00-05:00",
-      "section": "Entertainment",
+      "section": "Top Stories",
       "summary_auto": "Visitors to Roque Andres, Jr.'s house in Saskatoon immediately notice a collection of mementos from decades of attending rock concerts.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.318,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e93a0468e4b357ba046a1002b147751ff8e1dfa2",
-      "url": "https://www.cbc.ca/news/canada/toronto/ikea-monkey-darwin-9.7008998?cmp=rss",
-      "title": "13 years later, the IKEA monkey is all grown up — and his sanctuary is at capacity",
-      "published_at": "2025-12-10T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Thirteen years after an attempted escape from an IKEA parking lot, Darwin the monkey has been living out his life at Storybook Primate Sanctuary, the only one of its kind in Canada. He may be shy, but volunteers say he is thriving.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.262,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -95,28 +290,28 @@
       }
     },
     {
+      "id": "e93a0468e4b357ba046a1002b147751ff8e1dfa2",
+      "url": "https://www.cbc.ca/news/canada/toronto/ikea-monkey-darwin-9.7008998?cmp=rss",
+      "title": "13 years later, the IKEA monkey is all grown up — and his sanctuary is at capacity",
+      "published_at": "2025-12-10T00:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Thirteen years after an attempted escape from an IKEA parking lot, Darwin the monkey has been living out his life at Storybook Primate Sanctuary, the only one of its kind in Canada. He may be shy, but volunteers say he is thriving.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.262,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "44b7f01756f42e80441b58f2c52555c55773cf5e",
       "url": "https://www.cbc.ca/news/entertainment/robert-munsch-interview-arsenault-9.7004602?cmp=rss",
-      "title": "Facing down Parkinson's and dementia, Robert Munsch says he still has 'about 50 stories' in him",
+      "title": "Beloved children's author Robert Munsch promising dozens of books to come after his death",
       "published_at": "2025-12-09T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "After a lifetime of writing beloved children’s books, Robert Munsch is now living with dementia and Parkinson’s disease. In an exclusive interview that he calls his \"last hurrah,\" the bestselling author tells CBC News chief correspondent Adrienne Arsenault about the world that shaped his stories, revealing a secret plan to release dozens of books after his death.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6c9437692a1622b63773f8ef6ca50b1884efa566",
-      "url": "https://www.cbc.ca/news/politics/army-mobilization-canada-troops-9.7009323?cmp=rss",
-      "title": "DND scrambles to figure out how to mobilize and equip a citizens' army: documents",
-      "published_at": "2025-12-09T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A series of internal documents shows the Defence Department is struggling to figure out how to equip a citizens' army of up to 300,000 supplemental reservists, while also trying to rebuild its regular and primary reserve forces. A DND presentation obtained by CBC News shows strained supply chains, an absence of warehouses and the possibility of repurposing uniforms are a concern.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
+        "sentiment": 0.681,
         "subjectivity_hint": "low"
       }
     },
@@ -125,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/trump-world-order-europe-9.7009365?cmp=rss",
       "title": "Is Trump’s stark new security strategy the end of the liberal world order? Europeans will need convincing",
       "published_at": "2025-12-09T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "European leaders must decide whether to reject or embrace the conclusions of U.S. President Donald Trump’s new security strategy. It berates and insults them and calls into question some of the key premises of collective security that have helped protect the continent for eight decades.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,24 +329,11 @@
       }
     },
     {
-      "id": "f70e36c569be0bff9943314068e3fdcc1c880c0b",
-      "url": "https://www.cbc.ca/news/canada/bread-price-fixing-class-action-loblaw-9.7008510?cmp=rss",
-      "title": "Time's almost up to claim a slice of the bread price-fixing settlement. But how safe is your data?",
-      "published_at": "2025-12-09T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadians have until Dec. 12 to get their slice of a $500-million settlement in a class-action lawsuit related to the industry-wide price fixing of bread. But some have expressed concern about sharing their personal information online.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "7e9cf1472c47d80dd1b9a53413af595584d7c9d8",
       "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-china-imports-cusma-usmca-back-door-9.7008812?cmp=rss",
       "title": "U.S. businesses claim Canada is a back door for products from China",
       "published_at": "2025-12-09T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "As U.S. President Donald Trump sticks with tariffs on imports from Canada, some American industries are accusing Canadian competitors of using cheap materials from China in ways that violate free-trade rules and undercut U.S. companies.",
       "bias_heuristic": {
         "article_type": "News",
@@ -164,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/nobel-peace-prize-venezuela-maria-corina-machado-hiding-9.7009742?cmp=rss",
       "title": "'Venezuela will breathe again': María Corina Machado's daughter delivers her Nobel Peace Prize speech",
       "published_at": "2025-12-09T17:16:48-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "María Corina Machado dedicated her Nobel Peace Prize to the political prisoners and human rights activists fighting for democracy in Venezuela in a speech delivered by her daughter at a ceremony in Norway on Wednesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -177,7 +359,7 @@
       "url": "https://www.cbc.ca/news/health/postpartum-depression-zuranolone-9.7008846?cmp=rss",
       "title": "Medication to treat postpartum depression approved by Health Canada",
       "published_at": "2025-12-09T17:10:14-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Health Canada has approved the first drug designed to treat postpartum depression. The regulator says zuranolone, a pill sold under the brand name Zurzuvae, is authorized in Canada to relieve symptoms of moderate or severe depression after childbirth.",
       "bias_heuristic": {
         "article_type": "News",
@@ -195,240 +377,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c55a6314831d7af0c8144ba757e5bc382eca8a7",
-      "url": "https://www.cbc.ca/news/politics/government-bill-religious-exemption-hate-speech-9.7009646?cmp=rss",
-      "title": "Liberals back Bloc's proposal to remove religious exemption from hate speech laws",
-      "published_at": "2025-12-09T15:05:52-05:00",
-      "section": "Canada",
-      "summary_auto": "Liberal MPs on the House justice committee backed a Bloc Québécois proposal to remove a religious exemption from Canada’s hate speech laws — after the suggestion initially appeared to halt the government's anti-hate legislation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "442e7136957471c81ee1eb239e791dcae3ec2c6b",
-      "url": "https://www.cbc.ca/news/canada/london/police-conclude-investigation-into-crash-that-killed-4-students-teacher-from-walkerton-ont-no-charges-laid-9.7009598?cmp=rss",
-      "title": "No charges laid in crash that killed 4 students and teacher from Walkerton, Ont.: police",
-      "published_at": "2025-12-09T15:01:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Seven months after four students and their teacher were killed in a multi-vehicle crash while returning home to Walkerton, Ont. from a high school softball tournament, provincial police have ended their investigation and said no charges will be laid.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f17e3f23ca7a40bac2d01026f5e5ec501f411c0",
-      "url": "https://www.cbc.ca/news/business/air-transat-pilots-tentative-deal-9.7009203?cmp=rss",
-      "title": "Air Transat, pilots' union reach tentative deal to avert strike, airline's parent company says",
-      "published_at": "2025-12-09T14:25:05-05:00",
-      "section": "Business",
-      "summary_auto": "Air Transat passengers breathed a sigh of relief Tuesday evening after the company reached a tentative deal with its pilot union, narrowly avoiding a strike on the cusp of the busy holiday travel period.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "413444b26e2f420f07bcaa06b28792bfdd62a409",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-egypt-jet-9.7009396?cmp=rss",
-      "title": "Cost of Carney's Egypt summit flight ballooned to $736K with no air force plane available",
-      "published_at": "2025-12-09T13:48:16-05:00",
-      "section": "Canada",
-      "summary_auto": "Prime Minister Mark Carney’s last-minute trip to a Gaza peace summit in Egypt in October cost Canadian taxpayers over $736,466 — more than three times higher than it would have been if the Royal Canadian Air Force had been able to supply a plane.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "92dc56381884ada3c023a5cc4666bd95aae9e4c2",
-      "url": "https://www.cbc.ca/player/play/9.7009481?cmp=rss",
-      "title": "How Canada’s Big 6 banks made a ton of money in 2025 | About That",
-      "published_at": "2025-12-09T13:16:23-05:00",
-      "section": "Canada",
-      "summary_auto": "Canada's six largest banks have released their earnings for the 2025 fiscal year, and the results have blown past expectations. Andrew Chang breaks down financial statements from BMO, CIBC, National Bank, RBC, Scotiabank and TD to explain what's driving the gains. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4178fdfb318e1969109c119073213c205bb2ccae",
-      "url": "https://www.cbc.ca/news/canada/ottawa/patients-seeking-doctors-losing-faith-in-ontario-s-centralized-waitlist-9.7009116?cmp=rss",
-      "title": "Patients seeking doctors losing faith in Ontario's centralized waitlist",
-      "published_at": "2025-12-09T13:02:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario's auditor general found Health Care Connect is failing to match patients with primary care providers. Meanwhile, some clinics are filling their own rosters.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "78a69b76c72ff25a9056dee610a7565eb3048b39",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/potash-mining-tariffs-fertilizer-9.7008646?cmp=rss",
-      "title": "Trump's threats to tariff Canadian fertilizer imports could hurt Sask. potash industry",
-      "published_at": "2025-12-09T12:52:09-05:00",
-      "section": "Canada",
-      "summary_auto": "Donald Trump’s threats to tariff Canadian fertilizer imports could damage Saskatchewan’s potash industry if demand for the mineral critical in making fertilizer drops off, according to a University of Saskatchewan professor.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.932,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e994ce6676d7e92c40a4a6e7c3ffa4a3865dde53",
-      "url": "https://www.cbc.ca/radio/asithappens/nigeria-kidnappings-schools-9.7009341?cmp=rss",
-      "title": "Armed kidnappings are keeping thousands of Nigerian children out of school",
-      "published_at": "2025-12-09T12:51:26-05:00",
-      "section": "World",
-      "summary_auto": "Sending children to school has become too dangerous for many families in Nigeria, where armed kidnappings have become too common.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa6c233200d5b8f665d7184b69f7db035d4def15",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/sipeknekatik-first-nation-bans-houston-cabinet-ministers-9.7009262?cmp=rss",
-      "title": "N.S. First Nation bans premier, cabinet ministers from band property 'as undesirables'",
-      "published_at": "2025-12-09T12:22:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Sipekne’katik First Nation is once again chastising the Houston government and says that the premier and two of his cabinet ministers are not welcome on reserve lands. The premier's office says it takes the message as a threat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.822,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa6c233200d5b8f665d7184b69f7db035d4def15",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/sipeknekatik-first-nation-bans-houston-cabinet-ministers-9.7009262?cmp=rss",
-      "title": "Sipekne’katik First Nation bans Houston, cabinet ministers in scathing rebuke",
-      "published_at": "2025-12-09T12:22:08-05:00",
-      "section": "Canada",
-      "summary_auto": "Sipekne’katik First Nation is once again chastising the Houston government and says that the premier and two of his cabinet ministers are not welcome on reserve lands. The premier's office says it takes the message as a threat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.822,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "55a9ff994fddf3b5a05f29cfc205f6d1ed1ac377",
-      "url": "https://www.cbc.ca/news/politics/kirsten-hillman-stepping-down-9.7009333?cmp=rss",
-      "title": "Kirsten Hillman, Canada’s longtime ambassador to the U.S., is stepping down",
-      "published_at": "2025-12-09T12:13:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "75e852cddb033f277ad2bc9ec4f16395e0bdb3d1",
-      "url": "https://www.cbc.ca/player/play/9.7009331?cmp=rss",
-      "title": "Dylan Cease says decision to join AL champion Blue Jays was 'inevitable'",
-      "published_at": "2025-12-09T11:47:50-05:00",
-      "section": "Canada",
-      "summary_auto": "At a news conference on Tuesday, the Blue Jays' newest starting pitcher Dylan Cease spoke about why he signed with Toronto. The right-hander inked a seven-year deal worth $210 million US, the largest free-agent contract in team history.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "46fc44e30f0bf22a3ee7a378858f11ff706eb55b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-island-navy-member-rescued-from-water-9.7009128?cmp=rss",
-      "title": "Naval member rescued off Vancouver Island after spending more than 2 hours in water",
-      "published_at": "2025-12-09T11:46:16-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Maritime Forces Pacific says the Joint Rescue Co-ordination Centre in Victoria was alerted to the person falling overboard from an inflatable boat at about 2:45 p.m. Monday. They spent two hours in the water before being rescued.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5683838f79682bee23b72d3a94f9ac4695bed238",
-      "url": "https://www.cbc.ca/news/canada/hamilton/thorold-cemetery-muslim-burial-9.7009179?cmp=rss",
-      "title": "Family of 18-year-old Niagara, Ont. woman told by cemetery they won't accommodate Muslim burial",
-      "published_at": "2025-12-09T11:40:32-05:00",
-      "section": "Canada",
-      "summary_auto": "The family of a young Niagara woman who died in a car accident has been told she won’t be buried in their local cemetery because it won’t accommodate Muslim burial traditions, their imam says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7cdd8e80ecb93fe4110831851c1e38237e394454",
-      "url": "https://www.cbc.ca/player/play/9.7009284?cmp=rss",
-      "title": "What’s happening between Thailand and Cambodia?",
-      "published_at": "2025-12-09T11:34:54-05:00",
-      "section": "World",
-      "summary_auto": "The latest violence between Thailand and Cambodia is part of a long conflict over territory near their shared border. This week’s clashes threaten a fragile ceasefire that was brokered back in October. CBC’s Salimah Shivji explains how we got here.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0639f62e4625ea2c3c52ce3b751de35004c8af42",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-heavy-rainfall-orange-warning-9.7009141?cmp=rss",
-      "title": "Atmospheric river to bring heavy rain to B.C.'s South Coast, orange warning issued for Fraser Valley",
-      "published_at": "2025-12-09T11:30:07-05:00",
-      "section": "Canada",
-      "summary_auto": "An atmospheric river headed for B.C. 's South Coast will bring significant rainfall to parts of the Lower Mainland. It's prompting Environment and Climate Change Canada to issue an orange warning, under its new colour-coded warning system, for parts of the Fraser Valley.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "50278d4b9d352802e23479100a69a25ac8acd907",
-      "url": "https://www.cbc.ca/news/world/au-social-ban-begins-9.7007357?cmp=rss",
-      "title": "Australia's social media ban for users under 16 has started, and young users have found workarounds",
-      "published_at": "2025-12-09T11:08:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Eyes around the world are turned to Australia as its world-first ban on social media for users under age 16 takes effect. The tough new law aims to block Australian children and younger teens from addictive platforms and harmful content online.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50278d4b9d352802e23479100a69a25ac8acd907",
-      "url": "https://www.cbc.ca/news/world/au-social-ban-begins-9.7007357?cmp=rss",
-      "title": "Australia's social media ban for users under 16 starts now",
-      "published_at": "2025-12-09T11:08:53-05:00",
-      "section": "World",
-      "summary_auto": "Eyes around the world are turned to Australia as its world-first ban on social media for users under age 16 takes effect. The tough new law aims to block Australian children and younger teens from addictive platforms and harmful content online.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
         "subjectivity_hint": "low"
       }
     }
