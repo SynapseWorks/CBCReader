@@ -1,27 +1,248 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-11T09:18:24.328559-05:00",
+  "generated_at": "2025-12-11T15:18:10.359499-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "fc68b40286f71f4d749aeb509e6c2da5d7a5863f",
-      "url": "https://www.cbc.ca/news/politics/dominic-leblanc-cusma-deal-9.7011503?cmp=rss",
-      "title": "LeBlanc says he believes U.S. will keep CUSMA trade deal with Canada, Mexico",
-      "published_at": "2025-12-11T04:00:14-05:00",
+      "id": "704c44554fc8621e5749cca01bb82f5f000e55f6",
+      "url": "https://www.cbc.ca/news/politics/pier-21-ceo-departure-9.7012253?cmp=rss",
+      "title": "National museum CEO leaves role after report alleged she mistreated staff for over a decade",
+      "published_at": "2025-12-11T09:38:28-05:00",
       "section": "Top Stories",
-      "summary_auto": "The minister in charge of Canada-U.S. trade says he has no reason to believe the Trump administration is preparing to tear up the free trade agreement with Canada and Mexico, even though the U.S. president and some of his associates have suggested they may consider withdrawing from the pact.",
+      "summary_auto": "A letter sent to stakeholders and staff at the Canadian Museum of Immigration at Pier 21 in Halifax said Marie Chapman was leaving her role immediately.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.649,
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9966ffbcd6fbccc09c66d7ea82f51d651d3e42aa",
+      "url": "https://www.cbc.ca/news/canada/toronto/wife-ontario-lawyer-testifies-bail-hearing-9.7012096?cmp=rss",
+      "title": "Wife of Ontario lawyer arrested in Ryan Wedding case testifies at bail hearing",
+      "published_at": "2025-12-11T08:38:07-05:00",
+      "section": "Canada",
+      "summary_auto": "The wife of an Ontario lawyer allegedly involved in a transnational drug smuggling ring told his bail hearing Thursday she never saw her husband receive luxurious gifts or suspicious amounts of cash from clients in their decades together.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f08b08f39fcb6d48889783e05399965a41a98bc4",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-9.7011974?cmp=rss",
+      "title": "'Can I just not feed at all?': Texts indicate couple in Ontario murder trial withheld food from boys",
+      "published_at": "2025-12-11T08:30:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5a169709216835efe91fe219b0a8dfd9f0d284a7",
+      "url": "https://www.cbc.ca/news/canada/trump-trade-tariffs-cusma-usmca-ambassador-hillman-9.7011950?cmp=rss",
+      "title": "Trump administration won't tear up CUSMA, says Canada's ambassador to U.S.",
+      "published_at": "2025-12-11T08:28:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's lead negotiator in trade talks with the U.S. is downplaying signals from the Trump administration that it's considering breaking up the three-way North American free trade agreement into separate deals with Mexico and Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9dbe54445d72b2803799e256e6947d4f5ddc9e3c",
+      "url": "https://www.cbc.ca/news/canada/toronto/tps-update-historical-homicides-9.7012021?cmp=rss",
+      "title": "Toronto police ID killer in 3 homicide cold cases involving young women",
+      "published_at": "2025-12-11T08:10:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Toronto police say DNA testing has identified Kenneth Smith, who died in Windsor in 2019, as the killer of three women in Toronto between 1982 and 1997.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.922,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0d3944e0b2c3f1efb04fcd672a403b460ed2899",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-treaty-8-chiefs-demand-pause-on-pipeline-agreement-threaten-legal-action-9.7011963?cmp=rss",
+      "title": "Alberta Treaty 8 chiefs demand pause on pipeline agreement, threaten legal action",
+      "published_at": "2025-12-11T07:53:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Treaty 8 First Nations chiefs spoke in Ottawa Thursday, calling for a pause on the pipeline memorandum of understanding until they are consulted and sign off on the potential project. They're threatening legal action if that doesn't happen.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e03e32b764a8f82d6a746f74edfc563ed02a468",
+      "url": "https://www.cbc.ca/sports/olympics/russia-youth-athletes-complete-flag-anthem-ioc-9.7011984?cmp=rss",
+      "title": "IOC urges sports bodies to let Russian youth teams, athletes compete with flag and anthem",
+      "published_at": "2025-12-11T07:35:19-05:00",
+      "section": "World",
+      "summary_auto": "The International Olympic Committee took a big step toward reintegrating Russia and Belarus into world sports Thursday by advising governing bodies to let the countries' youth teams and athletes compete with their full identity of national flag and anthem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e2bafbc269d83a3b0062e359c0aeaab55a76e730",
+      "url": "https://www.cbc.ca/news/health/vaccines-autism-who-9.7011949?cmp=rss",
+      "title": "No link between vaccines and autism, WHO reaffirms",
+      "published_at": "2025-12-11T07:25:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The World Health Organization's vaccine safety committee said Thursday that new reviews of scientific evidence found no link between vaccines and autism spectrum disorder, reaffirming conclusions reached more than two decades ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6d525ca9626399ac12ddea5814bd86fd7daad585",
+      "url": "https://www.cbc.ca/news/canada/manitoba/hbc-royal-charter-sold-thomsons-westons-9.7011794?cmp=rss",
+      "title": "Court approves $18M sale of HBC royal charter to Thomsons, Westons",
+      "published_at": "2025-12-11T07:17:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two of Canada's wealthiest families have cleared the final hurdle on the road to buying and donating the royal charter that created the Hudson's Bay Co.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c49724779a06625e24937669bfaad5320ddbc863",
+      "url": "https://www.cbc.ca/news/business/canada-trade-surplus-9.7011913?cmp=rss",
+      "title": "Canada posts small trade surplus in September after months of deficits",
+      "published_at": "2025-12-11T06:44:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada posted a small monthly international trade surplus in September, reversing a trend of seven consecutive months of deficits, data showed on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "47cb62b38fb14c9a17e2a1bad7c85efeed299631",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-ont-woman-charged-with-stealing-thousands-of-dollars-worth-of-jellycat-toys-9.7011895?cmp=rss",
+      "title": "Guelph, Ont., woman charged with stealing thousands of dollars worth of Jellycat toys",
+      "published_at": "2025-12-11T06:23:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A woman has been arrested and charged after thousands of dollars worth of stolen toys were recovered from a Guelph, Ont., residence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2eba4fa197d7a3ce2d45cce10efaf25ae243d132",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/video-research-orcas-dolphins-collaboration-forage-salmon-9.7011016?cmp=rss",
+      "title": "Orcas and dolphins caught on video collaborating to hunt salmon",
+      "published_at": "2025-12-11T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Researchers from Dalhousie University were trying to study how northern resident orcas find salmon to eat, but they ended up finding an unexpected symbiosis with another species — dolphins.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e7f16a1188b38a161236fbbd481ac10251fb2285",
+      "url": "https://www.cbc.ca/news/business/disney-openai-1b-deal-star-wars-marvel-9.7011798?cmp=rss",
+      "title": "Disney to invest $1B US in OpenAI, license Marvel, Star Wars characters for Sora tool",
+      "published_at": "2025-12-11T05:59:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Walt Disney is investing $1 billion US in OpenAI and will let the startup use characters from Star Wars, Pixar and Marvel franchises in its Sora AI video and image generator, a crucial deal that could reshape how Hollywood makes content.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "374bcf10729fa230fa6056463255193299ae78cf",
+      "url": "https://www.cbc.ca/news/canada/sudbury/sault-ste-marie-mpp-queens-park-chris-scott-9.7011791?cmp=rss",
+      "title": "‘My job hasn’t changed’: Sault Ste. Marie MPP continues work at Queen’s Park while facing assault charges",
+      "published_at": "2025-12-11T05:58:09-05:00",
+      "section": "Canada",
+      "summary_auto": "Sault Ste. Marie MPP Chris Scott says he’s continuing his work at Queen’s Park despite facing charges of assault and assault with a weapon — and despite being removed from the Progressive Conservative caucus earlier this fall.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.931,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4da7d5b930564db15edf56731ec5ee0bc547419b",
+      "url": "https://www.cbc.ca/news/canada/ottawa/via-rail-toronto-ottawa-brockville-9.7011570?cmp=rss",
+      "title": "Via Rail passengers finally on the move after being stranded overnight in Brockville, Ont.",
+      "published_at": "2025-12-11T04:45:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0bdfcf1caa0696d0b47372e13212e5874b7d075",
+      "url": "https://www.cbc.ca/news/canada/calgary/ai-driving-up-ram-price-9.7011003?cmp=rss",
+      "title": "AI is skyrocketing the price of RAM. Computers, phones and tablets could be next",
+      "published_at": "2025-12-11T04:41:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "If you've been in the market recently for RAM, you've probably noticed a major spike in prices as memory manufacturers pivot more of their production capacity away from consumer products to supplying AI companies instead, which are rapidly building out data centres that need massive amounts of memory to operate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4da7d5b930564db15edf56731ec5ee0bc547419b",
+      "url": "https://www.cbc.ca/news/canada/ottawa/via-rail-toronto-ottawa-brockville-9.7011570?cmp=rss",
+      "title": "Via Rail passengers make it to Ottawa after being stranded overnight in Brockville, Ont.",
+      "published_at": "2025-12-11T04:20:20-05:00",
+      "section": "Canada",
+      "summary_auto": "Via Rail passengers travelling from Toronto to Ottawa were stranded for 12 hours overnight after an earlier train broke down near Brockville, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "151c3c3912fc9cad837023d533b9d0fe935e9136",
+      "url": "https://www.cbc.ca/news/canada/windsor/potentially-destructive-bark-beetle-first-united-states-detroit-airport-9.7011511?cmp=rss",
+      "title": "‘Potentially destructive’ bark beetle found at Detroit airport — a 1st in U.S.: border officials",
+      "published_at": "2025-12-11T03:29:39-05:00",
+      "section": "World",
+      "summary_auto": "The roughly three-millimetre insect was found in bark from Ivory Coast and was brought in by a passenger heading to Texas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
       "id": "f03ea0e345e75b0803c7723f01b4a2b7a518ea76",
       "url": "https://www.cbc.ca/news/world/gaza-storm-byron-floods-tents-9.7011488?cmp=rss",
-      "title": "Baby dies of exposure after storm Byron floods Gaza tents, medics say",
+      "title": "Baby dies of exposure after winter storm floods Gaza tents, medics say",
       "published_at": "2025-12-11T03:12:25-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Torrential rain swept across the Gaza Strip on Thursday, flooding hundreds of tents sheltering families displaced by two years of war and leading to the death of a baby girl due to exposure, local health officials said.",
       "bias_heuristic": {
         "article_type": "News",
@@ -56,54 +277,28 @@
       }
     },
     {
-      "id": "610d0ae67fa62e6da4114412d053bcbe5945a515",
-      "url": "https://www.cbc.ca/news/world/michigan-wolverines-coach-moore-fired-9.7011417?cmp=rss",
-      "title": "Sherrone Moore fired as Michigan football coach for inappropriate relationship, detained by police",
-      "published_at": "2025-12-11T01:21:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Sherrone Moore was jailed on Wednesday, according to court records, just hours after he was fired as University of Michigan football coach for what the university said was an \"inappropriate relationship with a staff member.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.92,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f41ca037fc8687f8585c524e5c065a898a335403",
-      "url": "https://www.cbc.ca/sports/hockey/canada-us-women-s-hockey-rivalry-series-9.7011416?cmp=rss",
-      "title": "U.S. drubs Canada 10-4 in Rivalry Series hockey game in Edmonton",
-      "published_at": "2025-12-11T01:12:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Kelly Pannek and Abbey Murphy each scored twice for the United States in a 10-4 win over Canada in a Rivalry Series game on Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dfb29ca9776e774c7c26d25604ba75dac5097853",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/indigenous-fashion-designers-vendors-waiting-payment-fashionative-show-9.6957186?cmp=rss",
-      "title": "Indigenous fashion models, vendors still waiting for payment after working Sask. fashion show",
+      "id": "ddcc1699cc34f464005256670a000f1dd0a20ac3",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/prosperity-project-separatist-meetings-9.7010484?cmp=rss",
+      "title": "Saskatchewan group seeking independence from Canada holding meetings across the province",
       "published_at": "2025-12-11T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Indigenous models and vendors say they're out hundreds of dollars after participating in a Regina fashion show this fall. The event's organizer says the money is on the way.",
+      "summary_auto": "A group promoting the idea of Saskatchewan separating from Canada says its public information sessions are drawing crowds. About 200 people showed up to a recent Saskatchewan Prosperity Project meeting just outside Saskatoon.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.361,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "7a7820c1ab57a6a8cf1ec1ec784acc9ccb1323d7",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/southern-bc-atmospheric-river-warnings-9.7010424?cmp=rss",
-      "title": "Evacuation orders issued for hundreds in Abbotsford, B.C., amid flood warnings",
+      "id": "e5402cd5f649b0e2e1509a95112fcd1c2bb566a4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fraser-valley-flooding-risk-dec-11-9.7011557?cmp=rss",
+      "title": "Here's what you need to know about B.C.'s Fraser Valley flood risk",
       "published_at": "2025-12-11T00:46:22-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": -0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -112,7 +307,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/african-nova-scotian-health-care-9.7010140?cmp=rss",
       "title": "How this team is transforming health care for African Nova Scotian women",
       "published_at": "2025-12-11T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "The Nova Scotia Sisterhood aims to provide culturally sensitive health-care services to Black women and gender-diverse individuals. The team is working to break down some of the systemic barriers that exist for African Nova Scotians trying to navigate the health-care system.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,81 +316,16 @@
       }
     },
     {
-      "id": "8c7e03ab67ee3ea1168a575886e792c1862a27f6",
-      "url": "https://www.cbc.ca/news/canada/toronto/metal-hamburgers-burlington-9.7009484?cmp=rss",
-      "title": "Metal found in hamburgers during school-ordered lunch in Burlington, Ont.",
-      "published_at": "2025-12-11T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Two parents are speaking out after students at their children's school in Burlington, Ont., say they found metal in hamburgers the school ordered from a local chain restaurant.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "daa28e97ce63cc2a5c804683ec7e7db76055cd0f",
-      "url": "https://www.cbc.ca/news/canada/london/months-after-fatal-crash-legacies-of-4-walkerton-ont-students-and-their-teacher-live-on-9.7007386?cmp=rss",
-      "title": "Months after fatal crash, legacies of 4 Walkerton, Ont., students and their teacher live on",
-      "published_at": "2025-12-11T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In the seven months since a crash that killed a teacher and four teenagers from a Walkerton, Ont., high school, several funds and foundations have been set up to keep memories of the five alive. \"The legacy is still there,\" says Dan Rourke, dad of one of the students who died.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b2a629753a146a60d9c42c7e45237d976f6172a2",
-      "url": "https://www.cbc.ca/news/politics/colt-modular-assault-rifles-army-9.7011113?cmp=rss",
-      "title": "New rifles on the way for Canada's soldiers as defence spending ramps up",
+      "id": "dfc6ac6dbc812c54b28dfd0b4084d39c57c09f1c",
+      "url": "https://www.cbc.ca/news/canada/first-person-side-hustling-9.7007706?cmp=rss",
+      "title": "I took on a second job as a single parent to make ends meet. Somehow, it became a lifelong habit",
       "published_at": "2025-12-10T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Canadian Army will start to replace its entire stock of assault rifles, starting next year. Internal documents obtained by CBC News show a contract under the Canadian Modular Assault Rifle program is imminent. The deal is expected to boost production at a Canadian arms maker as part of the federal government’s drive to boost the defence industrial base.",
+      "summary_auto": "Lynn A. Farquhar says she fed, clothed and housed her children with help from the gig economy. Now that they're adults, she reflects on why she can't stop side hustling.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd0fb5bd56e3e48bd0be7d9cf8e585f919ff33a4",
-      "url": "https://www.cbc.ca/radio/frontburner/should-everybody-be-taking-ozempic-9.7010788?cmp=rss",
-      "title": "Should everybody be taking Ozempic?",
-      "published_at": "2025-12-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "We examine the rise and risks of blockbuster drugs like Ozempic, after the WHO conditionally recommended GLP-1s for the long-term treatment of obesity.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
+        "sentiment": 0.556,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0972c0e640194a711d79fc18b46970fe0b3eddff",
-      "url": "https://www.cbc.ca/news/science/2026-geminids-meteor-shower-9.7008967?cmp=rss",
-      "title": "Bundle up and look up! The annual Geminid meteor shower is upon us",
-      "published_at": "2025-12-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Baby, it’s cold outside — but it’s worth putting on that heavy winter coat, scarf and boots and heading out for one of the best meteor showers of the year: the Geminids.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.857,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7a5fd44f9bbb800accc9df1d0ca782f1ed1c350b",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-doctors-bill-2-ipam-millions-9.7010641?cmp=rss",
-      "title": "Quebec's health reform didn't just anger doctors. It left hundreds of millions in funding in limbo",
-      "published_at": "2025-12-10T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds of millions of dollars meant to be invested in Quebec’s beleaguered health-care network remains in limbo more than a month after the Legault government abolished the institute overseeing the funds without warning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.617,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -225,16 +355,16 @@
       }
     },
     {
-      "id": "491875194b8c0e95557efecd43ee5453bc3e2be8",
-      "url": "https://www.cbc.ca/news/canada/north/nunavik-record-tuberculosis-2025-9.7010298?cmp=rss",
-      "title": "Nunavik ends year with record number of TB cases — and one of the highest rates in the world",
-      "published_at": "2025-12-10T22:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As of Dec. 10, the region has recorded 112 active cases – the highest reported level in recent history. Provincial and federal officials say ongoing discussions about eliminating tuberculosis across Inuit Nunangat are going well.",
+      "id": "0972c0e640194a711d79fc18b46970fe0b3eddff",
+      "url": "https://www.cbc.ca/news/science/2026-geminids-meteor-shower-9.7008967?cmp=rss",
+      "title": "Bundle up and look up! The annual Geminid meteor shower is upon us",
+      "published_at": "2025-12-10T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Baby, it’s cold outside — but it’s worth putting on that heavy winter coat, scarf and boots and heading out for one of the best meteor showers of the year: the Geminids.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
+        "sentiment": 0.857,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -255,7 +385,7 @@
       "url": "https://www.cbc.ca/news/politics/museum-of-immigration-ceo-behaviour-9.7011235?cmp=rss",
       "title": "Report alleges national museum CEO mistreated staff, called leadership team 'sluts'",
       "published_at": "2025-12-10T16:13:06-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Public Sector Integrity Commissioner Harriet Solloway found that Marie Chapman, who holds the most senior job at the Canadian Museum of Immigration at Pier 21 in Halifax, engaged in a pattern of behaviour over a decade that caused emotional harm to employees.",
       "bias_heuristic": {
         "article_type": "News",
@@ -273,123 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f55408b956ba7a1903f85a1893f4de9cd215d643",
-      "url": "https://www.cbc.ca/news/health/influenza-covid-december-2025-9.7011046?cmp=rss",
-      "title": "Holiday precautions to spread cheer, not germs",
-      "published_at": "2025-12-10T14:12:44-05:00",
-      "section": "Health",
-      "summary_auto": "Health officials are reminding Canadians to maintain healthy habits during the holiday season, as influenza leads to more school  absences  and  hospitalizations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c40e3b5d688ac8922f08bdaf13868c7863c8b67",
-      "url": "https://www.cbc.ca/news/canada/calgary/lethbridge-attempted-murder-brothers-9.7011080?cmp=rss",
-      "title": "Alberta boy, 12, pleads guilty to attempted murder of 7-year-old brother",
-      "published_at": "2025-12-10T13:50:04-05:00",
-      "section": "Canada",
-      "summary_auto": "A 12-year-old Lethbridge, Alta., boy who “had been researching murder on YouTube” before he stabbed his seven-year-old brother nine times, pleaded guilty to attempted murder Wednesday afternoon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.974,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0184a3c9929052b6d876723920d21bdf3c965817",
-      "url": "https://www.cbc.ca/news/world/gaza-aid-deliveries-9.7011067?cmp=rss",
-      "title": "Gaza aid deliveries falling short of ceasefire terms: AP analysis",
-      "published_at": "2025-12-10T13:48:14-05:00",
-      "section": "World",
-      "summary_auto": "Aid deliveries into Gaza are falling far short of the amount called for under the U.S.-brokered ceasefire, according to an Associated Press analysis of the Israeli military's figures as humanitarian groups say the shortfall is severely impacting the strip's two million people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3d503fff5c60a515c6d3dafe42cb35907aeb5bd1",
-      "url": "https://www.cbc.ca/news/climate/monsoon-rains-climate-change-9.7009170?cmp=rss",
-      "title": "Climate change supercharged cyclone damage in parts of Asia, study finds",
-      "published_at": "2025-12-10T13:22:55-05:00",
-      "section": "World",
-      "summary_auto": "Deadly cyclones with torrential rains are supercharged by warming temperatures, says a new report by the World Weather Attribution group. At least 1,600 people were killed after Cyclones Senyar and Ditwah tore through Malaysia, Thailand and Sri Lanka in late November.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d394db563c6e5cbebcedfee3ec0779f04c64ef33",
-      "url": "https://www.cbc.ca/news/canada/manitoba/alison-muise-trial-closing-arguments-9.7010750?cmp=rss",
-      "title": "'Profound failure of care' led to death of Winnipeg infant who had meth in bloodstream, prosecutor argues",
-      "published_at": "2025-12-10T12:45:20-05:00",
-      "section": "Canada",
-      "summary_auto": "A prosecutor says a constellation of events in a Winnipeg home that included unsafe sleeping conditions, rampant drug use and the parents' tumultuous relationship shows a \"profound failure of care\" in the weeks leading up to the death of a three-month-old in 2022.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "91d3709b1d7e1b6f0c2f99966bd041388d75bbd8",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-flooding-fraser-valley-sumas-river-live-updates-9.7010864?cmp=rss",
-      "title": "Flooding in parts of B.C.’s Fraser Valley leads to major highway closures, state of emergency",
-      "published_at": "2025-12-10T11:48:08-05:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5cd06ff5dbf414bd18d588d05164bc2274eda25",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/man-accused-of-attempted-murder-was-discharged-from-involuntary-mental-health-order-family-says-9.7010787?cmp=rss",
-      "title": "Man accused of attempted murder was discharged from involuntary mental health order, family says",
-      "published_at": "2025-12-10T11:36:34-05:00",
-      "section": "Canada",
-      "summary_auto": "The family of a man charged with two counts of attempted murder says they were shocked to learn he'd been released from a community treatment order months ago, and say he was denied vital care before the near-fatal attacks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.944,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7225f52b294d72fea5652d46445d027201556ef7",
-      "url": "https://www.cbc.ca/news/politics/hoekstra-us-meddling-9.7010577?cmp=rss",
-      "title": "U.S. ambassador downplays fears of Trump administration meddling in Canadian politics",
-      "published_at": "2025-12-10T10:12:11-05:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "65acbef07a186ea7b6249b0526aa8c4d3d9f7a62",
-      "url": "https://www.cbc.ca/news/world/israel-west-bank-settlements-9.7010575?cmp=rss",
-      "title": "Israel approves hundreds of housing units in 3 settlements in the occupied West Bank",
-      "published_at": "2025-12-10T09:40:01-05:00",
-      "section": "World",
-      "summary_auto": "Israel has given the go-ahead for the construction of 764 more houses in three Jewish settlements in the occupied West Bank, a decision likely to further stoke tensions as a watchdog group accused the Israeli government of moving toward \"de facto annexation\" of the Palestinian territory.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     }
