@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-14T15:16:05.999930-05:00",
+  "generated_at": "2025-12-14T20:14:53.307777-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "b576d0a131dee80697bc803aa960964ab910a2b8",
+      "url": "https://www.cbc.ca/news/world/syria-ambush-convoy-troops-arrests-9.7015591?cmp=rss",
+      "title": "Syria arrests 5 over suspected ties to deadly ambush of U.S., Syrian military convoy",
+      "published_at": "2025-12-14T11:12:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two U.S. army soldiers and a civilian interpreter were killed by an attacker who targeted a convoy of American and Syrian forces before being shot dead. The Syrian Interior Ministry has described the attacker as a member of the Syrian security forces suspected of sympathizing with ISIS.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.966,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8e266b92f24703b6b7959a769a0536853f5ed266",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-safety-jewish-community-australia-shooting-9.7015549?cmp=rss",
+      "title": "Montreal police to 'increase vigilance' after mass shooting at Hanukkah event in Australia",
+      "published_at": "2025-12-14T11:01:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Montreal police said they will increase their vigilance and visibility in areas where Jewish neighbourhood celebrations are taking place until the end of Hanukkah after a mass shooting in Australia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "cf9982602ecb0e10cbb2b12182c034e4e9c72531",
       "url": "https://www.cbc.ca/news/world/ukraine-nato-peace-deal-9.7015483?cmp=rss",
@@ -17,15 +43,15 @@
       }
     },
     {
-      "id": "b0c903f3e5d60ccb376c16d968bd2663f56c49c3",
-      "url": "https://www.cbc.ca/news/world/livestory/hanukkah-shooting-bondi-beach-9.7015320?cmp=rss",
-      "title": "Live updates: Australian minister says 16 people killed in Hanukkah event shooting",
+      "id": "1198f3e6e56493a997239854fb28519fbb69c255",
+      "url": "https://www.cbc.ca/news/world/bondi-beach-shooting-hanukkah-9.7015208?cmp=rss",
+      "title": "Australian police suspect father, son behind deadly mass shooting at Hanukkah event",
       "published_at": "2025-12-14T03:40:25-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.67,
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -52,19 +78,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.904,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "622bda52cd8c33c0794f18aea43cb51f79cfce9f",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-dec-14-2025-9.7012439?cmp=rss",
-      "title": "Hollywood streaming bidding war, high steaks beef prices and grandparent scams: CBC's Marketplace cheat sheet",
-      "published_at": "2025-12-14T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.893,
         "subjectivity_hint": "low"
       }
     },
@@ -117,6 +130,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.796,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7850e785a26be069a4ce900e5434f33a266fee30",
+      "url": "https://www.cbc.ca/news/entertainment/ticketmaster-livenation-accessible-tickets-9.7014950?cmp=rss",
+      "title": "Here's what it would take for concert tickets to be accessible again",
+      "published_at": "2025-12-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Most people are familiar with the pains associated with buying tickets for high-profile events: Face value tickets are expensive — if they’re even available, and tickets often sell out fast, only to pop up on resale sites, where they’re sold for exorbitant prices. But there are ways to push back, experts say, especially as people voice increasing dissatisfaction.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
         "subjectivity_hint": "medium"
       }
     },
@@ -196,19 +222,6 @@
         "article_type": "News",
         "sentiment": 0.717,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bd61a8c54b31773d6d31a27e92646537a968f6da",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-files-lawsuit-against-juul-vaping-9.7014961?cmp=rss",
-      "title": "B.C. files civil claim against e-cigarette giant, alleges company fuelled youth addiction",
-      "published_at": "2025-12-13T16:29:37-05:00",
-      "section": "Top Stories",
-      "summary_auto": "British Columbia has filed a civil claim against e-cigarette giant Juul Labs, saying the company fuelled youth nicotine addiction with “deceptive marketing practices.” Juul Labs denies the province's allegations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
       }
     }
   ]
