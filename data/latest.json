@@ -1,14 +1,274 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-14T20:14:53.307777-05:00",
+  "generated_at": "2025-12-15T09:19:43.294701-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8a6d6a307ed912cac567067451ca4a801b0d7813",
+      "url": "https://www.cbc.ca/news/business/canada-inflation-rate-unchanged-november-2025-9.7015905?cmp=rss",
+      "title": "Canada's inflation rate stayed flat in November but grocery prices grew at fastest pace in nearly 2 years",
+      "published_at": "2025-12-15T03:35:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's annual inflation rate was unchanged at 2.2 per cent in November, Statistics Canada said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c501ced731ffd14cf76b20f48d7d0cf4e048611f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/extortion-fbi-suspect-bishnoi-9.7012435?cmp=rss",
+      "title": "'You're going to die in Canada': U.S. suspect charged in cross-border extortion threats",
+      "published_at": "2025-12-15T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "American authorities have charged a suspect in California after a cross-border investigation tied him to death threats against a target of the Bishnoi gang who was living in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.961,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db7538016aee889d3b61cd7f9ecd9e03c01c4a0d",
+      "url": "https://www.cbc.ca/news/entertainment/rob-reiner-home-homicide-investigation-9.7015729?cmp=rss",
+      "title": "Director Rob Reiner and his wife found dead in Los Angeles home, AP source says",
+      "published_at": "2025-12-15T02:46:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ce599ccdd27e4adb732fc00516d3ad0f7d1779c7",
+      "url": "https://www.cbc.ca/news/entertainment/obit-rob-reiner-9.7015818?cmp=rss",
+      "title": "Rob Reiner, dead at 78, remembered as Hollywood legend in his own right after following father's footsteps",
+      "published_at": "2025-12-15T02:27:40-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Rob Reiner, the son of a comedy giant, who went on to become one himself as one of the pre-eminent filmmakers of his generation, with movies such as The Princess Bride, When Harry Met Sally and A Few Good Men, has died. He was 78.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2e5ae3b6244b0ad6dd2a2155b596aa44fcabd853",
+      "url": "https://www.cbc.ca/news/world/authorities-to-release-person-of-interest-detained-in-brown-university-shooting-9.7015784?cmp=rss",
+      "title": "Authorities to release person of interest detained in Brown University shooting",
+      "published_at": "2025-12-15T01:14:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A person of interest detained after a Brown University shooting that killed two students and injured nine will be released after law enforcement authorities determined there was no basis to keep the individual in custody, officials said Sunday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "151cd1ab81096ca8ff9e86ed82e20ec8685d06a9",
+      "url": "https://www.cbc.ca/news/canada/manitoba/more-canadians-head-to-mexico-for-winter-getaways-9.7011907?cmp=rss",
+      "title": "More Canadians head to Mexico for winter getaways",
+      "published_at": "2025-12-15T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Charles Birt and Merilee Mollard are doing what many other Canadians have decided to do — pulling the plug on their annual trip to Texas and spending their time and money in Canada and Mexico instead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4c2bedc9cc330ad1b46bb33a20b119a45a9fac55",
+      "url": "https://www.cbc.ca/news/canada/edmonton/frostbite-amputation-edmonton-9.7008065?cmp=rss",
+      "title": "Edmonton sees record increase in frostbite amputations, despite innovative treatment",
+      "published_at": "2025-12-15T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates call for more support and changes to policy as new data shows frostbite numbers increased again in Edmonton last winter, with the majority performed on people without housing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.611,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dbb54f26dc3604c5533d7a30da35711e5a81606e",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-teen-makes-record-in-stacking-12-plastic-caps-9.7015524?cmp=rss",
+      "title": "Ontario teen sets Guinness World record for stacking bottle caps using chopsticks",
+      "published_at": "2025-12-15T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Ever tried to stack up bottle caps? Against those shaking odds, Daniel Joseph Ireneo has made a Guinness World Record for stacking 12 caps in 30 seconds using chopsticks on Aug. 13, just a couple of days before his 14th birthday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df400cb0d3940ae7c997891271572df6fd7d425f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/power-customer-bill-cottage-9.7014113?cmp=rss",
+      "title": "Nova Scotia Power billed customer $500 for cottage that had power shut off for a year",
+      "published_at": "2025-12-15T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Eric Orde, 89, says the power bill for the cottage he’s owned outside of Annapolis Royal for 35 years is usually around $50 — not $500 — when it's not being used.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "08e58e4564c0d30ceace8211247f36cc2986bf1f",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stephenville-patternson-9.7013991?cmp=rss",
+      "title": "This N.L. doctor says the health-care system owes him $200K. Without it, he'll quit",
+      "published_at": "2025-12-14T23:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Neil Patterson says he signed a contract with Newfoundland and Labrador Health Services with the promise of incentives and bonuses that never came to fruition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fbecc67865f6f46073276e163ee83a0161225eca",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/no-fault-eviction-nl-9.7001565?cmp=rss",
+      "title": "Renters consider leaving N.L. after no-fault eviction ‘upheaved’ their lives",
+      "published_at": "2025-12-14T23:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "After moving to St. John's, N.L. from Ontario, a couple built a comfortable life in a two-bedroom apartment with their cat. Two years later a no-fault eviction forced them to start over.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "08e58e4564c0d30ceace8211247f36cc2986bf1f",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stephenville-patternson-9.7013991?cmp=rss",
+      "title": "A Stephenville doctor says the health-care system owes him $200K. Without it, he'll quit",
+      "published_at": "2025-12-14T23:30:00-05:00",
+      "section": "Health",
+      "summary_auto": "Neil Patterson says he signed a contract with Newfoundland and Labrador Health Services with the promise of incentives and bonuses that never came to fruition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4e14cb41ed1c10f273801065809634a42aeb0813",
+      "url": "https://www.cbc.ca/news/politics/canadian-mps-west-bank-visit-9.7015201?cmp=rss",
+      "title": "Liberal, NDP MPs to visit West Bank, connect with Palestinians",
+      "published_at": "2025-12-14T23:07:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e79af322c19012c79f00788a7a1ff71361f081ed",
+      "url": "https://www.cbc.ca/news/canada/toronto/housing-refugees-developer-9.7012473?cmp=rss",
+      "title": "Vacant upscale north Toronto homes should house low-income families, advocates say",
+      "published_at": "2025-12-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A commercial real estate developer well known for his philanthropic work, along with a ratepayers group and a local refugee shelter, are floating a plan to transform 10 vacant houses in a tiny north Toronto neighbourhood into temporary homes for low-income families.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fa465c5e3c641fad9398775ef1226610d09ce169",
+      "url": "https://www.cbc.ca/news/canada/montreal/alleged-fraud-network-montreal-cars-9.7013776?cmp=rss",
+      "title": "Documents link 2 Montreal rental car companies to millions in luxury car theft, fraud",
+      "published_at": "2025-12-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A group of Quebec business owners, including the owner of two Montreal-based car rental companies, are allegedly behind an elaborate criminal network involved in millions of dollars worth of fraud and car theft.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1eb7ac3232f56b5aebb0503fe631fd1f00486ba5",
+      "url": "https://www.cbc.ca/news/canada/ontario-jail-health-care-crisis-9.7012663?cmp=rss",
+      "title": "'It was fully ignored': This woman's medical emergency in Ontario jail reflects broader health-care crisis",
+      "published_at": "2025-12-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than a third of complaints filed by prisoners in Ontario jails this year were health-related, as medical staffing dropped by nearly 50 per cent and inmate populations kept rising, a CBC data analysis shows. One former inmate suffered a septic wound and a miscarriage while incarcerated.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.955,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7abb97d58b6762808adff297c8c238725ed94f8c",
+      "url": "https://www.cbc.ca/player/play/9.7015724?cmp=rss",
+      "title": "#TheMoment a 40-foot inflatable Santa spread Christmas cheer in Timmins, Ont.",
+      "published_at": "2025-12-14T17:08:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Marc Letourneau tells The National about the moment he set up a 40-foot tall (about 12 metres) inflatable Santa display at his home and helped spread the Christmas spirit in Timmins, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "337b18bc19616956bab8c307edf30181beb04565",
+      "url": "https://www.cbc.ca/news/world/jimmy-lai-hong-kong-china-verdict-9.7015714?cmp=rss",
+      "title": "Jimmy Lai, Hong Kong media tycoon and Beijing critic, found guilty of national security crimes",
+      "published_at": "2025-12-14T16:47:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "82e9786a6623153c0abf3b99bf2b9190abe1eced",
+      "url": "https://www.cbc.ca/news/canada/carney-criticized-for-british-spelling-9.7015702?cmp=rss",
+      "title": "Linguistic experts urge Carney government to stop using British spellings",
+      "published_at": "2025-12-14T15:49:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Promoters of Canadian English say the federal government is sending the wrong message to the world with its recent use of British spelling in official documents, including the 2025 federal budget.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6795f04b146cf540f9434ae2121a60f4f8ec8bf9",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-man-outruns-finch-lrt-9.7015667?cmp=rss",
+      "title": "Toronto man outruns newly-opened light rail train by 18 minutes",
+      "published_at": "2025-12-14T13:34:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Toronto man challenged the newly-opened Finch Light-Rail Transit to a race — and he won.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "b576d0a131dee80697bc803aa960964ab910a2b8",
       "url": "https://www.cbc.ca/news/world/syria-ambush-convoy-troops-arrests-9.7015591?cmp=rss",
       "title": "Syria arrests 5 over suspected ties to deadly ambush of U.S., Syrian military convoy",
       "published_at": "2025-12-14T11:12:01-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Two U.S. army soldiers and a civilian interpreter were killed by an attacker who targeted a convoy of American and Syrian forces before being shot dead. The Syrian Interior Ministry has described the attacker as a member of the Syrian security forces suspected of sympathizing with ISIS.",
       "bias_heuristic": {
         "article_type": "News",
@@ -21,207 +281,12 @@
       "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-safety-jewish-community-australia-shooting-9.7015549?cmp=rss",
       "title": "Montreal police to 'increase vigilance' after mass shooting at Hanukkah event in Australia",
       "published_at": "2025-12-14T11:01:09-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Montreal police said they will increase their vigilance and visibility in areas where Jewish neighbourhood celebrations are taking place until the end of Hanukkah after a mass shooting in Australia.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.557,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf9982602ecb0e10cbb2b12182c034e4e9c72531",
-      "url": "https://www.cbc.ca/news/world/ukraine-nato-peace-deal-9.7015483?cmp=rss",
-      "title": "Zelenskyy offers to drop NATO aspirations, remains against ceding territory to Russia",
-      "published_at": "2025-12-14T08:48:45-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy on Sunday voiced readiness to drop his country's bid to join NATO in exchange for Western security guarantees, but rejected the U.S. push for ceding territory to Russia as he held talks with U.S. envoys on ending the war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1198f3e6e56493a997239854fb28519fbb69c255",
-      "url": "https://www.cbc.ca/news/world/bondi-beach-shooting-hanukkah-9.7015208?cmp=rss",
-      "title": "Australian police suspect father, son behind deadly mass shooting at Hanukkah event",
-      "published_at": "2025-12-14T03:40:25-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "028b774708b6b0773a4cf760d65daf3aa86e3996",
-      "url": "https://www.cbc.ca/news/canada/calgary/westjet-seat-overhaul-pause-9.7014320?cmp=rss",
-      "title": "‘Luck of the draw’ for passengers with WestJet’s half-completed seating changes",
-      "published_at": "2025-12-14T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "WestJet is pressing pause on its overhaul of the seating arrangements, after completing about half of its fleet. One passenger says she noticed a considerable difference in legroom on her two WestJet flights on the same type of plane about a week apart.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79c8eec99be92ccc5a4cb9ef34a51d386b1b3289",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/lions-bay-landslide-anniversary-9.7015046?cmp=rss",
-      "title": "‘It’s really sad’: B.C. community still reeling 1 year after fatal landslide in Lions Bay",
-      "published_at": "2025-12-14T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It's been a year since Barbara and David Enns died after a landslide destroyed their home in the Village of Lions Bay. An RCMP investigation into the slide is ongoing, and the Enns' children and two neighbours have filed a lawsuit against the province, the municipality and another neighbour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.904,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "606de37423a4af04d31f4d9d79778f820f919b1d",
-      "url": "https://www.cbc.ca/news/world/person-of-interest-in-custody-brown-university-shooting-9.7015222?cmp=rss",
-      "title": "Person of interest in custody in deadly Brown University shooting, police say",
-      "published_at": "2025-12-14T02:31:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Police in Rhode Island say they have a person of interest in custody as they investigate the shooting at Brown University that killed two people and wounded nine others on Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "096600e8754be144ad0331755a44f4f394412694",
-      "url": "https://www.cbc.ca/sports/hockey/rivalry-series-us-canada-9.7015164?cmp=rss",
-      "title": "U.S. downs Canada 4-1 to sweep women's hockey Rivalry Series",
-      "published_at": "2025-12-14T00:05:25-05:00",
-      "section": "Canada",
-      "summary_auto": "Hilary Knight scored twice, including an empty-netter, to lead the United States to a 4-1 win over Canada in a women's hockey Rivalry Series game Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b7f0f7bfbf25902a8cada50a0a83a469b60bf7dc",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/goodenowe-moose-jaw-health-centre-als-9.7013950?cmp=rss",
-      "title": "Founder of Moose Jaw health centre suggests ‘ALS drug industry’ was behind CBC investigation of his business",
-      "published_at": "2025-12-14T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The man behind the Moose Jaw health centre that has claimed “a 100 per cent success rate in stopping the progression and in restoring function of people with ALS” says a recent CBC story about his company is evidence that he is seen as “a direct threat to the ALS drug industry.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3061ac0ea2567523b94b1d28b354086db9a7348d",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/jane-austen-atlantic-voice-250-anniversary-9.7010445?cmp=rss",
-      "title": "'Our Jane': N.S. Austen fans celebrate her 250th birthday, and her Halifax connection",
-      "published_at": "2025-12-14T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Literature lovers in the Halifax area have spent the last year joining a global celebration of their favourite author's big birthday. A new episode of Atlantic Voice explores the enduring appeal — and the outfits — of Jane Austen.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.796,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7850e785a26be069a4ce900e5434f33a266fee30",
-      "url": "https://www.cbc.ca/news/entertainment/ticketmaster-livenation-accessible-tickets-9.7014950?cmp=rss",
-      "title": "Here's what it would take for concert tickets to be accessible again",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Most people are familiar with the pains associated with buying tickets for high-profile events: Face value tickets are expensive — if they’re even available, and tickets often sell out fast, only to pop up on resale sites, where they’re sold for exorbitant prices. But there are ways to push back, experts say, especially as people voice increasing dissatisfaction.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "58d23fc0d309da63b1aba20db6ba4a437e4b06e9",
-      "url": "https://www.cbc.ca/news/science/astronauts-astrocup-9.7013746?cmp=rss",
-      "title": "One small step for periods in space, one giant leap for research in long-term space missions",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It may still be an uncomfortable subject for some, but periods are a real thing that people need to manage. But what do astronauts do in space? Well, they have some options, but now they may have one more.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.214,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "46b9593c3fbf2e04b2212d4addbe2c84ec9c0fc6",
-      "url": "https://www.cbc.ca/news/business/canadians-under-35-debt-relief-missed-payments-9.7012117?cmp=rss",
-      "title": "Canadians under 35 are debt-stressed — and buy now, pay later ubiquity isn't helping",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadians under 35 are seeking debt relief services in higher numbers and missing credit payments at higher rates. Student loans, first credit cards and slow wage growth aren't helping, but experts say the ubiquity of \"buy now, pay later\" plans are making the problem worse.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6147dc974c0b598fdf15189d12aa404375892112",
-      "url": "https://www.cbc.ca/news/canada/first-person-physician-with-rare-genetic-condition-9.7013070?cmp=rss",
-      "title": "Learning I had a rare genetic condition changed how I saw myself as a physician, woman and mom",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bethany Oeming has often fielded questions from people wondering what the secret was to her muscular body. At 36, when she was pregnant with her second child, she was diagnosed with a rare genetic mutation called familial partial lipodystrophy. Suddenly, what she thought was simply her “body type” was reframed as a lifelong medical condition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "49aaa21cae9633a2a035ad292ae4feb227663604",
-      "url": "https://www.cbc.ca/news/world/royal-year-review-king-charles-cancer-duke-of-edinburgh-award-christmas-9.7013964?cmp=rss",
-      "title": "A year of 'dramatic highs and lows': 2025's 'roller-coaster ride' for the Royals",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In the annals of Royal Family history, 2025 will be remembered as the year the monarch took the virtually unprecedented step of stripping his younger brother of his titles and honours. But as much as the scandal surrounding the former prince now known only as Andrew Mountbatten-Windsor garnered headlines, there were other notable moments this year that sent signals about the monarchy and its future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.485,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "33f0974cb59d32e455eba03a4e44f47e56729ae1",
-      "url": "https://www.cbc.ca/news/politics/recall-election-alberta-bc-9.7013963?cmp=rss",
-      "title": "Want to recall a Canadian politician? It's not easy — if it's even allowed where you live",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Only two provinces allow for the recall of politicians. But with the bar set high for the process, most politicians targeted are likely not in any jeopardy. Here's a closer look at recall legislation in Canada, its history, arguments for and against, and the chances of a recall succeeding.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.733,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1c989304844c76522a1438f51da9f316c30b5e1c",
-      "url": "https://www.cbc.ca/radio/going-on-and-off-antidepressants-safely-9.7012197?cmp=rss",
-      "title": "Thinking about going off an antidepressant? Here’s what experts want you to know about doing so safely",
-      "published_at": "2025-12-13T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "It's common knowledge that antidepressants are an established and accessible treatment for depression, but it's not always clear how long patients should stay on these medications — and what role therapy can play in the process of going off them safely.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.717,
-        "subjectivity_hint": "medium"
       }
     }
   ]
