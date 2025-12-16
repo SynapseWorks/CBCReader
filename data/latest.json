@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-15T15:17:48.009984-05:00",
+  "generated_at": "2025-12-15T20:13:48.569540-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "2fe53248d164fa732f5bba21336de8079c865e1f",
+      "url": "https://www.cbc.ca/news/world/trump-fentanyl-mass-destruction-executive-order-9.7017131?cmp=rss",
+      "title": "Trump declares fentanyl a 'weapon of mass destruction' with executive order",
+      "published_at": "2025-12-15T14:19:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump signed an executive order on Monday declaring fentanyl a weapon of mass destruction, a move that dramatically expands the U.S. government's authority to fight the synthetic opioid blamed for tens of thousands of American overdose deaths each year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.941,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6214e8ce5ce0074ec47efa321a7152691a37f3e",
+      "url": "https://www.cbc.ca/player/play/9.7016727?cmp=rss",
+      "title": "Quebec teachers say they’re targeted by violence, verbal abuse in schools",
+      "published_at": "2025-12-15T13:13:47-05:00",
+      "section": "Canada",
+      "summary_auto": "Teachers across the province are warning of increased violence directed toward them inside classrooms. A major teachers’ union released a survey documenting the trend and is reaching out to the province for help.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d7a61485a532a4fc8a055304b85dc47f6367dbbb",
+      "url": "https://www.cbc.ca/news/entertainment/nick-reiner-what-we-know-9.7016778?cmp=rss",
+      "title": "What we know about Nick Reiner, in custody following his parents' deaths",
+      "published_at": "2025-12-15T12:50:36-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Nick struggled with drug addiction and homelessness from the time he was a teenager, and made a film in his 20s alongside his dad about a young man's struggles with addiction. Los Angeles Police said Monday that Nick was in custody related to their death and was being held without bail.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ce3ec6cdc9133abd534957e441ed12e6fab10a3f",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-eu-membership-9.7016742?cmp=rss",
+      "title": "U.S. offers security guarantees to Kyiv, says Russia not opposed to Ukraine joining EU",
+      "published_at": "2025-12-15T11:44:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. has agreed to provide unspecified security guarantees to Ukraine as part of a peace deal to end Russia's nearly four-year war, and more talks are likely this weekend, U.S. officials said Monday following the latest discussions with Ukrainian President Volodymyr Zelenskyy in Berlin.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f83df977c09c73c69d8565c9562aca4f81f24c21",
+      "url": "https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-jail-death-9.7016459?cmp=rss",
+      "title": "Family of Ontario man whose 2016 jail death sparked inquest still waiting for apology from province",
+      "published_at": "2025-12-15T11:24:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "87614c1f7a24f115666e9a6bbe33ea06efeb6521",
+      "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-wta-newcomer-of-the-year-2025-9.7016787?cmp=rss",
+      "title": "Canadian Victoria Mboko named Women's Tennis Association top newcomer in 2025",
+      "published_at": "2025-12-15T11:11:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian tennis star Victoria Mboko has been named the WTA's newcomer of the year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8d46dfe96b84578538f32d35ffd86ec07da30460",
+      "url": "https://www.cbc.ca/news/politics/intelligence-military-spying-defence-9.7016723?cmp=rss",
+      "title": "Canadian military intelligence operative accused of leaking secrets released from custody",
+      "published_at": "2025-12-15T10:53:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A member of the Canadian military intelligence community accused of leaking sensitive information to a foreign entity has been released from military police custody. Master Warrant Officer Matthew Robar faces eight charges in connection with unspecified alleged incidents last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "02534636d29a9620200caaad2b18a5a88f8e1f09",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-not-selling-u-s-alcohol-for-charity-9.7016718?cmp=rss",
+      "title": "Ontario has no plans to sell off stored U.S. alcohol for charity, Ford says",
+      "published_at": "2025-12-15T10:26:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford says his government has no plan to sell off a stockpile of American alcohol sitting in storage to benefit charities over the holiday season, for fear it could harm local producers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e0c3805f9557015b6ad977763cdad1717e856e1f",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/teen-girl-evan-hardy-fire-pleads-guilty-attempted-murder-saskatoon-9.7016696?cmp=rss",
+      "title": "Saskatoon teen admits to lighting classmate on fire in 2024",
+      "published_at": "2025-12-15T10:16:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Saskatoon teen is admitting she planned and executed a fiery assault on a classmate at Evan Hardy Collegiate in September 2024.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "dc66604e7539948714c66065481ca09acbd4747d",
       "url": "https://www.cbc.ca/news/business/national-home-sales-november-2025-9.7016577?cmp=rss",
@@ -30,15 +147,41 @@
       }
     },
     {
+      "id": "527cb29bb80c2bebae5d37a04e27c81cc4564507",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hanukkah-menorah-lighting-stjohns-9.7015622?cmp=rss",
+      "title": "Triumph of light over darkness: St. John's celebrates first night of Hanukkah",
+      "published_at": "2025-12-15T09:09:41-05:00",
+      "section": "Canada",
+      "summary_auto": "The parking lot outside of the Viking Building in St. John's was full for a chilly Sunday evening, but vehicles filed in for a menorah lighting ceremony to celebrate the first night of Hanukkah.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.838,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "bb5cad13552a95de278e12672cf4f4b084b2712a",
       "url": "https://www.cbc.ca/news/world/iowa-national-guard-members-identified-syria-attack-9.7016578?cmp=rss",
       "title": "U.S. Army identifies 2 Iowa Guard members killed in weekend attack in Syria",
       "published_at": "2025-12-15T09:06:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The two Iowa National Guard members killed in a weekend attack that the U.S. military blamed on the Islamic State group in Syria were identified Monday.",
+      "section": "World",
+      "summary_auto": "The two Iowa National Guard members killed in a weekend attack in Syria that the U.S. military blamed on the Islamic State group were identified Monday and remembered as dedicated soldiers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.96,
+        "sentiment": -0.946,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cf3efdd4cb96100a4245e162c6dadf022fa1185b",
+      "url": "https://www.cbc.ca/sports/golf/scottie-scheffler-pga-tour-player-of-year-2025-tiger-woods-9.7016540?cmp=rss",
+      "title": "Scottie Scheffler named PGA Tour player of year for 4th straight time, joining Tiger Woods",
+      "published_at": "2025-12-15T08:54:10-05:00",
+      "section": "World",
+      "summary_auto": "Scottie Scheffler earned another comparison with Tiger Woods on Monday, joining him as the only players to win PGA Tour player of the year at least four times in a row.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -56,28 +199,28 @@
       }
     },
     {
-      "id": "2335c9903942d645d853c3f0e1ea1ee596c6df9c",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/mcdavid-nhl-players-reaction-olympic-rink-size-milan-cortina-9.7016400?cmp=rss",
-      "title": "Oilers captain McDavid, other NHL players unfazed by smaller Olympic rinks",
-      "published_at": "2025-12-15T08:01:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian standout Connor McDavid and several his NHL peers are not concerned the ice rinks for the Milan-Cortina Olympics in February will be smaller than what they are used to playing on.",
+      "id": "5db7fd2ef81240dac5cd1c0fe4fc90b456c239f3",
+      "url": "https://www.cbc.ca/news/world/new-years-eve-attack-plot-california-9.7016350?cmp=rss",
+      "title": "4 charged with plotting 'multiple' New Year's Eve bombing attacks in Southern California",
+      "published_at": "2025-12-15T07:55:35-05:00",
+      "section": "World",
+      "summary_auto": "Federal authorities said Monday that they foiled a plot to bomb multiple U.S. companies on New Year's Eve in Southern California, announcing the arrests of members of an extremist anti-capitalist and anti-government group.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.202,
+        "sentiment": -0.869,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "5db7fd2ef81240dac5cd1c0fe4fc90b456c239f3",
-      "url": "https://www.cbc.ca/news/world/new-years-eve-attack-plot-california-9.7016350?cmp=rss",
-      "title": "4 charged with plotting 'multiple' New Year’s Eve bombing attacks in Southern California",
-      "published_at": "2025-12-15T07:55:35-05:00",
-      "section": "World",
-      "summary_auto": "Federal authorities on Monday announced the arrests of four alleged members of an extremist group who are suspected of planning co-ordinated bombing attacks on New Year’s Eve across Southern California.",
+      "id": "d3674741fe4ac288daade4400ed19d80c0ee534c",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/menorah-lighting-jewish-community-event-hanukkah-waterloo-cambridge-kitchener-9.7013844?cmp=rss",
+      "title": "Menorah lighting a chance for this Jewish community in Ontario to 'feel a togetherness'",
+      "published_at": "2025-12-15T07:52:38-05:00",
+      "section": "Canada",
+      "summary_auto": "Members of the Jewish community in Waterloo, Ont., celebrated the first night of Hanukkah on Sunday by lighting a massive five-metre-high menorah, taking time to also reflect on the fatal shooting at Bondi Beach in Australia.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.886,
+        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -125,7 +268,7 @@
       "url": "https://www.cbc.ca/news/entertainment/reiners-homicide-investigation-9.7015895?cmp=rss",
       "title": "Rob Reiner's son in custody in connection with his parents' killings",
       "published_at": "2025-12-15T06:03:32-05:00",
-      "section": "World",
+      "section": "Entertainment",
       "summary_auto": "The son of filmmaker Rob Reiner was arrested on homicide charges after the actor-director and his wife were found dead in their Los Angeles home, a police official said Monday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -136,14 +279,14 @@
     {
       "id": "88d8d639a32e402d21a1f438dd067d5e7951fed4",
       "url": "https://www.cbc.ca/news/world/bondi-beach-australia-attack-victims-9.7015944?cmp=rss",
-      "title": "What we know about the victims in the Bondi Beach Hanukkah attack",
+      "title": "These are the victims killed and injured in the Bondi Beach attack",
       "published_at": "2025-12-15T05:39:51-05:00",
       "section": "World",
       "summary_auto": "Among the 15 victims of a mass shooting at Australia's Bondi Beach during an event for the Jewish festival of Hanukkah on Sunday were a rabbi, a Holocaust survivor and a 10-year-old girl, according to interviews, officials and local media reports.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -156,19 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "093069e95c8f621149855fdbb7eb21bc8a5a8a77",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-australia-attack-9.7016021?cmp=rss",
-      "title": "Montreal Jewish community aims to 'bring light' after deadly Hanukkah attack in Australia",
-      "published_at": "2025-12-15T05:09:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Montreal’s Jewish community held public Hanukkah candlelightings Sunday, coming together in the wake of a deadly attack on a celebration in Australia to show solidarity and resilience.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
         "subjectivity_hint": "low"
       }
     },
@@ -190,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/bondi-mass-shooting-hannukah-gunmen-hero-9.7015882?cmp=rss",
       "title": "What we know about Ahmed al-Ahmed, the Bondi Beach bystander who disarmed gunman",
       "published_at": "2025-12-15T04:48:37-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "The family of Ahmed al-Ahmed, a Syrian Muslim father of two who tackled one of the alleged attackers during the mass shooting on Sunday at Bondi Beach in Sydney, Australia, has spoken out, hailing their son as a \"hero.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -199,24 +329,11 @@
       }
     },
     {
-      "id": "92665ed07b5bda09a7705c06c8562a72b184c3e5",
-      "url": "https://www.cbc.ca/news/canada/manitoba/hanukkah-winnipeg-sydney-attack-9.7015792?cmp=rss",
-      "title": "Menorah lit in 'days of darkness' as Winnipeg Jews mark Hanukkah in wake of Sydney shooting",
-      "published_at": "2025-12-15T03:53:24-05:00",
-      "section": "Top Stories",
-      "summary_auto": "More than 100 people gathered for prayers and lit the first candle of the menorah in Winnipeg during a ceremony overshadowed by a deadly shooting in Australia hours earlier during a similar Hanukkah celebration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8a6d6a307ed912cac567067451ca4a801b0d7813",
       "url": "https://www.cbc.ca/news/business/canada-inflation-rate-unchanged-november-2025-9.7015905?cmp=rss",
       "title": "Canada's inflation rate stayed flat in November but grocery prices grew at fastest pace in nearly 2 years",
       "published_at": "2025-12-15T03:35:42-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Canada's annual inflation rate was unchanged at 2.2 per cent in November, Statistics Canada said on Monday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -225,68 +342,29 @@
       }
     },
     {
-      "id": "c501ced731ffd14cf76b20f48d7d0cf4e048611f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/extortion-fbi-suspect-bishnoi-9.7012435?cmp=rss",
-      "title": "'You're going to die in Canada': U.S. suspect charged in cross-border extortion threats",
-      "published_at": "2025-12-15T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "American authorities have charged a suspect in California after a cross-border investigation tied him to death threats against a target of the Bishnoi gang who was living in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.961,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96c2c4c2060da1f040dc6cc38b424a353fb2a741",
-      "url": "https://www.cbc.ca/news/entertainment/reiners-homicide-investigation-9.7015895?cmp=rss",
-      "title": "Rob Reiner's son arrested on homicide charges in connection with his parents' killing",
+      "id": "ed0ae095a55b30240173100a0ad8b9106e9bd9dd",
+      "url": "https://www.cbc.ca/news/world/trump-rob-reiner-trump-derangement-syndrome-9.7016720?cmp=rss",
+      "title": "Trump wildly claims Rob Reiner died of 'Trump derangement syndrome'",
       "published_at": "2025-12-15T02:46:11-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.922,
+        "sentiment": -0.802,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ce599ccdd27e4adb732fc00516d3ad0f7d1779c7",
-      "url": "https://www.cbc.ca/news/entertainment/obit-rob-reiner-9.7015818?cmp=rss",
-      "title": "Rob Reiner, dead at 78, remembered as Hollywood legend in his own right after following father's footsteps",
-      "published_at": "2025-12-15T02:27:40-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Rob Reiner, the son of a comedy giant, who went on to become one himself as one of the pre-eminent filmmakers of his generation, with movies such as The Princess Bride, When Harry Met Sally and A Few Good Men, has died. He was 78.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.893,
-        "subjectivity_hint": "medium"
       }
     },
     {
       "id": "f9cf0149de366d014b4427eb3de51d2fcd72f84f",
       "url": "https://www.cbc.ca/news/world/brown-shooting-monday-search-9.7015784?cmp=rss",
-      "title": "Authorities renew search for Brown University shooter after releasing person of interest",
+      "title": "Law enforcement hunting for Brown University gunman go door-knocking to ask about video",
       "published_at": "2025-12-15T01:14:32-05:00",
-      "section": "World",
-      "summary_auto": "Rhode Island officials renewed their search Monday for the gunman who killed two Brown University students and wounded nine others, a day after they released a person of interest and determined the evidence pointed in a different direction.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c2bedc9cc330ad1b46bb33a20b119a45a9fac55",
-      "url": "https://www.cbc.ca/news/canada/edmonton/frostbite-amputation-edmonton-9.7008065?cmp=rss",
-      "title": "Edmonton sees record increase in frostbite amputations, despite innovative treatment",
-      "published_at": "2025-12-15T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Advocates call for more support and changes to policy as new data shows frostbite numbers increased again in Edmonton last winter, with the majority performed on people without housing.",
+      "summary_auto": "Authorities knocked on doors Monday searching for any video there might be of the Brown University gunman, who could be seen in grainy footage walking away from the weekend attack that killed two students and wounded nine others.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.611,
-        "subjectivity_hint": "low"
+        "sentiment": -0.823,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -312,32 +390,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "df400cb0d3940ae7c997891271572df6fd7d425f",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/power-customer-bill-cottage-9.7014113?cmp=rss",
-      "title": "Nova Scotia Power billed customer $500 for cottage that had power shut off for a year",
-      "published_at": "2025-12-15T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Eric Orde, 89, says the power bill for the cottage he’s owned outside of Annapolis Royal for 35 years is usually around $50 — not $500 — when it's not being used.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "08e58e4564c0d30ceace8211247f36cc2986bf1f",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stephenville-patternson-9.7013991?cmp=rss",
-      "title": "This N.L. doctor says the health-care system owes him $200K. Without it, he'll quit",
-      "published_at": "2025-12-14T23:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Neil Patterson says he signed a contract with Newfoundland and Labrador Health Services with the promise of incentives and bonuses that never came to fruition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
         "subjectivity_hint": "low"
       }
     },
@@ -372,7 +424,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/housing-refugees-developer-9.7012473?cmp=rss",
       "title": "Vacant upscale north Toronto homes should house low-income families, advocates say",
       "published_at": "2025-12-14T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A commercial real estate developer well known for his philanthropic work, along with a ratepayers group and a local refugee shelter, are floating a plan to transform 10 vacant houses in a tiny north Toronto neighbourhood into temporary homes for low-income families.",
       "bias_heuristic": {
         "article_type": "News",
@@ -403,45 +455,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "db7538016aee889d3b61cd7f9ecd9e03c01c4a0d",
-      "url": "https://www.cbc.ca/news/entertainment/rob-reiner-home-homicide-investigation-9.7015729?cmp=rss",
-      "title": "Director Rob Reiner and his wife found dead in Los Angeles home, with homicide unit investigating",
-      "published_at": "2025-12-14T17:17:01-05:00",
-      "section": "World",
-      "summary_auto": "Director-actor Rob Reiner and his wife, Michele, were the two people found dead Sunday at a Los Angeles home owned by Reiner, according to a law enforcement official briefed on the investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.95,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "337b18bc19616956bab8c307edf30181beb04565",
-      "url": "https://www.cbc.ca/news/world/jimmy-lai-hong-kong-china-verdict-9.7015714?cmp=rss",
-      "title": "Jimmy Lai, Hong Kong media tycoon and Beijing critic, found guilty of national security crimes",
-      "published_at": "2025-12-14T16:47:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "82e9786a6623153c0abf3b99bf2b9190abe1eced",
-      "url": "https://www.cbc.ca/news/canada/carney-criticized-for-british-spelling-9.7015702?cmp=rss",
-      "title": "Linguistic experts urge Carney government to stop using British spellings",
-      "published_at": "2025-12-14T15:49:25-05:00",
-      "section": "Canada",
-      "summary_auto": "Promoters of Canadian English say the federal government is sending the wrong message to the world with its recent use of British spelling in official documents, including the 2025 federal budget.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
         "subjectivity_hint": "low"
       }
     }
