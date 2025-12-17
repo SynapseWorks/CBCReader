@@ -1,18 +1,161 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-17T09:17:02.323537-05:00",
+  "generated_at": "2025-12-17T15:17:55.094815-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "db73e07b9f079157283234ea76c903e7ad23bf6e",
-      "url": "https://www.cbc.ca/news/canada/calgary/andrea-petzold-spoofed-emails-jonathan-denis-family-friends-9.7009130?cmp=rss",
-      "title": "She was accused of threatening a former Alberta justice minister, others — until a spoofed email came to light",
-      "published_at": "2025-12-17T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Calgary woman accused of sending five emails that threatened former Alberta justice minister Jonathan Denis, his mother and several of his friends has seen those charges dropped after evidence was revealed in court that one of the emails was sent through an email-spoofing website based in the Czech Republic and police determined the other four were “not authentic.”",
+      "id": "aac48b0d9992f5de3089147aa60417565899597c",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/man-accused-of-severing-telecom-link-ns-nl-9.7019779?cmp=rss",
+      "title": "Man accused of severing essential undersea telecom cable between Nova Scotia, Newfoundland",
+      "published_at": "2025-12-17T08:59:52-05:00",
+      "section": "Canada",
+      "summary_auto": "Wrapped in coils of thick wire, the cable was a primary connection for internet, TV and long-distance communication between the two provinces.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.103,
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0519ca1d09f335a8cf304beba26a5c8ff973af9f",
+      "url": "https://www.cbc.ca/news/canada/toronto/ottawa-ontario-ring-of-fire-9.7019753?cmp=rss",
+      "title": "Carney, Ford to sign a deal to reduce regulatory burden on Ring of Fire, speed up Ontario projects",
+      "published_at": "2025-12-17T08:35:05-05:00",
+      "section": "Canada",
+      "summary_auto": "Ottawa and Ontario are set to sign a deal Thursday that will reduce the regulatory burden on large projects, including the road to the Ring of Fire.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2fc4f5d8b15f773002a637bc3da2a3c020d6b6a",
+      "url": "https://www.cbc.ca/news/canada/toronto/patrick-lutts-extradition-9.7019660?cmp=rss",
+      "title": "U.S. fugitive ‘psychic’ in Toronto won’t fight extradition over deadly 1998 Christmas Day crash",
+      "published_at": "2025-12-17T08:16:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Twenty-seven years after a deadly Christmas Day crash in Florida, a longtime fugitive in Toronto has signalled he will not fight extradition to face manslaughter charges. A CBC News investigation this year revealed Patrick Lutts Jr. lived openly in the city, working as a self-styled psychic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.785,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f9d1caf177ff6265240547d6c54bf2dbd9f2ad06",
+      "url": "https://www.cbc.ca/news/entertainment/oscars-youtube-deal-9.7019684?cmp=rss",
+      "title": "Oscars ceremony will be streamed on YouTube exclusively starting in 2029",
+      "published_at": "2025-12-17T08:06:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Academy of Motion Picture Arts and Sciences has inked a deal with YouTube that will give the video-streaming platform exclusive rights to broadcast the Oscars beginning in 2029, until 2033.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2e45607251258828e9f3bfca6b0283578c8c789c",
+      "url": "https://www.cbc.ca/news/entertainment/nick-reiner-court-appearance-9.7019665?cmp=rss",
+      "title": "Nick Reiner appears in court on murder charges in his parents' deaths",
+      "published_at": "2025-12-17T08:03:03-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Nick Reiner is charged with two counts of first-degree murder in the killing of his parents. He appeared from behind the glass wall of a custody area wearing shackles and a suicide prevention smock, and spoke only a handful of words.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.973,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cdfd5e0fd36543d4649231162c028d448a9dc2ef",
+      "url": "https://www.cbc.ca/news/politics/canada-population-falls-9.7019359?cmp=rss",
+      "title": "Canada’s population fell in third quarter, driven by drop in non-permanent residents: StatsCan",
+      "published_at": "2025-12-17T06:35:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s population decreased over the third quarter of 2025 — driven by a drop in non-permanent residents, according to new data from Statistics Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7dcd18aeb9bac4b860e216bb791a9cc666c3acc1",
+      "url": "https://www.cbc.ca/news/canada/live-maps-canada-storm-9.7019247?cmp=rss",
+      "title": "These maps show the pre-Christmas storm sweeping across Canada",
+      "published_at": "2025-12-17T05:57:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c88b9d07c8fd490096f3f93fcbc4e692485cdbf8",
+      "url": "https://www.cbc.ca/news/canada/montreal/pablo-rodriguez-liberals-meeting-9.7019192?cmp=rss",
+      "title": "Quebec Liberal leader steps down after weeks of turmoil: sources",
+      "published_at": "2025-12-17T05:23:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "205815165180e89c8203c19281c4ce6e11b63980",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-drug-sites-9.7019248?cmp=rss",
+      "title": "Alberta shuts down supervised drug consumption site in Edmonton hospital",
+      "published_at": "2025-12-17T04:58:14-05:00",
+      "section": "Canada",
+      "summary_auto": "Alberta has closed one of three supervised consumption sites in Edmonton, continuing the push to shutter such locations as the\nprovince moves away from overdose prevention to focus on recovery and treatment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f59d0d37ef9dcb0c06a6899310a0b05bac1e776e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/storms-downs-power-b-c-south-coast-9.7019260?cmp=rss",
+      "title": "Storm knocks out power for over 80,000 B.C. Hydro customers across Lower Mainland",
+      "published_at": "2025-12-17T04:43:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c56ce2d68129ae283c18bc871b59945d49325c35",
+      "url": "https://www.cbc.ca/news/canada/toronto/opp-cbsa-auto-theft-investigation-9.7019207?cmp=rss",
+      "title": "OPP, CBSA arrest 20, recover 306 stolen cars in major auto theft investigation",
+      "published_at": "2025-12-17T04:33:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Provincial Police and Canada Border Services Agency have recovered over 300 stolen cars and arrested several individuals in relation to an auto theft investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e0af819c6d7e6cf7338d418e03bd1240dcd700eb",
+      "url": "https://www.cbc.ca/news/canada/edmonton/northwest-alberta-unpaid-oil-tax-9.7018017?cmp=rss",
+      "title": "Bankrupt oil company leaves Alberta county with $9.3M unpaid tax bill",
+      "published_at": "2025-12-17T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Big Lakes County in northwestern Alberta says it has formally approved the write off of more than $9 million in unpaid property taxes owed by the now bankrupt Razor Energy Corp.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +164,7 @@
       "url": "https://www.cbc.ca/news/business/warner-bros-investors-takeover-bid-paramount-9.7019160?cmp=rss",
       "title": "Warner Bros. asks investors to reject takeover bid from Paramount Skydance",
       "published_at": "2025-12-17T02:37:29-05:00",
-      "section": "Entertainment",
+      "section": "Business",
       "summary_auto": "Warner Bros. is telling shareholders to reject a takeover bid from Paramount Skydance, saying that a rival bid from Netflix will be better for customers.",
       "bias_heuristic": {
         "article_type": "News",
@@ -34,7 +177,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/escooter-christmas-calgary-9.7018839?cmp=rss",
       "title": "Health experts urge parents not to buy kids e-scooters for Christmas",
       "published_at": "2025-12-17T02:00:00-05:00",
-      "section": "Health",
+      "section": "Top Stories",
       "summary_auto": "Citing injury risk and little-known laws around private e-scooter usage, emergency department physician Dr. Stephanie VandenBerg says she gives an “unequivocal nay” to gifting e-scooters for Christmas.",
       "bias_heuristic": {
         "article_type": "News",
@@ -65,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.79,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8a3e246b54d231f7e288d4d165f326ef530549ee",
-      "url": "https://www.cbc.ca/news/canada/manitoba/emergency-placements-animikii-ozoson-child-family-services-concerns-9.7017990?cmp=rss",
-      "title": "Setting kids up 'for failure': Child welfare agency raises concerns about Manitoba’s emergency placements",
-      "published_at": "2025-12-17T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Failing to report when a child is missing, sending kids to school in soiled clothes and refusing to learn how to treat a little girl's medical condition are just a few of the concerns being raised by a Manitoba child welfare agency about emergency placement staff.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
         "subjectivity_hint": "low"
       }
     },
@@ -134,37 +264,11 @@
       }
     },
     {
-      "id": "7a5109ace482279a71522623bdc295a45d117f3f",
-      "url": "https://www.cbc.ca/news/world/bondi-beach-attack-isis-9.7018720?cmp=rss",
-      "title": "How ISIS could be linked to the deadly Bondi Beach mass shooting",
-      "published_at": "2025-12-16T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The suspects alleged to have carried out the deadly mass shooting at Sydney's Bondi Beach may have been inspired by ISIS or provided actual training to help carry out the attack, experts of the militant group say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "42bcb49fb2d11c70a950bc5471078ad3af7a1c45",
-      "url": "https://www.cbc.ca/news/politics/bare-trust-changes-2026-9.7018566?cmp=rss",
-      "title": "Bare trust tax filings on pause again as government mulls exemptions",
-      "published_at": "2025-12-16T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's tax agency says it doesn't expect Canadians who hold simple trusts, known as bare trusts, to file required tax forms this coming tax season — but legislative changes currently before the House of Commons means the requirements will likely be there in 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.643,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "c6854c990f2e0cde1b8388d0cf7b84d1e64c83ff",
       "url": "https://www.cbc.ca/news/canada/ottawa/undocumented-children-at-risk-due-to-unviable-immigration-wait-times-lawyers-warn-9.7016069?cmp=rss",
       "title": "Undocumented children fear being stuck in state of limbo that could last years",
       "published_at": "2025-12-16T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Undocumented youth in Canada say they’re feeling worried and hopeless as they face decades-long processing times for permanent residence under the humanitarian and compassionate pathway. Lawyers fear more children will lose their status in the coming years, forcing them to go underground.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,16 +277,29 @@
       }
     },
     {
-      "id": "40a00a35ab4dfc5f2ffabc5ae2b1436225700328",
-      "url": "https://www.cbc.ca/news/canada/montreal/legault-elections-polling-referendum-pq-9.7017910?cmp=rss",
-      "title": "PQ lead in polls won't last, referendum promise will turn off Quebecers, Legault says",
+      "id": "42bcb49fb2d11c70a950bc5471078ad3af7a1c45",
+      "url": "https://www.cbc.ca/news/politics/bare-trust-changes-2026-9.7018566?cmp=rss",
+      "title": "Bare trust tax filings on pause again as government mulls exemptions",
       "published_at": "2025-12-16T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "François Legault's political future looks bleek. His party is currently projected to win zero seats in the next provincial election. But in a recent interview with Radio-Canada Téléjournal host Patrice Roy, the premier said he believes he will win next October and the Parti Québécois's lead in the polls won't last.",
+      "section": "Canada",
+      "summary_auto": "Canada's tax agency says it doesn't expect Canadians who hold simple trusts, known as bare trusts, to file required tax forms this coming tax season — but legislative changes currently before the House of Commons means the requirements will likely be there in 2027.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.839,
+        "sentiment": 0.643,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7a5109ace482279a71522623bdc295a45d117f3f",
+      "url": "https://www.cbc.ca/news/world/bondi-beach-attack-isis-9.7018720?cmp=rss",
+      "title": "How ISIS could be linked to the deadly Bondi Beach mass shooting",
+      "published_at": "2025-12-16T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "The suspects alleged to have carried out the deadly mass shooting at Sydney's Bondi Beach may have been inspired by ISIS or provided actual training to help carry out the attack, experts of the militant group say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -190,7 +307,7 @@
       "url": "https://www.cbc.ca/news/world/jared-kushner-trump-affinity-paramount-warner-bros-discovery-9.7019051?cmp=rss",
       "title": "Jared Kushner no longer part of hostile takeover bid for Warner Bros. Discovery",
       "published_at": "2025-12-16T17:44:20-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A private equity firm owned by U.S. President Donald Trump's son-in-law, Jared Kushner, is no longer backing Paramount's hostile acquisition bid for Warner Bros. Discovery, the firm confirmed Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,7 +320,7 @@
       "url": "https://www.cbc.ca/player/play/9.7019041?cmp=rss",
       "title": "#TheMoment boats decked out in Christmas lights lit up the Newfoundland coast",
       "published_at": "2025-12-16T17:05:26-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Joyce Morgan, chairperson of the Boat Lighting Committee, tells The National about the moment over 50 boats decked out in Christmas lights lit up Port de Grave, N.L.",
       "bias_heuristic": {
         "article_type": "News",
@@ -221,240 +338,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b8ed4d882fe4b97e4ca1e6c7160bb8de89f74c7",
-      "url": "https://www.cbc.ca/news/politics/via-rail-ceo-stepping-down-9.7018907?cmp=rss",
-      "title": "Via Rail CEO stepping down as Crown corporation faces increasing scrutiny",
-      "published_at": "2025-12-16T15:15:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1158eed9f686eff187922b11d342c1b825719e8",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-flu-season-2025-vaccinations-9.7018904?cmp=rss",
-      "title": "Doctors urge vaccinations as flu and RSV cases rise among children in B.C.",
-      "published_at": "2025-12-16T15:11:00-05:00",
-      "section": "Health",
-      "summary_auto": "Health professionals in B.C. are asking parents to be vigilant this respiratory season as ER and primary care centre visits for children surge across the province.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "99bec1882effaca422416de8622b223aeba91032",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/it-s-really-scary-thousands-of-people-in-newfoundland-remain-without-power-after-wind-storm-9.7018790?cmp=rss",
-      "title": "'It's really scary': Thousands of people in Newfoundland remain without power after wind storm",
-      "published_at": "2025-12-16T14:07:47-05:00",
-      "section": "Canada",
-      "summary_auto": "Residents of Fogo Island, Change Islands and other parts of central Newfoundland remain without power Tuesday evening following hurricane-force gusts, with some areas nearing 20 hours without heat and light.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.541,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0c0d4f2520d36e2610d3b5fcec3a76aedf513792",
-      "url": "https://www.cbc.ca/player/play/9.7018712?cmp=rss",
-      "title": "Quebec Liberals at a crossroads amid mounting pressure on leader to step down",
-      "published_at": "2025-12-16T13:07:57-05:00",
-      "section": "Canada",
-      "summary_auto": "With Quebec Liberal Party Leader Pablo Rodriguez and his party facing an internal crisis for nearly a month, the Journal de Montréal has revealed more allegations of financial schemes during his leadership race. The Liberal caucus says it is behind Rodriguez but if that changes, any dissent could create a domino effect.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "302c235cfac565d1e08c91b1ae4f63e5376bdf64",
-      "url": "https://www.cbc.ca/radio/asithappens/rockalina-turtle-9.7018623?cmp=rss",
-      "title": "Rockalina the turtle meets member of her own species for the 1st time in 48 years",
-      "published_at": "2025-12-16T12:57:19-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "After nearly 50 years living on a kitchen floor in New Jersey and eating a diet of mainly cat food, Rockalina the turtle was in rough shape. But after 11 months of rehabilitation, she's thriving — and she even has an itty-bitty new friend.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22a11a5149364a33a26dbef1a6134d260c928b8d",
-      "url": "https://www.cbc.ca/news/indigenous/powless-federal-appeal-decision-9.6981976?cmp=rss",
-      "title": "Canada's appeal dismissed in battle over fixing mould in Oneida grandmother’s home",
-      "published_at": "2025-12-16T12:41:50-05:00",
-      "section": "Canada",
-      "summary_auto": "The Canadian government has lost in court a second time to a First Nations grandmother fighting to fix extensive mould at her home on Oneida Nation of the Thames, near London, Ont. The decision is the first time the Federal Court of Appeal has considered the legal issues surrounding Jordan's Principle.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9559e27f8b30331da04fa88f9db1df71db808763",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/fluorinated-ski-wax-9.7017335?cmp=rss",
-      "title": "Why officials tested ski wax for 'forever chemicals' at Olympic cross-country trials in B.C.",
-      "published_at": "2025-12-16T12:28:34-05:00",
-      "section": "Canada",
-      "summary_auto": "Wax is crucial for athletes' ability to grip and slide on snow, but one previously popular ingredient was banned from all elite competition in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.09,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "30e9081ba960a840ab3aaea777cc2ceae0e558f7",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-residents-temporarily-displaced-building-fire-oleary-9.7018494?cmp=rss",
-      "title": "40 people temporarily displaced after fire at former seniors home in western P.E.I.",
-      "published_at": "2025-12-16T12:07:58-05:00",
-      "section": "Canada",
-      "summary_auto": "Firefighters received a call about an alarm inside the building Tuesday morning. Crews discovered that the fire broke out in an attic in the centre section of the building.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2c8c84d597ead454507951d80556079b5dc98ce4",
-      "url": "https://www.cbc.ca/news/canada/calgary/sundre-alberta-appliance-delivery-firearm-extortion-rcmp-9.7018552?cmp=rss",
-      "title": "An Albertan's fridge got delivered to wrong address. Then police say he grabbed his gun",
-      "published_at": "2025-12-16T12:04:36-05:00",
-      "section": "Canada",
-      "summary_auto": "An appliance driver who couldn't change a delivery address got punched. A Sundre man has been charged with 14 offences, including assault and extortion with a firearm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8dd4b8b459295714ca1c7d5ef68d430cf2308c04",
-      "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/shiffrin-victory-slalom-women-courcheval-france-9.7018542?cmp=rss",
-      "title": "Mikaela Shiffrin wins 4th straight slalom of Olympic season as rivals falter in night race",
-      "published_at": "2025-12-16T11:57:13-05:00",
-      "section": "World",
-      "summary_auto": "American skiing standout Mikaela Shiffrin claimed a record-extending 105th World Cup victory on Tuesday after several of her top challengers went out during the opening run of a women's slalom in Courcheval, France.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "29bf07c9bf3d48082c6910e78a2b3c3b028e77ec",
-      "url": "https://www.cbc.ca/news/world/trump-travel-ban-five-more-9.7018374?cmp=rss",
-      "title": "Trump expands U.S. travel ban to 5 more countries and Palestinian Authority, toughens limits on others",
-      "published_at": "2025-12-16T11:22:38-05:00",
-      "section": "World",
-      "summary_auto": "The Trump administration is expanding its travel ban to include five more countries and impose new limits on others.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.847,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eeecb6b17da9b5ca79eeefb2b13c47411cebc157",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-federal-governments-eia-steamline-9.7018236?cmp=rss",
-      "title": "N.B., Ottawa agree to streamline environmental assessments for major projects",
-      "published_at": "2025-12-16T10:37:36-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal and New Brunswick provincial governments have signed an agreement to co-ordinate their environmental impact assessments so there is less duplication.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8139b11d87f9bd50bbb30d8b7cafab275ddc041",
-      "url": "https://www.cbc.ca/news/world/trump-chief-of-staff-susie-wiles-interview-9.7018286?cmp=rss",
-      "title": "Trump's chief of staff gives rare interview: Here are 5 things we learned",
-      "published_at": "2025-12-16T10:33:18-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0ba8f5724bf02caddb72f029fd842e2880416f14",
-      "url": "https://www.cbc.ca/news/canada/toronto/driver-pleads-guilty-etobicoke-crash-killed-3-children-9.7018366?cmp=rss",
-      "title": "19-year-old pleads guilty to impaired driving in Toronto crash that killed 3 children",
-      "published_at": "2025-12-16T10:30:07-05:00",
-      "section": "Canada",
-      "summary_auto": "The young man accused of being impaired and behind the wheel at the time he slammed into a Toronto family’s van, killing three children, has pleaded guilty in the case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.961,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c76c127797f25ef8d8d7c8d9cf2a80c6610a209",
-      "url": "https://www.cbc.ca/news/politics/buy-canadian-policy-takes-effect-today-9.7018300?cmp=rss",
-      "title": "'Buy Canadian' policy comes into effect for federal projects worth over $25M",
-      "published_at": "2025-12-16T10:05:59-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government's \"Buy Canadian\" policy takes effect Tuesday and Ottawa says it will fundamentally change the way it purchases goods and services.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7cbad149e5d5a51abcb5ea9a1b2d5de6edfcc60b",
-      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/reese-howden-ski-cross-world-cup-december-16-9.7018287?cmp=rss",
-      "title": "Canadian men's ski cross athlete becomes most decorated winner in World Cup history",
-      "published_at": "2025-12-16T09:58:20-05:00",
-      "section": "Canada",
-      "summary_auto": "Reese Howden now stands alone as the winningest men's ski cross racer in World Cup history. The Canadian won gold at an event in Arosa, Switzerland, on Tuesday for his 19th career victory on the World Cup circuit. That broke a tie for the most victories by a male athlete in World Cup history, a record Howden had shared with Jean-Frédéric Chapuis of France",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.749,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "198b2bc136085d6fdc36c472d341bc830d48a2f1",
-      "url": "https://www.cbc.ca/news/entertainment/nick-reiner-court-appearance-9.7018232?cmp=rss",
-      "title": "Rob Reiner's son Nick Reiner charged with 2 counts of 1st-degree murder",
-      "published_at": "2025-12-16T09:52:13-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Rob Reiner's son Nick Reiner was charged Tuesday with two counts of first-degree murder in the killing of his parents, which stunned their communities in Hollywood and Democratic politics, where both were widely beloved.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.971,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "48f659ec6859e345a082777b45500638ee87789c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/woman-killed-by-falling-tree-chilliwack-9.7018164?cmp=rss",
-      "title": "Chilliwack, B.C., mother killed by falling tree in park amid gale-force winds",
-      "published_at": "2025-12-16T09:18:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Police say there is no indication the incident was anything other than a tragic and unforeseen event that occurred during severe and unpredictable weather.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
         "subjectivity_hint": "low"
       }
     }
