@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-19T09:16:17.659847-05:00",
+  "generated_at": "2025-12-19T15:17:02.393140-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "07ad5476e7ae8636c5de6a33edb88dfd72c2e8d8",
-      "url": "https://www.cbc.ca/news/world/gaza-famine-global-hunger-monitor-9.7022371?cmp=rss",
-      "title": "Global hunger monitor says there's no longer a famine in Gaza",
-      "published_at": "2025-12-19T03:10:46-05:00",
+      "id": "d75dce43e92a98c4cd683c67d8dfa35f0067e646",
+      "url": "https://www.cbc.ca/news/canada/calgary/how-does-alberta-s-covid-19-vaccination-rate-compare-to-other-provinces-we-asked-9.7022159?cmp=rss",
+      "title": "Alberta started charging for COVID shots.  How did that affect the vaccination rates?",
+      "published_at": "2025-12-19T07:01:42-05:00",
       "section": "Top Stories",
-      "summary_auto": "There is no longer famine in Gaza, a global hunger monitor said on Friday, after access for humanitarian and commercial food deliveries improved following a fragile Oct. 10 ceasefire in the war between Israel and Palestinian militant group Hamas.",
+      "summary_auto": "Alberta's declining COVID-19 vaccination rate is sparking more concern as it becomes clear how uptake in the province compares to other parts of the country.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.802,
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56283286610dd53fd820e0cb29b3f2134372376e",
+      "url": "https://www.cbc.ca/news/world/turning-point-erika-kirk-vance-2028-presidency-9.7022450?cmp=rss",
+      "title": "Erika Kirk says Turning Point will throw weight behind JD Vance for 2028 presidential campaign",
+      "published_at": "2025-12-19T06:51:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Erika Kirk, now the leader of the Turning Point USA organization after her husband Charlie Kirk's slaying in September, said the group will work to get Vice-President JD Vance elected president in 2028.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "06680992c3a766809c87e1e54dd230118cb5c282",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-man-arrested-terrorism-isis-connection-9.7022839?cmp=rss",
+      "title": "Toronto man charged with terrorism, funding ISIS and attempted kidnappings",
+      "published_at": "2025-12-19T06:48:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 26-year-old man from Toronto has been arrested on terrorism charges, police announced on Friday, as well as charges for two attempted kidnappings in the Greater Toronto Area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "108dfd8a4595d5491c432fce2bf38abece5df666",
+      "url": "https://www.cbc.ca/news/politics/carney-deputy-ministers-shuffle-9.7022641?cmp=rss",
+      "title": "Carney announces shuffle of deputy ministers",
+      "published_at": "2025-12-19T06:06:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney has announced a large shuffle of deputy ministers and senior public servants in a shake-up at the top of the public service that has been long expected around Ottawa.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2bde4cb65180b2a18a853bac93cfeeb0b536fe0b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-private-school-pacific-link-college-shut-down-9.7021444?cmp=rss",
+      "title": "B.C. private college shut down for misleading international students",
+      "published_at": "2025-12-19T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The province has revoked Pacific Link College's certification — just weeks after students came forward to CBC News alleging the school required them to participate in a political campaign for course credit. Advocates estimate hundreds of students were affected by the closure, putting their visa status in jeopardy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d5943ca0ed0c666d4dde088805e1aece9ecc2868",
+      "url": "https://www.cbc.ca/news/canada/montreal/family-doctors-agree-quebec-9.7022561?cmp=rss",
+      "title": "Family doctors vote overwhelmingly in favour of agreement with Quebec",
+      "published_at": "2025-12-19T05:24:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Quebec’s family doctors have voted overwhelmingly in favour of an agreement that will incentivize them to take on an additional 500,000 patients by next June.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "20999be66977f6da11f6badd16c7cfda4e5d58ad",
+      "url": "https://www.cbc.ca/news/world/miss-finland-photo-9.7022467?cmp=rss",
+      "title": "Miss Finland accused of racism for pulling eyes back in photo — then MPs did it, too",
+      "published_at": "2025-12-19T05:10:26-05:00",
+      "section": "World",
+      "summary_auto": "Finland’s government is facing heavy pressure and accusations of racism from several Asian countries after its representative to the 2025 Miss Universe pageant was seen pulling the corners of her eyes in a photo — and some Finnish politicians posted their own photos repeating the gesture.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.944,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ade857808b916becabbaa088d09a4f0110adbee7",
+      "url": "https://www.cbc.ca/news/canada/montreal/liberal-leader-tanguay-rodriguez-9.7022420?cmp=rss",
+      "title": "Marc Tanguay named interim Quebec Liberal leader after Rodriguez resignation",
+      "published_at": "2025-12-19T04:42:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Marc Tanguay, the MNA for the eastern Montreal riding of LaFontaine, is once again the interim leader of the Quebec Liberal Party following the resignation of Pablo Rodriguez.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1b0e929deb98c439d3dc5af34f14491765e2b441",
+      "url": "https://www.cbc.ca/news/canada/calgary/moose-calgary-arbour-lake-9.7021516?cmp=rss",
+      "title": "2 moose removed from Calgary suburb after kicking dog in backyard",
+      "published_at": "2025-12-19T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two young moose have been removed from the northwest Calgary community of Arbour Lake after a run-in with a dog that resulted in minor injuries for the pet.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "98e6cd449beaf414e40aaa6bbb01e5bc92f8f2eb",
+      "url": "https://www.cbc.ca/news/canada/hamilton/welland-shooting-police-9.7022426?cmp=rss",
+      "title": "Officer shot as police respond to fence dispute in Welland, Ont., schools remain in lockdown",
+      "published_at": "2025-12-19T03:57:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Officers went to a Welland, Ont., property Friday morning to address \"an enormous fence\" blocking traffic sightlines and a man inside the church-turned-residence began shooting, wounding an officer, Niagara police said. The officer was taken to hospital with non-life-threatening injuries. People are still urged to shelter in place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.679,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +138,7 @@
       "url": "https://www.cbc.ca/news/world/us-wisconsin-judge-duggan-verdict-9.7022357?cmp=rss",
       "title": "Wisconsin judge convicted of obstruction after shielding unauthorized immigrant from federal agents",
       "published_at": "2025-12-19T03:10:18-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A jury has found a Wisconsin judge accused of helping a Mexican immigrant dodge federal authorities guilty of obstruction, marking a victory for U.S. President Donald Trump as he continues his sweeping immigration crackdown across the country.",
       "bias_heuristic": {
         "article_type": "News",
@@ -47,8 +164,8 @@
       "url": "https://www.cbc.ca/news/world/russia-putin-news-conference-9.7022304?cmp=rss",
       "title": "Putin says Russia in a position of strength in Ukraine, with no need to make compromises on talks",
       "published_at": "2025-12-19T02:23:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "President Vladimir Putin offered no compromise on his terms for ending the war in Ukraine on Friday and accused the European Union of attempting \"daylight robbery\" of Russian assets.",
+      "section": "World",
+      "summary_auto": "Russian President Vladimir Putin offered no compromise on his terms for ending the war in Ukraine on Friday and accused the European Union of attempting \"daylight robbery\" of Russian assets.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.681,
@@ -56,28 +173,15 @@
       }
     },
     {
-      "id": "ab28f99a7caeb46572fb322d829ef224b479c10a",
-      "url": "https://www.cbc.ca/news/canada/manitoba/snow-lodge-ice-hotel-flin-flon-tourism-outdoors-9.7021699?cmp=rss",
-      "title": "Snow lodge project being built in Manitoba aims to be 'Taj Mahal of the north'",
+      "id": "22f8a940ce9a88c8aca513b785575326fbf9f4d1",
+      "url": "https://www.cbc.ca/player/play/9.7022023?cmp=rss",
+      "title": "Snow lodge being built in Flin Flon to host events",
       "published_at": "2025-12-19T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An ambitious group of Manitobans, including an architect, volunteers, local leaders and artists, are planning to open what they call a \"snow lodge\" in Flin Flon, built almost entirely from snow and ice.",
+      "section": "Canada",
+      "summary_auto": "Construction is underway on what planners are calling a “snow lodge” in Flin Flon, Man. The space, which is scheduled to open in late January, will be built mostly from snow and ice harvested from a nearby pond and will host concerts and events. Local leaders are already looking into expanding the project in the future.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5e84bfa1cba54207872ad7fede2fbea502155a3",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/inspires-change-health-care-surgery-9.7017883?cmp=rss",
-      "title": "N.S. man inspires health-care system change while waiting for surgery in Toronto",
-      "published_at": "2025-12-19T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The medical lead of a kidney transplant program in Halifax has created a new system for Nova Scotia physicians to refer patients for surgery in Toronto so they don't have to do it themselves and face potential gaps in care.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.796,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -108,15 +212,28 @@
       }
     },
     {
-      "id": "e56358836dbbec532bf5c1e4e9921759847523fb",
-      "url": "https://www.cbc.ca/news/politics/carney-trade-talks-u-s-9.7022282?cmp=rss",
-      "title": "Canada to begin formal talks with U.S. in January on review of free trade deal",
-      "published_at": "2025-12-18T23:53:21-05:00",
+      "id": "a1e0de412e9b5c4b39dfedc7f5534d5164c43a67",
+      "url": "https://www.cbc.ca/news/canada/first-person-justin-smith-quiet-modern-war-ukraine-9.7020034?cmp=rss",
+      "title": "The quiet war: What Ukraine taught me about modern conflict",
+      "published_at": "2025-12-18T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney says Canada will enter into formal discussions with the United States in January to review their free trade agreement.",
+      "summary_auto": "Justin Smith is a Canadian veteran who moved to Ukraine to support the country's fight against the Russian invasion. Since then, drone warfare has changed how he sees modern war.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.912,
+        "sentiment": -0.904,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "54b9f46cd5f204e053db23105370092ab4c5e178",
+      "url": "https://www.cbc.ca/news/world/minnesota-ice-protests-9.7022190?cmp=rss",
+      "title": "In Minneapolis, ICE clashes with Minnesotans who want them out",
+      "published_at": "2025-12-18T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A weekslong ICE operation in Minnesota is getting a chilly reception from activists in the Twin Cities who are organizing to thwart detainments. Operation Metro Surge began the U.S. president called the state’s large Somali community “garbage” and said he didn’t want them in the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -147,71 +264,6 @@
       }
     },
     {
-      "id": "54b9f46cd5f204e053db23105370092ab4c5e178",
-      "url": "https://www.cbc.ca/news/world/minnesota-ice-protests-9.7022190?cmp=rss",
-      "title": "In Minneapolis, ICE clashes with Minnesotans who want them out",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A weekslong ICE operation in Minnesota is getting a chilly reception from activists in the Twin Cities who are organizing to thwart detainments. Operation Metro Surge began the U.S. president called the state’s large Somali community “garbage” and said he didn’t want them in the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6b35e8c1f8746243225640af7dc4ab49d0e129af",
-      "url": "https://www.cbc.ca/news/politics/military-intelligence-ukraine-canada-charges-9.7022067?cmp=rss",
-      "title": "Military intelligence operative accused of lying to superiors over Ukraine contacts",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Canadian military counter-intelligence operative, accused of passing sensitive information to Ukraine, was warned repeatedly to stay away from a representative of that country’s intelligence service and lied about the contacts he did have, military court records allege.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ea779040e34ce1d4fac7fde86753a9450d3336e9",
-      "url": "https://www.cbc.ca/radio/frontburner/bondi-beach-and-the-isis-connection-9.7022061?cmp=rss",
-      "title": "Bondi Beach and the ISIS connection",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "What we know about the Bondi Beach shooting suspects and the kind of reach and influence the Islamic State has today.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.38,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0d465d14b11c28dc2cd41539cdd9c68d272888cf",
-      "url": "https://www.cbc.ca/news/canada/montreal/survivors-of-intimate-partner-violence-say-quebec-courts-are-too-lenient-on-offenders-9.7021873?cmp=rss",
-      "title": "Survivors of intimate partner violence say Quebec courts are too lenient on offenders",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some victims of domestic violence believe that Quebec courts were too lenient on their attackers. The government says it has been implementing changes to increase victims' trust in the system, but some experts say that more resources to support victims and rehabilitate offenders are needed to truly make a difference.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.46,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b288ec92ed6a43f31906f8ccdd07c6d9ad67143f",
-      "url": "https://www.cbc.ca/news/canada/marineland-future-property-niagara-falls-9.7020198?cmp=rss",
-      "title": "Frustration grows in Niagara Falls, Ont., with no clear progress on fate of Marineland and belugas",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nearly two months after Ottawa denied Marineland's request to export its whales, residents in Niagara Falls, Ont., continue to wait for news on the future of the shuttered theme park's property and dozens of animals, including up to 30 belugas and four dolphins. “Every time I drive by, it makes me really sad,” a local real estate agent says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.86,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "ea455d6f12f6b03248ed2803aaa309e4c12090aa",
       "url": "https://www.cbc.ca/news/canada/food-prices-inflation-9.7020772?cmp=rss",
       "title": "These grocery items are on the naughty list as food prices keep climbing",
@@ -222,6 +274,19 @@
         "article_type": "News",
         "sentiment": -0.872,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b288ec92ed6a43f31906f8ccdd07c6d9ad67143f",
+      "url": "https://www.cbc.ca/news/canada/marineland-future-property-niagara-falls-9.7020198?cmp=rss",
+      "title": "Frustration grows in Niagara Falls, Ont., with no clear progress on fate of Marineland and belugas",
+      "published_at": "2025-12-18T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Nearly two months after Ottawa denied Marineland's request to export its whales, residents in Niagara Falls, Ont., continue to wait for news on the future of the shuttered theme park's property and dozens of animals, including up to 30 belugas and four dolphins. “Every time I drive by, it makes me really sad,” a local real estate agent says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.86,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -281,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/brown-university-shooting-suspect-dead-9.7022200?cmp=rss",
       "title": "Man suspected in Brown University shooting and MIT professor's killing found dead, officials say",
       "published_at": "2025-12-18T16:49:46-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A man suspected in the fatal shootings at Brown University and of a Massachusetts Institute of Technology professor has been found dead in a New Hampshire storage facility after a five-day search that spanned several New England states, authorities said Thursday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -305,195 +370,13 @@
     {
       "id": "d9a54a4af4814e006958f2d38fe7c50d17e88fd4",
       "url": "https://www.cbc.ca/news/canada/british-columbia/george-david-master-carver-murder-cold-case-9.7022074?cmp=rss",
-      "title": "B.C. artist's murder solved by cold case unit for Indigenous people in Washington state",
+      "title": "New cold case unit for missing and murdered Indigenous people gets 1st conviction, solves death of B.C. man",
       "published_at": "2025-12-18T15:29:51-05:00",
       "section": "Canada",
-      "summary_auto": "65-year-old master carver George David of the Tla-o-qui-aht First Nation was killed in Port Angeles in 2016.",
+      "summary_auto": "Sixty-five-year-old master carver George David of the Tla-o-qui-aht First Nation in B.C. was killed in Port Angeles, Wash., in 2016.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.844,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e30a75b082b87c73c1bb2561c1dea3fc1be750b8",
-      "url": "https://www.cbc.ca/news/canada/calgary/gender-affirming-care-injunction-court-decision-9.7021936?cmp=rss",
-      "title": "Judge sides with province, removes injunction pausing ban on Alberta youth receiving gender-affirming care",
-      "published_at": "2025-12-18T14:17:52-05:00",
-      "section": "Canada",
-      "summary_auto": "A judge ruled Thursday to remove an injunction in place since the summer against Alberta's law prohibiting doctors from providing gender-affirming care to youth.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0e6be0b2438c8624365631680247cc00f984789b",
-      "url": "https://www.cbc.ca/news/business/tiktok-us-sale-deal-9.7021992?cmp=rss",
-      "title": "TikTok inks deal with investors to keep operating in U.S.",
-      "published_at": "2025-12-18T13:33:22-05:00",
-      "section": "World",
-      "summary_auto": "TikTok has signed a deal to sell its U.S. business to three American investors — Oracle, Silver Lake and MGX — ensuring the popular social video platform can continue operating in the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7fae67974a6783128fb99ba6bcf1337a64e845ca",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/british-columbians-impact-atmospheric-river-aftermath-9.7021709?cmp=rss",
-      "title": "British Columbians deal with aftermath of heavy rain while bracing for more",
-      "published_at": "2025-12-18T13:24:19-05:00",
-      "section": "Canada",
-      "summary_auto": "While the Fraser Valley has seen devastating flooding over the last 10 days, other parts of the province are also dealing with the aftermath of multiple atmospheric river storm systems.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "855f69e92521421f8bbe78217f77ed8a32922864",
-      "url": "https://www.cbc.ca/news/canada/edmonton/citizen-petition-referendum-increase-9.7021761?cmp=rss",
-      "title": "Alberta hikes referendum petition fee from $500 to $25K",
-      "published_at": "2025-12-18T12:47:34-05:00",
-      "section": "Canada",
-      "summary_auto": "Alberta Premier Danielle Smith's government is hiking the cost to apply for a citizen-initiated referendum by 5,000 per cent, saying it's about making sure applicants are serious.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bfa34b46444c2fc2e1e14df0073089da3bf5bf12",
-      "url": "https://www.cbc.ca/news/canada/toronto/integrity-commissioner-david-piccini-investigation-skills-development-fund-9.7021871?cmp=rss",
-      "title": "Integrity commissioner to probe Ontario labour minister's handling of controversial training fund",
-      "published_at": "2025-12-18T12:33:54-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario's ethics watchdog says it will investigate whether the province's labour minister contravened any laws in his handling of a controversial training fund.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "001e7bdd5f53f33d99ddb1b77fdcefc3b05340ed",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-market-washroom-videos-porn-site-9.7021753?cmp=rss",
-      "title": "B.C. grocery store to pay $750K after washroom videos ended up on porn site",
-      "published_at": "2025-12-18T12:27:51-05:00",
-      "section": "Canada",
-      "summary_auto": "A Vancouver Island grocery store has agreed to pay $750,000 to settle a voyeurism class-action lawsuit brought by women who were secretly filmed in the bathroom by a former employee who uploaded the images to a Russian porn site.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e304b8da1c8fefe3a729065d7aa2a2825cdb502a",
-      "url": "https://www.cbc.ca/news/world/greg-biffle-killed-nc-plane-crash-9.7021838?cmp=rss",
-      "title": "Former NASCAR driver Greg Biffle among 7 dead in N.C. plane crash",
-      "published_at": "2025-12-18T12:15:39-05:00",
-      "section": "World",
-      "summary_auto": "A business jet crashed Thursday while trying to return to a North Carolina airport shortly after takeoff, killing all seven people aboard, including retired NASCAR driver Greg Biffle and his family, authorities said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.906,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2dcfde56da212688dedf72b4a51d6b9ba8ebd655",
-      "url": "https://www.cbc.ca/news/climate/2025-top-10-weather-stories-9.7021433?cmp=rss",
-      "title": "Wildfires, drought and storms top Canada's top weather stories of 2025",
-      "published_at": "2025-12-18T11:38:16-05:00",
-      "section": "Canada",
-      "summary_auto": "Environment and Climate Change Canada's top 10 weather stories of the year include the second-worst wildfire season on record and droughts that stretched across the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1b88a5e469d642114b4a35adf01eb36db92656d3",
-      "url": "https://www.cbc.ca/news/world/trump-kennedy-centre-renaming-9.7021564?cmp=rss",
-      "title": "Trump-picked board votes to add his name to Kennedy Center",
-      "published_at": "2025-12-18T11:28:57-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump's handpicked board voted Thursday to rename Washington's leading performing arts center as the Trump-Kennedy Center, the White House said, in a move that was quickly denounced as a \"disgrace\" by the Democratic leader of the House, who is on the board.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6d7e3a9e5e1164d32077574200d74e6b16b568a7",
-      "url": "https://www.cbc.ca/news/world/donald-trump-marijuana-reclassification-9.7021560?cmp=rss",
-      "title": "Trump executive order could change marijuana classification in U.S.",
-      "published_at": "2025-12-18T10:53:24-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump signed an executive order Thursday that could reclassify marijuana as a less dangerous drug and open new avenues for medical research — a major shift in federal drug policy that inches closer to what many states have done.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.423,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6e2d0759b1b2c1d8db7a60f3f0f40b2023449223",
-      "url": "https://www.cbc.ca/player/play/9.7019566?cmp=rss",
-      "title": "At Issue | Canada’s biggest political moments of 2025",
-      "published_at": "2025-12-18T10:36:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Elections, resignations, trade twists and a Katy Perry surprise; 2025 shaped up to be a remarkable year in Canadian politics. CBC chief political correspondent Rosemary Barton asks The National’s At Issue panel to break down the biggest wins, losses and stand-out moments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2732b6ab8bc43daeb01a87c078a36e9567daf895",
-      "url": "https://www.cbc.ca/news/entertainment/wiz-khalifa-romania-sentenced-9.7021547?cmp=rss",
-      "title": "Romanian court sentences U.S. rapper Wiz Khalifa to 9 months for drug possession",
-      "published_at": "2025-12-18T09:54:15-05:00",
-      "section": "World",
-      "summary_auto": "American rapper Wiz Khalifa was sentenced by a court in Romania on Thursday to nine months in jail for drug possession, more than a year after he took part in a music festival in the Eastern European country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "febe5f9d95ae337dfdd87e42233afc1460db5d36",
-      "url": "https://www.cbc.ca/news/politics/dairy-supply-management-cusma-9.7021215?cmp=rss",
-      "title": "Supply management 'not on the table,' says Carney as U.S. bent on changing dairy rules",
-      "published_at": "2025-12-18T09:52:05-05:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney reaffirmed he’ll protect Canada’s supply management system, as the United States signalled it's ready to fight over this country's dairy rules at the negotiating table.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "511bbfaa5e59f49d30a6c60bf13c7b7c5e69c0ee",
-      "url": "https://www.cbc.ca/news/canada/hamilton/project-somme-retail-crime-ring-9.7021191?cmp=rss",
-      "title": "Organized crime group busted in theft of over $1M in drugstore face creams, razors in Ontario and Quebec",
-      "published_at": "2025-12-18T09:33:03-05:00",
-      "section": "Canada",
-      "summary_auto": "Police say they disrupted a \"highly organized\" retail theft syndicate in Ontario and Quebec with the arrest of 21 people, ranging in age from 15 to 75. Two suspects were picked up in B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
+        "sentiment": -0.931,
         "subjectivity_hint": "low"
       }
     }
