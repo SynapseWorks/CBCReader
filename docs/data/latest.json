@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-19T20:08:35.919476-05:00",
+  "generated_at": "2025-12-20T09:13:30.600234-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e0572a2033ac84237d7d43dd5bf91dabc735b05e",
+      "url": "https://www.cbc.ca/radio/unreserved/sacred-seven-beaver-9.7019918?cmp=rss",
+      "title": "How the beaver is teaching Indigenous communities about ecological balance and reciprocity",
+      "published_at": "2025-12-20T02:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The wise hardworking beaver is considered a keystone species. Found in every province and territory, beavers balance ecosystems with their industrious dams. They also have a special place in many Indigenous cultures.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f07c044c25a91173dd03fe2560e99f64db7e12fe",
+      "url": "https://www.cbc.ca/news/canada/christmas-travel-delays-9.7022815?cmp=rss",
+      "title": "The busiest travel days of the year are here — but will it be calm or chaos?",
+      "published_at": "2025-12-20T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "No matter you're going or how you're getting there, wise travellers this holiday season will be watching the forecasts, hoping for the best and preparing for anything.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.943,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b25ca905463d8fbddd05221cf946358acecb6a39",
+      "url": "https://www.cbc.ca/news/canada/second-sons-leaders-livestreams-9.7022853?cmp=rss",
+      "title": "‘The Nazis were right': What the leaders of Canada’s biggest ‘nationalist’ group really want",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In official posts, Second Sons Canada calls itself a “men’s nationalist club” and promotes a nostalgic vision of Canada. But on personal podcasts and livestreams, its leaders consistently espouse antisemitism, violent rhetoric, praise Nazi Germany and use racist slurs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.665,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "286eb85b20510ed46e1ff8facd23607bc4bea742",
+      "url": "https://www.cbc.ca/news/entertainment/best-movies-film-2025-9.7018198?cmp=rss",
+      "title": "From Marty Supreme to Montreal, My Beautiful: The top 25 movies of 2025",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite a seemingly unending wave of bad news about the industry, 2025 managed to serve up more than a few phenomenal movies. From historical biopics to animated outings to a water polo camp from hell, here are some of our favourite releases from the past year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "90f267b6ed2d6add54f50ea61cf6019a927c4383",
+      "url": "https://www.cbc.ca/news/canada/scc-indigenous-sentencing-options-9.7020398?cmp=rss",
+      "title": "Why a N.S. assault case before Canada’s top court could set a precedent for Indigenous sentencing options",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Mi'kmaw woman at the centre of an aggravated assault case now before the Supreme Court of Canada spoke about what she went through for the first time ever in an interview with CBC News. She says it's up to courts to find \"balance\" between sentencing Indigenous offenders and protecting Indigenous women who are victims.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8828ca661b9d5e1192ac11ae6a0c0311275d4ab1",
+      "url": "https://www.cbc.ca/news/health/health-stories-to-watch-2026-9.7022756?cmp=rss",
+      "title": "Cancer screening. Vaccine wariness. Family doctors. Our watch list for health stories in 2026",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Here’s what’s on the CBC Health Unit’s watch list for 2026: New approaches to connecting people with family doctors, anticipated changes to cancer screening, misinformation and vaccine wariness, future uses for GLP-1 agonists (like Ozempic and Wegovy) and the morphing toxic drug crisis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "daf3b0925fbf16e41677b2197dca717e3fdb3ca5",
+      "url": "https://www.cbc.ca/news/politics/kirsten-hillman-canada-us-ambassador-interview-9.7022782?cmp=rss",
+      "title": "Kirsten Hillman is leaving Washington. Here's what she's learned about Trump's America",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After eight years in Washington, D.C., Ambassador Kirsten Hillman will step down from her post in the new year. She sat down with CBC's The House to share how she connects with Trump-era Republicans and what Canadians need to know about the United States today.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b7aaa42e77ad73208e65a373d987ccffd848ba4",
+      "url": "https://www.cbc.ca/news/science/conservation-biodiversity-climate-carney-9.7020047?cmp=rss",
+      "title": "Canada promised new parks and nature protection. Has that shifted with Carney in power?",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Now, environmental groups and others are concerned that the apparent pivot from the Carney government will reverse years of progress made on nature conservation. Among the initiatives now facing uncertainty: new national parks and protected areas, as well as federal support for the Indigenous guardians program.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c3d8c6acf555316bd2152e77d5f8e8217c751dd9",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/high-winds-knock-out-power-for-thousands-in-nova-scotia-9.7023787?cmp=rss",
+      "title": "High winds knock out power for thousands in Nova Scotia",
+      "published_at": "2025-12-19T14:12:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nova Scotia Power activated its emergency centre earlier on Friday to coordinate outage restorations and response. But the utility warned high winds could delay restoration efforts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "164788bc4c92ac79fcf25216f397a5959bec3b90",
       "url": "https://www.cbc.ca/player/play/9.7023590?cmp=rss",
@@ -35,7 +152,7 @@
       "title": "U.S. launches 'vengeance' strikes against ISIS targets in Syria, Hegseth says",
       "published_at": "2025-12-19T13:27:53-05:00",
       "section": "Top Stories",
-      "summary_auto": "The U.S. military launched airstrikes against dozens of Islamic State targets in Syria on Friday in retaliation for an attack on U.S. personnel, officials said on Friday.",
+      "summary_auto": "The U.S. military launched airstrikes against dozens of Islamic State targets in Syria on Friday in retaliation for a deadly attack on U.S. personnel last weekend, officials said on Friday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.625,
@@ -60,7 +177,7 @@
       "url": "https://www.cbc.ca/player/play/9.7023637?cmp=rss",
       "title": "Why a U.S. ground invasion of Venezuela would be a disaster | About That",
       "published_at": "2025-12-19T12:58:34-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Tensions between the United States and Venezuela are escalating as the U.S. continues to strike alleged Venezuelan drug-trafficking boats and signals the possibility of a ground invasion. Andrew Chang breaks down the geographical, logistical and political challenges involved in ratcheting up the conflict to this level. Images provided by The Canadian Press, Reuters and Getty Images",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +203,7 @@
       "url": "https://www.cbc.ca/news/canada/thunder-bay/cochenour-natural-gas-outage-9.7023522?cmp=rss",
       "title": "Gas outage in northern Ontario town cuts heat to hundreds of residents' homes amid freezing weather",
       "published_at": "2025-12-19T12:26:22-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Amid a temperature of –26 C factoring in the wind chill, homes in Cochenour, Ont., were left with no heat after a natural gas outage was reported around 8 a.m. CT on Friday. Here's what one resident wants to see change before the next outage occurs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -108,19 +225,6 @@
       }
     },
     {
-      "id": "4b7e5a872f1f2e92b441807b0b6c1384ad698b00",
-      "url": "https://www.cbc.ca/news/politics/ndp-campaign-review-9.7023433?cmp=rss",
-      "title": "NDP campaign review cites 'brutal environment' for worst-ever election result",
-      "published_at": "2025-12-19T11:45:18-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal NDP released its internal campaign review Friday largely avoiding casting blame on senior staff and instead citing issues that were beyond the control of New Democrats for its worst election loss.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e282a5742c3ebf6f459736f2005adcb9785429ac",
       "url": "https://www.cbc.ca/news/indigenous/akwesasne-st-regis-school-time-out-box-9.7021697?cmp=rss",
       "title": "Akwesasne parents outraged after photos circulate of 'time out box' in school",
@@ -138,7 +242,7 @@
       "url": "https://www.cbc.ca/news/world/us-sanctions-maduro-family-and-associates-9.7023372?cmp=rss",
       "title": "U.S. imposes sanctions on family and associates of Venezuela's Maduro and his wife",
       "published_at": "2025-12-19T11:16:47-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The United States on Friday imposed sanctions on family members and associates of Nicolás Maduro and his wife, as Washington ratchets up pressure on the Venezuelan president.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,25 +255,12 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/stanley-park-tree-removal-court-case-9.7022562?cmp=rss",
       "title": "Group loses latest court battle to halt tree removal at Vancouver's Stanley Park",
       "published_at": "2025-12-19T11:12:10-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A group trying to save thousands of trees from being cut down in Vancouver's famed Stanley Park has lost another legal battle. But a court decision this week found that the City of Vancouver didn't follow its own rules when contracting a firm to clear a large swath of the urban forest.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dec625581ab594f7b94d09935fbd7a1bac65dd27",
-      "url": "https://www.cbc.ca/player/play/9.7023422?cmp=rss",
-      "title": "Trump’s tariffs can’t knock this part of Canada’s economy",
-      "published_at": "2025-12-19T11:08:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It’s safe to say it’s been a whirlwind year navigating U.S. President Donald Trump’s on-again, off-again tariffs. But here’s the kicker — our global domestic exports actually made more money this year than last. So, what’s going on?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.238,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -186,6 +277,19 @@
       }
     },
     {
+      "id": "d3ea70727095400e214d20602241cadaeb68ba84",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-bail-man-jailed-9.7023380?cmp=rss",
+      "title": "Quebec judge grants bail to man jailed over 30 years ago for 4 murders",
+      "published_at": "2025-12-19T10:49:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A man who has spent 33 years behind bars for four murders was granted bail after concerns were raised earlier this year about the fairness of his initial trial.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "473b6c1685b9a69ec7ac6ff40bb808368f4f8923",
       "url": "https://www.cbc.ca/news/canada/montreal/quebec-man-facing-terrorism-charges-released-on-bail-9.7023295?cmp=rss",
       "title": "Quebec man facing terrorism charges released on bail",
@@ -196,279 +300,6 @@
         "article_type": "News",
         "sentiment": -0.912,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5df4f13c50ba058843ece0dcb53fbbddc25895ad",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/surveillance-cameras-2026-world-cup-vancouver-9.7022777?cmp=rss",
-      "title": "Vancouver installing new temporary surveillance cameras for 2026 World Cup",
-      "published_at": "2025-12-19T07:54:45-05:00",
-      "section": "Canada",
-      "summary_auto": "Vancouver is installing hundreds of new, temporary surveillance cameras ahead of the 2026 FIFA World Cup, a move city officials say is about public safety, but privacy experts say deserves closer scrutiny.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "56283286610dd53fd820e0cb29b3f2134372376e",
-      "url": "https://www.cbc.ca/news/world/turning-point-erika-kirk-vance-2028-presidency-9.7022450?cmp=rss",
-      "title": "Erika Kirk says Turning Point will throw weight behind JD Vance for 2028 presidential campaign",
-      "published_at": "2025-12-19T06:51:14-05:00",
-      "section": "World",
-      "summary_auto": "Erika Kirk, now the leader of the Turning Point USA organization after her husband Charlie Kirk's slaying in September, said the group will work to get Vice-President JD Vance elected president in 2028.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06680992c3a766809c87e1e54dd230118cb5c282",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-man-arrested-terrorism-isis-connection-9.7022839?cmp=rss",
-      "title": "Toronto man charged with terrorism, funding ISIS and attempted kidnappings",
-      "published_at": "2025-12-19T06:48:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A 26-year-old man from Toronto has been arrested on terrorism charges, police announced on Friday, as well as charges for two attempted kidnappings in the Greater Toronto Area.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "108dfd8a4595d5491c432fce2bf38abece5df666",
-      "url": "https://www.cbc.ca/news/politics/carney-deputy-ministers-shuffle-9.7022641?cmp=rss",
-      "title": "Carney announces shuffle of deputy ministers",
-      "published_at": "2025-12-19T06:06:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney has announced a large shuffle of deputy ministers and senior public servants in a shake-up at the top of the public service that has been long expected around Ottawa.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "20999be66977f6da11f6badd16c7cfda4e5d58ad",
-      "url": "https://www.cbc.ca/news/world/miss-finland-photo-9.7022467?cmp=rss",
-      "title": "Miss Finland accused of racism for pulling eyes back in photo — then MPs did it, too",
-      "published_at": "2025-12-19T05:10:26-05:00",
-      "section": "World",
-      "summary_auto": "Finland’s government is facing heavy pressure and accusations of racism from several Asian countries after its representative to the 2025 Miss Universe pageant was seen pulling the corners of her eyes in a photo — and some Finnish politicians posted their own photos repeating the gesture.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.944,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1b0e929deb98c439d3dc5af34f14491765e2b441",
-      "url": "https://www.cbc.ca/news/canada/calgary/moose-calgary-arbour-lake-9.7021516?cmp=rss",
-      "title": "2 moose removed from Calgary suburb after kicking dog in backyard",
-      "published_at": "2025-12-19T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Two young moose have been removed from the northwest Calgary community of Arbour Lake after a run-in with a dog that resulted in minor injuries for the pet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98e6cd449beaf414e40aaa6bbb01e5bc92f8f2eb",
-      "url": "https://www.cbc.ca/news/canada/hamilton/welland-shooting-police-9.7022426?cmp=rss",
-      "title": "Officer shot as police respond to fence dispute in Welland, Ont., people urged to shelter in place",
-      "published_at": "2025-12-19T03:57:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hours after police went to a Welland, Ont., property Friday morning to address \"an enormous fence\" blocking traffic sightlines, police continue to be in a standoff with a man who began shooting from inside a former church, wounding an officer who was treated in hospital and released. Niagara regional police urge people to shelter in place.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.679,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "69822a87f4bf9453d78bbc1711602527170893cc",
-      "url": "https://www.cbc.ca/news/world/us-wisconsin-judge-duggan-verdict-9.7022357?cmp=rss",
-      "title": "Wisconsin judge convicted of obstruction after shielding unauthorized immigrant from federal agents",
-      "published_at": "2025-12-19T03:10:18-05:00",
-      "section": "World",
-      "summary_auto": "A jury has found a Wisconsin judge accused of helping a Mexican immigrant dodge federal authorities guilty of obstruction, marking a victory for U.S. President Donald Trump as he continues his sweeping immigration crackdown across the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f2dc6d5e54767fe3d349bd0f8ad171556b4795f6",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-health-minister-sonia-belanger-9.7022340?cmp=rss",
-      "title": "Sonia Bélanger tapped to replace Christian Dubé as Quebec health minister",
-      "published_at": "2025-12-19T02:24:35-05:00",
-      "section": "Canada",
-      "summary_auto": "Sonia Bélanger will be replacing Christian Dubé as health minister after the latter resigned on Thursday over difficult negotiations with the province's family physicians and medical specialists.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b455b155b326b3a4fa8c83969a904d9dd5f1af43",
-      "url": "https://www.cbc.ca/news/world/russia-putin-news-conference-9.7022304?cmp=rss",
-      "title": "Putin says Russia in a position of strength in Ukraine, with no need to make compromises on talks",
-      "published_at": "2025-12-19T02:23:47-05:00",
-      "section": "World",
-      "summary_auto": "Russian President Vladimir Putin offered no compromise on his terms for ending the war in Ukraine on Friday and accused the European Union of attempting \"daylight robbery\" of Russian assets.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22f8a940ce9a88c8aca513b785575326fbf9f4d1",
-      "url": "https://www.cbc.ca/player/play/9.7022023?cmp=rss",
-      "title": "Snow lodge being built in Flin Flon to host events",
-      "published_at": "2025-12-19T01:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Construction is underway on what planners are calling a “snow lodge” in Flin Flon, Man. The space, which is scheduled to open in late January, will be built mostly from snow and ice harvested from a nearby pond and will host concerts and events. Local leaders are already looking into expanding the project in the future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "46a63de33a5b2e0136d253a4589969205f9f2834",
-      "url": "https://www.cbc.ca/news/canada/london/bird-flu-turkey-shortages-coming-9.7021576?cmp=rss",
-      "title": "Avian flu hit Ontario turkey farms hard. Is it still safe to eat for your holiday meal?",
-      "published_at": "2025-12-19T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Some London-area butchers say the availability of holiday turkeys is unchanged, despite an ongoing avian influenza outbreak in Ontario that's seen tens of thousands of birds culled.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c959e9ca5f7564446ddb0010c9e15eedf44f8bd6",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-child-care-rural-daycare-spaces-9.7021028?cmp=rss",
-      "title": "Many rural N.S. families struggle to find child care, province remains committed to increasing access",
-      "published_at": "2025-12-19T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Many families in Nova Scotia live in rural communities with very little access to child care. The provincial government says it remains committed to increasing access to daycare for all families, especially those in rural communities who have to drive long distances to find care.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ea455d6f12f6b03248ed2803aaa309e4c12090aa",
-      "url": "https://www.cbc.ca/news/canada/food-prices-inflation-9.7020772?cmp=rss",
-      "title": "These grocery items are on the naughty list as food prices keep climbing",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Grocery price inflation is the highest its been since 2023, with the price of food bought from stores rising 4.7 per cent in November year over year. But which items have hit your grocery bill hardest? Let's break down some of the worst offenders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b288ec92ed6a43f31906f8ccdd07c6d9ad67143f",
-      "url": "https://www.cbc.ca/news/canada/marineland-future-property-niagara-falls-9.7020198?cmp=rss",
-      "title": "Frustration grows in Niagara Falls, Ont., with no clear progress on fate of Marineland and belugas",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Nearly two months after Ottawa denied Marineland's request to export its whales, residents in Niagara Falls, Ont., continue to wait for news on the future of the shuttered theme park's property and dozens of animals, including up to 30 belugas and four dolphins. “Every time I drive by, it makes me really sad,” a local real estate agent says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.86,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6a69ce7151f07d78321e56f21a3150092020ceac",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609?cmp=rss",
-      "title": "Israel could be bringing back the death penalty — but only for Palestinians",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "While any debate over imposing the death penalty is bound to be emotional and contentious, Israel’s proposal to impose lethal punishment only on Palestinians makes new legislation before the Knesset especially egregious, say rights groups. One called it a \"celebration of death and revenge.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.988,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "54b9f46cd5f204e053db23105370092ab4c5e178",
-      "url": "https://www.cbc.ca/news/world/minnesota-ice-protests-9.7022190?cmp=rss",
-      "title": "In Minneapolis, ICE clashes with Minnesotans who want them out",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "A weekslong ICE operation in Minnesota is getting a chilly reception from activists in the Twin Cities who are organizing to thwart detainments. Operation Metro Surge began the U.S. president called the state’s large Somali community “garbage” and said he didn’t want them in the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ffa5ee8895c67061b5ade7cecbf84e3e9644b6be",
-      "url": "https://www.cbc.ca/news/world/sinaloa-cartel-mexico-ryan-wedding-9.7020565?cmp=rss",
-      "title": "Ryan Wedding’s image as alleged drug kingpin inflated by U.S., says Sinaloa cartel operative",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "In an interview with CBC News, an operative with the Sinaloa cartel says he only recently heard the name of Ryan Wedding from news reports and social media posts about the alleged Canadian drug kingpin U.S. authorities say is likely living under the cartel's protection in Mexico.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "405d71e3143d7b7be8ad6ffc5c1380f11610cf56",
-      "url": "https://www.cbc.ca/news/business/airline-strikes-lockouts-2026-9.7022095?cmp=rss",
-      "title": "Why so many airlines face labour disruptions and why it could keep happening",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "Canadian air travellers hoping for a new year without labour disputes keeping them on the ground may be out of luck, as 2026 will see most major airlines from this country continuing to face off with unions across the bargaining table.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.639,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "199efa77e7cdaaef5591c2b8c3b8c73bcaa0e568",
-      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-covid-19-pandemic-air-conditoning-long-term-care-9.7021189?cmp=rss",
-      "title": "Ontario nursing home air conditioning mandate saved lives, study finds",
-      "published_at": "2025-12-18T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "A new study published in JAMA Internal Medicine has evaluated the efficacy of Ontario's policy implemented during the COVID-19 pandemic that required all long-term care homes to have air conditioning in resident rooms.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "405d71e3143d7b7be8ad6ffc5c1380f11610cf56",
-      "url": "https://www.cbc.ca/news/business/airline-strikes-lockouts-2026-9.7022095?cmp=rss",
-      "title": "You might want to check the airline's labour status before you book your next flight",
-      "published_at": "2025-12-18T22:29:29-05:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "medium"
       }
     }
   ]
