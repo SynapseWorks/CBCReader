@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-21T09:13:39.013048-05:00",
+  "generated_at": "2025-12-21T15:15:57.669549-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "836133242329bf0cafc747714b73b2796b0314d2",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/reece-howden-ski-cross-gold-medal-sweep-innichen-world-cup-9.7024450?cmp=rss",
+      "title": "Canadian ski cross racer Reece Howden captures 3rd straight World Cup competition",
+      "published_at": "2025-12-21T04:37:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Reese Howden of Cultus Lake, B.C., beat Florian Wilmsmann of Germany and Frenchman Evan Klufts to the finish line on Sunday in Innichen, Italy for a third straight World Cup victory and record-extending 21st of his career.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "96f59ac050f54aa06506e347c0d8211f8221f3a2",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-oil-tanker-ban-explained-9.7016899?cmp=rss",
+      "title": "Here’s what you need to know about the B.C. oil tanker moratorium",
+      "published_at": "2025-12-21T04:00:11-05:00",
+      "section": "Canada",
+      "summary_auto": "For years, oil tanker traffic has been prohibited off the coast of northern British Columbia in order to protect environmentally sensitive coastlines from disaster. But the federal government is now open to the idea of changing its moratorium — something the B.C. government and First Nations vehemently oppose.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.19,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "c18b6ca57b923b86ba4673e32526fb1e84805d7c",
       "url": "https://www.cbc.ca/news/world/thousands-gather-bondi-beach-mourn-victims-9.7024424?cmp=rss",
@@ -30,6 +56,45 @@
       }
     },
     {
+      "id": "2210cc9ac2b231658f4598bb9eb308408835ba9d",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-montana-border-security-anniversary-9.7020402?cmp=rss",
+      "title": "1 year ago, Alberta’s premier sought to lock down a ‘leaky’ border. Here’s what’s happened since",
+      "published_at": "2025-12-21T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Last December, Alberta rolled out its $29-million provincial border strategy in response to tariff threats from Donald Trump. But nearly one year later, Premier Danielle Smith says her government has learned the Coutts border crossing isn’t a hub of illicit activity — and that could lead to a focus on other areas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "284f79d8e06534d6e5f2589d6069e946fb0bd581",
+      "url": "https://www.cbc.ca/news/canada/manitoba/sewer-bags-swatches-steinbach-food-bank-9.7016699?cmp=rss",
+      "title": "Manitoba man stitches up funds for food bank with bags made from throwaways",
+      "published_at": "2025-12-21T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Steinbach man is turning trash into treasure by using discarded furniture swatches to create high-quality bags. The bags are sold for $5 in Steinbach and Thunder Bay, with 100 per cent of proceeds going to his local food bank.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "665e104323597002adea1fd7e402d1b7806436df",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/james-benesh-hockey-books-collector-9.7024259?cmp=rss",
+      "title": "Sask. man has one of the largest known collections of hockey books. It all started with a hockey draft",
+      "published_at": "2025-12-21T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "James Benesh of Regina has about 1,200 hockey books. The Society for International Hockey Research is aware of only two other private collections that are larger.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d793860747893cce1f9e33567246b77bb53b4d43",
       "url": "https://www.cbc.ca/news/world/illegal-fishing-somalia-piracy-9.7018340?cmp=rss",
       "title": "Somalis say foreign ships are stealing their fish, and it's fuelling a piracy resurgence",
@@ -43,19 +108,6 @@
       }
     },
     {
-      "id": "90b5ce8829f43311856558d5ff1df5e6f75dc2c7",
-      "url": "https://www.cbc.ca/news/world/culiacan-sinaloa-cartel-9.7022258?cmp=rss",
-      "title": "‘No respect for anything’: Life in the shadows of a Mexican cartel war",
-      "published_at": "2025-12-20T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Fear and violence permeate Culiacán, Sinaloa, and its surrounding area in northwestern Mexico. The sun-seared state capital, with a population of a little more than one million, is also known as the cradle of the Sinaloa cartel, one of the most powerful organized crime groups in the world, which has fallen into a vicious civil war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.956,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "c8f7420e25c3836872a5a62ae3de5ca15b5f8dca",
       "url": "https://www.cbc.ca/news/canada/apprenticeships-registrations-certifications-9.7021768?cmp=rss",
       "title": "In the trades, apprentices are increasing, but not enough are making it to certification",
@@ -65,6 +117,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.723,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a31016fc7e38809436185082f0022371c89d0406",
+      "url": "https://www.cbc.ca/news/canada/toronto/demkiw-toronto-police-mcit-mental-health-9.7023411?cmp=rss",
+      "title": "Police officers shouldn’t be leading mental health calls, Toronto police chief says",
+      "published_at": "2025-12-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "For years, police have been on the front lines of mental health crisis calls in Toronto, but the city's police chief believes it's now time to rethink that approach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.372,
         "subjectivity_hint": "low"
       }
     },
@@ -91,32 +156,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.889,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c039381f1481d87d09b1df4773b7a7d9e9f63d7",
-      "url": "https://www.cbc.ca/news/world/odesa-strike-russia-ukraine-peace-talks-miami-9.7024296?cmp=rss",
-      "title": "Russian strike kills 8 in Ukraine's Odesa as Kremlin envoy heads to U.S. for truce talks",
-      "published_at": "2025-12-20T12:35:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Russian missile strike on port infrastructure in Odesa, in southern Ukraine, killed eight people and wounded 27, Ukraine's emergency service said Saturday, as a Kremlin envoy was set to travel to Florida for talks on a U.S.-proposed plan to end the nearly four-year war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7d5b40cb0d28ef14b73cfd7775aaa71af77bfd33",
-      "url": "https://www.cbc.ca/news/world/us-oil-tanker-seizure-9.7024285?cmp=rss",
-      "title": "U.S. says it has seized yet another oil tanker near Venezuela's coast",
-      "published_at": "2025-12-20T11:33:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The United States on Saturday seized an oil tanker that was last docked in Venezuela, U.S. Homeland Security Secretary Kristi Noem said in a post on social media platform X.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
         "subjectivity_hint": "low"
       }
     }
