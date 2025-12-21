@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-20T15:15:14.196888-05:00",
+  "generated_at": "2025-12-20T20:17:46.112860-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7c039381f1481d87d09b1df4773b7a7d9e9f63d7",
+      "url": "https://www.cbc.ca/news/world/odesa-strike-russia-ukraine-peace-talks-miami-9.7024296?cmp=rss",
+      "title": "Russian strike kills 8 in Ukraine's Odesa as Kremlin envoy heads to U.S. for truce talks",
+      "published_at": "2025-12-20T12:35:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Russian missile strike on port infrastructure in Odesa, in southern Ukraine, killed eight people and wounded 27, Ukraine's emergency service said Saturday, as a Kremlin envoy was set to travel to Florida for talks on a U.S.-proposed plan to end the nearly four-year war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.948,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d5b40cb0d28ef14b73cfd7775aaa71af77bfd33",
+      "url": "https://www.cbc.ca/news/world/us-oil-tanker-seizure-9.7024285?cmp=rss",
+      "title": "U.S. says it has seized yet another oil tanker near Venezuela's coast",
+      "published_at": "2025-12-20T11:33:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The United States on Saturday seized an oil tanker that was last docked in Venezuela, U.S. Homeland Security Secretary Kristi Noem said in a post on social media platform X.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "69ed8d43f8429c75e8942189c6e16114342ff4e0",
       "url": "https://www.cbc.ca/news/entertainment/bowen-yang-departing-snl-9.7024197?cmp=rss",
@@ -21,7 +47,7 @@
       "url": "https://www.cbc.ca/news/world/mangione-bondi-conflict-of-interest-9.7024092?cmp=rss",
       "title": "Luigi Mangione‘s lawyers say AG Pam Bondi's decision to seek death penalty a 'profound conflict of interest'",
       "published_at": "2025-12-20T04:56:39-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Luigi Mangione’s lawyers contend Attorney General Pam Bondi’s decision to seek the death penalty against him in the killing of UnitedHealthcare CEO Brian Thompson was tainted by her prior work as a lobbyist at a firm that represented the insurer’s parent company.",
       "bias_heuristic": {
         "article_type": "News",
@@ -53,6 +79,19 @@
         "article_type": "News",
         "sentiment": 0.599,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "13af05fc15c12a64b0bd0b9fc66a71854d1661f6",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/reece-howden-ski-cross-world-cup-december-20-9.7024067?cmp=rss",
+      "title": "Canada's Reece Howden wins back-to-back World Cup ski cross gold",
+      "published_at": "2025-12-20T03:18:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Reese Howden won gold at a ski cross event in Innichen, Italy, on Saturday for his second consecutive gold-medal result on the World Cup circuit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.813,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -173,11 +212,24 @@
       }
     },
     {
+      "id": "90f267b6ed2d6add54f50ea61cf6019a927c4383",
+      "url": "https://www.cbc.ca/news/canada/scc-indigenous-sentencing-options-9.7020398?cmp=rss",
+      "title": "Why a Nova Scotia assault case before Canada’s top court could set precedent for Indigenous sentencing options",
+      "published_at": "2025-12-19T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Mi'kmaw woman at the centre of an aggravated assault case now before the Supreme Court of Canada spoke about what she went through for the first time ever in an interview with CBC News. She says it's up to courts to find \"balance\" between sentencing Indigenous offenders and protecting Indigenous women who are victims.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "cdb7ec13f5ecca3c7694c7b713bd9b59a342ca4f",
       "url": "https://www.cbc.ca/news/climate/antarctic-expedition-polar-research-9.7022032?cmp=rss",
       "title": "Canada's growing profile in Antarctic research may get a boost with expedition in 2026",
       "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Canada's growing profile in Antarctic research may get another boost in early 2026, as the commander of the Royal Canadian Navy confirms a possible second expedition is in the works, in collaboration with the Chilean navy. Climate scientists from the first all-Canadian expedition in March hope it offers the chance to collect more samples, as preliminary results come in from the earlier research mission.",
       "bias_heuristic": {
         "article_type": "News",
@@ -190,25 +242,12 @@
       "url": "https://www.cbc.ca/news/politics/kirsten-hillman-canada-us-ambassador-interview-9.7022782?cmp=rss",
       "title": "Kirsten Hillman is leaving Washington. Here's what she's learned about Trump's America",
       "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "After eight years in Washington, D.C., Ambassador Kirsten Hillman will step down from her post in the new year. She sat down with CBC's The House to share how she connects with Trump-era Republicans and what Canadians need to know about the United States today.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.612,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "90f267b6ed2d6add54f50ea61cf6019a927c4383",
-      "url": "https://www.cbc.ca/news/canada/scc-indigenous-sentencing-options-9.7020398?cmp=rss",
-      "title": "Why a Nova Scotia assault case before Canada’s top court could set precedent for Indigenous sentencing options",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Mi'kmaw woman at the centre of an aggravated assault case now before the Supreme Court of Canada spoke about what she went through for the first time ever in an interview with CBC News. She says it's up to courts to find \"balance\" between sentencing Indigenous offenders and protecting Indigenous women who are victims.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
       }
     }
   ]
