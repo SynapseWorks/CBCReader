@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-20T20:17:46.112860-05:00",
+  "generated_at": "2025-12-21T09:13:39.013048-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c18b6ca57b923b86ba4673e32526fb1e84805d7c",
+      "url": "https://www.cbc.ca/news/world/thousands-gather-bondi-beach-mourn-victims-9.7024424?cmp=rss",
+      "title": "Thousands gather at Bondi Beach to mourn victims of antisemitic attack",
+      "published_at": "2025-12-21T03:51:08-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of mourners gathered under tight police security at Sydney’s iconic Bondi Beach on Sunday evening to mark a week since two gunmen targeting a Jewish festival killed 15 people. Since then, Australian governments have been galvanized into action on countering antisemitism and tightening already strict national gun controls.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c3308d7238e8a7b05a6570f86399ed9ebd7d00c",
+      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-dec-21-2025-9.7021231?cmp=rss",
+      "title": "Air Canada court battle and the sky high price of RAM: CBC's Marketplace cheat sheet",
+      "published_at": "2025-12-21T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC's Marketplace rounds up the consumer and health news you need from the week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d793860747893cce1f9e33567246b77bb53b4d43",
+      "url": "https://www.cbc.ca/news/world/illegal-fishing-somalia-piracy-9.7018340?cmp=rss",
+      "title": "Somalis say foreign ships are stealing their fish, and it's fuelling a piracy resurgence",
+      "published_at": "2025-12-20T23:00:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Piracy off the coast of Somalia is back in the headlines after European Union naval forces seized an Iranian fishing vessel last month that Somali pirates used to briefly hijack a Malta-flagged tanker carrying gasoline from India to South Africa. Fishermen insist the bigger problem in the region is that foreign vessels are fishing in waters intended for locals, harming their livelihoods.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "90b5ce8829f43311856558d5ff1df5e6f75dc2c7",
+      "url": "https://www.cbc.ca/news/world/culiacan-sinaloa-cartel-9.7022258?cmp=rss",
+      "title": "‘No respect for anything’: Life in the shadows of a Mexican cartel war",
+      "published_at": "2025-12-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fear and violence permeate Culiacán, Sinaloa, and its surrounding area in northwestern Mexico. The sun-seared state capital, with a population of a little more than one million, is also known as the cradle of the Sinaloa cartel, one of the most powerful organized crime groups in the world, which has fallen into a vicious civil war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.956,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c8f7420e25c3836872a5a62ae3de5ca15b5f8dca",
+      "url": "https://www.cbc.ca/news/canada/apprenticeships-registrations-certifications-9.7021768?cmp=rss",
+      "title": "In the trades, apprentices are increasing, but not enough are making it to certification",
+      "published_at": "2025-12-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More new apprentices are signing up than in the past 15 years, yet getting to certification remains a struggle. Financial concerns, difficulty finding employers and spotty guidance and mentorship for apprentices and journeypersons alike are among the barriers tripping up new tradespeople today.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.723,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "33eca5b68a9d7093017c240812107d42cf9495cb",
+      "url": "https://www.cbc.ca/news/canada/seasonal-depression-expert-advice-9.7021763?cmp=rss",
+      "title": "Winter blues got you down? Here’s what experts say could help",
+      "published_at": "2025-12-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "If the cold winter weather and lack of sunlight are darkening your mood, here's what some experts say could help.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9f679c372438d08e737ac6d1907be4b68f272954",
+      "url": "https://www.cbc.ca/news/entertainment/words-of-the-year-9.7021930?cmp=rss",
+      "title": "Rage-baiting the slop: Why are the words of the year so weird?",
+      "published_at": "2025-12-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Given how weird they've gotten, why are language experts picking internet-based fads as the words of the year? What arcane process leads to words of the year that vacillate from the brain-numbing to the politically charged? And, given how mad it makes everyone, why are they even bothering to do it?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.889,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "7c039381f1481d87d09b1df4773b7a7d9e9f63d7",
       "url": "https://www.cbc.ca/news/world/odesa-strike-russia-ukraine-peace-talks-miami-9.7024296?cmp=rss",
@@ -26,227 +117,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "69ed8d43f8429c75e8942189c6e16114342ff4e0",
-      "url": "https://www.cbc.ca/news/entertainment/bowen-yang-departing-snl-9.7024197?cmp=rss",
-      "title": "Bowen Yang to depart Saturday Night Live mid-season",
-      "published_at": "2025-12-20T08:11:06-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bowen Yang, coming off a huge year or two of projects, will depart Saturday Night Live mid-season after tonight's episode hosted by Ariana Grande, his Wicked buddy. Born in Australia, Yang has Canadian and U.S. citizenships.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51d899d95c10b09f8cbf2ddfeaec9d3a0adf2d65",
-      "url": "https://www.cbc.ca/news/world/mangione-bondi-conflict-of-interest-9.7024092?cmp=rss",
-      "title": "Luigi Mangione‘s lawyers say AG Pam Bondi's decision to seek death penalty a 'profound conflict of interest'",
-      "published_at": "2025-12-20T04:56:39-05:00",
-      "section": "World",
-      "summary_auto": "Luigi Mangione’s lawyers contend Attorney General Pam Bondi’s decision to seek the death penalty against him in the killing of UnitedHealthcare CEO Brian Thompson was tainted by her prior work as a lobbyist at a firm that represented the insurer’s parent company.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.954,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5bc0e9ba163bbcafb9962582b51593e4a44bd5e3",
-      "url": "https://www.cbc.ca/sports/jake-paul-anthony-joshua-ko-broken-jaw-9.7024103?cmp=rss",
-      "title": "Jake Paul reports 'double broken jaw' in KO loss to Anthony Joshua",
-      "published_at": "2025-12-20T04:26:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Jake Paul sustained a \"double broken jaw\" in his loss to former heavyweight champion Anthony Joshua, the YouTuber confirmed early Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4006b7506a10c96bd4aa3ce79670b0a910db250b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/creston-bc-christmas-stumps-decorated-9.7019911?cmp=rss",
-      "title": "‘I wouldn’t say they look good’: B.C. town combats complaints about tree stumps with festive decor",
-      "published_at": "2025-12-20T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The initial decoration of a couple of 'eyesore' tree stumps in Creston, B.C. by an anonymous source, leads town staff on a holiday–season decorating mission to spruce up the remaining stumps. While reactions to the initiative are mixed, the festive stumps have certainly become a talking point in the normally quiet southeastern B.C., mountain town.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "13af05fc15c12a64b0bd0b9fc66a71854d1661f6",
-      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/reece-howden-ski-cross-world-cup-december-20-9.7024067?cmp=rss",
-      "title": "Canada's Reece Howden wins back-to-back World Cup ski cross gold",
-      "published_at": "2025-12-20T03:18:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Reese Howden won gold at a ski cross event in Innichen, Italy, on Saturday for his second consecutive gold-medal result on the World Cup circuit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ced8833cc1268cb69bac9b4e93a856350a9a8a82",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-inventor-s-instrument-showcased-on-resurrection-soundtrack-9.7021461?cmp=rss",
-      "title": "Guelph inventor's instrument showcased on Resurrection soundtrack",
-      "published_at": "2025-12-20T02:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Fron2 instrument is featured heavily on the soundtrack for an international feature film called Resurrection by acclaimed Chinese filmmaker Bi Gan. The soundtrack was put together by the French electronic rock group M83 after Joe Berry, one of its members, became captivated by the unique instrument, which is made up of strings held between two wheels, played with a bow.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0572a2033ac84237d7d43dd5bf91dabc735b05e",
-      "url": "https://www.cbc.ca/radio/unreserved/sacred-seven-beaver-9.7019918?cmp=rss",
-      "title": "How the beaver is teaching Indigenous communities about ecological balance and reciprocity",
-      "published_at": "2025-12-20T02:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "The wise hardworking beaver is considered a keystone species. Found in every province and territory, beavers balance ecosystems with their industrious dams. They also have a special place in many Indigenous cultures.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f3f66e1a3f9b98b269c05e4b061f93b10444f6c3",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/indigenous-youth-empowerment-two-spirit-fashion-designer-stephanie-gamble-9.7018112?cmp=rss",
-      "title": "Turning pain into power: How a Cree fashion designer is working to inspire Indigenous youth",
-      "published_at": "2025-12-20T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Plains Cree fashion designer from Beardy’s & Okemasis Cree Nation, Stephanie Gamble is turning personal loss into purpose — lifting her children and Indigenous and two-spirit youth along the way.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f07c044c25a91173dd03fe2560e99f64db7e12fe",
-      "url": "https://www.cbc.ca/news/canada/christmas-travel-delays-9.7022815?cmp=rss",
-      "title": "The busiest travel days of the year are here — but will it be calm or chaos?",
-      "published_at": "2025-12-20T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "No matter you're going or how you're getting there, wise travellers this holiday season will be watching the forecasts, hoping for the best and preparing for anything.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b25ca905463d8fbddd05221cf946358acecb6a39",
-      "url": "https://www.cbc.ca/news/canada/second-sons-leaders-livestreams-9.7022853?cmp=rss",
-      "title": "‘The Nazis were right': What the leaders of Canada’s biggest ‘nationalist’ group really want",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In official posts, Second Sons Canada calls itself a “men’s nationalist club” and promotes a nostalgic vision of Canada. But on personal podcasts and livestreams, its leaders consistently espouse antisemitism, violent rhetoric, praise Nazi Germany and use racist slurs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.665,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "90f267b6ed2d6add54f50ea61cf6019a927c4383",
-      "url": "https://www.cbc.ca/news/canada/scc-indigenous-sentencing-options-9.7020398?cmp=rss",
-      "title": "She was assaulted by her partner. Canada's top court is considering a potentially precedent-setting appeal",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Mi'kmaw woman at the centre of an aggravated assault case now before the Supreme Court of Canada spoke about what she went through for the first time ever in an interview with CBC News. She says it's up to courts to find \"balance\" between sentencing Indigenous offenders and protecting Indigenous women who are victims.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b7aaa42e77ad73208e65a373d987ccffd848ba4",
-      "url": "https://www.cbc.ca/news/science/conservation-biodiversity-climate-carney-9.7020047?cmp=rss",
-      "title": "Canada promised new parks and nature protection. Has that shifted with Carney in power?",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Now, environmental groups and others are concerned that the apparent pivot from the Carney government will reverse years of progress made on nature conservation. Among the initiatives now facing uncertainty: new national parks and protected areas, as well as federal support for the Indigenous guardians program.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "286eb85b20510ed46e1ff8facd23607bc4bea742",
-      "url": "https://www.cbc.ca/news/entertainment/best-movies-film-2025-9.7018198?cmp=rss",
-      "title": "From Marty Supreme to Montreal, My Beautiful: The top 25 movies of 2025",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite a seemingly unending wave of bad news about the industry, 2025 managed to serve up more than a few phenomenal movies. From historical biopics to animated outings to a water polo camp from hell, here are some of our favourite releases from the past year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "8828ca661b9d5e1192ac11ae6a0c0311275d4ab1",
-      "url": "https://www.cbc.ca/news/health/health-stories-to-watch-2026-9.7022756?cmp=rss",
-      "title": "Cancer screening. Vaccine wariness. Family doctors. Our watch list for health stories in 2026",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Here’s what’s on the CBC Health Unit’s watch list for 2026: New approaches to connecting people with family doctors, anticipated changes to cancer screening, misinformation and vaccine wariness, future uses for GLP-1 agonists (like Ozempic and Wegovy) and the morphing toxic drug crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "90f267b6ed2d6add54f50ea61cf6019a927c4383",
-      "url": "https://www.cbc.ca/news/canada/scc-indigenous-sentencing-options-9.7020398?cmp=rss",
-      "title": "Why a Nova Scotia assault case before Canada’s top court could set precedent for Indigenous sentencing options",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Mi'kmaw woman at the centre of an aggravated assault case now before the Supreme Court of Canada spoke about what she went through for the first time ever in an interview with CBC News. She says it's up to courts to find \"balance\" between sentencing Indigenous offenders and protecting Indigenous women who are victims.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "cdb7ec13f5ecca3c7694c7b713bd9b59a342ca4f",
-      "url": "https://www.cbc.ca/news/climate/antarctic-expedition-polar-research-9.7022032?cmp=rss",
-      "title": "Canada's growing profile in Antarctic research may get a boost with expedition in 2026",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Canada's growing profile in Antarctic research may get another boost in early 2026, as the commander of the Royal Canadian Navy confirms a possible second expedition is in the works, in collaboration with the Chilean navy. Climate scientists from the first all-Canadian expedition in March hope it offers the chance to collect more samples, as preliminary results come in from the earlier research mission.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.893,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "daf3b0925fbf16e41677b2197dca717e3fdb3ca5",
-      "url": "https://www.cbc.ca/news/politics/kirsten-hillman-canada-us-ambassador-interview-9.7022782?cmp=rss",
-      "title": "Kirsten Hillman is leaving Washington. Here's what she's learned about Trump's America",
-      "published_at": "2025-12-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "After eight years in Washington, D.C., Ambassador Kirsten Hillman will step down from her post in the new year. She sat down with CBC's The House to share how she connects with Trump-era Republicans and what Canadians need to know about the United States today.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
         "subjectivity_hint": "low"
       }
     }
