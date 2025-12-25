@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-25T09:15:01.471171-05:00",
+  "generated_at": "2025-12-25T15:17:23.080307-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e8e79f16006bd7d4419d52e1ce3ed99600fb2009",
+      "url": "https://www.cbc.ca/news/world/mariupol-theatre-russia-ukraine-9.7021843?cmp=rss",
+      "title": "Russia is about to start staging plays at the Mariupol theatre it bombed",
+      "published_at": "2025-12-25T08:47:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c17e418225b9f1a48c99b39b1cb16cda85cfbf1e",
+      "url": "https://www.cbc.ca/news/canada/montreal/bodies-recovered-after-tractor-sinking-in-quebec-lake-9.7028187?cmp=rss",
+      "title": "Bodies of man and child recovered after tractor falls into Quebec lake",
+      "published_at": "2025-12-25T08:19:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The bodies of a man and child have been recovered after a tractor fell into a lake in the Lanaudière region of Quebec on Wednesday evening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dad07f16f1f5dcad2bdf7dc062a899bde2756055",
+      "url": "https://www.cbc.ca/news/world/california-holiday-storm-9.7028178?cmp=rss",
+      "title": "California storm blamed for at least 2 deaths with possibly more heavy rain, mudslides",
+      "published_at": "2025-12-25T07:48:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Southern California is bracing Thursday for another powerful storm system that could cause more flooding and mudslides, a day after heavy rain and gusty winds were blamed for at least two deaths, as people reported getting trapped. \"We're a little sad and upset that we're not going to be home with our families,\" said one resident.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.899,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "24ae31355dfa730b7f5fa94b755caab20ccc7ea3",
+      "url": "https://www.cbc.ca/news/world/king-charles-christmas-message-9.7028167?cmp=rss",
+      "title": "King Charles says unity in diversity will help 'right triumphs over wrong' in giving 4th Christmas address",
+      "published_at": "2025-12-25T06:40:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "9c1f313b94efa6cad5545db9e1c3b059cd22fd69",
       "url": "https://www.cbc.ca/news/world/turkey-raids-apparent-isis-members-detained-9.7028140?cmp=rss",
@@ -69,29 +121,16 @@
       }
     },
     {
-      "id": "8c1278948ea02832638fa6d287b40bea2fa7dfd9",
-      "url": "https://www.cbc.ca/news/world/epstein-files-unredacting-9.7027723?cmp=rss",
-      "title": "How internet sleuths are un-redacting some of the Epstein files",
+      "id": "3fb870026bac210540c9343f287b0d736a542aff",
+      "url": "https://www.cbc.ca/news/entertainment/marty-supreme-kevin-oleary-9.7027612?cmp=rss",
+      "title": "Need a 'real' villain? Call Kevin O'Leary. Why the Shark Tank star shows up in Marty Supreme",
       "published_at": "2025-12-24T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "While Democratic legislators, victims of Jeffrey Epstein and their lawyers have complained about the number of blacked-out pages and passages in the files released by the U.S. Department of Justice,  internet sleuths have figured out ways to un-redact some of the documents.",
+      "summary_auto": "In what might be some of the most WTF casting this year, Canadian businessman-turned-TV-host, Trump pal and wannabe political leader Kevin O'Leary features prominently in the new film Marty Supreme.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e8e79f16006bd7d4419d52e1ce3ed99600fb2009",
-      "url": "https://www.cbc.ca/news/world/mariupol-theatre-russia-ukraine-9.7021843?cmp=rss",
-      "title": "Russia is about to start staging plays at the Mariupol theatre it bombed",
-      "published_at": "2025-12-24T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Russian state media reported that the theatre is slated to officially reopen on Dec. 25, and that plays will start being staged there at some point in the new year. Russian occupation authorities have renamed it the Mariupol Republican Order of the Badge of Honour Russian Drama Theatre, and on its website write that the theatre is being reborn, like the entire city of Mariupol.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.848,
-        "subjectivity_hint": "low"
+        "sentiment": -0.302,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -121,16 +160,16 @@
       }
     },
     {
-      "id": "3fb870026bac210540c9343f287b0d736a542aff",
-      "url": "https://www.cbc.ca/news/entertainment/marty-supreme-kevin-oleary-9.7027612?cmp=rss",
-      "title": "Need a 'real' villain? Call Kevin O'Leary. Why the Shark Tank star shows up in Marty Supreme",
+      "id": "8c1278948ea02832638fa6d287b40bea2fa7dfd9",
+      "url": "https://www.cbc.ca/news/world/epstein-files-unredacting-9.7027723?cmp=rss",
+      "title": "How internet sleuths are un-redacting some of the Epstein files",
       "published_at": "2025-12-24T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In what might be some of the most WTF casting this year, Canadian businessman-turned-TV-host, Trump pal and wannabe political leader Kevin O'Leary features prominently in the new film Marty Supreme.",
+      "section": "World",
+      "summary_auto": "While Democratic legislators, victims of Jeffrey Epstein and their lawyers have complained about the number of blacked-out pages and passages in the files released by the U.S. Department of Justice,  internet sleuths have figured out ways to un-redact some of the documents.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.302,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -143,136 +182,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79900bed916c0436f85a8b92c3b6c18efda98b6f",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-long-health-care-waits-end-2026-9.7026848?cmp=rss",
-      "title": "Unions, PCs skeptical as Manitoba premier promises end to long waits in health care in 2026",
-      "published_at": "2025-12-24T14:52:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some health-care leaders are questioning how Manitoba Premier Wab Kinew can confidently declare his government will end long waits for health-care services by the end of 2026.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ed147efb9ff535bf0889fe7f5b34ac89d8e7f890",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/100-year-old-veteran-b-c-new-westminster-christmas-card-campaign-results-9.7027945?cmp=rss",
-      "title": "A campaign tried to get 100 Christmas cards to a 100-year-old B.C. veteran. He has 700 and counting",
-      "published_at": "2025-12-24T13:21:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A campaign for one of Canada's few remaining Second World War veterans, Irv Radatzke, to receive 100  Christmas cards this holiday season has exceeded expectations while also brightening his time in hospital.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.407,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e6b1fedf2dd32187aaa4bc5110d9a3705dcbaa75",
-      "url": "https://www.cbc.ca/news/world/honduras-president-election-winner-nasry-asfura-9.7027947?cmp=rss",
-      "title": "After weeks of vote counting, Trump-backed candidate wins Honduras presidential election",
-      "published_at": "2025-12-24T12:54:06-05:00",
-      "section": "World",
-      "summary_auto": "Trump-backed candidate Nasry Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the Central American nation's fragile electoral system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d68558bffcab57a14b2273dfbe87e961f1d8795c",
-      "url": "https://www.cbc.ca/news/world/california-holiday-storm-9.7027922?cmp=rss",
-      "title": "Winter storm inundates California with heavy rain, mudslides and whiteout chaos",
-      "published_at": "2025-12-24T12:09:28-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A powerful winter storm swept across California on Wednesday, with heavy rain and gusty winds leading to evacuation warnings for mudslides in the south, bringing near white-out snow conditions in the mountains and hazardous travel for millions of holiday drivers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "93a9570e3b4f9640d4c0252d2e1e0d74d8b61d6c",
-      "url": "https://www.cbc.ca/news/science/faith-climate-emissions-activism-9.7027802?cmp=rss",
-      "title": "Why this 80-year-old Anglican deacon courted arrest for his climate activism",
-      "published_at": "2025-12-24T11:34:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Faith leaders are increasingly speaking out, and even facing arrest, for their climate activism.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f0d8fc56c5ab3e6390d30c96713558b8bed16b81",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/black-bear-cub-burned-northern-bc-9.7027816?cmp=rss",
-      "title": "'Truly a Christmas miracle': Black bear cub survives being burned in northern B.C.",
-      "published_at": "2025-12-24T10:55:49-05:00",
-      "section": "Canada",
-      "summary_auto": "Rescuers said the clock was ticking on whether the cub would even survive the night, given it was at least a nine-hour drive away in ideal conditions — let alone in  bitterly cold conditions that were enveloping the province throughout the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "72a5a2705f5f70671275b50bd69c11b0b4ab7b31",
-      "url": "https://www.cbc.ca/news/world/cecot-megaprison-el-salvador-bukele-trump-deportations-9.7027759?cmp=rss",
-      "title": "What we know about CECOT, the brutal mega-prison at the heart of the recent 60 Minutes controversy",
-      "published_at": "2025-12-24T10:42:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6cc4c58330ce8b6f92fc97706da80ad10e4c2f8a",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/over-the-hill-orchards-winery-online-gift-cards-giftly-businesses-9.7026900?cmp=rss",
-      "title": "Multiple Canadian businesses listed on U.S.-based 'gift card' site without permission",
-      "published_at": "2025-12-24T10:17:25-05:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fadbeb651756508701bbad37196611a928700962",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/powell-river-tree-vandalism-9.7027683?cmp=rss",
-      "title": "RCMP say 70 trees deliberately cut, left to die in Powell River, B.C.",
-      "published_at": "2025-12-24T09:38:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Police say municipal staff inspected the site and found the trees were left standing but had been cut around their bases, likely with a chainsaw. Many of the trees that were cut were older-growth Douglas fir trees, valuable to the community and ecosystem.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.485,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9a3fb9afc0d95548b5f01445169aaf12a0fd4cb",
-      "url": "https://www.cbc.ca/news/health/pillsbury-pizza-pop-ecoli-outbreak-9.7027750?cmp=rss",
-      "title": "5th person hospitalized in E. coli outbreak linked to Pillsbury brand Pizza Pops",
-      "published_at": "2025-12-24T09:15:26-05:00",
-      "section": "Canada",
-      "summary_auto": "The Public Health Agency of Canada is reporting a fifth hospitalization in an E. coli outbreak linked to recalled Pillsbury\nbrand Pizza Pops. The federal agency says 23 people in seven provinces got sick with the bacterial illness after eating or handling\ncertain flavours of the frozen snack between early October and late November.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     }
