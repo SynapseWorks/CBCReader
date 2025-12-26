@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-25T15:17:23.080307-05:00",
+  "generated_at": "2025-12-25T20:13:10.379508-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "87de86e1c94196fba912851686eaf580b406c417",
+      "url": "https://www.cbc.ca/news/world/us-nigeria-airstrike-christmas-day-9.7028229?cmp=rss",
+      "title": "U.S. launches 'powerful and deadly' airstrike in northwest Nigeria",
+      "published_at": "2025-12-25T14:19:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The United States carried out an airstrike against Islamic State militants in northwest Nigeria at the request of Nigeria's government, U.S. President Donald Trump and the U.S. military said on Thursday, claiming the group had been targeting Christians in the region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "42367cc5c7a81f3c9138631a594c8368da2b7013",
+      "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-us-latest-talks-9.7028212?cmp=rss",
+      "title": "Ukraine's Zelenskyy says latest peace talks with U.S. negotiators were positive",
+      "published_at": "2025-12-25T10:19:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ukrainian President Volodymyr Zelenskyy said on Thursday that he spoke with special envoy Steve Witkoff and U.S. President Donald Trump's son-in-law Jared Kushner for \"nearly an hour\" about how to end the war with Russia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "e8e79f16006bd7d4419d52e1ce3ed99600fb2009",
       "url": "https://www.cbc.ca/news/world/mariupol-theatre-russia-ukraine-9.7021843?cmp=rss",
@@ -169,19 +195,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2bc95bb7f2195804a9e7b8887b87ca7a64920c86",
-      "url": "https://www.cbc.ca/news/world/in-photos-christmas-celebrations-from-around-the-world-9.7028035?cmp=rss",
-      "title": "IN PHOTOS | Christmas celebrations from around the world",
-      "published_at": "2025-12-24T15:38:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "From meat auctions to surf competitions, here are some Christmas events and celebrations happening around the world.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
