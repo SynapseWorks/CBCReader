@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-26T15:16:30.563045-05:00",
+  "generated_at": "2025-12-26T20:11:14.209316-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "51f17d023d33dace28dcbf1eb07d9927ff351fbe",
+      "url": "https://www.cbc.ca/news/canada/montreal/asylum-seekers-crossing-monteregie-quebec-rcmp-9.7028403?cmp=rss",
+      "title": "Group of asylum seekers arrested in Montérégie, Que.",
+      "published_at": "2025-12-26T11:08:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nineteen asylum seekers of Haitian origin were arrested Thursday night in the Havelock area of Montérégie, Que., according to the Royal Canadian Mounted Police.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fc5f40bbdf3d6b20b81674b6c1c0d31f0b3cb659",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/painted-bunting-rare-bird-in-bayfield-nb-9.7028376?cmp=rss",
+      "title": "Rare painted bunting sighting a 'Christmas gem' for some N.B. birders",
+      "published_at": "2025-12-26T10:57:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The painted bunting usually calls the southern U.S. home and travels south at this time of year, but one decided to spend its Christmas holidays up north in Bayfield, N.B.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "68ee7b5add3bd533279a87068a7b107f89e03989",
       "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-named-cp-female-athlete-of-the-year-2025-9.7028305?cmp=rss",
@@ -19,22 +45,9 @@
     {
       "id": "780d7fd3cbeea20da25e0da3009817444faa9e96",
       "url": "https://www.cbc.ca/news/world/zelenskyy-trump-meeting-sunday-florida-9.7028266?cmp=rss",
-      "title": "Ukraine's Zelenskyy says peace proposal 'about 90 per cent ready' ahead of Sunday meeting with Trump",
-      "published_at": "2025-12-26T05:47:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy says he'll meet with U.S. President Donald Trump in Florida on Sunday to discuss security guarantees and \"an economic agreement,\" the latest development in a U.S.-led diplomatic push to end the nearly four-year Ukraine-Russia war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "780d7fd3cbeea20da25e0da3009817444faa9e96",
-      "url": "https://www.cbc.ca/news/world/zelenskyy-trump-meeting-sunday-florida-9.7028266?cmp=rss",
       "title": "Zelenskyy, Trump to meet in Florida on Sunday amid efforts to end Ukraine-Russia war",
       "published_at": "2025-12-26T05:47:53-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "Ukrainian President Volodymyr Zelenskyy says he'll meet with U.S. President Donald Trump in Florida on Sunday to discuss security guarantees and \"an economic agreement,\" the latest development in a U.S.-led diplomatic push to end the nearly four-year Ukraine-Russia war.",
       "bias_heuristic": {
         "article_type": "News",
@@ -69,15 +82,15 @@
       }
     },
     {
-      "id": "87de86e1c94196fba912851686eaf580b406c417",
-      "url": "https://www.cbc.ca/news/world/us-nigeria-airstrike-christmas-day-9.7028229?cmp=rss",
-      "title": "Hegseth says 'more to come' after U.S. launches airstrikes in Nigeria",
+      "id": "52decf4f800fd88f4f7442e4c1739ecace3be280",
+      "url": "https://www.cbc.ca/news/world/trump-bombing-strikes-peace-president-9.7028340?cmp=rss",
+      "title": "Trump says he's the 'president of peace' — so why is he bombing so many overseas hotspots?",
       "published_at": "2025-12-26T04:24:10-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -125,7 +138,7 @@
       "url": "https://www.cbc.ca/news/world/turkey-apprehends-suspected-isis-member-planned-new-year-attacks-9.7028251?cmp=rss",
       "title": "Turkey arrests suspected ISIS member linked to planning attacks on new year celebrations",
       "published_at": "2025-12-26T01:14:54-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Turkish authorities said Friday they've apprehended a suspected ISIS member who was planning attacks on celebrations ushering in the new year. It comes a day after the prosecutor's office said authorities carried out raids and then detained over 100 people linked to the militant group.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,19 +173,6 @@
       }
     },
     {
-      "id": "3f9295c5ee7f2cd0c0d90a3b85012c625503f1ae",
-      "url": "https://www.cbc.ca/news/canada/first-person-kristine-thoreson-christmas-tree-9.7023810?cmp=rss",
-      "title": "After a decade of hunting Christmas trees, I've learned to cherish many gifts from the forest",
-      "published_at": "2025-12-25T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "This year, Kristine Thoreson realized that the annual family adventure to the forest became less about what they take and more about the tradition that they have made together.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "5b85c31bc4da01dad3fec7647a8d8512bfe4ac8d",
       "url": "https://www.cbc.ca/books/thenextchapter/nova-scotia-author-rachel-reid-shares-how-to-cure-your-heated-rivalry-hangover-9.7020913?cmp=rss",
       "title": "Nova Scotia author Rachel Reid shares how to cure your Heated Rivalry hangover",
@@ -183,6 +183,19 @@
         "article_type": "News",
         "sentiment": 0.542,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f9295c5ee7f2cd0c0d90a3b85012c625503f1ae",
+      "url": "https://www.cbc.ca/news/canada/first-person-kristine-thoreson-christmas-tree-9.7023810?cmp=rss",
+      "title": "After a decade of hunting Christmas trees, I've learned to cherish many gifts from the forest",
+      "published_at": "2025-12-25T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "This year, Kristine Thoreson realized that the annual family adventure to the forest became less about what they take and more about the tradition that they have made together.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
+        "subjectivity_hint": "medium"
       }
     },
     {
