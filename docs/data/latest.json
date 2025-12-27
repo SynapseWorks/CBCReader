@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-27T09:13:47.256614-05:00",
+  "generated_at": "2025-12-27T15:16:20.445421-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "9d497ebe3d44eee59c7b1015876bb931d715230f",
+      "url": "https://www.cbc.ca/news/world/jeffrey-r-holland-obit-mormon-church-jesus-christ-latter-day-saints-9.7028616?cmp=rss",
+      "title": "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dead at 85",
+      "published_at": "2025-12-27T09:46:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Holland died early Saturday morning from complications associated with kidney disease, the Church of Jesus Christ of Latter-day Saints announced on its website.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9909cc4911e61646078133308b33e679e85ce63d",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-orders-review-after-man-dies-waiting-in-edmonton-emergency-department-9.7028583?cmp=rss",
+      "title": "Alberta orders review after man dies waiting in Edmonton emergency department",
+      "published_at": "2025-12-27T08:05:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Minister of Hospital and Surgical Health Services Matt Jones said on social media Friday that he had directed Acute Care Alberta to work with Covenant Health to review the circumstances and potential contributing factors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c88faa23c1d94b6ffac6d53332cf5638a0369129",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/named-cp-male-athlete-of-the-year-2025-9.7028557?cmp=rss",
+      "title": "Shai Gilgeous-Alexander named Canadian Press male athlete of the year for 2nd time",
+      "published_at": "2025-12-27T06:08:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "There's no debating it: Shai Gilgeous-Alexander had one of the best years an athlete could have. Gilgeous-Alexander was named The Canadian Press' Male Athlete of the Year on Saturday, easily winning the award for the second time in his career.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.906,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2bcc37166f50d838715fe8ebed14cac416b28ed1",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/winter-storm-dec-27-9.7028544?cmp=rss",
+      "title": "Heavy snow and high winds continue to batter parts of N.L.",
+      "published_at": "2025-12-27T05:48:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It’s another stormy day for much of Newfoundland and Labrador, with several areas under weather warnings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8e9aebff888aa43bb32b6c3ae6650b9b781b33b0",
+      "url": "https://www.cbc.ca/news/canada/calgary/reptiles-amphibians-arachnids-exotic-pets-calgary-9.6989297?cmp=rss",
+      "title": "Exotic pets growing in popularity — but owning one comes with challenges",
+      "published_at": "2025-12-27T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Calgary is cementing itself as one of Canada's top exotic pet hot spots, according to hobbyists, but reptiles and arachnids still have a PR issue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.619,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aad406724156d627e1dacf2032d9f3b5c02dfaa1",
+      "url": "https://www.cbc.ca/news/canada/north/history-of-nwt-polar-bear-licence-plate-9.7021744?cmp=rss",
+      "title": "How the N.W.T.'s polar bear licence plate became a 'holy grail' for collectors",
+      "published_at": "2025-12-27T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Northwest Territories adopted its polar bear-shaped licence plate in 1970 for the territory’s centennial year. Over 50 years later, the unique plate is still coveted by collectors around the world.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "91c7b3d3d5842fde8ef64bf4a3e384f10e46fad2",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-free-birth-control-9.7022644?cmp=rss",
+      "title": "More than 53,000 Manitobans accessed free birth control in 1st year of provincial program",
+      "published_at": "2025-12-27T01:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "More than 53,000 eligible Manitobans have accessed birth control at no cost in the first year of the provincial government's free contraception program, the province says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "78236ebe580f4abc983015d302965ccb15e8cddd",
       "url": "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492?cmp=rss",
@@ -17,6 +108,45 @@
       }
     },
     {
+      "id": "3c4a1aaeb7e50c878344dfd326c6f7add8f0bed9",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/at-sea-observer-program-is-broken-advocates-say-but-electronic-tools-and-ai-could-help-9.7025221?cmp=rss",
+      "title": "At-sea observer program for Atlantic Canada’s fisheries is ‘broken,’ advocates say",
+      "published_at": "2025-12-27T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates say the observer program for Atlantic Canada’s fisheries is \"broken,\" with many fisheries failing to meet required levels for monitoring by at-sea observers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "51649256475e02d7acaa3bd7a2ae37137069d8ac",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-history-of-paramedicine-on-pei-new-book-9.7010360?cmp=rss",
+      "title": "From hearses to ambulances: New book traces P.E.I.’s history of emergency care",
+      "published_at": "2025-12-27T00:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Did you know ambulance services on Prince Edward Island were once largely provided by funeral homes?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7cccf83c779fe33f0448f36892c6bfcc8c8dccc6",
+      "url": "https://www.cbc.ca/news/canada/ottawa/major-changes-to-ontario-law-on-job-postings-coming-jan-1-9.7026281?cmp=rss",
+      "title": "Major changes to Ontario law on job postings coming Jan. 1",
+      "published_at": "2025-12-26T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario will introduce new rules on how publicly advertised job can be posted from Jan. 1. Here's what you need to know.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1a67ddf1bf7c2be53b69059e3ae1ce0d81cdc0c8",
       "url": "https://www.cbc.ca/news/politics/navy-canada-arctic-defence-landing-ship-9.7027777?cmp=rss",
       "title": "Navy ponders concept of Canadian-built amphibious landing ship for Arctic operations",
@@ -26,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4c751ac577a4a7bcd188c4b34b0763634a249327",
+      "url": "https://www.cbc.ca/news/canada/ontario-bill5-heritage-act-archaeology-indigenous-burial-9.6984496?cmp=rss",
+      "title": "Political control over ancient sites sparks alarm in Ontario",
+      "published_at": "2025-12-26T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In Ontario, where ancient Indigenous burial grounds and village sites lie beneath rapidly expanding suburbs, the government has granted itself powers to bypass archaeological protections, raising fears that centuries of history could be lost with the stroke of a minister’s pen.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
         "subjectivity_hint": "medium"
       }
     },
@@ -53,19 +196,6 @@
         "article_type": "News",
         "sentiment": 0.517,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c751ac577a4a7bcd188c4b34b0763634a249327",
-      "url": "https://www.cbc.ca/news/canada/ontario-bill5-heritage-act-archaeology-indigenous-burial-9.6984496?cmp=rss",
-      "title": "Political control over ancient sites sparks alarm in Ontario",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In Ontario, where ancient Indigenous burial grounds and village sites lie beneath rapidly expanding suburbs, the government has granted itself powers to bypass archaeological protections, raising fears that centuries of history could be lost with the stroke of a minister’s pen.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -104,32 +234,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51f17d023d33dace28dcbf1eb07d9927ff351fbe",
-      "url": "https://www.cbc.ca/news/canada/montreal/asylum-seekers-crossing-monteregie-quebec-rcmp-9.7028403?cmp=rss",
-      "title": "Group of asylum seekers arrested in Montérégie, Que.",
-      "published_at": "2025-12-26T11:08:19-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nineteen asylum seekers of Haitian origin were arrested Thursday night in the Havelock area of Montérégie, Que., according to the Royal Canadian Mounted Police.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fc5f40bbdf3d6b20b81674b6c1c0d31f0b3cb659",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/painted-bunting-rare-bird-in-bayfield-nb-9.7028376?cmp=rss",
-      "title": "Rare painted bunting sighting a 'Christmas gem' for some N.B. birders",
-      "published_at": "2025-12-26T10:57:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The painted bunting usually calls the southern U.S. home and travels south at this time of year, but one decided to spend its Christmas holidays up north in Bayfield, N.B.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
         "subjectivity_hint": "low"
       }
     }
