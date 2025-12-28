@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-27T15:16:20.445421-05:00",
+  "generated_at": "2025-12-27T20:20:57.137323-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8549b54ef981570d5ffaab16a0585f79ce2f9d40",
+      "url": "https://www.cbc.ca/sports/hockey/canada-latvia-world-junior-recap-december-27-9.7028660?cmp=rss",
+      "title": "Canada squeaks by Latvia in overtime at men's world junior hockey championship",
+      "published_at": "2025-12-27T14:57:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Michael Hage scored on a power play 44 seconds into overtime as Canada survived a blown late lead to pick up a 2-1 victory over Latvia at the world junior hockey championship Saturday in Minneapolis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3362bcadd134181fe1d1cb6bf4ab8f910829275",
+      "url": "https://www.cbc.ca/news/world/myanmar-election-9.7028688?cmp=rss",
+      "title": "Amid a civil war, polls open in Myanmar for 1st time since military coup 5 years ago",
+      "published_at": "2025-12-27T14:11:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Voters went to the polls Sunday for the initial phase of Myanmar's first general election in five years, held under the supervision of its military government while a civil war rages throughout much of the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a5bf2be8130ced4ad8e267edc4988f258bdfc6a",
+      "url": "https://www.cbc.ca/news/canada/edmonton/two-killed-in-northern-alberta-shooting-suspect-arrested-9.7028668?cmp=rss",
+      "title": "Two killed in northern Alberta shooting, suspect arrested",
+      "published_at": "2025-12-27T13:15:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "One man is in custody after two people were killed near Grande Prairie, Alta. early Saturday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.936,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "9d497ebe3d44eee59c7b1015876bb931d715230f",
       "url": "https://www.cbc.ca/news/world/jeffrey-r-holland-obit-mormon-church-jesus-christ-latter-day-saints-9.7028616?cmp=rss",
@@ -21,7 +60,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/alberta-orders-review-after-man-dies-waiting-in-edmonton-emergency-department-9.7028583?cmp=rss",
       "title": "Alberta orders review after man dies waiting in Edmonton emergency department",
       "published_at": "2025-12-27T08:05:39-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Minister of Hospital and Surgical Health Services Matt Jones said on social media Friday that he had directed Acute Care Alberta to work with Covenant Health to review the circumstances and potential contributing factors.",
       "bias_heuristic": {
         "article_type": "News",
@@ -43,9 +82,9 @@
       }
     },
     {
-      "id": "2bcc37166f50d838715fe8ebed14cac416b28ed1",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/winter-storm-dec-27-9.7028544?cmp=rss",
-      "title": "Heavy snow and high winds continue to batter parts of N.L.",
+      "id": "32f510b9e3ac87c50d782a072321d2b10c63ace1",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/winter-storm-dec-27-newfoundland-labrador-9.7028544?cmp=rss",
+      "title": "Heavy snow, high winds continue to batter parts of N.L.",
       "published_at": "2025-12-27T05:48:52-05:00",
       "section": "Top Stories",
       "summary_auto": "It’s another stormy day for much of Newfoundland and Labrador, with several areas under weather warnings.",
@@ -134,6 +173,19 @@
       }
     },
     {
+      "id": "e12226f227a182af55d04fe652647ff9d6c32bc6",
+      "url": "https://www.cbc.ca/news/canada/toronto/world-cup-tickets-ontario-resale-regulations-9.7023518?cmp=rss",
+      "title": "World Cup tickets in Toronto are expensive to begin with. Ontario's resale regulations don't help",
+      "published_at": "2025-12-26T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With tickets to next year's six World Cup games in Toronto selling out as quickly as they're released, the only option for most soccer fans is the resale market. But a 2019 decision by the Ontario government has allowed tickets to those matches, and other major events, to go sky high.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.16,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7cccf83c779fe33f0448f36892c6bfcc8c8dccc6",
       "url": "https://www.cbc.ca/news/canada/ottawa/major-changes-to-ontario-law-on-job-postings-coming-jan-1-9.7026281?cmp=rss",
       "title": "Major changes to Ontario law on job postings coming Jan. 1",
@@ -173,19 +225,6 @@
       }
     },
     {
-      "id": "e12226f227a182af55d04fe652647ff9d6c32bc6",
-      "url": "https://www.cbc.ca/news/canada/toronto/world-cup-tickets-ontario-resale-regulations-9.7023518?cmp=rss",
-      "title": "World Cup tickets in Toronto are expensive to begin with. Ontario's resale regulations don't help",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "With tickets to next year's six World Cup games in Toronto selling out as quickly as they're released, the only option for most soccer fans is the resale market. But a 2019 decision by the Ontario government has allowed tickets to those matches, and other major events, to go sky high.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.16,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "d34191861da3d9567cb68a4d095fa877af26fa4b",
       "url": "https://www.cbc.ca/news/canada/in-photos-2025-s-top-canadian-images-9.7016078?cmp=rss",
       "title": "IN PHOTOS | 2025's top Canadian images",
@@ -208,32 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "84d487e69ef5a70378868c1c2da3fc5c697a9f91",
-      "url": "https://www.cbc.ca/news/canada/annette-dionne-obit-9.7028478?cmp=rss",
-      "title": "Annette Dionne, last of the famed Canadian quintuplets, dies at 91",
-      "published_at": "2025-12-26T19:10:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After she and her siblings were taken from their parents in the 1930s and put on display for tourists, Annette Dionne became a champion of children's rights. She died on Christmas Eve, according to The Dionne Quints Home Museum in North Bay, Ont.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bd98cb72e4f90dfcb49414766e299aa3a8485890",
-      "url": "https://www.cbc.ca/sports/hockey/canada-czech-republic-world-juniors-dec26-9.7028473?cmp=rss",
-      "title": "Canada holds off Czechs in wild opener of men’s junior hockey worlds",
-      "published_at": "2025-12-26T18:28:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ethan MacKenzie scored the game-winning goal in the third period as Canada opened the world junior hockey championship with a nervy 7-5 victory over the Czech Republic on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
         "subjectivity_hint": "low"
       }
     }
