@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-27T20:20:57.137323-05:00",
+  "generated_at": "2025-12-28T09:14:08.860386-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "1344c9b0065c05786c7eb25adc34687438ce5d79",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/wintry-weather-warnings-issued-for-parts-of-nova-scotia-new-brunswick-9.7028733?cmp=rss",
+      "title": "Wintry weather warnings issued for parts of Nova Scotia, New Brunswick",
+      "published_at": "2025-12-28T03:18:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Environment Canada has issued  yellow warnings  for wintry conditions in parts of Nova Scotia and New Brunswick.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f7ff4121f0015e8e2534d92bad34ab370a5774aa",
+      "url": "https://www.cbc.ca/news/canada/calgary/harry-longabaugh-sundance-kid-alberta-9.6978431?cmp=rss",
+      "title": "Before robbing trains in the States, the Sundance Kid was a cowboy in Alberta",
+      "published_at": "2025-12-28T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Harry Longabaugh — better known as the Sundance Kid — is perhaps most famous for his daring bank and train robberies as part of Butch Cassidy’s Wild Bunch. But the American outlaw’s short stint as a cowboy and businessman in southern Alberta is a lesser-known chapter of Wild West history.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a5ed602245977aa662442fd4d905def6d56dddf",
+      "url": "https://www.cbc.ca/news/canada/north/canadian-icebreaker-last-sea-ice-tuvaijuittuq-9.7025887?cmp=rss",
+      "title": "In 2025, melting sea ice allowed a Canadian icebreaker to enter the world's last ice area",
+      "published_at": "2025-12-28T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Often referred to as the one of the last places in the world with year-round sea ice, the waterways around Queen Elizabeth Islands and western Tuvaijuittuq have historically been difficult to access. But in 2025, melting sea ice opened a path for a Canadian research icebreaker to sail through this part of the country for the first time ever.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.19,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8781b9e556ec1f4c0dfe25d8930f56d501aad744",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-cae-home-pandemic-informed-rebuild-9.7000622?cmp=rss",
+      "title": "This Toronto long-term care home is being redesigned after learning from the COVID-19 pandemic",
+      "published_at": "2025-12-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A downtown Toronto long-term care home is rebuilding with a new design that considers lessons learned from the COVID-19 pandemic, going beyond the province’s standards — but some say those standards are out of date.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "322b0e82cb33eb4b1fa1cfc118991feab6ffc019",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-2025-in-photos-9.6990253?cmp=rss",
+      "title": "IN PHOTOS | Highlights from Toronto's 2025",
+      "published_at": "2025-12-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News photographer Evan Mitsui captured the Toronto Blue Jays' epic season, plus other notable events in Toronto and the GTA during the year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "8549b54ef981570d5ffaab16a0585f79ce2f9d40",
       "url": "https://www.cbc.ca/sports/hockey/canada-latvia-world-junior-recap-december-27-9.7028660?cmp=rss",
@@ -52,201 +117,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9909cc4911e61646078133308b33e679e85ce63d",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-orders-review-after-man-dies-waiting-in-edmonton-emergency-department-9.7028583?cmp=rss",
-      "title": "Alberta orders review after man dies waiting in Edmonton emergency department",
-      "published_at": "2025-12-27T08:05:39-05:00",
-      "section": "Canada",
-      "summary_auto": "Minister of Hospital and Surgical Health Services Matt Jones said on social media Friday that he had directed Acute Care Alberta to work with Covenant Health to review the circumstances and potential contributing factors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c88faa23c1d94b6ffac6d53332cf5638a0369129",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/named-cp-male-athlete-of-the-year-2025-9.7028557?cmp=rss",
-      "title": "Shai Gilgeous-Alexander named Canadian Press male athlete of the year for 2nd time",
-      "published_at": "2025-12-27T06:08:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "There's no debating it: Shai Gilgeous-Alexander had one of the best years an athlete could have. Gilgeous-Alexander was named The Canadian Press' Male Athlete of the Year on Saturday, easily winning the award for the second time in his career.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.906,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "32f510b9e3ac87c50d782a072321d2b10c63ace1",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/winter-storm-dec-27-newfoundland-labrador-9.7028544?cmp=rss",
-      "title": "Heavy snow, high winds continue to batter parts of N.L.",
-      "published_at": "2025-12-27T05:48:52-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It’s another stormy day for much of Newfoundland and Labrador, with several areas under weather warnings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8e9aebff888aa43bb32b6c3ae6650b9b781b33b0",
-      "url": "https://www.cbc.ca/news/canada/calgary/reptiles-amphibians-arachnids-exotic-pets-calgary-9.6989297?cmp=rss",
-      "title": "Exotic pets growing in popularity — but owning one comes with challenges",
-      "published_at": "2025-12-27T02:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Calgary is cementing itself as one of Canada's top exotic pet hot spots, according to hobbyists, but reptiles and arachnids still have a PR issue.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.619,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aad406724156d627e1dacf2032d9f3b5c02dfaa1",
-      "url": "https://www.cbc.ca/news/canada/north/history-of-nwt-polar-bear-licence-plate-9.7021744?cmp=rss",
-      "title": "How the N.W.T.'s polar bear licence plate became a 'holy grail' for collectors",
-      "published_at": "2025-12-27T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Northwest Territories adopted its polar bear-shaped licence plate in 1970 for the territory’s centennial year. Over 50 years later, the unique plate is still coveted by collectors around the world.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "91c7b3d3d5842fde8ef64bf4a3e384f10e46fad2",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-free-birth-control-9.7022644?cmp=rss",
-      "title": "More than 53,000 Manitobans accessed free birth control in 1st year of provincial program",
-      "published_at": "2025-12-27T01:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "More than 53,000 eligible Manitobans have accessed birth control at no cost in the first year of the provincial government's free contraception program, the province says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "78236ebe580f4abc983015d302965ccb15e8cddd",
-      "url": "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492?cmp=rss",
-      "title": "Thailand, Cambodia sign new ceasefire deal to end weeks of border fighting",
-      "published_at": "2025-12-27T00:32:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Thailand and Cambodia on Saturday signed a ceasefire agreement to end weeks of armed combat along their border over competing claims to territory. It took effect at noon local time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c4a1aaeb7e50c878344dfd326c6f7add8f0bed9",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/at-sea-observer-program-is-broken-advocates-say-but-electronic-tools-and-ai-could-help-9.7025221?cmp=rss",
-      "title": "At-sea observer program for Atlantic Canada’s fisheries is ‘broken,’ advocates say",
-      "published_at": "2025-12-27T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Advocates say the observer program for Atlantic Canada’s fisheries is \"broken,\" with many fisheries failing to meet required levels for monitoring by at-sea observers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51649256475e02d7acaa3bd7a2ae37137069d8ac",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-history-of-paramedicine-on-pei-new-book-9.7010360?cmp=rss",
-      "title": "From hearses to ambulances: New book traces P.E.I.’s history of emergency care",
-      "published_at": "2025-12-27T00:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Did you know ambulance services on Prince Edward Island were once largely provided by funeral homes?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e12226f227a182af55d04fe652647ff9d6c32bc6",
-      "url": "https://www.cbc.ca/news/canada/toronto/world-cup-tickets-ontario-resale-regulations-9.7023518?cmp=rss",
-      "title": "World Cup tickets in Toronto are expensive to begin with. Ontario's resale regulations don't help",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "With tickets to next year's six World Cup games in Toronto selling out as quickly as they're released, the only option for most soccer fans is the resale market. But a 2019 decision by the Ontario government has allowed tickets to those matches, and other major events, to go sky high.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.16,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7cccf83c779fe33f0448f36892c6bfcc8c8dccc6",
-      "url": "https://www.cbc.ca/news/canada/ottawa/major-changes-to-ontario-law-on-job-postings-coming-jan-1-9.7026281?cmp=rss",
-      "title": "Major changes to Ontario law on job postings coming Jan. 1",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario will introduce new rules on how publicly advertised job can be posted from Jan. 1. Here's what you need to know.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a67ddf1bf7c2be53b69059e3ae1ce0d81cdc0c8",
-      "url": "https://www.cbc.ca/news/politics/navy-canada-arctic-defence-landing-ship-9.7027777?cmp=rss",
-      "title": "Navy ponders concept of Canadian-built amphibious landing ship for Arctic operations",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "With Canada ramping up defence spending, the navy is looking at how it can move equipment and personnel quickly throughout the Arctic and the world. The answer might be an amphibious landing ship, says the commander of the Royal Canadian Navy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4c751ac577a4a7bcd188c4b34b0763634a249327",
-      "url": "https://www.cbc.ca/news/canada/ontario-bill5-heritage-act-archaeology-indigenous-burial-9.6984496?cmp=rss",
-      "title": "Political control over ancient sites sparks alarm in Ontario",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In Ontario, where ancient Indigenous burial grounds and village sites lie beneath rapidly expanding suburbs, the government has granted itself powers to bypass archaeological protections, raising fears that centuries of history could be lost with the stroke of a minister’s pen.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d34191861da3d9567cb68a4d095fa877af26fa4b",
-      "url": "https://www.cbc.ca/news/canada/in-photos-2025-s-top-canadian-images-9.7016078?cmp=rss",
-      "title": "IN PHOTOS | 2025's top Canadian images",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "There was no shortage of top Canadian newsmakers in 2025. Here's a look at this year's 100 memorable moments by CBC photographers, videographers and others.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.517,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6c0ab726dc4a8c1a851fd0321eca80fc9860da93",
-      "url": "https://www.cbc.ca/news/politics/canadian-politics-quiz-2025-9.7020121?cmp=rss",
-      "title": "Test your Canadian politics knowledge with The House's 2025 year-end quiz",
-      "published_at": "2025-12-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "See how you measure up by following along with 40 of this year's questions below, as prepared by quizmaster Emma Godmere.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
         "subjectivity_hint": "low"
       }
     }
