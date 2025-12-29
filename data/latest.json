@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-28T15:16:44.815276-05:00",
+  "generated_at": "2025-12-28T20:18:47.584481-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "03d8f2717ab5b8c3f1705a81efdc36759dd589c4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/taiga-flycatcher-vancouver-birders-9.7028925?cmp=rss",
+      "title": "Birders flock to Vancouver beach to see rare bird native to Russia",
+      "published_at": "2025-12-28T13:35:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Dozens of birders descended on Vancouver’s Sunset Beach Park on Sunday to catch a rare glimpse of a bird that avian enthusiasts say has never been recorded in Canada before.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a023395471362d8af17b189a4bfb5e2b1f1ecfb5",
       "url": "https://www.cbc.ca/news/world/helicopter-collision-new-jersey-9.7028850?cmp=rss",
@@ -30,6 +43,19 @@
       }
     },
     {
+      "id": "f0de3e59db9f3002d95977abed3b8ad6e7ecf681",
+      "url": "https://www.cbc.ca/player/play/9.7028812?cmp=rss",
+      "title": "Public opinion divided on return-to-office mandates",
+      "published_at": "2025-12-28T07:37:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The debate on where work should happen – remote or in office – is far from over. Linda Duxbury, a professor at Carleton University's Sprott School of Business, explains.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "448f0bb8886f64933cf6c91fdef90b8b3bb81f64",
       "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-woman-kicked-by-moose-during-accident-9.7028778?cmp=rss",
       "title": "Saint John woman recovering after moose kicked her in the head during collision with car",
@@ -40,6 +66,19 @@
         "article_type": "News",
         "sentiment": -0.84,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a15059dc38bd08fcd30e5845ddb35d530aa775be",
+      "url": "https://www.cbc.ca/player/play/9.7028795?cmp=rss",
+      "title": "Canadian food banks record over 4 million visits this year",
+      "published_at": "2025-12-28T07:05:52-05:00",
+      "section": "Canada",
+      "summary_auto": "The Daily Bread Food Bank in Toronto is seeing a spike in young adults, between the ages of 19 and 44, in need of a food bank. The CBC speaks with the food bank’s CEO, Neil Hetherington.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -208,19 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "783f2ba5836157867abd79f3c2dfddb1de4ecbd3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/murder-iio-bc-merritt-initimate-partner-violence-9.7028700?cmp=rss",
-      "title": "RCMP was investigating alleged intimate partner violence before B.C. woman's death, watchdog says",
-      "published_at": "2025-12-27T17:05:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Independent Investigations Office says it is investigating the death of a woman in Merritt, B.C., after an advocacy group raised concerns over the local RCMP's handling of the case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
         "subjectivity_hint": "low"
       }
     }
