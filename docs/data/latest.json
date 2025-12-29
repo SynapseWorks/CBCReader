@@ -1,19 +1,149 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-29T09:16:50.578589-05:00",
+  "generated_at": "2025-12-29T15:17:53.878728-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "b137597217324a131f91518833af7474f6e54f1a",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-kremlin-trump-9.7029013?cmp=rss",
-      "title": "U.S. offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says",
-      "published_at": "2025-12-29T02:51:04-05:00",
-      "section": "World",
-      "summary_auto": "The United States is offering Ukraine security guarantees for a period of 15 years as part of a proposed peace plan, Ukrainian President Volodymyr Zelenskyy said Monday, though he said he would prefer an American commitment of up to 50 years to deter Russia from further attempts to seize its neighbour's land by force.",
+      "id": "bb4edae9987883c25a60be8aefbc5d3625b854d0",
+      "url": "https://www.cbc.ca/news/entertainment/beyonce-becomes-billionaire-9.7029363?cmp=rss",
+      "title": "Beyoncé becomes fifth musician to join the billionaire club",
+      "published_at": "2025-12-29T10:06:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The elusive pop star can credit her massive catalogue of hits and high-grossing tours for pushing her into 10-figure territory, according to Forbes — though a few business ventures, concert films and live performances have added to her wealth.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.953,
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79bcc5cc601a1da271a6fa33434f509cb7ae9bcd",
+      "url": "https://www.cbc.ca/news/canada/montreal/mama-khan-dash-and-dine-donations-9.7028889?cmp=rss",
+      "title": "Community steps up after Christmas Eve dine-and-dash at Montreal eatery",
+      "published_at": "2025-12-29T08:41:58-05:00",
+      "section": "Canada",
+      "summary_auto": "A Montreal restaurant owner who has made giving back to the community a priority was shocked after some diners skipped out on their bill on Christmas Eve. But after posting the incident on social media, someone offered to pay the tab.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.141,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dcc38f4ce38edf37e3870ed3a94d260b2aae606",
+      "url": "https://www.cbc.ca/sports/basketball/nba/raptors-sign-7-foot-centre-mo-bamba-9.7029311?cmp=rss",
+      "title": "Raptors add size up front by signing 7-foot centre Mo Bamba",
+      "published_at": "2025-12-29T07:55:39-05:00",
+      "section": "Canada",
+      "summary_auto": "The Toronto Raptors have added some much-needed size with the signing of seven-foot centre Mo Bamba.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d08db7796cca910ba4bf54a4dbea33cf59579e56",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-mens-olympic-hockey-outlook-gold-run-milan-9.7029258?cmp=rss",
+      "title": "Canada poised for another run at Olympic hockey gold with NHL's return",
+      "published_at": "2025-12-29T07:38:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The NHL is set for an Italian return to the Winter Games in February on the heels the last season's spine-tingling 4 Nations Face-Off that saw Canada again top the U.S. in OT. \"The 4 Nations was kind of the appetizer to what the Olympics could be,\" says Connor McDavid. \"Really excited about it.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2b6c9c3abd1a439a7339544264e01bd36aa3d2b9",
+      "url": "https://www.cbc.ca/news/world/washington-pipe-bomb-suspect-confessed-9.7029248?cmp=rss",
+      "title": "Suspect accused of planting pipe bombs in Washington has confessed, prosecutors say",
+      "published_at": "2025-12-29T07:32:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The man accused of planting pipe bombs in Washington the night before the Jan. 6, 2021, U.S. Capitol attack confessed to the FBI and told investigators he thought the 2020 election had been tampered with, according to a court filing from federal prosecutors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a65cc9f1e3d065b48f9136cb7e42251a72110d14",
+      "url": "https://www.cbc.ca/news/canada/edmonton/canada-seeds-rules-9.7028428?cmp=rss",
+      "title": "CFIA proposing 1st major update to rules around seeds in 100 years. Was it worth the wait?",
+      "published_at": "2025-12-29T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The new regulations make changes to rules governing how seeds are developed, imported, labelled and marketed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6e81a23eef04a24b944f37375f461da3110cfdec",
+      "url": "https://www.cbc.ca/news/world/anthony-joshua-nigeria-car-accident-9.7029112?cmp=rss",
+      "title": "Anthony Joshua in Nigeria car accident days after Jake Paul knockout, boxer 'praying for the lost lives, AJ'",
+      "published_at": "2025-12-29T05:20:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Anthony Joshua, the Nigerian-British boxer and former world heavyweight champion, was involved in a car accident that killed two other passengers in Nigeria on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff42495d8346f1ae51dd825ecdedea8481a473ff",
+      "url": "https://www.cbc.ca/news/business/lululemon-proxy-fight-chip-wilson-board-changes-9.7029060?cmp=rss",
+      "title": "Lululemon founder launches a proxy fight to reshape apparel maker's board",
+      "published_at": "2025-12-29T04:28:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Lululemon Athletica's founder Chip Wilson said on Monday he had launched a proxy fight by nominating three independent directors to the company's board, days after the Canadian apparel maker announced the exit of CEO Calvin McDonald.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff360c7f0b74594250ba0a209a5859c0bf30a04a",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-scientist-astronomy-lessons-ukraine-9.7017778?cmp=rss",
+      "title": "Calgary earth scientist beams astronomy lessons to students in Ukraine",
+      "published_at": "2025-12-29T03:35:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "For the last five months, earth scientist and astronomer Don Hladiuk has been volunteering with Vchysia, or Learn and Teach UA, a non-governmental organization providing education and support for students and teachers in Ukraine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b137597217324a131f91518833af7474f6e54f1a",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-kremlin-trump-9.7029013?cmp=rss",
+      "title": "Russia-Ukraine peace talks thrown into further doubt as Moscow makes new accusations",
+      "published_at": "2025-12-29T02:51:04-05:00",
+      "section": "World",
+      "summary_auto": "Russian Foreign Minister Sergei Lavrov said on Monday that Ukraine had tried to attack President Vladimir Putin's residence in northern Russia and so Moscow's negotiating position would be reviewed, but Ukraine said it was a lie.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "83f2589a7a8619c71871e4f04e756a90d9d4dd96",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/saskatchewan-outdoor-pools-swimming-recreation-city-budget-9.7017887?cmp=rss",
+      "title": "Circling the drain: Sask. cities face the problem of aging outdoor pools",
+      "published_at": "2025-12-29T01:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The same dilemma awaits for Saskatoon's George Ward Pool that the city faced with two other outdoor pools nearing their end — to keep it open or not. Regina faced the same problem more recently with Wascana Pool and Maple Leaf Pool.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -69,6 +199,32 @@
       }
     },
     {
+      "id": "506203f5e619edd29c2b2d028b1854646a9d4950",
+      "url": "https://www.cbc.ca/news/canada/london/politicians-hate-municipal-9.7023388?cmp=rss",
+      "title": "Nastiness, yelling, threats: Municipal politicians face anger from fed up constituents",
+      "published_at": "2025-12-29T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "One politician was threatened because a resident didn't like the speed bump the city installed on his street. Another was yelled at because a homeowner's garbage wasn't picked up on time. Earlier this month, a man was arrested after his email inquiries to London City Hall turned into death threats.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.97,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4cc1c97c7c6bcb011e7df319b7d7edcadfb36f66",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/somerset-acres-saint-john-fresh-start-housing-for-all-9.7018390?cmp=rss",
+      "title": "After years of encampment living, a Saint John woman sees her life change at transition house",
+      "published_at": "2025-12-29T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Deborah Ann Badeau says she found warmth, safety and hope at a Saint John transitional housing community, where she's one of 19 residents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "ba81c7762f49a6b6704acb8601bed2957f42b24a",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-rail-cut-streets-traffic-history-9.7023260?cmp=rss",
       "title": "Halifax's built-in headache for commuters comes from this century-old rail cut",
@@ -86,12 +242,25 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-power-bill-estimates-9.7027923?cmp=rss",
       "title": "Nova Scotia Power explains estimated billing as customers charged hundreds more than usual",
       "published_at": "2025-12-29T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "On Tuesday, Nova Scotia Power submitted a report to the province's energy board responding to questions the board raised about how the utility was estimating bills in the fallout of a cyberattack last March.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3bd21779ad5d51def3033b1c6c726683c507ae65",
+      "url": "https://www.cbc.ca/news/canada/ottawa/cancer-parent-first-person-ottawa-9.6985230?cmp=rss",
+      "title": "My 11-year-old son has leukemia. How and when should I talk about it?",
+      "published_at": "2025-12-28T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "When Chris Mallinos’s son Theo was diagnosed with leukemia, he was prepared for the physical isolation that would come with avoiding infection during Theo's treatment. However, Mallinos wasn't prepared for the emotional isolation of his son being a cancer parent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.885,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -121,45 +290,6 @@
       }
     },
     {
-      "id": "353714ff4f948ae6fbf5fb4f55cbb83f9e72bef7",
-      "url": "https://www.cbc.ca/news/indigenous/indigenous-politics-2025-9.7022869?cmp=rss",
-      "title": "Some of 2025’s big stories in Indigenous politics could heat up in 2026",
-      "published_at": "2025-12-28T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "From the ongoing legal battle over Indigenous children's rights to the controversy over the new Liberal government's major projects law or the landmark Cowichan decision in British Columbia, 2025 was a year of both familiar situations and major shifts in the world of Indigenous politics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3bd21779ad5d51def3033b1c6c726683c507ae65",
-      "url": "https://www.cbc.ca/news/canada/ottawa/cancer-parent-first-person-ottawa-9.6985230?cmp=rss",
-      "title": "My 11-year-old son has leukemia. How and when should I talk about it?",
-      "published_at": "2025-12-28T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "When Chris Mallinos’s son Theo was diagnosed with leukemia, he was prepared for the physical isolation that would come with avoiding infection during Theo's treatment. However, Mallinos wasn't prepared for the emotional isolation of his son being a cancer parent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.885,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "453a02d5a521b997d203c9f22ea7ff243614c78f",
-      "url": "https://www.cbc.ca/news/world/mexico-trail-derailment-9.7028963?cmp=rss",
-      "title": "Train derailment kills 13 in southern Mexico",
-      "published_at": "2025-12-28T16:47:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The governor of Oaxaca, Salomon Jara Cruz, expressed condolences to the families of those killed in the accident and said state authorities were co-ordinating with federal agencies to assist those affected.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "453a02d5a521b997d203c9f22ea7ff243614c78f",
       "url": "https://www.cbc.ca/news/world/mexico-trail-derailment-9.7028963?cmp=rss",
       "title": "At least 13 killed after train derails in southern Mexico",
@@ -169,71 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1308f42537155bb1e63a27da044823311beff7d7",
-      "url": "https://www.cbc.ca/player/play/9.7028882?cmp=rss",
-      "title": "Oldest Canadian's life advice is don't drink, don't smoke and bowl until 103",
-      "published_at": "2025-12-28T15:14:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "At 110, Burd Sisler is now Canada's oldest person. The Ontario resident worked as a border agent for 30 years and was also a veteran of the Second World War. His advice for staying healthy is to take care of your body. He stayed active by bowling into his 100s.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "32a15448f17ada9df1b4e23cfa1279fc4c5ff34f",
-      "url": "https://www.cbc.ca/player/play/9.7028872?cmp=rss",
-      "title": "New items eligible for Ontario blue bins, but will they actually get recycled?",
-      "published_at": "2025-12-28T15:12:15-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontarians will be able to put more products into the blue bin in 2026 as the province moves toward a privately operated recycling program. But some are worried more sorting doesn't mean there's a real market to recycle the products into something else.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03d8f2717ab5b8c3f1705a81efdc36759dd589c4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/taiga-flycatcher-vancouver-birders-9.7028925?cmp=rss",
-      "title": "Birders flock to Vancouver beach to see rare bird native to Russia",
-      "published_at": "2025-12-28T13:35:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Dozens of birders descended on Vancouver’s Sunset Beach Park on Sunday to catch a rare glimpse of a bird that avian enthusiasts say has never been recorded in Canada before.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a023395471362d8af17b189a4bfb5e2b1f1ecfb5",
-      "url": "https://www.cbc.ca/news/world/helicopter-collision-new-jersey-9.7028850?cmp=rss",
-      "title": "Pilot killed, another injured after helicopters collide midair in New Jersey, officials say",
-      "published_at": "2025-12-28T09:35:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Federal Aviation Administration (FAA) described the crash as a midair collision between an Enstrom F-28A helicopter and Enstrom 280C helicopter over Hammonton Municipal Airport. Only the pilots were on board each aircraft.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "32b867e1ee63a1926979172517ded821406c72be",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/ubisoft-forms-first-union-north-america-halifax-9.7028674?cmp=rss",
-      "title": "Halifax video game workers form first Ubisoft union in North America",
-      "published_at": "2025-12-28T09:22:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "About 60 workers in Halifax office voted in favour of unionizing amid concerns about AI and industry-wide layoffs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
         "subjectivity_hint": "low"
       }
     }
