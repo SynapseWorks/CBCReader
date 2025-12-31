@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-30T15:17:22.805825-05:00",
+  "generated_at": "2025-12-30T20:14:38.244548-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c7fc4566b2083dcab50ba1ee858c36631fdea74c",
+      "url": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss",
+      "title": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
+      "published_at": "2025-12-30T13:05:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israel is banning more than two dozen humanitarian organizations from Gaza for failing to comply with new registration rules.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e849f986e692282613136a055aa8a6deabd353ba",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-fugutive-martinique-9.7030441?cmp=rss",
+      "title": "Quebec real estate developer arrested in Martinique after over 2 months on the run",
+      "published_at": "2025-12-30T11:30:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jean-François Malo, from Joliette, Que., was convicted of ordering a 2020 armed assault on a lawyer. Radio-Canada confirmed the news of Tuesday’s arrest following an initial report by Le Journal de Montréal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3077beb37ba4484ed4adda672daaf4b43286e6c9",
+      "url": "https://www.cbc.ca/news/business/meta-manus-acquisition-two-billion-explained-9.7030180?cmp=rss",
+      "title": "Meta just acquired a Chinese-founded AI startup for $2B. Here's why that matters",
+      "published_at": "2025-12-30T10:36:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A darling of the artificial intelligence startup scene was just acquired by Meta — capping off a year of intense competition between U.S. tech giants vying for dominance of the world's most coveted technology.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a35c92f4a93566e568162dba10c177bf593f0f86",
+      "url": "https://www.cbc.ca/news/world/tatiana-schlossberg-obit-acute-myeloid-leukemia-9.7030413?cmp=rss",
+      "title": "Tatiana Schlossberg, granddaughter of the late John F. Kennedy, dead at 35",
+      "published_at": "2025-12-30T10:17:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Environmental journalist Tatiana Schlossberg, the granddaughter of the late U.S. president John F. Kennedy, has died. She was 35. The environmental journalist revealed in November that she had acute myeloid leukemia",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "b4d91690c505ef004c086fd6b85cdac8f4714a5c",
       "url": "https://www.cbc.ca/news/politics/green-party-settles-with-commisson-9.7030326?cmp=rss",
@@ -22,10 +74,10 @@
       "title": "Patriots wide receiver Stefon Diggs facing strangulation, assault charges",
       "published_at": "2025-12-30T08:28:19-05:00",
       "section": "Top Stories",
-      "summary_auto": "New England Patriots star wide receiver Stefon Diggs is facing strangulation and other criminal charges in\nconnection with an incident that happened earlier this month, police said.",
+      "summary_auto": "New England Patriots star wide receiver Stefon Diggs is facing strangulation and other criminal charges in connection with a dispute with his former private chef, police said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.886,
+        "sentiment": -0.92,
         "subjectivity_hint": "low"
       }
     },
@@ -61,6 +113,19 @@
       "title": "Health unit in northwestern Ontario confirms measles case, capping a year of alarming rise in Canadian cases",
       "published_at": "2025-12-30T08:04:22-05:00",
       "section": "Top Stories",
+      "summary_auto": "The Northwestern Health Unit has confirmed a case of measles in the Kenora area of northwestern Ontario, in a year that saw an alarming rise in cases in Canada and the country lose its measles elimination status.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0b52309d5372d00bb54f0e11545906c281fdaae",
+      "url": "https://www.cbc.ca/news/health/northwestern-health-unit-confirms-measles-case-in-a-year-canada-saw-alarming-rise-in-numbers-9.7030205?cmp=rss",
+      "title": "Northwestern Health Unit confirms measles case, in a year Canada saw alarming rise in numbers",
+      "published_at": "2025-12-30T08:04:22-05:00",
+      "section": "Health",
       "summary_auto": "The Northwestern Health Unit has confirmed a case of measles in the Kenora area of northwestern Ontario, in a year that saw an alarming rise in cases in Canada and the country lose its measles elimination status.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,7 +190,7 @@
       "url": "https://www.cbc.ca/news/world/yemen-saudi-arabia-civil-war-gulf-region-uae-tensions-9.7030100?cmp=rss",
       "title": "Why the escalation in Yemen threatens to reignite civil war, create wider tensions",
       "published_at": "2025-12-30T06:52:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The United Arab Emirates said on Tuesday that it was pulling out its remaining forces in Yemen after Saudi Arabia backed a call for the U.A.E. forces to leave the country within 24 hours, in a major crisis between the two Gulf powers and oil producers.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,28 +199,28 @@
       }
     },
     {
-      "id": "febdabffd4a3d81bb472cf8160b769b7aad450c7",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/big-river-shooting-dangerous-person-alert-9.7029987?cmp=rss",
+      "id": "09365f45b6b8fd673b4979759038df38ee39b089",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/big-island-lake-cree-nation-fatal-shooting-9.7029987?cmp=rss",
       "title": "1 dead, 3 wounded as RCMP hunt for 2 armed suspects continues on First Nation in Saskatchewan",
       "published_at": "2025-12-30T04:45:33-05:00",
       "section": "Top Stories",
-      "summary_auto": "At least one man is dead and police are searching for two armed men on Big Island Lake Cree Nation, CBC News has learned. Saskatchewan RCMP are telling people living on the First Nation near the Alberta border to find a safe location immediately and lock their doors.",
+      "summary_auto": "One man is dead and Saskatchewan RCMP say they are still searching for two armed men after an early morning shooting on Big Island Lake Cree Nation.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.844,
+        "sentiment": -0.9,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "febdabffd4a3d81bb472cf8160b769b7aad450c7",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/big-river-shooting-dangerous-person-alert-9.7029987?cmp=rss",
+      "id": "09365f45b6b8fd673b4979759038df38ee39b089",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/big-island-lake-cree-nation-fatal-shooting-9.7029987?cmp=rss",
       "title": "Father says son killed as Sask. RCMP search for armed pair on Big Island Lake Cree Nation",
       "published_at": "2025-12-30T04:45:33-05:00",
       "section": "Canada",
-      "summary_auto": "At least one man is dead and police are searching for two armed men on Big Island Lake Cree Nation, CBC News has learned. Saskatchewan RCMP are telling people living on the First Nation near the Alberta border to find a safe location immediately and lock their doors.",
+      "summary_auto": "One man is dead and Saskatchewan RCMP say they are still searching for two armed men after an early morning shooting on Big Island Lake Cree Nation.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.784,
+        "sentiment": -0.869,
         "subjectivity_hint": "low"
       }
     },
@@ -177,7 +242,7 @@
       "url": "https://www.cbc.ca/news/world/kremlin-russia-ukraine-attack-9.7029895?cmp=rss",
       "title": "Russia says its negotiating stance on Ukraine will toughen after accusing Kyiv of attack",
       "published_at": "2025-12-30T01:53:53-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The Kremlin said Tuesday its position would toughen in talks on ending the war in Ukraine after accusing Kyiv of attacking a Russian presidential residence — an allegation that Kyiv said was baseless and intended to prolong the conflict.",
       "bias_heuristic": {
         "article_type": "News",
@@ -186,8 +251,8 @@
       }
     },
     {
-      "id": "f49c5eac229742469ceda8012cd29ce1c3affcb2",
-      "url": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss",
+      "id": "f0e1833c2407d0e9a732504fe129cc34b70e5529",
+      "url": "https://www.cbc.ca/news/world/venezuela-oil-tanker-pursuit-9.7029864?cmp=rss",
       "title": "U.S. Coast Guard still in pursuit of sanctioned oil tanker in escalating pressure campaign on Venezuela",
       "published_at": "2025-12-30T01:01:12-05:00",
       "section": "Top Stories",
@@ -199,41 +264,15 @@
       }
     },
     {
-      "id": "9e656cb2b59352c66c08935f51f4338e9545aa6e",
-      "url": "https://www.cbc.ca/news/canada/manitoba/landfill-searches-reconciliation-2025-9.7026688?cmp=rss",
-      "title": "Year of Manitoba landfill searches shows reconciliation a work in progress, families say",
-      "published_at": "2025-12-30T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The year that saw the remains of two First Nations women brought home from a Manitoba landfill and a search get underway for the remains of a third showed how far reconciliation efforts have come — and how far they still need to go, the families say",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94b5f2e52f4ca73cbe03f4f83fbd276c52176a16",
-      "url": "https://www.cbc.ca/radio/frontburner/the-books-that-explained-2025-part-2-9.7021684?cmp=rss",
-      "title": "The books that explained 2025 (Part 2)",
-      "published_at": "2025-12-30T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Part two of our series with some of our favourite guests of the year, on what they read to better understand 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f49c5eac229742469ceda8012cd29ce1c3affcb2",
-      "url": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss",
-      "title": "Trump says U.S. struck dock in Venezuela where he says alleged drug boats 'load up'",
+      "id": "f0e1833c2407d0e9a732504fe129cc34b70e5529",
+      "url": "https://www.cbc.ca/news/world/venezuela-oil-tanker-pursuit-9.7029864?cmp=rss",
+      "title": "U.S. Coast Guard chases Venezuelan oil tanker attempting to claim Russian protection",
       "published_at": "2025-12-30T00:03:33-05:00",
       "section": "World",
-      "summary_auto": "U.S. President Donald Trump has indicated that the United States has \"hit\" a dock facility along a shore as he wages a pressure campaign on Venezuela, but offered few details.",
+      "summary_auto": "The U.S. Coast Guard is still in pursuit of an oil tanker over a week after they first tried to intercept the ship. U.S. officials said the tanker now has a painted Russian flag on its side in an attempt to draw protection from Moscow. This is the latest in President Trump's pressure campaign on Venezuela after he indicted that the United States has \"hit\" a dock facility along a shore.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.052,
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -290,19 +329,6 @@
       }
     },
     {
-      "id": "63ebd5e52964076fabe6300e8f24aca71043f8a3",
-      "url": "https://www.cbc.ca/news/canada/ottawa/just-paws-courthouse-dogs-9.7001948?cmp=rss",
-      "title": "Courthouse canines help ease the tension, one tail wag at a time",
-      "published_at": "2025-12-29T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Therapy dogs and their volunteer handlers from Just Paws are a welcome presence at the Ottawa Courthouse, where the stress can be hard to handle alone.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "03de5beb9674a73e7122dc5fe0a2c03fe229f66c",
       "url": "https://www.cbc.ca/news/canada/boycotts-buy-canada-2025-9.7026211?cmp=rss",
       "title": "Elbows up in 2025: How a year of Canadian boycotts on U.S. products played out",
@@ -316,42 +342,16 @@
       }
     },
     {
-      "id": "6900e1a5804708bac48c3a6b22104314172320b8",
-      "url": "https://www.cbc.ca/news/world/china-taiwan-war-games-military-exercises-9.7029773?cmp=rss",
-      "title": "China launches live-firing drills around Taiwan in 2nd day of exercises aimed at further isolating the island",
-      "published_at": "2025-12-29T16:37:22-05:00",
-      "section": "World",
-      "summary_auto": "China launched 10 hours of live-firing exercises around Taiwan on Tuesday, the second day of Beijing's largest-ever war games around the island, aimed at swiftly cutting its links to outside support in the event of a conflict.",
+      "id": "63ebd5e52964076fabe6300e8f24aca71043f8a3",
+      "url": "https://www.cbc.ca/news/canada/ottawa/just-paws-courthouse-dogs-9.7001948?cmp=rss",
+      "title": "Courthouse canines help ease the tension, one tail wag at a time",
+      "published_at": "2025-12-29T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Therapy dogs and their volunteer handlers from Just Paws are a welcome presence at the Ottawa Courthouse, where the stress can be hard to handle alone.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.128,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d517f15d3e72d897dc59529d5cbc0b104bb0bdbf",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ritchie-rene-day-survives-fire-twice-9.7029728?cmp=rss",
-      "title": "This retired B.C. couple escaped fire twice in 2025",
-      "published_at": "2025-12-29T15:58:02-05:00",
-      "section": "Canada",
-      "summary_auto": "Ritchie and Rene Day were enjoying a quiet evening in their unit at Johnny’s Motel in Grand Forks when they heard banging on their unit’s door on the evening of Dec. 21. “We just couldn't believe it,” said Ritchie Day. “Another fire.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "605ee1f2a83911451338d3dd77542ffcd45d029a",
-      "url": "https://www.cbc.ca/news/canada/manitoba/wasagamack-woman-not-criminally-responsible-review-board-hearing-9.7029745?cmp=rss",
-      "title": "Woman who killed son should be able to see her other children, lawyer says",
-      "published_at": "2025-12-29T15:48:01-05:00",
-      "section": "Canada",
-      "summary_auto": "A mother who stabbed her one-year-old infant during psychosis should not be prevented from seeing her other children, a lawyer told a board tasked with reviewing her case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.816,
-        "subjectivity_hint": "medium"
       }
     }
   ]
