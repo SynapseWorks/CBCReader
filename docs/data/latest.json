@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2025-12-31T15:16:45.828220-05:00",
+  "generated_at": "2025-12-31T20:20:42.593277-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "a83f257e760dbbd0f733f04d1058e6dddb51c720",
+      "url": "https://www.cbc.ca/player/play/9.7029225?cmp=rss",
+      "title": "Live Cross-Canada Countdown",
+      "published_at": "2025-12-31T14:59:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Adrienne Arsenault and Ian Hanomansing host New Year's Eve celebrations live across Canada's six time zones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24e407d0423fb073289200bf8faa0011e9a9308f",
+      "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-new-years-address-9.7031733?cmp=rss",
+      "title": "Zelenskyy's year-end message: Ukraine won't sign 'weak' deal that only prolongs war with Russia",
+      "published_at": "2025-12-31T14:58:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ukrainian President Volodymyr Zelenskyy, in his New Year address to the nation, said late Wednesday that Kyiv wanted the war to end, but not at any cost, adding he would not sign a \"weak\" peace agreement that would only prolong the war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.559,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "01160986294b866ad96e635c9e92926a60b39c48",
+      "url": "https://www.cbc.ca/news/world/national-guard-trump-9.7031609?cmp=rss",
+      "title": "Trump says he's pausing efforts to send National Guard to Chicago, L.A. and Portland",
+      "published_at": "2025-12-31T12:46:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump said he's dropping — for now — his push to deploy National Guard troops in Chicago, Los Angeles and Portland, Ore., a move that comes after legal roadblocks hung up the effort.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "57f70c78b07f4bcf7e897de05048a641d4bc86ca",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-mens-olympic-hockey-team-9.7030392?cmp=rss",
+      "title": "Teen sensation Celebrini joins Crosby, McDavid on Canadian men’s Olympic hockey team",
+      "published_at": "2025-12-31T12:14:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d82cca0e9990e3fcbd39ff9d508aa5a1a21c2a01",
+      "url": "https://www.cbc.ca/news/business/craigs-cookies-workers-unionize-toronto-locations-9.7031213?cmp=rss",
+      "title": "Craig's Cookies workers vote to unionize at 5 Toronto stores as franchise expands nationally",
+      "published_at": "2025-12-31T10:37:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nearly 90 employees of Craig’s Cookies have voted to unionize across five shops in Toronto as the Canadian cookie chain expands nationally.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6320bd30a0bd49bc2629263b70381e036c1c4922",
+      "url": "https://www.cbc.ca/radio/asithappens/guinness-longest-teacher-9.7031233?cmp=rss",
+      "title": "Teacher wins Guinness World Record for working 61 years at the same school",
+      "published_at": "2025-12-31T10:31:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Retired Tennessee teacher Glenda Akin has lived and worked through a whole lot of history. And now she’s made history herself as the Guinness-certified longest serving teacher at the same school .",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "97e23371dfbad7c539d80c86a71bf3201012de92",
       "url": "https://www.cbc.ca/news/entertainment/richard-smallwood-obit-9.7031414?cmp=rss",
@@ -26,6 +104,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "26b5fd46675009a076eea4b07cfdb4b86af20dc8",
+      "url": "https://www.cbc.ca/news/world/new-years-celebrations-around-the-world-2026-9.7031000?cmp=rss",
+      "title": "Join CBC's live coverage of New Year's Eve celebrations in Canada as the world ushers in 2026",
+      "published_at": "2025-12-31T08:50:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -58,10 +149,10 @@
     {
       "id": "566729261336ffa19899db29db8d6f44cf1bcc3f",
       "url": "https://www.cbc.ca/news/world/canadians-machu-picchu-train-collision-9.7031211?cmp=rss",
-      "title": "Canadians among those injured in Peru train collision: Global Affairs Canada",
+      "title": "7 Canadians among dozens injured in Peru train collision: Global Affairs Canada",
       "published_at": "2025-12-31T07:41:15-05:00",
       "section": "Top Stories",
-      "summary_auto": "Canadians are among the injured after two trains collided head-on in Peru on Tuesday, Global Affairs Canada confirmed.",
+      "summary_auto": "Seven Canadians are among those injured after two trains collided head-on in Peru on Tuesday, Global Affairs Canada confirmed to CBC.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.784,
@@ -99,7 +190,7 @@
       "url": "https://www.cbc.ca/news/world/new-years-celebrations-around-the-world-2026-9.7031000?cmp=rss",
       "title": "Here’s what New Year’s celebrations look like as the world rings in 2026",
       "published_at": "2025-12-31T05:51:20-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Here's a look at how countries around the world are ringing in the new year.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,7 +229,7 @@
       "url": "https://www.cbc.ca/player/play/9.7024743?cmp=rss",
       "title": "Governor General praises Canada's 'resounding sense of national pride' in New Year's message",
       "published_at": "2025-12-31T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Gov. Gen. Mary Simon praised the 'extraordinary solidarity' she saw in Canada in 2025 in her New Year’s address, pointing to the displays of support in communities hit hard by wildfire, the 'unprecedented economic co-operation' and the revitalization of Indigenous cultures and languages.",
       "bias_heuristic": {
         "article_type": "News",
@@ -147,15 +238,28 @@
       }
     },
     {
-      "id": "57f70c78b07f4bcf7e897de05048a641d4bc86ca",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-mens-olympic-hockey-team-9.7030392?cmp=rss",
-      "title": "Teen Celebrini joins Crosby, McDavid on Canadian men’s Olympic hockey team",
-      "published_at": "2025-12-31T03:42:07-05:00",
+      "id": "6b81b137c5e913467597fdfd79de950c75e4cffb",
+      "url": "https://www.cbc.ca/news/canada/toronto/woman-dead-struck-by-vehicle-midtown-toronto-9.7030927?cmp=rss",
+      "title": "Woman dead after being hit by 2 vehicles that left the scene, say Toronto police",
+      "published_at": "2025-12-31T03:34:41-05:00",
       "section": "Top Stories",
-      "summary_auto": "Nineteen-year-old Macklin Celebrini will join Sidney Crosby, Connor McDavid and Nathan MacKinnon on the Canadian men’s Olympic hockey team, as NHLers return to the Winter Games for the first time in more than a decade.",
+      "summary_auto": "A woman is dead after being struck by two vehicles in midtown Toronto Wednesday morning.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.296,
+        "sentiment": -0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6b81b137c5e913467597fdfd79de950c75e4cffb",
+      "url": "https://www.cbc.ca/news/canada/toronto/woman-dead-struck-by-vehicle-midtown-toronto-9.7030927?cmp=rss",
+      "title": "Woman dead after being hit by 2 vehicles that left the scene, Toronto police say",
+      "published_at": "2025-12-31T03:34:41-05:00",
+      "section": "Canada",
+      "summary_auto": "A woman is dead after being struck by two vehicles in midtown Toronto Wednesday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.891,
         "subjectivity_hint": "low"
       }
     },
@@ -175,13 +279,13 @@
     {
       "id": "bd05d22526a3f9a65a2b4e9d1e0cb82edf7f194b",
       "url": "https://www.cbc.ca/news/canada/calgary/mayor-farkas-says-calgary-s-water-system-safe-pledges-accountability-following-another-major-water-main-break-9.7031074?cmp=rss",
-      "title": "Calgary mayor pledges accountability following another major water main break",
+      "title": "No timeline for Calgary water main fix, boil-water advisory in place for some areas",
       "published_at": "2025-12-31T02:00:23-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -217,10 +321,10 @@
       "title": "'My family, they're hurt right now,' says father of man killed in First Nation shooting in Saskatchewan",
       "published_at": "2025-12-31T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The father and uncle of Neil Wahpistikwan, who was murdered on Tuesday morning on Big Island Lake Cree Nation, recounted details of the shooting's aftermath.",
+      "summary_auto": "The family of a man killed on Big Island Lake Cree Nation say they're struggling with shock as they try to understand why someone would have shot him.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.923,
+        "sentiment": -0.957,
         "subjectivity_hint": "medium"
       }
     },
@@ -230,10 +334,10 @@
       "title": "'My family, they're hurt right now,' says father of man killed in shooting on Sask. First Nation",
       "published_at": "2025-12-31T01:00:00-05:00",
       "section": "Canada",
-      "summary_auto": "The father and uncle of Neil Wahpistikwan, who was murdered on Tuesday morning on Big Island Lake Cree Nation, recounted details of the shooting's aftermath.",
+      "summary_auto": "The family of a man killed on Big Island Lake Cree Nation say they're struggling with shock as they try to understand why someone would have shot him.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.923,
+        "sentiment": -0.957,
         "subjectivity_hint": "medium"
       }
     },
@@ -264,24 +368,11 @@
       }
     },
     {
-      "id": "72f86a8186a46587424b22b57caf84783ad407b7",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-bird-count-2025-9.7029182?cmp=rss",
-      "title": "Orange-crowned warbler spotted in 'rare' sighting during Christmas bird count in Hamilton",
-      "published_at": "2025-12-30T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An orange-crowned warbler was spotted during Hamilton’s annual Christmas bird survey, a “rarity” for birdwatchers, organizers say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "2a8833fce596794c37c60749cb5089a5c8434949",
       "url": "https://www.cbc.ca/news/canada/ottawa/25-years-after-ottawa-s-amalgamation-is-there-any-going-back-9.7029965?cmp=rss",
       "title": "25 years after Ottawa's amalgamation, is there any going back?",
       "published_at": "2025-12-30T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Former mayors remain split on the 2001 merger that turned a dozen municipalities into one megacity.",
       "bias_heuristic": {
         "article_type": "News",
@@ -339,19 +430,6 @@
         "article_type": "News",
         "sentiment": -0.888,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ef888b84a17479a54b474e2b5b41dbbd8d6ca6fb",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/nelson-arson-sentenced-wildfire-9.7030737?cmp=rss",
-      "title": "Man banned from Nelson, B.C., sentenced for arson during heat of 2024 wildfire season",
-      "published_at": "2025-12-30T16:58:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "David Travis was sentenced to two years less a day and will spend 593 days in custody, accounting for time already served, after pleading guilty to three counts of arson. On July 24, 2024, Travis lit the first of four fires he started that day in Nelson, B.C., and was later arrested with two lighters still in his possession.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.844,
-        "subjectivity_hint": "low"
       }
     }
   ]
