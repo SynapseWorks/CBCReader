@@ -1,18 +1,70 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-01T09:14:51.948722-05:00",
+  "generated_at": "2026-01-01T15:17:48.614327-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "249caaf106c6732258c1edd40b2f0dfde2364cc1",
+      "url": "https://www.cbc.ca/player/play/9.7032005?cmp=rss",
+      "title": "It’s a new year — and these Europeans are diving in",
+      "published_at": "2026-01-01T09:48:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It’s a new year, and for some in Europe, that means it’s time for a chilly plunge to get 2026 started.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "96358c4f7250f446fad99ad4f39dcfae3137ab17",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/new-safe-supply-rules-take-effect-9.7031792?cmp=rss",
+      "title": "New safe supply rules take effect in B.C., with mixed reactions",
+      "published_at": "2026-01-01T07:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Most people who take prescription opioids as an alternative to illicit drugs must now take them under the supervision of a pharmacist. Some worry the move will push people back to toxic street drugs, while others say the changes were long overdue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a5a3a2bf1b728bcfb4ac304fe835abb1f5fe6c87",
+      "url": "https://www.cbc.ca/player/play/9.7018322?cmp=rss",
+      "title": "Why this former Hab auctioned off his Stanley Cup ring — and how much it sold for",
+      "published_at": "2026-01-01T07:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Longtime NHL defenceman Petr Svoboda recently auctioned off his Stanley Cup ring from the Montreal Canadiens’ 1986 championship to raise funds for a cause that hits close to home.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "86e27394fecd07f672e823db8d1683c435bbebfa",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-balcony-spvm-police-woman-9.7031893?cmp=rss",
+      "title": "Man arrested after woman allegedly pushed from 3-storey balcony in Montreal",
+      "published_at": "2026-01-01T05:15:46-05:00",
+      "section": "Canada",
+      "summary_auto": "A 31-year-old man has been arrested after a woman was allegedly pushed from a balcony in Montreal early Thursday, police say. The woman, in her 30s, was found unconscious on the ground and taken to hospital in critical condition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "f59576d8cb78c65387ad0f368be74c4aa1df7d0f",
       "url": "https://www.cbc.ca/news/world/bar-fire-switzerland-ski-resort-9.7031863?cmp=rss",
-      "title": "Dozens feared dead after explosion and fire in Swiss ski resort bar",
+      "title": "Around 40 dead, more than 100 injured in blaze at Swiss ski resort bar during New Year's Eve party",
       "published_at": "2026-01-01T03:22:31-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.872,
+        "sentiment": -0.677,
         "subjectivity_hint": "low"
       }
     },
@@ -30,32 +82,6 @@
       }
     },
     {
-      "id": "f59576d8cb78c65387ad0f368be74c4aa1df7d0f",
-      "url": "https://www.cbc.ca/news/world/bar-fire-switzerland-ski-resort-9.7031863?cmp=rss",
-      "title": "Dozens feared dead after explosion in Swiss ski resort bar, police say",
-      "published_at": "2026-01-01T01:13:29-05:00",
-      "section": "World",
-      "summary_auto": "Swiss police said on Thursday that several people had died and others were injured due to a fire of unknown causes at a bar in the ski resort of Crans-Montana in southwestern Switzerland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.945,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0dfac7004b3f428418d02675e06ea644fe3215f6",
-      "url": "https://www.cbc.ca/news/politics/2026-tax-measures-changes-new-9.7022831?cmp=rss",
-      "title": "New year, new tax measures: What to expect in 2026",
-      "published_at": "2025-12-31T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The coming year will see some changes to existing tax measures, the abandonment of others and some help for personal support workers. But overall changes to the taxes individuals pay will be minor in 2026.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8c94359cc8c04313a5807dd53e82555df4f92e70",
       "url": "https://www.cbc.ca/news/world/diplomat-trump-ambassadors-recall-9.7031008?cmp=rss",
       "title": "Trump's 'unprecedented' diplomat recall sparks concerns over politicization of foreign service",
@@ -66,6 +92,32 @@
         "article_type": "News",
         "sentiment": -0.178,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "882c71c44e3a5bb64cdcd8fafaf82c40319d30fc",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cole-delargie-campbell-terminal-brain-disease-9.7030255?cmp=rss",
+      "title": "After terminal diagnosis, this Hamiltonian is focusing on love, bucket lists and living fully in 2026",
+      "published_at": "2025-12-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Cole DeLargie-Campbell is a 38-year-old living in Hamilton. They were diagnosed with a rare, grade three meningioma and given six to 12 months to live.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d16efe4d2ff734b829f190b5cbd99b3e631576ef",
+      "url": "https://www.cbc.ca/news/business/canada-grocery-code-of-conduct-jan-1-9.7031468?cmp=rss",
+      "title": "Canada's grocery code of conduct kicks in today, with buy-in from 5 major grocers",
+      "published_at": "2025-12-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The voluntary grocery code of conduct for grocers, suppliers, wholesalers and primary producers in Canada is set to fully roll out on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,6 +147,32 @@
       }
     },
     {
+      "id": "443d5f4a632663d224876e8428f88c338ad1b296",
+      "url": "https://www.cbc.ca/news/canada/montreal/les-rabat-joies-marked-supreme-court-9.7024444?cmp=rss",
+      "title": "A small shop in Saguenay, Que., sewed up the contract to dress Canada’s highest court",
+      "published_at": "2025-12-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "How to balance tradition with modernization? The team at Les Rabat-Joies in Saguenay, Que., got the opportunity to spruce up the wardrobe for Canada’s nine justices of the Supreme Court.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dfac7004b3f428418d02675e06ea644fe3215f6",
+      "url": "https://www.cbc.ca/news/politics/2026-tax-measures-changes-new-9.7022831?cmp=rss",
+      "title": "New year, new tax measures: What to expect in 2026",
+      "published_at": "2025-12-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The coming year will see some changes to existing tax measures, the abandonment of others and some help for personal support workers. But overall changes to the taxes individuals pay will be minor in 2026.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7374e8d5b30895d7a0a630f52864bb7989ee9a32",
       "url": "https://www.cbc.ca/news/world/snowbirds-leaving-florida-9.7031072?cmp=rss",
       "title": "Some snowbirds want out of Florida. A bad housing market makes it hard to leave",
@@ -105,32 +183,6 @@
         "article_type": "News",
         "sentiment": -0.819,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d16efe4d2ff734b829f190b5cbd99b3e631576ef",
-      "url": "https://www.cbc.ca/news/business/canada-grocery-code-of-conduct-jan-1-9.7031468?cmp=rss",
-      "title": "Canada's grocery code of conduct kicks in today, with buy-in from 5 major grocers",
-      "published_at": "2025-12-31T23:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "The voluntary grocery code of conduct for grocers, suppliers, wholesalers and primary producers in Canada is set to fully roll out on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03ea7cb85045bc777765095444657f1f886bd0e0",
-      "url": "https://www.cbc.ca/sports/hockey/canada-finland-recap-world-junior-hockey-championship-dec31-9.7031834?cmp=rss",
-      "title": "Canada wins Group B after defeating Finland at world juniors",
-      "published_at": "2025-12-31T18:32:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Cole Beaudoin and Brady Martin each scored twice as Canada topped Finland 7-4 at the world junior hockey championship on Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -151,103 +203,12 @@
       "url": "https://www.cbc.ca/news/world/us-venezuela-drugs-attacks-9.7031820?cmp=rss",
       "title": "U.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard",
       "published_at": "2025-12-31T17:28:50-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. military said Wednesday it struck five alleged drug-smuggling boats over two days, killing a total of eight people while others jumped overboard and may have survived.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.825,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "24e407d0423fb073289200bf8faa0011e9a9308f",
-      "url": "https://www.cbc.ca/news/world/ukraine-zelenskyy-new-years-address-9.7031733?cmp=rss",
-      "title": "Zelenskyy's year-end message: Ukraine won't sign 'weak' deal that only prolongs war with Russia",
-      "published_at": "2025-12-31T14:58:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy, in his New Year address to the nation, said late Wednesday that Kyiv wanted the war to end, but not at any cost, adding he would not sign a \"weak\" peace agreement that would only prolong the war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.559,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "01160986294b866ad96e635c9e92926a60b39c48",
-      "url": "https://www.cbc.ca/news/world/national-guard-trump-9.7031609?cmp=rss",
-      "title": "Trump says he's pausing efforts to send National Guard to Chicago, L.A. and Portland",
-      "published_at": "2025-12-31T12:46:21-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump said he's dropping — for now — his push to deploy National Guard troops in Chicago, Los Angeles and Portland, Ore., a move that comes after legal roadblocks hung up the effort.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2fe75ba5b1a4b1bbe200115fac8a6708b01c8507",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-mens-hockey-announcement-olympics-2026-analysis-9.7031677?cmp=rss",
-      "title": "Talented forward group led by Crosby, McDavid should be Canada's Olympic superpower",
-      "published_at": "2025-12-31T12:14:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d82cca0e9990e3fcbd39ff9d508aa5a1a21c2a01",
-      "url": "https://www.cbc.ca/news/business/craigs-cookies-workers-unionize-toronto-locations-9.7031213?cmp=rss",
-      "title": "Craig's Cookies workers vote to unionize at 5 Toronto stores as franchise expands nationally",
-      "published_at": "2025-12-31T10:37:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nearly 90 employees of Craig’s Cookies have voted to unionize across five shops in Toronto as the Canadian cookie chain expands nationally.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6320bd30a0bd49bc2629263b70381e036c1c4922",
-      "url": "https://www.cbc.ca/radio/asithappens/guinness-longest-teacher-9.7031233?cmp=rss",
-      "title": "Teacher wins Guinness World Record for working 61 years at the same school",
-      "published_at": "2025-12-31T10:31:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Retired Tennessee teacher Glenda Akin has lived and worked through a whole lot of history. And now she’s made history herself as the Guinness-certified longest serving teacher at the same school .",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "97e23371dfbad7c539d80c86a71bf3201012de92",
-      "url": "https://www.cbc.ca/news/entertainment/richard-smallwood-obit-9.7031414?cmp=rss",
-      "title": "Richard Smallwood, gospel singer and musical inspiration, dead at 77",
-      "published_at": "2025-12-31T09:52:54-05:00",
-      "section": "World",
-      "summary_auto": "Smallwood died Tuesday of complications due to kidney failure, according to his representative. Singer and songwriter Chaka Khan said Smallwood's music \"didn't just inspire me, it transformed me.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0009bccffc3267585bfd631d4929b9f98afdc7f8",
-      "url": "https://www.cbc.ca/news/politics/jobs-economy-voters-priorities-2025-9.7031388?cmp=rss",
-      "title": "Jobs, economy top voters' priorities at the end of a turbulent 2025: Nanos poll",
-      "published_at": "2025-12-31T09:43:42-05:00",
-      "section": "Canada",
-      "summary_auto": "A year-end poll from Nanos suggests Canadians will want to see action from the Liberal government on major economic files in the new year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
       }
     }
   ]
