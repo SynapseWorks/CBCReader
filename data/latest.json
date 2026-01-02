@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-01T15:17:48.614327-05:00",
+  "generated_at": "2026-01-01T20:15:00.775946-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "bf9690a93b303ec8e165341279b9e76f21f795e7",
+      "url": "https://www.cbc.ca/sports/olympics/winter/ski-jumping/ski-jumper-abi-strate-1st-career-world-cup-gold-9.7032015?cmp=rss",
+      "title": "Canadian ski jumper Abi Strate captures 1st career World Cup gold",
+      "published_at": "2026-01-01T10:50:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian ski jumper Abi Strate started the new year with a bang by soaring to her first career World Cup victory on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "249caaf106c6732258c1edd40b2f0dfde2364cc1",
       "url": "https://www.cbc.ca/player/play/9.7032005?cmp=rss",
@@ -13,6 +26,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "15a24065f12a1b68e24a5173183ec0218040db54",
+      "url": "https://www.cbc.ca/news/canada/calgary/no-drop-in-calgarians-water-usage-despite-request-from-city-after-water-main-break-9.7031950?cmp=rss",
+      "title": "No drop in Calgarians' water usage despite request from city after water main break",
+      "published_at": "2026-01-01T09:30:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A day after officials first asked Calgarians to reduce their water use in the wake of Tuesday’s catastrophic water main break, the city says it is not seeing any real reduction in usage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.337,
         "subjectivity_hint": "low"
       }
     },
@@ -48,7 +74,7 @@
       "title": "Man arrested after woman allegedly pushed from 3-storey balcony in Montreal",
       "published_at": "2026-01-01T05:15:46-05:00",
       "section": "Canada",
-      "summary_auto": "A 31-year-old man has been arrested after a woman was allegedly pushed from a balcony in Montreal early Thursday, police say. The woman, in her 30s, was found unconscious on the ground and taken to hospital in critical condition.",
+      "summary_auto": "A 31-year-old man has been arrested after a woman was allegedly pushed from a balcony in Montreal early Thursday, police say. The woman, also 31, was found unconscious on the ground and taken to hospital in critical condition.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.818,
@@ -71,10 +97,10 @@
     {
       "id": "b91a3024f3eabb478bbc44564c2c05159c31b1bc",
       "url": "https://www.cbc.ca/news/world/mamdani-new-york-mayor-subway-9.7031875?cmp=rss",
-      "title": "Zohran Mamdani sworn in as New York City mayor at historic subway station",
+      "title": "Mamdani vows to govern 'expansively and audaciously' in inaugural speech as NYC mayor",
       "published_at": "2026-01-01T03:16:58-05:00",
       "section": "Top Stories",
-      "summary_auto": "Zohran Mamdani was sworn in a mayor of New York City just after midnight Thursday, taking the oath of office at a historic, decommissioned subway station in Manhattan.",
+      "summary_auto": "Zohran Mamdani was sworn in as the mayor of New York City just after midnight Thursday, taking the oath of office at a historic, decommissioned subway station in Manhattan.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -182,32 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.819,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c9447d1290dcabe9d32e92e7796f97cac1697567",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/avalanche-death-tumbler-ridge-bc-9.7031829?cmp=rss",
-      "title": "Snowmobiler dies in avalanche in the Rocky Mountains near Tumbler Ridge, B.C.",
-      "published_at": "2025-12-31T18:15:46-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Avalanche Canada says three snowmobilers were riding about 35 kilometres southwest of Tumbler Ridge when the avalanche was remotely triggered from the base of the slope.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5065a8f19db00570a4ea7ecdc5aeba1ec960fe13",
-      "url": "https://www.cbc.ca/news/world/us-venezuela-drugs-attacks-9.7031820?cmp=rss",
-      "title": "U.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard",
-      "published_at": "2025-12-31T17:28:50-05:00",
-      "section": "World",
-      "summary_auto": "The U.S. military said Wednesday it struck five alleged drug-smuggling boats over two days, killing a total of eight people while others jumped overboard and may have survived.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.825,
         "subjectivity_hint": "medium"
       }
     }
