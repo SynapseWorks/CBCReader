@@ -1,18 +1,109 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-02T15:16:50.499888-05:00",
+  "generated_at": "2026-01-02T20:10:13.089775-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "0267237907fb78fd5144b310e4c9ec03ab84bc57",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/air-india-pilot-arrest-vancouver-bc-9.7032480?cmp=rss",
+      "title": "Transport Canada warns Air India on drinking rules after pilot's Vancouver arrest",
+      "published_at": "2026-01-02T13:46:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Richmond RCMP said a pilot was arrested on Dec. 23 after a \"report of concern\" involving an airline crew member.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9ef65144cc43915503e3bc44877dfb0ce6a15239",
+      "url": "https://www.cbc.ca/news/health/peace-by-chocolate-nuttyhero-pistachios-salmonella-recall-9.7032484?cmp=rss",
+      "title": "Peace by Chocolate, NuttyHero pistachio-related products recalled over salmonella fears",
+      "published_at": "2026-01-02T13:38:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hundreds of pistachios and pistachio-containing products have been recalled in Canada in recent months.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecead1d8c04797e33dc080b910039cfc848e65f2",
+      "url": "https://www.cbc.ca/sports/equestrian/diane-crump-obit-jan-2-9.7032489?cmp=rss",
+      "title": "Diane Crump, the 1st female jockey to ride in Kentucky Derby, dies at 77",
+      "published_at": "2026-01-02T13:35:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Diane Crump, who in 1969 became the first woman to ride professionally in a horse race and a year later became the first female jockey in the Kentucky Derby, has died. She was 77.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "63051a81fd28b47ae9065f4f7895115c76166964",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/former-employee-sentenced-for-defrauding-millbrook-first-nation-9.7032447?cmp=rss",
+      "title": "Court sentences former Millbrook employee to 4½ years for defrauding Millbrook First Nation",
+      "published_at": "2026-01-02T12:30:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A former employee of the Millbrook First Nation has been sentenced to 4½ years in federal prison.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "71b8f93c7b529b08654256bc03c9f5ee18d4785e",
+      "url": "https://www.cbc.ca/news/canada/manitoba/canada-u-s-tariffs-kitchen-cabinets-9.7032409?cmp=rss",
+      "title": "Despite pause, U.S. tariffs leave furniture, cabinet makers 'in dire straits': industry association",
+      "published_at": "2026-01-02T11:39:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian Kitchen Cabinet Association says while it welcomes U.S. President Donald Trump's postponement of tariff increases on furniture, cabinets and vanities that were set for Jan. 1, the industry is still being devastated by the existing duties.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b52055e25a5eb4fd132bda0ae8a5f16bee8d2818",
+      "url": "https://www.cbc.ca/news/canada/edmonton/year-return-to-office-9.7032172?cmp=rss",
+      "title": "Thousands of public, private sector workers will be working from the office again in 2026",
+      "published_at": "2026-01-02T10:19:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f7c776fdc7ad437c892cade2b74004915826f09",
+      "url": "https://www.cbc.ca/news/canada/edmonton/charges-pending-after-health-care-worker-assaulted-at-edmonton-hospital-9.7032370?cmp=rss",
+      "title": "Charges pending after health-care worker assaulted at Edmonton hospital",
+      "published_at": "2026-01-02T09:54:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Union officials say a violent assault on a health-care worker at an Edmonton psychiatric hospital highlights the need for improved supports and safeguards for front-line workers exposed to violence on the job.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.891,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "f69fbbae65cd9efa3331ead0d1fe318c811129b5",
       "url": "https://www.cbc.ca/news/world/xai-grok-safeguard-lapses-9.7032346?cmp=rss",
       "title": "Elon Musk's Grok AI says images of 'minors in minimal clothing' caused by safeguard lapses",
       "published_at": "2026-01-02T09:28:23-05:00",
       "section": "Top Stories",
-      "summary_auto": "xAI artificial intelligence chatbot Grok said on Friday that lapses in safeguards had resulted in \"images depicting minors in minimal clothing\" on social media platform X and that improvements were being made to prevent this.",
+      "summary_auto": "Musk's xAI was under international scrutiny over allegations on Friday that it was filling its platform with sexualized, AI-generated images of women and minors.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.859,
+        "sentiment": 0.382,
         "subjectivity_hint": "low"
       }
     },
@@ -52,19 +143,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b52055e25a5eb4fd132bda0ae8a5f16bee8d2818",
-      "url": "https://www.cbc.ca/news/canada/edmonton/year-return-to-office-9.7032172?cmp=rss",
-      "title": "Thousands of public, private sector workers will be working from the office again in 2026",
-      "published_at": "2026-01-02T04:13:26-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The new year will bring some big changes to the rules on in-office work for many employees across the country, including tens of thousands of provincial government staff in Ontario and Alberta, who will soon be required back in the office full time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -112,24 +190,11 @@
       "url": "https://www.cbc.ca/news/world/north-korea-heir-kim-jong-un-9.7032155?cmp=rss",
       "title": "Kim Jong-un's daughter visits family mausoleum, promoting her potential status as heir in North Korea",
       "published_at": "2026-01-02T01:48:12-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The teenage daughter of North Korean leader Kim Jong-un made her first known visit to a sacred family mausoleum, a step that experts say bolstered her status as her father's potential heir.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f73bdce750a09316d2ab1399beab06494aa8f9e0",
-      "url": "https://www.cbc.ca/news/world/trump-iran-protests-9.7032152?cmp=rss",
-      "title": "Trump, top Iranian officials exchange threats over protests in Iran",
-      "published_at": "2026-01-02T01:37:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump and top Iranian officials exchanged duelling threats on Friday as widening economic protests swept across parts of the Islamic Republic, further escalating tensions between the countries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.818,
         "subjectivity_hint": "low"
       }
     },
@@ -203,7 +268,7 @@
       "url": "https://www.cbc.ca/news/canada/montreal/quebecers-skydiving-world-record-florida-9.7021667?cmp=rss",
       "title": "Quebec City skydivers help set new world record for largest parachute formation",
       "published_at": "2026-01-01T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Roughly 100 people from around the world, including some Quebecers, travelled to Lake Whales, Fla., in November to break the world record for largest parachute formation.",
       "bias_heuristic": {
         "article_type": "News",
