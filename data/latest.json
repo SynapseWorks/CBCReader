@@ -1,28 +1,67 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-03T09:13:55.238528-05:00",
+  "generated_at": "2026-01-03T15:16:22.290893-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "009db0af059d32b1259785580606ff3b179296d4",
+      "url": "https://www.cbc.ca/news/world/venezuela-diaspora-reacts-maduro-capture-world-reaction-9.7032756?cmp=rss",
+      "title": "Maduro's capture sparks joy and worry among Venezuelan diaspora",
+      "published_at": "2026-01-03T09:44:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Venezuelan migrants around the world erupted in celebration on Saturday following the U.S.-led capture of President Nicolas Maduro, whose government oversaw one of the world's largest migration exoduses in recent history.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec0cbaa0628ab78558d02b67ad3ca87e670366ac",
+      "url": "https://www.cbc.ca/news/world/iran-khamenei-protesters-9.7032737?cmp=rss",
+      "title": "Iran's Khamenei says 'rioters should be put in their place'",
+      "published_at": "2026-01-03T08:57:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The first comments by 86-year-old Ayatollah Ali Khamenei come as violence surrounding the demonstrations sparked by Iran's ailing economy has killed at least 10 people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "13efd21612c0658bf6e156398f8721f2112b5b1c",
       "url": "https://www.cbc.ca/news/world/trump-maduro-venezuela-strikes-9.7032572?cmp=rss",
-      "title": "Venezuelan President Nicolás Maduro captured following U.S. strikes on Caracas, Trump says",
+      "title": "Trump says U.S. is 'going to run' Venezuela until safe transition of power can take place",
       "published_at": "2026-01-03T03:03:15-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.361,
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cc03d9ef8989d2cde9b3b8424d31561dc1deb782",
+      "url": "https://www.cbc.ca/news/canada/north/eureka-weather-station-bear-dar-9.6989248?cmp=rss",
+      "title": "Arctic communities testing new 'bear-dar' to detect wildlife threats",
+      "published_at": "2026-01-03T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Bear-dar is designed to survey the landscape and detect anything that moves. It can be used by communities as an early warning system, alerting them to a nearby polar bear.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "d45bdef5219aaf44ed5f17c204f73cc6634c2eed",
       "url": "https://www.cbc.ca/sports/hockey/canada-slovakia-world-juniors-championship-quarterfinal-recap-9.7032558?cmp=rss",
-      "title": "Canada trounces Slovakia 7-1 in world juniors quarterfinals",
+      "title": "Canada trounces Slovakia 7-1 in world junior quarterfinals",
       "published_at": "2026-01-02T18:10:51-05:00",
       "section": "Top Stories",
-      "summary_auto": "Canada defeated Slovakia 7-1 in their quarterfinal matchup at the world junior hockey championship on Friday. They'll move on to the semifinal matchup against Czechia Sunday.",
+      "summary_auto": "Canada defeated Slovakia 7-1 in their quarterfinal matchup at the world junior hockey championship on Friday. They'll move on to the semifinal matchup against the Czech Republic Sunday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.052,
@@ -52,110 +91,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0267237907fb78fd5144b310e4c9ec03ab84bc57",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/air-india-pilot-arrest-vancouver-bc-9.7032480?cmp=rss",
-      "title": "Transport Canada warns Air India on drinking rules after pilot's Vancouver arrest",
-      "published_at": "2026-01-02T13:46:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Richmond RCMP said a pilot was arrested on Dec. 23 after a \"report of concern\" involving an airline crew member.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ef65144cc43915503e3bc44877dfb0ce6a15239",
-      "url": "https://www.cbc.ca/news/health/peace-by-chocolate-nuttyhero-pistachios-salmonella-recall-9.7032484?cmp=rss",
-      "title": "Peace by Chocolate, NuttyHero pistachio-related products recalled over salmonella fears",
-      "published_at": "2026-01-02T13:38:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds of pistachios and pistachio-containing products have been recalled in Canada in recent months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ecead1d8c04797e33dc080b910039cfc848e65f2",
-      "url": "https://www.cbc.ca/sports/equestrian/diane-crump-obit-jan-2-9.7032489?cmp=rss",
-      "title": "Diane Crump, the 1st female jockey to ride in Kentucky Derby, dies at 77",
-      "published_at": "2026-01-02T13:35:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Diane Crump, who in 1969 became the first woman to ride professionally in a horse race and a year later became the first female jockey in the Kentucky Derby, has died. She was 77.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "63051a81fd28b47ae9065f4f7895115c76166964",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/former-employee-sentenced-for-defrauding-millbrook-first-nation-9.7032447?cmp=rss",
-      "title": "Court sentences former Millbrook employee to 4½ years for defrauding Millbrook First Nation",
-      "published_at": "2026-01-02T12:30:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A former employee of the Millbrook First Nation has been sentenced to 4½ years in federal prison.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71b8f93c7b529b08654256bc03c9f5ee18d4785e",
-      "url": "https://www.cbc.ca/news/canada/manitoba/canada-u-s-tariffs-kitchen-cabinets-9.7032409?cmp=rss",
-      "title": "Despite pause, U.S. tariffs leave furniture, cabinet makers 'in dire straits': industry association",
-      "published_at": "2026-01-02T11:39:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Canadian Kitchen Cabinet Association says while it welcomes U.S. President Donald Trump's postponement of tariff increases on furniture, cabinets and vanities that were set for Jan. 1, the industry is still being devastated by the existing duties.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b52055e25a5eb4fd132bda0ae8a5f16bee8d2818",
-      "url": "https://www.cbc.ca/news/canada/edmonton/year-return-to-office-9.7032172?cmp=rss",
-      "title": "Thousands of public, private sector workers will be working from the office again in 2026",
-      "published_at": "2026-01-02T10:19:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f7c776fdc7ad437c892cade2b74004915826f09",
-      "url": "https://www.cbc.ca/news/canada/edmonton/charges-pending-after-health-care-worker-assaulted-at-edmonton-hospital-9.7032370?cmp=rss",
-      "title": "Charges pending after health-care worker assaulted at Edmonton hospital",
-      "published_at": "2026-01-02T09:54:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Union officials say a violent assault on a health-care worker at an Edmonton psychiatric hospital highlights the need for improved supports and safeguards for front-line workers exposed to violence on the job.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f69fbbae65cd9efa3331ead0d1fe318c811129b5",
-      "url": "https://www.cbc.ca/news/world/xai-grok-safeguard-lapses-9.7032346?cmp=rss",
-      "title": "Elon Musk's Grok AI says images of 'minors in minimal clothing' caused by safeguard lapses",
-      "published_at": "2026-01-02T09:28:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Musk's xAI was under international scrutiny over allegations on Friday that it was filling its platform with sexualized, AI-generated images of women and minors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
         "subjectivity_hint": "low"
       }
     }
