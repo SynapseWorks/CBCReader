@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-03T15:16:22.290893-05:00",
+  "generated_at": "2026-01-03T20:22:04.143825-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7b209bc6664b02b1b527cec82fbb17b81e41c17f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/coastal-flooding-alert-bc-south-coast-avalanche-warning-9.7032826?cmp=rss",
+      "title": "Storm surge threat, higher tides trigger coastal flooding alert for B.C.'s South Coast",
+      "published_at": "2026-01-03T12:27:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A coastal flooding alert is in place this weekend for B.C.’s South Coast, including Metro Vancouver as well as parts of Vancouver Island. Avalanche Canada is warning stormy weather has created potentially dangerous conditions on Vancouver's North Shore mountains.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e30af32fb96edd75a01b144e027ae62c8b6f0612",
+      "url": "https://www.cbc.ca/news/canada/manitoba/pimicikamak-cree-nation-power-outage-9.7032795?cmp=rss",
+      "title": "Thousands evacuated from Pimicikamak Cree Nation after homes, water treatment plant damaged in power outage",
+      "published_at": "2026-01-03T12:01:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The chief of Pimicikamak Cree Nation says hundreds of homes have been \"severely compromised\" in the aftermath of a days-long power outage that damaged a water treatment plant and plumbing systems, and about 4,000 people have been evacuated.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f7b723ea3c094b31b391583bfbfa9ca131d96d00",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/additional-tariffs-on-kitchen-cabinets-pushed-to-2027-9.7032700?cmp=rss",
+      "title": "Canadian manufacturers welcome pause on tariff hikes — but they're still not banking on U.S. market",
+      "published_at": "2026-01-03T10:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The 25 per cent tariff on kitchen cabinets and vanities was set to double on Jan. 1. But on New Year's Eve, the White House announced the tariff hike would be delayed until 2027.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.09,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "009db0af059d32b1259785580606ff3b179296d4",
       "url": "https://www.cbc.ca/news/world/venezuela-diaspora-reacts-maduro-capture-world-reaction-9.7032756?cmp=rss",
@@ -30,15 +69,28 @@
       }
     },
     {
+      "id": "eddd0d9adcb6d95d69b2a9fbc5104e3b5718fefe",
+      "url": "https://www.cbc.ca/news/world/nicolas-maduro-venezuela-9.7032594?cmp=rss",
+      "title": "Who is Nicolás Maduro, Venezuela's recently captured president?",
+      "published_at": "2026-01-03T04:21:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Key facts about Nicolás Maduro, the Venezuelan leader who U.S. President Donald Trump said had been captured by U.S. forces on Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "13efd21612c0658bf6e156398f8721f2112b5b1c",
       "url": "https://www.cbc.ca/news/world/trump-maduro-venezuela-strikes-9.7032572?cmp=rss",
-      "title": "Trump says U.S. is 'going to run' Venezuela until safe transition of power can take place",
+      "title": "Captured Venezuelan president arrives in New York following U.S. strikes in Caracas",
       "published_at": "2026-01-03T03:03:15-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.44,
+        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -52,45 +104,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d45bdef5219aaf44ed5f17c204f73cc6634c2eed",
-      "url": "https://www.cbc.ca/sports/hockey/canada-slovakia-world-juniors-championship-quarterfinal-recap-9.7032558?cmp=rss",
-      "title": "Canada trounces Slovakia 7-1 in world junior quarterfinals",
-      "published_at": "2026-01-02T18:10:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada defeated Slovakia 7-1 in their quarterfinal matchup at the world junior hockey championship on Friday. They'll move on to the semifinal matchup against the Czech Republic Sunday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2a36296697afb9a9799b1b553adf83d198624e54",
-      "url": "https://www.cbc.ca/news/world/yemen-uae-military-forces-9.7032551?cmp=rss",
-      "title": "U.A.E. pulls military forces out of Yemen following tensions with Saudi Arabia",
-      "published_at": "2026-01-02T16:35:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The United Arab Emirates said early Saturday it had withdrawn all its troops from Yemen, after escalating tensions in the war-torn country that pitted the UAE against fellow Gulf powerhouse Saudi Arabia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0cdf6b9b563732f1651afb46d337c26d68d9862e",
-      "url": "https://www.cbc.ca/news/entertainment/drake-class-action-lawsuit-illegal-gambling-company-9.7032546?cmp=rss",
-      "title": "Drake faces U.S. lawsuit over ties to online gambling firm, scheme to inflate streams",
-      "published_at": "2026-01-02T16:33:44-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Toronto rapper has been named as part of a proposed U.S. class-action lawsuit that alleges he and others used proceeds from a gambling website to \"obscure transmissions of money,\" which were then used to artificially inflate his streaming music play counts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     }
