@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-03T20:22:04.143825-05:00",
+  "generated_at": "2026-01-04T09:13:37.307554-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "351636247b7fb61573c71ceeddffb9d2f0a59667",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-liberal-mp-buckley-belanger-1st-year-in-ottawa-9.7023274?cmp=rss",
+      "title": "Sask.'s only Liberal MP reflects on his 1st year in Ottawa, shares thoughts on Carney",
+      "published_at": "2026-01-04T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The MP for Desnethé—Missinippi—Churchill River, a political veteran, described the prime minister as a “complex thinker” with a clear message.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "7b209bc6664b02b1b527cec82fbb17b81e41c17f",
       "url": "https://www.cbc.ca/news/canada/british-columbia/coastal-flooding-alert-bc-south-coast-avalanche-warning-9.7032826?cmp=rss",
@@ -52,58 +65,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ec0cbaa0628ab78558d02b67ad3ca87e670366ac",
-      "url": "https://www.cbc.ca/news/world/iran-khamenei-protesters-9.7032737?cmp=rss",
-      "title": "Iran's Khamenei says 'rioters should be put in their place'",
-      "published_at": "2026-01-03T08:57:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The first comments by 86-year-old Ayatollah Ali Khamenei come as violence surrounding the demonstrations sparked by Iran's ailing economy has killed at least 10 people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "eddd0d9adcb6d95d69b2a9fbc5104e3b5718fefe",
-      "url": "https://www.cbc.ca/news/world/nicolas-maduro-venezuela-9.7032594?cmp=rss",
-      "title": "Who is Nicolás Maduro, Venezuela's recently captured president?",
-      "published_at": "2026-01-03T04:21:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Key facts about Nicolás Maduro, the Venezuelan leader who U.S. President Donald Trump said had been captured by U.S. forces on Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "13efd21612c0658bf6e156398f8721f2112b5b1c",
-      "url": "https://www.cbc.ca/news/world/trump-maduro-venezuela-strikes-9.7032572?cmp=rss",
-      "title": "Captured Venezuelan president arrives in New York following U.S. strikes in Caracas",
-      "published_at": "2026-01-03T03:03:15-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cc03d9ef8989d2cde9b3b8424d31561dc1deb782",
-      "url": "https://www.cbc.ca/news/canada/north/eureka-weather-station-bear-dar-9.6989248?cmp=rss",
-      "title": "Arctic communities testing new 'bear-dar' to detect wildlife threats",
-      "published_at": "2026-01-03T02:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Bear-dar is designed to survey the landscape and detect anything that moves. It can be used by communities as an early warning system, alerting them to a nearby polar bear.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
         "subjectivity_hint": "low"
       }
     }
