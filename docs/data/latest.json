@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-04T15:17:19.615292-05:00",
+  "generated_at": "2026-01-04T20:20:46.081973-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e1a67c01ab47c9575bb656a9ff9efc17c5cd800c",
+      "url": "https://www.cbc.ca/news/world/mette-frederiksen-trump-greenland-9.7033227?cmp=rss",
+      "title": "Danish, Greenlandic leaders urge Trump to end threats to take over Greenland",
+      "published_at": "2026-01-04T13:22:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The leaders of Denmark and Greenland on Sunday urged U.S. President Donald Trump to stop threatening to take over Greenland, after he reiterated his wish to do so in an interview with The Atlantic magazine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ed16eba462f448c82efbfa71eaf2933212b5abf",
+      "url": "https://www.cbc.ca/player/play/9.7033190?cmp=rss",
+      "title": "Highly skilled immigrants leaving Canada at rapid rate: report",
+      "published_at": "2026-01-04T11:00:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A recent report by the Institute for Canadian Citizenship found that one in five immigrants leaves Canada within 25 years of arriving, with highly skilled immigrants almost twice as likely to leave.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "32c6196811a6f5713c32fbdce91f22cf5a21e005",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-venezuela-local-reaction-9.7033138?cmp=rss",
+      "title": "Venezuelans in Manitoba quietly celebrate capture of Maduro as others question legitimacy of U.S. intervention",
+      "published_at": "2026-01-04T10:25:14-05:00",
+      "section": "Canada",
+      "summary_auto": "Some Venezuelans living in Winnipeg say American strikes and the capture of President Nicolas Maduro announced by U.S. President Donald Trump on Saturday have stirred up a complicated mix of emotions, from worry to hopefulness for the future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a90acf6b3abb6af80435d9dc292cf6ce09110e06",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/ns-man-sentenced-crash-killed-3-9.7033058?cmp=rss",
@@ -78,19 +117,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.44,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bdf228a1c7e0089bfd67b58a2a53441d27992610",
-      "url": "https://www.cbc.ca/news/canada/manitoba/antisemitism-graffiti-winnipeg-synagogue-swastika-9.7032880?cmp=rss",
-      "title": "'If they want to intimidate us it's not going to happen': Synagogue stands together after antisemitic graffiti",
-      "published_at": "2026-01-03T16:38:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Jewish congregation in Winnipeg came together for Sabbath in a show of strength and resilience a day after their synagogue was vandalized with antisemitic graffiti, including a slew of swastikas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
         "subjectivity_hint": "medium"
       }
     }
