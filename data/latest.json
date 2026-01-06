@@ -1,18 +1,200 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-05T20:14:34.961380-05:00",
+  "generated_at": "2026-01-06T09:17:36.303953-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "00272be9f3d1da4b782dce1a40851fcb21a4d05e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/killer-whales-rub-bellies-on-rocks-9.7034393?cmp=rss",
+      "title": "‘Very unique’: Pod of killer whales seen rubbing bellies on rocks off B.C.'s Sunshine Coast",
+      "published_at": "2026-01-06T04:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "People at a beach on the Sunshine Cost were left awestruck after watching a pod of killer whales swim close to the shore. Amongst all of the different killer whale populations around the world, few have been observed performing the rare activity, says cetology expert.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5f945b704fe046d8bb428c00c25115cf64e8437c",
+      "url": "https://www.cbc.ca/news/politics/carney-venezuela-oil-trump-competition-9.7022452?cmp=rss",
+      "title": "Canada's cheaper, cleaner and lower-risk oil can rival a resurgent Venezuela, Carney says",
+      "published_at": "2026-01-06T02:51:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef9f54240fc71d41a95e653ba7b4761133bc695f",
+      "url": "https://www.cbc.ca/news/world/iran-protests-death-toll-rises-9.7034751?cmp=rss",
+      "title": "At least 25 people killed in Iranian economic protests, rights groups say",
+      "published_at": "2026-01-06T02:45:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "At least 25 people have been killed in Iran during the first nine days of protests that started in the bazaar of Tehran over the plunging value of the currency and soaring inflation, according to rights groups.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "27b3b70f002c8f1180827ff9b873da34fb9f85e4",
+      "url": "https://www.cbc.ca/news/world/switzerland-resort-fire-newser-safety-inspections-9.7034732?cmp=rss",
+      "title": "Swiss officials can't explain why bar hadn't received fire safety inspection in 6 years ahead of deadly blaze",
+      "published_at": "2026-01-06T02:31:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fire safety inspections hadn't been carried out for several years at the bar where a fire that broke out at a New Year's party left 40 people dead and over 100 injured, local authorities said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.855,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "59b85488c5bff86ff40665eadbe228701d300395",
+      "url": "https://www.cbc.ca/news/canada/ottawa/like-amazon-illegal-drugs-advertised-online-delivered-canada-post-9.7033700?cmp=rss",
+      "title": "'It's like on Amazon': Illegal drugs advertised online, delivered by Canada Post",
+      "published_at": "2026-01-06T01:25:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "34083bea3d5e19830aa2245c5a7b2b76dd233db3",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/amnesty-international-joins-fight-for-nova-scotia-dump-site-cleanup-and-safe-water-9.7030329?cmp=rss",
+      "title": "Amnesty International joins fight for Nova Scotia dump site cleanup and safe water",
+      "published_at": "2026-01-06T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An international organization that often finds itself at the centre of human rights conflicts in developing countries has turned its attention to a small town in southwest Nova Scotia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e38bbe4e0b26eb837f27f9edcb98813f14590cd1",
+      "url": "https://www.cbc.ca/news/health/ozempic-glp1-health-canada-generic-9.7034498?cmp=rss",
+      "title": "Cheaper obesity medications could come to Canada this summer, as Health Canada reviews generics",
+      "published_at": "2026-01-05T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In Canada, the patent for some semaglutide drugs has expired, paving the way for the country to become the first to offer cheaper generic versions of medications like Ozempic and Wegovy to people with prescriptions. Pharmaceutical experts say this could take some time.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9360add10bb9d8035221950eeab6636fef727e57",
+      "url": "https://www.cbc.ca/news/canada/calgary/venezuela-oil-canada-9.7034122?cmp=rss",
+      "title": "More oil production in Venezuela could hurt Canada's oilpatch",
+      "published_at": "2026-01-05T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A regime change in Venezuela could both help that country regain its former prominence as an oil producer and pose a threat to Canada’s industry, which is producing record amounts of oil and is expected to continue to grow for several more years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e87306feb51d07b33c300fff9cf5bea910491cd1",
+      "url": "https://www.cbc.ca/news/politics/trump-ukraine-venezuela-maduro-carney-greenland-9.7034482?cmp=rss",
+      "title": "Trump's Greenland annexation threats overshadow Ukraine security conference",
+      "published_at": "2026-01-05T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "The capture and planned prosecution of Venezuelan President Nicolás Maduro under U.S. law rattled European leaders gathered in Paris on the eve of planned meetings over specific security guarantees for Ukraine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70ac2a30115ef52b901d0d88294906fff79d04e1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/wasyliw-kinew-lawsuit-kinew-cross-bushie-9.7034368?cmp=rss",
+      "title": "Former Manitoba NDP MLA files defamation claim against premier, 2 other MLAs, over Nygard association",
+      "published_at": "2026-01-05T17:47:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Manitoba Independent MLA Mark Wasyliw has filed a defamation lawsuit against Premier Wab Kinew and two other members of Kinew's NDP government, claiming they associated the defence lawyer-turned-MLA with convicted criminal Peter Nygard as an excuse to kick him out of the party.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56ba31cbe7e0866902e81ffe878bd061bdb903c7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-trades-9.7034439?cmp=rss",
+      "title": "B.C. jobs in high demand: Why 2026 may be the best time to learn a trade",
+      "published_at": "2026-01-05T16:47:53-05:00",
+      "section": "Canada",
+      "summary_auto": "Amid Prime Minister Mark Carney’s push for nation-building projects and uncertainty around  AI’s impact on the job market, an advocate for British Columbia’s construction industry says there’s no better time to consider a career in the trades.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.027,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f4a05d46b06116a52d5b3dd43daf0dd9aed6be6b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-home-sales-9.7034552?cmp=rss",
+      "title": "Vancouver area home sales hit lowest level in more than two decades in 2025",
+      "published_at": "2026-01-05T16:08:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Greater Vancouver recorded its lowest annual home sales total in more than two decades in 2025, capping a year that saw weak buyer demand, rising inventory and easing prices, according to new data from Greater Vancouver Realtors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9d8042900aea5634e207f8ac87acdcd587c78b3b",
+      "url": "https://www.cbc.ca/news/world/eva-schloss-obituary-stepsister-anne-frank-9.7034510?cmp=rss",
+      "title": "Eva Schloss, Holocaust survivor and stepsister of Anne Frank, dead at 96",
+      "published_at": "2026-01-05T15:57:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Auschwitz survivor Eva Schloss, the stepsister of teenage diarist Anne Frank and a tireless educator about the horrors of the Holocaust, has died. She was 96.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d5e7e8e6c7d19e78cf4ad9b4a3f6b5d4da23cdf4",
+      "url": "https://www.cbc.ca/news/world/venezuela-border-hope-9.7034344?cmp=rss",
+      "title": "'We are waiting for something better to come': Venezuelans face the future of their country",
+      "published_at": "2026-01-05T15:15:59-05:00",
+      "section": "World",
+      "summary_auto": "Venezuelans travelling over the Colombian-Venezuelan border say people in the country are trying to live normal lives in the face of an uncertain future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "d96215055eaa938a468a24650b7037ad58ba12a7",
       "url": "https://www.cbc.ca/sports/hockey/world-junior-hockey-championship-gold-bronze-results-2026-9.7034499?cmp=rss",
-      "title": "Canada tops Finland to claim bronze at world junior hockey championship",
+      "title": "Canada tops Finland to claim bronze at world junior hockey championship; Sweden wins gold",
       "published_at": "2026-01-05T15:00:21-05:00",
       "section": "Top Stories",
       "summary_auto": "Zayne Parekh had a goal and an assist to set a new record for points by a Canadian defenceman at a world junior hockey championship as the country salvaged a bronze medal with a 6-3 victory over Finland on Monday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.912,
+        "sentiment": 0.946,
         "subjectivity_hint": "low"
       }
     },
@@ -82,6 +264,19 @@
       }
     },
     {
+      "id": "62964be6899580c53e2885bc9f1800ebc60e5bee",
+      "url": "https://www.cbc.ca/news/world/trump-venezuela-explainer-9.7033725?cmp=rss",
+      "title": "Venezuela's collapse, Trump’s military buildup and Maduro's capture: How did we get here?",
+      "published_at": "2026-01-05T11:27:39-05:00",
+      "section": "World",
+      "summary_auto": "Now that we're at a crisis point — with the United Nations saying U.S. President Donald Trump's weekend invasion of Venezuela contravened its charter and with Nicolas Maduro appearing in a U.S. court — it's a good time to review what led to this moment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "50162dc178abc39fffc3f115bd283e93cd22ae9a",
       "url": "https://www.cbc.ca/news/canada/london/impaired-drivers-in-ontario-face-automatic-harsher-penalties-under-new-rules-now-in-effect-9.7033937?cmp=rss",
       "title": "Impaired drivers in Ontario face automatic, harsher penalties under new rules now in effect",
@@ -99,24 +294,11 @@
       "url": "https://www.cbc.ca/news/world/uvalde-school-shooting-police-officer-9.7034116?cmp=rss",
       "title": "Rare prosecution of a police officer gets underway in connection to Uvalde, Texas, school shooting",
       "published_at": "2026-01-05T11:20:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A former school police officer in Uvalde, Texas, who was part of the slow law enforcement response to one of the worst school shootings in U.S. history went on trial Monday on charges that he failed to protect children from the gunman.",
+      "section": "World",
+      "summary_auto": "A Texas judge seated a jury Monday in the trial of a former school police officer in Uvalde who was part of the hesitant law enforcement response to one of the worst school shootings in U.S. history and has been charged with failing to protect children from the gunman.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fdaadf7c90781a96797b78f19e8c827e6865b38",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-wti-venezuela-tsx-9.7033902?cmp=rss",
-      "title": "Canadian energy stocks tumble after U.S. incursion in Venezuela",
-      "published_at": "2026-01-05T10:41:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
+        "sentiment": -0.896,
         "subjectivity_hint": "low"
       }
     },
@@ -125,284 +307,11 @@
       "url": "https://www.cbc.ca/news/world/brigitte-macron-cyberbullying-guilty-9.7033990?cmp=rss",
       "title": "10 people found guilty of cyberbullying French first lady Brigitte Macron",
       "published_at": "2026-01-05T09:39:12-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A Paris court has found 10 people guilty of cyberbullying France's first lady, Brigitte Macron, by spreading false online claims about her gender and sexuality, including allegations that she was born male.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ab425ef0665d30fb95e84726670a0f1eb7fc169a",
-      "url": "https://www.cbc.ca/news/canada/toronto/full-time-return-to-office-ontario-public-service-9.7033998?cmp=rss",
-      "title": "Unions, public service employees speak out against Ontario return to office policy",
-      "published_at": "2026-01-05T09:10:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario’s mandate for government employees to return to office five days a week has kicked in starting Monday, much to the dismay of unions and public service workers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4b9af2d8137c07daee089634bd9d391465693bbd",
-      "url": "https://www.cbc.ca/player/play/9.7033941?cmp=rss",
-      "title": "Ottawa's Rideau Canal Skateway fully opens",
-      "published_at": "2026-01-05T08:41:11-05:00",
-      "section": "Canada",
-      "summary_auto": "The National Capital Commission opened the entire length of the Rideau Canal Skateway on Monday morning. CBC's Sannah Choi spoke with some of the first people to skate it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "13c26d321b6b5e605ca3c8d86121dd4055605580",
-      "url": "https://www.cbc.ca/news/world/minn-walz-ends-governor-campaign-9.7033835?cmp=rss",
-      "title": "Tim Walz scraps Minnesota re-election campaign amid state fraud scandals",
-      "published_at": "2026-01-05T08:28:54-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Minnesota Gov. Tim Walz is ending his bid for a third term, less than four months after announcing his reelection campaign. Walz was the Democratic vice-presidential nominee during the 2024 election campaign.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f9544569db926c31089a31ba6e293bf5da7f10e",
-      "url": "https://www.cbc.ca/sports/hockey/former-ohl-commissioner-chl-president-david-branch-dead-at-77-9.7033817?cmp=rss",
-      "title": "Former OHL commissioner, CHL president David Branch dead at 77",
-      "published_at": "2026-01-05T07:00:56-05:00",
-      "section": "Canada",
-      "summary_auto": "Former Ontario Hockey League commissioner and Canadian Hockey League president David Branch has died. He was 77. The OHL and Canadian Hockey League announced his death Monday, stating he died Sunday. No cause of death was revealed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.97,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "adc705599a04216a2839675a74ccab2046059d33",
-      "url": "https://www.cbc.ca/news/canada/edmonton/hinton-rail-disaster-9.7033521?cmp=rss",
-      "title": "Tangled cars and billowing smoke: Hinton remembers deadly rail disaster 40 years later",
-      "published_at": "2026-01-05T07:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Colin Hanington followed a plume of smoke to reach one of the deadliest railway crashes in Canadian history, and almost 40 years later remembers the silence when he got there.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "28b068bad1bad4f6df0703bfd979c93698c1c867",
-      "url": "https://www.cbc.ca/news/world/us-court-maduro-venezuela-future-9.7033428?cmp=rss",
-      "title": "Who is Delcy Rodríguez, Venezuela's new interim leader?",
-      "published_at": "2026-01-05T06:47:10-05:00",
-      "section": "World",
-      "summary_auto": "Delcy Rodríguez, at least for now, has taken over as leader of Venezuela after her ally Nicolás Maduro was seized by the United States to face criminal indictment in New York. With the events from Maduro's stunning capture still fresh, there are more questions than answers about Rodríguez's future dealings with the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5dd50bba44f3d84a2b2c9f906042b89602e50a1a",
-      "url": "https://www.cbc.ca/news/canada/manitoba/elston-bostock-winnipeg-police-constable-pleads-guilty-dealing-drugs-9.7033645?cmp=rss",
-      "title": "Former Winnipeg police officer pleads guilty to selling drugs — including to other officers",
-      "published_at": "2026-01-05T05:55:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A former Winnipeg police officer who previously pleaded guilty to a long list of charges involving corruption and other inappropriate actions has now also admitted to selling drugs over a period of years — both to civilians and other police officers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b9c6cc543050dbba00a489636db70f25c63cc803",
-      "url": "https://www.cbc.ca/news/canada/hamilton/venezuela-protest-hamilton-9.7034009?cmp=rss",
-      "title": "'Hands off Venezuela,' say protesters at Ontario rally following U.S. action against Maduro",
-      "published_at": "2026-01-05T05:06:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e961839b918f94d627ffc380f5f921c1ed292b2a",
-      "url": "https://www.cbc.ca/news/canada/montreal/civility-rules-quebec-schools-9.7033165?cmp=rss",
-      "title": "Quebec students return to class as new civility rules come into effect",
-      "published_at": "2026-01-05T03:57:02-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In a bid to improve student behaviour in Quebec schools, new rules are now in effect requiring students to use formal language when addressing teachers and school staff.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a577794b5d79bd2e118afc05dd9478ee5b392202",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-municipal-downloading-quantified-9.7032840?cmp=rss",
-      "title": "B.C. cities say they're on the hook for millions for housing, social issues due to senior gov't 'downloading'",
-      "published_at": "2026-01-05T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "B.C. municipalities have long complained senior levels of government have “downloaded” costs and responsibilities onto them. Now some cities have tried to quantify how much they’ve taken on — and they say it could cost them millions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4656d5f0027bae498148b8a51831ea10aaf0371b",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sit-skier-kurt-oatway-paralympics-crash-injury-recovery-9.7003120?cmp=rss",
-      "title": "'A whirlwind journey': Sit-skier Kurt Oatway’s fight to return to the Paralympics",
-      "published_at": "2026-01-05T01:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "At age 41, Kurt Oatway shows a steely determination to fight his way back to the top of the world stage after a devastating ski crash left him severely injured and forced to watch the 2022 Beijing Games at home.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.947,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4cd6de612fa59b8aad00a84c4e1cc929e03cf82f",
-      "url": "https://www.cbc.ca/news/politics/freeland-ukraine-economic-advisor-9.7033382?cmp=rss",
-      "title": "Freeland to step down in 'coming weeks' after accepting role advising Ukraine's Zelenskyy",
-      "published_at": "2026-01-05T00:26:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Longtime Liberal Chrystia Freeland says she'll step down as a member of Parliament in the \"coming weeks\" after accepting a new role advising Ukrainian President Volodymyr Zelenskyy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "890fe42995098e8aaf675b8ce5e0aa707b13e39b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/american-healthcare-workers-moving-nova-scotia-9.7025866?cmp=rss",
-      "title": "‘A no-brainer’: Why some U.S. health-care workers are moving to Nova Scotia",
-      "published_at": "2026-01-05T00:00:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nova Scotia Health says 50 American health-care workers have taken positions in Nova Scotia in the past fiscal year, up from 31 in 2024.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "200f563630a77de0792db79690f8e80eab13dd4f",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/chihiro-kondo-immigration-study-permit-application-dalhousie-student-9.7029400?cmp=rss",
-      "title": "Visa processing error by IRCC forces Halifax international student to stop studying, working",
-      "published_at": "2026-01-05T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "An international student at Dalhousie University in Halifax is raising issues with Canada’s immigration process after she had to stop studying and working because of a visa processing error.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "668da684b22d4c1a7fc209714fe1b781d8ac9c6b",
-      "url": "https://www.cbc.ca/news/canada/london/cars-crash-into-london-buildings-5-times-a-month-on-average-new-numbers-show-9.7031476?cmp=rss",
-      "title": "Cars crash into London buildings 5 times a month on average, new numbers show",
-      "published_at": "2026-01-05T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Numbers from London, Ont., police show 47 vehicles crashed into buildings in both the years 2023 and 2024, and 50 by October 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b22dcba25afccaea1454251bb5bfb93a7ed43066",
-      "url": "https://www.cbc.ca/news/politics/expanded-air-transit-agreements-canada-uae-saudi-arabia-9.7018498?cmp=rss",
-      "title": "Canadian airlines could be forced to 'up their game' as Ottawa allows more competition from Middle East",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Airlines in Canada could be under pressure soon to improve their services as the federal government opens up its skies to more competition from the Middle East.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "49d66587f7d8e435c1f93f711b510f3ab6690be3",
-      "url": "https://www.cbc.ca/news/canada/montreal/gaspe-obstetrics-closures-2025-9.7031455?cmp=rss",
-      "title": "She was forced to travel hours to give birth — a growing reality for families in Gaspé, Que.",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Expectant mothers in the Gaspé are frequently redirected to hospitals hours away to give birth, and some are warning the situation may grow even worse if the province doesn't intervene.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "92846db7a45e826fc23ef0dcaaf6da279eab07fe",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/lakehead-walk-9.7011290?cmp=rss",
-      "title": "Thunder Bay, Ont. university piloting walk that brings 9,000 years of local history to life",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Lakehead University is testing a new Two-Eyed Seeing walk that guides participants through Indigenous history, culture and reconciliation on its Thunder Bay campus",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3ed788755714e4aa76925ac807ea1ccd5acb4089",
-      "url": "https://www.cbc.ca/news/canada/toronto/peter-bethlenfalvy-2026-interview-9.7021760?cmp=rss",
-      "title": "Ontario will hold firm on U.S. booze ban at LCBO, says finance minister",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario’s finance minister says nothing short of full removal of tariffs will bring U.S. booze back to LCBO shelves, doubling-down on a trade irritant that has continued to frustrate President Donald Trump’s administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43d35a9ba856f3dc604f201c142cd158cd7ffabe",
-      "url": "https://www.cbc.ca/news/politics/ukraine-russia-war-canada-coalition-security-9.7033136?cmp=rss",
-      "title": "Carney heads to Paris as allies discuss security guarantees for Ukraine",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney is headed to Paris where he will meet with \"coalition of the willing\" partners to talk about specific security guarantees for Ukraine should there be a ceasefire and peace settlement with Russia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c26b5a5fe23098b3a826660bee2c2775b86331ef",
-      "url": "https://www.cbc.ca/radio/thecurrent/joe-macinnis-canadian-ocean-explorer-titanic-9.7030424?cmp=rss",
-      "title": "This Canadian explorer dove under the North Pole, discovered shipwrecks and helped a Hollywood director",
-      "published_at": "2026-01-04T23:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "From the Arctic to the Titanic, 88-year-old Joe MacInnis reflects on the dives and discoveries that instilled in him humility and awe for the ocean.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
