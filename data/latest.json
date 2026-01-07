@@ -1,15 +1,93 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-07T09:18:57.224151-05:00",
+  "generated_at": "2026-01-07T15:18:31.189105-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "2fdc38265aaf385f4ccaf1768353f3a4ac9b2f48",
-      "url": "https://www.cbc.ca/news/world/united-states-russia-tanker-9.7036134?cmp=rss",
-      "title": "U.S. forces board Venezuela-linked sanctioned oil tanker in North Atlantic: U.S. officials",
-      "published_at": "2026-01-07T03:45:59-05:00",
+      "id": "7203644a434a0cff36de269f5654173607d9bd88",
+      "url": "https://www.cbc.ca/news/canada/london/military-cami-ingersoll-9.7036513?cmp=rss",
+      "title": "Future of GM's CAMI plant in Ingersoll, Ont., could include military vehicles: union head",
+      "published_at": "2026-01-07T09:43:44-05:00",
       "section": "Top Stories",
-      "summary_auto": "A U.S. official says U.S. forces have boarded a Venezuela-linked sanctioned oil tanker in North Atlantic after pursuing it for weeks.",
+      "summary_auto": "The head of the union that represents workers at the General Motors CAMI Assembly plant in Ingersoll, Ont., says switching production to military vehicles is one of the options under discussion to return the facility to operations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3804b1ea3a05a9b8c9bbad1a4352f284977a0c92",
+      "url": "https://www.cbc.ca/news/world/ice-minneapolis-fatal-shooting-immigration-9.7036617?cmp=rss",
+      "title": "ICE agent fatally shoots woman during immigration crackdown in Minneapolis",
+      "published_at": "2026-01-07T09:13:53-05:00",
+      "section": "World",
+      "summary_auto": "A U.S. Immigration and Customs Enforcement officer shot and killed a Minneapolis motorist on Wednesday during the Trump administration's latest immigration crackdown on a major American city — a shooting that federal officials claimed was an act of self-defence but that the city's mayor described as \"reckless\" and unnecessary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7e77db39e9dd1a39bd300ec4a80817a2bb6d50c1",
+      "url": "https://www.cbc.ca/news/world/charts-venezuela-oil-economy-9.7036544?cmp=rss",
+      "title": "6 charts that tell the story of Venezuela's struggling oil economy",
+      "published_at": "2026-01-07T08:58:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Following the capture of President Nicolás Maduro, global attention has shifted to the White House’s next move in the region. To understand the stakes of this transition, here are six charts that illustrate the scale and significance of Venezuela’s oil reserves.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "138a9babcea332e7a3271e7e8ebcd385a163ab04",
+      "url": "https://www.cbc.ca/news/entertainment/one-battle-after-another-dominates-with-nods-in-every-film-category-ahead-of-oscar-nominations-9.7036586?cmp=rss",
+      "title": "Canadians Seth Rogen, Catherine O'Hara and Martin Short nominated for Actor Awards",
+      "published_at": "2026-01-07T08:45:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadians have collected a handful of nominations for the Actor Awards, SAG-AFTRA's annual accolades honouring Hollywood's best film and television/streaming performances of the year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2619840a70418dd382b54a4d2d2bfbaa3a90ccc",
+      "url": "https://www.cbc.ca/news/health/food-guide-dietary-trump-9.7036580?cmp=rss",
+      "title": "New dietary guide from Trump administration flips food pyramid for Americans to eat more protein",
+      "published_at": "2026-01-07T08:33:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The administration of U.S. President Donald Trump on Wednesday announced a new slate of dietary guidelines that recommends Americans eat more protein and less sugar than previously advised and that consumers avoid highly processed foods to achieve a healthy diet.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "04b15c31a599ad4927fa8d56b93ec3f9ad578ee5",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/ubisoft-studio-halifax-closed-9.7036470?cmp=rss",
+      "title": "Ubisoft closes Halifax studio, 71 employees affected",
+      "published_at": "2026-01-07T08:02:40-05:00",
+      "section": "Business",
+      "summary_auto": "Software company Ubisoft has closed its Halifax studio, putting 71 staff members out of work.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1640d0d0d744dd75b696c7dd8466098ad47d21c3",
+      "url": "https://www.cbc.ca/news/canada/ottawa/holocaust-memorial-defacer-sentencing-9.7036401?cmp=rss",
+      "title": "Man who defaced Holocaust Monument won't serve more time behind bars",
+      "published_at": "2026-01-07T07:22:52-05:00",
+      "section": "Canada",
+      "summary_auto": "The former City of Ottawa lawyer who defaced the National Holocaust Monument with blood-red paint last summer won't serve any more time behind bars.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -17,28 +95,132 @@
       }
     },
     {
-      "id": "d436a7e7b3d66c73ccda33382eed1da5cfd32816",
-      "url": "https://www.cbc.ca/news/world/us-greenland-european-reaction-9.7036060?cmp=rss",
-      "title": "Top European foreign ministers to meet after White House renews Greenland threats",
-      "published_at": "2026-01-07T03:34:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "European governments including those in France and Germany are working closely on a plan on how to respond should the United States act on its threat to take over Greenland, as Europe seeks to address U.S. President Donald Trump's ambitions in the region.",
+      "id": "bf3c296310fbba8c0e5cebc7cfcf35fb3241dc2e",
+      "url": "https://www.cbc.ca/news/world/greenland-diplomacy-trump-9.7036209?cmp=rss",
+      "title": "Greenland has become the island that could break NATO",
+      "published_at": "2026-01-07T07:12:38-05:00",
+      "section": "World",
+      "summary_auto": "European leaders have sounded the alarm over Donald Trump’s ambitions to take over Greenland, but the U.S. president may instead be thinking of his legacy. If that’s the case, many analysts, diplomats and politicians believe not only will European diplomacy fail, but the entire post-Second World War system of alliances will come crashing down alongside it, should the U.S. move unilaterally.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.382,
+        "sentiment": -0.915,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "08648187b919a7400db1d11b6e880ea43fc817cc",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-west-coast-pipeline-website-9.7036449?cmp=rss",
+      "title": "Alberta government launches website to host information about proposed oil pipeline",
+      "published_at": "2026-01-07T07:11:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Government says it plans to have an application ready by July 1 to the federal major projects office, which aims to expedite infrastructure projects deemed in the nation's interest.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "03ae6a01d58531bd3ca2ae6cb4bf4918b9ee9e00",
+      "url": "https://www.cbc.ca/news/entertainment/livestory/nick-reiner-rob-reiner-arraignment-9.7035534?cmp=rss",
+      "title": "Nick Reiner's lawyer, Alan Jackson, asks to leave murder case, delaying arraignment",
+      "published_at": "2026-01-07T06:31:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "159804d3afcf70c1f412971011a9926fd31c2803",
+      "url": "https://www.cbc.ca/news/science/mountain-gorilla-twins-9.7036268?cmp=rss",
+      "title": "Rare mountain gorilla twins born in the wild",
+      "published_at": "2026-01-07T06:08:18-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A mountain gorilla has given birth to twins in war-ravaged eastern Congo, a national park announced on Wednesday, in what it described as \"a major event\" for the endangered subspecies.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "39537e4080d4e1eea26a00d544138146278a1784",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-superior-court-class-action-ticketmaster-service-fees-9.7036289?cmp=rss",
+      "title": "Quebec Superior Court approves class action against Ticketmaster over service fees",
+      "published_at": "2026-01-07T05:39:04-05:00",
+      "section": "Canada",
+      "summary_auto": "The Quebec Superior Court has authorized a class-action lawsuit against Ticketmaster that accuses the American company of charging abusive service fees on ticket sales.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54f3dc3c74dbd19a902cbfaa11440c7d887cf44a",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-90-year-old-woman-dead-private-seniors-home-9.7036237?cmp=rss",
+      "title": "Elderly woman dead after being found outside private Quebec seniors' residence",
+      "published_at": "2026-01-07T05:09:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A woman in her 90s is dead after she was found outside her seniors' residence on Jan. 1, in Lac-au-Saumon, in Quebec’s Lower Saint-Lawrence region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2fdc38265aaf385f4ccaf1768353f3a4ac9b2f48",
+      "url": "https://www.cbc.ca/news/world/united-states-russia-tanker-9.7036134?cmp=rss",
+      "title": "U.S. seeks to assert its control over Venezuelan oil with tanker seizures, global sales",
+      "published_at": "2026-01-07T03:45:59-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump's administration on Wednesday sought to assert its control over Venezuelan oil, seizing a pair of sanctioned tankers transporting petroleum and announcing plans to relax some sanctions so the U.S. can oversee the sale of Venezuela's oil worldwide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d436a7e7b3d66c73ccda33382eed1da5cfd32816",
+      "url": "https://www.cbc.ca/news/world/us-greenland-european-reaction-9.7036060?cmp=rss",
+      "title": "U.S. Secretary of State Rubio says he will meet with Denmark amid European alarm over Greenland rhetoric",
+      "published_at": "2026-01-07T03:34:42-05:00",
+      "section": "World",
+      "summary_auto": "U.S. Secretary of State Marco Rubio on Wednesday said that he would meet with Denmark next week, as U.S. President Donald Trump has repeated in recent days that he wants to gain control of Greenland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "21e479488bea34a00703dfc49edc061e474b79f7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/okanagan-farriers-keep-horses-from-slipping-9.7035619?cmp=rss",
+      "title": "A look at the female farriers who keep the Okanagan’s working horses from slipping in the snow",
+      "published_at": "2026-01-07T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In recent years, the tides in the industry have turned from a male-dominated trade and now the majority of farriers in the Okanagan are women, who all support one another.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
       }
     },
     {
       "id": "ca4ef1b22ef7c67b660eaca9ecac09125e444c2b",
       "url": "https://www.cbc.ca/news/business/warner-bros-paramount-reject-bid-9.7036089?cmp=rss",
-      "title": "Warner Bros. rejects revised Paramount bid as risky leveraged buyout",
+      "title": "Warner Bros. rejects revised Paramount bid, tells shareholders to stay with Netflix",
       "published_at": "2026-01-07T02:55:26-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Warner Bros. Discovery's board has unanimously turned down Paramount Skydance's latest attempt to acquire the studio, saying its revised $108.4-billion US hostile bid amounted to a risky leveraged buyout that investors should reject.",
+      "section": "Business",
+      "summary_auto": "Warner Bros. Discovery's board has unanimously turned down Paramount Skydance's latest attempt to acquire the studio, saying its revised $108.4-billion US hostile bid amounted to a risky leveraged buyout that investors should reject. The board repeated their commitment to Netflix's offer, which they say offers more value and certainty.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.878,
+        "sentiment": -0.41,
         "subjectivity_hint": "medium"
       }
     },
@@ -47,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/sudbury/hospital-overcrowding-hallways-flu-respiratory-illness-northeastern-9.7035467?cmp=rss",
       "title": "An unusually severe flu season is pushing hospitals in northeastern Ontario beyond capacity",
       "published_at": "2026-01-07T02:26:20-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,24 +242,11 @@
       "url": "https://www.cbc.ca/news/canada/north/yukon-quest-2026-cancelled-9.7035761?cmp=rss",
       "title": "No Yukon Quest sled dog race this year, say former board members",
       "published_at": "2026-01-07T01:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Mushers and former board members say the Yukon Quest is cancelled this year, because there is no one left to organize the iconic sled dog race.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "61ffa4f81ef6fb6e2916afe1d65e970fef1461c0",
-      "url": "https://www.cbc.ca/radio/frontburner/the-world-s-biggest-risks-with-gerry-butts-9.7035196?cmp=rss",
-      "title": "The world's biggest risks, with Gerry Butts",
-      "published_at": "2026-01-07T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A top adviser to two Canadian prime ministers outlines the risky global landscape, from zombie trade deals to a new American 'revolution.'",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -91,6 +260,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9bfe16de39720a61d1ae6d3f3a443c4498b1da7",
+      "url": "https://www.cbc.ca/news/canada/manitoba/ozempic-claims-increase-9.7035623?cmp=rss",
+      "title": "Pharmacare claims for Ozempic have soared in Manitoba in last 4 years, provincial data shows",
+      "published_at": "2026-01-07T01:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "With generic versions of the weight-loss drug Ozempic expected to hit the Canadian market this year, provincial data shows the number of times the medication has been dispensed from pharmacies across Manitoba has more than quadrupled over the past four years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
         "subjectivity_hint": "low"
       }
     },
@@ -147,19 +329,6 @@
       }
     },
     {
-      "id": "030c5944c463bc859530b1a581054cf9e0648f28",
-      "url": "https://www.cbc.ca/news/canada/toronto/solicitor-general-tps-protests-9.7035480?cmp=rss",
-      "title": "Ontario government call for Toronto police to crack down on protests puts free expression at risk: expert",
-      "published_at": "2026-01-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An expert in free expression feels Ontario’s solicitor general is attempting to pressure Toronto police to change how they handle protests for political reasons. This comes after Solicitor General Michael Kerzner issued a letter to the Toronto Police Service, calling out what he described as a lack of enforcement for hate, intimidation and harassment-motivated offences at protests in the city.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8fd97abeb50c594630570b0f097699fafae72249",
       "url": "https://www.cbc.ca/news/science/new-species-2025-9.7034769?cmp=rss",
       "title": "'Death ball' sponge, tiny opossum among cool new species of 2025",
@@ -170,19 +339,6 @@
         "article_type": "News",
         "sentiment": -0.077,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "559105da8fdf78e4afcc5497ed11b4563ace64a3",
-      "url": "https://www.cbc.ca/radio/whatonearth/clear-air-turbulence-prediction-planes-birds-9.7017065?cmp=rss",
-      "title": "Turbulence is getting worse. Would it be better if planes looked more like birds?",
-      "published_at": "2026-01-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Pilots can’t see it coming, and it’s hard to avoid. But severe clear-air turbulence can shake a plane ‘like King Kong.’ It’s on the rise, and forecast to get worse due to climate change. The rise has researchers investigating how to better predict clear-air turbulence, and looking to the physics of birds to make this chaotic force less dangerous.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.939,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -222,6 +378,19 @@
         "article_type": "News",
         "sentiment": 0.44,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "559105da8fdf78e4afcc5497ed11b4563ace64a3",
+      "url": "https://www.cbc.ca/radio/whatonearth/clear-air-turbulence-prediction-planes-birds-9.7017065?cmp=rss",
+      "title": "Turbulence is getting worse. Would it be better if planes looked more like birds?",
+      "published_at": "2026-01-06T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Pilots can’t see it coming, and it’s hard to avoid. But severe clear-air turbulence can shake a plane ‘like King Kong.’ It’s on the rise, and forecast to get worse due to climate change. The rise has researchers investigating how to better predict clear-air turbulence, and looking to the physics of birds to make this chaotic force less dangerous.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -268,7 +437,7 @@
       "url": "https://www.cbc.ca/news/business/lego-smart-bricks-launch-9.7035910?cmp=rss",
       "title": "Lego unveils new ‘smart bricks’ with interactive lights and sounds",
       "published_at": "2026-01-06T16:00:48-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Lego has unveiled new high-tech “smart bricks” it says will bring its classic toys to life with lights, sound and interactive movement. But one expert on early learning says the innovation may lessen the potential for imagination that makes Lego a good toy for children’s development.",
       "bias_heuristic": {
         "article_type": "News",
@@ -299,240 +468,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f09a20d42b25c627a6290a289875b3999274460",
-      "url": "https://www.cbc.ca/news/canada/calgary/tfw-marina-dosa-tandoori-grill-9.7035861?cmp=rss",
-      "title": "Calgary restaurant owners jailed for financial abuse of temporary foreign workers",
-      "published_at": "2026-01-06T15:04:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Manikandan Kasinathan, Chandramohan Marjak and Mary Roche, who co-owned Marina Dosa and Tandoori Grill, were each sentenced to 90-day jail terms after they were convicted of fraud over $5,000. They must also pay back the $44,000 they stole from three employees.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d43127ec26b8c67da86635b5235eeeebbeb3e340",
-      "url": "https://www.cbc.ca/player/play/9.7035717?cmp=rss",
-      "title": "28 years later, see the southern Quebec ice storm as it was reported in 1998",
-      "published_at": "2026-01-06T13:23:11-05:00",
-      "section": "Canada",
-      "summary_auto": "In one of the most important meteorological events in the province’s history, successive bouts of freezing rain left thick layers of ice over everything in southern Quebec during a week-long span in January 1998, knocking out power for millions of people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.42,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d43127ec26b8c67da86635b5235eeeebbeb3e340",
-      "url": "https://www.cbc.ca/player/play/9.7035717?cmp=rss",
-      "title": "28 years later, see the ice storm as it was reported in 1998",
-      "published_at": "2026-01-06T13:23:11-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "In one of the most important meteorological events in the province’s history, successive bouts of freezing rain left thick layers of ice over everything in southern Quebec during a week-long span in January 1998, knocking out power for millions of people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.42,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b0eeb9c4addbcb47c7adfcf1101229c9c34c04f6",
-      "url": "https://www.cbc.ca/news/world/brown-university-shootings-mit-professor-recordings-9.7035701?cmp=rss",
-      "title": "Man who killed Brown University students and MIT professor left behind recordings",
-      "published_at": "2026-01-06T13:15:45-05:00",
-      "section": "World",
-      "summary_auto": "The man identified by law enforcement as the shooter who killed two Brown University students and an MIT professor recorded videos saying he had been planning the attack for at least six semesters, according to information released Tuesday by the U.S. Department of Justice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f21e703432f11ec0e4eed4e4a6cc27826f2a75a1",
-      "url": "https://www.cbc.ca/radio/asithappens/greenland-threats-aqqaluk-lynge-9.7035614?cmp=rss",
-      "title": "Greenlandic politician who fought for his people's autonomy wants U.S. to back off",
-      "published_at": "2026-01-06T13:06:14-05:00",
-      "section": "World",
-      "summary_auto": "\"We have a very serious problem, and we need Canada's support,\" says Aqqaluk Lynge, a former member of Greenland's parliament and co-founder of the pro-Greenlandic independence party Inuit Ataqatigiit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.121,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ffdc97c8da17925bc467e2f4692c25f5dc6820b6",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-premier-eby-india-trade-mission-9.7035332?cmp=rss",
-      "title": "B.C. premier announces trade mission to India amid political tensions",
-      "published_at": "2026-01-06T12:52:02-05:00",
-      "section": "Canada",
-      "summary_auto": "B.C. Premier David Eby and Jobs Minister Ravi Kahlon are headed to India in less than a week on a trade mission to promote local businesses and industries. Their visit comes amid a backdrop of political uncertainty and tense international relations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "acacc25682ba9c5e55cfa4f93da6582da1161ab9",
-      "url": "https://www.cbc.ca/news/entertainment/kidman-urban-divorce-9.7035576?cmp=rss",
-      "title": "Nicole Kidman and Keith Urban officially divorced after 19-year marriage",
-      "published_at": "2026-01-06T12:05:21-05:00",
-      "section": "World",
-      "summary_auto": "Oscar-winning actor Nicole Kidman and Grammy-winning country singer Keith Urban have officially ended their marriage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "23fe3a366c7858d5baf9480f204e76cec9e55dd6",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/ashtin-ritzand-colton-lischka-manslaughter-james-swift-stabbing-9.7035519?cmp=rss",
-      "title": "Men await sentencing for stabbing after neither was proven to be holding knife",
-      "published_at": "2026-01-06T11:51:09-05:00",
-      "section": "Canada",
-      "summary_auto": "What happens when two people are convicted of stabbing a man, but neither was proven to be holding the knife? When it comes to sentencing, it turns out, the judge has to treat each of them as though the other was the stabber.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.372,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cc72552f1f360ec03a1c042178f86b93ee3befd8",
-      "url": "https://www.cbc.ca/news/canada/ottawa/his-parents-ran-a-beloved-tavern-there-for-decades-but-the-local-fire-chief-couldn-t-save-it-9.7035302?cmp=rss",
-      "title": "His parents ran a beloved tavern there for decades, but the local fire chief couldn't save it",
-      "published_at": "2026-01-06T11:30:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The historic building that housed the Douglas Tavern in tiny Douglas, Ont., burned to the ground overnight. Fire Chief Bill McHale's parents ran the popular gathering place for nearly half a century.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.585,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22de5b99198a03c032c81efc77f51bcc660aaf4e",
-      "url": "https://www.cbc.ca/news/politics/ukraine-security-guarantees-9.7035465?cmp=rss",
-      "title": "Coalition's Ukraine security guarantees include deploying troops if ceasefire is reached",
-      "published_at": "2026-01-06T11:23:41-05:00",
-      "section": "World",
-      "summary_auto": "After almost four years of major conflict, Ukraine has been given a series of concrete security guarantees — backed by more than 30 countries including Canada — that it can take into possible peace talks with Russia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.736,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ae0f347d6a1349042e5df0857f74ea688fc7297a",
-      "url": "https://www.cbc.ca/news/entertainment/grammys-album-art-award-9.7035416?cmp=rss",
-      "title": "A new Grammy category honours album covers and the artists that make them",
-      "published_at": "2026-01-06T11:09:14-05:00",
-      "section": "World",
-      "summary_auto": "The Grammy award for best album cover will be awarded this year for the first time in over 50 years. Photographers and organizers say it couldn't have come soon enough.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d97d02bbe7d9a84f832da9d4bdab08be39b70184",
-      "url": "https://www.cbc.ca/news/entertainment/jack-ryan-venezuela-invasion-9.7033958?cmp=rss",
-      "title": "What did Jack Ryan know about Venezuela? Spy show hero goes viral after Maduro capture",
-      "published_at": "2026-01-06T10:57:18-05:00",
-      "section": "World",
-      "summary_auto": "On the heels of the U.S. military attacks on Venezuela's capital over the weekend and the capture of president Nicolás Maduro, millions of people on social media are sharing a fictitious CIA analyst's insights on the South American petrostate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "309e10755a26281d74763580c510228d99ffcd94",
-      "url": "https://www.cbc.ca/news/world/cuba-names-personnel-killed-venezuela-9.7035417?cmp=rss",
-      "title": "Cuba discloses names of 32 military officers killed in U.S. action in Venezuela",
-      "published_at": "2026-01-06T10:57:14-05:00",
-      "section": "World",
-      "summary_auto": "The names, ranks and ages of the 32 Cuban military personnel killed during the capture of Venezuelan President Nicolás Maduro by U.S. forces were published Tuesday by the Cuban government, which announced two days of mourning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b0bcf571daee002d8a7a4dcbc3fef4871f722bf",
-      "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-evacuation-water-treatment-9.7035457?cmp=rss",
-      "title": "Kashechewan First Nation residents in Ontario using bottled, river water after treatment plant fails",
-      "published_at": "2026-01-06T10:39:36-05:00",
-      "section": "Canada",
-      "summary_auto": "Kashechewan First Nation, along northern Ontario’s James Bay coast, is in a local state of emergency and plans to evacuate residents in the coming days because its water treatment system is in disrepair.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8a22e4799da8ecacfa5815ab1a538d14cba654bd",
-      "url": "https://www.cbc.ca/news/world/israel-west-bank-settlement-construction-9.7035408?cmp=rss",
-      "title": "Israel clears final hurdle to start constructing controversial West Bank settlement project",
-      "published_at": "2026-01-06T10:11:32-05:00",
-      "section": "World",
-      "summary_auto": "Israel has cleared the final hurdle before starting construction on a contentious settlement project near Jerusalem that would effectively cut the occupied West Bank in two, according to a government tender.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ec162a165cd085ec8d53f516d26d4930ccb43795",
-      "url": "https://www.cbc.ca/news/world/uvalde-school-shooting-trial-gonzales-police-9.7035359?cmp=rss",
-      "title": "Texas school shooting trial interrupted on Day 1 over dispute about witness testimony",
-      "published_at": "2026-01-06T10:10:48-05:00",
-      "section": "World",
-      "summary_auto": "The first day of the trial of a police officer who responded to the 2022 shooting at a Texas elementary school that killed 19 students and two teachers was interrupted on Tuesday after a witness provided testimony not previously presented to the defence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.881,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c981c6edbd6aa0588ca1dc6cb123009617d7154",
-      "url": "https://www.cbc.ca/news/business/consumer-electronics-show-photo-scroller-9.7035070?cmp=rss",
-      "title": "IN PHOTOS | Tech highlights from CES 2026",
-      "published_at": "2026-01-06T09:51:39-05:00",
-      "section": "Business",
-      "summary_auto": "Companies both large and small are giving the public a first look at their new products during CES 2026, the world's largest consumer technology trade show, now underway in Las Vegas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94a6fc25987e3a4703714e6879b2000aac155d53",
-      "url": "https://www.cbc.ca/news/business/air-transat-pilot-deal-ratified-9.7035300?cmp=rss",
-      "title": "Air Transat pilots vote to ratify new five-year deal",
-      "published_at": "2026-01-06T09:31:22-05:00",
-      "section": "Canada",
-      "summary_auto": "91 per cent of Air Transat pilots who voted agreed to ratify a new five-year employment contract with the airline. The union and company reached the tentative deal in December, narrowly avoiding a strike.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     }
