@@ -1,18 +1,109 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-08T15:18:34.361563-05:00",
+  "generated_at": "2026-01-08T20:15:36.411416-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "9aeccdb5c028ff053a5f0937d484141db8364bbd",
+      "url": "https://www.cbc.ca/news/canada/manitoba/crown-royal-whisky-diageo-bezan-trade-amherstburg-gimli-9.7038808?cmp=rss",
+      "title": "Doug Ford's plan to remove Crown Royal from Ontario shelves 'misinformed,' Manitoba MP says",
+      "published_at": "2026-01-08T13:24:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal Conservative MP from Manitoba says Ontario Premier Doug Ford didn't have \"all the facts in front of him\" when he doubled down on threats to pull Crown Royal whisky off shelves.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a4789b6638f0d4d9c08ef537f4db444693bd61c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/westjet-legroom-viral-video-9.7037586?cmp=rss",
+      "title": "Viral video on WestJet plane sparks debate over passenger legroom, calls for more regulation",
+      "published_at": "2026-01-08T12:36:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fb61d0dff8387905889c19477db2765468b03dbd",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/patients-ambulance-bay-premier-new-brunswick-9.7038157?cmp=rss",
+      "title": "Treating patients in hospital ambulance bay 'not acceptable care,' N.B. premier says",
+      "published_at": "2026-01-08T11:44:25-05:00",
+      "section": "Health",
+      "summary_auto": "Horizon Health Network says dining and storage spaces are also being used as hospitals face \"difficult choices\" about where to put patients.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.726,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ba9f8ee5d235a11cce300955dea1e4ce65a9be2d",
+      "url": "https://www.cbc.ca/news/world/internet-telephone-lines-cut-iran-protest-9.7038427?cmp=rss",
+      "title": "Internet access and telephone lines cut out after protests erupt in Iran",
+      "published_at": "2026-01-08T10:45:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "People in Iran's capital shouted from their homes and rallied in the street Thursday night after the country's exiled crown prince called for a mass demonstration, witnesses said, a new escalation in the protests that have spread nationwide across the Islamic Republic. Internet access and telephone lines in Iran cut out immediately after the protests began.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a2c756b122541802dd1273b6c49d5e79aab7f68",
+      "url": "https://www.cbc.ca/news/politics/ford-carney-chinese-ev-tariffs-9.7038539?cmp=rss",
+      "title": "Ford warns Carney not to cut tariffs on Chinese EVs as PM looks to repair ties with Beijing",
+      "published_at": "2026-01-08T10:43:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford is urging Prime Minister Mark Carney to stand firm when he travels to China later this month and keep the steep tariffs on its electric vehicles in place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.106,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "520de1f8bb89b6ffed556cfaf590063c249160b7",
+      "url": "https://www.cbc.ca/news/canada/calgary/nenshi-kiefer-water-report-9.7038418?cmp=rss",
+      "title": "City council not told Calgary's water system was at risk in 2017, says former mayor Nenshi",
+      "published_at": "2026-01-08T10:11:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two former councillors and the former mayor say they weren't made aware of the high risk the Bearspaw feeder main faced during their time in office, years before a pair of catastrophic breaks left the city's water system in disarray.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "825a5415256f634ae2aea4bedce30b46395b8195",
       "url": "https://www.cbc.ca/radio/asithappens/predator-prey-science-game-9.7038294?cmp=rss",
       "title": "Researchers hunt each other in the Quebec wilderness — for science, of course",
       "published_at": "2026-01-08T10:02:59-05:00",
-      "section": "Technology & Science",
+      "section": "Top Stories",
       "summary_auto": "To better understand the complex interactions between nature’s hunters and hunted, researchers gathered at the the Éco-Laurentides park near Val-Morin, Que., for a game of predator-prey.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9ab7fec4b3a104fd2af1dcfd37ead98df890cce9",
+      "url": "https://www.cbc.ca/news/canada/ottawa/dog-chewing-heated-ski-glove-sparks-fire-in-orleans-home-9.7038460?cmp=rss",
+      "title": "Dog chewing heated ski glove sparks fire in Ottawa home",
+      "published_at": "2026-01-08T09:39:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ottawa firefighters acted quickly Thursday morning to extinguish a blaze that began when a family's dog chewed a heated ski glove, causing its battery to ignite.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -35,10 +126,10 @@
       "title": "Conservative MP calls cancellation of his campus event an attack on free speech",
       "published_at": "2026-01-08T08:51:28-05:00",
       "section": "Top Stories",
-      "summary_auto": "Alberta Conservative MP Garnett Genuis says he was denied permission to hold an event on York University's campus on Friday.",
+      "summary_auto": "Conservative MP Garnett Genuis accused a student group at York University of attacking free speech after he was denied permission to hold an event there — but the university's student centre said politics had nothing to do with its decision.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.402,
+        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -82,35 +173,22 @@
       }
     },
     {
-      "id": "b56ff4e6f00a05b3a80d416269832cab8fd60e2d",
-      "url": "https://www.cbc.ca/news/canada/calgary/city-officials-to-update-on-water-main-break-as-calls-continue-for-calgarians-to-cut-back-on-water-use-9.7038138?cmp=rss",
-      "title": "City officials provide update on water main break as calls continue for Calgarians to cut back on water use",
-      "published_at": "2026-01-08T07:46:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "City of Calgary officials will provide an update this afternoon at 1 p.m. on the work to repair the Bearspaw south feeder main after it burst on Dec. 30.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a5273fd5e782ab3ec8dd86cc42efefbdccba5d31",
       "url": "https://www.cbc.ca/news/science/nasa-crew11-medical-issue-9.7038185?cmp=rss",
-      "title": "NASA considers bringing crew home early due to medical issue with astronaut",
+      "title": "NASA curtails space station mission after astronaut medical issue",
       "published_at": "2026-01-08T07:14:11-05:00",
       "section": "Top Stories",
-      "summary_auto": "NASA is considering a rare early return of its crew from the International Space Station over an unspecified medical issue involving one of the astronauts after cancelling a spacewalk.",
+      "summary_auto": "NASA is cutting short a mission aboard the International Space Station after an astronaut had a medical issue.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.202,
+        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "2b33d3b8e308d57782f69909ec4de0ccde22ebce",
       "url": "https://www.cbc.ca/news/canada/calgary/canadian-heavy-oil-price-plunges-wcs-wti-venezuela-9.7038160?cmp=rss",
-      "title": "Canadian heavy oil price falls, selling at largest discount in 18-months",
+      "title": "Canadian heavy oil price falls, selling at largest discount in 18 months",
       "published_at": "2026-01-08T07:06:28-05:00",
       "section": "Canada",
       "summary_auto": "Canadian heavy oil prices are plunging this week following the upheaval in Venezuela over the weekend and the prospect of more Venezuelan oil imports to the United States.",
@@ -121,22 +199,9 @@
       }
     },
     {
-      "id": "5a4789b6638f0d4d9c08ef537f4db444693bd61c",
-      "url": "https://www.cbc.ca/news/canada/edmonton/westjet-legroom-viral-video-9.7037586?cmp=rss",
-      "title": "Viral video on WestJet plane sparks debate over passenger legroom, calls for more regulation",
-      "published_at": "2026-01-08T07:04:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A viral video showcasing an Alberta family’s tight squeeze on a recent WestJet flight is prompting conversations about passenger legroom on Canadian airlines and whether the federal government needs to get involved.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "97fd12e5926adb81b0bb31d86ed8ae2754daac6c",
       "url": "https://www.cbc.ca/news/canada/toronto/supreme-court-ontario-place-redevelopment-9.7038151?cmp=rss",
-      "title": "Supreme Court to hear coalition's challenge to Ontario Place redevelopment",
+      "title": "Supreme Court to hear challenge to province's Ontario Place redevelopment",
       "published_at": "2026-01-08T06:33:34-05:00",
       "section": "Canada",
       "summary_auto": "The Supreme Court of Canada will hear an appeal from a coalition challenging the constitutionality of legislation that opens the door to major changes at Ontario Place.",
@@ -238,19 +303,6 @@
       }
     },
     {
-      "id": "e6540331940417f275a60515ba18212cc3182a23",
-      "url": "https://www.cbc.ca/news/canada/calgary/delayed-inspections-risk-of-more-ruptures-5-takeaways-from-report-on-calgary-s-water-main-catastrophe-9.7037260?cmp=rss",
-      "title": "Delayed inspections, risk of more ruptures: 5 takeaways from report on Calgary's water main catastrophe",
-      "published_at": "2026-01-08T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An independent panel report released their report on the 2024 break of the Bearspaw south feeder main Wednesday, amid the backdrop of a second catastrophic break of the same main last week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "becd24c40572e76f6da4f12979a12b000aea9271",
       "url": "https://www.cbc.ca/news/canada/edmonton/virtual-reality-wheelchair-curling-team-canada-milano-cortina-paralympics-9.7037593?cmp=rss",
       "title": "Alberta-developed VR technology aims to help Canada’s wheelchair curlers train for Milano-Cortina Paralympics",
@@ -260,19 +312,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f498b6d08cfc69ca80868cba1e5dda3b99b45ec9",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-royal-canadian-legion-closing-chase-the-ace-fraud-9.7036921?cmp=rss",
-      "title": "Members of 99-year-old Halifax legion want answers as branch set to close",
-      "published_at": "2026-01-08T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The 99-year-old Vimy branch in Halifax has been struggling financially since it lost its lottery licence last year after its former vice-president pocketed more than $25,000 from Chase the Ace draws.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
         "subjectivity_hint": "low"
       }
     },
@@ -299,45 +338,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "54bb8bb96c1382c85aebf2d4a8da22d22d8a546d",
-      "url": "https://www.cbc.ca/news/world/greenland-trump-threats-reaction-9.7036410?cmp=rss",
-      "title": "Some Greenlanders express outrage over Trump's threats. But not all are concerned",
-      "published_at": "2026-01-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Many Greenlanders are expressing their anger and frustration over U.S. President Donald Trump's recent musings that the United States needs to acquire their island. But not all residents are reacting with outrage, with some downplaying the comments made by the Trump administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.932,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ed131931ac464bcd6d5f3b8f6a61b05f2a069ccc",
-      "url": "https://www.cbc.ca/news/health/caanda-at-home-hpv-tests-9.7035389?cmp=rss",
-      "title": "Hate Pap smears? Self-tests exist, but are hard to get in Canada",
-      "published_at": "2026-01-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Health Resources and Services Administration issued new recommendations on Monday that will eventually allow women and people assigned female at birth easier access to at-home self-testing kits for the human papilloma virus (HPV), which is sexually-transmitted and can cause cervical cancer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9b82f2e013e05d15cdedd9453b8391f998ffff37",
-      "url": "https://www.cbc.ca/books/canadareads/canada-reads-2026-longlist-9.7029177?cmp=rss",
-      "title": "The Canada Reads 2026 longlist is here",
-      "published_at": "2026-01-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "This year, the great Canadian book debate is looking for one book to build bridges. The panellists and the books they choose to champion will be revealed on Jan. 22.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -394,6 +394,19 @@
       }
     },
     {
+      "id": "9b82f2e013e05d15cdedd9453b8391f998ffff37",
+      "url": "https://www.cbc.ca/books/canadareads/canada-reads-2026-longlist-9.7029177?cmp=rss",
+      "title": "The Canada Reads 2026 longlist is here",
+      "published_at": "2026-01-07T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "This year, the great Canadian book debate is looking for one book to build bridges. The panellists and the books they choose to champion will be revealed on Jan. 22.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "523ff7285f35b4a9168e9ba13321558d195a3607",
       "url": "https://www.cbc.ca/news/world/trump-venezuela-greenland-canada-western-hemisphere-9.7036670?cmp=rss",
       "title": "With Trump's Venezuela move and Greenland threats, are Canadians vulnerable?",
@@ -403,6 +416,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54bb8bb96c1382c85aebf2d4a8da22d22d8a546d",
+      "url": "https://www.cbc.ca/news/world/greenland-trump-threats-reaction-9.7036410?cmp=rss",
+      "title": "Some Greenlanders express outrage over Trump's threats. But not all are concerned",
+      "published_at": "2026-01-07T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Many Greenlanders are expressing their anger and frustration over U.S. President Donald Trump's recent musings that the United States needs to acquire their island. But not all residents are reacting with outrage, with some downplaying the comments made by the Trump administration.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.932,
         "subjectivity_hint": "low"
       }
     },
@@ -420,15 +446,15 @@
       }
     },
     {
-      "id": "117c97923bda8f5cdec4b6dcbcbc9bc0614339d0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/london-drugs-downtown-eastside-closure-9.7037271?cmp=rss",
-      "title": "London Drugs in heart of Vancouver's Downtown Eastside to close on Feb. 1",
-      "published_at": "2026-01-07T16:37:05-05:00",
-      "section": "Canada",
-      "summary_auto": "The decision to close the location in the Woodwards Building, which has been open since 2009 and in the neighbourhood since 1945, was not taken lightly, according to London Drugs President and COO Clint Mahlman.",
+      "id": "ed131931ac464bcd6d5f3b8f6a61b05f2a069ccc",
+      "url": "https://www.cbc.ca/news/health/caanda-at-home-hpv-tests-9.7035389?cmp=rss",
+      "title": "Hate Pap smears? Self-tests exist, but are hard to get in Canada",
+      "published_at": "2026-01-07T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "The U.S. Health Resources and Services Administration issued new recommendations on Monday that will eventually allow women and people assigned female at birth easier access to at-home self-testing kits for the human papilloma virus (HPV), which is sexually-transmitted and can cause cervical cancer.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.637,
+        "sentiment": -0.612,
         "subjectivity_hint": "low"
       }
     }
