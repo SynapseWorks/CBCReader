@@ -1,18 +1,187 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-12T09:20:11.486644-05:00",
+  "generated_at": "2026-01-12T15:18:31.488376-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "017c9ad0962bedcf4404745e79c287c01eacfc76",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-train-crash-9.7041825?cmp=rss",
-      "title": "Passenger train crashes into 2 semi-trailer trucks in Quebec, no one injured",
-      "published_at": "2026-01-12T03:39:43-05:00",
+      "id": "6b390a5240ff1de1f84a84e59d526eed9460d95d",
+      "url": "https://www.cbc.ca/news/politics/taiwan-trip-cut-short-9.7042517?cmp=rss",
+      "title": "Conservatives accuse Liberals of 'kowtowing to Beijing' as 2 MPs cut Taiwan trip short",
+      "published_at": "2026-01-12T10:09:03-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Sûreté du Québec says no one was injured when a Via passenger train struck the trailers of two transport trucks that had parked near the tracks in Saint-Alexandre-de-Kamouraska, located in the Lower St. Lawrence region.",
+      "summary_auto": "The federal Conservatives are accusing the Liberals of rewarding \"Beijing's intimidation\" after some parliamentarians on a trip to Taiwan decided to return earlier than planned.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.793,
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ea375802087102d2a9221fbff270c51afd894c8",
+      "url": "https://www.cbc.ca/player/play/9.7042275?cmp=rss",
+      "title": "Calgary water main repair update",
+      "published_at": "2026-01-12T10:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "City officials provide an update on repair work to the Bearspaw south water feeder main.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f69806429e0da342339d4f2d21ccbeabb2af07b5",
+      "url": "https://www.cbc.ca/news/indigenous/ice-contracts-indigenous-nations-9.7039930?cmp=rss",
+      "title": "2 Native American-owned corporations cancel contracts with ICE",
+      "published_at": "2026-01-12T09:56:56-05:00",
+      "section": "World",
+      "summary_auto": "Last week, a second Native American-owned corporation announced it was severing a multi-million dollar contract with United States Immigration and Customs Enforcement (ICE), after community pressure.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f064895dfe09ba43c3b4a731fe57a9f318bd1f1f",
+      "url": "https://www.cbc.ca/news/canada/toronto/pearson-gold-heist-arrest-9.7042349?cmp=rss",
+      "title": "2nd man charged in connection to 2023 gold heist at Toronto's Pearson airport",
+      "published_at": "2026-01-12T08:34:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56a1cb3714e459e4fdb44a87c11d08adb8f12d8c",
+      "url": "https://www.cbc.ca/news/politics/carney-prince-rupert-coastal-first-nations-9.7042328?cmp=rss",
+      "title": "Carney to meet with Coastal First Nations in B.C., expected to talk major projects: source",
+      "published_at": "2026-01-12T08:23:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney will travel to northern B.C. to meet with Coastal First Nations on Tuesday before departing for China, a government official confirmed to CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "52b38eb265abd258d9dcb3680be7965b4cfea66b",
+      "url": "https://www.cbc.ca/news/world/mexico-united-states-trump-sheinbaum-9.7042241?cmp=rss",
+      "title": "Mexico's president says U.S. military intervention ruled out after talks with Trump",
+      "published_at": "2026-01-12T07:28:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mexican President Claudia Sheinbaum said she ruled out a U.S. military intervention to combat drug cartels, following a \"good conversation\" on Monday with President Donald Trump on security and drug trafficking.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3716ec6be4af88c72703e9bdb2d2faa737abb81a",
+      "url": "https://www.cbc.ca/news/world/cartel-suns-venezuela-9.7041663?cmp=rss",
+      "title": "Wiretaps caught Colombian cocaine group discussing Venezuelan military’s ‘Cartel of the Suns’",
+      "published_at": "2026-01-12T06:52:07-05:00",
+      "section": "World",
+      "summary_auto": "CBC News obtained more than a dozen wiretap recordings from a two-year Colombian federal police investigation into a multinational drug-smuggling organization based out of Colombia. The organization moved cocaine to the U.S., Europe, Asia and northern Africa by air using human drug mules and by sea through shipping containers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1135fecfd74c09de92a18773755db8481e1d8ea3",
+      "url": "https://www.cbc.ca/sports/olympics/winter/skeleton/canada-s-skeleton-team-denies-accusations-of-olympic-sabotage-by-u-s-slider-9.7042201?cmp=rss",
+      "title": "Canada's skeleton team denies accusations of Olympic sabotage by U.S. slider",
+      "published_at": "2026-01-12T06:45:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's skeleton team refutes accusations by American Katie Uhlaender that Canada's coach sabotaged her chances of sliding in the Olympic Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0ac52b723a520f33b0ac3c9c8df36f87d5d84b8c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/sam-o-neill-charter-challenge-maid-st-paul-s-hospital-providence-health-care-9.7042100?cmp=rss",
+      "title": "B.C. court to hear Charter challenge over religious exemptions to assisted dying law",
+      "published_at": "2026-01-12T06:43:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f0c94b0b201d82a796cb2c1fffabe995d729dfd2",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/saskatoon-police-hospital-altercation-family-man-dead-news-conference-9.7042027?cmp=rss",
+      "title": "'Grieving in the dark': Family criticizes health authority, police over Saskatoon hospital death",
+      "published_at": "2026-01-12T05:50:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In a news release, Saskatoon police say officers were called to the hospital shortly after 7 a.m. CST on Friday after receiving reports that a man had died.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1bd7078718c5a15d2ca4d2b5c556adb56af521e7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-washington-state-border-crossings-2025-blaine-9.7040836?cmp=rss",
+      "title": "Data shows sharp drop in B.C.-Washington state border crossings in 2025 — prompting fear in border towns",
+      "published_at": "2026-01-12T05:08:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "858354be872fea782ebae808c1354defb4ececf2",
+      "url": "https://www.cbc.ca/news/business/malaysia-indonesia-grok-block-elon-musk-9.7041914?cmp=rss",
+      "title": "Malaysia, Indonesia become 1st countries to block Musk's Grok over sexualized AI images",
+      "published_at": "2026-01-12T04:33:37-05:00",
+      "section": "World",
+      "summary_auto": "Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's company xAI, as concerns grew among global authorities that it was being misused to generate sexually explicit and nonconsensual images.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "96c831350d292f4120993f32d97987ee12aea0f9",
+      "url": "https://www.cbc.ca/news/world/iran-pahlavi-profile-9.7041837?cmp=rss",
+      "title": "Who is Reza Pahlavi? Exiled prince has long pushed for end to Iran's theocratic rule",
+      "published_at": "2026-01-12T04:29:20-05:00",
+      "section": "World",
+      "summary_auto": "Reza Pahlavi has sought to speak as an Iranian leader despite living outside the country since protests against the clerical regime erupted late last month. Here is a closer look at the 65-year-old exiled son of royalty, whose support within Iran is open to question.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0d774fad75eab7c56d6421e9ceed4e287a323a2d",
+      "url": "https://www.cbc.ca/news/canada/london/youth-unemployment-is-high-so-these-teen-entrepreneurs-created-their-own-jobs-9.7041605?cmp=rss",
+      "title": "Youth unemployment is high, so these teen entrepreneurs created their own jobs",
+      "published_at": "2026-01-12T04:00:13-05:00",
+      "section": "Canada",
+      "summary_auto": "As the jobless rate among Canadian youth remains high, some London, Ont., teenagers are opting out of the application process and starting their own businesses instead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +190,7 @@
       "url": "https://www.cbc.ca/news/world/swiss-court-bar-ski-fire-new-years-9.7041855?cmp=rss",
       "title": "Swiss court keeps bar owner in custody after deadly New Year's fire that killed 40",
       "published_at": "2026-01-12T03:24:31-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A Swiss court on Monday ordered that the co-owner of a bar in the upscale ski resort of Crans-Montana that caught fire on New Year's Day, killing 40 people, must remain in custody.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,15 +199,15 @@
       }
     },
     {
-      "id": "1bd7078718c5a15d2ca4d2b5c556adb56af521e7",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-washington-state-border-crossings-2025-blaine-9.7040836?cmp=rss",
-      "title": "Data shows sharp drop in B.C.-Washington state border crossings in 2025 — prompting fear in border towns",
-      "published_at": "2026-01-12T02:00:00-05:00",
+      "id": "f52804c3daf9f6436675c7490ac0b1f79eadf0bc",
+      "url": "https://www.cbc.ca/news/canada/manitoba/seniors-nisichawayasihk-cree-nation-evacuation-9.7038900?cmp=rss",
+      "title": "6 months after wildfire evacuation, some Nisichawayasihk seniors still waiting in Winnipeg to go home",
+      "published_at": "2026-01-12T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "British Columbians sustained the trend of not going south of the border by vehicle through to the end of 2025. Washington state border towns, which depend on Canadians for their economies, are worried.",
+      "summary_auto": "Months after wildfires forced them from their homes, 21 residents from a Nisichawayasihk Cree Nation personal care home are still stranded in Winnipeg, waiting for the building to be repaired so they can go back.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.758,
+        "sentiment": 0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -56,38 +225,25 @@
       }
     },
     {
-      "id": "a4d66bbda51c0ce9f66e34b7844256e8a6da719e",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/ukrainians-permanent-residency-applications-backlog-9.7039848?cmp=rss",
-      "title": "'Despair, betrayal, disbelief': Ukrainians who fled to Canada face uncertainty over immigration status",
-      "published_at": "2026-01-12T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Ukrainian family in Halifax says the federal government needs to start providing some answers to the thousands of Ukrainians who moved to the country after the war began, who are now learning that it could be more than 50 years before their permanent residency applications are processed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "a20723e1f12c73c400846288e609087b165888b0",
       "url": "https://www.cbc.ca/news/canada/toronto/toronto-data-traffic-deaths-2025-9.7038262?cmp=rss",
-      "title": "Toronto recorded fewest traffic-related deaths in a decade in 2025: city data",
+      "title": "Toronto came closer than ever in 2025 to zero traffic fatalities, but can it get there without speed cameras?",
       "published_at": "2026-01-12T00:00:00-05:00",
       "section": "Canada",
       "summary_auto": "Numbers show 39 people died on Toronto's roads last year, half as many as when the city launched its road safety plan a decade ago. But some wonder if the number will go back up with speed cameras now gone.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": -0.351,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "ce997aa938ed3faf3d7dfa6908b780c79d896e4f",
       "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-cas-trial-9.7039944?cmp=rss",
-      "title": "As couple's trial restarts, advocate questions Children's Aid Society's 'outrageous' decisions before boy died",
+      "title": "As couple's trial resumes, advocate questions Children's Aid Society's 'outrageous' decisions before boy died",
       "published_at": "2026-01-11T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "As the trial for two women accused of killing a 12-year-old boy they were trying to adopt enters its final weeks, the public deserves to know if and how the Children's Aid Society (CAS) has been held accountable, says Ontario's former child advocate.",
+      "summary_auto": "With the trial for two women accused of killing a 12-year-old boy they were trying to adopt now in its final weeks, the public deserves to know if and how the Children's Aid Society (CAS) has been held accountable, says Ontario's former child advocate.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.91,
@@ -104,32 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "83a033a184d9af3a62b7bf7218ad271d2168d78d",
-      "url": "https://www.cbc.ca/player/play/9.7041615?cmp=rss",
-      "title": "What if Greenland’s next?",
-      "published_at": "2026-01-11T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Right now, the future of Greenland hangs in the balance. And with it, an entire system of military and political alliances that has underpinned the global order since the end of the Second World War. So when U.S. Secretary of State Marco Rubio says he’s going to meet with Danish leaders to talk about Greenland this week, that’s what diplomats, historians and politicians the world over say is at stake.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e044b1758217943104dc4ef8a7c2e237cddb4e49",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-doctors-agreement-whats-next-9.7036435?cmp=rss",
-      "title": "Quebec struck peace with doctors, but critics say patients lost out",
-      "published_at": "2026-01-11T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It was a deal reached just in time for the holidays, averting the threat of multiple medical clinic closures and the departure of hundreds of doctors from the health system. But as the dust settles on the agreement, the initial relief is giving way to sharp questions about who actually stands to gain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.911,
         "subjectivity_hint": "low"
       }
     },
@@ -186,28 +316,15 @@
       }
     },
     {
-      "id": "16ec9dd7c2f8d3db0ff1a35e66e36aa577bc8c17",
-      "url": "https://www.cbc.ca/player/play/9.7041702?cmp=rss",
-      "title": "Airport ground crew worker gets trapped in plane’s baggage hold",
-      "published_at": "2026-01-11T17:23:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An investigation is underway after a ground crew member in Moncton, N.B., got trapped in the baggage hold of an Air Canada Rouge plane shortly before takeoff, only to be rescued when passengers heard noise below them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "d1e2159e79c133bf2a1f21fee420228b27d624fb",
       "url": "https://www.cbc.ca/news/world/jerome-powell-federal-reserve-indictment-threat-9.7041699?cmp=rss",
-      "title": "U.S. Federal Reserve chair says justice department has threatened him with criminal indictment",
+      "title": "Former Federal Reserve leaders slam Trump administration criminal probe of Jerome Powell",
       "published_at": "2026-01-11T17:13:22-05:00",
       "section": "Top Stories",
-      "summary_auto": "U.S. Federal Reserve chair Jerome Powell said on Sunday that the Trump administration had threatened him with a criminal indictment and served grand jury subpoenas over ​congressional testimony he gave last summer regarding a Fed building renovation project.",
+      "summary_auto": "U.S. Federal Reserve chair Jerome Powell says that the Trump administration had threatened him with a criminal indictment and served grand jury subpoenas over ​congressional testimony he gave last summer regarding a Fed building renovation project.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.751,
+        "sentiment": -0.856,
         "subjectivity_hint": "low"
       }
     },
@@ -216,63 +333,11 @@
       "url": "https://www.cbc.ca/sports/tennis/milos-raonic-retirement-9.7041675?cmp=rss",
       "title": "Canada's Milos Raonic announces retirement from tennis: 'The time has come'",
       "published_at": "2026-01-11T15:41:15-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Canadian phenom Milos Raonic, a former Wimbledon finalist who has not competed since mid-2024, announced his retirement from professional tennis in an emotional social media post on Sunday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2766b94605d6d515cb40001889f6993900e81f85",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/black-bear-cub-recovering-after-fire-9.7041473?cmp=rss",
-      "title": "Valkyrie, the black bear cub found with severe burns in December, is recovering well",
-      "published_at": "2026-01-11T15:08:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A black bear cub caught in a fire this past December continues to make a recovery in Smithers, B.C. Rescuers said the bear was burnt while hibernating in a slash pile set on fire near Dawson Creek, B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5fdee57343ea3c2b746e96dff82fc215ffde24e",
-      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/canadian-olympic-figure-skating-team-announcement-9.7041662?cmp=rss",
-      "title": "Ice dance pair Gilles and Poirier lead Canadian figure skating contingent into 2026 Winter Games",
-      "published_at": "2026-01-11T14:42:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The experienced ice dance pair of Piper Gilles and Paul Poirier will headline a contingent of 12 athletes named to Canada's figure skating team for Milano Cortina 2026.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6fa88114457c665e118972f85d599838a0bf71a0",
-      "url": "https://www.cbc.ca/life/style/golden-globes-red-carpet-fashion-2026-9.7041596?cmp=rss",
-      "title": "Must-see looks from the 2026 Golden Globes",
-      "published_at": "2026-01-11T13:35:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Standout style moments from Hudson Williams, Selena Gomez, Jennifer Lawrence and more on the 83rd annual red carpet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fac7ba5f5ee37fea30c8339729ab08486bc11adf",
-      "url": "https://www.cbc.ca/sports/olympics/olympic-winter-games-worker-death-9.7041532?cmp=rss",
-      "title": "Guard at Winter Olympic construction site dies in nighttime subfreezing temperatures",
-      "published_at": "2026-01-11T10:34:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A guard at a construction site near a 2026 Winter Olympic venue in the mountain resort of Cortina d'Ampezzo died during a frigid overnight shift, authorities confirmed on Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     }
