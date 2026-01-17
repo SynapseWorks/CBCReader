@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-16T15:16:52.280743-05:00",
+  "generated_at": "2026-01-16T20:12:20.593079-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "a4c0df281b7279aa440cd0f71bc1b073c4643f8f",
+      "url": "https://www.cbc.ca/news/world/tim-walz-jacob-frey-investigation-doj-9.7049625?cmp=rss",
+      "title": "U.S. Justice Department probing Minnesota's Walz, Frey over immigration comments",
+      "published_at": "2026-01-16T14:59:04-05:00",
+      "section": "World",
+      "summary_auto": "The U.S. Justice Department is investigating whether Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey have impeded federal immigration enforcement through public statements they have made, according to two people familiar with the matter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "172ad5000d19dedfdb543fbdbbd4a27ddaff948d",
+      "url": "https://www.cbc.ca/news/canada/calgary/borhot-terrorism-sentencing-hearing-isis-syria-9.7049213?cmp=rss",
+      "title": "Calgary man who fought for ISIS should spend 16 years in prison for terrorism convictions: Crown",
+      "published_at": "2026-01-16T11:57:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Calgary man convicted of three terrorism-related offences should spend 16 years in prison, prosecutors argued on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.955,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "36ea3420b84ce44c118f885a40febe897c773eb9",
+      "url": "https://www.cbc.ca/news/world/cia-director-meets-venezuela-rodriguez-9.7049125?cmp=rss",
+      "title": "CIA chief has face-to-face meeting with Venezuela's interim leader: U.S. official",
+      "published_at": "2026-01-16T11:27:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CIA Director John Ratcliffe met Venezuela's interim leader in Caracas to discuss co-operation, a U.S. official said on Friday, in ​the most senior known visit by a U.S. official since the United States toppled Venezuelan president Nicolás Maduro this month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "44e7b0a77fef60266a597957c278a80a9545ccb7",
+      "url": "https://www.cbc.ca/news/world/us-ambassador-iceland-trump-9.7048349?cmp=rss",
+      "title": "Trump's Iceland ambassador pick made a '52nd state' joke. Icelanders aren't laughing",
+      "published_at": "2026-01-16T10:18:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "When Trump's pick for U.S. ambassador to Iceland joked this week that the Nordic country should become the 52nd state, and he should be its governor, it didn't exactly go down well.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.454,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "967278d43445fd970c90d21720163516b51158d8",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/parking-ticket-imminent-danger-appeal-9.7049020?cmp=rss",
+      "title": "Judge cancels Saskatoon parking ticket for man who pulled over because of leaking gas",
+      "published_at": "2026-01-16T10:04:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A driver whose truck was leaking gas had no choice but to pull over on the side of the road, and he should not have to pay the parking ticket he was issued, a Saskatoon judge ruled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.155,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "714a71409bbf285de03e8a4d93076f85c61ace64",
       "url": "https://www.cbc.ca/news/world/gaza-palestinian-committee-trump-west-bank-9.7048942?cmp=rss",
@@ -19,26 +84,52 @@
     {
       "id": "3105d85a967a418691574f1021dd127c64bc212e",
       "url": "https://www.cbc.ca/news/canada/calgary/livestory/calgary-water-main-break-update-live-9.7047675?cmp=rss",
-      "title": "Calgary lifting all water restrictions effective immediately",
+      "title": "Calgary lifts all water restrictions after troubled water main is patched up",
       "published_at": "2026-01-16T09:30:29-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.477,
+        "sentiment": -0.459,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "082b748a963fb9c9d1a1e0311fd9c19923aaca85",
       "url": "https://www.cbc.ca/radio/asithappens/supersuckling-sea-lions-9.7047523?cmp=rss",
-      "title": "These fully grown sea lions won't not stop nursing, and scientists don’t know why",
+      "title": "These fully grown sea lions won't stop nursing, and scientists don’t know why",
       "published_at": "2026-01-16T08:11:41-05:00",
       "section": "Technology & Science",
       "summary_auto": "A new study documents the surprising prevalence of 'supersuckling' among Galápagos Islands sea lions.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.114,
+        "sentiment": 0.457,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0afbc15984fcaf1e3ba9898164a5baae23124c0",
+      "url": "https://www.cbc.ca/news/canada/manitoba/matthew-kadyniuk-winnipeg-officer-pleads-guilty-9.7048642?cmp=rss",
+      "title": "Junior officer charged alongside disgraced Winnipeg constable pleads guilty",
+      "published_at": "2026-01-16T07:50:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A junior officer arrested alongside a now-disgraced Winnipeg police constable after the pair stole cash and other items they believed to be evidence in 2024 has pleaded guilty.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9d2644e09aee2fbc1915d144c3e26472b487ddb6",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/west-vancouver-cypress-mountain-resort-death-9.7048638?cmp=rss",
+      "title": "18-year-old dead after fall from chairlift at B.C.'s Cypress Mountain ski resort",
+      "published_at": "2026-01-16T07:39:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Police say evidence suggests the incident was an accident, as there are no obvious indications of technical or mechanical issues with the chairlift.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
         "subjectivity_hint": "low"
       }
     },
@@ -108,16 +199,16 @@
       }
     },
     {
-      "id": "d110f1743b2308b8d5e7891e231548cc029b1e70",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/trevor-dubois-sha-hospital-ruh-royal-university-death-9.7047894?cmp=rss",
-      "title": "Hundreds gather to mourn Trevor Dubois who died after fight with Sask. hospital security",
-      "published_at": "2026-01-16T05:56:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds gathered in Prince Albert to mourn social worker and advocate Trevor Dubois, remembered for his warmth, humor and community impact.",
+      "id": "4111d77704334f756ebf181d9d165e1931b1053d",
+      "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-water-crisis-evacuation-9.7048247?cmp=rss",
+      "title": "'I don't trust that water plant': Hundreds evacuated so far from First Nation in northern Ontario",
+      "published_at": "2026-01-16T06:58:02-05:00",
+      "section": "Health",
+      "summary_auto": "Life is quieter in Kashechewan First Nation in northern Ontario. Some children can still be seen playing hockey on a snow-packed road, but that would have been more common three weeks earlier had the community's water-treatment plant not failed. Amid a state of emergency, about half of the 2,300 residents have already been evacuated to cities including Timmins, Kingston and Niagara Falls.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
+        "sentiment": -0.077,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -130,6 +221,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3d5febf9a43740700d898ac283bdd4505dfb7de6",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-cat-custody-9.7048148?cmp=rss",
+      "title": "Judge upholds cat custody ruling, saying parenthood and pet ownership aren't same",
+      "published_at": "2026-01-16T04:31:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Alberta judge has divided up a group of cats between two feuding former spouses, saying neither gets to keep all of them because — in Alberta at least — pets aren't the same as kids and legally shouldn't be treated as such.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -164,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/iran-protests-cleric-pahlavi-friday-9.7048050?cmp=rss",
       "title": "Exiled Reza Pahlavi positions himself as ready to lead Iran, as protests within country appear to ebb",
       "published_at": "2026-01-16T03:35:06-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Iran's deadly crackdown appears to have broadly quelled protests for now, according to a rights group and residents, as state media reported more arrests on Friday in the shadow of U.S. threats to intervene if the killing continues.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,15 +277,15 @@
       }
     },
     {
-      "id": "284df95cede06951de37558f982805c7294fdb20",
-      "url": "https://www.cbc.ca/sports/tennis/adelaide-international-canadians-recap-women-semis-9.7048047?cmp=rss",
-      "title": "Canada's Mboko defeats Australia's Birrell for spot in Adelaide International final",
-      "published_at": "2026-01-16T02:38:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's Victoria Mboko is onto the Adelaide International women's tennis final. The 19-year-old from Toronto defeated Australia's Kimberly Birrell 6-2, 6-1 in the semifinals on Friday to advance.",
+      "id": "f9146a436d008d6f6e6dc53e89645c500c32dd86",
+      "url": "https://www.cbc.ca/news/canada/manitoba/school-bus-safety-seatbelts-rollover-crash-9.7046908?cmp=rss",
+      "title": "Surprising lessons in Ontario school bus seatbelt pilot for Manitoba after rural rollover",
+      "published_at": "2026-01-16T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A school administrator in an Ontario community that experimented with seatbelts on three school buses says there was a learning curve, but also some unexpected upsides.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.66,
+        "sentiment": 0.141,
         "subjectivity_hint": "low"
       }
     },
@@ -216,7 +320,7 @@
       "url": "https://www.cbc.ca/news/investigates/rcmp-invasive-medical-exams-lawsuit-9.7045695?cmp=rss",
       "title": "RCMP applicants endured 'improper and invasive' medical exams for years, lawsuit alleges",
       "published_at": "2026-01-15T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "One thousand RCMP employees, past and present, allege as part of a class-action lawsuit headed to Federal Court this month, that they were subjected to \"improper and invasive\" breast, genital and rectal exams during mandatory medical screening, CBC News has learned.",
       "bias_heuristic": {
         "article_type": "News",
@@ -247,32 +351,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5698f8b7671c0300f57f0fe3cfa4d9a6bf3133fd",
-      "url": "https://www.cbc.ca/news/politics/carney-meeting-xi-china-9.7047880?cmp=rss",
-      "title": "Canada reaches tariff-quota deal with China on EVs, canola",
-      "published_at": "2026-01-15T17:30:45-05:00",
-      "section": "Business",
-      "summary_auto": "The Liberal government has reached a deal with Beijing to allow tens of thousands of Chinese electric vehicles into the domestic market in exchange for dropping duties on canola products, Prime Minister Mark Carney said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c5db3a45264701774cc4ff496baa34aba832508",
-      "url": "https://www.cbc.ca/news/canada/edmonton/red-deer-alberta-independence-petition-9.7047779?cmp=rss",
-      "title": "Long lineups in central Alberta to sign petition for province to leave Canada",
-      "published_at": "2026-01-15T16:16:16-05:00",
-      "section": "Canada",
-      "summary_auto": "Large crowds of people lined up around the block outside a pair of packed community halls in central Alberta on Wednesday night, to attend town meetings focused on the idea of the province seeking independence from Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     }
