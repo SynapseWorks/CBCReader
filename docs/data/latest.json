@@ -1,15 +1,28 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-17T15:16:38.299129-05:00",
+  "generated_at": "2026-01-17T20:20:54.172568-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "4004e6eee6e6c00e8e9917b504e88462d19317b9",
-      "url": "https://www.cbc.ca/news/politics/ottawa-unveils-next-steps-in-its-national-gun-buyback-program-here-are-the-details-9.7050046?cmp=rss",
+      "id": "6c9fe95779f01b6c9ab09228f589f025c3d592c0",
+      "url": "https://www.cbc.ca/player/play/9.7050158?cmp=rss",
+      "title": "Iran’s Ayatollah Ali Khamenei blames Trump for inciting anti-government protests",
+      "published_at": "2026-01-17T12:20:19-05:00",
+      "section": "World",
+      "summary_auto": "Iran’s Supreme Leader, Ayatollah Ali Khamenei, has acknowledged that thousands of people were killed during anti-government protests over the last two weeks, but blamed the U.S. for the death toll. He also called President Donald Trump a criminal for supporting the protests, which have been countered by tens of thousands of pro-government demonstrators. The U.S.-based Human Rights Activists News Agency said it has verified 3,090 deaths, including 2,885 protesters, and over 22,000 arrests.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.972,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "984713d0aa3cf7fd9a70591aa58d354b10471ee8",
+      "url": "https://www.cbc.ca/news/politics/liberal-gun-buyback-federal-government-9.7050046?cmp=rss",
       "title": "Ottawa unveils next steps in its national gun buyback program. Here are the details",
       "published_at": "2026-01-17T08:14:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have approximately two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.",
+      "section": "Canada",
+      "summary_auto": "The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have about two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.202,
@@ -47,11 +60,24 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/potholes-coquihalla-highway-9.7049469?cmp=rss",
       "title": "Potholes the size of a small bathtub on B.C.'s Coquihalla Highway concern drivers",
       "published_at": "2026-01-17T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A Kamloops, B.C., woman says she’s worried someone could die as a result of hitting one of several large potholes on the Coquihalla Highway, which connects B.C. 's Lower Mainland to the southern Interior.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.807,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dd8db444c007214e457323997fedd8d593a3775b",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-counties-green-power-companies-await-new-power-rules-9.7049045?cmp=rss",
+      "title": "Alberta counties, green power companies await new power rules",
+      "published_at": "2026-01-17T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Construction on approved wind and solar projects in Alberta is on hold as developers await to see how planned changes to the province's power market would affect their business models. Rural politicians discuss the implications of potentially billions in lost investment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
         "subjectivity_hint": "medium"
       }
     },
@@ -95,16 +121,16 @@
       }
     },
     {
-      "id": "cb9e338013892787f6165dccc552236ce77f135c",
-      "url": "https://www.cbc.ca/news/health/superager-centenarians-brain-second-opinion-9.7049411?cmp=rss",
-      "title": "'Superagers' reveal how to stay sharp as you get older",
+      "id": "18b6cfe414690de7729321b376e93307df4f8df3",
+      "url": "https://www.cbc.ca/radio/whitecoat/childhood-vaccines-canada-us-9.7049005?cmp=rss",
+      "title": "Why do childhood vaccine recommendations differ across Canada — and around the world?",
       "published_at": "2026-01-16T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "People over 80 with memory of those in their 50s show less brain shrinkage and other differences. For a Canadian centenarian, the secret might lie in his passion for sharing a vocation turned hobby.",
+      "summary_auto": "The U.S. Centers for Disease Control and Prevention revised childhood vaccine recommendations earlier this month, but Canadian health experts don't think this country will follow suit. That's because public health bodies carefully consider the needs of their regions, taking into account demographics, budget restrictions and existing resources.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.19,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -130,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.528,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cb9e338013892787f6165dccc552236ce77f135c",
+      "url": "https://www.cbc.ca/news/health/superager-centenarians-brain-second-opinion-9.7049411?cmp=rss",
+      "title": "'Superagers' reveal how to stay sharp as you get older",
+      "published_at": "2026-01-16T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "People over 80 with memory of those in their 50s show less brain shrinkage and other differences. For a Canadian centenarian, the secret might lie in his passion for sharing a vocation turned hobby.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
         "subjectivity_hint": "medium"
       }
     },
@@ -222,45 +261,6 @@
         "article_type": "News",
         "sentiment": 0.893,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4c7abc572294f3cfe633bc08f648c5209c99edd6",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/murder-alex-lo-kai-ji-adam-lo-lapu-lapu-9.7049690?cmp=rss",
-      "title": "Man sentenced to life in prison for brutal murder of brother of Lapu-Lapu accused killer",
-      "published_at": "2026-01-16T18:17:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A judge has sentenced a man to life in prison for the 2024 murder of Alexander Lo, the brother of Kai-Ji Adam Lo who is accused of the Lapu-Lapu Day alleged car-ramming attack.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.986,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "88f6d771aa050496ae92428a4ecc703b8133ba69",
-      "url": "https://www.cbc.ca/news/canada/edmonton/triage-liaison-physicians-alberta-hospital-emergency-rooms-9.7049620?cmp=rss",
-      "title": "Doctors say Alberta's plan for ‘triage liaison physicians’ can help, but isn't cure for slammed ERs",
-      "published_at": "2026-01-16T16:42:31-05:00",
-      "section": "Canada",
-      "summary_auto": "An Alberta government pledge to bring so-called “triage liaison physicians” back to some emergency rooms could help ensure sick patients are better prioritized, some doctors say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e2b26a31422b3ee59d702fd8645edf774d41c25a",
-      "url": "https://www.cbc.ca/news/business/chinese-evs-canada-questions-answers-9.7048637?cmp=rss",
-      "title": "Chinese EVs are coming to Canada. How soon will they be here? How much will they cost?",
-      "published_at": "2026-01-16T16:11:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Here's what you need to know about Chinese EVs and their pending arrival in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     }
   ]
