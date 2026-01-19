@@ -1,18 +1,278 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-18T20:19:33.176334-05:00",
+  "generated_at": "2026-01-19T09:21:46.893751-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "6f5e1c74c132d9c79aa77f60018b3bc16dc099aa",
-      "url": "https://www.cbc.ca/news/world/spain-train-crash-9.7050668?cmp=rss",
-      "title": "At least 20 believed dead in high-speed train crash in Spain, authorities say",
-      "published_at": "2026-01-18T13:14:31-05:00",
+      "id": "d3986777fbd94ce75f17a306a57cfc4eb62fe6e0",
+      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamber-cooney-trial-milton-ontario-january-19-9.7047174?cmp=rss",
+      "title": "Murder trial resumes for Ontario couple who’d been trying to adopt 12-year-old boy who died",
+      "published_at": "2026-01-19T03:45:40-05:00",
       "section": "Top Stories",
-      "summary_auto": "Authorities estimate that more than 20 people were killed in a high-speed train crash in southern Spain.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.935,
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4dd83370d49bbf16e83c4781da583c28fdc7bc46",
+      "url": "https://www.cbc.ca/news/business/canada-inflation-rate-december-2025-9.7050934?cmp=rss",
+      "title": "Inflation ticks up to 2.4% in December as last year's GST break impacts data",
+      "published_at": "2026-01-19T03:41:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's inflation rate ticked up to 2.4 per cent in December compared to the same period last year, when the federal government implemented a GST break that brought some prices down, Statistics Canada said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0331a8e9fcc8dcfe8af38326fde2412313da4cd1",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-vancouver-player-trade-jan19-9.7050927?cmp=rss",
+      "title": "Ottawa, Vancouver shake up rosters with PWHL-record 6-player swap",
+      "published_at": "2026-01-19T03:20:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Ottawa Charge and the PWHL expansion Vancouver Goldeneyes shook up their rosters by completing a six-player trade on Sunday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fda2b5ac9b4e73a20dd8ab8129d0e2b9cc99d27d",
+      "url": "https://www.cbc.ca/news/world/karachi-mall-fire-pakistan-9.7050907?cmp=rss",
+      "title": "At least 19 killed, dozens missing in massive Karachi mall fire",
+      "published_at": "2026-01-19T02:53:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Pakistani firefighters began pulling bodies from the smoldering remains of a sprawling Karachi shopping mall on Monday, where more than 60 people were still missing after a massive fire that killed at least 19 people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b65c3a3e97755a4cead5f431abc21af56851ccf0",
+      "url": "https://www.cbc.ca/news/canada/sudbury/laurentian-university-strike-9.7050863?cmp=rss",
+      "title": "Faculty on strike at Laurentian University, classes temporarily cancelled",
+      "published_at": "2026-01-19T01:05:10-05:00",
+      "section": "Canada",
+      "summary_auto": "Faculty, academic librarians and counsellors represented by the Laurentian University Faculty Association (LUFA) in Sudbury, Ont. are on strike.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "955e30c4c69b952e3a321df051ecb58cba4670e8",
+      "url": "https://www.cbc.ca/news/canada/manitoba/gold-prices-surge-sell-invest-customers-9.7050574?cmp=rss",
+      "title": "Growing lineups mix with affordability challenges as Winnipeg retailers navigate surge in gold prices",
+      "published_at": "2026-01-19T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "With the steady surge in the price of gold, more customers are lining up to sell off or invest in the precious metal at some Winnipeg retailers, as those businesses are also wrestling with alternatives to make the karats more attainable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fb86d4452255132f278a9a0374ec283f0976d016",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/winter-storm-nova-scotia-9.7050853?cmp=rss",
+      "title": "Thousands without power, schools closed as winter storm hits N.S.",
+      "published_at": "2026-01-19T00:18:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 100,000 homes and businesses in Nova Scotia have lost power, and public schools are closed as a winter storm brings wet and heavy snow to the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "33b4ffb7d2646f16ff7619f8ee31cc98cfedd9c7",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/new-health-warnings-are-a-good-start-9.7048777?cmp=rss",
+      "title": "New health warnings considered a good start, but do they go far enough?",
+      "published_at": "2026-01-19T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada Health’s new front-of-package labelling is giving consumers more nutritional information at a glance. A magnifying-glass graphic is now mandatory to alert shoppers about foods high in saturated fat, sugar or sodium.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2fc97d53fae71ef02aca2e29f386f93f067db491",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-humby-complainant-obituary-9.7048715?cmp=rss",
+      "title": "Young man at centre of N.L. sexual abuse investigation died after testifying",
+      "published_at": "2026-01-18T23:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The young man who was the catalyst for a police investigation into accused sexual predators Tony Humby and Bruce Escott has died. His mother is remembering him as a gentle soul who put his life on the line in pursuit of justice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc27605d3378b257aaac1666f1694214de6b613c",
+      "url": "https://www.cbc.ca/news/health/fifa-world-cup-canada-health-care-resources-9.7049376?cmp=rss",
+      "title": "How Canadian doctors are preparing for potential FIFA World Cup public health challenges",
+      "published_at": "2026-01-18T23:03:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "81e106dcbb7824f7248a202ff02a4d5acac22d81",
+      "url": "https://www.cbc.ca/news/gopublic/uber-service-dogs-9.7040700?cmp=rss",
+      "title": "Uber called out by service dog users who are fed up with ride rejections",
+      "published_at": "2026-01-18T23:02:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9c5f0d5487af5d18bf20e1e8ced78dd4c4d51c20",
+      "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-random-traffic-stops-9.7048943?cmp=rss",
+      "title": "Quebec says police need power to randomly stop people. Can it convince Supreme Court?",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Should a police officer be able to pull you over without a reason? The Supreme Court is hearing arguments on a Quebec case that deals with exactly that. Proponents of random police traffic stops say they're important to stop drunk drivers. Detractors say they open the door to racial profiling.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.309,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "43a578ad90ed056213fe61956bae6f68038dfc60",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-police-sexual-assault-survivor-anonymous-comments-9.7048668?cmp=rss",
+      "title": "Sexual assault survivor calls for accountability after police comments left her feeling ‘humiliated’",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ontario woman who regularly shared her experiences as a sexual assault survivor at police training courses says she’s ending her relationship with the Ontario Police College and is raising concerns about what she and several experts say are harmful biases among some officers and a lack of accountability from the college.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "425c265608c00c65711484c755aad8f305726483",
+      "url": "https://www.cbc.ca/player/play/9.7050759?cmp=rss",
+      "title": "Can ICE be restrained?",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Anti-ICE protests continued throughout Minnesota over the weekend, as they have for nearly two weeks now. Since the shooting of Renee Good in Minneapolis, ICE agents have been getting in confrontations with the people they are targeting, and the citizens attempting to observe and document ICE’s actions. The city and state are on a razor’s edge — trying to observe and protest while not giving U.S. President Donald Trump an opportunity to escalate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.187,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9797857db3384522874ca0434f671c65dd19eca6",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-general-election-2026-9.7049521?cmp=rss",
+      "title": "With Legault out and the CAQ reeling, here's where Quebec's parties stand",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Quebec's political landscape is in flux following Premier François Legault's surprise resignation last week after more than seven years in power.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc27605d3378b257aaac1666f1694214de6b613c",
+      "url": "https://www.cbc.ca/news/health/fifa-world-cup-canada-health-care-resources-9.7049376?cmp=rss",
+      "title": "Canada's co-hosting the FIFA World Cup — and preparing for a potential surge in health emergencies. Here's how",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "As Toronto and Vancouver gear up to co-host FIFA World Cup games this summer, an emergency doctor worries that Canada’s overburdened health-care system won’t be able to handle the extra demand from possible infectious disease outbreaks or weather-related illnesses.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "975eab3bfa6fe17eab21cb267e9775186fc4913e",
+      "url": "https://www.cbc.ca/books/how-a-toronto-mural-changed-ian-williams-book-title-9.7039741?cmp=rss",
+      "title": "How a Toronto mural changed Ian Williams’s book title",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Entertainment",
+      "summary_auto": "The Toronto-based writer and past Giller Prize winner spoke with Mattea Roach about his latest novel, You've Changed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a02e295a76085a7678f1447165498329cf9cba0",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/police-shooting-rcmp-tobique-neqotkuk-sirt-9.7050798?cmp=rss",
+      "title": "Man dead after police-involved shooting on New Brunswick First Nation",
+      "published_at": "2026-01-18T19:10:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An independent police watchdog agency is investigating a fatal \"police-involved shooting\" that occurred in Neqotkuk First Nation, formerly known as Tobique, in northwestern New Brunswick, Sunday evening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "20cca430282dd2d63cabd0b1f7054e4fb4f4567c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-protests-global-conflict-9.7050770?cmp=rss",
+      "title": "Vancouver police deployed to 11 planned protests in 1 weekend",
+      "published_at": "2026-01-18T17:59:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It was a weekend of demonstrations in Vancouver with at least 11 protests happening across the city, drawing thousands of people and extra police officers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "32080b7fab63a4b04ee1dab079ce53198329bfc3",
+      "url": "https://www.cbc.ca/player/play/9.7050784?cmp=rss",
+      "title": "#TheMoment Kawhi Leonard joined kids on the basketball court",
+      "published_at": "2026-01-18T17:19:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Martha Ramos tells the National about the moment former Toronto Raptors star Kawhi Leonard joined a group of local kids to play basketball on a new court in Scarborough, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6f5e1c74c132d9c79aa77f60018b3bc16dc099aa",
+      "url": "https://www.cbc.ca/news/world/spain-train-crash-9.7050668?cmp=rss",
+      "title": "Death toll climbs to 39 in high-speed train collision in Spain",
+      "published_at": "2026-01-18T13:14:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Spanish police said Monday that at least 39 people are confirmed dead in a high-speed train collision the previous night in the south of the country, and rescue efforts were continuing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +281,7 @@
       "url": "https://www.cbc.ca/news/world/chile-wildfires-9.7050640?cmp=rss",
       "title": "Wildfires in Chile kill at least 18: authorities",
       "published_at": "2026-01-18T12:51:51-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Wildfires raging across central and southern Chile on Sunday left at least 18 people dead, scorched thousands of acres of forest and destroyed hundreds of homes, authorities said, as the South American country swelters under a heat wave.",
       "bias_heuristic": {
         "article_type": "News",
@@ -47,7 +307,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/lululemon-new-ceo-9.7050517?cmp=rss",
       "title": "Lululemon's next CEO will need to refine and innovate: experts",
       "published_at": "2026-01-18T11:09:27-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "In the last two years, Lululemon's rivals have upped their game, while the Vancouver-based retailer has been criticized for a lack of new styles, had to remove a leggings line that failed with customers, and saw its stock tumble by almost 60 per cent.",
       "bias_heuristic": {
         "article_type": "News",
@@ -66,253 +326,6 @@
         "article_type": "News",
         "sentiment": 0.745,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "336f7812de7a6e860803c3a4c1095066c1d018ed",
-      "url": "https://www.cbc.ca/news/entertainment/bob-weir-remembrance-9.7050304?cmp=rss",
-      "title": "Fans celebrate life of Grateful Dead guitarist Bob Weir in San Francisco",
-      "published_at": "2026-01-18T08:50:06-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The celebration brought plenty of fans with long dreadlocks and wearing tie-dye clothing, some using walkers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1331db379a02284477bff4a1ca4b16ffa0b2bcf1",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/barriers-to-sending-remains-abroad-highlighted-by-death-of-ukrainian-in-halifax-9.7050092?cmp=rss",
-      "title": "Barriers to sending remains abroad highlighted by death of Ukrainian in Halifax",
-      "published_at": "2026-01-18T07:56:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7373e7258571233d57b43c7eb3fc2dd6f3c4c6f5",
-      "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-consistency-alpine-skiing-double-olympic-medal-threat-9.7050503?cmp=rss",
-      "title": "Skiing consistency this season makes American Lindsey Vonn double Olympic medal threat",
-      "published_at": "2026-01-18T07:39:44-05:00",
-      "section": "World",
-      "summary_auto": "Lindsey Vonn of the United States finished second in a super-G on Sunday that was held amid difficult visibility in Tarvisio, Italy to claim her seventh podium result in eight races this season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3ac930c7dabdbf92bbbed3e14779153a7ba4c6d6",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/bob-bowman-summer-mcintosh-heroux-january-18-9.7050431?cmp=rss",
-      "title": "'Generational talent': Michael Phelps's former coach says comparisons to Summer McIntosh are fair",
-      "published_at": "2026-01-18T06:29:24-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Without a moment’s hesitation, unflinching really, legendary swimming coach Bob Bowman jumped to his answer when asked if the many comparisons made between the greatest swimmer ever — Michael Phelps — and Canadian swimming sensation Summer McIntosh were warranted and fair.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "715311465bab45667a7dd27dd407f66e74a8f192",
-      "url": "https://www.cbc.ca/news/politics/canada-greenland-carney-trump-tariffs-9.7050435?cmp=rss",
-      "title": "Canada 'concerned' about Trump's Greenland tariff threats, says PM Carney",
-      "published_at": "2026-01-18T06:09:10-05:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney says Canada is \"concerned\" about U.S. President Donald Trump's threat to impose increasing tariffs on several European countries until they accede to his demand to purchase and control Greenland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "967c23fcff30cd57eae6abf3df9fa7ae05aec1df",
-      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/fournier-beaudry-cizeron-2026-european-ice-dance-title-sheffield-9.7050450?cmp=rss",
-      "title": "Former Canadian ice dancer Laurence Fournier Beaudry granted French citizenship",
-      "published_at": "2026-01-18T06:07:19-05:00",
-      "section": "World",
-      "summary_auto": "France's Laurence Fournier Beaudry and Guillaume Cizeron won the ice dance at the European figure skating championships in Sheffield, England on Saturday after the buildup was overshadowed by a dispute between Cizeron and his former dance partner.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa17c8eea663e5ec397ff559ec0f89ab8b6afacc",
-      "url": "https://www.cbc.ca/news/world/eight-countries-react-trump-tariff-threat-greenland-9.7050373?cmp=rss",
-      "title": "European nations warn of 'dangerous downward spiral' after Trump threatens tariffs over Greenland",
-      "published_at": "2026-01-18T05:00:29-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump appeared to indicate that he was using the tariffs as leverage to force talks with Denmark and other European countries over the status of Greenland, a semiautonomous territory of NATO ally Denmark that he regards as critical to U.S. national security.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d2f96520d319907ff1dadd17a863a0d2468dcbd",
-      "url": "https://www.cbc.ca/player/play/9.7049475?cmp=rss",
-      "title": "Why taxpayers are still footing bill for airline complaints process",
-      "published_at": "2026-01-18T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The airline complaints process costs taxpayers nearly $30 million a year. Parliament ordered airlines to help pay, but internal documents obtained by CBC’s Go Public reveal delays and political pressure.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.593,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9d7179817a53c24aa4e61ed7fd225547e652cb3",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-thermea-spa-survey-9.7050152?cmp=rss",
-      "title": "Survey from Winnipeg spa asked 'blatantly disrespectful' question about 'purity of the country': customer",
-      "published_at": "2026-01-18T03:44:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The parent company of Winnipeg spa Thermea is pulling a guest experience survey that asked what one customer says were \"highly inappropriate\" questions, including one asking if immigration is a threat to \"the purity of the country.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7a3f03a3a17fa5be74c02b4eee2ead925ffab266",
-      "url": "https://www.cbc.ca/news/canada/calgary/life-on-a-highway-what-its-like-for-southern-alberta-communities-divided-by-a-major-thoroughfare-9.7032542?cmp=rss",
-      "title": "Life on a highway: What it’s like for southern Alberta communities divided by a major thoroughfare",
-      "published_at": "2026-01-18T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC News has been travelling to small towns across Alberta, hosting conversations about local successes and challenges. Highways are a recurrent theme — a boon to businesses and tourism, but also a safety concern.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9276c5d9f8d2d4bd5af8535a1b3a3c56be012f7e",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-jan-18-2025-9.7047085?cmp=rss",
-      "title": "Are you overpaying for a lab-grown diamond?: CBC Marketplace cheat sheet",
-      "published_at": "2026-01-18T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bfc8aedee61fd55dc2243e18a33b04443f5b3be1",
-      "url": "https://www.cbc.ca/news/world/indonesian-plane-wreckage-9.7050311?cmp=rss",
-      "title": "Wreckage of missing plane found by Indonesian rescuers",
-      "published_at": "2026-01-18T00:21:25-05:00",
-      "section": "World",
-      "summary_auto": "Ground and air rescue teams continued moving toward the wreckage site on Sunday, despite strong winds, heavy fog and steep, rugged terrain that have slowed the search.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.154,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d72fd9e5c36bf8241e3f67a4f9f406d8f691888",
-      "url": "https://www.cbc.ca/news/politics/carney-in-qatar-9.7050314?cmp=rss",
-      "title": "Carney says Qatar will make 'significant' investments in Canada's major projects",
-      "published_at": "2026-01-18T00:17:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney says Qatar has committed to \"significant strategic investments\" for Canada's major building projects.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6f572f8ae6d06b697586db298c1a9274a9ab0433",
-      "url": "https://www.cbc.ca/news/world/us-troops-minnesota-9.7050316?cmp=rss",
-      "title": "Close to 1,500 troops on standby to deploy to Minnesota, U.S. media report",
-      "published_at": "2026-01-18T00:12:18-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump threatened on Thursday to use the Insurrection Act to deploy ⁠military forces if officials in the state do not stop protesters from targeting immigration officials after a surge in ‍Immigration and Customs Enforcement agents.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.114,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8681787d0c029de6e9c950feacc0ec2b1057bfa6",
-      "url": "https://www.cbc.ca/news/science/fusion-startups-9.7045784?cmp=rss",
-      "title": "Nuclear fusion seems hot right now — but how close is fusion power?",
-      "published_at": "2026-01-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Recent nuclear fusion news from Canada and China has created a buzz. Meanwhile, new fusion startups have been popping up around the world, and have drawn billions in private investment. But how close are we to having fusion power plants?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.433,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "eb044fa73ef238f9a684c735078aa573da309799",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-first-person-andrew-stetson-9.7036224?cmp=rss",
-      "title": "I wanted to save my family’s stories. Instead, I found a connection I didn’t know I was missing",
-      "published_at": "2026-01-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "When he started recording a podcast about his family’s history, P.E.I.’s Andrew Stetson thought he was helping preserve their stories. He never imagined what he would learn about himself and his place in history.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "f3233457078b92f43fa9b7ab1bf5b83402f2ec56",
-      "url": "https://www.cbc.ca/news/canada/calgary/craft-beer-party-canada-sales-flat-breweries-close-9.7044246?cmp=rss",
-      "title": "Craft beer in Canada is losing its fizz, as sales dry up and more breweries go bust",
-      "published_at": "2026-01-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After years of seemingly unlimited growth for the craft beer industry, the party is winding down. Sales are down and the number of breweries in Canada has started to decline, a shift driven by a mix of cost pressures and changing consumer tastes and social habits.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b238f69acb300cf7651dbd282d0af2a3455e720c",
-      "url": "https://www.cbc.ca/radio/thecurrent/remote-robotic-procedure-9.6988079?cmp=rss",
-      "title": "Doctors can now perform robotic procedures from afar. What that means for rural Canadians",
-      "published_at": "2026-01-17T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Even from a few kilometres away, Dr. Vitor Mendes Pereira is able to perform a critical diagnostic procedure, thanks to an internet connection and a remote-controlled robot. It’s still early in its development, and the robot necessary is expensive, but Pereira says it could provide greater access to surgeries for patients who live in remote parts of the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.55,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4dbb13658ef3a58d642e341f5a1ea816c4fb619d",
-      "url": "https://www.cbc.ca/player/play/9.7050085?cmp=rss",
-      "title": "Do 2 PWHL Takeover Tour games bring Quebec City any closer to getting its own team?",
-      "published_at": "2026-01-17T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Last year’s game at Quebec City’s Vidéotron Centre had many fans hoping the provincial capital would be considered for an expansion team. Some are still holding on to that dream.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "medium"
       }
     }
   ]
