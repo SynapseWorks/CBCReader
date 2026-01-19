@@ -1,18 +1,96 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-19T09:21:46.893751-05:00",
+  "generated_at": "2026-01-19T15:17:55.046172-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "d3986777fbd94ce75f17a306a57cfc4eb62fe6e0",
-      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamber-cooney-trial-milton-ontario-january-19-9.7047174?cmp=rss",
-      "title": "Murder trial resumes for Ontario couple who’d been trying to adopt 12-year-old boy who died",
-      "published_at": "2026-01-19T03:45:40-05:00",
+      "id": "b61e909291663f292dc1f5e4bc262baf4d155460",
+      "url": "https://www.cbc.ca/sports/baseball/toronto-blue-jays-off-season-assessment-mlb-9.7051626?cmp=rss",
+      "title": "A look at Blue Jays' off-season: Solid hits and 2 big misses",
+      "published_at": "2026-01-19T10:06:46-05:00",
       "section": "Top Stories",
-      "summary_auto": "",
+      "summary_auto": "Missing out on infielder Bo Bichette and fellow free agent Kyle Tucker sours what started out as a solid off-season for the American League champion Toronto Blue Jays. But Toronto still has a good enough team to compete for a World Series title.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.823,
+        "sentiment": 0.791,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2e5a2e40f5ce8201678c2d905ffd43d3181a0f7e",
+      "url": "https://www.cbc.ca/news/science/northern-lights-9.7051431?cmp=rss",
+      "title": "The northern lights may be visible across Canada Monday night",
+      "published_at": "2026-01-19T08:50:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "If you're lucky enough to have clear skies tonight, you might want to go out and look up, as the northern lights could put on a decent show Monday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "6167dc9dc00adc8bbd5975bb3340f5f2876fd223",
+      "url": "https://www.cbc.ca/news/world/kabul-restaurant-explosion-9.7050917?cmp=rss",
+      "title": "At least 7 people killed in explosion in Afghan capital",
+      "published_at": "2026-01-19T07:51:22-05:00",
+      "section": "World",
+      "summary_auto": "An explosion at a restaurant in downtown Kabul on Monday killed at least seven people and wounded about a dozen more, according to police and an Italian charity running a surgical unit in the city. The cause of the blast was not immediately clear.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.855,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e0341874393c95e4af5265f0516201247a55d651",
+      "url": "https://www.cbc.ca/news/entertainment/60-minutes-pulled-episode-9.7051397?cmp=rss",
+      "title": "60 Minutes airs pulled segment on Trump deportations",
+      "published_at": "2026-01-19T07:39:24-05:00",
+      "section": "World",
+      "summary_auto": "On Sunday, 60 Minutes aired a story about Trump administration deportations that was abruptly pulled from the news magazine's lineup a month ago, a move that triggered an internal battle about political pressure that spilled out into the open.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "17af01bde9a89c5251781eecc127bad6f932c08c",
+      "url": "https://www.cbc.ca/news/entertainment/italian-designer-valentino-dies-9.7051368?cmp=rss",
+      "title": "Italian fashion designer Valentino Garavani has died at ‍93, his foundation says",
+      "published_at": "2026-01-19T07:03:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Italian fashion designer Valentino Garavani has died ⁠at ‍the ⁠age of 93, ⁠newspaper La Repubblica ‍and other Italian ⁠media said on ‍Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b827b8343e5e15980ce3149696daae17b4e271fb",
+      "url": "https://www.cbc.ca/news/world/spain-train-derailment-9.7051257?cmp=rss",
+      "title": "Investigators find broken joint on track at deadly Spanish rail crash site, source says",
+      "published_at": "2026-01-19T06:38:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Experts probing the cause of Sunday's derailment of a high-speed train in Spain, which killed at least 40 people, found a broken joint on the rails, according to a source briefed on initial investigations into the disaster.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.955,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d213b272461f8b2e89fff71ba15872f188146dc7",
+      "url": "https://www.cbc.ca/news/canada/canadian-tourist-dead-dingoes-9.7051043?cmp=rss",
+      "title": "'Horrific scene' as Canadian tourist found dead in Australia, body surrounded by dingoes",
+      "published_at": "2026-01-19T05:28:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Police in Queensland, Australia, are investigating the death of a 19-year-old Canadian woman after her body was found on a beach Monday morning surrounded by dingoes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
         "subjectivity_hint": "low"
       }
     },
@@ -45,13 +123,26 @@
     {
       "id": "fda2b5ac9b4e73a20dd8ab8129d0e2b9cc99d27d",
       "url": "https://www.cbc.ca/news/world/karachi-mall-fire-pakistan-9.7050907?cmp=rss",
-      "title": "At least 19 killed, dozens missing in massive Karachi mall fire",
+      "title": "At least 21 killed, dozens missing in massive Karachi mall fire",
       "published_at": "2026-01-19T02:53:10-05:00",
       "section": "Top Stories",
-      "summary_auto": "Pakistani firefighters began pulling bodies from the smoldering remains of a sprawling Karachi shopping mall on Monday, where more than 60 people were still missing after a massive fire that killed at least 19 people.",
+      "summary_auto": "Pakistani firefighters began pulling bodies from the smoldering remains of a sprawling Karachi shopping mall on Monday where more than 60 people were still missing after a massive fire that killed at least 21.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5cd75f589a8908921dcf3b3ace9c46318ee7c79f",
+      "url": "https://www.cbc.ca/news/world/greenland-europe-reaction-trump-tariffs-threat-9.7050857?cmp=rss",
+      "title": "European leaders push back on Trump's tariff threat over Greenland",
+      "published_at": "2026-01-19T02:13:28-05:00",
+      "section": "World",
+      "summary_auto": "Donald Trump said he was \"100 per cent\" committed to following through on his threat to tariff eight countries as exasperated Danish and European officials stiffened their resistance while hoping for a diplomatic offramp for the U.S. president's designs on Greenland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -69,15 +160,15 @@
       }
     },
     {
-      "id": "955e30c4c69b952e3a321df051ecb58cba4670e8",
-      "url": "https://www.cbc.ca/news/canada/manitoba/gold-prices-surge-sell-invest-customers-9.7050574?cmp=rss",
-      "title": "Growing lineups mix with affordability challenges as Winnipeg retailers navigate surge in gold prices",
+      "id": "2e1768f1ce0b147c219e320e344206c67c59ddb8",
+      "url": "https://www.cbc.ca/news/canada/manitoba/seven-year-old-exploitation-snapchat-9.7049065?cmp=rss",
+      "title": "Manitoba RCMP investigating after 7-year-old coerced to send nude images to man on Snapchat",
       "published_at": "2026-01-19T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "With the steady surge in the price of gold, more customers are lining up to sell off or invest in the precious metal at some Winnipeg retailers, as those businesses are also wrestling with alternatives to make the karats more attainable.",
+      "summary_auto": "Manitoba RCMP are investigating after a seven-year-old girl was coerced into sending nude photos to a man over Snapchat, as experts and police warn of a growing trend of children under 13 being sexually exploited through social media.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.691,
+        "sentiment": -0.772,
         "subjectivity_hint": "low"
       }
     },
@@ -87,10 +178,23 @@
       "title": "Thousands without power, schools closed as winter storm hits N.S.",
       "published_at": "2026-01-19T00:18:17-05:00",
       "section": "Top Stories",
-      "summary_auto": "More than 100,000 homes and businesses in Nova Scotia have lost power, and public schools are closed as a winter storm brings wet and heavy snow to the province.",
+      "summary_auto": "Public schools across Nova Scotia were cancelled Monday and roughly 140,000 homes and businesses lost power at some point during a winter storm that brought wet and heavy snow to the province.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d5aba7f4add5e31e59c90ce991b3ffb93102207",
+      "url": "https://www.cbc.ca/news/indigenous/shedrives-indigenous-taxi-edmonton-9.7049000?cmp=rss",
+      "title": "Cree woman’s taxi offers more than just a ride for Indigenous women in crisis",
+      "published_at": "2026-01-19T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "SheDrives is a taxi service based in Edmonton that offers rides and other driving services to Indigenous women. People from as far away as the Northwest Territories have reached out to thank the founder, Regan Gamble.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -110,26 +214,13 @@
     {
       "id": "2fc97d53fae71ef02aca2e29f386f93f067db491",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-humby-complainant-obituary-9.7048715?cmp=rss",
-      "title": "Young man at centre of N.L. sexual abuse investigation died after testifying",
+      "title": "He broke open a years-long N.L. sexual abuse investigation. He died after testifying",
       "published_at": "2026-01-18T23:30:00-05:00",
       "section": "Top Stories",
       "summary_auto": "The young man who was the catalyst for a police investigation into accused sexual predators Tony Humby and Bruce Escott has died. His mother is remembering him as a gentle soul who put his life on the line in pursuit of justice.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bc27605d3378b257aaac1666f1694214de6b613c",
-      "url": "https://www.cbc.ca/news/health/fifa-world-cup-canada-health-care-resources-9.7049376?cmp=rss",
-      "title": "How Canadian doctors are preparing for potential FIFA World Cup public health challenges",
-      "published_at": "2026-01-18T23:03:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": -0.878,
         "subjectivity_hint": "low"
       }
     },
@@ -147,16 +238,29 @@
       }
     },
     {
-      "id": "9c5f0d5487af5d18bf20e1e8ced78dd4c4d51c20",
-      "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-random-traffic-stops-9.7048943?cmp=rss",
-      "title": "Quebec says police need power to randomly stop people. Can it convince Supreme Court?",
+      "id": "0f03acbb033d8f1a0a045097330f50846e9af128",
+      "url": "https://www.cbc.ca/news/canada/ottawa/inside-the-bus-cancellation-crisis-at-oc-transpo-9.7049649?cmp=rss",
+      "title": "Inside the bus cancellation crisis in Ottawa",
       "published_at": "2026-01-18T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Should a police officer be able to pull you over without a reason? The Supreme Court is hearing arguments on a Quebec case that deals with exactly that. Proponents of random police traffic stops say they're important to stop drunk drivers. Detractors say they open the door to racial profiling.",
+      "summary_auto": "A pandemic and a trade war delayed replacements for OC Transpo's aging fleet, leaving the agency's longest-serving buses nearly 20 years old. Meanwhile, critics still blame the transit service for going all-in on electric vehicles.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.309,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.926,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9797857db3384522874ca0434f671c65dd19eca6",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-general-election-2026-9.7049521?cmp=rss",
+      "title": "With Legault out and the CAQ reeling, here's where Quebec's parties stand",
+      "published_at": "2026-01-18T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Quebec's political landscape is in flux following Premier François Legault's surprise resignation last week after more than seven years in power.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -173,29 +277,16 @@
       }
     },
     {
-      "id": "425c265608c00c65711484c755aad8f305726483",
-      "url": "https://www.cbc.ca/player/play/9.7050759?cmp=rss",
-      "title": "Can ICE be restrained?",
+      "id": "9c5f0d5487af5d18bf20e1e8ced78dd4c4d51c20",
+      "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-random-traffic-stops-9.7048943?cmp=rss",
+      "title": "Quebec says police need power to randomly stop people. Can it convince Supreme Court?",
       "published_at": "2026-01-18T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Anti-ICE protests continued throughout Minnesota over the weekend, as they have for nearly two weeks now. Since the shooting of Renee Good in Minneapolis, ICE agents have been getting in confrontations with the people they are targeting, and the citizens attempting to observe and document ICE’s actions. The city and state are on a razor’s edge — trying to observe and protest while not giving U.S. President Donald Trump an opportunity to escalate.",
+      "summary_auto": "Should a police officer be able to pull you over without a reason? The Supreme Court is hearing arguments on a Quebec case that deals with exactly that. Proponents of random police traffic stops say they're important to stop drunk drivers. Detractors say they open the door to racial profiling.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.187,
+        "sentiment": 0.309,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9797857db3384522874ca0434f671c65dd19eca6",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-general-election-2026-9.7049521?cmp=rss",
-      "title": "With Legault out and the CAQ reeling, here's where Quebec's parties stand",
-      "published_at": "2026-01-18T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Quebec's political landscape is in flux following Premier François Legault's surprise resignation last week after more than seven years in power.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -225,106 +316,15 @@
       }
     },
     {
-      "id": "8a02e295a76085a7678f1447165498329cf9cba0",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/police-shooting-rcmp-tobique-neqotkuk-sirt-9.7050798?cmp=rss",
-      "title": "Man dead after police-involved shooting on New Brunswick First Nation",
-      "published_at": "2026-01-18T19:10:12-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An independent police watchdog agency is investigating a fatal \"police-involved shooting\" that occurred in Neqotkuk First Nation, formerly known as Tobique, in northwestern New Brunswick, Sunday evening.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "20cca430282dd2d63cabd0b1f7054e4fb4f4567c",
       "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-protests-global-conflict-9.7050770?cmp=rss",
       "title": "Vancouver police deployed to 11 planned protests in 1 weekend",
       "published_at": "2026-01-18T17:59:22-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "It was a weekend of demonstrations in Vancouver with at least 11 protests happening across the city, drawing thousands of people and extra police officers.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "32080b7fab63a4b04ee1dab079ce53198329bfc3",
-      "url": "https://www.cbc.ca/player/play/9.7050784?cmp=rss",
-      "title": "#TheMoment Kawhi Leonard joined kids on the basketball court",
-      "published_at": "2026-01-18T17:19:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Martha Ramos tells the National about the moment former Toronto Raptors star Kawhi Leonard joined a group of local kids to play basketball on a new court in Scarborough, Ont.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f5e1c74c132d9c79aa77f60018b3bc16dc099aa",
-      "url": "https://www.cbc.ca/news/world/spain-train-crash-9.7050668?cmp=rss",
-      "title": "Death toll climbs to 39 in high-speed train collision in Spain",
-      "published_at": "2026-01-18T13:14:31-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Spanish police said Monday that at least 39 people are confirmed dead in a high-speed train collision the previous night in the south of the country, and rescue efforts were continuing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ef9ea15c7489e19aebfcb0e5620dded2027e273",
-      "url": "https://www.cbc.ca/news/world/chile-wildfires-9.7050640?cmp=rss",
-      "title": "Wildfires in Chile kill at least 18: authorities",
-      "published_at": "2026-01-18T12:51:51-05:00",
-      "section": "World",
-      "summary_auto": "Wildfires raging across central and southern Chile on Sunday left at least 18 people dead, scorched thousands of acres of forest and destroyed hundreds of homes, authorities said, as the South American country swelters under a heat wave.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cd2c901af36248e4dd3ef0eba7525558ef783e68",
-      "url": "https://www.cbc.ca/news/politics/carney-greenland-soldiers-trump-tariff-nato-denmark-9.7050621?cmp=rss",
-      "title": "Carney weighs sending soldiers to Greenland for military exercises with NATO allies: sources",
-      "published_at": "2026-01-18T12:09:39-05:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney is considering sending soldiers to Greenland for military exercises with NATO allies, as U.S. President Donald Trump threatens tariffs on European nations unless they let him purchase and control the semiautonomous island, two senior Canadian officials told CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "711100833f5c2d3e94d52214db5b565cdf268bef",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/lululemon-new-ceo-9.7050517?cmp=rss",
-      "title": "Lululemon's next CEO will need to refine and innovate: experts",
-      "published_at": "2026-01-18T11:09:27-05:00",
-      "section": "Canada",
-      "summary_auto": "In the last two years, Lululemon's rivals have upped their game, while the Vancouver-based retailer has been criticized for a lack of new styles, had to remove a leggings line that failed with customers, and saw its stock tumble by almost 60 per cent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51355c8d7df6c833fcbe5a2f66c9e70a659beb33",
-      "url": "https://www.cbc.ca/news/world/gaza-ceasefire-phase-2-board-of-peace-9.7050525?cmp=rss",
-      "title": "Trump's 'Board of Peace' proposal met with skepticism, caution amid shaky Gaza ceasefire",
-      "published_at": "2026-01-18T10:06:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The two-year war in Gaza between Israel and Hamas eased with a ceasefire three months ago, but there has been neither peace nor reconstruction. Phase 2 promises progress, but the peace process itself is becoming increasingly controversial.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.745,
         "subjectivity_hint": "low"
       }
     }
