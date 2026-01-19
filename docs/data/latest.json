@@ -1,18 +1,70 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-18T15:16:49.861588-05:00",
+  "generated_at": "2026-01-18T20:19:33.176334-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "6f5e1c74c132d9c79aa77f60018b3bc16dc099aa",
+      "url": "https://www.cbc.ca/news/world/spain-train-crash-9.7050668?cmp=rss",
+      "title": "At least 20 believed dead in high-speed train crash in Spain, authorities say",
+      "published_at": "2026-01-18T13:14:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Authorities estimate that more than 20 people were killed in a high-speed train crash in southern Spain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.935,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ef9ea15c7489e19aebfcb0e5620dded2027e273",
+      "url": "https://www.cbc.ca/news/world/chile-wildfires-9.7050640?cmp=rss",
+      "title": "Wildfires in Chile kill at least 18: authorities",
+      "published_at": "2026-01-18T12:51:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Wildfires raging across central and southern Chile on Sunday left at least 18 people dead, scorched thousands of acres of forest and destroyed hundreds of homes, authorities said, as the South American country swelters under a heat wave.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd2c901af36248e4dd3ef0eba7525558ef783e68",
+      "url": "https://www.cbc.ca/news/politics/carney-greenland-soldiers-trump-tariff-nato-denmark-9.7050621?cmp=rss",
+      "title": "Carney weighs sending soldiers to Greenland for military exercises with NATO allies: sources",
+      "published_at": "2026-01-18T12:09:39-05:00",
+      "section": "World",
+      "summary_auto": "Prime Minister Mark Carney is considering sending soldiers to Greenland for military exercises with NATO allies, as U.S. President Donald Trump threatens tariffs on European nations unless they let him purchase and control the semiautonomous island, two senior Canadian officials told CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "711100833f5c2d3e94d52214db5b565cdf268bef",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/lululemon-new-ceo-9.7050517?cmp=rss",
+      "title": "Lululemon's next CEO will need to refine and innovate: experts",
+      "published_at": "2026-01-18T11:09:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In the last two years, Lululemon's rivals have upped their game, while the Vancouver-based retailer has been criticized for a lack of new styles, had to remove a leggings line that failed with customers, and saw its stock tumble by almost 60 per cent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "51355c8d7df6c833fcbe5a2f66c9e70a659beb33",
       "url": "https://www.cbc.ca/news/world/gaza-ceasefire-phase-2-board-of-peace-9.7050525?cmp=rss",
-      "title": "Pitfalls and promises for Gaza: An ambitious and controversial start",
+      "title": "Trump's 'Board of Peace' proposal met with skepticism, caution amid shaky Gaza ceasefire",
       "published_at": "2026-01-18T10:06:05-05:00",
       "section": "Top Stories",
       "summary_auto": "The two-year war in Gaza between Israel and Hamas eased with a ceasefire three months ago, but there has been neither peace nor reconstruction. Phase 2 promises progress, but the peace process itself is becoming increasingly controversial.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.816,
+        "sentiment": 0.745,
         "subjectivity_hint": "low"
       }
     },
@@ -56,8 +108,8 @@
       }
     },
     {
-      "id": "4b40e8ec9d18f893631e0e0254d28e7eeb8bd8f7",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/bob-bowman-summer-mcintosh-heroux-january-18-9.7050431?cmp=rss",
+      "id": "3ac930c7dabdbf92bbbed3e14779153a7ba4c6d6",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/bob-bowman-summer-mcintosh-heroux-january-18-9.7050431?cmp=rss",
       "title": "'Generational talent': Michael Phelps's former coach says comparisons to Summer McIntosh are fair",
       "published_at": "2026-01-18T06:29:24-05:00",
       "section": "Top Stories",
@@ -65,6 +117,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "715311465bab45667a7dd27dd407f66e74a8f192",
+      "url": "https://www.cbc.ca/news/politics/canada-greenland-carney-trump-tariffs-9.7050435?cmp=rss",
+      "title": "Canada 'concerned' about Trump's Greenland tariff threats, says PM Carney",
+      "published_at": "2026-01-18T06:09:10-05:00",
+      "section": "World",
+      "summary_auto": "Prime Minister Mark Carney says Canada is \"concerned\" about U.S. President Donald Trump's threat to impose increasing tariffs on several European countries until they accede to his demand to purchase and control Greenland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
         "subjectivity_hint": "low"
       }
     },
@@ -177,7 +242,7 @@
       "url": "https://www.cbc.ca/news/world/us-troops-minnesota-9.7050316?cmp=rss",
       "title": "Close to 1,500 troops on standby to deploy to Minnesota, U.S. media report",
       "published_at": "2026-01-18T00:12:18-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump threatened on Thursday to use the Insurrection Act to deploy ⁠military forces if officials in the state do not stop protesters from targeting immigration officials after a surge in ‍Immigration and Customs Enforcement agents.",
       "bias_heuristic": {
         "article_type": "News",
