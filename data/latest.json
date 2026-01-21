@@ -1,31 +1,343 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-20T20:17:18.532971-05:00",
+  "generated_at": "2026-01-21T09:25:02.497100-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "69f9b88b216df93147186209fc81626bdfd63879",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-backyard-berm-9.7053322?cmp=rss",
+      "title": "More than 50 dump truck loads of dirt were removed from his yard. Now, he has to put them back",
+      "published_at": "2026-01-21T04:09:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.644,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e78cb24122ee05dce9101e652a6b8a2e188a800",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-ambulance-staffing-levels-mayor-concerned-9.7053453?cmp=rss",
+      "title": "Tumbler Ridge, B.C., mayor concerned about ambulance staffing levels",
+      "published_at": "2026-01-21T04:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "New data is raising concerns about ambulance staffing levels in Tumbler Ridge, B.C., months after hours were cut at the local emergency department.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "18ff8f36e29824f931bd1f79a4b1805f0c7dea0e",
+      "url": "https://www.cbc.ca/news/world/israel-gaza-palestinians-killed-trump-peace-deal-9.7054240?cmp=rss",
+      "title": "3 journalists killed in Israeli airstrike on car in central Gaza, health officials say",
+      "published_at": "2026-01-21T03:18:18-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli fire killed 11 Palestinians, including two boys and three journalists, in Gaza on Wednesday, local medics said, and the Israeli military said it had \"eliminated\" a Palestinian militant who posed a threat to soldiers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.941,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "63793fd14beb6ff27d5160efcc044c78ff786b05",
+      "url": "https://www.cbc.ca/sports/tennis/australian-open-recap-january-21-9.7054243?cmp=rss",
+      "title": "Canada's Mboko advances to 3rd round at Australian Open",
+      "published_at": "2026-01-21T02:59:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Victoria Mboko of Toronto punched her ticket to the third round of women's singles at the Australian Open on Wednesday in Melbourne with a 6-4, 6-3 win over American Caty McNally.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dee063344af7cc123858b6bcb0b9e0f42daa40b",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-traffic-jacques-cartier-bridge-9.7054204?cmp=rss",
+      "title": "Fire in Montreal forces closure of Jacques-Cartier Bridge",
+      "published_at": "2026-01-21T01:45:40-05:00",
+      "section": "Canada",
+      "summary_auto": "A fire that started in an abandoned building on De Lorimier Avenue in Montreal has forced the closure of the Jacques-Cartier Bridge ahead of the Wednesday morning rush hour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6cc090cb967b12947524a2a3d457ff94844ae1cc",
+      "url": "https://www.cbc.ca/news/canada/north/sallirmiutun-invialuktun-language-nwt-9.7045219?cmp=rss",
+      "title": "Struggle and hope: the challenge of saving the coastal dialect of Inuvialuktun",
+      "published_at": "2026-01-21T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Elders in Paulatuk, N.W.T., say more can be done to save their coastal dialect of Inuvialuktun. A language program that's gained momentum recently in Tuktoyaktuk sheds light on a successful strategy — and a reason to hope Sallirmiutun won't disappear.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.933,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f36b4ff4dcbff26c9c2d5b97b965f93260fccb61",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-ranks-third-in-canada-for-traffic-congestion-9.7053495?cmp=rss",
+      "title": "New data ranks Halifax 3rd worst in Canada for traffic congestion",
+      "published_at": "2026-01-21T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The latest traffic index from geolocation company TomTom shows Halifax traffic congestion remains among the worst in Canada, with the city ranking 147th in the world.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "009de781d9755b2c1325e06ec7cebfa324d4fb04",
+      "url": "https://www.cbc.ca/news/world/shinzo-abe-shooting-death-trial-9.7054161?cmp=rss",
+      "title": "Man who assassinated former Japanese PM Shinzo Abe gets life in prison",
+      "published_at": "2026-01-20T23:49:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Japanese court sentenced a man who admitted assassinating former Japanese prime minister Shinzo Abe to life imprisonment on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1ac80a83b9c20820c6838a0dab2fe2572e1fb94b",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7052255?cmp=rss",
+      "title": "What the trial for an Ontario couple has heard so far from woman co-accused of killing boy, torturing brother",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The trial for a couple who'd been trying to adopt two brothers before one was found dead in their Burlington, Ont., home four years ago is set to end proceedings on Friday. Following her wife's testimony, Becky Hamber answered questions from lawyers, including about how the two treated the children. Here's what we've heard from Hamber so far in Milton Superior Court.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.859,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dcf558d5252efb4fbf1b28a6ee019cfbecc4f9f7",
+      "url": "https://www.cbc.ca/news/canada/toronto/yorkdale-mall-fairweather-hudson-s-bay-9.7053756?cmp=rss",
+      "title": "Not ‘luxury’ enough? Toronto's Yorkdale mall owners fight to keep Fairweather out",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Oxford Properties is fighting in court to stop Fairweather from taking over the large space that was once occupied by Hudson’s Bay, arguing its stores feel \"downmarket\" and could damage the mall’s image.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c7709e4567344e503c258660609facef68cdbb98",
+      "url": "https://www.cbc.ca/news/lance-stroll-aston-martin-2026-9.7050977?cmp=rss",
+      "title": "The rulebook overhaul that could help Canada’s only F1 driver outrun his billionaire dad’s shadow",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s lone Formula One driver has spent his career plagued by the claim that he hasn’t earned his spot in F1. But all eyes are on 2026 and the overhaul in F1’s technical regulations that could finally change everything.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4d9f5d10434a10af573032f0fbbc41103562c71c",
+      "url": "https://www.cbc.ca/news/canada/ottawa/5-key-questions-on-high-speed-rail-as-public-consultations-launch-9.7052807?cmp=rss",
+      "title": "Public consultations into high-speed rail begin today. Your questions answered",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Public consultations on the proposed high-speed rail line begin Wednesday in Ottawa and Montreal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "00d5f9018f2be6daff09878bff31a0adfbb7c284",
+      "url": "https://www.cbc.ca/news/indigenous/dalhousie-buffy-sainte-marie-degree-9.7053170?cmp=rss",
+      "title": "Dalhousie University strips Buffy Sainte-Marie of honorary degree",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Dalhousie University has revoked Buffy Sainte-Marie's honorary degree after her claims to Indigenous identity were the subject of a 2023 CBC News investigation, and a formal request from a medical student who raised concerns about the harms in keeping the honour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "91667febea5d7b201ee782f425076c8801596515",
+      "url": "https://www.cbc.ca/news/canada/montreal/legault-resignation-first-nations-inuit-leaders-9.7051629?cmp=rss",
+      "title": "Indigenous leaders say Legault's resignation an opportunity for long-awaited changes",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some are hoping Premier François Legault's successor will revive some of the commitments his government previously made, like recognizing UNDRIP and concluding a major treaty, which never came to fruition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b740e84a3b5845c3904e51eb1dfe78a5f5840167",
+      "url": "https://www.cbc.ca/radio/thecurrent/lisa-banfield-memoir-ns-shooting-9.7054104?cmp=rss",
+      "title": "The violence began behind closed doors. It ended in Canada’s worst mass shooting",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The partner of Canada's worst mass shooter survived years of abuse before he would go on a rampage that killed 22 people across rural Nova Scotia. Her experiences are detailed in a book released Tuesday and speak to a wider truth, she says: that the violence that begins behind closed doors can spill into society.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.97,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "06509bd26b547dfc4f44cb96cb0f1fc7d5183ab0",
+      "url": "https://www.cbc.ca/news/canada/montreal/domestic-violence-quebec-increase-9.7053941?cmp=rss",
+      "title": "Reports of intimate partner violence in Quebec triple over last decade",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Quebec provincial police are reporting a significant increase in intimate partner violence cases, though they say it does not necessarily mean more violence is occurring.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6c2284514920ac2186e178b654dbffb3dc76b488",
+      "url": "https://www.cbc.ca/news/world/trump-greenland-voters-polling-9.7054021?cmp=rss",
+      "title": "The world wonders what — if anything — can restrain Trump on Greenland",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "As U.S. President Donald Trump’s insistence on controlling Greenland becomes even more vehement despite polls showing most Americans don't support it, there’s a growing sense of urgency around the globe to figure out if there is anything that could change his mind.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.207,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3c08c5e4c51e937bec328d0f281d2c5dad23deda",
+      "url": "https://www.cbc.ca/news/world/mary-simon-mexico-greenland-9.7053991?cmp=rss",
+      "title": "Greenlanders looking for Canadian support amid U.S. threats, Governor General says",
+      "published_at": "2026-01-20T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "The people of Greenland are looking to Canada for support as they continue to face threats of annexation from the U.S., says Gov. Gen. Mary Simon. Simon, a former ambassador to Denmark and Canada’s first ambassador for Circumpolar Affairs, says she has spoken with Greenlanders who feel “uneasy” about U.S. President Donald Trump’s stated desire to make their territory part of the U.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "90243a73a56cc3a8b9c2868022077bc7086ed656",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/myles-gray-police-conduct-hearing-day-2-9.7054063?cmp=rss",
+      "title": "Witnesses describe Myles Gray’s behaviour prior to his death at Vancouver police conduct hearing",
+      "published_at": "2026-01-20T17:22:26-05:00",
+      "section": "Canada",
+      "summary_auto": "Tuesday’s witnesses included those who saw Myles Gray acting unusually before he made his way into a Joffre Avenue yard in Burnaby, near the Vancouver border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8d10becbc4078c632af6ac7ddded14a50366fa3f",
+      "url": "https://www.cbc.ca/player/play/9.7054102?cmp=rss",
+      "title": "#TheMoment scientists got a look inside a glacier",
+      "published_at": "2026-01-20T17:05:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Martin Froger Silva, a videographer for the Center for Oldest Ice Exploration, tells The National about the moment he filmed the inside of a glacier in Antarctica that’s millions of years old.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fa59d5c4264559dddec3b3efed1494f08841efab",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-emergency-rooms-hospitals-jones-9.7053920?cmp=rss",
+      "title": "Minister says Alberta emergency room deaths and poor outcomes are exceptions to the norm",
+      "published_at": "2026-01-20T16:30:36-05:00",
+      "section": "Canada",
+      "summary_auto": "As Alberta doctors raise red flags about seeing what they say are delays in emergency room care, the province’s hospitals minister says he doesn’t think cases that the doctors have recently highlighted reflect the health system broadly.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3ed90ad12efb1d60afc4b80c1f1a82d3d1c2becb",
+      "url": "https://www.cbc.ca/news/canada/london/rachel-mcadams-walk-of-fame-9.7053712?cmp=rss",
+      "title": "Ontario-born Rachel McAdams gets a star on Hollywood's Walk of Fame",
+      "published_at": "2026-01-20T16:25:17-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Canadian actress Rachel McAdams became the latest star to land a spot onto the Hollywood Walk of Fame on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "50713e3da19cfb530b6d78ef0faec0f9d0601d3b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-respiratory-therapists-in-crisis-mode-amid-staffing-shortage-union-says-9.7052894?cmp=rss",
+      "title": "Manitoba respiratory therapists 'in crisis mode' amid staffing shortage, union says",
+      "published_at": "2026-01-20T15:21:28-05:00",
+      "section": "Health",
+      "summary_auto": "A provincewide shortage of respiratory therapists threatens to get worse with an exodus of retirees anticipated in the coming years and an inadequate number of Manitoba-based respiratory therapy graduates \"in the pipeline,\" warns a union that represents thousands of allied health-care workers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "247c2159350cc814c64797e52a5962c0e12ca752",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-physician-resigns-over-maid-transfers-9.7052955?cmp=rss",
+      "title": "Vancouver palliative care doctor tells court she resigned rather than authorize MAID transfers",
+      "published_at": "2026-01-20T15:10:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Vancouver palliative care doctor, who says she chose to resign rather than authorize patient transfers for the purpose of medical assistance in dying (MAID), took the stand in the B.C. Supreme Court case that will determine the constitutionality of faith-based, publicly funded health-care facilities prohibiting MAID in their buildings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "ab7610c7fb9cd295a684c5bcd94f3647d81290b1",
       "url": "https://www.cbc.ca/news/entertainment/brooklyn-peltz-beckham-family-feud-explained-9.7052711?cmp=rss",
-      "title": "Beckham vs. Beckham! Brooklyn Peltz Beckham's rant against parents David, Victoria explained",
+      "title": "Beckham vs. Beckham: Brooklyn Peltz Beckham's rant against parents David, Victoria explained",
       "published_at": "2026-01-20T13:51:38-05:00",
       "section": "Top Stories",
       "summary_auto": "Brooklyn Peltz Beckham held nothing back in a seething social media rant calling out his superstar parents — soccer legend Sir David Beckham and ex-Spice Girl Lady Victoria Beckham.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.624,
+        "sentiment": -0.586,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "d7ff7f69430a501d2289400eaba5b6bd6ce1bb68",
       "url": "https://www.cbc.ca/news/world/barcelona-train-crash-fatal-9.7053786?cmp=rss",
-      "title": "1 dead, several injured in commuter train crash near Barcelona",
+      "title": "Driver killed in Spain's 2nd deadly train accident in days",
       "published_at": "2026-01-20T13:49:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Barcelona commuter train crashed Tuesday after a retaining wall fell onto the tracks, Spanish regional authorities said, killing one person and injuring at least 14 others.",
+      "section": "World",
+      "summary_auto": "Commuter rail service in Spain's northeastern Catalonia region was suspended Wednesday after a Barcelona commuter train crashed the night before, Spanish authorities said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.934,
+        "sentiment": -0.893,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +346,7 @@
       "url": "https://www.cbc.ca/player/play/9.7053842?cmp=rss",
       "title": "Is Donald Trump auctioning off Gaza’s future?",
       "published_at": "2026-01-20T13:46:55-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Andrew Chang explains what $1 billion US buys members on Trump's new Board of Peace. Images provided by The Canadian Press, Reuters and Getty Images",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +372,7 @@
       "url": "https://www.cbc.ca/news/world/witness-testimony-concludes-uvalde-shooting-officer-trial-9.7053766?cmp=rss",
       "title": "Testimony wraps in Texas officer's trial over response to 2022 Uvalde school shooting",
       "published_at": "2026-01-20T13:41:18-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Witness testimony ended Tuesday in the trial of a former Uvalde, Texas, school police officer accused of failing in his duty to stop a gunman in the critical first minutes of the 2022 Robb Elementary School attack, setting up the case to go to the jury.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,15 +407,28 @@
       }
     },
     {
-      "id": "da816e44b19076129026e5b41de4453e05a30c71",
-      "url": "https://www.cbc.ca/news/canada/calgary/canada-beef-returning-china-first-time-2021-9.7053267?cmp=rss",
-      "title": "Canadian beef returning to Chinese markets for first time since 2021",
-      "published_at": "2026-01-20T12:54:37-05:00",
+      "id": "3908d4bce00c6e26f9f889a325efcbb4c493f836",
+      "url": "https://www.cbc.ca/radio/asithappens/veronika-cow-tool-9.7053635?cmp=rss",
+      "title": "Veronika the cow has a scratching broom, and she knows how to use it",
+      "published_at": "2026-01-20T13:17:32-05:00",
       "section": "Top Stories",
-      "summary_auto": "China has lifted its years-long ban on Canadian beef exports — a move industry officials hope will contribute to the sector’s growth and support future market diversification.",
+      "summary_auto": "Veronika the brown cow's dexterous and graceful tool use upends long-held assumptions about the intelligence of cows, say scientists.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.557,
+        "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "992c4d176de9534985294b5d6d3cbffb003f6d2f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/indigenous-doctor-barry-lavallee-dies-9.7053651?cmp=rss",
+      "title": "Indigenous physician Dr. Barry Lavallee remembered as 'fearless advocate': Keewatinohk Inniniw Minoayawin",
+      "published_at": "2026-01-20T12:35:42-05:00",
+      "section": "Health",
+      "summary_auto": "Dr. Barry Lavallee, a prominent Indigenous physician whose work focused on improving health care for First Nations and Métis people in Manitoba, has died, Keewatinohk Inniniw Minoayawin said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.848,
         "subjectivity_hint": "low"
       }
     },
@@ -112,7 +437,7 @@
       "url": "https://www.cbc.ca/player/play/9.7053645?cmp=rss",
       "title": "Timelapse video shows northern lights glowing in Yukon",
       "published_at": "2026-01-20T12:27:33-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "The northern lights, also known as the aurora borealis, put on a show in parts of Canada, the U.S. and Europe overnight Monday into Tuesday, with the vivid display seen much farther south than usual amid intense geomagnetic and solar radiation storms. Video that has been verified by Reuters shows shimmering green and pink hues in the sky over the Yukon hamlet of Mount Lorne.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,7 +450,7 @@
       "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-hearings-second-day-routine-traffic-stops-9.7053492?cmp=rss",
       "title": "Ottawa, provinces ask Supreme Court to uphold law on random traffic stops",
       "published_at": "2026-01-20T12:24:02-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The country's top court spent a second morning hearing arguments about whether it's constitutional for police to make traffic stops without reasonable suspicion the driver has committed an offence.",
       "bias_heuristic": {
         "article_type": "News",
@@ -186,405 +511,15 @@
       }
     },
     {
-      "id": "58008989c22913fd0c1d3735daf205c34c5d8cfb",
-      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/olympics-canadian-freestyle-team-announcement-2026-9.7053423?cmp=rss",
-      "title": "Moguls star Kingsbury leads Canadian freestyle ski team into Milano-Cortina Games",
-      "published_at": "2026-01-20T10:46:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Star moguls skier Mikael Kingsbury heads to the Milano-Cortina Winter Games looking for two medals as part of Canada's freestyle skiing team. Freestyle Canada and the Canadian Olympic Committee announced the 25-athlete team in a joint release on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "bcaafa9b467c89dee4043d419854b071992f8502",
       "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-extortion-task-force-4-month-update-9.7053292?cmp=rss",
       "title": "B.C. RCMP says it's 'actively hunting' extortionists, urges public not to take matters into their own hands",
       "published_at": "2026-01-20T10:40:39-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Police are probing the 35th case of suspected extortion in Surrey, B.C., this year alone — but B.C. RCMP assistant commissioner says it does not constitute a crisis.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10d7338c8d7c42960d1e3145491317ec3d149f91",
-      "url": "https://www.cbc.ca/news/canada/montreal/massif-de-charlevoix-negotiations-9.7053084?cmp=rss",
-      "title": "Ski resort management, union called to meeting day after Quebec's Le Massif closed for season",
-      "published_at": "2026-01-20T10:22:20-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Management at Le Massif de Charlevoix and its striking unionized employees have been called to a meeting just one day after the resort announced the cancellation of its ski season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5d180233c8f8c3dd04704d2cf4be53680b018a04",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/january-warm-weather-b-c-cherry-blossoms-9.7053080?cmp=rss",
-      "title": "B.C.'s balmy January brings out blossoms, but a cold snap could put plants in peril",
-      "published_at": "2026-01-20T10:04:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An unseasonably mild winter is coaxing blossoms to bloom early in some Metro Vancouver neighbourhoods, as it experiences one of the warmest Januaries on record.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6688d4659044ee2b87550a7fcb6f35cb6e77bd71",
-      "url": "https://www.cbc.ca/news/canada/calgary/child-abduction-charged-arrested-mauritius-9.7053284?cmp=rss",
-      "title": "Calgary father arrested in Mauritius, accused of abducting son 2 years ago",
-      "published_at": "2026-01-20T09:59:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Calgary mother has been reunited with her son after police arrested the boy’s father in Mauritius, more than two years after he’s accused of abducting the then-five-year-old.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "795811b8a6243d60746295d61dbf36e978af29e9",
-      "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-roster-para-hockey-paralympics-milan-cortina-2026-9.7053217?cmp=rss",
-      "title": "Canada's Paralympic hockey roster to include 10 players from 2022 silver medal squad",
-      "published_at": "2026-01-20T09:22:40-05:00",
-      "section": "Canada",
-      "summary_auto": "Veteran forward Greg Westlake will head to his sixth Paralympic Games as Canada's Para hockey team looks for its first Olympic gold medal in 20 years at the Milan-Cortina Winter Paralympics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "44de3ce5451748c416bb9c2f39a2fe4d399e6261",
-      "url": "https://www.cbc.ca/news/canada/windsor/ontario-battery-supply-chain-sputter-electric-vehicle-storage-9.7053216?cmp=rss",
-      "title": "Ontario pins hopes on storage batteries to sustain struggling EV supply chain",
-      "published_at": "2026-01-20T09:14:36-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario's vision for an end-to-end electric vehicle supply chain, once an aggressive focus for Premier Doug Ford, has been sputtering as manufacturers delay or cancel plans, and the government is now looking to demands for batteries of a different sort to sustain it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf562b40efbb25bf504d982ba69251cf2dacb25e",
-      "url": "https://www.cbc.ca/news/entertainment/music-obit-hirst-midnight-oil-9.7053107?cmp=rss",
-      "title": "Midnight Oil drummer, co-founder Rob Hirst dead at 70",
-      "published_at": "2026-01-20T08:55:21-05:00",
-      "section": "World",
-      "summary_auto": "Australian band Midnight Oil announced on Tuesday that Rob Hirst, their powerhouse drummer and co-founding member, has died at age 70.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.944,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dab1ddeb9864cdde571dc12db39201efb1a6efc3",
-      "url": "https://www.cbc.ca/news/canada/canadian-piper-james-australia-9.7052620?cmp=rss",
-      "title": "Father of B.C. woman found dead in Australia says 'she would have fought'",
-      "published_at": "2026-01-20T08:35:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "39baacff3cc07b13d19c44099a9ad57b5e22840c",
-      "url": "https://www.cbc.ca/news/canada/hamilton/barbara-baxter-sentencing-9.7051608?cmp=rss",
-      "title": "Former Ont. art teacher, 88, sentenced to over 5 years in prison for 1980s sexual assaults",
-      "published_at": "2026-01-20T08:33:09-05:00",
-      "section": "Canada",
-      "summary_auto": "A former elementary school teacher from Burlington, Ont., has been sentenced for sexually assaulting seven male students in the 1980s. Court heard victim impact statements at the hearing for the 88-year-old.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "af64a89ccde8edb5877a02389c4920ccc0c14710",
-      "url": "https://www.cbc.ca/news/world/syria-kurdish-forces-sdf-united-states-9.7053060?cmp=rss",
-      "title": "Syria gives Kurdish-led forces 4 days to accept integration as U.S. signals end of support",
-      "published_at": "2026-01-20T08:07:32-05:00",
-      "section": "World",
-      "summary_auto": "Syria on Tuesday announced a ceasefire with Kurdish forces it has seized swathes of territory from in the northeast and gave them four days to agree on integrating into the central state, which their main ally, the United States, urged them to accept.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.904,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0953a4e7c1caf3fc7acb141d83087236382b756d",
-      "url": "https://www.cbc.ca/news/world/trump-greenland-europe-right-9.7052755?cmp=rss",
-      "title": "Europe's far-right parties, often praised by Trump administration, push back on Greenland",
-      "published_at": "2026-01-20T07:52:20-05:00",
-      "section": "World",
-      "summary_auto": "It wasn't too long ago that Donald Trump's administration hailed the \"growing influence of patriotic European parties,\" but many of those party leaders have taken exception to his aggressive bid to seize control of Greenland for the United States.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.899,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4bf05cde3185c04e144b0c32864b276996f09b63",
-      "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-cryptosporidium-9.7053056?cmp=rss",
-      "title": "19 people from Kashechewan First Nation test positive for parasite amid evacuations over water crisis",
-      "published_at": "2026-01-20T07:49:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Officials in Kashechewan First Nation confirm 19 people from the community in northern Ontario have tested positive for the parasite cryptosporidium, which causes gastrointestinal issues. While hundreds have been evacuated from the Cree First Nation after its water treatment plant failed, Indigenous Services Canada says the source of the parasite remains unknown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "257d82cd26315a3de6f0a89b355a7977d3f6cd02",
-      "url": "https://www.cbc.ca/news/world/trump-macron-tariffs-board-of-peace-9.7052886?cmp=rss",
-      "title": "Trump threatens 200% tariffs on French wines to get Macron on 'Board of Peace'",
-      "published_at": "2026-01-20T07:27:27-05:00",
-      "section": "World",
-      "summary_auto": "French President Emmanuel Macron said Europe would not give in to bullies or be intimidated in a scathing criticism of U.S. President Donald Trump's threat to impose steep tariffs if Europe does not let him take over Greenland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6d61564a03d6a4a5badd7c1dc7323659ced332ef",
-      "url": "https://www.cbc.ca/news/science/antarctica-penguin-breeding-9.7052475?cmp=rss",
-      "title": "Penguins break records by moving breeding season in warming climate",
-      "published_at": "2026-01-20T07:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Penguins in Antarctica are changing their breeding habits at record speed to survive rising temperatures from climate change, a decade-long study has found.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c6537649981c52e928940e8ae4028a7b4469b523",
-      "url": "https://www.cbc.ca/news/science/photos/in-photos-solar-flare-brings-northern-lights-display-9.7052566?cmp=rss",
-      "title": "IN PHOTOS | Solar flare brings northern lights display",
-      "published_at": "2026-01-20T06:58:43-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "A solar storm brought colourful northern lights — a.k.a. aurora borealis — across Canada, the United States and parts of Europe Monday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9aeab7d1a0d68798c30b4e5242aa9d1faab2a6a5",
-      "url": "https://www.cbc.ca/news/business/wall-street-stocks-trump-tariffs-nato-jan-20-9.7052595?cmp=rss",
-      "title": "Stock markets plunge after Trump threatens some NATO members with tariffs over Greenland",
-      "published_at": "2026-01-20T05:35:01-05:00",
-      "section": "World",
-      "summary_auto": "Stocks sank in afternoon trading on Wall Street Tuesday after President Donald Trump threatened to hit eight NATO members with new tariffs as tensions escalate over his attempts to assert American control over Greenland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d57ba2f64c6e058a0a86fba0087778793f45f992",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/brad-gushue-montanas-brier-9.7052614?cmp=rss",
-      "title": "Want tickets for Brad Gushue's last Brier on home ice? Act fast, says tournament vice-chair",
-      "published_at": "2026-01-20T05:33:32-05:00",
-      "section": "Canada",
-      "summary_auto": "The last full batch of tickets went on sale Tuesday at noon, with fans eager to snap them up in a hurry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ef5d33f870af6b4996ac3c13640cff8d41e97c55",
-      "url": "https://www.cbc.ca/news/canada/sudbury/sault-ste-marie-border-crossing-trump-9.7051463?cmp=rss",
-      "title": "'It'll get figured out': Michigan border town missing Canadian customers 1 year into Trump 2.0",
-      "published_at": "2026-01-20T05:27:38-05:00",
-      "section": "Canada",
-      "summary_auto": "Talk of annexing Canada and steel tariffs that led to 1,000 layoff notices at Sault Ontario's largest employer saw Canadian crossings drop by almost 25 per cent in the last year, but Sault Michigan businesses say Canadian customers are slowly coming back.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.285,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "632c6eeffbcbab90e925051d02aae1d3824a00bd",
-      "url": "https://www.cbc.ca/news/politics/katy-perry-justin-trudeau-davos-soft-power-9.7052559?cmp=rss",
-      "title": "Katy Perry joins Trudeau in Davos to support former PM's speech on value of 'soft power'",
-      "published_at": "2026-01-20T04:49:52-05:00",
-      "section": "World",
-      "summary_auto": "Former prime minister Justin Trudeau and international pop star Katy Perry took their relationship to the next level, appearing together at the World Economic Forum in Davos, Switzerland, on Tuesday, where Trudeau delivered a speech to the world's elite on the virtues of soft power.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "48e150d7e5cf8129de709a87b5494e4e181f9c3c",
-      "url": "https://www.cbc.ca/news/world/israel-unrwa-building-demolition-9.7052467?cmp=rss",
-      "title": "UN condemns Israel's 'unprecedented' demolition of its Palestinian aid agency building in East Jerusalem",
-      "published_at": "2026-01-20T03:24:22-05:00",
-      "section": "World",
-      "summary_auto": "Israel demolished structures inside the UN Palestinian refugee agency's East Jerusalem compound ​on Tuesday after seizing the site last year, in an act condemned by the agency as a violation of international law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "345f05919ee80843576824d8008f0b4ead92fac2",
-      "url": "https://www.cbc.ca/news/politics/canada-gaza-board-of-peace-carney-9.7052479?cmp=rss",
-      "title": "Finance minister says Canada will not pay $1B US if it joins Trump's 'Board of Peace'",
-      "published_at": "2026-01-20T03:10:02-05:00",
-      "section": "World",
-      "summary_auto": "Finance Minister François-Philippe Champagne said on Tuesday that Ottawa does not plan to pay the $1-billion US price tag for a permanent seat on U.S. President Donald Trump's \"Board of Peace,\" that will oversee the governance and reconstruction of Gaza.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.869,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f319714dccd8080b7826ae1b1713aa52f623b3c7",
-      "url": "https://www.cbc.ca/news/canada/windsor/quebec-crown-royal-whisky-doug-ford-upcoming-ban-9.7052472?cmp=rss",
-      "title": "Quebec latest province to take shot at Ontario premier’s upcoming Crown Royal whisky ban",
-      "published_at": "2026-01-20T02:33:57-05:00",
-      "section": "Canada",
-      "summary_auto": "Quebec Finance Minister Eric Girard says he has shared his concerns with his Ontario counterpart and says given trade tensions with the U-S, now is not the time for measures that weaken Canadian supply chains.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "982dc8689056c05204fde7507e72362a92042f60",
-      "url": "https://www.cbc.ca/news/world/greenland-europe-reaction-trump-tariffs-threat-9.7052436?cmp=rss",
-      "title": "EU chief promises 'unflinching' response to new tariffs as Trump trolls and threatens on social media",
-      "published_at": "2026-01-20T02:09:26-05:00",
-      "section": "World",
-      "summary_auto": "European Commission President ​Ursula von der Leyen said ​on Tuesday the EU shared concerns with the United States about Arctic security, but if President Donald Trump followed through with new tariffs based on a dispute over Greenland, the alliance's response would be \"unflinching\" and \"united.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.535,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "22f0ed2edd442e42eafec27ab4d839223ddcd983",
-      "url": "https://www.cbc.ca/news/world/arctic-military-greenland-canada-9.7051649?cmp=rss",
-      "title": "How many military bases are there in the Arctic? Here are the facts",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "A vast portion of Arctic lands belong to Canada, but its military presence there is small compared to other countries, especially Russia and Norway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "618902505500ece8f3c989e6f24d92721b526323",
-      "url": "https://www.cbc.ca/news/world/uk-palestine-action-israel-protest-9.7050402?cmp=rss",
-      "title": "Britain calls some anti-Israel protests a form of terrorism. Is it state overreach?",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "A trio of British hunger strikers is taking food again last week, after claiming victory in a standoff with the U.K. government over the group Palestine Action. The activist group, best known for vandalizing British companies associated with Israel, has been proscribed as a terrorist organization by the government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3178c115929bb0502553e4cc4c0b0c74892577ac",
-      "url": "https://www.cbc.ca/news/world/ryan-wedding-ai-images-instagram-9.7051847?cmp=rss",
-      "title": "No, accused drug lord Ryan Wedding isn’t posting pics on Instagram while fleeing the FBI",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Tens of thousands of Instagram users appear to have been duped by an account purporting to belong to Canadian fugitive Ryan Wedding. Instead, a CBC News analysis finds the page features content generated by AI, including images showing a helicopter, a statuette of Wedding and an autographed motorbike.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2862c8b3357bffed05c5439dfefd772c258abc1e",
-      "url": "https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611?cmp=rss",
-      "title": "As AI moves into the physical world, is Canada missing the boat on robotics?",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.452,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "87ce94ccf51c928c5c861a0c6cc189b860bb99c0",
-      "url": "https://www.cbc.ca/radio/thecurrent/misdiagnosis-autoimmune-encephalitis-9.7048345?cmp=rss",
-      "title": "This woman was misdiagnosed with bipolar disorder. It turns out she has a rare autoimmune disease instead",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "A relatively new class of autoimmune diseases that affect the brain is making psychiatrists rethink some diagnoses.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6544c0521a5a0f00af430db2cddaf85af8d6fc3e",
-      "url": "https://www.cbc.ca/news/canada/montreal/public-health-screen-time-montreal-study-9.7051643?cmp=rss",
-      "title": "Montreal adults spending more of their free time on screens, public health finds",
-      "published_at": "2026-01-19T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "A new study released on Tuesday shows the proportion of individuals who use their screens more than two hours a day for leisure activities increased by 13 per cent between 2018 and 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.687,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "37d811ca805e898d49dd4a3da152e189c2c7c0f1",
-      "url": "https://www.cbc.ca/player/play/9.7052420?cmp=rss",
-      "title": "How technology keeps transportation moving through thick fog",
-      "published_at": "2026-01-19T20:43:16-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "While dense fog continues blanketed parts of the Lower Mainland to start the week, sea and air transportation pressed on. As Troy Charles finds out, a combination of old and new technology is helping crews navigate the low visibility.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
         "subjectivity_hint": "low"
       }
     }
