@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-24T09:14:29.509783-05:00",
+  "generated_at": "2026-01-24T15:16:20.097192-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "f7167cc649f97037e6d7b9c60d50cf069604e5ea",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hydro-power-jan-24-9.7059559?cmp=rss",
+      "title": "'Prepare for rotating outages’: N.L. Hydro warns of possible power emergency",
+      "published_at": "2026-01-24T04:40:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The \"tightest pinch\" on the system will start Saturday evening, after a power warning was issued because of issues with ice at the generating plant in Bay d'Espoir.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b69d0093f05df2cce60fe334125d51aec74e1c2e",
+      "url": "https://www.cbc.ca/news/entertainment/oscar-best-picture-nominees-how-to-watch-canada-9.7059357?cmp=rss",
+      "title": "Hibernating from the Canadian cold? Here's how to watch this year's Oscar-nominated films",
+      "published_at": "2026-01-24T04:29:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Here's a guide to the films up for an Academy Award for best picture this year, and how you can watch them in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dc0c32f18fa764ed1339cfee6d6af69df787363f",
+      "url": "https://www.cbc.ca/news/world/lantern-festival-scroller-9.7058595?cmp=rss",
+      "title": "Mulan, mythical beings dazzle at annual Chinese lantern festival",
+      "published_at": "2026-01-24T04:14:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Visitors take in the dazzling lanterns at night, with more than 200 handmade lanterns featuring animals, mythological beings and scenes from Chinese culture, at the 32nd Zigong International Lantern Festival on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "d0ce8a1b533f63337dc0040c36363e6942c5ce16",
       "url": "https://www.cbc.ca/news/world/indonesia-landslide-9.7059461?cmp=rss",
@@ -61,10 +100,23 @@
       "title": "Thousands of flights cancelled across U.S. as major winter storm hits",
       "published_at": "2026-01-24T03:04:02-05:00",
       "section": "World",
-      "summary_auto": "The National Weather Service forecast warns of widespread heavy snow and a band of catastrophic ice stretching from east Texas to North Carolina.",
+      "summary_auto": "The U.S. National Weather Service forecast warns of widespread heavy snow and a band of catastrophic ice stretching from east Texas to North Carolina.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ab135ef7f78bb2a48c31e1789662bfc432fef243",
+      "url": "https://www.cbc.ca/news/canada/calgary/infrastructure-underwater-woes-city-hall-9.7052884?cmp=rss",
+      "title": "More than water: Calgary infrastructure woes putting pressure on city hall",
+      "published_at": "2026-01-24T03:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As two catastrophic Bearspaw water main breaks put more pressure on updating Calgary's water system, some city hall watchers are raising alarm over other municipal responsibilities that are aging and in need of more money.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.904,
         "subjectivity_hint": "low"
       }
     },
@@ -104,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.494,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "854971a019b7156c882c71f65ce2fcd143e2193d",
+      "url": "https://www.cbc.ca/news/health/creatine-menopause-second-opinion-9.7058231?cmp=rss",
+      "title": "Does creatine work for menopausal symptoms? Doctors weigh in",
+      "published_at": "2026-01-23T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "What the medical literature suggests on who and what might benefit from creatine supplementation and what's less clear.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.692,
         "subjectivity_hint": "medium"
       }
     },
@@ -173,19 +238,6 @@
       }
     },
     {
-      "id": "854971a019b7156c882c71f65ce2fcd143e2193d",
-      "url": "https://www.cbc.ca/news/health/creatine-menopause-second-opinion-9.7058231?cmp=rss",
-      "title": "Does creatine work for menopausal symptoms? Doctors weigh in",
-      "published_at": "2026-01-23T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "What the medical literature suggests on who and what might benefit from creatine supplementation and what's less clear.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.692,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "28f819c592a4cc2915ae400d46edbe7aa5781a15",
       "url": "https://www.cbc.ca/news/entertainment/honnold-taipei-skyscraper-climb-delayed-9.7059391?cmp=rss",
       "title": "Rainy weather delays Alex Honnold's Taipei 101 skyscraper climb by 24 hours",
@@ -199,19 +251,6 @@
       }
     },
     {
-      "id": "81d7a9250feee7c13f0fba5708b934dcb085914f",
-      "url": "https://www.cbc.ca/news/canada/canada-cold-weather-9.7058988?cmp=rss",
-      "title": "From Alberta to the Atlantic provinces, Canada faces a wind-chilled deep freeze this weekend",
-      "published_at": "2026-01-23T16:55:34-05:00",
-      "section": "Canada",
-      "summary_auto": "Much of Canada is grappling with extreme cold heading into the weekend. Here's a breakdown of the conditions in your region, and some tips for dealing with the deep freeze.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "462d6d2945dfea53d22382ce65e4df6f9c9275fa",
       "url": "https://www.cbc.ca/news/canada/trump-nato-afghanistan-veterans-9.7058568?cmp=rss",
       "title": "'Awful, despicable': Canadian veterans slam Trump's comments about NATO troops",
@@ -221,136 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3d26160f0a7faa927f3ec0502e2dd22fb6ef1cb4",
-      "url": "https://www.cbc.ca/news/world/could-ryan-wedding-become-fbi-informant-9.7059068?cmp=rss",
-      "title": "After allegedly killing a ‘rat,’ could Ryan Wedding turn FBI informant himself?",
-      "published_at": "2026-01-23T15:09:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As an alleged cocaine kingpin, Ryan Wedding is accused of ordering the murders of rival drug traffickers and an FBI witness he considered a “rat.” Could Wedding, who was arrested Friday after a decade on the run, now be the one to spill what he knows about the drug cartels he worked with?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.933,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "18bd84d7876583a85d5a77530fd08e9f5e2ad596",
-      "url": "https://www.cbc.ca/news/health/pigs-crispr-gene-editing-9.7059040?cmp=rss",
-      "title": "Gene-edited pigs deemed safe to eat by Health Canada",
-      "published_at": "2026-01-23T13:55:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Food made from pigs engineered to be resistant to a porcine virus are as safe and nutritious to eat as pork currently on the market, Health Canada said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35df687cd41a0910096ecae2e0ff77c789cee5c3",
-      "url": "https://www.cbc.ca/news/world/us-strike-eastern-pacific-alleged-drug-boat-9.7059109?cmp=rss",
-      "title": "2 dead after U.S. strike on alleged drug boat in Eastern Pacific",
-      "published_at": "2026-01-23T13:35:13-05:00",
-      "section": "World",
-      "summary_auto": "The U.S. military said Friday that it has carried out a deadly strike on a vessel accused of trafficking drugs in the Eastern Pacific Ocean, the first known attack since the raid that captured Venezuelan President Nicolás Maduro earlier this month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0d3a7aa78002311ca759e4c0dac227d32db7104b",
-      "url": "https://www.cbc.ca/radio/quirks/bobs-blog-far-side-moon-9.7058626?cmp=rss",
-      "title": "Keeping an eye on the far side of the moon",
-      "published_at": "2026-01-23T13:30:49-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "While human missions to the moon will be facing Earth, on the other side of the moon, completely hidden from view, there will be a plethora of robots silently peering out to the edge of the universe and back to find out how it all began.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "369eb58493f89da63d51208ad5c087001b1391f0",
-      "url": "https://www.cbc.ca/news/canada/montreal/monarchy-quebec-coat-of-arms-9.7059107?cmp=rss",
-      "title": "Quebec revamps its coat of arms, removes British crown",
-      "published_at": "2026-01-23T13:26:44-05:00",
-      "section": "Canada",
-      "summary_auto": "The Quebec government announced Friday that it's removing the British crown from the province's official coat of arms, in what it described as a reaffirmation of the province's autonomy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0e2b62304139e351081a22f992983ba0f7b105e2",
-      "url": "https://www.cbc.ca/news/world/trump-board-of-peace-united-nations-9.7058836?cmp=rss",
-      "title": "Trump's 'Board of Peace' gets its legitimacy from the UN, an agency he routinely belittles",
-      "published_at": "2026-01-23T13:25:15-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ead2f7d212033a84e4d362a219c977b85afd38e",
-      "url": "https://www.cbc.ca/news/world/minneapolis-clergy-arrest-protest-9.7058754?cmp=rss",
-      "title": "Thousands of demonstrators demand ICE leave Minneapolis",
-      "published_at": "2026-01-23T12:11:20-05:00",
-      "section": "World",
-      "summary_auto": "Thousands of demonstrators braved bitter cold to march through the streets of Minneapolis on Friday and demand an end to U.S. President Donald Trump's immigration crackdown in their city, part of a wider show of defiance that organizers billed as a general strike.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be79c5335c9105b5aee189a597d06b8d78b7ec58",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-mother-stage-4-cancer-care-wait-times-risk-9.7058651?cmp=rss",
-      "title": "B.C. mom with Stage 4 cancer says months-long wait to see oncologist put her at risk",
-      "published_at": "2026-01-23T11:09:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Port Moody, B.C., mother of two says she had to wait three months after being diagnosed with breast cancer to see an oncologist. She worries that wait has cost her precious time. B.C. Cancer data shows that while wait times are improving, British Columbia continues to lag behind other provinces.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b3b61b051968e4794193af46ba9c4e7cd89d3132",
-      "url": "https://www.cbc.ca/news/canada/manitoba/elston-bostock-sentencing-decision-9.7058088?cmp=rss",
-      "title": "Disgraced Winnipeg police officer sentenced to 7 years in prison 'believed he was untouchable'",
-      "published_at": "2026-01-23T10:30:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Former Winnipeg police officer Elston Bostock was sentenced to seven years in prison on Friday, after pleading guilty to a long list of crimes that include selling drugs to friends and other officers and corruption offences.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "17a1b8eb504ee6415305e9213a98e7a61f4712cb",
-      "url": "https://www.cbc.ca/news/politics/trump-nato-allies-comments-afghanistan-9.7058277?cmp=rss",
-      "title": "'You cannot rewrite history': Minister rebuffs Trump's claims about allies in Afghanistan",
-      "published_at": "2026-01-23T09:59:00-05:00",
-      "section": "World",
-      "summary_auto": "Finance Minister François-Philippe Champagne pushed back against U.S. President Donald Trump's latest comments about America's allies in Afghanistan as an attempt to rewrite the history books.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     }
