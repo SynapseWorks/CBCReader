@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-25T09:14:08.788475-05:00",
+  "generated_at": "2026-01-25T15:17:50.417809-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8cdcc2e566e784bc0d79fa2385954047b2388253",
+      "url": "https://www.cbc.ca/sports/olympics/winter/luge/canada-luge-roster-olympics-milan-cortina-9.7060274?cmp=rss",
+      "title": "Canada names Olympic roster for luge, with 5 first-time Olympians",
+      "published_at": "2026-01-25T07:33:57-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada has named its six athletes for the Olympic luge team, with five first-time Olympians set to hit the big stage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1f75d217ecd5f63762c2893b73de837dbae018ad",
+      "url": "https://www.cbc.ca/news/canada/toronto/municipal-impacts-gta-snowstorm-9.7060244?cmp=rss",
+      "title": "GTA residents urged to 'stay home' during blizzard, as snow accumulation could reach 50 cm",
+      "published_at": "2026-01-25T06:42:08-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As heavy snow falls throughout the Greater Toronto Area, here's what you need to know about the latest impacts to transit, flights and municipal services.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9faf53e5cfb3e83dba99a586dead75a2a7ae0df5",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/fournier-beaudry-discussion-sorensen-sex-assault-allegation-netflix-docuseries-9.7060139?cmp=rss",
+      "title": "Canadian figure skater Fournier Beaudry discusses Sørensen sex assault allegation in Netflix doc",
+      "published_at": "2026-01-25T05:15:27-05:00",
+      "section": "World",
+      "summary_auto": "Figure skater Laurence Fournier Beaudry broke down in tears in a new Netflix documentary as she described being caught up in the fallout after Nikolaj Sørensen, her boyfriend and former ice dance partner, was accused of sexual assault.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.926,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "99e66db01671c6a568c18b7fdc4f43e527cae711",
+      "url": "https://www.cbc.ca/news/world/us-storm-thousands-without-power-9.7060090?cmp=rss",
+      "title": "Massive winter storm across U.S. brings snow, frigid temperatures, widespread power outages",
+      "published_at": "2026-01-25T04:55:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Forecasters said snow, sleet, freezing rain and dangerously frigid temperatures would sweep the eastern two-thirds of the United States on Sunday and into the week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "460b544c748c817dacadf4a60ed14a2e9d0aa09a",
+      "url": "https://www.cbc.ca/news/world/kyiv-residents-stranded-9.7060009?cmp=rss",
+      "title": "Kyiv residents stranded in tower blocks as Russia targets power system",
+      "published_at": "2026-01-25T04:13:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Kyiv, a city of about three million people, is dominated by tower blocks, many from the Soviet era, now left without power for most of the day. In this fourth winter of war, electricity is a rationed commodity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "10fcb5c3c3f66bc95167a4ca3ba4e46c495a9c3f",
       "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-jan-25-2025-9.7056656?cmp=rss",
@@ -19,22 +84,22 @@
     {
       "id": "76eb585215a1159f31e93603716b0ae07783cc68",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/progress-made-on-downed-hydro-station-9.7060010?cmp=rss",
-      "title": "N.L. turns down the lights as progress made on downed hydro station",
+      "title": "‘Not out of the woods,’ N.L. Hydro says as station slowly restarts after being choked with ice",
       "published_at": "2026-01-25T02:51:01-05:00",
       "section": "Top Stories",
-      "summary_auto": "In the face of possible rotating power outages, residents are doing their best to conserve power as N.L. Hydro crews work to restore service at Bay d'Espoir plant choked with ice.",
+      "summary_auto": "While a power warning is still in effect for the island of Newfoundland, Newfoundland and Labrador Hydro says power at the Bay d’Espoir hydroelectric generating plant is slowly being brought back online.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.727,
+        "sentiment": -0.67,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "426fd4741e7f4e01f168037f02d4508a53adc535",
       "url": "https://www.cbc.ca/news/world/iran-revolutionary-guard-warning-9.7060004?cmp=rss",
-      "title": "As U.S. moves ships toward Iran, Revolutionary Guard commander warns his force has its ‘finger on the trigger’",
+      "title": "As U.S. ships move toward Mideast, Iranian general warns his force has ‘finger on the trigger’",
       "published_at": "2026-01-25T01:59:28-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "Nournews, a news outlet close to Iran’s Supreme National Security Council, reported on its Telegram channel that the commander, Gen. Mohammad Pakpour, warned the United States and Israel \"to avoid any miscalculation.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,6 +147,32 @@
       }
     },
     {
+      "id": "f655ede4eb929f3e54196e9fc0de734838c6226b",
+      "url": "https://www.cbc.ca/news/world/princess-charlotte-prince-harry-media-trial-king-charles-donald-trump-state-visit-9.7058325?cmp=rss",
+      "title": "Princess Charlotte showing more confidence in public appearances",
+      "published_at": "2026-01-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As Princess Charlotte steps out in public with her family, the 10-year-old daughter of the Prince and Princess of Wales is starting to show increasing signs of independence and confidence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4538529ecf732104f6a7c2d50d109a41092fc7fa",
+      "url": "https://www.cbc.ca/news/canada/first-person-why-i-took-my-son-home-9.7056883?cmp=rss",
+      "title": "When my son cried, I listened. My father never had that when he was in residential school",
+      "published_at": "2026-01-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "What started as a school drop-off turned into a deeply emotional moment for Alexander Redhead that connected to his late father’s experience in residential school — and to what it means to be an Indigenous parent trying to break cycles through love and compassion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.757,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "7db15b9c383f07c8781a721945f9509d9547291a",
       "url": "https://www.cbc.ca/news/politics/canada-trusted-traveller-program-airport-security-9.7058664?cmp=rss",
       "title": "A Canada-run alternative to Nexus? Senator calls for new airport security fast-pass",
@@ -95,15 +186,15 @@
       }
     },
     {
-      "id": "f655ede4eb929f3e54196e9fc0de734838c6226b",
-      "url": "https://www.cbc.ca/news/world/princess-charlotte-prince-harry-media-trial-king-charles-donald-trump-state-visit-9.7058325?cmp=rss",
-      "title": "Princess Charlotte showing more confidence in public appearances",
+      "id": "5bf5d086a77f3551aaaadf63c3e82ad314b0ff08",
+      "url": "https://www.cbc.ca/news/ice-recruiting-9.7058294?cmp=rss",
+      "title": "ICE nodding to far-right extremists in recruitment posts, experts say",
       "published_at": "2026-01-24T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "As Princess Charlotte steps out in public with her family, the 10-year-old daughter of the Prince and Princess of Wales is starting to show increasing signs of independence and confidence.",
+      "summary_auto": "In its efforts to rapidly boost its ranks, U.S. Immigration and Customs Enforcement has been making appeals on social media in language familiar to right-wing extremists.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.784,
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
