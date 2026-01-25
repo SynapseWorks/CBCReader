@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-24T15:16:20.097192-05:00",
+  "generated_at": "2026-01-24T20:22:53.924475-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "9844c75802548819734272605f3872578e147040",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/dfo-live-gene-banks-closing-9.7059655?cmp=rss",
+      "title": "Conservationists warn DFO facility closures could risk future of endangered salmon",
+      "published_at": "2026-01-24T07:53:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two salmon conservation organizations and an Indigenous water protector say the decision to close federal biodiversity facilities in the Maritimes could be the final nail in the coffin for an endangered salmon population.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "57949b96d2fc59a20338cc7845c30a4f9df0334b",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/world-cup-ski-cross-veysonnaz-january-24-9.7059564?cmp=rss",
+      "title": "Canadian ski cross star Reece Howden golden at World Cup event in Switzerland",
+      "published_at": "2026-01-24T05:13:46-05:00",
+      "section": "Canada",
+      "summary_auto": "A day after having a gold medal slip through his fingers, Canada's Reece Howden held on to win a World Cup ski cross big final on Saturday in Veysonnaz, Switzerland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "f7167cc649f97037e6d7b9c60d50cf069604e5ea",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hydro-power-jan-24-9.7059559?cmp=rss",
@@ -73,7 +99,7 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-attacks-peace-talks-9.7059485?cmp=rss",
       "title": "Latest Russian attacks on Ukraine kill 1 and wound 31 people amid U.S.-led peace talks",
       "published_at": "2026-01-24T03:16:26-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Russian attacks on Ukraine killed at least one person and wounded 31 overnight into Saturday as negotiators from Ukraine, Russia and the United States were to meet in the United Arab Emirates for a second day of talks to end Russia's nearly four-year full-scale invasion.",
       "bias_heuristic": {
         "article_type": "News",
@@ -97,13 +123,13 @@
     {
       "id": "e6c34c26a62611f52fd9d34c6623a37f7613caff",
       "url": "https://www.cbc.ca/news/world/us-winter-storm-flights-cancelled-9.7059474?cmp=rss",
-      "title": "Thousands of flights cancelled across U.S. as major winter storm hits",
+      "title": "Winter storm snarls traffic, upends air travel across the U.S.",
       "published_at": "2026-01-24T03:04:02-05:00",
       "section": "World",
       "summary_auto": "The U.S. National Weather Service forecast warns of widespread heavy snow and a band of catastrophic ice stretching from east Texas to North Carolina.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.681,
+        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     },
@@ -138,7 +164,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-ww-ii-site-will-be-restored-9.7058232?cmp=rss",
       "title": "Once at risk of demolition, this Ontario WW II site will now be restored",
       "published_at": "2026-01-24T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A historic Second World War site in Bowmanville, Ont., is now safe from demolition, but the cost and responsibility of restoring it is now on the shoulders of the non-profit organization that’s fought to save it for months.",
       "bias_heuristic": {
         "article_type": "News",
@@ -235,32 +261,6 @@
         "article_type": "News",
         "sentiment": 0.353,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "28f819c592a4cc2915ae400d46edbe7aa5781a15",
-      "url": "https://www.cbc.ca/news/entertainment/honnold-taipei-skyscraper-climb-delayed-9.7059391?cmp=rss",
-      "title": "Rainy weather delays Alex Honnold's Taipei 101 skyscraper climb by 24 hours",
-      "published_at": "2026-01-23T16:55:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Organizers delayed professional rock climber Alex Honnold's ropeless ascent of the Taipei 101 skyscraper for 24 hours due to weather, they said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "462d6d2945dfea53d22382ce65e4df6f9c9275fa",
-      "url": "https://www.cbc.ca/news/canada/trump-nato-afghanistan-veterans-9.7058568?cmp=rss",
-      "title": "'Awful, despicable': Canadian veterans slam Trump's comments about NATO troops",
-      "published_at": "2026-01-23T16:05:31-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian veterans of the war in Afghanistan were outraged over comments by U.S. President Donald Trump, who minimized the contributions of NATO forces, claiming they stayed away from the front lines.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
-        "subjectivity_hint": "low"
       }
     }
   ]
