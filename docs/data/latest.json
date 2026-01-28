@@ -1,18 +1,278 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-27T20:16:50.531777-05:00",
+  "generated_at": "2026-01-28T09:24:11.547997-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "fb07ba94a8878be14123fdc12eee1a14cd5b3a35",
-      "url": "https://www.cbc.ca/news/canada/gerber-arrowroot-nestle-canada-recall-9.7064131?cmp=rss",
-      "title": "Gerber Arrowroot biscuits recalled due to possible presence of plastic and paper",
-      "published_at": "2026-01-27T15:00:35-05:00",
+      "id": "345879e35263372471f5a77b6f49b941a5fcf233",
+      "url": "https://www.cbc.ca/news/canada/ottawa/cole-misner-ottawa-crash-victim-police-siu-9.7063822?cmp=rss",
+      "title": "'We were supposed to grow old together': Fiancée mourns man found day after crash",
+      "published_at": "2026-01-28T03:26:26-05:00",
+      "section": "Canada",
+      "summary_auto": "The fiancée of a man who was found dead in the snow after a crash last week in Ottawa is remembering him as a devoted father who worked long hours and came so near to seeing his family again.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.886,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "78cefadaf012e53aca5fe9f7ad33f5c53672a4e0",
+      "url": "https://www.cbc.ca/news/business/amazon-prematurely-alerts-layoffs-canada-us-9.7064378?cmp=rss",
+      "title": "Amazon employees in Canada told about layoffs through premature internal email",
+      "published_at": "2026-01-28T03:17:28-05:00",
       "section": "Top Stories",
-      "summary_auto": "Nestlé Canada is recalling some of its Gerber Arrowroot biscuits because of the possible presence of soft plastic and/or paper pieces.",
+      "summary_auto": "Amazon on Tuesday appeared to have prematurely alerted Amazon Web Services cloud-computing employees to layoffs planned for Wednesday morning by sending a commiseration email and team-wide meeting invitation hours early.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "50480c1f47508a62bd01cbfdc2753c04529a4d07",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-maid-compromise-policy-court-hears-9.7064004?cmp=rss",
+      "title": "B.C. government struck compromise with assisted dying policy, court hears",
+      "published_at": "2026-01-28T03:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Current and former Ministry of Health officials took the stand this week to describe the origins of the province’s medical assistance in dying policy, which is at the centre of this case. The policy allows publicly-funded, faith-based health-care providers to opt out of providing MAID in their facilities. It also requires them to work with health authorities to ensure an efficient transfer of care in these cases and to facilitate requests for information about MAID.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2a14e45b7082f77c87b513cf6cb26d872c4a3172",
+      "url": "https://www.cbc.ca/news/world/south-korean-wife-former-president-sentenced-bribery-9.7064329?cmp=rss",
+      "title": "Wife of former South Korean president sentenced to 20 months for bribery",
+      "published_at": "2026-01-28T02:07:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A South Korean court sentenced former first lady Kim Keon Hee on Wednesday to one year and eight months in jail after finding her guilty of accepting Chanel bags and a diamond pendant from Unification Church officials in return for political favours.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c66bb4a8215fa61249146cdbaaa317c28d28b0d9",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-population-bc-9.7064091?cmp=rss",
+      "title": "Alberta’s population could surpass British Columbia’s as early as 2038: StatsCan",
+      "published_at": "2026-01-28T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Alberta could overtake British Columbia as Canada's third most populated province in just over a decade, according to new projections released by Statistics Canada.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "17140eb94b3cf132f4e18e25033aa229c80d2452",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/ndp-atrick-bundrock-hiring-9.7064099?cmp=rss",
+      "title": "NDP criticizes government hiring of former Sask. Party executive director",
+      "published_at": "2026-01-28T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Saskatchewan NDP is criticizing the hiring of Patrick Bundrock, the Saskatchewan Party's former executive director, for a new $198,000 a year job with the province's executive council.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7b7ece9f093301d617153f6a6aaa91859f2fe0c9",
+      "url": "https://www.cbc.ca/news/canada/toronto/earthquake-ontario-3-7-magnitude-9.7064318?cmp=rss",
+      "title": "Magnitude 3.7 earthquake rattles southern and central Ontario",
+      "published_at": "2026-01-28T00:29:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 3.7 magnitude earthquake rumbled through parts of central and southern Ontario Tuesday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "249d29a9428ec99b20e10a0eb20a3a25b1bfd0a8",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/portapique-mass-shooting-rcmp-response-9.7062626?cmp=rss",
+      "title": "Federal report examines gaps in RCMP response to N.S. mass shooting",
+      "published_at": "2026-01-28T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A workplace incident report investigated the 2020 mass shooting in Nova Scotia which left RCMP Const. Heidi Stevenson and 21 others dead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7020c2997e6789e78fb44d39f2702f628cfc89bd",
+      "url": "https://www.cbc.ca/news/health/radon-home-mitigation-9.7063662?cmp=rss",
+      "title": "Millions of Canadian homes have high levels of cancer-causing radon. Is yours one of them?",
+      "published_at": "2026-01-27T23:01:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5212c8a1a1aa070cdfdc9392a5acb0470908b70f",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-snowbirds-choose-mexico-9.7063503?cmp=rss",
+      "title": "These Ontario snowbirds are ditching the U.S. and wintering in Mexico",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some Ontario residents who typically spend their winters in the U.S. say they’ve recently opted to buy property in Mexico instead. The shift comes as some snowbirds grow uneasy about the political climate under U.S. President Donald Trump.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b7f04b8f47e0bae8baaf285851448be8fac24972",
+      "url": "https://www.cbc.ca/news/world/ukraine-david-rauser-donetsk-9.7063338?cmp=rss",
+      "title": "This Albertan signed up to fight in Ukraine. He was nearly killed by friendly fire",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "David Rauser spoke to CBC News from western Ukraine after being accidentally shot in the head by a member of his team in Donetsk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cba75028da632119909f1df02a666fce25ab82e0",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/5-caf-members-quit-women-veterans-council-9.7063953?cmp=rss",
+      "title": "5 CAF members quit Women Veterans Council, citing lack of 'real outcomes'",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Five Canadian Armed Forces members of the Women Veterans Council have quit over what they say is a failure of “institutional conditions needed to enable meaningful, impactful work.”",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3c907e86de76119e429c1dc70c7af4180943806a",
+      "url": "https://www.cbc.ca/news/investigates/genetic-genealogy-police-ban-9.7061393?cmp=rss",
+      "title": "Why solving cold case killings just got much harder for police",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Police cold-case units face a new challenge in solving decades-old killings. With the world's largest storehouse of genealogy information, Ancestry.com, now banning law enforcement from using its data without obtaining a court order, it is much harder for police to build family trees based on crime-scene DNA and zone in on suspects via their distant relatives.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f3f5e0ba4a0edde7652fc67c6bae4d01953fd7fa",
+      "url": "https://www.cbc.ca/news/canada/hamilton/brantford-assault-weapon-buyback-9.7063274?cmp=rss",
+      "title": "Brantford, Ont., police won’t collect assault weapons for federal gun buyback program",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Brantford Police Service says it won’t participate in collecting assault weapons from the public as part of the federal government’s gun buyback program.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0278ad2ea1f584e6387afb228e1510eba8985d4f",
+      "url": "https://www.cbc.ca/news/politics/ndp-leadership-race-membership-deadline-9.7063896?cmp=rss",
+      "title": "How are the NDP leadership hopefuls different? Contrasts emerge as they hit membership deadline",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "In a leadership race where candidates have largely been in agreement, candidates are beginning to show New Democrats what sets them apart.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3391d57d1ed77e7e992bfdeb09ecc9da508fca46",
+      "url": "https://www.cbc.ca/news/health/gen-care-black-genome-9.7063779?cmp=rss",
+      "title": "Why do 3 major diseases disproportionately impact Black Canadians? New genome project aims to find out",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Researchers in Ontario, Quebec and Nova Scotia are launching a project to map more than 10,000 genomes from Black Canadians with Type 2 diabetes, high blood pressure and an aggressive form of breast cancer. Project leaders hope their findings eventually help target treatment and preventive care and contribute to better health outcomes for racialized patients.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0e913072b11d7f7576bc7d648c1910c79a5a7942",
+      "url": "https://www.cbc.ca/news/world/first-person-health-care-worker-in-minneapolis-9.7063627?cmp=rss",
+      "title": "I used to focus on my patients' health. Now with ICE, I worry about their safety",
+      "published_at": "2026-01-27T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Justin Ho is a Canadian studying dentistry in Minneapolis. He was taught to treat a patient regardless of who they are. After recent events in the U.S., he's realized that health care cannot be disentangled from the politics of the day.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "3f457451abf50a0a0dcf8ebbf5e3a4d28fecfdd6",
+      "url": "https://www.cbc.ca/news/world/ilhan-omar-minneapolis-sprayed-town-hall-9.7064218?cmp=rss",
+      "title": "Man sprays U.S. lawmaker Ilhan Omar with unknown substance at town hall",
+      "published_at": "2026-01-27T16:03:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A man sprayed an unknown substance on Democratic U.S. Rep. Ilhan Omar and was tackled to the ground Tuesday during a town hall in Minneapolis, where tensions over federal immigration enforcement have come to a head after agents fatally shot an intensive care nurse and a mother of three this month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef082612a079f1f2145095620336588ea0493336",
+      "url": "https://www.cbc.ca/news/world/alex-pretti-shooting-two-federal-agents-shot-9.7064190?cmp=rss",
+      "title": "2 federal agents fired shots when Alex Pretti was killed in Minneapolis: U.S. official",
+      "published_at": "2026-01-27T15:32:14-05:00",
+      "section": "World",
+      "summary_auto": "Two federal officers fired shots during the encounter that killed ICU nurse Alex Pretti in Minneapolis, a U.S. Customs and Border Protection official told Congress in a notice sent Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8339a97d03e52906a8bcbb653829c78629cf347e",
+      "url": "https://www.cbc.ca/news/world/minneapolis-ice-minnesota-immigration-trump-9.7064077?cmp=rss",
+      "title": "What Minnesotans are saying about Trump's immigration crackdown",
+      "published_at": "2026-01-27T15:20:39-05:00",
+      "section": "World",
+      "summary_auto": "For days, the people of Minneapolis have been expressing outrage over the shooting death of Alex Pretti at the hands of federal agents. Here's how some of them are reacting to the shooting, as well as what they say about U.S. President Donald Trump's move to send more than 2,000 Immigration Customs and Enforcement officers to Minnesota.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6d4c238a32b79cdfa5b4242ae53be2eb6b4e41a2",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-man-pornhub-without-consent-jail-time-9.7064065?cmp=rss",
+      "title": "B.C. man gets 5 months in jail over videos, images posted to Pornhub without consent",
+      "published_at": "2026-01-27T15:02:34-05:00",
+      "section": "Canada",
+      "summary_auto": "Judge sentenced the man to five months in custody and 18 months probation, finding the \"pre-meditated and revenge motivated nature of the acts\" he committed placed it in a more \"egregious category\" than other cases.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.028,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +307,7 @@
       "url": "https://www.cbc.ca/player/play/9.7063979?cmp=rss",
       "title": "Fact check: Is the U.S. now controlling what’s posted on TikTok?",
       "published_at": "2026-01-27T12:58:43-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "After a deal was reached to keep TikTok operating in the U.S., some users accused the app of censoring their posts. CBC’s fact-check team breaks down the facts about the deal.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/behiels-eps-dismissed-9.7063895?cmp=rss",
       "title": "Suspended Edmonton detective should be dismissed for leaking files to CBC: tribunal",
       "published_at": "2026-01-27T12:49:14-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A suspended detective should be formally dismissed from the Edmonton Police Service for leaking confidential investigative police files to CBC News, says a police disciplinary tribunal.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,11 +346,24 @@
       "url": "https://www.cbc.ca/news/world/minnesota-5-year-old-boy-detained-9.7063885?cmp=rss",
       "title": "Judge temporarily bars removal of boy, 5, and father detained by immigration agents in Minnesota",
       "published_at": "2026-01-27T12:33:02-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A federal judge has issued a temporary order prohibiting removal of a five-year-old Ecuadorian boy and his father whose arrest last week in Minnesota quickly become another lightning rod for America's divisions on immigration under the Trump administration.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24b13946827bf55dea0998b70da908bef1d8e097",
+      "url": "https://www.cbc.ca/radio/asithappens/cma-doctor-paperwork-report-9.7063539?cmp=rss",
+      "title": "Canadian doctors say they’re losing 20 million hours a year to unnecessary paperwork",
+      "published_at": "2026-01-27T11:52:58-05:00",
+      "section": "Canada",
+      "summary_auto": "Doctors in Canada each spend, on average, nine hours per week on administrative tasks, totaling 42.7 million hours annually across the country, according to a new report from the Canadian Medical Association and the Canadian Federation of Independent Business.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
         "subjectivity_hint": "low"
       }
     },
@@ -112,7 +385,7 @@
       "url": "https://www.cbc.ca/news/entertainment/neil-young-catalogue-greenland-9.7063641?cmp=rss",
       "title": "Neil Young gifts Greenland free access to music catalogue",
       "published_at": "2026-01-27T10:56:53-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Neil Young announced Tuesday on his blog that he is providing free access to his entire music catalogue to residents of Denmark's semiautonomous territory, whose futures have lately become a point of tension between the U.S. and NATO.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,24 +407,11 @@
       }
     },
     {
-      "id": "14f4e55f7b55659ebc95274f618c7828bf0aaa6f",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/coal-fired-plants-paris-accord-saskpower-9.7063554?cmp=rss",
-      "title": "Court strikes down challenge of Sask.'s decision to extend life of 3 coal-fired power plants",
-      "published_at": "2026-01-27T10:29:44-05:00",
-      "section": "Canada",
-      "summary_auto": "A group of environmentalists has lost their legal challenge to the Saskatchewan government’s decision to extend the life of three coal-fired power plants to 2050.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "77809e18c0ed40b2648a9f3f13fc552a80ef5f2f",
       "url": "https://www.cbc.ca/news/canada/toronto/lawyer-claims-drps-assaulted-her-in-oshawa-courthouse-9.7063334?cmp=rss",
       "title": "Ont. lawyer alleges Durham Region police violently assaulted her, dragged her to courthouse cells",
       "published_at": "2026-01-27T10:17:09-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A lawyer says she was left bloody and swollen after multiple Durham regional police officers allegedly slammed her head on a desk without provocation, ripped off her head scarf and dragged her to the basement cells of the Oshawa courthouse last week.",
       "bias_heuristic": {
         "article_type": "News",
@@ -170,383 +430,6 @@
         "article_type": "News",
         "sentiment": -0.66,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "63d89b79293cd29e92cb2af2b694bb8a9970117e",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-snowplow-naming-contest-2026-9.7063143?cmp=rss",
-      "title": "Hellebuycket, Winnie the Plow and Greg among winners of Winnipeg's 1st snowplow naming contest",
-      "published_at": "2026-01-27T08:54:16-05:00",
-      "section": "Canada",
-      "summary_auto": "Winnipeg's snowplows have been given new names chosen by thousands of voters in the city's first-ever naming contest for the equipment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad5fe1c88bd87cc4be5e7c5839d2359b8005af3a",
-      "url": "https://www.cbc.ca/news/world/gaza-israeli-journalists-9.7062255?cmp=rss",
-      "title": "'I'm afraid to go out and film': Journalists in Gaza fear they are being targeted by Israel",
-      "published_at": "2026-01-27T08:53:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Three freelance photojournalists in Gaza were killed in an Israeli airstrike last week, the latest in a long list of Palestinian reporters who have died in the war in Gaza. Some fear it's a sign that Israel views them as a legitimate target despite the recent ceasefire it reached with Hamas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.95,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0a13c0371b8506da0e300c4b8904cc988572f6e5",
-      "url": "https://www.cbc.ca/news/world/southern-states-icy-power-outages-9.7063283?cmp=rss",
-      "title": "At least 35 dead after winter storm hits U.S., with more Arctic air expected for southern states",
-      "published_at": "2026-01-27T08:47:28-05:00",
-      "section": "Top Stories",
-      "summary_auto": "At least 35 deaths have been reported in states afflicted with severe cold across the U.S., according to local officials.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e06303e913be096f2ccde1e92b93f0c3400b48f3",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/heated-rivalry-guelph-hockey-player-gryphon-hudson-williams-body-double-9.7063189?cmp=rss",
-      "title": "Heated Rivalry body double is Ontario university student who says skating for Hudson Williams was 'surreal'",
-      "published_at": "2026-01-27T08:38:56-05:00",
-      "section": "Canada",
-      "summary_auto": "Jonah De Simone, a former University of Guelph Gryphon right winger and onetime Ontario Hockey League player, now has a film credit for his work as a body double in the hit hockey drama Heated Rivalry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d141aae3d0c6d421f2f5231a7bfc13ace56e4a2e",
-      "url": "https://www.cbc.ca/news/business/tiktok-settles-landmark-social-media-trial-youth-addiction-9.7063272?cmp=rss",
-      "title": "TikTok settles landmark lawsuit over youth addiction claims",
-      "published_at": "2026-01-27T08:31:32-05:00",
-      "section": "World",
-      "summary_auto": "TikTok agreed to settle a landmark social media addiction lawsuit just before the trial kicked off, the plaintiff's attorneys confirmed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b59ebda26e4e5538da2d199d27cb406387a57df1",
-      "url": "https://www.cbc.ca/news/canada/montreal/liam-toman-tremblant-missing-one-year-9.7063309?cmp=rss",
-      "title": "A year after young man's disappearance, police set up command post at Quebec ski resort",
-      "published_at": "2026-01-27T08:26:37-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Sûreté du Québec will set up a command post at the ski resort this Saturday, stationed beside the hotel where Liam Toman was last seen in the early hours of Feb. 2, 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "210de0f2bbce331be0c8a869dca219781e082855",
-      "url": "https://www.cbc.ca/sports/olympics/winter/olympics-broadcast-evolution-cbc-richard-deitsch-9.7061351?cmp=rss",
-      "title": "The Olympics are a shared viewing experience; what 'viewing' looks like continues to evolve",
-      "published_at": "2026-01-27T08:17:14-05:00",
-      "section": "World",
-      "summary_auto": "Advances in technology and a shift in sports consumption offers challenges and opportunities for rights-holders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b33f4873d1a3085226455ddde7979b9ec5d72d89",
-      "url": "https://www.cbc.ca/news/canada/london/4-charged-after-potential-bomb-making-chemicals-found-at-northwest-london-ont-home-9.7063268?cmp=rss",
-      "title": "Charges laid after potential bomb-making chemicals found at London, Ont., home",
-      "published_at": "2026-01-27T08:04:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Four people face multiple charges after police say a trespassing call on Western University's campus last weekend led to the discovery of chemicals allegedly capable of making explosives in a nearby London, Ont., home.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b8511ce53ac2cb0704b8bcf0d21b1220b2dc5bea",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/kevin-mamakwa-inquest-postponed-9.7062899?cmp=rss",
-      "title": "Inquest for nephew of Ontario MPP Sol Mamakwa postponed after late First Nation man's partner dies",
-      "published_at": "2026-01-27T07:57:46-05:00",
-      "section": "Canada",
-      "summary_auto": "The inquest for a 27-year-old who died while in custody at the Thunder Bay Jail in northwestern Ontario has been postponed due to the sudden death of his partner. Kevin Mamakwa was the nephew of Sol Mamakwa, an NDP member of provincial parliament who previously called for the jail to be shut down due to safety concerns.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de6f17d076fe8c50d50d9f2ab41e502e5ca14dd6",
-      "url": "https://www.cbc.ca/news/world/eu-india-trade-deal-9.7062783?cmp=rss",
-      "title": "'The mother of all deals': EU and India strike landmark agreement amid U.S. tariffs",
-      "published_at": "2026-01-27T06:58:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Leaders of the European Union and India announced a wide-ranging trade agreement on Tuesday, which came after nearly two decades of on-and-off negotiations that became increasingly urgent in the last six months after stiff tariffs were imposed by U.S. President Donald Trump.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d48475dd99732eb5c493f57e55dd44b7f731259",
-      "url": "https://www.cbc.ca/news/entertainment/bafta-nominations-2026-9.7062843?cmp=rss",
-      "title": "One Battle After Another, Sinners lead BAFTA nominations",
-      "published_at": "2026-01-27T06:17:28-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Paul Thomas Anderson's politically charged action thriller One Battle After Another leads the race for the British Academy Film Awards, securing 14 nominations on Tuesday, including acting nods for five of its cast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8829db7ba8d5551c820c94f63bebe4e7c2098f12",
-      "url": "https://www.cbc.ca/news/world/ukraine-odesa-russian-drone-9.7062769?cmp=rss",
-      "title": "Russian drone strike on passenger train in Ukraine's Kharkiv region kills 5: prosecutors",
-      "published_at": "2026-01-27T06:11:42-05:00",
-      "section": "World",
-      "summary_auto": "A Russian drone strike on a passenger train in northeastern Ukraine killed five people, prosecutors said, an attack denounced ​as terrorism by Ukrainian President Volodymyr Zelenskyy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.957,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3f3908aa69216185124499366583a6da3f467df",
-      "url": "https://www.cbc.ca/player/play/9.7062821?cmp=rss",
-      "title": "Secretary of State for Sport says he binge-watched Heated Rivalry over the holidays",
-      "published_at": "2026-01-27T06:10:57-05:00",
-      "section": "Canada",
-      "summary_auto": "Adam van Koeverden, Canada's secretary of state for sport, told reporters the hit show Heated Rivalry 'speaks volumes to the power and influence of Canadian storytelling.' The Olympic gold medallist sported a sweater from the show on his way out of the federal cabinet meeting on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8bf13b9f16ee6da2b6d564e7bb1abe1d3aa1a266",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-vehicle-headlight-brightness-safety-concerns-9.7061810?cmp=rss",
-      "title": "Vancouver city council calls on feds to address headlight brightness",
-      "published_at": "2026-01-27T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Advocates say car headlights are not only too bright, but also too high up on larger vehicles, sometimes aiming at eye level. They say the lights blind other drivers, cyclists and pedestrians.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.535,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1f3e59f45e906f5b3c434aca6304277525ed2f3d",
-      "url": "https://www.cbc.ca/news/business/canadian-economy-report-imf-interprovincial-trade-9.7062567?cmp=rss",
-      "title": "Canada could gain nearly 7% in real GDP by removing internal trade barriers, says IMF",
-      "published_at": "2026-01-27T05:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "Canada’s economy could gain nearly seven per cent, or $210 billion, in real GDP by fully removing internal trade barriers between the country’s 13 provinces and territories, according to a report published Tuesday by the International Monetary Fund.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5fecbf819fc085dbe892628100507dfe1b76146c",
-      "url": "https://www.cbc.ca/news/politics/carney-denies-walking-back-davos-speech-9.7062599?cmp=rss",
-      "title": "Carney says he told Trump 'I meant what I said in Davos,' contradicting U.S. account",
-      "published_at": "2026-01-27T04:41:30-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney is dismissing a claim that he walked back the remarks he made in Davos, Switzerland, last week during a conversation with U.S. President Donald Trump on Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2505a9416d2015d1027bf0acd60136c1c3b8623b",
-      "url": "https://www.cbc.ca/news/canada/calgary/coutts-protester-anthony-olienick-granted-bail-pending-results-of-his-appeal-9.7062427?cmp=rss",
-      "title": "Coutts protester Anthony Olienick granted bail pending results of his appeal",
-      "published_at": "2026-01-27T04:25:48-05:00",
-      "section": "Canada",
-      "summary_auto": "After four years behind bars, one of the men convicted of mischief and firearms violations in connection with the 2022 Coutts, Alta., border blockade is being released from prison.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b0f31cca0c146a69e33f62787aaeca30917fa8cc",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-edmonton-books-banned-9.7059069?cmp=rss",
-      "title": "New details show vigorous, pricey process to identify explicit books in Edmonton schools",
-      "published_at": "2026-01-27T03:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The 329 pages of records, obtained by CBC News, reveal that 11 teachers were hired by Edmonton Public Schools for a four-week summer project to review books for sexually explicit content, at a cost of $43,000.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cd91e17467c16192449aba1641a9afc2fbb4e9a6",
-      "url": "https://www.cbc.ca/news/entertainment/obit-drummer-sly-dunbar-9.7062470?cmp=rss",
-      "title": "Sly Dunbar, Jamaican drummer who played with reggae and rock greats, dead at 73",
-      "published_at": "2026-01-27T02:31:45-05:00",
-      "section": "World",
-      "summary_auto": "Two-time Grammy Award-winning reggae drummer Sly Dunbar, who fuelled countless tracks from Bob Marley to Bob Dylan and was one-half of the influential reggae rhythm section Sly & Robbie, has died. He was 73.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4f684a9ec7a63ffce89f8a3f6b41438118cf524",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-emergency-room-wait-times-9.7060368?cmp=rss",
-      "title": "'Please don't let me die': Calgary patients recount long waits in emergency rooms",
-      "published_at": "2026-01-27T01:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Two stories from Calgary women who say they endured lengthy ER waits while facing life-threatening emergencies are \"the tip of the iceberg,\" according to one physician.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.43,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0e754feaab271b0e3594955072a9eb41dac9ae23",
-      "url": "https://www.cbc.ca/news/world/iran-protests-death-toll-human-rights-9.7062450?cmp=rss",
-      "title": "At least 6,159 people killed in Iran's crackdown on nationwide protests, activists say",
-      "published_at": "2026-01-27T00:50:17-05:00",
-      "section": "World",
-      "summary_auto": "Iran's bloody crackdown on nationwide protests has killed at least 6,159 people while many others still are feared dead, activists said Tuesday, as a U.S. aircraft carrier group arrived in the Middle East to lead any American military response to the crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.981,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "81f5408265374ab33b1181ca6ab3a5eaaf90a89b",
-      "url": "https://www.cbc.ca/news/world/bovino-ice-minneapolis-removed-trump-9.7062365?cmp=rss",
-      "title": "Judge in Minnesota orders acting ICE director to appear in court as Trump reshuffles leadership of crackdown",
-      "published_at": "2026-01-27T00:28:15-05:00",
-      "section": "World",
-      "summary_auto": "The chief federal judge in Minnesota says the Trump administration has failed to comply with orders to hold hearings for detained immigrants and ordered the head of Immigration and Customs Enforcement to appear before him Friday to explain why he shouldn't be held in contempt.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c279884f01a9006430b0e695da1b78cbab7dc46",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-couple-kids-resp-investment-last-name-9.7062054?cmp=rss",
-      "title": "P.E.I. couple says their kids' RESP is in limbo because the bank altered their last name",
-      "published_at": "2026-01-27T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Max Deller-Lestage and Marie Pascal wanted to transfer the registered education savings plan they set up for their children to a new bank — but the transfer wouldn't go through. That's because their kids' last names didn't match what was on the original investment account.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.45,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5952569a200bca2165824c7ffe06baea8691e9f6",
-      "url": "https://www.cbc.ca/news/canada/montreal/cote-st-luc-montreal-hydro-outage-9.7061706?cmp=rss",
-      "title": "An aging substation caused Montreal’s latest blackout. Its replacement is still years away",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The equipment failure that left thousands of Montrealers without power during this weekend’s bitter cold originated at a substation that Hydro-Québec has been aiming to replace since at least 2018.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01ed941f7cda407b85332fd250d5c8c9c39fc0ae",
-      "url": "https://www.cbc.ca/news/world/trump-ice-immigration-politics-minneapolis-minnesota-9.7062211?cmp=rss",
-      "title": "How Trump’s immigration crackdown is starting to hurt him politically",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "There’s growing evidence that U.S. President Donald Trump’s administration is losing public support for its heavy-handed tactics in both detaining undocumented immigrants and cracking down on protests against the immigration sweep.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "525e9b2b848d4f690c12ce7cbe3ca969ea67cf17",
-      "url": "https://www.cbc.ca/news/world/ryan-wedding-plea-next-steps-9.7062285?cmp=rss",
-      "title": "What happens now that Ryan Wedding has pleaded not guilty?",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Canadian Ryan Wedding, the former Olympic snowboarder turned alleged drug kingpin, pleaded not guilty in Santa Ana, Calif., court Monday to multiple charges related to murder and drug trafficking. Here is what we know about the next steps in the criminal case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.76,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "49cd34cb7f2d32611bb19b5bc1d0a755e41dfa20",
-      "url": "https://www.cbc.ca/news/politics/icebreaker-pact-canada-finland-united-states-9.7061953?cmp=rss",
-      "title": "Canada's icebreaker pact looked great until Trump started threatening the Arctic",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Canada is a party to an agreement to work with U.S. and Finnish counterparts to produce icebreakers for the U.S. Coast Guard. Those ships will give the U.S. greater ability to operate in the Arctic. Will they also be used to threaten Canada's sovereignty in the North?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5bfe158a961a0a59a2f0790492635e1efd5df9f",
-      "url": "https://www.cbc.ca/news/business/trump-credit-card-cap-interest-rates-9.7061434?cmp=rss",
-      "title": "Trump wants to cap credit card interest at 10%. Is that good for consumers and the economy?",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump has called for credit card interest rates to be capped at 10 per cent — a move that could bring short-term relief to some consumers but is likely to cause a broader credit crisis in the long run, according to experts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.654,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5a0881d7f0077d14015faa63e4903c9f43b446f6",
-      "url": "https://www.cbc.ca/news/science/chinese-evs-charging-grid-infrastructure-9.7061631?cmp=rss",
-      "title": "Is Canada equipped to handle Chinese EVs?",
-      "published_at": "2026-01-26T23:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "The cost of importing Chinese cars to Canada is set to drop steeply with a recent cut in tariffs. How will that impact EV sales? Are our EV charging infrastructure and our grid ready for those extra cars? Here's a closer look at the potential impact.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.305,
-        "subjectivity_hint": "medium"
       }
     }
   ]
