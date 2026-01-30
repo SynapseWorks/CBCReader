@@ -1,14 +1,131 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-30T09:31:01.528790-05:00",
+  "generated_at": "2026-01-30T15:22:27.046994-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "816c88ad4ae3aa6a5b5091d9bf123b68513f2a0e",
+      "url": "https://www.cbc.ca/news/entertainment/livestory/catherine-ohara-dead-9.7068523?cmp=rss",
+      "title": "Legendary Canadian actress Catherine O'Hara dead at 71",
+      "published_at": "2026-01-30T08:52:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "956790ba185241866346295717ed8c67d724e680",
+      "url": "https://www.cbc.ca/news/business/hyundai-hydrogen-energy-canada-9.7068353?cmp=rss",
+      "title": "Hyundai interested in Canada's hydrogen energy as it bets on decarbonized cars",
+      "published_at": "2026-01-30T08:44:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hyundai is exploring a \"potential collaboration\" with the Canadian hydrogen energy sector, it told CBC News on Thursday, as the South Korean automaker bets on decarbonized cars to be the future of the automotive industry.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1c9f4e8ff8ea18aa3d35b8d2a3bb43488bcebddf",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/jim-pattison-industrial-building-won-t-sell-ice-9.7068494?cmp=rss",
+      "title": "Jim Pattison won't sell U.S. warehouse proposed as new ICE facility",
+      "published_at": "2026-01-30T08:32:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jim Pattison Developments has announced it will not sell an industrial building in Ashland, Va., that was set to be turned into an Immigration and Customs Enforcement (ICE) processing facility.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2da590d9c8e745e34fa9f408c2af7dc92571fc2a",
+      "url": "https://www.cbc.ca/news/canada/toronto/gm-oshawa-lay-offs-friday-9.7068425?cmp=rss",
+      "title": "As GM Oshawa layoffs begin, workers leave the plant and enter an uncertain job market",
+      "published_at": "2026-01-30T08:25:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Friday marks the last day of work for up to 1,200 autoworkers, as GM cuts one of three shifts at its Oshawa plant. Some workers say they are looking out of province to find employment in the face of Oshawa's 8.6 per cent unemployment rate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3f3ebe3e429250f40b43979aea1f27324edc33c",
+      "url": "https://www.cbc.ca/news/politics/appeal-court-single-use-plastics-9.7066678?cmp=rss",
+      "title": "Appeal court rules in favour of Ottawa's toxic plastic listing",
+      "published_at": "2026-01-30T07:26:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "58637ad92b8d81a541a9894485984b89f1b0158a",
+      "url": "https://www.cbc.ca/sports/olympics/winter/skeleton/canadian-skeleton-coach-speaks-out-on-alleged-manipulation-9.7068244?cmp=rss",
+      "title": "'We were within the rules,’ Canadian skeleton coach denies sabotaging U.S. slider",
+      "published_at": "2026-01-30T07:10:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In an exclusive interview with CBC Sports, Canadian skeleton coach Joe Cecchini denies that he manipulated a race on the developmental circuit to ensure Canada’s spots at the Olympics, ultimately preventing American Katie Uhlaender from competing in a record sixth Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6d337044cd6e1e108e5882fcac0e1cca7858bc8d",
+      "url": "https://www.cbc.ca/news/world/luigi-mangione-death-penalty-9.7068139?cmp=rss",
+      "title": "Prosecutors can't seek death penalty against Luigi Mangione, judge rules",
+      "published_at": "2026-01-30T06:05:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Federal prosecutors can’t seek the death penalty against Luigi Mangione in the killing of UnitedHealthcare CEO Brian Thompson, a judge ruled Friday, foiling the Trump administration’s bid to see him executed for what it called a “premeditated, cold-blooded assassination that shocked America.”",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.916,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "869c9cce7bf84de4190d74714fe9cfe158f8649e",
+      "url": "https://www.cbc.ca/news/world/minnesota-arrest-don-lemon-9.7067848?cmp=rss",
+      "title": "Former CNN anchor Don Lemon arrested after protest inside Minneapolis church",
+      "published_at": "2026-01-30T06:02:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Journalist Don Lemon and three other people were arrested Friday in connection with an anti-immigration enforcement protest that disrupted a service at a Minnesota church and increased tensions between residents and federal officials.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dc509b81757d1327c40c46fca7190d4762d09436",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/paul-durdle-perjury-nl-9.7067916?cmp=rss",
+      "title": "Former Mountie found guilty of perjury related to fellow officer's trial",
+      "published_at": "2026-01-30T04:51:51-05:00",
+      "section": "Canada",
+      "summary_auto": "A provincial court judge has found a former police officer guilty of perjury and says the man lied to protect his own interests during the trial for a colleague.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "5f72fb67fe1317be8b38fa9c3efb662a743598f8",
       "url": "https://www.cbc.ca/news/business/canada-gdp-november-2025-9.7067867?cmp=rss",
       "title": "Canada's economy stalled in November, may have contracted in 4th quarter of 2025",
       "published_at": "2026-01-30T04:04:53-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Canada's economic growth stalled in November as growth in services was ​offset by weakness in goods-producing industries, data showed on Friday, offering fresh clues on the state of the economy after almost a year of tariffs and uncertainty.",
       "bias_heuristic": {
         "article_type": "News",
@@ -19,13 +136,13 @@
     {
       "id": "a8e1de3f20f43c9d0217990cd325dd495f36ae56",
       "url": "https://www.cbc.ca/news/world/livestory/trump-bombardier-tariffs-9.7067835?cmp=rss",
-      "title": "Trump threatens Canadian aviation industry with heavy tariffs, decertification of Bombardier planes",
+      "title": "Trump's latest tariff threat has targeted Canada's aviation industry. Here's how reaction unfolded",
       "published_at": "2026-01-30T03:55:57-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.382,
+        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -60,11 +177,37 @@
       "url": "https://www.cbc.ca/news/world/israel-gaza-egypt-crossing-rafah-9.7067818?cmp=rss",
       "title": "Israel says Gaza's Rafah crossing with Egypt will reopen on Sunday",
       "published_at": "2026-01-30T02:58:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Israel will reopen the Rafah border crossing on Sunday for people to travel between Gaza and Egypt, the Israeli government agency that co-ordinates civilian policy in Gaza, COGAT, said on Friday.",
+      "section": "World",
+      "summary_auto": "Israel will reopen the Rafah border crossing on Sunday for people to travel between Gaza and Egypt, a government agency said, the first opening of effectively the sole route in or out of the Palestinian territory since May 2024.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "394fa54fb4a199781aafd4a6a71073998527068b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/badger-flood-friday-update-9.7067764?cmp=rss",
+      "title": "Dozens of houses evacuated in Badger, N.L., as river levels rise",
+      "published_at": "2026-01-30T02:57:45-05:00",
+      "section": "Canada",
+      "summary_auto": "\"We're at the mercy of Mother Nature,\" Mayor Dennis Butt told CBC News on Friday. The state of emergency remains in place for the town.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7bea25fd2a8cf86b27695ba89f906cd4263bfcfa",
+      "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-injured-alpine-skiing-crans-montana-9.7067806?cmp=rss",
+      "title": "Lindsey Vonn says 'Olympic dream is not over' after crashing in last downhill before Winter Games",
+      "published_at": "2026-01-30T02:29:46-05:00",
+      "section": "World",
+      "summary_auto": "Lindsey Vonn crashed in her final downhill race before the Winter Olympics on Friday and was airlifted from the course for medical checks, a troubling turn for the 41-year-old U.S. ski star just a week before the Milano-Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -73,7 +216,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/how-a-b-c-court-case-could-change-medical-assistance-in-dying-across-canada-9.7067052?cmp=rss",
       "title": "How a B.C. court case could change medical assistance in dying across Canada",
       "published_at": "2026-01-30T02:00:00-05:00",
-      "section": "Health",
+      "section": "Top Stories",
       "summary_auto": "The policy that allows faith-based health-care providers to ban medical assistance in dying in their facilities is being tested now in B.C. Supreme Court. But transfers of MAID patients because the facility won't allow the practice are more common outside B.C., according to Health Canada data.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/surgical-wait-times-alberta-january-2026-9.7067296?cmp=rss",
       "title": "Alberta heart, cancer patients waiting too long for critical surgery, health experts warn",
       "published_at": "2026-01-30T02:00:00-05:00",
-      "section": "Health",
+      "section": "Canada",
       "summary_auto": "While a record number of surgeries is being performed in the province, the number of people on Alberta's waitlist is longer than it was two years ago. And the latest provincial data shows less than two-thirds of patients had their surgeries completed within the recommended time period.",
       "bias_heuristic": {
         "article_type": "News",
@@ -97,26 +240,52 @@
     {
       "id": "915ef504fd3f6a1a8849e0d414efaa2549701b9a",
       "url": "https://www.cbc.ca/news/world/trump-federal-reserve-announcement-9.7067718?cmp=rss",
-      "title": "Trump names former Federal Reserve official Kevin Warsh as his pick for next Fed chair",
+      "title": "Trump names former Fed official turned critic Kevin Warsh as his pick for next chair",
       "published_at": "2026-01-30T01:18:12-05:00",
       "section": "Top Stories",
       "summary_auto": "U.S. President Donald Trump said Friday that he will nominate former Federal Reserve official Kevin Warsh to be the next chair of the Fed, a decision likely to result in sharp changes to the powerful agency that could bring it closer to the White House.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.421,
+        "sentiment": 0.178,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "e6362c6ac82a648e251c67296624e61aeba881f1",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/susan-holt-state-of-the-province-2026-9.7067613?cmp=rss",
-      "title": "'Mixed' results on N.B.'s targets, premier admits in state of province speech after first year in office",
-      "published_at": "2026-01-30T00:00:00-05:00",
+      "id": "fade31da3aa22f44df25ab5805898e5678e83373",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/real-life-heated-rivalry-sask-man-recounts-coming-out-to-college-hockey-teammates-9.7063876?cmp=rss",
+      "title": "Real-life Heated Rivalry: Sask. man recounts coming out to college hockey teammates",
+      "published_at": "2026-01-30T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The government has hit 10 of its 15 short-term performance targets laid out by Premier Susan Holt, but has fallen back on one of the most top-of-mind objectives for New Brunswickers.",
+      "summary_auto": "While playing college hockey in 2019, Brock Weston called a locker room meeting and came out to his teammates. He expected some backlash, but found overwhelming support.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.392,
+        "sentiment": 0.606,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9be6eb34aadb8d7798eeaa74dc99c4aae127ba51",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/law-prevent-domestic-violence-9.7061316?cmp=rss",
+      "title": "Law to prevent domestic violence on the books for 3 years, but still not in effect",
+      "published_at": "2026-01-30T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The law is meant to give police legal authority to share information that advocates say could prevent cases of intimate partner violence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c0962705c3a9937aedc68a4fbc13cf5ba71de08d",
+      "url": "https://www.cbc.ca/news/canada/toronto/accessible-cabs-dwindling-toronto-9.7065512?cmp=rss",
+      "title": "Accessible cabs in Toronto are dwindling. One company says the city is failing to support drivers",
+      "published_at": "2026-01-30T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "One of the largest taxi companies in Toronto will be down to three wheelchair-accessible cabs by the end of March, leaving a gap in options for accessible road transportation. Some advocates and providers say the city is failing to support accessible taxi drivers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -173,32 +342,6 @@
       }
     },
     {
-      "id": "9f445aca00bdb71ed7ca86f114ea71cb98ceac30",
-      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-class-action-investigation-9.7067422?cmp=rss",
-      "title": "Damage, disruption and 2 deaths under investigation following Montreal power outage",
-      "published_at": "2026-01-29T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "After days without power in sub-zero temperatures, residents in Montreal’s west end are dealing with widespread property damage, as two deaths possibly linked to the outage are now under investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50467b09640b1e40b17452cb2341562a50e6c88d",
-      "url": "https://www.cbc.ca/news/world/minnesota-join-canada-jesse-ventura-9.7067000?cmp=rss",
-      "title": "'Minnetoba'? Some Minnesotans want to join Canada as tensions flare with Trump administration",
-      "published_at": "2026-01-29T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A former Minnesota governor recently pitched a novel solution to the state’s clashes with the Trump administration: join Canada. He's not the first, nor only, one in the state looking north.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a5f508f5f598491aab447b005cda07ccc30a59f8",
       "url": "https://www.cbc.ca/news/world/canadian-alleged-cryptocurrency-hack-9.7066147?cmp=rss",
       "title": "He was a high school math whiz. Now he’s a Canadian crypto fugitive trying to hide from the world",
@@ -225,6 +368,19 @@
       }
     },
     {
+      "id": "367be3f634014c4e9e64a13b9744a9b09e9177a0",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-pc-convention-project-ontario-9.7067023?cmp=rss",
+      "title": "Ontario PCs gather this weekend, as some conservatives push for change in government’s direction",
+      "published_at": "2026-01-29T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Ontario’s Progressive Conservatives will huddle behind closed doors at a policy convention this weekend as some Tories question the party’s direction after nearly eight years in power.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "a5f508f5f598491aab447b005cda07ccc30a59f8",
       "url": "https://www.cbc.ca/news/world/canadian-alleged-cryptocurrency-hack-9.7066147?cmp=rss",
       "title": "Fake passports, $65M US and an Interpol Red Notice: Canadian crypto fugitive vanishes after arrest in Serbia",
@@ -238,6 +394,19 @@
       }
     },
     {
+      "id": "9f445aca00bdb71ed7ca86f114ea71cb98ceac30",
+      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-class-action-investigation-9.7067422?cmp=rss",
+      "title": "Damage, disruption and 2 deaths under investigation following Montreal power outage",
+      "published_at": "2026-01-29T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "After days without power in sub-zero temperatures, residents in Montreal’s west end are dealing with widespread property damage, as two deaths possibly linked to the outage are now under investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "33e9126bfa3749c791db097ad8d30e3c09236ce5",
       "url": "https://www.cbc.ca/news/politics/poilievre-leadership-review-convention-9.7067570?cmp=rss",
       "title": "Poilievre to pitch members on keeping his job as Conservative leader in convention speech",
@@ -248,6 +417,19 @@
         "article_type": "News",
         "sentiment": 0.475,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "50467b09640b1e40b17452cb2341562a50e6c88d",
+      "url": "https://www.cbc.ca/news/world/minnesota-join-canada-jesse-ventura-9.7067000?cmp=rss",
+      "title": "'Minnetoba'? Some Minnesotans want to join Canada as tensions flare with Trump administration",
+      "published_at": "2026-01-29T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "A former Minnesota governor recently pitched a novel solution to the state’s clashes with the Trump administration: join Canada. He's not the first, nor only, one in the state looking north.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -294,11 +476,24 @@
       "url": "https://www.cbc.ca/news/business/canada-computers-data-breach-website-9.7067138?cmp=rss",
       "title": "Data breach at Canada Computers & Electronics leaks personal customer information",
       "published_at": "2026-01-29T17:24:29-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Canada Computers & Electronics says a data breach has leaked information about some of its customers, though several say they are unhappy with the scant details the retailer has provided — including how many of them were affected, and when the breach occurred.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f226bf1b3250425733a3649b48f8c31ecd15f07c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/record-organ-transplants-british-columbia-9.7067463?cmp=rss",
+      "title": "Record number of organ transplants recorded in 2025: B.C. Transplant",
+      "published_at": "2026-01-29T15:44:33-05:00",
+      "section": "Health",
+      "summary_auto": "B.C. Transplant said the latest data shows 2025 saw the highest number of organ transplants done in the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -316,184 +511,15 @@
       }
     },
     {
-      "id": "0ab179a36b4b42945c47cdb45979a830fd75e4be",
-      "url": "https://www.cbc.ca/player/play/9.7067546?cmp=rss",
-      "title": "At Issue | Separatist cracks at first ministers meeting",
-      "published_at": "2026-01-29T15:31:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: The prime minister and premiers grapple with growing separatist sentiment while trying to pull together for U.S. trade talks. Poilievre makes his case to keep his job after a string of defeats. And Carney swings back at U.S. criticism of his Davos speech.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8961ce2546c89b59888235457b47c9bf902c7e8c",
       "url": "https://www.cbc.ca/news/entertainment/nicki-minaj-trump-fan-9.7067479?cmp=rss",
       "title": "Nicki Minaj declared herself Trump's 'No. 1 fan.' Why is that controversial?",
       "published_at": "2026-01-29T15:26:19-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Rapper Nicki Minaj on Wednesday declared herself U.S. President Donald Trump’s “No. 1 fan,” before showing off a gold card visa.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a51a7aebdd450bc98712114b5f70d93cf0828e96",
-      "url": "https://www.cbc.ca/player/play/9.7067550?cmp=rss",
-      "title": "How we verify videos from Iran",
-      "published_at": "2026-01-29T14:55:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite an internet blackout, some Iranians have managed to use VPNs and Starlink satellite internet to share photos and videos. But how do we know these visuals really show what they claim? CBC's fact-check team breaks down our verification process.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "211ea9d8661410c103839cdb04e7474e7a2f9271",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-nursing-home-sex-offences-victims-counselling-loch-lomond-village-9.7066232?cmp=rss",
-      "title": "Nursing home security a 'balancing act', says national advocate amid Saint John sex-offences investigation",
-      "published_at": "2026-01-29T14:40:22-05:00",
-      "section": "Health",
-      "summary_auto": "As Saint John police investigate alleged sex offences at a long-term care home, the head of a national seniors' advocacy organization says protecting nursing home residents from sexual abuse is an important but challenging issue.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e397ba841fe090bf74892e9f853ed18e1a6187de",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/erica-mclean-rcmp-prince-george-school-trustee-9.7067369?cmp=rss",
-      "title": "Mistaken identity leads to police drawing weapons, handcuffing Prince George, B.C., school trustee",
-      "published_at": "2026-01-29T14:31:02-05:00",
-      "section": "Canada",
-      "summary_auto": "A Prince George, B.C., school trustee says she's shaken and scared after being surrounded by police with their guns drawn and then put in handcuffs, in what RCMP say was a case of mistaken identity.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a069451f8bedeed8f84bf1173ce50ffa2515d87b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-politicians-call-federal-government-extortion-9.7067295?cmp=rss",
-      "title": "B.C. politicians call on federal government to get tough on extortion crisis",
-      "published_at": "2026-01-29T14:19:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Premier David Eby has advocated for his federal counterparts to pass a bill that includes tougher sentences for extortion-related offences. Politicians in Surrey, B.C., continue to call for, more police, more action on the extortion crimes threatening South Asian communities in the Lower Mainland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.893,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43e283ac2ad5868af55432c16f5fb4ec5b03d905",
-      "url": "https://www.cbc.ca/news/canada/livestory/heated-rivalry-hudson-williams-prime-minister-mark-carney-ottawa-9.7067322?cmp=rss",
-      "title": "Prime minister meets Heated Rivalry stars, pays tribute to hit show 'that could only be made in Canada'",
-      "published_at": "2026-01-29T13:45:33-05:00",
-      "section": "Entertainment",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "acf34deb4538b4b370a068110bb5859b5b0082d3",
-      "url": "https://www.cbc.ca/news/world/ryan-wedding-rcmp-told-in-advance-9.7067203?cmp=rss",
-      "title": "RCMP was told of Ryan Wedding's imminent arrest days in advance, commissioner says",
-      "published_at": "2026-01-29T12:45:43-05:00",
-      "section": "Canada",
-      "summary_auto": "U.S. authorities alerted the RCMP about Ryan Wedding's imminent arrest days before he was taken into U.S. custody in Mexico last week, Commissioner Mike Duheme has told CBC News. The revelation marks the clearest indication yet that investigators knew of the longtime fugitive's whereabouts before Jan. 22, when the Mexican government said Wedding \"voluntarily surrendered.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d896a49c66eda8391e8ed4bdfc2a212d3dbdd1b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-provincial-park-camping-fees-increasing-2026-9.7067310?cmp=rss",
-      "title": "B.C. Parks camping fees to increase in 2026",
-      "published_at": "2026-01-29T12:41:54-05:00",
-      "section": "Canada",
-      "summary_auto": "The province says B.C. parks have seen record-setting levels of use in recent years — so fees are going up to support park care.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0840811bc97eba01e51bd24f33eb51bdf1a20042",
-      "url": "https://www.cbc.ca/radio/asithappens/budapest-mayor-pride-charges-9.7066808?cmp=rss",
-      "title": "Budapest mayor says he’s proud to face charges for leading Pride parade",
-      "published_at": "2026-01-29T12:41:25-05:00",
-      "section": "World",
-      "summary_auto": "Budapest Mayor Gergely Karacsony remains defiant after being criminally charged for his role in organizing his city’s Pride parade last summer in defiance of Hungary’s anti-2SLBGTQ+ laws.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0018cc0b20cfc779e2a3a3f301a4b80c2247e730",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-workers-aupe-protest-9.7067137?cmp=rss",
-      "title": "Alberta government workers plan brown bag protest as they return to office: union",
-      "published_at": "2026-01-29T11:23:14-05:00",
-      "section": "Canada",
-      "summary_auto": "Alberta's 9,000 unionized provincial employees are going back to the office full time starting this weekend, but not without a brown bag protest.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ea3cfd1cb2ee342fe8ab5dbf6e9142fe4470725",
-      "url": "https://www.cbc.ca/news/canada/calgary/alena-smadych-guilty-fraud-sentence-dentist-insurance-9.7067084?cmp=rss",
-      "title": "Calgary dentist guilty of decade-long insurance fraud handed 3-year sentence",
-      "published_at": "2026-01-29T10:58:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Despite an eleventh hour attempt to secure at least a few more weeks of freedom, Calgary dentist Alena Smadych was handed a three-year prison sentence for a decade-long insurance billing fraud.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.738,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79cec93435efcab4ee3e6f997ef695278cfe5cb4",
-      "url": "https://www.cbc.ca/news/canada/toronto/sui-oshawa-courthouse-investigation-9.7067100?cmp=rss",
-      "title": "Officers reassigned after alleged assault of Oshawa, Ont., lawyer. Police watchdog not investigating",
-      "published_at": "2026-01-29T10:54:47-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario’s police watchdog says it is not investigating the case of a lawyer who is alleging that multiple Durham Regional Police Service officers slammed her head on a desk without provocation and dragged her to the basement cells of the Oshawa courthouse last week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.565,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0dd0202733b8d19fc95cf02267f33fba6691d191",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-missing-guns-carbines-9.7066747?cmp=rss",
-      "title": "They couldn’t locate 3 guns for 7 months. Now Halifax RCMP have made changes",
-      "published_at": "2026-01-29T09:36:05-05:00",
-      "section": "Canada",
-      "summary_auto": "RCMP in Halifax have changed how they keep track of guns after they were unable to account for three carbines for seven months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
