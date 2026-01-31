@@ -1,14 +1,66 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-31T09:19:01.392135-05:00",
+  "generated_at": "2026-01-31T15:19:01.104205-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "92000ac073e34a0d46e42d391268dde5e9525abf",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/north-atlantic-right-whale-division-dies-9.7069611?cmp=rss",
+      "title": "North Atlantic right whale found dead after weeks of entanglement",
+      "published_at": "2026-01-31T07:40:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A North Atlantic right whale named Division was found dead in U.S. waters this week, entangled in fishing gear. It's the first entanglement death of 2026, according to the Canadian Whale Institute.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.926,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "413c6df3e25da81385d61cd939e226ab2ca771db",
+      "url": "https://www.cbc.ca/news/world/strait-hormuz-iran-us-tension-9.7069586?cmp=rss",
+      "title": "What to know about the Strait of Hormuz as Iran-U.S. tensions rise",
+      "published_at": "2026-01-31T06:20:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Strait of Hormuz, the narrow mouth of the Persian Gulf, again has become a focus of tensions as Iran prepares to launch a military drill that could see fire into a lane crucial for global shipping.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "70f5c1bdeab4ce4dfa2e584bd71196c64d57827b",
+      "url": "https://www.cbc.ca/news/politics/f35-greenland-canada-missile-defence-9.7069059?cmp=rss",
+      "title": "The Golden Dome is where Canada's F-35 debate and Trump's Greenland threat meet",
+      "published_at": "2026-01-31T05:22:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65d8a75e9879cdccb233352e0bb9ee42300fe2f9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/helsinki-pamela-anderson-finnish-roots-billboard-vancouver-island-9.7067238?cmp=rss",
+      "title": "Helsinki wants Pamela Anderson to connect with her Finnish roots. So, it put a billboard up near her B.C. home",
+      "published_at": "2026-01-31T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The European city of Helsinki is, in the least subtle way possible, encouraging Pamela Anderson to explore her Finnish heritage, going so far as offering to help her change her name.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "6ca1e4b87140b6be8316a76c9aed2564345ff513",
       "url": "https://www.cbc.ca/news/world/israeli-strikes-gaza-city-9.7069493?cmp=rss",
       "title": "Israeli strikes kill at least 30 Palestinians, as Gaza ceasefire inches forward",
       "published_at": "2026-01-31T03:34:22-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Hospitals in Gaza said Israeli strikes killed at least 30 Palestinians on Saturday, one of the highest tolls since the October ceasefire aimed at stopping the fighting.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,22 +82,48 @@
       }
     },
     {
-      "id": "a419c59e8df3cebddb267e5b529381eeded3bfef",
-      "url": "https://www.cbc.ca/news/politics/carney-davos-speech-trump-analysis-9.7068843?cmp=rss",
-      "title": "Was Mark Carney's Davos speech a mistake if it upset Trump?",
-      "published_at": "2026-01-30T23:00:00-05:00",
+      "id": "037fbaa3e5bb4dc53f4ec435b6b1b03444de62cf",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/olympics-schwinghammer-maia-9.7067179?cmp=rss",
+      "title": "From Sask.'s frozen lakes to Olympic stage, here's a Canadian mogul skier's road to Milano-Cortina",
+      "published_at": "2026-01-31T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "It's not unreasonable to think about how any action by a Canadian government might impact relations with Canada's largest trading partner. At the same time, allowing the American president's potential for anger to dictate the behaviour of Canadian leaders risks ceding a great amount of power.",
+      "summary_auto": "Saskatoon’s Maïa Schwinghammer is days away from competing at the Olympics in Milan",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "59eb330553fe0de8edc201931d55274cbec65213",
+      "url": "https://www.cbc.ca/news/canada/windsor/lake-erie-january-more-ice-23-years-9.7067884?cmp=rss",
+      "title": "Lake Erie has more ice in late January than any winter in the past 23 years",
+      "published_at": "2026-01-31T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Great Lakes scientist Mike McKay says he was caught off guard by how much ice coverage was added so quickly. He estimates roughly 20,000 square kilometres of ice was gained over a six-day stretch in January.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b92560ad4f527b3ec03fb732f27710e9eac002a9",
+      "url": "https://www.cbc.ca/news/world/kidnapping-mexico-influencer-9.7066638?cmp=rss",
+      "title": "A Mexican influencer is kidnapped on camera, a sign that social media is another battlefront in cartel wars",
+      "published_at": "2026-01-30T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nicole Pardo Molina’s kidnapping added to a grim tally that’s been slowly growing over the past five years across Mexico, which has seen at least  21 social media influencers kidnapped or killed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
       }
     },
     {
       "id": "c6257c21d1a543003eb4f9e5699b8c458f1ce30d",
       "url": "https://www.cbc.ca/news/investigates/celebrity-chronic-lyme-industry-9.7056234?cmp=rss",
-      "title": "Lyme disease is littered with misinformation. Celebrities are part of the problem, experts say",
+      "title": "The subject of Lyme disease is littered with misinformation. Celebrities are part of the problem, experts say",
       "published_at": "2026-01-30T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "Chronic Lyme disease isn't recognized by conventional medicine. It's a controversial term used by some alternative practitioners to describe pain, fatigue and neurological symptoms they attribute to a persistent Lyme infection. Some Lyme experts say it’s fuelling a dubious industry and say celebrity cases are part of the problem.",
@@ -53,19 +131,6 @@
         "article_type": "News",
         "sentiment": -0.936,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "70f5c1bdeab4ce4dfa2e584bd71196c64d57827b",
-      "url": "https://www.cbc.ca/news/politics/f35-greenland-canada-missile-defence-9.7069059?cmp=rss",
-      "title": "The Golden Dome is where Canada's F-35 debate and Trump's Greenland threat meet",
-      "published_at": "2026-01-30T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Two of the loudest and most important defence policy issues facing Canada have a common — often unrealized — thread, say experts. Both the F-35 and the U.S. threats to annex Greenland are connected over the Trump administration's plan to build its Golden Dome missile defence system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.464,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -84,7 +149,7 @@
     {
       "id": "7efd5f71c5aa725c4a040d0f6c3d660d938bf486",
       "url": "https://www.cbc.ca/news/science/why-are-we-going-to-the-moon-9.7061709?cmp=rss",
-      "title": "We’ve already been to the moon, so why are we going again?",
+      "title": "What's the point of going back to the moon?",
       "published_at": "2026-01-30T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "Artemis II is set to blast off to the moon in early February with four astronauts, including the Canadian Space Agency's Jeremy Hansen. But we've already been to the moon, so why are we going back? Do we get any benefits here on Earth?",
@@ -121,15 +186,28 @@
       }
     },
     {
-      "id": "9edc573b322d3436c0749ca0c7c03d3f35373204",
-      "url": "https://www.cbc.ca/player/play/9.7069350?cmp=rss",
-      "title": "Trump says he got Russia to pause attacks, Ukrainians say he’s being played",
-      "published_at": "2026-01-30T17:06:57-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump says he convinced Russian President Vladimir Putin to pause attacks on Ukraine’s power grid during one of the coldest winters in years. But many Ukrainians think Putin is simply playing Trump for time so he can replenish his arsenal.",
+      "id": "7efd5f71c5aa725c4a040d0f6c3d660d938bf486",
+      "url": "https://www.cbc.ca/news/science/why-are-we-going-to-the-moon-9.7061709?cmp=rss",
+      "title": "We’ve already been to the moon, so why are we going again?",
+      "published_at": "2026-01-30T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Artemis II is set to blast off to the moon in early February with four astronauts, including the Canadian Space Agency's Jeremy Hansen. But we've already been to the moon, so why are we going back? Do we get any benefits here on Earth?",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.214,
+        "sentiment": 0.605,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "9edc573b322d3436c0749ca0c7c03d3f35373204",
+      "url": "https://www.cbc.ca/player/play/9.7069350?cmp=rss",
+      "title": "Trump takes credit as Russia pauses attacks on Ukraine's power grid",
+      "published_at": "2026-01-30T17:06:57-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump says he convinced Russian President Vladimir Putin to pause attacks on Ukraine’s power grid during one of the coldest winters in years. President Zelenskyy suggested Russia has merely shifted to other targets.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     },
@@ -169,110 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d51843e86674bc78a11ba4461b3713aa8e3904d2",
-      "url": "https://www.cbc.ca/news/world/chapitos-canadian-mining-9.7069152?cmp=rss",
-      "title": "Sinaloa cartel faction linked to kidnapping of Canadian mining firm's workers: top official",
-      "published_at": "2026-01-30T14:38:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Sinaloa cartel faction known as “Los Chapitos” may have been involved in kidnapping 10 employees of Canadian mining company Vizsla Silver Corp., with operations in the northwestern Mexican state of Sinaloa, according to a senior Mexican security official.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fd1737923e7d3ddb804d88d9dc2b0e9b003a3a24",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/scotties-roundup-jan30-mississauga-9.7069207?cmp=rss",
-      "title": "Sturmay, Black advance as Page playoff brackets set for Scotties Tournament of Hearts",
-      "published_at": "2026-01-30T14:14:59-05:00",
-      "section": "Canada",
-      "summary_auto": "Christina Black loves her native Nova Scotia but she didn't want to go home just yet. Black and Alberta's Selena Sturmay advanced to the 3/4 Page playoff of the Scotties Tournament of Hearts with wins Friday evening in qualifying games. Black downed Taylour Stevens 11-6 in an all-Nova Scotia matchup and Sturmay rolled past Manitoba's Beth Peterson 10-4.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.959,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "caadd4468d8980963aa8c89452917795fcba2554",
-      "url": "https://www.cbc.ca/news/world/mexico-cuba-trump-oil-tariff-9.7069046?cmp=rss",
-      "title": "Trump blindsided Mexico with Cuba oil export tariff threat, says Mexican president",
-      "published_at": "2026-01-30T13:54:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump blindsided Mexico with an executive order threatening tariffs on any country that supplied Cuba with oil, Mexican President Claudia Sheinbaum revealed on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f58f3630da1eb86ee0849a449af6d62fc6378bf",
-      "url": "https://www.cbc.ca/news/canada/calgary/greenhouse-expansion-food-prices-9.7068882?cmp=rss",
-      "title": "Ottawa is giving greenhouses a tax break. Will it help lower food prices?",
-      "published_at": "2026-01-30T13:35:31-05:00",
-      "section": "Canada",
-      "summary_auto": "A new federal tax program aims to boost greenhouse investment and increase domestic vegetable production to tackle high food prices. Industry officials welcome the support, but say food prices are hard to contain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "efe65e318b4001384c569793fe599b08c5fc4ea1",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-separatism-conservative-party-pierre-poilievre-9.7068928?cmp=rss",
-      "title": "Alberta separatism casts shadow over Conservative convention",
-      "published_at": "2026-01-30T12:40:47-05:00",
-      "section": "Canada",
-      "summary_auto": "There’s an acute awareness and sensitivity at the Conservative Party convention to the political issue of separatism. It's now at the centre of Alberta politics, particularly within conservative circles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2f2e7327a16daae7ec0bd0fdbf9fbf5fc5f040a5",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/comox-bc-valley-flooding-state-of-local-emergency-9.7045733?cmp=rss",
-      "title": "Flooding prompts state of local emergency in Comox Valley, B.C.",
-      "published_at": "2026-01-30T12:17:28-05:00",
-      "section": "Canada",
-      "summary_auto": "The Comox Valley Regional District, a community of about 72,000 people on mid-Vancouver Island, has issued a state of local emergency in response to current flood conditions. An  evacuation order  was issued for the Maple Pool Campground and 12 properties on Friday afternoon amid the state of local emergency.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f89a60f6824f54aaa02ec291215f85965cdcd8bd",
-      "url": "https://www.cbc.ca/news/canada/montreal/former-members-of-military-facing-terrorism-charges-informant-9.7068700?cmp=rss",
-      "title": "Military men facing terrorism charges prepared for zombie apocalypse, informant alleges",
-      "published_at": "2026-01-30T11:15:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "New information from an informant in the case involving three men accused of facilitating terrorism in Quebec City revealed they were planning for a supposed zombie apocalypse. The information comes from a former member of the group Hide & Stalk — an alleged anti-government Instagram group of current and former military members.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.923,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73fec6ad262cc6a5d71bd107011534b05deec275",
-      "url": "https://www.cbc.ca/news/canada/windsor/opp-federal-gun-buyback-9.7068471?cmp=rss",
-      "title": "Ontario Provincial Police not taking part in federal gun buyback program",
-      "published_at": "2026-01-30T09:54:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario Provincial Police say the service will not be participating in the federal government's buyback program for banned assault-style firearms.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
         "subjectivity_hint": "low"
       }
     }
