@@ -1,14 +1,79 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-01-31T15:19:01.104205-05:00",
+  "generated_at": "2026-01-31T20:50:09.171523-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "66ff49cd547f849e4980fc1c64fd6e33c09c8586",
+      "url": "https://www.cbc.ca/news/canada/manitoba/pierre-polievre-churchill-military-base-9.7069738?cmp=rss",
+      "title": "Pierre Polievre wants a Churchill base, but experts debate northern Manitoba town's military capacity",
+      "published_at": "2026-01-31T13:23:18-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Party leader Pierre Poilievre says a Conservative government would build a base in Churchill to strengthen Canada's defence systems — but experts argue the northern Manitoba town presents challenges as a military location.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.665,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1bcfef49a0ed2125cf4eb9471452a068ca6055bb",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/badger-flooding-jan-31-9.7069705?cmp=rss",
+      "title": "Evacuation orders remain in Badger, N.L., water levels 'still high'",
+      "published_at": "2026-01-31T12:43:45-05:00",
+      "section": "Canada",
+      "summary_auto": "The mayor of Badger says he’s “cautiously optimistic” after seeing a drop in water levels – but river water is still high and evacuation orders remain in place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.141,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1667a6133b50a259a38ef443395f05d5f957481c",
+      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-ucp-united-conservative-party-9.7069719?cmp=rss",
+      "title": "On home turf, Alberta Premier Danielle Smith jabs familiar foes to warm reception",
+      "published_at": "2026-01-31T11:50:36-05:00",
+      "section": "Canada",
+      "summary_auto": "Alberta Premier Danielle Smith flexed her star power amongst Conservative Party faithful on Saturday, advocating for popular conservative policies while not directly addressing the separatist issue that has made headlines this week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac92c22a5a31f91903aaae01542863316969f4d0",
+      "url": "https://www.cbc.ca/news/politics/liberal-byelection-danielle-martin-university-rosedale-9.7069730?cmp=rss",
+      "title": "Liberals announce Danielle Martin will be their candidate for University-Rosedale byelection",
+      "published_at": "2026-01-31T11:47:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Liberal Party announced Saturday afternoon that family physician Dr. Danielle Martin will be their candidate for the upcoming federal byelection in University-Rosedale, the downtown Toronto riding Chrystia Freeland held until she stepped down earlier this month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e069b3388239b3be89ea84f54ed35e87ca1023f9",
+      "url": "https://www.cbc.ca/news/world/father-son-release-minnesota-immigration-crackdown-arrest-9.7069712?cmp=rss",
+      "title": "Judge orders U.S. to free 5-year-old boy, father detained by ICE in Minnesota",
+      "published_at": "2026-01-31T10:52:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Images of Liam Conejo Ramos wearing a bunny hat and Spiderman backpack while surrounded by U.S. Immigration and Customs Enforcement officers sparked even more outcry about the Trump administration's immigration crackdown in Minnesota.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.458,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "92000ac073e34a0d46e42d391268dde5e9525abf",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/north-atlantic-right-whale-division-dies-9.7069611?cmp=rss",
       "title": "North Atlantic right whale found dead after weeks of entanglement",
       "published_at": "2026-01-31T07:40:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A North Atlantic right whale named Division was found dead in U.S. waters this week, entangled in fishing gear. It's the first entanglement death of 2026, according to the Canadian Whale Institute.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,15 +95,15 @@
       }
     },
     {
-      "id": "70f5c1bdeab4ce4dfa2e584bd71196c64d57827b",
-      "url": "https://www.cbc.ca/news/politics/f35-greenland-canada-missile-defence-9.7069059?cmp=rss",
-      "title": "The Golden Dome is where Canada's F-35 debate and Trump's Greenland threat meet",
+      "id": "1c391f0a92679c0fb01576d7a2b6cf5191cc001a",
+      "url": "https://www.cbc.ca/news/business/armstrong-trade-trump-tariffs-diversification-9.7068922?cmp=rss",
+      "title": "Race to export beyond U.S. picks up as tariff squeeze grips Canada",
       "published_at": "2026-01-31T05:22:21-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.527,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -121,6 +186,19 @@
       }
     },
     {
+      "id": "a419c59e8df3cebddb267e5b529381eeded3bfef",
+      "url": "https://www.cbc.ca/news/politics/carney-davos-speech-trump-analysis-9.7068843?cmp=rss",
+      "title": "Was Mark Carney's Davos speech a mistake if it upset Trump?",
+      "published_at": "2026-01-30T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It's not unreasonable to think about how any action by a Canadian government might impact relations with Canada's largest trading partner. At the same time, allowing the American president's potential for anger to dictate the behaviour of Canadian leaders risks ceding a great amount of power.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "c6257c21d1a543003eb4f9e5699b8c458f1ce30d",
       "url": "https://www.cbc.ca/news/investigates/celebrity-chronic-lyme-industry-9.7056234?cmp=rss",
       "title": "The subject of Lyme disease is littered with misinformation. Celebrities are part of the problem, experts say",
@@ -130,6 +208,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.936,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70f5c1bdeab4ce4dfa2e584bd71196c64d57827b",
+      "url": "https://www.cbc.ca/news/politics/f35-greenland-canada-missile-defence-9.7069059?cmp=rss",
+      "title": "The Golden Dome is where Canada's F-35 debate and Trump's Greenland threat meet",
+      "published_at": "2026-01-30T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two of the loudest and most important defence policy issues facing Canada have a common — often unrealized — thread, say experts. Both the F-35 and the U.S. threats to annex Greenland are connected over the Trump administration's plan to build its Golden Dome missile defence system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.464,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bbaeccb43c540571fc9715d991c6335b356450a0",
+      "url": "https://www.cbc.ca/radio/thecurrent/minneapolis-schools-ice-virtual-learning-9.7068135?cmp=rss",
+      "title": "Fearing ICE, some students in Minneapolis retreat to virtual learning",
+      "published_at": "2026-01-30T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In some classrooms in the Twin Cities, more than half of the desks sit empty. The children of immigrants are increasingly absent from school, sports teams and even front yards, fearful that immigration and customs agents will detain them, or their parents, because of the colour of their skin.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
         "subjectivity_hint": "low"
       }
     },
@@ -164,24 +268,11 @@
       "url": "https://www.cbc.ca/news/politics/rcmp-recruitment-grows-9.7068645?cmp=rss",
       "title": "Once seen as a crisis, the RCMP's recruitment numbers are starting to turn around",
       "published_at": "2026-01-30T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The RCMP's ability to recruit new Mounties was, not all that long ago, seen as a crisis. But new numbers suggest the national police force is starting to turn that around.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.535,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1c391f0a92679c0fb01576d7a2b6cf5191cc001a",
-      "url": "https://www.cbc.ca/news/business/armstrong-trade-trump-tariffs-diversification-9.7068922?cmp=rss",
-      "title": "Race to export beyond U.S. picks up as tariff squeeze grips Canada",
-      "published_at": "2026-01-30T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada hopes to double its exports to countries other than the U.S. as a way of blunting the impact of the trade war. But that will take time and money. What can Canada get done as tariffs squeeze the economy?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.141,
         "subjectivity_hint": "low"
       }
     },
@@ -196,58 +287,6 @@
         "article_type": "News",
         "sentiment": 0.605,
         "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "9edc573b322d3436c0749ca0c7c03d3f35373204",
-      "url": "https://www.cbc.ca/player/play/9.7069350?cmp=rss",
-      "title": "Trump takes credit as Russia pauses attacks on Ukraine's power grid",
-      "published_at": "2026-01-30T17:06:57-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump says he convinced Russian President Vladimir Putin to pause attacks on Ukraine’s power grid during one of the coldest winters in years. President Zelenskyy suggested Russia has merely shifted to other targets.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c45488377d386ddfbbaa2b204acff340e608f657",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/hootsuite-protest-vancouver-us-department-homeland-security-ice-9.7069265?cmp=rss",
-      "title": "Hundreds in Vancouver protest Hootsuite's contract with U.S. Homeland Security",
-      "published_at": "2026-01-30T17:06:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Around 250 people turned out in the pouring rain on Friday evening at the headquarters of Vancouver tech company Hootsuite, protesting a recently-publicized contract with the U.S. Department of Homeland Security.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2dcc7782831313a1c5ccef6a2c04271c499a3118",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ai-data-centres-competitive-bid-process-bc-9.7069103?cmp=rss",
-      "title": "AI, data centre companies will have to compete for electricity in B.C.",
-      "published_at": "2026-01-30T16:14:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prospective data centres and artificial intelligence (AI) companies in B.C. will have to compete for electricity from B.C. Hydro under new provincial legislation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "623ba742201f3bc05fc06800b2cde4e60a2bedc2",
-      "url": "https://www.cbc.ca/news/politics/caf-member-latvia-death-9.7069298?cmp=rss",
-      "title": "Canadian Armed Forces member dies in Latvia",
-      "published_at": "2026-01-30T15:21:31-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Canadian Armed Forces member has died while on deployment in Latvia, the Department of National Defence said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
       }
     }
   ]
