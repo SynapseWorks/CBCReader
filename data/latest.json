@@ -1,18 +1,83 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-01T09:20:41.073089-05:00",
+  "generated_at": "2026-02-01T15:19:22.772239-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "4591086034aefc494f11235b011e72fd9695b2f3",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-1-2025-9.7068131?cmp=rss",
-      "title": "Looking to 'Buy Canadian' at the grocery store? Beware of maple-washing: CBC’s Marketplace Cheat Sheet",
-      "published_at": "2026-02-01T03:00:00-05:00",
+      "id": "e2e7c92c33ef1910d386e3bb93b7a83fcce95b3c",
+      "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-medical-personnel-evacuation-cryptosporidium-9.7070044?cmp=rss",
+      "title": "Medical personnel to be evacuated from Kashechewan First Nation, still under state of emergency",
+      "published_at": "2026-02-01T08:53:46-05:00",
       "section": "Top Stories",
-      "summary_auto": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
+      "summary_auto": "Indigenous Services Canada says it anticipates to evacuate all nurses and paramedics still working in Kashechewan First Nation on Monday. Approximately 300 people remain in the community, including children.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.459,
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cde1e0ad2ce833a694dbc3d44dd243e7dc451cc7",
+      "url": "https://www.cbc.ca/news/world/liam-ramos-and-father-return-minnesota-9.7069972?cmp=rss",
+      "title": "5-year-old Liam Ramos and father return to Minnesota from Texas detention facility",
+      "published_at": "2026-02-01T07:00:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A five-year-old boy and his father detained by immigration officers in Minnesota and held in Texas have been released following a judge's order. They have returned to Minnesota, according to the office of U.S. Democratic Rep. Joaquin Castro.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d6a0573b6258dfbdb6a2dcb5e2e60f793b0e7024",
+      "url": "https://www.cbc.ca/news/world/pakistan-forces-militants-killed-9.7069890?cmp=rss",
+      "title": "Pakistan forces kill 145 separatist militants in 40-hour battle",
+      "published_at": "2026-02-01T04:32:05-05:00",
+      "section": "World",
+      "summary_auto": "Pakistani security forces killed 145 militants in a 40-hour battle launched as a series of co-ordinated gun and bomb attacks across Balochistan left nearly 50 people dead, the province's chief minister said on Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.976,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6676251a0ab8112e8d4e27b6969678e4fde9ae22",
+      "url": "https://www.cbc.ca/news/world/ukraine-talks-russian-drone-9.7069841?cmp=rss",
+      "title": "More than a dozen people killed in Ukraine after Russian drone strikes miners' bus",
+      "published_at": "2026-02-01T04:26:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fifteen people were killed and seven wounded after a Russian drone struck a bus carrying miners in Ukraine's southeastern Dnipropetrovsk region, energy firm DTEK ​and government officials said on Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3da7f848938c9788ff542954d82de5dcf514559c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/canada-mens-womens-hockey-team-doctors-are-married-9.7065718?cmp=rss",
+      "title": "Meet the doctors for Canada’s men’s and women’s Olympic hockey teams — who happen to be married",
+      "published_at": "2026-02-01T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Laura Bennion and Ian Auld are the lead physicians for Canada's women's and men's hockey teams.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "35837caa2b53540b586579016177c1121d52e923",
+      "url": "https://www.cbc.ca/news/world/power-outage-ukraine-moldova-winter-9.7069838?cmp=rss",
+      "title": "Power outages hit Ukraine and Moldova as Kyiv faces winter cold",
+      "published_at": "2026-02-01T03:59:49-05:00",
+      "section": "World",
+      "summary_auto": "Emergency power cuts swept across several Ukrainian cities as well as neighbouring Moldova on Saturday, officials said, amid a commitment from the Kremlin to U.S. President Donald Trump to pause strikes on Kyiv as Ukraine battles one of its bleakest winters in years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +86,7 @@
       "url": "https://www.cbc.ca/sports/tennis/alcaraz-djokovic-australian-open-final-2026-9.7069840?cmp=rss",
       "title": "Alcaraz, 22, beats Djokovic to win Australian Open, becoming youngest man to complete career Grand Slam",
       "published_at": "2026-02-01T02:39:42-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Carlos Alcaraz is the youngest man ever to complete a career Grand Slam after securing the Australian Open title against Novak Djokovic, who had never lost in his 10 previous finals at Melbourne Park.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,29 +95,42 @@
       }
     },
     {
+      "id": "a6c12dd4a4b2dbc5b0e4a30ab1f37aef0941ca53",
+      "url": "https://www.cbc.ca/news/canada/calgary/blairmore-alberta-bank-branch-closure-9.7065612?cmp=rss",
+      "title": "Blairmore latest Alberta community to lose bank branch — a trend seen across Canada",
+      "published_at": "2026-02-01T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The loss of retail banking service locations is not unique to one bank or to Alberta or to small towns. The Canadian Bankers Association says the number of bank branches is down nationwide: about six per cent from 2020 to 2024. But the closures hit harder in small communities where the options are fewer and farther apart.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.329,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "19abdf7fded57c05b31b7165b53a1f7a649a4e99",
+      "url": "https://www.cbc.ca/news/canada/edmonton/sex-education-resource-presenter-limits-alberta-legislation-9.7068590?cmp=rss",
+      "title": "Alberta vetting process limits sexual education materials for students, some experts say",
+      "published_at": "2026-02-01T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some sexual health education experts, advocacy groups and teachers say new provincial approval requirements have left educators with inadequate options to teach Alberta’s health curriculum.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7180b326e7c9a798fbf9dafdae513336c551f933",
       "url": "https://www.cbc.ca/news/canada/saskatchewan/fda-goodenowe-health-centre-founder-supplement-study-patient-risk-9.7066803?cmp=rss",
       "title": "FDA warns ‘Dr. Goodenowe’ health centre founder that his recent supplement study put patient health at risk",
       "published_at": "2026-02-01T01:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "The U.S. Food and Drug Administration (FDA) has rebuked the founder of Moose Jaw’s controversial Dr. Goodenowe Restorative Health Center, alleging that a recent clinical trial of his supplements put the safety and welfare of research subjects at risk.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.382,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3962c8ab9e49bc9242bc994a52d19a764fb07756",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/credit-rating-downgrade-budget-9.7068759?cmp=rss",
-      "title": "Nova Scotia's credit rating downgraded amid deficit concerns",
-      "published_at": "2026-02-01T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Nova Scotia government’s credit rating was downgraded by S&P Global this week in response to concerns including the province’s mounting deficit, which Premier Tim Houston recently said could top $1.4 billion.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -78,6 +156,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.241,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "53ce54ca6d9d9b1b6f437d3122208818e1d4ec99",
+      "url": "https://www.cbc.ca/news/canada/toronto/quique-escamilla-cancels-us-tour-amid-ice-shootings-9.7066870?cmp=rss",
+      "title": "Toronto-based Mexican musician cancels U.S. tour after ICE shootings, as artists reconsider American shows",
+      "published_at": "2026-01-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Industry reps say Canadian musicians are increasingly concerned about touring the U.S., traditionally their biggest market, amid rising political tensions and Trump's immigration crackdown.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5bea5df38274e83cb8f2375b266a299b0df388fb",
+      "url": "https://www.cbc.ca/news/canada/hamilton/kashechewan-first-nation-water-crisis-niagara-falls-9.7068741?cmp=rss",
+      "title": "Kashechewan teen evacuated to Niagara Falls, Ont., says she misses 'being on the land'",
+      "published_at": "2026-01-31T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Kashechewan residents Kerri-Ann Koosees and Keisha Paulmartin were forced to evacuate to Niagara Falls on short notice after the First Nation declared a state of emergency. Despite concerns and challenges, they say they're grateful for city and local groups trying to meet their needs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.575,
         "subjectivity_hint": "low"
       }
     },
@@ -131,84 +235,6 @@
         "article_type": "News",
         "sentiment": 0.421,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7222553e7d0910b07e414c8e43129082c703030d",
-      "url": "https://www.cbc.ca/news/politics/conservative-convention-policies-adopted-9.7069756?cmp=rss",
-      "title": "The Conservative Party is overhauling its policy playbook. Here's what's changing",
-      "published_at": "2026-01-31T14:50:29-05:00",
-      "section": "Canada",
-      "summary_auto": "Delegates at the Conservative Party's national convention in Calgary voted overwhelmingly Saturday to enact a \"stand your ground\"-style law to allow someone to protect themselves with lethal force against an intruder in their home. This was one of dozens of policies debated and adopted by delegates, many of which focused on crime, immigration and social policy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "66ff49cd547f849e4980fc1c64fd6e33c09c8586",
-      "url": "https://www.cbc.ca/news/canada/manitoba/pierre-polievre-churchill-military-base-9.7069738?cmp=rss",
-      "title": "Pierre Polievre wants a Churchill base, but experts debate northern Manitoba town's military capacity",
-      "published_at": "2026-01-31T13:23:18-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Party leader Pierre Poilievre says a Conservative government would build a base in Churchill to strengthen Canada's defence systems — but experts argue the northern Manitoba town presents challenges as a military location.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.665,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1bcfef49a0ed2125cf4eb9471452a068ca6055bb",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/badger-flooding-jan-31-9.7069705?cmp=rss",
-      "title": "Evacuation orders remain in Badger, N.L., water levels 'still high'",
-      "published_at": "2026-01-31T12:43:45-05:00",
-      "section": "Canada",
-      "summary_auto": "The mayor of Badger says he’s “cautiously optimistic” after seeing a drop in water levels – but river water is still high and evacuation orders remain in place.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.141,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1667a6133b50a259a38ef443395f05d5f957481c",
-      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-ucp-united-conservative-party-9.7069719?cmp=rss",
-      "title": "On home turf, Alberta Premier Danielle Smith jabs familiar foes to warm reception",
-      "published_at": "2026-01-31T11:50:36-05:00",
-      "section": "Canada",
-      "summary_auto": "Alberta Premier Danielle Smith flexed her star power amongst Conservative Party faithful on Saturday, advocating for popular conservative policies while not directly addressing the separatist issue that has made headlines this week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e069b3388239b3be89ea84f54ed35e87ca1023f9",
-      "url": "https://www.cbc.ca/news/world/father-son-release-minnesota-immigration-crackdown-arrest-9.7069712?cmp=rss",
-      "title": "Judge orders U.S. to free 5-year-old boy, father detained by ICE in Minnesota",
-      "published_at": "2026-01-31T10:52:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Images of Liam Conejo Ramos wearing a bunny hat and Spiderman backpack while surrounded by U.S. Immigration and Customs Enforcement officers sparked even more outcry about the Trump administration's immigration crackdown in Minnesota.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.458,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "84536851c4998d2089bcbb2391814e845c856bf0",
-      "url": "https://www.cbc.ca/news/canada/ottawa/school-bus-driver-abandons-students-ottawa-9.7069673?cmp=rss",
-      "title": "School bus driver fired after students abandoned in Ottawa parking lot",
-      "published_at": "2026-01-31T09:43:45-05:00",
-      "section": "Top Stories",
-      "summary_auto": "More than three dozen students from Collège catholique Samuel-Genest were left stranded in a parking lot Friday by their school bus driver, according to the local school bus consortium.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
       }
     }
   ]
