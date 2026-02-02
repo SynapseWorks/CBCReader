@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-01T15:19:22.772239-05:00",
+  "generated_at": "2026-02-01T20:43:37.925238-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "14937b307dba503b13d27e1168c603a293ad7e0e",
+      "url": "https://www.cbc.ca/news/entertainment/livestory/grammy-awards-2026-9.7070119?cmp=rss",
+      "title": "Grammys 2026: Follow live updates on the biggest night in music",
+      "published_at": "2026-02-01T13:59:50-05:00",
+      "section": "Entertainment",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60d13d6836b0316519162a2751e3a7cda187d3d0",
+      "url": "https://www.cbc.ca/life/style/grammy-awards-red-carpet-fashion-2026-9.7070086?cmp=rss",
+      "title": "Red carpet highlights from the 2026 Grammy Awards",
+      "published_at": "2026-02-01T13:43:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "All the must-see looks from music’s biggest night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2bd3a4b8cbcf668310c291dcf38b8e6dd37b5b69",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-ice-protest-9.7070113?cmp=rss",
+      "title": "Montrealers call for end to U.S. immigration crackdown at anti-ICE protest",
+      "published_at": "2026-02-01T12:53:44-05:00",
+      "section": "Canada",
+      "summary_auto": "Demonstrators gathered in Montreal on Sunday to protest the immigration crackdown by U.S. Immigration and Customs Enforcement, calling out the law enforcement agency's tactics as well as Canadian \"complicity\" in them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5496890305bdd6180dee47c09b203c9609eb777c",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/einarson-sturmay-lawes-scotties-roundup-mississauga-9.7070087?cmp=rss",
+      "title": "Kerri Einarson to play for 5th Canadian women's curling title and Kaitlyn Lawes her 2nd",
+      "published_at": "2026-02-01T11:10:24-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada's Kerri Einarson is returning to the championship game at the Scotties Tournament of Hearts following a 12-5 rout of Alberta's Selena Sturmay on Sunday in Mississauga, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f7da32eff8133f411ee2adf9ab6a5b811a0f476a",
+      "url": "https://www.cbc.ca/news/canada/hamilton/sebastian-halmagean-canadian-armed-forces-9.7070059?cmp=rss",
+      "title": "Hamilton soldier who died in Latvia was 'immensely proud' to be part of Canadian military, says father",
+      "published_at": "2026-02-01T10:11:30-05:00",
+      "section": "Canada",
+      "summary_auto": "Sebastian Halmagean, originally from Hamilton, was a gunner based at the 5th Canadian Division Support Base Gagetown in Oromocto, N.B., on his first deployment to Latvia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65732945a7cfc8b4ec40f303b9a4a33bf7871518",
+      "url": "https://www.cbc.ca/player/play/9.7070061?cmp=rss",
+      "title": "Rafah border crossing into Gaza opened for limited passage, Israel says",
+      "published_at": "2026-02-01T09:57:27-05:00",
+      "section": "World",
+      "summary_auto": "Israel reopened the Rafah border crossing on Sunday for people to travel between Gaza and Egypt, the first opening of effectively the sole route in or out of the Palestinian territory since May 2024. Israel seized the border crossing in May 2024, nine months after it launched attacks on the region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e7269882987f817579782e0ec2b7a1f28cfb62dd",
+      "url": "https://www.cbc.ca/news/canada/montreal/mexico-work-permit-monica-colin-silva-9.7069767?cmp=rss",
+      "title": "Quebec family forced to return to Mexico after mother says she failed French exam by 1 point",
+      "published_at": "2026-02-01T09:20:06-05:00",
+      "section": "Canada",
+      "summary_auto": "Between new language requirements put in place in 2024 and the abolition of another pathway to permanent residency, some international students in Quebec feel betrayed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.883,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "e2e7c92c33ef1910d386e3bb93b7a83fcce95b3c",
       "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-medical-personnel-evacuation-cryptosporidium-9.7070044?cmp=rss",
@@ -82,6 +173,19 @@
       }
     },
     {
+      "id": "4a8b9ccdf27c6dae6cc60e6fe2a2bf1436a504f2",
+      "url": "https://www.cbc.ca/news/world/iran-supreme-leader-us-attack-regional-war-9.7069829?cmp=rss",
+      "title": "Iran's Khamenei warns any U.S. attack would spark 'regional war'",
+      "published_at": "2026-02-01T03:24:17-05:00",
+      "section": "World",
+      "summary_auto": "Iran's supreme leader warned Sunday that any attack by the United States would spark a \"regional war\" in the Middle East, further escalating tensions as U.S. President Donald Trump has threatened to militarily strike the Islamic Republic over its crackdown on recent nationwide protests.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.937,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "db04191ce74d00d29da01e40d2de9500d8ee85c6",
       "url": "https://www.cbc.ca/sports/tennis/alcaraz-djokovic-australian-open-final-2026-9.7069840?cmp=rss",
       "title": "Alcaraz, 22, beats Djokovic to win Australian Open, becoming youngest man to complete career Grand Slam",
@@ -104,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.329,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "19abdf7fded57c05b31b7165b53a1f7a649a4e99",
-      "url": "https://www.cbc.ca/news/canada/edmonton/sex-education-resource-presenter-limits-alberta-legislation-9.7068590?cmp=rss",
-      "title": "Alberta vetting process limits sexual education materials for students, some experts say",
-      "published_at": "2026-02-01T02:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some sexual health education experts, advocacy groups and teachers say new provincial approval requirements have left educators with inadequate options to teach Alberta’s health curriculum.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
         "subjectivity_hint": "low"
       }
     },
@@ -199,32 +290,6 @@
       }
     },
     {
-      "id": "30aebbd09a00b6510a1d32211424befd8f0b5cfa",
-      "url": "https://www.cbc.ca/news/canada/toronto/iranian-canadian-speaks-out-9.7068742?cmp=rss",
-      "title": "Her cousins were killed during deadly Iranian protests. She wants people to know who they were",
-      "published_at": "2026-01-31T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Iranian-Canadian Tayebeh Poshtareh found out from an Instagram post that her cousins had died in the streets of Tehran this month during deadly protests that prompted a bloody crackdown and an internet blackout. She and other Iranians in Canada say the lack of communication is taking a toll on families, while those still in Iran are facing pressure from the regime.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.954,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6a1dd197be54c65dd87840f5122c6a56b4dc8669",
-      "url": "https://www.cbc.ca/news/world/canadian-rome-catholic-artificial-intelligence-9.7066782?cmp=rss",
-      "title": "How a Canadian in Rome is building a Catholic AI from Vatican archives",
-      "published_at": "2026-01-31T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Canadian entrepreneur in Rome is building Magisterium AI, a Catholic platform trained on church documents and Vatican-linked collections. The project aims to make doctrine searchable at scale, while raising questions about accuracy, authority and how it will be used.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "4e51a65741517a0ef9e6be1cff4ed9fec7121076",
       "url": "https://www.cbc.ca/news/politics/jenni-byrne-convention-interview-9.7069795?cmp=rss",
       "title": "Former campaign manager says Conservatives should link U.S. relations to cost of living",
@@ -235,6 +300,19 @@
         "article_type": "News",
         "sentiment": 0.421,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6a1dd197be54c65dd87840f5122c6a56b4dc8669",
+      "url": "https://www.cbc.ca/news/world/canadian-rome-catholic-artificial-intelligence-9.7066782?cmp=rss",
+      "title": "How a Canadian in Rome is building a Catholic AI from Vatican archives",
+      "published_at": "2026-01-31T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "A Canadian entrepreneur in Rome is building Magisterium AI, a Catholic platform trained on church documents and Vatican-linked collections. The project aims to make doctrine searchable at scale, while raising questions about accuracy, authority and how it will be used.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
       }
     }
   ]
