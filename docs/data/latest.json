@@ -1,8 +1,424 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-02T09:37:04.912527-05:00",
+  "generated_at": "2026-02-02T20:42:57.963670-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "39a0f69bf95f48e6da6f9de599cd8d9aefc7e152",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-man-found-guilty-of-tunnelling-into-upstairs-neighbour-s-apartment-9.7071656?cmp=rss",
+      "title": "Calgary man found guilty of tunnelling into upstairs neighbour's apartment",
+      "published_at": "2026-02-02T15:04:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Calgary man who tunnelled from his apartment to that of his upstairs neighbour last summer has been found guilty of break and enter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fbae6bc049fdf4b29dd5825b5c4e2e134ed52f7c",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-ucp-caucus-has-no-business-signing-separation-vote-petition-former-premier-9.7071622?cmp=rss",
+      "title": "Alberta UCP caucus has 'no business' signing separation vote petition: former premier",
+      "published_at": "2026-02-02T14:52:56-05:00",
+      "section": "Canada",
+      "summary_auto": "Former Alberta premier Jason Kenney says the governing United Conservative Party caucus has \"no business\" signing a petition to force a vote on the province quitting Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1ba42b12f4ef8f7251a7b57f030e01e96a5f3bc9",
+      "url": "https://www.cbc.ca/news/entertainment/michael-biopic-trailer-9.7071419?cmp=rss",
+      "title": "What we still don't know about the Michael Jackson biopic after that trailer",
+      "published_at": "2026-02-02T14:51:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Lionsgate released the trailer to Michael, its Michael Jackson biopic on Monday. The trailer answers a few questions about one of the most anticipated films of 2026 — while leaving a host of others up in the air.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "13b7d58508e52dec23b2052eb57de161149efc30",
+      "url": "https://www.cbc.ca/news/canada/calgary/southern-alberta-mustangs-collision-9.7071643?cmp=rss",
+      "title": "3 Alberta junior hockey players killed in highway crash",
+      "published_at": "2026-02-02T14:39:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Southern Alberta Mustangs, based in Stavely, Alta., announced three players on its roster died while travelling to a team practice on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ebf95e483dee73cdc9ecf8fb78aa397d53abef6",
+      "url": "https://www.cbc.ca/news/business/detroit-three-decline-report-9.7071248?cmp=rss",
+      "title": "Auto production by Detroit Three declines in Canada as Japanese automakers lead the way, report says",
+      "published_at": "2026-02-02T14:23:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "While Canadian production and jobs with Ford, Stellantis and General Motors have declined over the past decade, they have stayed consistent among Japanese carmakers, according to a new report by the Trillium Network for Advanced Manufacturing, an Ontario-based think-tank.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a46f03d2135c2befd38d073a262791358d94d72d",
+      "url": "https://www.cbc.ca/player/play/9.7071606?cmp=rss",
+      "title": "Melania documentary: Bold or just bad?",
+      "published_at": "2026-02-02T14:07:19-05:00",
+      "section": "World",
+      "summary_auto": "Andrew Chang explains the critical and box office response to the documentary film of the United States First Lady Melania Trump. Images provided by The Canadian Press, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "626dd71da23c8bc5e2fc80ed82a604a3bcfff040",
+      "url": "https://www.cbc.ca/news/world/minneapolis-agents-ice-body-worn-cameras-9.7071372?cmp=rss",
+      "title": "Body cameras being immediately issued to ICE agents in Minneapolis",
+      "published_at": "2026-02-02T13:23:39-05:00",
+      "section": "World",
+      "summary_auto": "Every U.S. Homeland Security officer on the ground in Minneapolis, including Immigration and Customs Enforcement officers, will be immediately issued body-worn cameras, Secretary Kristi Noem said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c10d92186e50ba1ec4356be94582d8d303df0757",
+      "url": "https://www.cbc.ca/radio/asithappens/china-whistleblower-asylum-9.7071354?cmp=rss",
+      "title": "U.S. judge grants asylum to Chinese whistleblower who got scooped up in ICE raid",
+      "published_at": "2026-02-02T12:57:52-05:00",
+      "section": "World",
+      "summary_auto": "A Chinese whistleblower fled to the U.S. with footage of detention camps and requested asylum, only to be arrested by ICE agents and face deportation to Uganda. Now, five years after his saga began, his asylum claim has been granted.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "51774077e3d4c646096e0b624ddc383d56287d6a",
+      "url": "https://www.cbc.ca/news/world/nancy-guthrie-missing-arizona-9.7071293?cmp=rss",
+      "title": "Arizona police suspect crime in disappearance of Today show host's mother",
+      "published_at": "2026-02-02T12:51:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The disappearance of the 84-year-old mother of NBC's Today show host Savannah Guthrie over the weekend is being investigated as a crime based on what authorities saw at her home, an Arizona sheriff said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "659785d72d560518e1b818469f19e40a313d3834",
+      "url": "https://www.cbc.ca/player/play/9.7071401?cmp=rss",
+      "title": "Fact check: Fake Grammys photo of Justin Trudeau and Katy Perry",
+      "published_at": "2026-02-02T12:23:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "No, Justin Trudeau and Katy Perry were not photographed at the Grammys on Sunday. But these fake photos were shared widely online.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d89415b2ecbfff7bd83e88d1590dc13afeae302",
+      "url": "https://www.cbc.ca/news/science/artemisii-wet-dress-9.7071295?cmp=rss",
+      "title": "NASA's moon rocket experiences fuel leak during critical test ahead of launch",
+      "published_at": "2026-02-02T12:21:26-05:00",
+      "section": "World",
+      "summary_auto": "NASA ran into a leak while fuelling its new moon rocket Monday in one final make-or-break test that will determine when astronauts can launch on a lunar fly-around.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "49c07cbb7bfa865a221825c90b14175cf8c31007",
+      "url": "https://www.cbc.ca/news/canada/hamilton/repatriation-gunner-sebastian-halmagean-9.7071268?cmp=rss",
+      "title": "Hamilton soldier who died in Latvia to be honoured at repatriation ceremony",
+      "published_at": "2026-02-02T11:42:16-05:00",
+      "section": "Canada",
+      "summary_auto": "A Hamilton soldier who died in Latvia last week will be honoured at a repatriation ceremony on Tuesday in Quinte West in southern Ontario.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9abb5b9b4197d580a2cb6761aded661092080d2e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/eby-alberta-separatist-group-treason-9.7071107?cmp=rss",
+      "title": "B.C. premier doubles down on calling Alberta separatist movement seeking U.S. support 'treason'",
+      "published_at": "2026-02-02T11:12:49-05:00",
+      "section": "Canada",
+      "summary_auto": "Calgary-based data analyst John Santos warns that that kind of language could push people toward separatism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2fc2049298a76b777d431b39a0afbef6dd957f3e",
+      "url": "https://www.cbc.ca/sports/olympics/winter/skeleton/katie-uhlaender-court-of-arbitration-for-sport-appeal-olympics-9.7071179?cmp=rss",
+      "title": "Olympic appeal for U.S. skeleton racer who accused Canada of sabotage is outside jurisdiction: sports court",
+      "published_at": "2026-02-02T10:36:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. skeleton racer Katie Uhlaender's last chance to make the Olympic field may have been lost Monday, with the Court of Arbitration for Sport saying it lacks the jurisdiction to change the result of a race that could have earned her a berth in the Milan-Cortina Winter Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7fc624d788a00f84d3ef632ab59c760e7fd443a5",
+      "url": "https://www.cbc.ca/news/canada/manitoba/fortress-developers-fraud-sentencing-9.7071147?cmp=rss",
+      "title": "Financiers who defrauded investors in Man. and Ont. projects each sentenced to 5 years in jail, $12 million",
+      "published_at": "2026-02-02T10:27:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jawad Rathore, 49, and 50-year-old Vince Petrozza were executives for Fortress Real Developments Inc., a defunct Toronto-area syndicated mortgage company that raised funds for a failed 45-storey tower in downtown Winnipeg called SkyCity and a Barrie mixed-use development called the Collier Centre.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "466fa54f8201afb3afe09d4ff1743fd08caf55d4",
+      "url": "https://www.cbc.ca/radio/quirks/gifted-dogs-learn-words-9.7071004?cmp=rss",
+      "title": "‘Gifted’ dogs can learn new words just by eavesdropping",
+      "published_at": "2026-02-02T10:26:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Researchers have identified that some dogs are \"gifted word learners” — pups who know the names of more than 100 toys. In fact, these dogs can learn new words just by eavesdropping. And even if your dog isn’t in this \"gifted\" group, there are many ways to help them improve how they learn.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dc168823b9380e0cdca154cf8b986592212027d",
+      "url": "https://www.cbc.ca/news/politics/bill-blair-appointment-high-commissioner-mp-9.7071166?cmp=rss",
+      "title": "Former minister Bill Blair appointed to diplomatic post, resigns as MP",
+      "published_at": "2026-02-02T10:21:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Former Liberal cabinet minister Bill Blair resigned as an MP on Monday after the Prime Minister's Office announced that he will be Canada's next high commissioner to the U.K.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "892398ceefa3a3e84921077bc03a7f05aeff9503",
+      "url": "https://www.cbc.ca/news/world/westminster-kennel-club-dog-show-scroller-9.7070669?cmp=rss",
+      "title": "IN PHOTOS | Best of Westminster Kennel Club dog show",
+      "published_at": "2026-02-02T09:59:00-05:00",
+      "section": "World",
+      "summary_auto": "The annual Westminster Kennel Club Dog Show is underway, and over 3,000 dogs from around the world have gathered in New York City to participate in various competitions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b550402b0e09b5d5fb0de42214c19e2a0aee354a",
+      "url": "https://www.cbc.ca/news/canada/london/western-university-hazardous-chemicals-firearms-charges-9.7070910?cmp=rss",
+      "title": "Accused in London, Ont. bomb-making scheme face new charges of manufacturing firearms",
+      "published_at": "2026-02-02T09:57:41-05:00",
+      "section": "Canada",
+      "summary_auto": "Charges continue to mount against four people accused of allegedly stockpiling chemicals that could be used to make explosives, including new allegations that they were manufacturing a handgun.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "02298460f691e94a81fd15660601137e98e13881",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/badger-water-levels-feb-2-9.7070990?cmp=rss",
+      "title": "Water levels in Badger, Nfld., lowering, but evacuation order remains in place",
+      "published_at": "2026-02-02T09:52:44-05:00",
+      "section": "Canada",
+      "summary_auto": "The mayor of Badger says water levels are falling as the town faces a risk of major flooding, but it's still too early to know when evacuated residents can return to their homes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.619,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "de8038ff0998891201c6e4b96e77db70a88b4830",
+      "url": "https://www.cbc.ca/news/world/trump-modi-russian-oil-tariffs-deal-9.7071040?cmp=rss",
+      "title": "Trump says he'll lower tariffs on India after Modi agrees to stop buying Russian oil",
+      "published_at": "2026-02-02T09:36:47-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump on Monday said he had agreed on a trade deal ​with India that slashes U.S. tariffs on Indian goods to 18 per cent from 50 per cent in exchange for India lowering trade barriers and stopping its purchases of Russian oil.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e6027e2336c52b48f114aa423e457ca1b967eae2",
+      "url": "https://www.cbc.ca/news/health/psychosis-schizophrenia-age-cmaj-9.7070924?cmp=rss",
+      "title": "Psychosis rates climb among young people in Ontario, researchers find",
+      "published_at": "2026-02-02T09:11:18-05:00",
+      "section": "Health",
+      "summary_auto": "Rates of psychotic disorders have increased in young people in Ontario, a new study suggests. Researchers suspect cannabis use as a contributor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "25408ea951754f3d9eb066d53cb61103798c98fa",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/stellato-dudek-injury-deschamps-withdrawal-olympic-figure-skating-team-event-9.7070999?cmp=rss",
+      "title": "Injury forces Canada's Deanna Stellato-Dudek, figure skating partner Deschamps out of Olympic team event",
+      "published_at": "2026-02-02T09:01:17-05:00",
+      "section": "Canada",
+      "summary_auto": "World figure skating champions Deanna Stellato-Dudek and Maxime Deschamps of Canada will not compete in the Olympic team event in Italy later this month due to a training injury in Quebec sustained by Stellato-Dudek, the Canadian Olympic Committee announced Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9561196148418a9472287749a277f08569e072a3",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-joe-carter-statue-9.7070994?cmp=rss",
+      "title": "Blue Jays legend Joe Carter to be honoured with statue outside Rogers Centre",
+      "published_at": "2026-02-02T08:48:31-05:00",
+      "section": "Canada",
+      "summary_auto": "One of the greatest moments in Toronto Blue Jays history will be immortalized outside Rogers Centre. A statue of Joe Carter's historic walk-off home run to win the 1993 World Series will be erected outside Toronto's downtown ballpark.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.904,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77afb370f38e7566767d208195db85256249d300",
+      "url": "https://www.cbc.ca/news/politics/two-billion-uncashed-government-cheques-9.7070951?cmp=rss",
+      "title": "Canadians sitting on $2B in uncashed federal cheques from past 4 years",
+      "published_at": "2026-02-02T08:37:13-05:00",
+      "section": "Canada",
+      "summary_auto": "Canadians have left some $2 billion in funds on the table by not cashing millions of paper cheques mailed out by federal government departments.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "370ed4fdb86727b9c093bc4484c8b7bcab8780ff",
+      "url": "https://www.cbc.ca/news/frank-stronach-sexual-assault-trial-toronto-9.7070510?cmp=rss",
+      "title": "Billionaire businessman Frank Stronach's sexual assault trial set to start Tuesday but may be delayed",
+      "published_at": "2026-02-02T08:23:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Frank Stronach's trial in Toronto is set to get underway Tuesday on charges of sexual assault against multiple women, but the billionaire businessman's lawyer told CBC News late Monday that she'll be asking the judge to delay proceedings for several delays due to additional pretrial motions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f66e04b54733c8d17898aef22b4aa8b5a483d5ad",
+      "url": "https://www.cbc.ca/news/world/epstein-files-notable-figures-9.7070443?cmp=rss",
+      "title": "Powerful men from politics, business and entertainment mentioned in latest Jeffrey Epstein files",
+      "published_at": "2026-02-02T07:14:38-05:00",
+      "section": "World",
+      "summary_auto": "Here is a look at some of the notable names in the latest release of files from the U.S. Justice Department pertaining to Jeffrey Epstein. The list includes politicians, entertainment figures, business leaders and Royal Family members, with some releasing statements this past weekend about their interactions with the late accused child sex trafficker.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c654e2acda04dbd5256610e49a572a904c69093f",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/canada-kingsbury-heads-to-4th-games-focused-on-fun-not-pressure-9.7070796?cmp=rss",
+      "title": "Canada's Mikaël Kingsbury heads to 4th Games focused on fun, not pressure",
+      "published_at": "2026-02-02T07:09:22-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada's Mikaël ‍Kingsbury has spent more than a decade as the standard-bearer of moguls skiing, piling up records, medals, and milestones with almost mechanical consistency. But as the skier affectionately known as \"The King\" prepares for his fourth Olympic Games, the goal driving him is surprisingly simple. He just wants to enjoy it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.941,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46d4effcc91f82b357ba4ba72024c96fda93f994",
+      "url": "https://www.cbc.ca/news/canada/hamilton/stoney-creek-dogs-animal-services-9.7070703?cmp=rss",
+      "title": "Hamilton woman to pay a fraction of $101K bill after province rescued 55 miniature poodles from her home",
+      "published_at": "2026-02-02T06:50:40-05:00",
+      "section": "Canada",
+      "summary_auto": "The Ontario Animal Care Review Board says it balanced the “significant public resources expended” and the woman's \"limited financial resources.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c14a5deb4a9f0c4ca97f55c21059f60fef43c993",
+      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-venues-cortina-unfinished-frantic-work-9.7070688?cmp=rss",
+      "title": "The Milano-Cortina Olympics are 3 days away. But preparation remains visibly unfinished",
+      "published_at": "2026-02-02T06:27:49-05:00",
+      "section": "World",
+      "summary_auto": "In Cortina d’Ampezzo, Italy, preparations for the Winter ⁠Olympics remain visibly unfinished, underlining the pressure organizers are facing as the ⁠curling tournament starts Wednesday and the first women's downhill training is scheduled for Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "87dd1f34bca7d0670900c5bc8f4cab19b84e190f",
+      "url": "https://www.cbc.ca/news/business/gold-silver-prices-slide-monday-trump-warsh-fed-9.7070589?cmp=rss",
+      "title": "Gold, silver prices continue to slide after Trump picks Warsh to lead Fed",
+      "published_at": "2026-02-02T05:36:16-05:00",
+      "section": "Business",
+      "summary_auto": "Wild swings that swept through financial markets overnight calmed as Wall Street opened for trading on Monday. U.S. stocks are holding relatively steady following gains in Europe and sharp drops in Asia, while gold and silver prices rallied back from severe earlier losses.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d56015326001551f84b7b68109a9f3cd9087157b",
+      "url": "https://www.cbc.ca/news/canada/toronto/go-transit-delays-9.7070546?cmp=rss",
+      "title": "GO train derailment near Toronto's Union Station leads to delays, modified service",
+      "published_at": "2026-02-02T04:49:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A GO train that partially derailed near Union Station Monday morning is causing mass train delays, with service disruptions likely to last through the evening, Metrolinx says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a5418a0c7f6c5cc795f84877576ea85d2f28217a",
       "url": "https://www.cbc.ca/news/world/norway-princess-son-rape-9.7070424?cmp=rss",
@@ -30,15 +446,41 @@
       }
     },
     {
+      "id": "3a317a293d18357268d44baae4394a0e030572fc",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/developer-jail-contempt-court-finances-9.7064165?cmp=rss",
+      "title": "B.C. developer worth millions risks jail unless she reveals truth of personal finances",
+      "published_at": "2026-02-02T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Vancouver developer with an estimated net worth of at least $20 million will be jailed later this month unless she comes clean with a B.C. Supreme Court judge about her personal finances. Helen Chan Sun was given a suspended jail sentence for contempt of court in November after failing to comply with a payment order.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "c77acf2f6cd01a3c5e6a2dc862d205a784aeb5a6",
       "url": "https://www.cbc.ca/news/world/gaza-khan-younis-death-rafah-crossing-9.7070337?cmp=rss",
       "title": "Rafah crossing between Gaza and Egypt reopens, with strict limits",
       "published_at": "2026-02-02T01:38:13-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Gaza's Rafah border crossing with Egypt reopened on Monday for limited traffic, a key step in the Israeli-Hamas ceasefire but a mostly symbolic development on the ground, as few people will be allowed to travel in either direction and no goods will be going into the war-torn territory.",
+      "section": "World",
+      "summary_auto": "Dozens of Palestinians were expected to leave or return to Gaza on Monday after Israel reopened the sole pedestrian crossing to Egypt, a major step in the ceasefire intended to end the war, though with strict limitations on access.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.502,
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "091000750f6c40293427d8753d472078f4c12192",
+      "url": "https://www.cbc.ca/news/canada/manitoba/illegal-sports-betting-9.7068647?cmp=rss",
+      "title": "Manitoba has only 1 legal sports betting site, but tests show it's easy to use others",
+      "published_at": "2026-02-02T01:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Manitoba has one legal online gambling site, but the CBC found it easy to place bets with some popular online brands that the provincial Liquor & Lotteries agency says are operating illegally.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.925,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +489,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/baby-huxley-edmonton-9.7061731?cmp=rss",
       "title": "'Perfect storm' of medical missteps cost newborn his life, Edmonton mother says",
       "published_at": "2026-02-02T01:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "An Edmonton couple is sharing the details of their baby's death with CBC News in the hopes revelations about his traumatic delivery can help prevent similar tragedies. Huxley Bowes' death, and the investigations that followed, triggered systemic changes at the Edmonton hospital where he was born.",
       "bias_heuristic": {
         "article_type": "News",
@@ -56,37 +498,11 @@
       }
     },
     {
-      "id": "9411e65b8f50640a740b18456605b2a1c7a01caa",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/winter-storm-february-2-9.7070345?cmp=rss",
-      "title": "Some schools closed as another winter storm crosses N.S.",
-      "published_at": "2026-02-02T00:47:39-05:00",
-      "section": "Canada",
-      "summary_auto": "Cape Breton and parts of eastern and northern mainland Nova Scotia are under either snowfall or winter storm warnings. It is the third storm Nova Scotia has faced in a matter of weeks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b743bfcbb4376a71db7889b96780e4f180dd8270",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/winter-storm-feb-2-9.7070332?cmp=rss",
-      "title": "Schools closed, buses pulled off roads as storm hammers Newfoundland",
-      "published_at": "2026-02-02T00:04:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A winter storm is bringing heavy snow and high winds to parts of Newfoundland on Monday, with schools closed in the central and eastern regions for the day.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e14ab6d1ed3da5f4bec76e8a8e67a4e8180c57ba",
       "url": "https://www.cbc.ca/news/world/kenney-center-close-two-years-trump-9.7070289?cmp=rss",
       "title": "Kennedy Center to close for 2 years for renovations, Trump says, after performers backlash",
       "published_at": "2026-02-01T23:47:31-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump said Sunday he will move to close Washington's Kennedy Center performing arts venue for two years starting in July for construction.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,54 +511,15 @@
       }
     },
     {
-      "id": "b544283b30a4dd43cbf8a8db36a9a102e025d43a",
-      "url": "https://www.cbc.ca/news/politics/carney-trudeau-government-appointments-9.7069060?cmp=rss",
-      "title": "How is Carney's government filling high-level jobs?",
+      "id": "3be0e71e93f2cd202655a74862c8a106b5680fbd",
+      "url": "https://www.cbc.ca/news/canada/windsor/red-light-cameras-police-penalty-9.7066176?cmp=rss",
+      "title": "Police docked pay after red-light cameras capture them rushing to emergencies express anger, frustration",
       "published_at": "2026-02-01T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "In 2016, former prime minister Justin Trudeau overhauled the way appointments are made to make them more open and transparent. However, recent appointments by Prime Minister Mark Carney's government raise the question of whether his government is still following the system Trudeau put in place.",
+      "summary_auto": "Red-light cameras in Ontario have been catching civilians for years, but some police officers who rush to emergencies say they’re unfairly being penalized by the same technology.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7583be52203400d45c93dda25cbfaae5088588c7",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/groundhog-day-predictions-2026-9.7066636?cmp=rss",
-      "title": "Wiarton Willie predicts early spring, but Punxsutawney Phil disagrees",
-      "published_at": "2026-02-01T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It's Groundhog Day. That means the forecast calls for weather predictions from animal prognosticators, including Ontario's Wiarton Willie, Nova Scotia's Shubenacadie Sam, New Brunswick's Lucy the Lobster, Quebec's Fred la marmotte, B.C. 's Van Isle Violet and Punxsutawney Phil in Pennsylvania.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.45,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ff28e602d01b2b19bc52ab46b56de357946187f",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/nuclear-waste-repository-impact-assessment-9.7068604?cmp=rss",
-      "title": "Getting Canada's nuclear waste to repository eyed for Ontario's northwest a key concern as public weighs in",
-      "published_at": "2026-02-01T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds of people have been sharing how they feel about a project that could see Canada’s nuclear waste buried deep underground in northwestern Ontario. A key concern brought up during the public comment period, which ends Wednesday, is how materials would be transported to the country's first deep geological repository for nuclear waste.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b93be6a680c7cba74e82c88833716d15289f0dbb",
-      "url": "https://www.cbc.ca/news/politics/stephen-harper-20-years-anniversary-9.7070076?cmp=rss",
-      "title": "Stephen Harper to be feted in Ottawa this week as he marks 20 years since he first became PM",
-      "published_at": "2026-02-01T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Former prime minister Stephen Harper is being honoured at several events in Ottawa this week ahead of the 20th anniversary of his Conservative government, which was sworn into power on Feb. 6, 2006.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
+        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     },
@@ -160,6 +537,19 @@
       }
     },
     {
+      "id": "7583be52203400d45c93dda25cbfaae5088588c7",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/groundhog-day-predictions-2026-9.7066636?cmp=rss",
+      "title": "Wiarton Willie predicts early spring, but Punxsutawney Phil disagrees",
+      "published_at": "2026-02-01T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "It's Groundhog Day. That means the forecast calls for weather predictions from animal prognosticators, including Ontario's Wiarton Willie, Nova Scotia's Shubenacadie Sam, New Brunswick's Lucy the Lobster, Quebec's Fred la marmotte, B.C. 's Van Isle Violet and Punxsutawney Phil in Pennsylvania.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.45,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "75e64b7bb7d349bf447e2f5222372fb0ebe65e07",
       "url": "https://www.cbc.ca/radio/whitecoat/us-doctor-permanent-residency-9.7055152?cmp=rss",
       "title": "This Toronto doctor has over 2,000 patients, but still no permanent residency",
@@ -173,94 +563,16 @@
       }
     },
     {
-      "id": "28021bbce57527c147c42fada4c3d3afeb817d5d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/van-isle-marina-fire-yachts-sink-9.7070199?cmp=rss",
-      "title": "3 yachts sink after marina fire on Vancouver Island: fire department",
-      "published_at": "2026-02-01T17:26:58-05:00",
-      "section": "Canada",
-      "summary_auto": "Three boats have sunk after a fire at a marina on Vancouver Island Sunday.",
+      "id": "218324d8a116ea5ffed05ac8cbd6f32745abfb92",
+      "url": "https://www.cbc.ca/news/canada/ottawa/supermoms-group-moms-of-kids-with-autism-9.7019505?cmp=rss",
+      "title": "Meet the 'supermoms,' a group of Black mothers fighting the stigma of autism",
+      "published_at": "2026-02-01T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "In some cultures, autism is seen as a \"curse.\" For these \"supermoms\" of kids with autism, unlearning the shame and celebrating each other provides life-changing connection.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.735,
+        "sentiment": -0.66,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cefb287bc0c038e968b0ee7c7ad93146147b8a7",
-      "url": "https://www.cbc.ca/news/canada/toronto/iran-protest-downtown-toronto-9.7070133?cmp=rss",
-      "title": "Thousands rally in downtown Toronto in solidarity with Iranian protesters",
-      "published_at": "2026-02-01T14:42:18-05:00",
-      "section": "Canada",
-      "summary_auto": "A large crowd of demonstrators shut down a swath of the downtown core Sunday to show solidarity to protesters in Iran, fighting against the country’s financial collapse and the regime that led to it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d16ce02c11bb0efaf36e8305847fca7128ea17d",
-      "url": "https://www.cbc.ca/news/entertainment/grammys-2026-9.7070320?cmp=rss",
-      "title": "Bad Bunny triumphs at politically charged Grammy Awards as artists speak out against ICE",
-      "published_at": "2026-02-01T13:59:50-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2bd3a4b8cbcf668310c291dcf38b8e6dd37b5b69",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-ice-protest-9.7070113?cmp=rss",
-      "title": "Montrealers call for end to U.S. immigration crackdown at anti-ICE protest",
-      "published_at": "2026-02-01T12:53:44-05:00",
-      "section": "Canada",
-      "summary_auto": "Demonstrators gathered in Montreal on Sunday to protest the immigration crackdown by U.S. Immigration and Customs Enforcement, calling out the law enforcement agency's tactics as well as Canadian \"complicity\" in them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "812e9e0a1f86646b3b68f6b6e4fc49c5d1eef13c",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/scotties-roundup-final-feb1-9.7070087?cmp=rss",
-      "title": "Kerri Einarson claims 5th Scotties Tournament of Hearts after defeating Kaitlyn Lawes in 11 ends",
-      "published_at": "2026-02-01T11:10:24-05:00",
-      "section": "Canada",
-      "summary_auto": "Kerri Einarson's Team Canada, based of out Camp Morton, Manitoba, has defeated Kaitlyn Lawes' of Winnipeg 4-3 in 11 ends in tonight's championship final at the Scotties Tournament of Hearts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7da32eff8133f411ee2adf9ab6a5b811a0f476a",
-      "url": "https://www.cbc.ca/news/canada/hamilton/sebastian-halmagean-canadian-armed-forces-9.7070059?cmp=rss",
-      "title": "Hamilton soldier who died in Latvia was 'immensely proud' to be part of Canadian military, says father",
-      "published_at": "2026-02-01T10:11:30-05:00",
-      "section": "Canada",
-      "summary_auto": "Sebastian Halmagean, originally from Hamilton, was a gunner based at the 5th Canadian Division Support Base Gagetown in Oromocto, N.B., on his first deployment to Latvia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "65732945a7cfc8b4ec40f303b9a4a33bf7871518",
-      "url": "https://www.cbc.ca/player/play/9.7070061?cmp=rss",
-      "title": "Rafah border crossing into Gaza opened for limited passage, Israel says",
-      "published_at": "2026-02-01T09:57:27-05:00",
-      "section": "World",
-      "summary_auto": "Israel reopened the Rafah border crossing on Sunday for people to travel between Gaza and Egypt, the first opening of effectively the sole route in or out of the Palestinian territory since May 2024. Israel seized the border crossing in May 2024, nine months after it launched attacks on the region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "medium"
       }
     }
   ]
