@@ -1,14 +1,261 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-04T09:37:37.492903-05:00",
+  "generated_at": "2026-02-04T15:27:17.288063-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c00f85a305b0e6b12716f0ca09542ac603d6d341",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-craswell-guilty-plea-west-kent-9.7073797?cmp=rss",
+      "title": "Former P.E.I. substitute pleads guilty to sexually touching elementary school student",
+      "published_at": "2026-02-04T10:03:57-05:00",
+      "section": "Canada",
+      "summary_auto": "A former P.E.I. substitute teacher who has already pleaded guilty to charges related to child sex abuse images and sexually touching a primary school student has now pleaded guilty to sexually touching another student at a different elementary school.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2e07dc3aac2f905f9e408226d1380af94bc46e09",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-czechia-olympic-mixed-doubles-curling-recap-cortina-9.7074033?cmp=rss",
+      "title": "Canada rides fast start to victory over Czechia to open Olympic mixed doubles curling",
+      "published_at": "2026-02-04T09:50:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The lights went out at the Olympic curling venue before Canada’s Brett Gallant and Jocelyn Peterman powered their way to a near-flawless 10-5 victory over Czechia on the opening day of mixed doubles competition Wednesday in Italy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8c206972bf9ed222a5b5d347cb98b1613faade31",
+      "url": "https://www.cbc.ca/news/world/supreme-court-california-redistricting-map-texas-9.7074121?cmp=rss",
+      "title": "U.S. Supreme Court green lights California pro-Democrat redistricting voting map",
+      "published_at": "2026-02-04T09:44:10-05:00",
+      "section": "World",
+      "summary_auto": "The U.S. Supreme Court allowed California on Wednesday to use a new electoral map designed to give Democrats five more congressional seats, improving the party's chances of regaining control of the U.S. House of Representatives from President Donald Trump's Republicans in the November midterm elections.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.901,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d892146b6d3466422a3119c5f542031adae3b07e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/sumas-prairie-flooding-b-c-national-issue-9.7073961?cmp=rss",
+      "title": "B.C. politicians press Ottawa to recognize Sumas Prairie flooding as national issue",
+      "published_at": "2026-02-04T09:29:01-05:00",
+      "section": "Canada",
+      "summary_auto": "B.C.’s emergency minister, the mayor of Abbotsford and the chief of Sumas First Nation are in the nation’s capital this week, pushing for federal action to help solve the rising flood risk in the Sumas Prairie.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "03676d433e1c723ded530a88e4a4bc46827658fe",
+      "url": "https://www.cbc.ca/news/world/ryan-routh-trump-shooting-golf-course-life-in-prison-9.7074014?cmp=rss",
+      "title": "Man convicted of trying to kill Donald Trump on his Florida golf course gets life in prison",
+      "published_at": "2026-02-04T09:03:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The man convicted of trying to assassinate U.S. President Donald Trump on a Florida golf course in 2024 was sentenced on Wednesday to life in prison, after a federal prosecutor said his crime was unacceptable \"in this country or anywhere.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.958,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "83f442fab1f43e0223957b6f944298303bd2601d",
+      "url": "https://www.cbc.ca/news/politics/new-equity-advisory-council-9.7073987?cmp=rss",
+      "title": "Feds to replace offices combatting Islamophobia, antisemitism with advisory council",
+      "published_at": "2026-02-04T08:54:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government plans to get rid of two key offices combatting religious discrimination, merging them into a single national Advisory Council on Rights, Equality and Inclusion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c856e1b91703de0a7f5d90badb74b828faec499f",
+      "url": "https://www.cbc.ca/news/canada/windsor/mickey-lolich-detroit-tigers-world-series-legend-9.7074039?cmp=rss",
+      "title": "Mickey Lolich, hero of the 1968 World Series for the Detroit Tigers, dies at 85",
+      "published_at": "2026-02-04T08:45:54-05:00",
+      "section": "World",
+      "summary_auto": "The Tigers said Lolich's wife told them that he died after a short stay in hospice care. An exact cause of death was not provided.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8661c7b9698f42598052c124e586a440330f46fb",
+      "url": "https://www.cbc.ca/radio/whatonearth/environment-canada-cuts-9.7073623?cmp=rss",
+      "title": "Carney’s government is cutting hundreds of environment and science jobs. Here’s what that means for Canadians",
+      "published_at": "2026-02-04T08:28:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Scientists and labour leaders are warning that cuts to Environment and Climate Change Canada could significantly impact the health and safety of Canadians as well as Canada's wildlife and environment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "12ac2f5aa8c7e9e80d0f2287c8b63bdb7285dfe1",
+      "url": "https://www.cbc.ca/news/politics/ottawa-auto-strategy-announcement-evs-9.7073975?cmp=rss",
+      "title": "Government expected to scrap EV mandate in favour of new fuel efficiency system: source",
+      "published_at": "2026-02-04T08:25:34-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government is expected to announce its national automotive strategy on Thursday that includes scrapping Canada's electric vehicle mandate and replacing it with a new system of fuel efficiency standards and credits, CBC News has learned.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "71e084398c949c857af392e79d02080d1314ffcf",
+      "url": "https://www.cbc.ca/sports/olympics/winter/milano-cortina-olympics-washington-post-chris-jones-feb4-9.7073743?cmp=rss",
+      "title": "Washington Post staff laid off while in Milan still hope to find beauty in the Olympics",
+      "published_at": "2026-02-04T08:13:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In the last hours before these Olympics begin, and the flame is lit, and the cheering starts, a smaller, sad drama played out in a little white box of an office in the Main Media Centre in Milan. A sign on the door read: The Washington Post.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77f2514aabac7137f1a5cf4f6ed173cfb80617c1",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-fisherman-111-kilogram-atlantic-halibut-9.7073782?cmp=rss",
+      "title": "Quebec fisherman reels in 244-pound, record-breaking Atlantic halibut — for science",
+      "published_at": "2026-02-04T08:08:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Alain Hamel caught the largest Atlantic halibut ever recorded in the Saguenay Fjord on Saturday. Working with the local Fjord Museum, the ice fishing was part of a scientific project aiming to gain more information about the species.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "676a14a7809516e82a14781da6925d128f14f4d2",
+      "url": "https://www.cbc.ca/news/canada/cuba-travel-warning-9.7073480?cmp=rss",
+      "title": "New Cuba travel advisory urges 'high degree of caution.' Should Canadians worry?",
+      "published_at": "2026-02-04T07:45:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government upgraded its Cuba travel advice on Tuesday, warning Canadians planning to visit the popular Caribbean island that worsening shortages of everything from fuel to food could affect resorts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cbf87052f1f6ecdf41ecfc0027203384dee9ff12",
+      "url": "https://www.cbc.ca/news/canada/ottawa/south-frontenac-alto-high-speed-train-opposition-9.7072604?cmp=rss",
+      "title": "South Frontenac landowners fear 'devastation' from proposed high-speed rail in Ontario",
+      "published_at": "2026-02-04T07:42:53-05:00",
+      "section": "Canada",
+      "summary_auto": "Property owners and elected officials in the Township of South Frontenac, Ont., say they were caught off guard by Alto's proposed southern route for high-speed rail, and fear what it will mean for their community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "122fec4254cfa38d3542775f6e4ff92671a55b21",
+      "url": "https://www.cbc.ca/music/tate-mcrae-team-usa-olympics-9.7073729?cmp=rss",
+      "title": "Tate McRae receives backlash for supporting Team USA in NBC Olympics ad",
+      "published_at": "2026-02-04T07:29:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadians took to social media to share their disappointment about the Calgary-born and -raised singer promoting the American Olympic team.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "71f6c5ae8440fb22b2f9de123e7d94813cb2c58e",
+      "url": "https://www.cbc.ca/news/business/washington-post-layoffs-one-third-staff-9.7073655?cmp=rss",
+      "title": "Washington Post to lay off a third of staff in newsroom and other departments",
+      "published_at": "2026-02-04T06:07:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Washington Post is laying off one-third of its staff in the newsroom and other departments, a brutal blow to one of journalism's legendary brands.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e28e25b174772c55962071012262e9345f01dfff",
+      "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-injury-update-ruptured-acl-olympics-cortina-9.7073619?cmp=rss",
+      "title": "Coach of Lindsey Vonn says 'no doubt' injured skier will race in Olympics",
+      "published_at": "2026-02-04T05:39:37-05:00",
+      "section": "World",
+      "summary_auto": "Lindsey Vonn, the 41-year-old American ski star, is optimistic she can compete in the Olympic women's downhill on Sunday in Italy despite a ruptured ligament in her left knee.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff9abc4cd38c40065852bebaccdd32fcb05bdee8",
+      "url": "https://www.cbc.ca/news/world/minneapolis-homan-operation-drawdown-9.7073496?cmp=rss",
+      "title": "U.S. border czar says about 700 federal immigration officers to leave Minnesota",
+      "published_at": "2026-02-04T05:37:11-05:00",
+      "section": "World",
+      "summary_auto": "Donald Trump's administration is reducing the number of immigration enforcement officers in Minnesota, where two local residents were fatally shot last month by federal officers, border czar Tom Homan said Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8ae994a90887bd18a7698b98f8d29b357cc805cc",
+      "url": "https://www.cbc.ca/news/world/nigeria-attack-9.7073574?cmp=rss",
+      "title": "Attacks on civilians in central and northern Nigeria kill nearly 200",
+      "published_at": "2026-02-04T05:18:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nearly 200 people have been killed by armed men ​in separate attacks in remote villages in central and northern Nigeria, a local lawmaker, residents and police said on Wednesday, as security forces searched for survivors and chased the attackers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.954,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eaf1360bc1c6e8204c6c775981b57dbc7cab436b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-dual-health-care-report-9.7073053?cmp=rss",
+      "title": "Alberta legislation could pave way for two-tiered health-care system, new report says",
+      "published_at": "2026-02-04T03:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A report that was jointly produced by the Canadian Centre for Policy Alternatives and the Parkland Institute finds Alberta's Bill 11 could pave the way for a two-tiered health-care system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "6c712ecb685cb12c28190f580d39c7758ee8d3b0",
       "url": "https://www.cbc.ca/news/canada/calgary/olympics-2026-calgary-reflection-9.7067075?cmp=rss",
       "title": "Calgary reflects on rejecting 2026 Olympic bid, as legacy of 1988 Games fades",
       "published_at": "2026-02-04T02:00:00-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "A year-long debate over whether to host the 2026 Winter Olympics dominated headlines in Calgary in 2018. The idea was abandoned after the public voted the idea down in a plebiscite. Now, residents are about to watch the Games they could have hosted kick off on the other side of the world in Italy.",
       "bias_heuristic": {
         "article_type": "News",
@@ -17,42 +264,16 @@
       }
     },
     {
-      "id": "aa739f913cf3d7fcc791d99e633bdc3c4172725f",
-      "url": "https://www.cbc.ca/news/world/gaza-khan-younis-strike-board-of-peace-9.7073380?cmp=rss",
-      "title": "Israeli airstrikes kill at least 23 people in Gaza",
-      "published_at": "2026-02-04T01:28:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Israeli tank shelling and airstrikes killed 23 Palestinians, including seven children, in Gaza on Wednesday, health officials said, the latest violence to undermine a truce in the enclave.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8449d9410c49c44140e48bedcd67f70a7d0071b4",
       "url": "https://www.cbc.ca/news/canada/manitoba/pimicikamak-power-outage-damage-repairs-9.7073263?cmp=rss",
       "title": "Few have returned to Pimicikamak Cree Nation in northern Manitoba 5 weeks after thousands forced out by power outage damage",
       "published_at": "2026-02-04T01:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A small number of the approximately 4,000 people forced from their homes in Pimicikamak Cree Nation have returned. A snapped power line triggered a days-long outage starting Dec. 28, which led to frozen and burst pipes and flooding in homes in the northern First Nation.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.836,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "350ab8eaeb34cc4dbea3ecc07033a0172dafa833",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/steven-lehmann-sentencing-hearing-waterloo-region-9.7070430?cmp=rss",
-      "title": "Former student says Ont. music teacher betrayed her trust, Crown seeks 5 years in prison for sexual offence",
-      "published_at": "2026-02-04T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The victim of a former music producer-director told his Kitchener, Ont., sentencing hearing she thought Steven Lehmann \"could be the father I never had,\" but a sexual relationship that developed in her teens has shattered her life. The Crown is seeking a five-year prison term for Lehmann, who pleaded guilty to sexual exploitation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.954,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -71,39 +292,13 @@
     {
       "id": "8b97aeebc4e1b48eace3eb5c96a5ca3554a8dc1e",
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-high-school-grades-on-the-rise-9.7072730?cmp=rss",
-      "title": "As Ontario high school grades keep rising, graduating students worry about their university future",
+      "title": "Ontario high schoolers need higher grades to get into university than ever before, data shows",
       "published_at": "2026-02-04T00:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "The numbers paint a stark picture of what it’s like to be a graduating student in the province right now, as university admissions ramp up and education experts call for an overhaul of both the high school grading system and the university admissions process.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9bbdb953673d79c6265c9838e28d8960bb538dd4",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/school-violence-nova-scotia-9.7071262?cmp=rss",
-      "title": "Some teachers 'wearing Kevlar sleeves' due to physical violence in N.S. schools",
-      "published_at": "2026-02-04T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The unions representing Nova Scotia teachers and support staff say school violence remains a top concern for its members, as the Education Department is reporting tens of thousands of violent incidents in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50725d769aabd5522fa5c44d0e948fb84f0995db",
-      "url": "https://www.cbc.ca/news/canada/london/scientist-using-dogs-in-controversial-study-explains-for-the-first-time-what-was-going-on-9.7071014?cmp=rss",
-      "title": "Scientist using dogs in controversial study explains for the first time what was going on",
-      "published_at": "2026-02-04T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The lead scientist at the centre of a controversial cardiac study performed on dogs is defending the importance of his work for the first time since his London, Ont. lab was shut down and Ontario's premier threatened to ban canines in research.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
+        "sentiment": 0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -121,11 +316,24 @@
       }
     },
     {
+      "id": "50725d769aabd5522fa5c44d0e948fb84f0995db",
+      "url": "https://www.cbc.ca/news/canada/london/scientist-using-dogs-in-controversial-study-explains-for-the-first-time-what-was-going-on-9.7071014?cmp=rss",
+      "title": "Scientist using dogs in controversial study explains for the first time what was going on",
+      "published_at": "2026-02-04T00:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The lead scientist at the centre of a controversial cardiac study performed on dogs is defending the importance of his work for the first time since his London, Ont. lab was shut down and Ontario's premier threatened to ban canines in research.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1c69bd57796a2a967588189df0b87f6425572d34",
       "url": "https://www.cbc.ca/news/world/seif-al-islam-killed-son-of-moammar-gadhafi-9.7073368?cmp=rss",
       "title": "Son of late dictator Gadhafi killed in Libya",
       "published_at": "2026-02-03T23:47:55-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Seif al-Islam Gadhafi, the son and one-time heir apparent of Libya's late dictator Moammar Gadhafi, was killed in the northern African country, Libyan officials said Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,41 +342,15 @@
       }
     },
     {
-      "id": "fce3616a35293c12fbf3b52d6ee66929953737b0",
-      "url": "https://www.cbc.ca/news/world/trump-elections-take-over-states-constitution-analysis-9.7072603?cmp=rss",
-      "title": "Fears mount that Trump administration could meddle in U.S. elections",
+      "id": "4559dd421a8b031e17158f522b7900113d5c5981",
+      "url": "https://www.cbc.ca/news/politics/naheed-nenshi-ndp-leadership-race-9.7072751?cmp=rss",
+      "title": "Nenshi's 'blunt' message to federal NDP: Don't mess this up for Alberta",
       "published_at": "2026-02-03T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Concern is mounting among political observers and critics of U.S. President Donald Trump that his administration is laying the groundwork to meddle in crucial midterm elections that could determine which party controls Congress.",
+      "summary_auto": "In a one-on-one interview with CBC News, Naheed Nenshi suggested that he asked candidates not to stand in the way of his attempt to win the next Alberta provincial election.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bac2dca31e6ade0b1aa1c24f9c9c7889f5df89c9",
-      "url": "https://www.cbc.ca/news/investigates/epstein-files-redaction-mistakes-9.7073148?cmp=rss",
-      "title": "Thousands of Epstein files taken down after some survivors' names and nude photos found",
-      "published_at": "2026-02-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Lawyers for dozens of alleged victims of Jeffrey Epstein immediately noted that, despite the U.S. Department of Justice's promises, some of its published records contained the names or other identifying information of many women who accused Epstein of sex trafficking, abuse and other crimes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf43f11e7b49fb08dea1bc5ca43b724a4e6a4807",
-      "url": "https://www.cbc.ca/news/canada/montreal/housing-montreal-ymca-homelessness-9.7073165?cmp=rss",
-      "title": "Inside the Quebec YMCA offering transitional housing to homeless people after hospital stay",
-      "published_at": "2026-02-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The YMCA and CIUSSS du Centre-Ouest-de-l’Île-de-Montréal launched \"A Pathway to Recovery,\" a pilot offering 48 private rooms for homeless patients post-hospitalization. It provides clinical care and housing support to break the cycle of ER readmissions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
+        "sentiment": 0.711,
         "subjectivity_hint": "low"
       }
     },
@@ -201,26 +383,65 @@
     {
       "id": "1ad326a2be790408323f0974475ec5e7fff2abd7",
       "url": "https://www.cbc.ca/news/politics/jivani-washington-trip-9.7072956?cmp=rss",
-      "title": "Conservative MP Jivani heads to Washington after Liberals snub offer to collaborate",
+      "title": "As Conservative MP Jivani heads to Washington, Carney says he was given briefing",
       "published_at": "2026-02-03T23:00:00-05:00",
       "section": "Canada",
-      "summary_auto": "Conservative MP Jamil Jivani, a longtime friend of U.S Vice-President JD Vance, is travelling to Washington to advocate for better Canada-U.S. relations after multiple unsuccessful emails to members of the Liberal front bench.",
+      "summary_auto": "Conservative MP Jamil Jivani, a longtime friend of U.S. Vice-President JD Vance, is travelling to Washington to advocate for better Canada-U.S. relations after multiple unsuccessful emails to members of the Liberal front bench.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.202,
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fce3616a35293c12fbf3b52d6ee66929953737b0",
+      "url": "https://www.cbc.ca/news/world/trump-elections-take-over-states-constitution-analysis-9.7072603?cmp=rss",
+      "title": "Fears mount that Trump administration could meddle in U.S. elections",
+      "published_at": "2026-02-03T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Concern is mounting among political observers and critics of U.S. President Donald Trump that his administration is laying the groundwork to meddle in crucial midterm elections that could determine which party controls Congress.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bac2dca31e6ade0b1aa1c24f9c9c7889f5df89c9",
+      "url": "https://www.cbc.ca/news/investigates/epstein-files-redaction-mistakes-9.7073148?cmp=rss",
+      "title": "Thousands of Epstein files taken down after some survivors' names and nude photos found",
+      "published_at": "2026-02-03T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Lawyers for dozens of alleged victims of Jeffrey Epstein immediately noted that, despite the U.S. Department of Justice's promises, some of its published records contained the names or other identifying information of many women who accused Epstein of sex trafficking, abuse and other crimes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cf43f11e7b49fb08dea1bc5ca43b724a4e6a4807",
+      "url": "https://www.cbc.ca/news/canada/montreal/housing-montreal-ymca-homelessness-9.7073165?cmp=rss",
+      "title": "Inside the Quebec YMCA offering transitional housing to homeless people after hospital stay",
+      "published_at": "2026-02-03T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "The YMCA and CIUSSS du Centre-Ouest-de-l’Île-de-Montréal launched \"A Pathway to Recovery,\" a pilot offering 48 private rooms for homeless patients post-hospitalization. It provides clinical care and housing support to break the cycle of ER readmissions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "b21312bf52ddd1bfe44bb896aa73e8567ba324fc",
       "url": "https://www.cbc.ca/news/world/renee-good-brothers-speak-ice-minneapolis-9.7073253?cmp=rss",
-      "title": "White House's Homan to give Minnesota update as Renee Good's brothers mourn loss of 'beautiful American'",
+      "title": "Renee Good's brothers mourn loss of 'beautiful American'",
       "published_at": "2026-02-03T17:27:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "White House official Tom Homan was set to hold a news conference on Wednesday on the federal immigration operation in Minnesota that has led to two officer-involved fatal shootings. The brothers of Renee Good, one of two U.S. citizens killed by federal immigration officers, called on Congress to do something about the violence on American streets as a result of widespread deportation efforts.",
+      "section": "World",
+      "summary_auto": "The brothers of Renee Good, one of two U.S. citizens killed by federal immigration officers, called on Congress to do something about the violence on American streets as a result of widespread deportation efforts.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.886,
+        "sentiment": -0.784,
         "subjectivity_hint": "medium"
       }
     },
@@ -234,201 +455,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.945,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ffd8af65aca0c3ed757a4d1048c96cf512085d00",
-      "url": "https://www.cbc.ca/player/play/9.7073298?cmp=rss",
-      "title": "Iranian doctor describes treating patients during protest crackdown",
-      "published_at": "2026-02-03T17:03:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A doctor describes treating patients in Iran during the regime’s violent crackdown on nationwide protests, telling CBC’s Margaret Evans the scenes were ‘extremely horrifying’ — details that have largely been masked by a government-imposed internet blackout in the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0d7225b6e5f73b46f876590e6022bd97278fa94",
-      "url": "https://www.cbc.ca/news/world/french-police-raid-x-grok-elon-musk-9.7072861?cmp=rss",
-      "title": "French police raid X offices as they investigate Elon Musk's social media platform and AI chatbot Grok",
-      "published_at": "2026-02-03T14:54:23-05:00",
-      "section": "World",
-      "summary_auto": "French prosecutors raided the Paris offices of social media platform X on Tuesday as part of a preliminary investigation into allegations that include spreading child sexual abuse images and deepfakes. They have also summoned X's billionaire owner Elon Musk for questioning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "21ed72a5ade673ec177e0ec566b2963006d0f6d6",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/butch-bagabuyo-verdict-9.7072700?cmp=rss",
-      "title": "Former B.C. lawyer found guilty of 1st-degree murder after killing his client in 2022",
-      "published_at": "2026-02-03T13:39:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A former lawyer who admitted to killing his client in Kamloops in 2022 has been found guilty of first-degree murder by a B.C. Supreme Court judge.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.967,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd88e703953e0b68d157d997faaf4d23381ede73",
-      "url": "https://www.cbc.ca/news/business/toys-r-us-canada-creditor-protection-9.7073015?cmp=rss",
-      "title": "Toys 'R' Us Canada files for creditor protection",
-      "published_at": "2026-02-03T13:21:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Toys \"R\" Us Canada Ltd. says it has filed for creditor protection while it works to restructure the business.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4584b4056bdb809ecdb9820c38773f9ce0ded0ca",
-      "url": "https://www.cbc.ca/news/politics/stephen-harper-trump-national-unity-9.7072944?cmp=rss",
-      "title": "Stephen Harper calls for Liberals, Conservatives to come together in the face of Trump, separatist threats",
-      "published_at": "2026-02-03T13:04:12-05:00",
-      "section": "Canada",
-      "summary_auto": "Former prime minister Stephen Harper urged the Liberal and Conservative parties to take on the challenges of our time together as the country stares down potentially two existential threats to its sovereignty: an imperialist president to the south and separatist movements in Alberta and Quebec.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a016f865c3c97dc974c3414d11e91aab6792c314",
-      "url": "https://www.cbc.ca/player/play/9.7072588?cmp=rss",
-      "title": "Want perfect Olympic ice? Call the Canadians",
-      "published_at": "2026-02-03T13:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian ice masters are in charge of creating the perfect surfaces for hockey and long-track speed skating at the 2026 Milano-Cortina Olympics. Don Moffatt and Mark Messer tell CBC News chief correspondent Adrienne Arsenault about their techniques and why there won’t be a lucky loonie buried under centre ice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bffdeb1d9b9752031dd01f37b8d52439fe086126",
-      "url": "https://www.cbc.ca/news/politics/canada-election-artificial-intelligence-deepfakes-9.7072792?cmp=rss",
-      "title": "Canada's next election likely to face AI-assisted interference, watchdogs say",
-      "published_at": "2026-02-03T12:46:39-05:00",
-      "section": "Canada",
-      "summary_auto": "Bad actors will likely use artificial intelligence and deep fake technology to try to disrupt Canada’s next federal election warn two of the country’s top election watchdogs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2eaae8ab79066b0ac192900fbd3dc6219f49e722",
-      "url": "https://www.cbc.ca/books/heated-rivalry-hudson-williams-writing-a-novel-9.7072290?cmp=rss",
-      "title": "Heated Rivalry's Hudson Williams is writing a novel and loves Joan Didion",
-      "published_at": "2026-02-03T12:13:07-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Hudson Williams, the Canadian star of Heated Rivalry, revealed in a recent interview with Wonderland that he is working on a \"semi-autobiographical\" novel and enjoys literary fiction writers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "551e7cb29e4a1d2bd0487f125fbadf1e17456efd",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-follow-2026-olympics-9.7072777?cmp=rss",
-      "title": "Need help following the Olympics? Our newsletter has you covered",
-      "published_at": "2026-02-03T11:55:55-05:00",
-      "section": "World",
-      "summary_auto": "CBC Sports daily newsletter is in full Winter Games mode. Sign up now for daily updates including a viewing guide so you know exactly who, what and when to watch.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d84df521a2b4901a36860a12d7481db0c7b04221",
-      "url": "https://www.cbc.ca/news/world/us-shoots-down-iran-drone-9.7072653?cmp=rss",
-      "title": "U.S. shoots down Iranian drone it claims 'aggressively approached' aircraft carrier",
-      "published_at": "2026-02-03T10:41:57-05:00",
-      "section": "World",
-      "summary_auto": "A U.S. navy fighter jet shot down an Iranian drone that was approaching the aircraft carrier USS Abraham Lincoln in the Arabian Sea, U.S. Central Command said Tuesday, threatening to ramp up tensions as the Trump administration warns of possible military action to get Iran to the negotiating table.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f9473d166c9a05ef54b697f0b842c0fc54aa4a0",
-      "url": "https://www.cbc.ca/news/canada/calgary/hospital-overcrowding-er-waits-9.7072262?cmp=rss",
-      "title": "Hospital overcrowding key factor in long emergency room waits, Alberta study shows",
-      "published_at": "2026-02-03T10:41:01-05:00",
-      "section": "Health",
-      "summary_auto": "Addressing hospital capacity problems is “critical” to reducing emergency room wait times, according to the authors of a new Alberta study.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0539abbfeb665e7fe24ea6f99bd41346f0d664f5",
-      "url": "https://www.cbc.ca/news/entertainment/disney-ceo-josh-damaro-9.7072551?cmp=rss",
-      "title": "Disney parks chief Josh D'Amaro replaces Bob Iger as CEO",
-      "published_at": "2026-02-03T10:03:43-05:00",
-      "section": "World",
-      "summary_auto": "Disney has named its parks chief Josh D'Amaro to succeed Bob Iger as the entertainment giant's top executive. The move comes as legacy studios stumble through a precarious time for Hollywood.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7da66ecbc5c7782ca61e964a127d1274b68c4bf1",
-      "url": "https://www.cbc.ca/sports/olympics/winter/inside-cortina-s-olympic-village-a-snowy-haven-for-hundreds-of-athletes-9.7072583?cmp=rss",
-      "title": "Inside Cortina's Olympic Village: A snowy haven for hundreds of athletes",
-      "published_at": "2026-02-03T10:00:26-05:00",
-      "section": "World",
-      "summary_auto": "Athletes at the Cortina Olympic and Paralympic Village on Tuesday chatted at an outdoor coffee stand, traded their unique national team pins and took in the atmosphere of the Dolomites as snow steadily fell.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aff31549c9b7f3b65b9aeb057e8c9413f993e7ce",
-      "url": "https://www.cbc.ca/player/play/9.7072488?cmp=rss",
-      "title": "How much $$$ will Milano-Cortina 2026 tickets cost you?",
-      "published_at": "2026-02-03T09:55:13-05:00",
-      "section": "World",
-      "summary_auto": "If you’re planning on attending a medal game for Olympic hockey at the Milano-Cortina Olympics there are still tickets available as of now. Just don't expect them to come cheap.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ff1b52874f2788956a7d2bf9bfef3777f0a2f803",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dfo-whalesafe-strategy-9.7072313?cmp=rss",
-      "title": "Canada rolls out whalesafe strategy to curb right whale entanglements",
-      "published_at": "2026-02-03T09:54:43-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government is rolling out its \"whalesafe fishing gear strategy,\" a five-year plan to develop and support the use of new fishing gear to reduce the risk of entangling whales — specifically the endangered North Atlantic right whale.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     }
