@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-07T09:20:37.036777-05:00",
+  "generated_at": "2026-02-07T15:19:36.451968-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "92c59cc8490372d9469c170dbb296e6bcf802a4b",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/livestory/pei-pc-leadership-vote-result-rob-lantz-mark-ledwell-live-updates-9.7072973?cmp=rss",
+      "title": "Rob Lantz to return as P.E.I.'s premier after winning PC leadership",
+      "published_at": "2026-02-07T07:00:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "49d2d866f16b19d61051d001c81459d268da9436",
+      "url": "https://www.cbc.ca/news/world/italy-rail-network-sabotage-9.7079070?cmp=rss",
+      "title": "Suspected saboteurs hit Italian rail network near Bologna, police say",
+      "published_at": "2026-02-07T06:38:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Saboteurs damaged rail infrastructure near the northern Italian city of Bologna on Saturday morning, disrupting train journeys on the first full day of the Winter Olympic Games, the Transport Ministry said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df228896df2b414fa941f04e2cc369b58ec65b65",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-athletes-careful-of-norovirus-in-milan-athletes-village-9.7079026?cmp=rss",
+      "title": "Canadian Olympians careful of norovirus at Athletes' Village in Milan",
+      "published_at": "2026-02-07T06:06:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian women's hockey team is being careful to avoid the norovirus that has made news in their sport early in Milano Cortina 2026.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f8e2619bc34467065282f5ce264584e52355d00b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/impaired-driving-fatal-crash-sentencing-windsor-forks-9.7078890?cmp=rss",
+      "title": "Anger, grief at sentencing of impaired N.S. man who drove 172 km/h before fatal crash",
+      "published_at": "2026-02-07T04:44:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Drake Robert Brown faced sentencing in provincial court in Kentville, N.S., Friday on two counts of impaired driving causing death and one count of impaired driving causing bodily harm for the 2023 crash that killed two passengers, Brayden Lemmon and Victoria Cousins, and injured a third.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.986,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "446255d3bf672a842edebd6c9e74da6adc19514a",
       "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-ready-to-race-olympic-downhill-on-injured-knee-9.7078933?cmp=rss",
@@ -21,7 +73,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/black-pioneers-who-shaped-canadian-health-care-9.7065564?cmp=rss",
       "title": "How Black health-care pioneers influenced modern medicine in Canada",
       "published_at": "2026-02-07T03:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "From early public health advocacy to modern research, Black Canadian physicians and health professionals have shaped medicine, patient care and policy across the country. Yet many of their contributions remain largely absent from public memory, even as conversations about equity, access and representation continue to evolve.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,15 +82,15 @@
       }
     },
     {
-      "id": "6509fe163a41133292349cfba182c7b0909da549",
-      "url": "https://www.cbc.ca/news/world/upscrolled-app-tiktok-users-downloading-censorship-9.7073441?cmp=rss",
-      "title": "TikTok creators flock to UpScrolled app after U.S. takeover. Here's why",
-      "published_at": "2026-02-06T23:00:00-05:00",
+      "id": "93c31f61a2031738e4f36bfcdb39c2ced82effc9",
+      "url": "https://www.cbc.ca/news/canada/north/arctic-highway-melting-permafrost-9.7078353?cmp=rss",
+      "title": "Building an Arctic highway is hard. Doing it on thawing permafrost is even harder",
+      "published_at": "2026-02-07T02:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Thousands of creators are deleting TikTok and flocking elsewhere just days after a change in ownership and mounting claims of widespread censorship and shadowbanning, or reduced reach, on the app.",
+      "summary_auto": "Researchers and builders are of the consensus that warming ground temperatures are shortening winters and increasing infrastrcuture costs – concerns that loom large as the federal government eyes up the Arctic economic and security corridor for potential fast-tracking.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.026,
+        "sentiment": 0.178,
         "subjectivity_hint": "low"
       }
     },
@@ -56,15 +108,67 @@
       }
     },
     {
+      "id": "7264ba3e0dc05fcb4b17c6bfd1cc9848da512a1f",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7077516?cmp=rss",
+      "title": "Doctors ‘wrongly and excessively’ prescribed boy drugs before he died in Ont. couple's care, lawsuit claims",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The lawsuit, which alleges negligence and seeks over $4 million in damages, is separate from the Milton, Ont., criminal trial for Brandy Cooney and Becky Hamber, who have pleaded not guilty to murder of the 12-year-old and other charges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.674,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6509fe163a41133292349cfba182c7b0909da549",
+      "url": "https://www.cbc.ca/news/world/upscrolled-app-tiktok-users-downloading-censorship-9.7073441?cmp=rss",
+      "title": "TikTok creators flock to UpScrolled app after U.S. takeover. Here's why",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of creators are deleting TikTok and flocking elsewhere just days after a change in ownership and mounting claims of widespread censorship and shadowbanning, or reduced reach, on the app.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85d372ed34a3ee38aa55f99d8921681dcb8991a1",
+      "url": "https://www.cbc.ca/radio/whatonearth/climate-change-rats-population-birth-control-9.7067372?cmp=rss",
+      "title": "Climate change could allow rats to have more babies. Enter rodent birth control",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Warming temperatures mean more rats, and the possible spread of more disease between the rodents and people. That has some scientists and municipal governments asking: is birth control part of the solution to curbing the rodent population boom?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d8b5b86c1e80562d67a9717b8a1b1ee3bca92d64",
+      "url": "https://www.cbc.ca/news/canada/first-person-international-student-9.7076884?cmp=rss",
+      "title": "I was an international student chasing stability but Canada made me question who I was",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Pari Mokradi arrived in Canada full of hopes and dreams. When he was unable to land a job after graduating, he started to feel invisible.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.805,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "bcdec37b24ea784f7297a8ec6ae82c1a67d1fa5f",
       "url": "https://www.cbc.ca/news/health/breast-milk-study-controversy-9.7078097?cmp=rss",
-      "title": "Why a 20-year-old study claiming a baby died from opioid poisoning through breast milk is still under fire",
+      "title": "Was a Canadian baby poisoned by breast milk? Experts say no. Yet a 20-year-old case study remains influential",
       "published_at": "2026-02-06T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "A controversial Canadian medical paper, which pinned a baby’s death on codeine passed through breastmilk, is under renewed scrutiny a full two decades after it was published. The paper sparked a sweeping shift in global approaches to pain management and breastfeeding guidance for new mothers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.957,
+        "sentiment": -0.852,
         "subjectivity_hint": "low"
       }
     },
@@ -82,28 +186,41 @@
       }
     },
     {
-      "id": "e2b48aaff992d682b13968a8f9792fbd79491471",
-      "url": "https://www.cbc.ca/news/world/venice-women-rowers-batela-9.7077494?cmp=rss",
-      "title": "Beyond the gondola: Meet the women preserving Venice's rowing heritage",
+      "id": "124efbe721cbb9e1c6fff8f508f3b0031585d2d0",
+      "url": "https://www.cbc.ca/news/science/winter-snow-climate-water-9.7078119?cmp=rss",
+      "title": "Winter snow is declining in key watersheds across Canada, raising concerns about future water supply",
       "published_at": "2026-02-06T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Row Venice is a non-profit association of female rowers dedicated to preserving the Venetian style of rowing. Founded almost two decades ago, it now counts about two dozen members among its ranks, offering lessons to tourists and local women wanting to race, while also fighting for gender equality in the sport.",
+      "summary_auto": "Declining snowpack can affect everything from municipal water systems and agriculture to lake levels, shipping and wildfire risk in Canada’s forests.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bcdec37b24ea784f7297a8ec6ae82c1a67d1fa5f",
+      "url": "https://www.cbc.ca/news/health/breast-milk-study-controversy-9.7078097?cmp=rss",
+      "title": "Why a 20-year-old study claiming a baby died from opioid poisoning through breast milk is still under fire",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A controversial Canadian medical paper, which pinned a baby’s death on codeine passed through breastmilk, is under renewed scrutiny a full two decades after it was published. The paper sparked a sweeping shift in global approaches to pain management and breastfeeding guidance for new mothers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.957,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "7b450bf6bdc644b216fd1386b1b51d1a9d2e6ee0",
       "url": "https://www.cbc.ca/news/canada/london-ontario-bomb-making-scheme-what-to-know-suspects-9.7076655?cmp=rss",
-      "title": "A campus trespassing call in Ontario has turned into a national security investigation. Here's what to know",
+      "title": "A campus trespassing call in Ontario turned into an explosives investigation. Here's what to know",
       "published_at": "2026-02-06T23:00:00-05:00",
       "section": "Canada",
       "summary_auto": "Over the last two weeks, a beige home on the corner of a snowy street in London, Ont. 's quiet Medway neighbourhood has been the epicentre of a bizarre police investigation that has spread from the local university campus to Ottawa, Quebec and the RCMP's national security unit. Here's what to know about the case.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.361,
+        "sentiment": 0.026,
         "subjectivity_hint": "low"
       }
     },
@@ -121,28 +238,41 @@
       }
     },
     {
-      "id": "85d372ed34a3ee38aa55f99d8921681dcb8991a1",
-      "url": "https://www.cbc.ca/radio/whatonearth/climate-change-rats-population-birth-control-9.7067372?cmp=rss",
-      "title": "Climate change could allow rats to have more babies. Enter rodent birth control",
+      "id": "e2b48aaff992d682b13968a8f9792fbd79491471",
+      "url": "https://www.cbc.ca/news/world/venice-women-rowers-batela-9.7077494?cmp=rss",
+      "title": "Beyond the gondola: Meet the women preserving Venice's rowing heritage",
       "published_at": "2026-02-06T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Warming temperatures mean more rats, and the possible spread of more disease between the rodents and people. That has some scientists and municipal governments asking: is birth control part of the solution to curbing the rodent population boom?",
+      "section": "World",
+      "summary_auto": "Row Venice is a non-profit association of female rowers dedicated to preserving the Venetian style of rowing. Founded almost two decades ago, it now counts about two dozen members among its ranks, offering lessons to tourists and local women wanting to race, while also fighting for gender equality in the sport.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
       }
     },
     {
-      "id": "0a3ba2513ccc1a5d5809ee199ad0379e95b90d1c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/elena-gaskell-skier-vernon-injury-olympics-milano-cortina-9.7078804?cmp=rss",
-      "title": "4 years after injury heartbreak at Beijing, B.C. skier Elena Gaskell looks for redemption at Milano-Cortina",
-      "published_at": "2026-02-06T19:25:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Four years after a devastating injury rendered her unable to compete at the Beijing Winter Olympics, Vernon, B.C., skier Elena Gaskell is looking to redeem herself at the Milano-Cortina Games.",
+      "id": "124efbe721cbb9e1c6fff8f508f3b0031585d2d0",
+      "url": "https://www.cbc.ca/news/science/winter-snow-climate-water-9.7078119?cmp=rss",
+      "title": "Warming temperatures are shrinking snowpack in key Canadian watersheds, study suggests",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Declining snowpack can affect everything from municipal water systems and agriculture to lake levels, shipping and wildfire risk in Canada’s forests.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.927,
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "91055ab2650273e733e80b5a577d9b3f4fd81f8d",
+      "url": "https://www.cbc.ca/news/world/vizsla-mexico-kidnap-9.7079065?cmp=rss",
+      "title": "Mexico living through 'terror,' says relative of kidnapped employee of Canadian mining company",
+      "published_at": "2026-02-06T15:58:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -150,155 +280,12 @@
       "id": "a1c802b710a3a8ac28a751537e4bf5696e62ca26",
       "url": "https://www.cbc.ca/news/world/mexico-canada-mining-9.7078695?cmp=rss",
       "title": "Body found in Mexico appears to be 1 of 10 kidnapped employees of Canadian mining company, authorities say",
-      "published_at": "2026-02-06T15:58:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dccba494bd39401a75f4ffd3be3400fb5240e64c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/john-rustad-eyeing-run-for-b-c-conservatives-leader-9.7078459?cmp=rss",
-      "title": "Ousted B.C. Conservative leader John Rustad may want his old job back",
-      "published_at": "2026-02-06T14:54:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "John Rustad resigned as B.C. Conservative party leader after month of internal party chaos. But he may be trying to get his old job back. Sources tell CBC News he's requested a leadership nomination package. Rustad, for now, isn't confirming that.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ed79a498f1233bb7f71fb2defb3d58beb59de723",
-      "url": "https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546?cmp=rss",
-      "title": "Thousands may have been exposed to measles at popular Manitoba farm show, province warns",
-      "published_at": "2026-02-06T14:22:06-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Thousands of people who attended what's touted as Canada's largest indoor farm show this year may have been exposed to measles, Manitoba public health officials warn.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ed79a498f1233bb7f71fb2defb3d58beb59de723",
-      "url": "https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546?cmp=rss",
-      "title": "Thousands may have been exposed to measles at Brandon Ag Days event, Manitoba warns",
-      "published_at": "2026-02-06T14:22:06-05:00",
-      "section": "Canada",
-      "summary_auto": "Thousands of people who attended what's touted as Canada's largest indoor farm show this year may have been exposed to measles, Manitoba public health officials warn.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0c05043691024fa3085a759e4deaa7ee6afe68b8",
-      "url": "https://www.cbc.ca/news/politics/china-overturns-robert-schellenberg-death-sentence-9.7078324?cmp=rss",
-      "title": "China overturns death sentence for Canadian Robert Schellenberg",
-      "published_at": "2026-02-06T13:53:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c3e638e9f9128d78d6418554aacd3d314f37f51b",
-      "url": "https://www.cbc.ca/news/canada/calgary/medical-records-alberta-teens-9.7077600?cmp=rss",
-      "title": "Parents can now see medical records of Alberta teens, sparking worry among doctors",
-      "published_at": "2026-02-06T11:57:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some Alberta doctors are warning a move by the provincial government to increase the access parents have to the medical records of teenagers could put some patients at risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "517cb43c10952ff15430b15998f63d48c2518aa0",
-      "url": "https://www.cbc.ca/news/politics/supreme-court-ruling-lawyer-client-confidentiality-9.7077745?cmp=rss",
-      "title": "Supreme Court ruling sets out exception to lawyer-client confidentiality",
-      "published_at": "2026-02-06T11:37:40-05:00",
-      "section": "Canada",
-      "summary_auto": "The Supreme Court of Canada says there can be an exception to a lawyer's duty to keep conversations with a client confidential when the lawyer needs the information to defend themselves against a criminal charge.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c9703d678a48d0c6708a798bd99e2d5f650d2aa8",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/coquitlam-schools-hold-and-secure-9.7078142?cmp=rss",
-      "title": "Students in Coquitlam, B.C., face 3rd day of 'hold and secure' procedures as police respond to threats",
-      "published_at": "2026-02-06T11:28:14-05:00",
-      "section": "Canada",
-      "summary_auto": "Students in Coquitlam, B.C., were placed under \"hold and secure\" protocols Friday over what administrators described as a \"called-in threat.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2fcc1f912c1151a75e64ea3fd8279561f24f30fa",
-      "url": "https://www.cbc.ca/news/canada/ottawa/enzo-the-emu-makes-a-break-for-it-local-stardom-ensues-9.7077384?cmp=rss",
-      "title": "Enzo the emu makes a break for it, local stardom ensues",
-      "published_at": "2026-02-06T10:32:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A female emu named Enzo briefly escaped from an eastern Ontario animal rescue sanctuary earlier this week, and has now turned into something of a local celebrity.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a2456916842ea9a5187caf7397b32798799343aa",
-      "url": "https://www.cbc.ca/news/canada/north/prosecutors-drop-aggravated-assault-charge-against-yukon-hockey-prospect-mckenna-9.7077867?cmp=rss",
-      "title": "Prosecutors drop aggravated assault charge against Yukon hockey prospect McKenna",
-      "published_at": "2026-02-06T10:04:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prosecutors have withdrawn a felony aggravated assault charge against Yukon-born hockey prospect Gavin McKenna.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.939,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2b3f2ccc8377e78ece68ebf07054567d1967eb93",
-      "url": "https://www.cbc.ca/news/entertainment/elton-john-testifies-daily-mail-9.7077850?cmp=rss",
-      "title": "Elton John testifies he was 'incensed' over Daily Mail hacking allegations",
-      "published_at": "2026-02-06T09:43:27-05:00",
+      "published_at": "2026-02-06T15:51:03-05:00",
       "section": "World",
-      "summary_auto": "Singer Elton John told London's High Court on Friday he was incensed to learn of allegations his landline phones had been bugged on behalf of the Daily Mail, saying the papers' actions were \"outside even the most basic standards of human decency.\"",
+      "summary_auto": "Mexican authorities said Friday that federal forces had found a body that appeared to belong to one of 10 employees of a Canadian mining company who were kidnapped three weeks ago from a city in the Mexican state of Sinaloa.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f974d0dd86b0aa31e8bfbd0a3fc77f9e03177154",
-      "url": "https://www.cbc.ca/radio/quirks/bobs-blog-rocket-fuel-artemis-9.7077387?cmp=rss",
-      "title": "Why the rocket fuel that will power Artemis II is so hard to handle",
-      "published_at": "2026-02-06T09:36:29-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "It's difficult to imagine a substance that is hundreds of degrees below freezing yet still a liquid. Such is the strange nature of the liquid hydrogen and liquid oxygen that are the components of rocket fuel.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.677,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
