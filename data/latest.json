@@ -1,14 +1,79 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-08T09:22:26.737569-05:00",
+  "generated_at": "2026-02-08T15:19:41.038974-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5b74b214cef4b8d288fe9a8c2e5f33c80d8f9f59",
+      "url": "https://www.cbc.ca/news/world/nobel-peace-laureate-narges-mohammadi-sentence-hunger-strike-9.7080002?cmp=rss",
+      "title": "Iran adds 7 more years to sentence of jailed Nobel Peace laureate, supporters say",
+      "published_at": "2026-02-08T09:12:08-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Iran sentenced Nobel Peace Prize laureate Narges Mohammadi to over seven more years in prison after she began a hunger strike, supporters said Sunday, as Tehran cracks down on all dissent following nationwide protests and the deaths of thousands at the hands of security forces.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7515bb38e4cab09b1ddec22a1f46c51d492b2be8",
+      "url": "https://www.cbc.ca/news/entertainment/super-bowl-halftime-show-bad-bunny-politics-9.7075612?cmp=rss",
+      "title": "What to expect from Bad Bunny’s Super Bowl halftime show? Dancing, culture and a side of politics",
+      "published_at": "2026-02-08T08:15:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e70eb920b2e5f85d540d66395bf7c3ff421802ec",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/canada-s-madeline-schizas-gets-university-assignment-extension-at-olympics-9.7079906?cmp=rss",
+      "title": "Canadian figure skater Madeline Schizas gets university assignment extension at Olympics",
+      "published_at": "2026-02-08T07:33:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian figure skater and McMaster University student Madeline Schizas was granted an extension on her sociology assignment one day after going viral with her request on Instagram.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "091c792164910c69748cd27d3bbb30abbd540370",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/sidney-crosby-captain-team-canada-milano-cortina-team-canada-feb8-9.7079794?cmp=rss",
+      "title": "Sidney Crosby named captain of Canada's men's hockey team",
+      "published_at": "2026-02-08T05:25:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two-time Olympic gold medallist Sidney Crosby was been named captain of Canada's men's hockey team at the Milan Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77e76cc78f3fe947a8796421202f006fc95ff61d",
+      "url": "https://www.cbc.ca/news/politics/stephane-dion-alberta-separation-clarity-act-9.7079149?cmp=rss",
+      "title": "Man behind the Clarity Act has choice words for Alberta separatists and Danielle Smith",
+      "published_at": "2026-02-08T04:36:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "82653e4f1b97d932eb20a43a6e0278ede7559338",
       "url": "https://www.cbc.ca/news/world/suspect-shooting-senior-russian-officer-detained-9.7079646?cmp=rss",
       "title": "Suspect in shooting of senior Russian officer detained, Russia says",
       "published_at": "2026-02-08T03:45:15-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Russia’s Federal Security Service said Sunday that the man suspected of shooting a deputy chief of Russia’s military intelligence agency in Moscow was detained in Dubai and handed over to Russia.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,38 +125,12 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/tidal-power-force-energy-9.7076250?cmp=rss",
       "title": "Provincial officials still trying to find way to raise abandoned tidal turbine",
       "published_at": "2026-02-08T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Ten months after the Nova Scotia government’s Energy Department took the lead on finding a way to recover an abandoned tidal turbine from the depths of the Bay of Fundy, officials still cannot say when — or if — the device might be removed.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "77e76cc78f3fe947a8796421202f006fc95ff61d",
-      "url": "https://www.cbc.ca/news/politics/stephane-dion-alberta-separation-clarity-act-9.7079149?cmp=rss",
-      "title": "Man behind the Clarity Act has choice words for Alberta separatists and Danielle Smith",
-      "published_at": "2026-02-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Former Liberal cabinet minister Stéphane Dion is lambasting the brewing separatist movement in Alberta and demanding Premier Danielle Smith clarify her position and lay out the next steps depending on the outcome of a possible independence referendum.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "77cad13e0ec735e9cbbbbd9ddb7ae5a2ee5eb12a",
-      "url": "https://www.cbc.ca/news/health/canada-prescription-birth-control-9.7074160?cmp=rss",
-      "title": "Most of the world doesn’t require a prescription for birth control. Why do Canadians still need one?",
-      "published_at": "2026-02-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some Canadian doctors say patients on birth control need monitoring. But medical authorities in other countries increasingly disagree.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -104,6 +143,97 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.205,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8b1e71770b9690b7c443dfa3f31aa751b368a2a2",
+      "url": "https://www.cbc.ca/news/canada/toronto/eglinton-crosstown-feb-8-opening-9.7077697?cmp=rss",
+      "title": "Toronto's young transit enthusiasts 'bamboozled' by Eglinton Crosstown's day 1 speed",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It might be a chilly day, but the cold air didn't stop excited Torontonians from piling onto the newly launched trains along Line 5 Sunday. \"Line 5, Line 5, Line 5,\" chants erupted as the first Crosstown riders waited to get onboard at Kennedy Station.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.122,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "51e892ea8b1718eef8bc31d6f69cbb704d537927",
+      "url": "https://www.cbc.ca/news/world/venezuela-freedom-of-speech-criticize-leaders-9.7079330?cmp=rss",
+      "title": "With Maduro gone, Venezuelans test freedom to criticize leaders",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Just over one month after the United States captured then-President Nicolas Maduro, some Venezuelans opposed to the government have become increasingly bold in challenging the new authorities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3981004758ae333798aedc349d785c6f1b7a4c1a",
+      "url": "https://www.cbc.ca/news/canada/beingblackincanada/minnijean-brown-trickey-desegregation-9.7070264?cmp=rss",
+      "title": "Civil rights pioneer says after almost 70 years, story of the Little Rock Nine still 'resonates'",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Long before her work as an anti-racist educator and environmental campaigner in Canada, Minnijean Brown-Trickey showed enormous courage as one of the Little Rock Nine — a group of Black teenagers who integrated Little Rock Central High School in Little Rock, Ark., in 1957.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.541,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "530cefad10b88d4a5681a5a772f2d35aa339fe27",
+      "url": "https://www.cbc.ca/radio/costofliving/scholastic-books-fair-children-elementary-school-9.7074990?cmp=rss",
+      "title": "How Scholastic became a cultural rite of passage for Canadian kids",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "For decades, Scholastic has been a fixture in Canadian elementary schools, introducing children to reading while helping fund under-resourced libraries. Despite growing criticism over cost and commercialization, the book fair remains a nostalgic — and enduring — rite of passage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.658,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e0d8cd0a6318c2df061173e9e7481ac034f71a28",
+      "url": "https://www.cbc.ca/news/canada/hamilton/tiffany-falls-ice-climbing-9.7074074?cmp=rss",
+      "title": "Watch these ice climbers scale Hamilton’s Tiffany Falls",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Climbing company Muskoka Mountainworks took a group to Tiffany Falls in Hamilton for the first time last month. Two of the climbers tell CBC Hamilton they've long wanted to scale the frozen waterfall. They say ice climbing has been a great way for them to embrace winter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b717b6f01c6748239d121e661bf86dfe061eade7",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-learning-to-swim-olympic-distance-triathlon-9.7056153?cmp=rss",
+      "title": "I wanted to complete a triathlon. My first step? Learning to swim",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "At the age of 37, Alberto Ortiz's swimming had been casual dips in lakes or resort pools. But when a cousin made a joke about training for a triathlon, the idea stuck. When the training started, it didn't take long before he'd signed up for a full-distance Olympic triathlon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "77cad13e0ec735e9cbbbbd9ddb7ae5a2ee5eb12a",
+      "url": "https://www.cbc.ca/news/health/canada-prescription-birth-control-9.7074160?cmp=rss",
+      "title": "Most of the world doesn’t require a prescription for birth control. Why do Canadians still need one?",
+      "published_at": "2026-02-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some Canadian doctors say patients on birth control need monitoring. But medical authorities in other countries increasingly disagree.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -130,71 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7741179829e6b3b53194202a1953eff8e80f0c5e",
-      "url": "https://www.cbc.ca/news/entertainment/brad-arnold-3-doors-down-obituary-9.7079483?cmp=rss",
-      "title": "Brad Arnold, lead singer of Grammy-nominated rock band 3 Doors Down, dead at 47",
-      "published_at": "2026-02-07T14:32:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The band said in a statement that Brad Arnold \"passed away peacefully, surrounded by loved ones, in his sleep after his courageous battle with cancer.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "caf66a3d9c0f45427d9658054a4936a4bac189fe",
-      "url": "https://www.cbc.ca/news/world/savannah-guthrie-9.7079482?cmp=rss",
-      "title": "Savannah Guthrie says family ready to pay potential kidnappers ransom for mom's return",
-      "published_at": "2026-02-07T14:27:22-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Savannah Guthrie told the potential kidnappers of her mother Nancy Guthrie on Saturday that the family is prepared to pay for her safe return.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a93a6b96b3d0375c620e56bff355b71e9f1d3967",
-      "url": "https://www.cbc.ca/sports/football/nfl/patriots-seahawks-super-bowl-is-not-so-much-of-a-rematch-as-it-is-a-matchup-of-contrasts-9.7079386?cmp=rss",
-      "title": "Patriots-Seahawks Super Bowl is not so much of a rematch as it is a matchup of contrasts",
-      "published_at": "2026-02-07T12:54:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "This year's Super Bowl matchup between the New England Patriots and Seattle Seahawks is all about contrasts, from a heralded defence vs. an underrated one, to an All-Pro wide receiver vs. one of the NFL's best young cornerbacks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.925,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "276b4eec4f4601ad0487a4fdcb6176a2f45908da",
-      "url": "https://www.cbc.ca/news/world/patrick-lutts-jr-extradition-us-canada-toronto-manslaughter-9.7079296?cmp=rss",
-      "title": "American fugitive who spent decades in Toronto extradited back to U.S.",
-      "published_at": "2026-02-07T11:41:19-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S. fugitive who spent more than 20 years in Toronto while fleeing manslaughter charges has been extradited to Florida.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "67207e352f1ed673281de09fa1c30a0ee471b9f7",
-      "url": "https://www.cbc.ca/sports/football/nfl/how-aggressive-free-agency-moves-led-the-patriots-and-seahawks-to-the-super-bowl-9.7079239?cmp=rss",
-      "title": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
-      "published_at": "2026-02-07T10:23:15-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Winning the headlines during free agency in March doesn't typically lead to success in January and February in the NFL. But this season, two of the most aggressive teams during the free agency period last offseason will play in the Super Bowl.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.966,
         "subjectivity_hint": "low"
       }
     }
