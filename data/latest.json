@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-07T15:19:36.451968-05:00",
+  "generated_at": "2026-02-07T21:02:14.692168-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7741179829e6b3b53194202a1953eff8e80f0c5e",
+      "url": "https://www.cbc.ca/news/entertainment/brad-arnold-3-doors-down-obituary-9.7079483?cmp=rss",
+      "title": "Brad Arnold, lead singer of Grammy-nominated rock band 3 Doors Down, dead at 47",
+      "published_at": "2026-02-07T14:32:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The band said in a statement that Brad Arnold \"passed away peacefully, surrounded by loved ones, in his sleep after his courageous battle with cancer.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "caf66a3d9c0f45427d9658054a4936a4bac189fe",
+      "url": "https://www.cbc.ca/news/world/savannah-guthrie-9.7079482?cmp=rss",
+      "title": "Savannah Guthrie says family ready to pay potential kidnappers ransom for mom's return",
+      "published_at": "2026-02-07T14:27:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Savannah Guthrie told the potential kidnappers of her mother Nancy Guthrie on Saturday that the family is prepared to pay for her safe return.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f1aba4e26389a1dcf03a3d2b6c161301d6111b35",
+      "url": "https://www.cbc.ca/sports/olympics/winter/milano-cortina-olympics-richard-deitsch-notebook-feb7-9.7079300?cmp=rss",
+      "title": "Unstoppable Lindsey Vonn can achieve sports immortality on Sunday",
+      "published_at": "2026-02-07T12:05:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A week after rupturing the ACL in her left knee, 41-year-old Lindsey Vonn goes for Olympic gold Sunday at 5:30 a.m. ET at the Olympia delle Tofane downhill course.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "276b4eec4f4601ad0487a4fdcb6176a2f45908da",
+      "url": "https://www.cbc.ca/news/world/patrick-lutts-jr-extradition-us-canada-toronto-manslaughter-9.7079296?cmp=rss",
+      "title": "American fugitive who spent decades in Toronto extradited back to U.S.",
+      "published_at": "2026-02-07T11:41:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A U.S. fugitive who spent more than 20 years in Toronto while fleeing manslaughter charges has been extradited to Florida.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "92c59cc8490372d9469c170dbb296e6bcf802a4b",
       "url": "https://www.cbc.ca/news/canada/prince-edward-island/livestory/pei-pc-leadership-vote-result-rob-lantz-mark-ledwell-live-updates-9.7072973?cmp=rss",
@@ -26,19 +78,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "df228896df2b414fa941f04e2cc369b58ec65b65",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-athletes-careful-of-norovirus-in-milan-athletes-village-9.7079026?cmp=rss",
-      "title": "Canadian Olympians careful of norovirus at Athletes' Village in Milan",
-      "published_at": "2026-02-07T06:06:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian women's hockey team is being careful to avoid the norovirus that has made news in their sport early in Milano Cortina 2026.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -173,32 +212,6 @@
       }
     },
     {
-      "id": "0fa35993fce8267616fb0b8d842d9283a3cb4737",
-      "url": "https://www.cbc.ca/news/world/iran-nuclear-sites-satellite-images-9.7078130?cmp=rss",
-      "title": "Satellite images may reveal Iran trying to recover material from bombed nuclear sites",
-      "published_at": "2026-02-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Satellite images that have shown some recent activity around two Iranian nuclear sites bombed last year by Israel and the U.S. suggest Iran may be trying to recover materials from the area.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "124efbe721cbb9e1c6fff8f508f3b0031585d2d0",
-      "url": "https://www.cbc.ca/news/science/winter-snow-climate-water-9.7078119?cmp=rss",
-      "title": "Winter snow is declining in key watersheds across Canada, raising concerns about future water supply",
-      "published_at": "2026-02-06T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Declining snowpack can affect everything from municipal water systems and agriculture to lake levels, shipping and wildfire risk in Canada’s forests.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "bcdec37b24ea784f7297a8ec6ae82c1a67d1fa5f",
       "url": "https://www.cbc.ca/news/health/breast-milk-study-controversy-9.7078097?cmp=rss",
       "title": "Why a 20-year-old study claiming a baby died from opioid poisoning through breast milk is still under fire",
@@ -222,6 +235,19 @@
         "article_type": "News",
         "sentiment": 0.026,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0fa35993fce8267616fb0b8d842d9283a3cb4737",
+      "url": "https://www.cbc.ca/news/world/iran-nuclear-sites-satellite-images-9.7078130?cmp=rss",
+      "title": "Satellite images may reveal Iran trying to recover material from bombed nuclear sites",
+      "published_at": "2026-02-06T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Satellite images that have shown some recent activity around two Iranian nuclear sites bombed last year by Israel and the U.S. suggest Iran may be trying to recover materials from the area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -260,32 +286,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "91055ab2650273e733e80b5a577d9b3f4fd81f8d",
-      "url": "https://www.cbc.ca/news/world/vizsla-mexico-kidnap-9.7079065?cmp=rss",
-      "title": "Mexico living through 'terror,' says relative of kidnapped employee of Canadian mining company",
-      "published_at": "2026-02-06T15:58:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a1c802b710a3a8ac28a751537e4bf5696e62ca26",
-      "url": "https://www.cbc.ca/news/world/mexico-canada-mining-9.7078695?cmp=rss",
-      "title": "Body found in Mexico appears to be 1 of 10 kidnapped employees of Canadian mining company, authorities say",
-      "published_at": "2026-02-06T15:51:03-05:00",
-      "section": "World",
-      "summary_auto": "Mexican authorities said Friday that federal forces had found a body that appeared to belong to one of 10 employees of a Canadian mining company who were kidnapped three weeks ago from a city in the Mexican state of Sinaloa.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
