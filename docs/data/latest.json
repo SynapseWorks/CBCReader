@@ -1,31 +1,213 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-09T15:33:15.343423-05:00",
+  "generated_at": "2026-02-09T20:56:07.723783-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "2333c1ea59ba5074b3a59358b10a1993d5dd19a6",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-schools-funding-2026-27-year-9.7081530?cmp=rss",
-      "title": "Province announces nearly $80M funding increase for Manitoba schools",
-      "published_at": "2026-02-09T10:26:29-05:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba schools are getting a 3.5 per cent raise in funding from the province in the coming school year.",
+      "id": "0a4382899127da649fbf429eb656ba3c2f61c10b",
+      "url": "https://www.cbc.ca/news/health/food-allergy-children-review-9.7082021?cmp=rss",
+      "title": "Food allergies can be triggered in infancy, a new review says. Here's how",
+      "published_at": "2026-02-09T14:18:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A new review of studies gives families and doctors a better understanding of what drives food allergies in babies and children.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.318,
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "800038c5e33526e133b9961ce29f561f45978ec4",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-gordie-howe-trump-bridge-opening-truth-social-post-9.7081929?cmp=rss",
+      "title": "Trump threats on Gordie Howe bridge opening 'just insane,' Windsor mayor says",
+      "published_at": "2026-02-09T14:04:16-05:00",
+      "section": "Canada",
+      "summary_auto": "U.S. President Donald Trump's threat to stall the opening of the new Canada- U.S. border crossing is \"just insane,\" Windsor Mayor Drew Dilkens said Monday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fcc835490b8748e3761316a496d75cf56640cf64",
+      "url": "https://www.cbc.ca/news/canada/trump-gordie-howe-bridge-9.7081924?cmp=rss",
+      "title": "Trump threatens to block opening of new bridge between Windsor and Detroit",
+      "published_at": "2026-02-09T13:19:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "91405a3d6d21479103ccda063e6ce6194737d719",
+      "url": "https://www.cbc.ca/news/canada/ottawa/bruce-fanjoy-criticizes-return-to-office-plans-9.7081707?cmp=rss",
+      "title": "Liberal MP Bruce Fanjoy criticizes government's latest return-to-office order",
+      "published_at": "2026-02-09T12:50:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Bruce Fanjoy, the Liberal MP for Carleton, has broken ranks with his party to criticize the federal  government's latest return-to-office (RTO) mandate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "682b8959c7b30a4a46b099f80213699157d5c633",
+      "url": "https://www.cbc.ca/news/world/nancy-guthrie-savannah-missing-mother-9.7081737?cmp=rss",
+      "title": "Guthrie family at 'hour of desperation' in search for their missing mother",
+      "published_at": "2026-02-09T12:21:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Savannah Guthrie's family is \"at an hour of desperation\" in the search for her missing mother, the Today show co-host said in a video released Monday ahead of a looming ransom deadline apparently set by Nancy Guthrie's abductors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "675cef433b662a965df57ed9e6a4bbe64114f42b",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-czechia-womens-hockey-recap-round-robin-february-9-9.7080453?cmp=rss",
+      "title": "Canada beats Czechia, but captain Poulin exits game with apparent injury",
+      "published_at": "2026-02-09T11:51:04-05:00",
+      "section": "Canada",
+      "summary_auto": "Canadian captain Marie-Philip Poulin left the first period of an Olympic women's hockey game against Czechia with an apparent knee injury and did not return for the second.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "93ece2bd43eab685f29c8ebbfa7850d788bfd122",
+      "url": "https://www.cbc.ca/news/entertainment/catherine-o-hara-cause-of-death-pulimnary-embolism-9.7081525?cmp=rss",
+      "title": "Catherine O'Hara died of blood clot in lung, says L.A. Medical Examiner's Office",
+      "published_at": "2026-02-09T11:50:43-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Actor Catherine O'Hara died of a blood clot in her lung, according to the Los Angeles Medical Examiner's Office.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "30020afd3bc54afb14a1de56ae7ee3f0cb68b3be",
+      "url": "https://www.cbc.ca/player/play/9.7081704?cmp=rss",
+      "title": "Fact check: Are Russia and Belarus in the Olympics?",
+      "published_at": "2026-02-09T11:45:15-05:00",
+      "section": "World",
+      "summary_auto": "Twenty athletes with Russian and Belarusian passports are competing in the Winter Olympics, but they’re not representing a country. Here are the facts about 'Individual Neutral Athletes.'",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ee09aa1aed869a84e00c1277b0355466fe9d3fd",
+      "url": "https://www.cbc.ca/news/politics/carney-poilievre-bills-9.7081480?cmp=rss",
+      "title": "Conservatives, Liberals in behind-the-scenes negotiations as PM downplays election talk",
+      "published_at": "2026-02-09T11:15:31-05:00",
+      "section": "Canada",
+      "summary_auto": "Liberals and Conservatives are working out a path that could keep the government in power, sources tell CBC News, while Prime Minister Mark Carney continues to downplay the likelihood of a spring election.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "54e4e089a4c32f249cd32dcc37195f879de3c8de",
+      "url": "https://www.cbc.ca/news/canada/ottawa/via-rail-9.7081446?cmp=rss",
+      "title": "'Operational pressure' sparks Via Rail cancellations in Toronto, Ottawa, Montreal",
+      "published_at": "2026-02-09T11:13:54-05:00",
+      "section": "Canada",
+      "summary_auto": "Via Rail says recent train cancellations within its Toronto-Ottawa-Montreal corridor are being made in response to \"heightened operational pressure.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0535758edeab0b05a1d43d424b9e9a5328987f65",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452?cmp=rss",
+      "title": "B.C. Greens pull out of cooperation agreement with B.C. NDP",
+      "published_at": "2026-02-09T10:36:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Greens, which have two seats in B.C.’s legislature, will not sign a new co-operation agreement with the NDP government, saying the party has stalled or sidelined too many of the measures it agreed to.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ba043060589a3d301dd38160565f78139eb7bcb7",
+      "url": "https://www.cbc.ca/news/science/paleo-inuit-polynya-9.7081238?cmp=rss",
+      "title": "Ancient people had nautical tech, know-how to cross hazardous Arctic channel",
+      "published_at": "2026-02-09T10:34:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Archeologists have found the remains of a cluster of tents with hearths on a remote High Arctic island that date back more than 4,000 years. They offer surprising new insights about the first people who lived near what is now the Canada-Greenland border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2333c1ea59ba5074b3a59358b10a1993d5dd19a6",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-schools-funding-2026-27-year-9.7081530?cmp=rss",
+      "title": "Manitoba announces school funding hike, but divisions say they're still facing significant financial pressure",
+      "published_at": "2026-02-09T10:26:29-05:00",
+      "section": "Canada",
+      "summary_auto": "Manitoba schools are getting an overall 3.5 per cent raise in funding from the province in the coming school year, the education minister announced Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8855c0c2d79117bafa408b389e938b8c4ae9eeec",
+      "url": "https://www.cbc.ca/news/canada/hamilton/sga-td-coliseum-9.7081494?cmp=rss",
+      "title": "NBA star Shai Gilgeous-Alexander now partly owns Hamilton's TD Coliseum",
+      "published_at": "2026-02-09T10:10:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "There are also plans for community programming and events at the venue, in collaboration with Gilgeous- Alexander's charitable organization, says the Oak View Group.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc50a42ddaa7d29cd4e5b9b8cf0f2afc2e1df01e",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/trial-begins-for-sask-group-home-worker-charged-with-assaulting-residents-9.7081500?cmp=rss",
+      "title": "Trial begins for Sask. group home worker charged with assaulting residents",
+      "published_at": "2026-02-09T10:08:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jaclyn Elias, 38, was fired from the Prairie Branches group home after the allegations arose two years ago in the small community of Wilkie, Sask.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "c57c9e6c5f144a2ee1f4fd48514ddf221f5f86ef",
       "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-crash-father-9.7081467?cmp=rss",
-      "title": "Lindsey Vonn's father says Olympic crash is 'end of her career' if he has any say",
+      "title": "Lindsey Vonn says she'll need multiple surgeries to repair broken leg after Olympic crash",
       "published_at": "2026-02-09T09:47:58-05:00",
       "section": "Top Stories",
-      "summary_auto": "Lindsey Vonn's father said Monday that the American superstar will no longer race if he has any influence over her decision and that she will not return to the Winter Olympics after breaking her leg in the downhill over the weekend.",
+      "summary_auto": "Lindsey Vonn says she \"sustained a complex tibia fracture that is currently stable but will require multiple surgeries to fix properly\" after her devastating crash in the Olympic downhill.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.599,
+        "sentiment": -0.915,
         "subjectivity_hint": "low"
       }
     },
@@ -43,11 +225,24 @@
       }
     },
     {
+      "id": "eae259d3504be0158d8f6baf39da7eb9be61cad3",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/sask-man-makes-public-plea-for-help-finding-long-lost-guitar-strap-signed-by-joan-baez-9.7081234?cmp=rss",
+      "title": "Sask. man makes public plea for help finding long-lost guitar strap signed by Joan Baez",
+      "published_at": "2026-02-09T08:38:38-05:00",
+      "section": "Canada",
+      "summary_auto": "Seeking to recover an item with deep sentimental value, a man recently posted on Reddit about a long-lost guitar strap. He had borrowed the strap from his father over 15 years ago, and lost it. Now, he's hoping it will make its way back home.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8bcbabf549a1a048c2e6ce5f2daa5481386eb074",
       "url": "https://www.cbc.ca/sports/olympics/winter/hockey/milano-cortina-italy-women-hockey-chris-jones-feb9-9.7081214?cmp=rss",
       "title": "With a roster speckled red and white, Italy's victory in women's hockey is Canada's too",
       "published_at": "2026-02-09T08:28:14-05:00",
-      "section": "Canada",
+      "section": "World",
       "summary_auto": "As the final anxious seconds ticked away in Italy's 3-2 win over Japan on Monday, Daniele Sauvageau, the team’s Canadian general manager, looked at 35-year-old Laura Fortino, a gold-medal winner with Canada in 2014 who now wears Italian blue, both with tears in their eyes.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/london/dog-testing-arthur-brown-9.7077487?cmp=rss",
       "title": "Animal welfare group overseeing medical research in London, Ont. defends dog testing",
       "published_at": "2026-02-09T08:25:52-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Western University's Animal Care Committee cleared researcher Frank Prato's controversial use of dogs in medical research but a philosophy professor who specializes in ethics of animal treatment says he still has questions about how the tests were carried out.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,28 +277,15 @@
       }
     },
     {
-      "id": "1a327a2466658f129cb0399793d3f043fa3e9282",
-      "url": "https://www.cbc.ca/news/business/eddie-bauer-bankruptcy-protection-9.7080992?cmp=rss",
-      "title": "Outdoor sportswear brand Eddie Bauer files for bankruptcy protection",
-      "published_at": "2026-02-09T06:28:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The operator of roughly 180 Eddie Bauer stores has filed for Chapter 11 bankruptcy protection in the U.S. and will soon make a similar filing in Canada, blaming declining sales and a litany of other industry headwinds.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "699962c8dedf0954a03bc4306505c943c6fc90de",
-      "url": "https://www.cbc.ca/news/canada/hamilton/sebastian-halmagean-burial-9.7080955?cmp=rss",
-      "title": "Hamilton soldier who died in Latvia honoured with 21-gun salute at burial near Burlington, Ont.",
-      "published_at": "2026-02-09T06:24:03-05:00",
+      "id": "e787587bd38ceab8b0b89a494c7d3115a0d7f4cd",
+      "url": "https://www.cbc.ca/news/canada/calgary/stavely-alta-crash-memorial-game-9.7080860?cmp=rss",
+      "title": "'They were brothers': Players, families remember 3 who died in Alberta highway crash",
+      "published_at": "2026-02-09T07:01:54-05:00",
       "section": "Canada",
-      "summary_auto": "Dozens of people gathered Monday at Woodland Cemetery at the Hamilton-Burlington border, for the burial of Sebastian Halmagean, a Hamilton soldier who died in Latvia last month.",
+      "summary_auto": "Family, teammates and friends spoke about JJ Wright and Cameron Casorso, both from Kamloops, B.C., and Caden Fine from Alabama ahead of a memorial benefit game in their honour Sunday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.612,
+        "sentiment": 0.792,
         "subjectivity_hint": "low"
       }
     },
@@ -123,27 +305,27 @@
     {
       "id": "b377aa1aef4de8b1617298ea6fe998ffa1e25ffc",
       "url": "https://www.cbc.ca/sports/olympics/winter/skeleton/skeleton-racer-displays-images-of-athletes-killed-in-ukraine-war-on-his-helmet-9.7080901?cmp=rss",
-      "title": "Skeleton racer Heraskevych displays images of athletes killed in Ukraine war on his helmet",
+      "title": "Ukrainian skeleton racer at Olympics says his helmet tribute to fallen athletes won't be allowed by IOC",
       "published_at": "2026-02-09T06:04:43-05:00",
       "section": "Top Stories",
-      "summary_auto": "Ukrainian skeleton athlete Vladyslav Heraskevych trained on Monday at the Milano-Cortina Games in a helmet with images of compatriots killed during the war in Ukraine, delivering on a promise to use the Olympics to keep attention on ​the conflict.",
+      "summary_auto": "Vladyslav Heraskevych showed up for the Milan Cortina Olympics with a new helmet, one featuring the images of some fellow Ukrainian athletes killed in Russian attacks. And Heraskevych wanted to offer a tribute. The International Olympic Committee, he said, won't let it happen.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.957,
+        "sentiment": -0.872,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "1805bc7539f7dcd9d97e59da6f1edc62338bb31e",
       "url": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss",
-      "title": "Air Canada halts Cuba flights as Havana airport warns it will run out of jet fuel",
+      "title": "Air Canada, WestJet winding down flights to Cuba as Havana airport warns it will run out of jet fuel",
       "published_at": "2026-02-09T06:00:19-05:00",
-      "section": "World",
-      "summary_auto": "Air Canada announced it is suspending service to Cuba effective Monday as the Caribbean island's major airport warns it will run out of jet fuel.",
+      "section": "Canada",
+      "summary_auto": "Air Canada and WestJet both said they would begin suspending service to Cuba effective Monday as the Caribbean island's major airport warns it will run out of jet fuel.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.255,
-        "subjectivity_hint": "low"
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -157,19 +339,6 @@
         "article_type": "News",
         "sentiment": 0.103,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e9ffaac14b6aa302d486e556b5fb9d6504641788",
-      "url": "https://www.cbc.ca/player/play/9.7080747?cmp=rss",
-      "title": "Canadian Olympian gets extension on assignment, still has to write midterm",
-      "published_at": "2026-02-09T05:42:31-05:00",
-      "section": "Canada",
-      "summary_auto": "Figure skater Madeline Schizas says she was surprised when her Instagram post about requesting an extension on an assignment from her professor at McMaster University went viral. Victor Satzewich says he didn't even know he had an Olympian taking his online class. Satzewich granted the assignment extension, but Schizas will still be writing the course midterm on Tuesday. 'No excuses,' he said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.238,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -190,8 +359,8 @@
       "url": "https://www.cbc.ca/news/world/prince-william-kate-epstein-former-prince-andrew-9.7080555?cmp=rss",
       "title": "Buckingham Palace prepared to 'support' any police investigation into Andrew Mountbatten-Windsor",
       "published_at": "2026-02-09T03:24:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Buckingham Palace said on Monday it is ready to support any police investigation into King Charles' younger brother after emails suggested Andrew Mountbatten-Windsor might have shared confidential British trade documents with Jeffrey Epstein.",
+      "section": "World",
+      "summary_auto": "Buckingham Palace said on Monday it is ready to support any police investigation into King Charles's younger brother after emails suggested Andrew Mountbatten-Windsor might have shared confidential British trade documents with Jeffrey Epstein.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.881,
@@ -203,7 +372,7 @@
       "url": "https://www.cbc.ca/news/world/mediterranean-deadly-incident-zuwara-libya-9.7080530?cmp=rss",
       "title": "At least 53 killed after migrant boat sinks off Libyan coast",
       "published_at": "2026-02-09T03:16:38-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Two babies are among at least 53 people dead or missing after an inflatable migrant boat sank off Libya, the UN migration agency said on Monday, the latest tragedy on a dangerous route for those seeking a better life in Europe.",
       "bias_heuristic": {
         "article_type": "News",
@@ -221,19 +390,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f79aad21f3fcc4c431b1389866a168e85834452",
-      "url": "https://www.cbc.ca/news/canada/edmonton/university-of-alberta-removes-edi-from-hiring-policy-9.7076210?cmp=rss",
-      "title": "University of Alberta wants to scrap Equity, Diversity and Inclusion from hiring policy",
-      "published_at": "2026-02-09T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The University of Alberta is proposing to eliminate Equity, Diversity and Inclusion (EDI) from its hiring policy, a year after the school initially said it was moving away from the term.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -264,19 +420,6 @@
       }
     },
     {
-      "id": "21027009071e846daf179409bc7dd6382bdf063f",
-      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-athletes-medals-break-during-celebrations-9.7080516?cmp=rss",
-      "title": "Olympic athletes' medals break during celebrations",
-      "published_at": "2026-02-09T02:15:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Handle with care. That's the message from gold medalist Breezy Johnson at the Milan Cortina Winter Olympics after she and other athletes found their medals broke within hours.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "931bb08e27af1e06b3497f373d259bb6e078d3ce",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-entrepreneur-developing-mushroom-roots-as-sustainable-high-protein-food-product-9.7072585?cmp=rss",
       "title": "N.S. entrepreneur developing mushroom roots as sustainable, high-protein food product",
@@ -303,58 +446,6 @@
       }
     },
     {
-      "id": "a9ddc750bb66b6760c994f4f9a884dd383342acf",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/iceberg-barnes-thermite-9.7056788?cmp=rss",
-      "title": "From blowing up icebergs, to simply towing them. Tactics changed to keep ships safe",
-      "published_at": "2026-02-08T23:30:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Every year, thousands of people flock to Newfoundland’s shores to gaze at icebergs as they glide past. A McGill scientist made a similar journey a century ago, but instead of watching the bergs, he was hunting them",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.238,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb11a515a69dc0543503ab8e235633ac641b4d81",
-      "url": "https://www.cbc.ca/news/investigates/rcmp-gender-based-violence-analysis-9.7077762?cmp=rss",
-      "title": "More than 600 RCMP officers faced gender-based violence disciplinary charges since 2014, CBC analysis finds",
-      "published_at": "2026-02-08T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A CBC investigation of RCMP disciplinary records reveals hundreds of cases of alleged gender-based violence by members. Through a series of access requests, CBC received more than 10 years of disciplinary allegations and outcomes. Experts fear the revelations are just the “tip of the iceberg.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cb5013022a2ced4c4e913ee4020517d0e7abad61",
-      "url": "https://www.cbc.ca/news/gopublic/cra-tax-delays-9.7076075?cmp=rss",
-      "title": "Taxpayers complain of long waits for the CRA to fix its errors, deliver refunds",
-      "published_at": "2026-02-08T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Canada Revenue Agency is warning about processing delays for several key services involving Canadians’ tax returns. Some people stuck in the backlog say they're stressed and desperate for a resolution.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9b10a1ce8fe35738d9977b1c0fc16defa1561b4b",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-peq-pstq-explained-9.7079970?cmp=rss",
-      "title": "What's changing in Quebec’s immigration system — and why it's sparking backlash",
-      "published_at": "2026-02-08T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Quebec government continues to face growing opposition to its decision to nix its immigration program known as the PEQ, replacing it instead with the new and more restrictive Skilled Worker Selection program. But what does the end of the PEQ actually change? We break it down for you.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.09,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "8287e2f7de142fd9fe8986770714afa07940896b",
       "url": "https://www.cbc.ca/news/politics/cuban-cia-castro-energy-collapse-9.7078628?cmp=rss",
       "title": "Cubans wonder if they could be next after Venezuela as rumours swirl about U.S. talks",
@@ -365,32 +456,6 @@
         "article_type": "News",
         "sentiment": -0.279,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3b3470d55e21efdaf76eac5e6be5a8f2a5d462c6",
-      "url": "https://www.cbc.ca/news/entertainment/bad-bunny-half-time-show-9.7078043?cmp=rss",
-      "title": "Bad Bunny's Super Bowl halftime performance showcases love and Latino pride — and sparks Trump's scorn",
-      "published_at": "2026-02-08T16:41:22-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The 31-year-old Puerto Rican superstar took to an elaborate set depicting his home island’s landscape on Sunday night, delivering a high-energy performance filled with hit tracks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "abfe117bb4235a2804ddd19926feda4254c1476e",
-      "url": "https://www.cbc.ca/news/world/jimmy-lai-sentenced-hong-kong-national-security-case-9.7080352?cmp=rss",
-      "title": "Jimmy Lai sentenced to 20 years in prison over Hong Kong national security case",
-      "published_at": "2026-02-08T16:25:30-05:00",
-      "section": "World",
-      "summary_auto": "Jimmy Lai, the pro-democracy former Hong Kong media tycoon and a fierce critic of Beijing, was sentenced to 20 years in prison in one of the most prominent cases prosecuted under a China-imposed national security law that has virtually silenced the city's dissent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.656,
-        "subjectivity_hint": "low"
       }
     }
   ]
