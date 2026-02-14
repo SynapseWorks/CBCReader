@@ -1,12 +1,116 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-14T09:21:15.227999-05:00",
+  "generated_at": "2026-02-14T15:19:16.539038-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "cc6b8ca85751aacc59c62c80fe2b72c75b41b545",
+      "url": "https://www.cbc.ca/news/politics/canada-eu-safe-agreement-defence-loans-weapons-9.7090635?cmp=rss",
+      "title": "Canada has officially joined the EU's loans-for-weapons program",
+      "published_at": "2026-02-14T09:44:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Defence Minister David McGuinty says Canada has now officially joined the European Union’s Security Action for Europe (SAFE) program, which offers loans to member states to invest in defence capabilities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.78,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f8145bb263982bd06c065b02b559cd01e0b60d3b",
+      "url": "https://www.cbc.ca/news/canada/windsor/marignani-urges-tunnel-use-among-windsorites-9.7089240?cmp=rss",
+      "title": "Take the tunnel, Windsor city councillor says as Ambassador Bridge owners lobby against new bridge",
+      "published_at": "2026-02-14T09:23:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dc9b7d8ce8c7193e4f10ed602b1599cad8dcfef2",
+      "url": "https://www.cbc.ca/news/world/ukrainian-president-zelenskyy-geneva-talks-9.7090537?cmp=rss",
+      "title": "Zelenskyy says U.S. too often asks Ukraine, not Russia, for concessions, ahead of Geneva peace talks",
+      "published_at": "2026-02-14T07:59:40-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ukrainian President Volodymyr Zelenskyy voiced hope on Saturday that U.S.-brokered peace talks in Geneva next week would be substantive, but he said Ukraine was being asked \"too often\" to make concessions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.665,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6ef1b0124a127c52f3195993d0e89395c414988a",
+      "url": "https://www.cbc.ca/news/world/olympics-russia-ukraine-sport-9.7090407?cmp=rss",
+      "title": "Russia is still waging war in Ukraine, but door opening for more of its athletes to compete",
+      "published_at": "2026-02-14T07:45:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Twenty athletes from Russia and Belarus are competing at the Winter Olympics as neutral. Moscow has asked for its athletes to be fully reinstated in international competition, and sporting bodies are beginning to open the door to those once completely banned from participating.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "057f8a4cd776976fb471ff3e5d28479132047179",
+      "url": "https://www.cbc.ca/news/canada/toronto/iran-support-rally-toronto-february-14-2026-9.7090479?cmp=rss",
+      "title": "Thousands march in massive Toronto rally in support of Iran protests",
+      "published_at": "2026-02-14T06:54:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A major rally in North York Saturday is calling on the Canadian government to recognize Iran's exiled crown prince Reza Pahlavi as the leader of Iran’s democratic transition after anti-government protests erupted in Iran at the end of last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "299998828684e0b009779b777e387d8d3c674db7",
+      "url": "https://www.cbc.ca/news/politics/canada-france-europe-nuclear-weapons-9.7089805?cmp=rss",
+      "title": "From umbrella to uncertainty: Europe and Canada's nuclear deterrence anxiety",
+      "published_at": "2026-02-14T06:34:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a3220f3496ca017276a4b5ebb114d015de11fcca",
+      "url": "https://www.cbc.ca/news/canada/toronto/teachers-leave-racist-message-toronto-catholic-school-board-9.7090380?cmp=rss",
+      "title": "2 Toronto teachers on leave after racist social media messages discovered: School board",
+      "published_at": "2026-02-14T05:37:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two teachers have been put on leave from a North York high school, as the Toronto Catholic District School Board investigates an exchange of racist messages on a shared school program's social media account.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f14917f64a74810cbe2a2ed314e5fa72608a0e6a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-resilient-9.7087865?cmp=rss",
+      "title": "Why Tumbler Ridge is resilient",
+      "published_at": "2026-02-14T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The town at the centre of a national tragedy has faced collapse and hardship but continues to persevere.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.665,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "5cea67314f903926f382811340398d7fd13e483a",
       "url": "https://www.cbc.ca/news/world/russia-navalny-european-nations-poisoned-kremlin-9.7090292?cmp=rss",
-      "title": "5 European nations say Alexei Navalny was poisoned by Kremlin",
+      "title": "Alexei Navalny was poisoned by Kremlin with dart frog toxin, European nations say",
       "published_at": "2026-02-14T03:34:40-05:00",
       "section": "Top Stories",
       "summary_auto": "Russian opposition leader Alexei Navalny was poisoned by the Kremlin with a lethal toxin derived from the skin of poison dart frogs, five European countries said Saturday.",
@@ -30,15 +134,28 @@
       }
     },
     {
-      "id": "95d98ce499330ca64e112db276f0d6c859772aeb",
-      "url": "https://www.cbc.ca/news/health/sleep-chronotypes-so-9.7088764?cmp=rss",
-      "title": "Are you an early bird or a night owl? Why scientists are moving beyond these groupings",
-      "published_at": "2026-02-13T23:00:00-05:00",
+      "id": "e0f76d662e5be0620ad09667d43fc8da0a73c990",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/referee-hate-motivated-incident-musquodobit-harbour-rcmp-9.7089237?cmp=rss",
+      "title": "Youth hockey ref escorted out of N.S. rink by police after 'hate-motivated' harassment, say RCMP",
+      "published_at": "2026-02-14T00:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Categorizing people into just two groups — late and early risers — may be oversimplified when it comes to health and behaviour.",
+      "summary_auto": "A hockey game in Musquodoboit Harbour, N.S., had to be stopped and a young referee was escorted out of the arena by police after the official was targeted by hate-motivated verbal assaults from a person in the crowd, say RCMP.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd347f05b6375bfec1fa7aa8793a69100ac1acc6",
+      "url": "https://www.cbc.ca/news/canada/first-person-mental-health-jamaican-in-canada-9.7089147?cmp=rss",
+      "title": "Being Jamaican in Canada meant we didn’t talk about mental health — until depression forced me to",
+      "published_at": "2026-02-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "When Bria Barrows was diagnosed with depression as a high school student, her family struggled to talk about mental health issues. Since then, she has learned that talking leads to healing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.915,
         "subjectivity_hint": "medium"
       }
     },
@@ -53,6 +170,45 @@
         "article_type": "News",
         "sentiment": 0.958,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9fb53c3e89a342d92fa87097ea66ad4f021250b2",
+      "url": "https://www.cbc.ca/news/politics/russia-space-nuclear-weapon-canada-military-division-chief-9.7088665?cmp=rss",
+      "title": "Head of military's space division warns Russia is considering putting nuclear weapons in orbit",
+      "published_at": "2026-02-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The head of Canada's military space division says the country \"should absolutely be\" concerned about Russia's potential capabilities amid global fears the Kremlin is considering putting nuclear weapons in place to target satellites.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "95d98ce499330ca64e112db276f0d6c859772aeb",
+      "url": "https://www.cbc.ca/news/health/sleep-chronotypes-so-9.7088764?cmp=rss",
+      "title": "Are you an early bird or a night owl? Why scientists are moving beyond these groupings",
+      "published_at": "2026-02-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Categorizing people into just two groups — late and early risers — may be oversimplified when it comes to health and behaviour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8db2a7bba958f615f4cce699362ca163e606a0de",
+      "url": "https://www.cbc.ca/news/entertainment/bart-layton-crime-101-9.7089457?cmp=rss",
+      "title": "Bart Layton didn't like Chris Hemsworth for Crime 101. Then he proved him wrong",
+      "published_at": "2026-02-13T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Coming after his critically acclaimed documentary The Imposter, and genre-defying American Animals, director Bart Layton just released his deceptively deep heist film Crime 101. While he didn't initially believe Chris Hemsworth could pull off the role, he told CBC the Australian actor proved him wrong.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.936,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -73,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/schools-entry-access-9.7087257?cmp=rss",
       "title": "Does your local school lock its doors? Why school entrance protocols vary across Canada",
       "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "This week's tragedy in Tumbler Ridge, B.C., and  other intruder incidents in schools are reviving conversations across Canada about school safety — including controlled access and entry procedures.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,15 +238,15 @@
       }
     },
     {
-      "id": "299998828684e0b009779b777e387d8d3c674db7",
-      "url": "https://www.cbc.ca/news/politics/canada-france-europe-nuclear-weapons-9.7089805?cmp=rss",
-      "title": "From umbrella to uncertainty: Europe and Canada's nuclear deterrence anxiety",
+      "id": "9de5f3be0118278bed5eb912d7f8f36cdf45b2f9",
+      "url": "https://www.cbc.ca/news/politics/inuit-leaders-urge-ottawa-follow-greenland-infrastructure-9.7088538?cmp=rss",
+      "title": "Inuit leaders urge Ottawa to follow Greenland's infrastructure lead",
       "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "European allies are quietly exploring closer nuclear deterrence ties with France amid growing anxiety about the long-term reliability of U.S. security guarantees. Germany and Poland have acknowledged early-stage talks with Paris, while French President Emmanuel Macron has opened the door to a strategic dialogue — without offering a formal nuclear umbrella.",
+      "section": "World",
+      "summary_auto": "Inuit leaders back from a recent trip to Greenland say there's a stark contrast between the infrastructure in that Nordic country compared to Canada's North, and they're calling on the federal government to urgently fill the gap as part of its enhanced focus on Arctic security.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.178,
+        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -105,32 +261,6 @@
         "article_type": "News",
         "sentiment": -0.05,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bd347f05b6375bfec1fa7aa8793a69100ac1acc6",
-      "url": "https://www.cbc.ca/news/canada/first-person-mental-health-jamaican-in-canada-9.7089147?cmp=rss",
-      "title": "Being Jamaican in Canada meant we didn’t talk about mental health — until depression forced me to",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "When Bria Barrows was diagnosed with depression as a high school student, her family struggled to talk about mental health issues. Since then, she has learned that talking leads to healing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.915,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8db2a7bba958f615f4cce699362ca163e606a0de",
-      "url": "https://www.cbc.ca/news/entertainment/bart-layton-crime-101-9.7089457?cmp=rss",
-      "title": "Bart Layton didn't like Chris Hemsworth for Crime 101. Then he proved him wrong",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Coming after his critically acclaimed documentary The Imposter, and genre-defying American Animals, director Bart Layton just released his deceptively deep heist film Crime 101. While he didn't initially believe Chris Hemsworth could pull off the role, he told CBC the Australian actor proved him wrong.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -160,11 +290,24 @@
       }
     },
     {
+      "id": "fa3701d9b26f8158545d1ed566060e3c77b15948",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-hockey-player-larocque-to-wants-see-indigenous-athletes-excel-9.7086376?cmp=rss",
+      "title": "Canadian hockey player Larocque wants to see ‘Indigenous athletes excel’ beyond her success",
+      "published_at": "2026-02-13T17:02:16-05:00",
+      "section": "Canada",
+      "summary_auto": "Canadian defenceman Jocelyne Larocque has made history her entire Olympic career, from the first Indigenous player to play for Canada in women’s hockey at the Olympics to the most winning Indigenous Olympian in Canada. Now at her fourth Winter Games, Larocque is on a quest for a fourth medal with hopes of inspiring future generations to break records.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.958,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d9e81aa3b981f055eb775d88f6e460855e282b14",
       "url": "https://www.cbc.ca/news/world/iran-us-trump-regime-change-carrier-9.7089944?cmp=rss",
       "title": "Trump says regime change 'seems' to be 'best thing that could happen' for Iran",
       "published_at": "2026-02-13T16:40:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump on Friday embraced potential regime change in Iran and declared that \"tremendous power\" will soon be in the Middle East, as the Pentagon sent a second aircraft carrier to the region.",
       "bias_heuristic": {
         "article_type": "News",
@@ -182,149 +325,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "67b4af3dc10d78e5eee32001f1057e3a0c05806d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/zain-wood-sentence-stabbing-prince-george-9.7087349?cmp=rss",
-      "title": "B.C. man sentenced to life in prison for stabbing death of young mother",
-      "published_at": "2026-02-13T13:29:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A B.C. Supreme Court Justice has delivered the sentence for Zain Wood who was convicted of of  first-degree murder in the stabbing of 22-year-old, Prince George, B.C., mother Isabelle Thomas in front of her two children in 2023.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5b46da9705205aff1af46731825f8f050920b822",
-      "url": "https://www.cbc.ca/radio/asithappens/palestine-action-ruling-9.7089382?cmp=rss",
-      "title": "Labelling Palestine Action a terrorist group was unlawful, Britain’s High Court rules",
-      "published_at": "2026-02-13T12:59:00-05:00",
-      "section": "World",
-      "summary_auto": "Britain's High Court says the U.K. government acted unlawfully when it designated the protest group Palestine Action as a terrorist organization. But the fate of protesters arrested under the Terrorism Act still hangs in the balance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.964,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf4dae7b86d1209679d7a91edd09add491feca81",
-      "url": "https://www.cbc.ca/news/health/seasonique-seasonale-birth-control-recall-9.7089461?cmp=rss",
-      "title": "Seasonique, Seasonale birth control pills recalled over possible missing blister card",
-      "published_at": "2026-02-13T12:55:11-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Teva Canada is recalling two lots of Seasonique and one lot of Seasonale prescription birth control pills as a precaution after the company received a complaint about a package missing an entire blister card of pills, Health Canada says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6f8c2a2495dda333a9a9d2c898b8a62dd2b8d2a",
-      "url": "https://www.cbc.ca/player/play/9.7089576?cmp=rss",
-      "title": "The ‘Arc de Trump’ | About That",
-      "published_at": "2026-02-13T12:48:03-05:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang explains why U.S. President Donald Trump wants to build a 250-foot-high 'Independence Arch' in Washington, D.C., and why it’s under heavy scrutiny. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9a63a0608357ee23e0755f09463a699074b3624a",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-cases-february-9.7089341?cmp=rss",
-      "title": "Manitoba issues blanket measles warning for 5 southern RMs, says fans were exposed at Jets game",
-      "published_at": "2026-02-13T12:43:07-05:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba saw 44 confirmed cases of measles during the first week of February, as well as an exposure at the Feb. 4 Winnipeg Jets game, the province's latest measles reports say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ac81e915661f8a148ccdcae8b467524d7b4ca899",
-      "url": "https://www.cbc.ca/news/politics/canada-denmark-greenland-arctic-defence-trump-9.7089217?cmp=rss",
-      "title": "Canada, Denmark deepen defence ties after Greenland annexation threat",
-      "published_at": "2026-02-13T12:27:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada and Denmark have signed a new defence co-operation agreement aimed at strengthening Arctic security amid lingering tensions over U.S. annexation threats toward Greenland. The pact enhances collaboration on surveillance and joint operations but does not go beyond existing NATO Article 5 commitments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3ac0de743ad04663712281ac2b50426349dd4184",
-      "url": "https://www.cbc.ca/news/world/vizsla-kidnapped-mining-workers-mexico-canada-9.7089088?cmp=rss",
-      "title": "Mexico probing whether B.C. mining company was responsible in kidnapping of its workers",
-      "published_at": "2026-02-13T11:31:37-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Mexico’s Attorney General’s Office is investigating whether a Canadian mining company holds any responsibility in the suspected cartel kidnapping of 10 of its workers, President Claudia Sheinbaum said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "52c8066c1abf08102e4ae7c3b2df34a2c4d23998",
-      "url": "https://www.cbc.ca/news/politics/chrystia-freeland-election-rules-violation-9.7089204?cmp=rss",
-      "title": "Former minister Freeland violated election rules during 2024 byelection, watchdog finds",
-      "published_at": "2026-02-13T10:59:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Former deputy prime minister and cabinet minister Chrystia Freeland violated election rules during a 2024 byelection, the Commissioner of Canada Elections said on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa873de7c1b2abecc48aa48b815000600615250b",
-      "url": "https://www.cbc.ca/news/politics/tumbler-ridge-firearms-9.7088680?cmp=rss",
-      "title": "What we know — and don't — about the guns used in the Tumbler Ridge, B.C., shooting",
-      "published_at": "2026-02-13T10:50:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Three days after one of the deadliest mass shootings in Canada's history, it's still unclear how the shooter, who had a history of mental illness, got hold of the guns recovered at the two crime scenes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8e8365aa35705cbaebf56ecc44c0898e384c257f",
-      "url": "https://www.cbc.ca/news/world/indian-man-charged-plot-to-kill-sikh-separatist-9.7089055?cmp=rss",
-      "title": "Indian man pleads guilty in New York over alleged plot against Sikh separatist",
-      "published_at": "2026-02-13T10:11:42-05:00",
-      "section": "World",
-      "summary_auto": "An Indian man pleaded guilty on Friday to ‌U.S. criminal charges that he orchestrated a failed Indian government-backed plot to kill a Sikh separatist in New York ‌City, in connection with what U.S. and Canadian authorities have called a broader effort to target Indian dissidents.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.959,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3af51d51ce297c5cb07565c890a5c3444e99084c",
-      "url": "https://www.cbc.ca/news/canada/windsor/trump-bridge-moroun-lutnick-gordie-howe-ambassador-investigation-9.7088779?cmp=rss",
-      "title": "Democrats launching probe into Trump, Lutnick links with Moroun after Gordie Howe bridge threat",
-      "published_at": "2026-02-13T09:28:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Democrats in Washington say they’re launching an investigation into the Trump administration and its links to the wealthy owner of the Ambassador Bridge after the U.S. president threatened to block the opening of the competing Gordie Howe Bridge earlier this week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
         "subjectivity_hint": "low"
       }
     }
