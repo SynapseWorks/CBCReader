@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-14T15:19:16.539038-05:00",
+  "generated_at": "2026-02-14T20:47:11.268155-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "896a775c93228a3472a60b90de2cc567be5a1422",
+      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-womens-hockey-loon-9.7090625?cmp=rss",
+      "title": "Toy loon becomes unofficial mascot for Canadian women's Olympic hockey team",
+      "published_at": "2026-02-14T10:14:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A toy loon from a fan has become a mascot, or possibly a good luck charm, for Canada's women's hockey team at Milano Cortina 2026.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.872,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "cc6b8ca85751aacc59c62c80fe2b72c75b41b545",
       "url": "https://www.cbc.ca/news/politics/canada-eu-safe-agreement-defence-loans-weapons-9.7090635?cmp=rss",
@@ -58,10 +71,10 @@
     {
       "id": "057f8a4cd776976fb471ff3e5d28479132047179",
       "url": "https://www.cbc.ca/news/canada/toronto/iran-support-rally-toronto-february-14-2026-9.7090479?cmp=rss",
-      "title": "Thousands march in massive Toronto rally in support of Iran protests",
+      "title": "An estimated 350,000 people march in Toronto in support of Iran protests, police say",
       "published_at": "2026-02-14T06:54:51-05:00",
       "section": "Top Stories",
-      "summary_auto": "A major rally in North York Saturday is calling on the Canadian government to recognize Iran's exiled crown prince Reza Pahlavi as the leader of Iran’s democratic transition after anti-government protests erupted in Iran at the end of last year.",
+      "summary_auto": "A rally in North York Saturday that drew an estimated 350,000 people called on the Canadian government to recognize Iran's exiled crown prince Reza Pahlavi as the leader of Iran’s democratic transition after anti-government protests erupted in Iran at the end of last year.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.026,
@@ -212,19 +225,6 @@
       }
     },
     {
-      "id": "12bfd90bbe14dbc41c65605d24a0ef30ead37fbc",
-      "url": "https://www.cbc.ca/news/canada/united-states-threats-canada-anxiety-coping-9.7083301?cmp=rss",
-      "title": "‘We’re so vulnerable’: How Canadians can cope with anxiety in the face of existential threats from the U.S.",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump’s second term has threatened Canada with annexation and economic ruin, leaving some Canadians feeling anxious and concerned. A Winnipeg therapist offers strategies for coping with those emotions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "1dba63223b389b60c707ec556b47f4be07f649d4",
       "url": "https://www.cbc.ca/news/canada/schools-entry-access-9.7087257?cmp=rss",
       "title": "Does your local school lock its doors? Why school entrance protocols vary across Canada",
@@ -248,6 +248,19 @@
         "article_type": "News",
         "sentiment": 0.34,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "12bfd90bbe14dbc41c65605d24a0ef30ead37fbc",
+      "url": "https://www.cbc.ca/news/canada/united-states-threats-canada-anxiety-coping-9.7083301?cmp=rss",
+      "title": "‘We’re so vulnerable’: How Canadians can cope with anxiety in the face of existential threats from the U.S.",
+      "published_at": "2026-02-13T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump’s second term has threatened Canada with annexation and economic ruin, leaving some Canadians feeling anxious and concerned. A Winnipeg therapist offers strategies for coping with those emotions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -287,45 +300,6 @@
         "article_type": "News",
         "sentiment": 0.976,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fa3701d9b26f8158545d1ed566060e3c77b15948",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-hockey-player-larocque-to-wants-see-indigenous-athletes-excel-9.7086376?cmp=rss",
-      "title": "Canadian hockey player Larocque wants to see ‘Indigenous athletes excel’ beyond her success",
-      "published_at": "2026-02-13T17:02:16-05:00",
-      "section": "Canada",
-      "summary_auto": "Canadian defenceman Jocelyne Larocque has made history her entire Olympic career, from the first Indigenous player to play for Canada in women’s hockey at the Olympics to the most winning Indigenous Olympian in Canada. Now at her fourth Winter Games, Larocque is on a quest for a fourth medal with hopes of inspiring future generations to break records.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.958,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d9e81aa3b981f055eb775d88f6e460855e282b14",
-      "url": "https://www.cbc.ca/news/world/iran-us-trump-regime-change-carrier-9.7089944?cmp=rss",
-      "title": "Trump says regime change 'seems' to be 'best thing that could happen' for Iran",
-      "published_at": "2026-02-13T16:40:00-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump on Friday embraced potential regime change in Iran and declared that \"tremendous power\" will soon be in the Middle East, as the Pentagon sent a second aircraft carrier to the region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1a10b8200d33824cc57feeef8bf5a072bcbbe0cd",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-canada-communities-showing-love-support-for-tumbler-ridge-9.7089876?cmp=rss",
-      "title": "How communities across B.C. and Canada are showing love and support for Tumbler Ridge",
-      "published_at": "2026-02-13T16:12:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Canadian communities, small and large, have been expressing condolences and gestures of support this week, in the wake of a mass shooting in Tumbler Ridge, B.C., that killed eight victims, including six children.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
       }
     }
   ]
