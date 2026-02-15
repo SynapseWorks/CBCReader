@@ -1,19 +1,266 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-14T20:47:11.268155-05:00",
+  "generated_at": "2026-02-15T09:21:22.118031-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "896a775c93228a3472a60b90de2cc567be5a1422",
-      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-womens-hockey-loon-9.7090625?cmp=rss",
-      "title": "Toy loon becomes unofficial mascot for Canadian women's Olympic hockey team",
-      "published_at": "2026-02-14T10:14:44-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A toy loon from a fan has become a mascot, or possibly a good luck charm, for Canada's women's hockey team at Milano Cortina 2026.",
+      "id": "864af169fb68462c417f63e176eeefd45e557a78",
+      "url": "https://www.cbc.ca/news/world/israel-airstrikes-gaza-hamas-palestinian-9.7091108?cmp=rss",
+      "title": "Israel fires deadly airstrike at Gaza tent camp, Palestinian officials say",
+      "published_at": "2026-02-15T04:01:09-05:00",
+      "section": "World",
+      "summary_auto": "Israel fired airstrikes across the Gaza Strip on Sunday, killing at least 11 people, Palestinian officials said, in what the military called a response to ceasefire violations by Palestinian militant group Hamas.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.872,
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "90d36b1b2cb96f724d4bdabcc26f49a3e92c0b18",
+      "url": "https://www.cbc.ca/radio/sunday/gisele-pelicot-book-release-survivor-9.7075230?cmp=rss",
+      "title": "Gisèle Pelicot has been called a lot of things: Victim. Survivor. Icon. She calls herself 'an optimist’",
+      "published_at": "2026-02-15T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Gisèle Pelicot waived her right to anonymity at her ex-husband’s trial in September 2024, where he would be convicted of drugging her, raping her and inviting men to do the same while she was unconscious. Now, she's telling her wider story in a memoir as she rebuilds her life.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f8533acc32aba6057335a6b4e564cad1df6008b4",
+      "url": "https://www.cbc.ca/news/world/ukraine-drone-russia-black-sea-port-9.7091069?cmp=rss",
+      "title": "Ukrainian drone damages Russian Black Sea port ahead of U.S.-brokered peace talks",
+      "published_at": "2026-02-15T03:24:10-05:00",
+      "section": "World",
+      "summary_auto": "A Ukrainian drone strike ignited fires at one of Russia’s Black Sea ports, officials said on Sunday, ahead of fresh talks aimed at ending the nearly four-year-old war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ef735a06d96d238e6885a674017c319ed0b781b",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/olympic-mens-curling-controversy-canada-9.7091098?cmp=rss",
+      "title": "Olympic curling controversy takes aim at Canada",
+      "published_at": "2026-02-15T02:10:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Controversy is swirling in curling at the Winter Olympics and it's all centring on whether the mighty Canadian team is cheating. Both men's and women's teams have now been accused of the same infraction: double-touching the curling stone after it is released.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ef247cade04b805966de9b5fe2c95e488e8a1f0",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-scooby-doo-collector-podcaster-9.7087531?cmp=rss",
+      "title": "Zoinks! Regina woman turns love of Scooby-Doo into collecting and podcasting",
+      "published_at": "2026-02-15T01:00:00-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Visitors to Alexa Lawlor's Regina home can't miss noticing her extensive Scooby-Doo memorabilia collection when they walk into her living room.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.713,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a288c9755d41be3099497189749ef7f9d1344f0",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-olympian-lgbt-figure-skating-9.7090743?cmp=rss",
+      "title": "Figure skating is more open to LGBTQ athletes than ever. This N.S. Olympian never lived to see it",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nearly 35 years after Halifax ice dancer and Olympic bronze medallist Rob McCall died of AIDS, a new generation of elite gay figure skaters are embodying a future he — and many of his peers — never lived long enough to see.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecf11d79563ee7b9df4cde6fbd7692ea2ec03932",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/driving-nb-winter-history-sleigh-9.7084994?cmp=rss",
+      "title": "The long, cold, sometimes deadly way N.B.ers used to travel in winter",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Long before studded tires and heated seats, New Brunswickers relied on horse-drawn sleighs to get around in the winter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a7a1e6947b87fa52e49687faa038de7dc449e172",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/acadia-university-ai-open-course-9.7073938?cmp=rss",
+      "title": "Acadia University opens up AI literacy course to public for free",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Acadia University hopes an introductory course about AI tools can bring students and the public better understanding about AI technology.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4c579c5c2dcd0af32cc40287a37e7ac33da848a5",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-stompin-tom-connors-city-council-waterfront-hockey-song-9.7088626?cmp=rss",
+      "title": "Stompin' Tom fans push Saint John council for statue of Canadian icon",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Saint John resident Greg Hemmings and his friends are advocating for a statue to honor Canadian music icon Stompin' Tom Connors on the city's waterfront.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "676a98ef093416000a86d99f9697a3f98e29c4fe",
+      "url": "https://www.cbc.ca/news/canada/london/london-veteran-gives-canadas-flag-a-voice-on-flag-day-9.7088108?cmp=rss",
+      "title": "London veteran gives Canada’s flag a voice on Flag Day",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A London, Ont., veteran who witnessed Canada's maple leaf flag rise for the first time in 1965 is marking its 61st anniversary with a unique tribute: a letter written from the flag's perspective.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "af5b51f85c5a2bd534dd30a1a469ed8c1515999b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860?cmp=rss",
+      "title": "One year later, crews continuing to monitor grounded MSC Baltic III",
+      "published_at": "2026-02-14T23:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The MSC Baltic III has been pounded by winter weather and winds in recent months, and officials working on the site say there's still uncertainty around the vessel a year after it was grounded on the west coast of Newfoundland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c26e5fb58efd32d14fb784b5f65dd725c15c451",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mun-program-cuts-9.7087168?cmp=rss",
+      "title": "Memorial University cuts programs – here’s what’s gone and why",
+      "published_at": "2026-02-14T23:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Memorial University has ended or paused more than a dozen academic programs, blaming poor enrolment as a factor in many of the cuts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3b4e0dc67522cedfa5674999be4621b338bb7425",
+      "url": "https://www.cbc.ca/news/business/cuban-economy-tourism-trump-survival-9.7082765?cmp=rss",
+      "title": "Why the U.S. cutting off Cuba's oil supply is dooming its tourism industry",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "For decades, Cuba's tourism sector has enjoyed a reputation as an \"economic locomotive\" among authorities who saw it as the lifeblood of the Caribbean island country's economy. But the industry has been in decline since its 2018 peak, and the U.S. government squeezing Cuba's oil supply has pushed the nation's most crucial industry closer to its breaking point.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ad4f41ec951d602cfd5aa7f033c412beaef30a2c",
+      "url": "https://www.cbc.ca/news/world/greenland-trump-artist-response-kleist-eriksen-9.7084263?cmp=rss",
+      "title": "The art of no deal: A Greenlandic carver’s vengeful response to Trump shows opportunity amid crisis",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Greenlanders don't think that Donald Trump is done with their island quite yet, but some are determined to make the most of the crisis. Carver Kim Kleist-Eriksen — who carved his own rebuttal of Trump's efforts to take over the island — has found new audiences for his art in Canada; tourism operators are dealing with a surge of international interest;   and those who want Greenland's independence from Denmark see opportunities to forge stronger international bonds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.723,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d899173ae02785ff0499ba828a3759771b0aab97",
+      "url": "https://www.cbc.ca/news/trade-canada-mexico-9.7089835?cmp=rss",
+      "title": "Ottawa sees 'huge opportunity' as trade delegation heads to Mexico, says cabinet minister",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Canadian trade mission to Mexico this week could produce new deals by early spring, and marks the country's \"most significant\" such mission ever to Mexico, according to Canada-U.S. Trade Minister Dominic LeBlanc.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "419a010819d0bd66e0341566124cd0898cf40410",
+      "url": "https://www.cbc.ca/sports/olympics/winter/olympic-athletes-family-9.7089049?cmp=rss",
+      "title": "For some Olympic athletes, high-performance sport runs in the family",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Many competitors at the Milano-Cortina Winter Games are inspired by parents who are or have been elite athletes. On Team Canada alone, there are at least nine kids of Olympians and Paralympians.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c018dd3f145e777685b1a89817d241ee41f4b5df",
+      "url": "https://www.cbc.ca/news/canada/montreal/saaqclic-gallant-commission-9.7088597?cmp=rss",
+      "title": "Who knew what? Quebec's political class braces for final report into SAAQclic fiasco",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After months of testimony from Quebec ministers, civil servants and automobile insurance board officials, Judge Denis Gallant is expected to table his final report on the events surrounding the tumultuous release of the SAAQclic website in a news conference Monday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2449918d178550877ed9746b44dc98e192d79713",
+      "url": "https://www.cbc.ca/sports/olympics/winter/bobsleigh/keaton-bruggeling-bobsleigh-milano-cortina-olympics-9.7086561?cmp=rss",
+      "title": "St. Catharines, Ont., bobsledder makes Olympic debut after raising $25K to pay his own way",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Life-long St. Catharines, Ont., resident Keaton Bruggeling — who is also a Hamilton Ticat player — is making his Olympic debut as part of Canada’s four-man bobsleigh team at the 2026 Milano-Cortina Games which, he says, was made possible thanks to family, friends and strangers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3b4e0dc67522cedfa5674999be4621b338bb7425",
+      "url": "https://www.cbc.ca/news/business/cuban-economy-tourism-trump-survival-9.7082765?cmp=rss",
+      "title": "Tourism was once an 'economic locomotive' in Cuba. Now, the train is coming off the tracks",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "For decades, Cuba's tourism sector has enjoyed a reputation as an \"economic locomotive\" among authorities who saw it as the lifeblood of the Caribbean island country's economy. But the industry has been in decline since its 2018 peak, and the U.S. government squeezing Cuba's oil supply has pushed the nation's most crucial industry closer to its breaking point.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.285,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b37a28b220b6ea932b9a53204bf8413b2d2cf939",
+      "url": "https://www.cbc.ca/news/canada/montreal/black-blood-donations-quebec-9.7087761?cmp=rss",
+      "title": "How a history of stigma still deters some Black Quebecers from donating blood",
+      "published_at": "2026-02-14T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Policies dating back to the 1980s likely still play a role in the distrust some in Quebec's Black communities feel toward donating blood, but people like Stanley Étienne, working with Héma-Québec, strive to encourage more people to look past that history to save lives today.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.915,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -40,266 +287,6 @@
         "article_type": "News",
         "sentiment": 0.026,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dc9b7d8ce8c7193e4f10ed602b1599cad8dcfef2",
-      "url": "https://www.cbc.ca/news/world/ukrainian-president-zelenskyy-geneva-talks-9.7090537?cmp=rss",
-      "title": "Zelenskyy says U.S. too often asks Ukraine, not Russia, for concessions, ahead of Geneva peace talks",
-      "published_at": "2026-02-14T07:59:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy voiced hope on Saturday that U.S.-brokered peace talks in Geneva next week would be substantive, but he said Ukraine was being asked \"too often\" to make concessions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.665,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6ef1b0124a127c52f3195993d0e89395c414988a",
-      "url": "https://www.cbc.ca/news/world/olympics-russia-ukraine-sport-9.7090407?cmp=rss",
-      "title": "Russia is still waging war in Ukraine, but door opening for more of its athletes to compete",
-      "published_at": "2026-02-14T07:45:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Twenty athletes from Russia and Belarus are competing at the Winter Olympics as neutral. Moscow has asked for its athletes to be fully reinstated in international competition, and sporting bodies are beginning to open the door to those once completely banned from participating.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "057f8a4cd776976fb471ff3e5d28479132047179",
-      "url": "https://www.cbc.ca/news/canada/toronto/iran-support-rally-toronto-february-14-2026-9.7090479?cmp=rss",
-      "title": "An estimated 350,000 people march in Toronto in support of Iran protests, police say",
-      "published_at": "2026-02-14T06:54:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A rally in North York Saturday that drew an estimated 350,000 people called on the Canadian government to recognize Iran's exiled crown prince Reza Pahlavi as the leader of Iran’s democratic transition after anti-government protests erupted in Iran at the end of last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "299998828684e0b009779b777e387d8d3c674db7",
-      "url": "https://www.cbc.ca/news/politics/canada-france-europe-nuclear-weapons-9.7089805?cmp=rss",
-      "title": "From umbrella to uncertainty: Europe and Canada's nuclear deterrence anxiety",
-      "published_at": "2026-02-14T06:34:19-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3220f3496ca017276a4b5ebb114d015de11fcca",
-      "url": "https://www.cbc.ca/news/canada/toronto/teachers-leave-racist-message-toronto-catholic-school-board-9.7090380?cmp=rss",
-      "title": "2 Toronto teachers on leave after racist social media messages discovered: School board",
-      "published_at": "2026-02-14T05:37:51-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Two teachers have been put on leave from a North York high school, as the Toronto Catholic District School Board investigates an exchange of racist messages on a shared school program's social media account.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f14917f64a74810cbe2a2ed314e5fa72608a0e6a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-resilient-9.7087865?cmp=rss",
-      "title": "Why Tumbler Ridge is resilient",
-      "published_at": "2026-02-14T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The town at the centre of a national tragedy has faced collapse and hardship but continues to persevere.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.665,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5cea67314f903926f382811340398d7fd13e483a",
-      "url": "https://www.cbc.ca/news/world/russia-navalny-european-nations-poisoned-kremlin-9.7090292?cmp=rss",
-      "title": "Alexei Navalny was poisoned by Kremlin with dart frog toxin, European nations say",
-      "published_at": "2026-02-14T03:34:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Russian opposition leader Alexei Navalny was poisoned by the Kremlin with a lethal toxin derived from the skin of poison dart frogs, five European countries said Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71eeba2703595b709e74a0010b4036a704d93d33",
-      "url": "https://www.cbc.ca/news/investigates/cpp-us-investments-record-assests-9.7088667?cmp=rss",
-      "title": "Amid 'Buy Canadian' fervour, Canada's top pension funds still heavily invested in U.S.",
-      "published_at": "2026-02-14T03:22:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0f76d662e5be0620ad09667d43fc8da0a73c990",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/referee-hate-motivated-incident-musquodobit-harbour-rcmp-9.7089237?cmp=rss",
-      "title": "Youth hockey ref escorted out of N.S. rink by police after 'hate-motivated' harassment, say RCMP",
-      "published_at": "2026-02-14T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A hockey game in Musquodoboit Harbour, N.S., had to be stopped and a young referee was escorted out of the arena by police after the official was targeted by hate-motivated verbal assaults from a person in the crowd, say RCMP.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bd347f05b6375bfec1fa7aa8793a69100ac1acc6",
-      "url": "https://www.cbc.ca/news/canada/first-person-mental-health-jamaican-in-canada-9.7089147?cmp=rss",
-      "title": "Being Jamaican in Canada meant we didn’t talk about mental health — until depression forced me to",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "When Bria Barrows was diagnosed with depression as a high school student, her family struggled to talk about mental health issues. Since then, she has learned that talking leads to healing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.915,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b2b2735d7afe23efc189340ebf5a5b794c3af334",
-      "url": "https://www.cbc.ca/news/world/olympics-proposal-breezy-johnson-norway-cheater-9.7088607?cmp=rss",
-      "title": "Cheating, a proposal, cute couples — but are the Olympics really the place for love?",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Love often seems to be in the air during the Olympics. And there's a storied history of Olympic declarations of love, Olympic couples, and the sometimes controversial Olympic proposal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.958,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9fb53c3e89a342d92fa87097ea66ad4f021250b2",
-      "url": "https://www.cbc.ca/news/politics/russia-space-nuclear-weapon-canada-military-division-chief-9.7088665?cmp=rss",
-      "title": "Head of military's space division warns Russia is considering putting nuclear weapons in orbit",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The head of Canada's military space division says the country \"should absolutely be\" concerned about Russia's potential capabilities amid global fears the Kremlin is considering putting nuclear weapons in place to target satellites.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "95d98ce499330ca64e112db276f0d6c859772aeb",
-      "url": "https://www.cbc.ca/news/health/sleep-chronotypes-so-9.7088764?cmp=rss",
-      "title": "Are you an early bird or a night owl? Why scientists are moving beyond these groupings",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Categorizing people into just two groups — late and early risers — may be oversimplified when it comes to health and behaviour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8db2a7bba958f615f4cce699362ca163e606a0de",
-      "url": "https://www.cbc.ca/news/entertainment/bart-layton-crime-101-9.7089457?cmp=rss",
-      "title": "Bart Layton didn't like Chris Hemsworth for Crime 101. Then he proved him wrong",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Coming after his critically acclaimed documentary The Imposter, and genre-defying American Animals, director Bart Layton just released his deceptively deep heist film Crime 101. While he didn't initially believe Chris Hemsworth could pull off the role, he told CBC the Australian actor proved him wrong.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1dba63223b389b60c707ec556b47f4be07f649d4",
-      "url": "https://www.cbc.ca/news/canada/schools-entry-access-9.7087257?cmp=rss",
-      "title": "Does your local school lock its doors? Why school entrance protocols vary across Canada",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "This week's tragedy in Tumbler Ridge, B.C., and  other intruder incidents in schools are reviving conversations across Canada about school safety — including controlled access and entry procedures.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9de5f3be0118278bed5eb912d7f8f36cdf45b2f9",
-      "url": "https://www.cbc.ca/news/politics/inuit-leaders-urge-ottawa-follow-greenland-infrastructure-9.7088538?cmp=rss",
-      "title": "Inuit leaders urge Ottawa to follow Greenland's infrastructure lead",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Inuit leaders back from a recent trip to Greenland say there's a stark contrast between the infrastructure in that Nordic country compared to Canada's North, and they're calling on the federal government to urgently fill the gap as part of its enhanced focus on Arctic security.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "12bfd90bbe14dbc41c65605d24a0ef30ead37fbc",
-      "url": "https://www.cbc.ca/news/canada/united-states-threats-canada-anxiety-coping-9.7083301?cmp=rss",
-      "title": "‘We’re so vulnerable’: How Canadians can cope with anxiety in the face of existential threats from the U.S.",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump’s second term has threatened Canada with annexation and economic ruin, leaving some Canadians feeling anxious and concerned. A Winnipeg therapist offers strategies for coping with those emotions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3a4ca8961dd5227c896029b6c39e0332345ed6ba",
-      "url": "https://www.cbc.ca/player/play/9.7084706?cmp=rss",
-      "title": "Winter slips can be especially dangerous for seniors. This Quebec judo school teaches them how to fall safely",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Dojo Blainville has designed a program for seniors to help prevent injury in the case of a fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.05,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b2e6e68673f7be2ba9403cf6353b0f9a768df9c7",
-      "url": "https://www.cbc.ca/books/from-heated-rivalry-to-wuthering-heights-book-to-screen-adaptations-cause-a-boom-in-book-sales-9.7088602?cmp=rss",
-      "title": "From Heated Rivalry to Wuthering Heights, book-to-screen adaptations cause a boom in book sales",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Canadian booksellers are noticing that sales for book-to-screen adaptations are now having a moment like never before. Booksellers say that social media fandoms and streaming services are driving this phenomenon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f72e83bcf1b2682a1df02b586a778ba908789946",
-      "url": "https://www.cbc.ca/news/entertainment/nintendo-mario-tennis-fever-review-9.7087305?cmp=rss",
-      "title": "Mario Tennis Fever doesn't change the formula much, but rallies are so good it barely matters",
-      "published_at": "2026-02-13T23:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Mario Tennis Fever stays true to a formula as solid as it was on the Nintendo 64 decades ago: best played on a couch with friends.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.976,
-        "subjectivity_hint": "medium"
       }
     }
   ]
