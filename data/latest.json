@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-15T09:21:22.118031-05:00",
+  "generated_at": "2026-02-15T15:19:07.508926-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "445efbee09cb0f57cb7c62deeace1270d0b52d2b",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/patrick-chan-kurt-browning-relive-olympic-heartbreak-after-malinin-collapse-9.7091405?cmp=rss",
+      "title": "Patrick Chan, Kurt Browning relive Olympic heartbreak after Malinin collapse",
+      "published_at": "2026-02-15T08:48:23-05:00",
+      "section": "Canada",
+      "summary_auto": "Patrick Chan and Kurt Browning, two Canadian figure skating legends, watched with the rest of the sporting world in astonishment as the American star crashed under pressure, tumbling to eighth after a disastrous free skate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "35bca64a1167eb33b08ededa5e4ce1238c817dcc",
+      "url": "https://www.cbc.ca/sports/olympics/canada-gold-medal-olympic-win-9.7091389?cmp=rss",
+      "title": "It's been 58 years since it last took Canada this long to win Winter Olympics gold",
+      "published_at": "2026-02-15T07:50:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It took nine days before a Canadian athlete won a gold medal at the 2026 Milano-Cortina Olympics — the longest the country has ever taken to win gold at the Winter Games in 58 years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.937,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "73285567c1bc84a551b77774ebcf26733747570d",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-headquarters-flooding-9.7091391?cmp=rss",
+      "title": "Man and woman arrested after flooding at Winnipeg police headquarters",
+      "published_at": "2026-02-15T06:49:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A man and a woman are facing mischief charges connected to flooding at the Winnipeg police headquarters that left extensive damage still being cleaned up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "57a0b7b08a3ac3071056eb438e082e976d87a66d",
+      "url": "https://www.cbc.ca/player/play/9.7091357?cmp=rss",
+      "title": "An estimated 350,000 people rally in Toronto in support of Iran protests, police say",
+      "published_at": "2026-02-15T06:17:04-05:00",
+      "section": "Canada",
+      "summary_auto": "Hundreds of thousands of people filled the streets in Toronto on Saturday as part of a 'Global Day of Action' against the Iranian regime. The protesters called on the Canadian government to recognize Iran's exiled crown prince, Reza Pahlavi, as the leader of Iran’s democratic transition after anti-government protests erupted in Iran at the end of last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "864af169fb68462c417f63e176eeefd45e557a78",
       "url": "https://www.cbc.ca/news/world/israel-airstrikes-gaza-hamas-palestinian-9.7091108?cmp=rss",
@@ -19,13 +71,26 @@
     {
       "id": "90d36b1b2cb96f724d4bdabcc26f49a3e92c0b18",
       "url": "https://www.cbc.ca/radio/sunday/gisele-pelicot-book-release-survivor-9.7075230?cmp=rss",
-      "title": "Gisèle Pelicot has been called a lot of things: Victim. Survivor. Icon. She calls herself 'an optimist’",
+      "title": "Victim. Survivor. Icon. Gisèle Pelicot has heard it all. But in her words? She's ‘an optimist'",
       "published_at": "2026-02-15T04:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Gisèle Pelicot waived her right to anonymity at her ex-husband’s trial in September 2024, where he would be convicted of drugging her, raping her and inviting men to do the same while she was unconscious. Now, she's telling her wider story in a memoir as she rebuilds her life.",
+      "summary_auto": "Gisèle Pelicot waived her right to anonymity at her ex-husband's trial in September 2024, where he would be convicted of drugging her, raping her and inviting men to do the same while she was unconscious. Now, she's telling her wider story in a memoir as she rebuilds her life.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.477,
+        "sentiment": 0.013,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "90d36b1b2cb96f724d4bdabcc26f49a3e92c0b18",
+      "url": "https://www.cbc.ca/radio/sunday/gisele-pelicot-book-release-survivor-9.7075230?cmp=rss",
+      "title": "Gisèle Pelicot has been called a lot of things: Victim. Survivor. Icon. She calls herself 'an optimist'",
+      "published_at": "2026-02-15T04:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Gisèle Pelicot waived her right to anonymity at her ex-husband's trial in September 2024, where he would be convicted of drugging her, raping her and inviting men to do the same while she was unconscious. Now, she's telling her wider story in a memoir as she rebuilds her life.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
         "subjectivity_hint": "medium"
       }
     },
@@ -69,6 +134,32 @@
       }
     },
     {
+      "id": "1893e42657b89cfe01f14ad1495aeee661929a5c",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/olympic-men-dual-moguls-final-mikael-kingsbury-milano-cortina-february-15-9.7090897?cmp=rss",
+      "title": "'One of the best days of my life': Kingsbury wins Canada's 1st gold medal at Milano Cortina 2026",
+      "published_at": "2026-02-15T00:58:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mikaël Kingsbury ended his Olympic career on the top of the podium, winning the men's dual moguls final on Sunday to capture Canada's first gold medal of the Milano Cortina Olympic Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.96,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4c579c5c2dcd0af32cc40287a37e7ac33da848a5",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-stompin-tom-connors-city-council-waterfront-hockey-song-9.7088626?cmp=rss",
+      "title": "Stompin' Tom fans push Saint John council for statue of Canadian icon",
+      "published_at": "2026-02-15T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Saint John resident Greg Hemmings and his friends are advocating for a statue to honor Canadian music icon Stompin' Tom Connors on the city's waterfront.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8a288c9755d41be3099497189749ef7f9d1344f0",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-olympian-lgbt-figure-skating-9.7090743?cmp=rss",
       "title": "Figure skating is more open to LGBTQ athletes than ever. This N.S. Olympian never lived to see it",
@@ -86,37 +177,11 @@
       "url": "https://www.cbc.ca/news/canada/new-brunswick/driving-nb-winter-history-sleigh-9.7084994?cmp=rss",
       "title": "The long, cold, sometimes deadly way N.B.ers used to travel in winter",
       "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Long before studded tires and heated seats, New Brunswickers relied on horse-drawn sleighs to get around in the winter.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a7a1e6947b87fa52e49687faa038de7dc449e172",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/acadia-university-ai-open-course-9.7073938?cmp=rss",
-      "title": "Acadia University opens up AI literacy course to public for free",
-      "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Acadia University hopes an introductory course about AI tools can bring students and the public better understanding about AI technology.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c579c5c2dcd0af32cc40287a37e7ac33da848a5",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-stompin-tom-connors-city-council-waterfront-hockey-song-9.7088626?cmp=rss",
-      "title": "Stompin' Tom fans push Saint John council for statue of Canadian icon",
-      "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Saint John resident Greg Hemmings and his friends are advocating for a statue to honor Canadian music icon Stompin' Tom Connors on the city's waterfront.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
         "subjectivity_hint": "low"
       }
     },
@@ -147,47 +212,34 @@
       }
     },
     {
-      "id": "7c26e5fb58efd32d14fb784b5f65dd725c15c451",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mun-program-cuts-9.7087168?cmp=rss",
-      "title": "Memorial University cuts programs – here’s what’s gone and why",
-      "published_at": "2026-02-14T23:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Memorial University has ended or paused more than a dozen academic programs, blaming poor enrolment as a factor in many of the cuts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3b4e0dc67522cedfa5674999be4621b338bb7425",
-      "url": "https://www.cbc.ca/news/business/cuban-economy-tourism-trump-survival-9.7082765?cmp=rss",
-      "title": "Why the U.S. cutting off Cuba's oil supply is dooming its tourism industry",
+      "id": "b37a28b220b6ea932b9a53204bf8413b2d2cf939",
+      "url": "https://www.cbc.ca/news/canada/montreal/black-blood-donations-quebec-9.7087761?cmp=rss",
+      "title": "How a history of stigma still deters some Black Quebecers from donating blood",
       "published_at": "2026-02-14T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "For decades, Cuba's tourism sector has enjoyed a reputation as an \"economic locomotive\" among authorities who saw it as the lifeblood of the Caribbean island country's economy. But the industry has been in decline since its 2018 peak, and the U.S. government squeezing Cuba's oil supply has pushed the nation's most crucial industry closer to its breaking point.",
+      "summary_auto": "Policies dating back to the 1980s likely still play a role in the distrust some in Quebec's Black communities feel toward donating blood, but people like Stanley Étienne, working with Héma-Québec, strive to encourage more people to look past that history to save lives today.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.128,
+        "sentiment": 0.915,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "ad4f41ec951d602cfd5aa7f033c412beaef30a2c",
-      "url": "https://www.cbc.ca/news/world/greenland-trump-artist-response-kleist-eriksen-9.7084263?cmp=rss",
-      "title": "The art of no deal: A Greenlandic carver’s vengeful response to Trump shows opportunity amid crisis",
+      "id": "f8371569370bcb0f37af8e3a6902bd1d186a9246",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-nigeria-break-in-canada-9.7076293?cmp=rss",
+      "title": "The night intruders broke into my home was the night that sent me to Canada",
       "published_at": "2026-02-14T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Greenlanders don't think that Donald Trump is done with their island quite yet, but some are determined to make the most of the crisis. Carver Kim Kleist-Eriksen — who carved his own rebuttal of Trump's efforts to take over the island — has found new audiences for his art in Canada; tourism operators are dealing with a surge of international interest;   and those who want Greenland's independence from Denmark see opportunities to forge stronger international bonds.",
+      "summary_auto": "Ope Michael had a good life in Nigeria, but his sense of safety was shattered the night intruders broke into his home. That was the moment he decided to move to Canada, experiencing both the highs and lows of restarting life in a new country.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.723,
-        "subjectivity_hint": "low"
+        "sentiment": -0.743,
+        "subjectivity_hint": "high"
       }
     },
     {
-      "id": "d899173ae02785ff0499ba828a3759771b0aab97",
-      "url": "https://www.cbc.ca/news/trade-canada-mexico-9.7089835?cmp=rss",
+      "id": "5bc4eecc4a8a49a6f54615013ee73d0839a01318",
+      "url": "https://www.cbc.ca/news/politics/trade-canada-mexico-9.7089835?cmp=rss",
       "title": "Ottawa sees 'huge opportunity' as trade delegation heads to Mexico, says cabinet minister",
       "published_at": "2026-02-14T23:00:00-05:00",
       "section": "Top Stories",
@@ -225,19 +277,6 @@
       }
     },
     {
-      "id": "2449918d178550877ed9746b44dc98e192d79713",
-      "url": "https://www.cbc.ca/sports/olympics/winter/bobsleigh/keaton-bruggeling-bobsleigh-milano-cortina-olympics-9.7086561?cmp=rss",
-      "title": "St. Catharines, Ont., bobsledder makes Olympic debut after raising $25K to pay his own way",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Life-long St. Catharines, Ont., resident Keaton Bruggeling — who is also a Hamilton Ticat player — is making his Olympic debut as part of Canada’s four-man bobsleigh team at the 2026 Milano-Cortina Games which, he says, was made possible thanks to family, friends and strangers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "3b4e0dc67522cedfa5674999be4621b338bb7425",
       "url": "https://www.cbc.ca/news/business/cuban-economy-tourism-trump-survival-9.7082765?cmp=rss",
       "title": "Tourism was once an 'economic locomotive' in Cuba. Now, the train is coming off the tracks",
@@ -251,41 +290,15 @@
       }
     },
     {
-      "id": "b37a28b220b6ea932b9a53204bf8413b2d2cf939",
-      "url": "https://www.cbc.ca/news/canada/montreal/black-blood-donations-quebec-9.7087761?cmp=rss",
-      "title": "How a history of stigma still deters some Black Quebecers from donating blood",
+      "id": "ad4f41ec951d602cfd5aa7f033c412beaef30a2c",
+      "url": "https://www.cbc.ca/news/world/greenland-trump-artist-response-kleist-eriksen-9.7084263?cmp=rss",
+      "title": "The art of no deal: A Greenlandic carver’s vengeful response to Trump shows opportunity amid crisis",
       "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Policies dating back to the 1980s likely still play a role in the distrust some in Quebec's Black communities feel toward donating blood, but people like Stanley Étienne, working with Héma-Québec, strive to encourage more people to look past that history to save lives today.",
+      "section": "World",
+      "summary_auto": "Greenlanders don't think that Donald Trump is done with their island quite yet, but some are determined to make the most of the crisis. Carver Kim Kleist-Eriksen — who carved his own rebuttal of Trump's efforts to take over the island — has found new audiences for his art in Canada; tourism operators are dealing with a surge of international interest;   and those who want Greenland's independence from Denmark see opportunities to forge stronger international bonds.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cc6b8ca85751aacc59c62c80fe2b72c75b41b545",
-      "url": "https://www.cbc.ca/news/politics/canada-eu-safe-agreement-defence-loans-weapons-9.7090635?cmp=rss",
-      "title": "Canada has officially joined the EU's loans-for-weapons program",
-      "published_at": "2026-02-14T09:44:17-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Defence Minister David McGuinty says Canada has now officially joined the European Union’s Security Action for Europe (SAFE) program, which offers loans to member states to invest in defence capabilities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.78,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f8145bb263982bd06c065b02b559cd01e0b60d3b",
-      "url": "https://www.cbc.ca/news/canada/windsor/marignani-urges-tunnel-use-among-windsorites-9.7089240?cmp=rss",
-      "title": "Take the tunnel, Windsor city councillor says as Ambassador Bridge owners lobby against new bridge",
-      "published_at": "2026-02-14T09:23:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
+        "sentiment": 0.723,
         "subjectivity_hint": "low"
       }
     }
