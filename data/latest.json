@@ -1,15 +1,119 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-15T20:43:12.926731-05:00",
+  "generated_at": "2026-02-16T09:37:31.583283-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "7ef735a06d96d238e6885a674017c319ed0b781b",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/olympic-mens-curling-controversy-canada-9.7091098?cmp=rss",
-      "title": "Olympic curling controversy takes aim at Canada",
-      "published_at": "2026-02-15T15:11:15-05:00",
+      "id": "5783f3164e04c01765830f4789464e5d695f45f9",
+      "url": "https://www.cbc.ca/news/world/dana-eden-israeli-producer-dead-tehran-9.7092089?cmp=rss",
+      "title": "Dana Eden, co-creator of Israeli TV series Tehran, found dead in Athens hotel: police",
+      "published_at": "2026-02-16T03:44:07-05:00",
       "section": "Top Stories",
-      "summary_auto": "",
+      "summary_auto": "Israeli producer Dana Eden, best known for co-creating the Emmy-winning drama Tehran, has died suddenly in Greece, Israeli public broadcaster KAN said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6326b79c21a1ae22ff78ceb251f209eee4bd4f2",
+      "url": "https://www.cbc.ca/news/canada/montreal/charles-milliard-qlp-new-leader-9.7092030?cmp=rss",
+      "title": "Quebec Liberal Party welcomes new leader Charles Milliard",
+      "published_at": "2026-02-16T02:09:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Charles Milliard was welcomed as the new head of the Quebec Liberal Party at a rally in Trois-Rivières on Sunday. He takes over a party recently shaken by the December resignation of former leader Pablo Rodriguez.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1c68c5d28fc96bcedf7b07aa7fae02e95e5b6c93",
+      "url": "https://www.cbc.ca/news/world/us-violent-crime-statistics-trump-9.7087435?cmp=rss",
+      "title": "Violent crime in U.S. cities is way down, and Trump is taking credit",
+      "published_at": "2026-02-15T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fresh statistics show violent crime in major U.S. cities dropped sharply in 2025 from the previous year, and U.S. President Donald Trump is claiming that his get-tough policies are the reason. The inconvenient truth for this Trump administration is that violent crime was already in sharp decline before he returned to office.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.961,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea45ef50d7311948c9ef14b01be9e9610d7f28ab",
+      "url": "https://www.cbc.ca/radio/thecurrent/night-driving-discomfort-bright-led-headlights-9.7089101?cmp=rss",
+      "title": "Feeling discomfort driving at night? It’s not you — it’s the bright headlights, experts say",
+      "published_at": "2026-02-15T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates are calling on the federal government and car manufacturers to adjust their policies around headlights because there needs to be a better balance between solutions to help drivers see while not compromising other’s safety. They say political will can drive the conversation forward.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.678,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "350f7999a224333b8f02d0024a8c867c78ce1490",
+      "url": "https://www.cbc.ca/news/health/dancing-parkinsons-guelph-project-9.7089359?cmp=rss",
+      "title": "If you have Parkinson's disease, experts say you should be dancing. Here's why",
+      "published_at": "2026-02-15T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Growing evidence suggests that dance can help slow the progression of Parkinson's disease. It's because of that research that experts are launching a national online arts hub that aims to connect Parkinson's patients across Canada to different programs, like singing and dancing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d0d658c10861a1d3677db6dcce3c0aa368e0bbe6",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7088239?cmp=rss",
+      "title": "How Ontario Liberals hope to exit political wilderness when they elect new leader in November",
+      "published_at": "2026-02-15T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Liberals will choose their next leader this November, but the interim chief says the party must spend the next nine months doing the hard work of a broader rebuild after three consecutive electoral defeats.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.238,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cefebda3acec83eeca507f92e32bca7c8fe00fd0",
+      "url": "https://www.cbc.ca/news/business/canadians-chinese-electric-vehicles-9.7087040?cmp=rss",
+      "title": "Canadians are ready for Chinese-made autos, but experts note there are security risks",
+      "published_at": "2026-02-15T23:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "Weeks after Ottawa announced that it would allow a limited number of Chinese-made vehicles into the Canadian market, some have warned that the move puts data privacy at risk. But that might not be a significant turn-off for consumers who are in the market for a new car.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.548,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "d30f14a250f96edf23c2219195a5a1c53747c7dc",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/langley-vigil-honours-victims-of-tumbler-ridge-mass-shooting-9.7091803?cmp=rss",
+      "title": "Langley, B.C. vigil honours victims of Tumbler Ridge mass shooting, including former local student",
+      "published_at": "2026-02-15T17:45:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Several hundred people gathered in Langley, B.C. on Sunday evening, lighting candles and laying flowers in memory of the victims of the mass shooting in Tumbler Ridge, including a 12-year-old girl who, community members say, spent most of her childhood in the Lower Mainland city.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f72a8d7b7a591195a9d465a6639c8e34de37d4a2",
+      "url": "https://www.cbc.ca/player/play/9.7091926?cmp=rss",
+      "title": "#TheMoment an Olympic ice tech was called curling's Michael Jackson",
+      "published_at": "2026-02-15T17:40:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Olympic ice technician Mark Callan tells the National about the moment he was deemed the Michael Jackson of curling after his videos of his technique went viral for resembling the moonwalk.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -53,6 +157,19 @@
         "article_type": "News",
         "sentiment": 0.414,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "899998dc78b0472a988564f99c7235918a835cdc",
+      "url": "https://www.cbc.ca/news/canada/ottawa/girl-critically-injured-at-western-quebec-ski-hill-has-died-family-says-9.7091703?cmp=rss",
+      "title": "Girl critically injured at western Quebec ski hill has died, family says",
+      "published_at": "2026-02-15T12:26:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 13-year-old girl who was critically injured after her clothing got tangled in the ski lift at Centre Vorlage near Wakefield, Que., has died, her family says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -105,214 +222,6 @@
         "article_type": "News",
         "sentiment": 0.042,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "445efbee09cb0f57cb7c62deeace1270d0b52d2b",
-      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/patrick-chan-kurt-browning-relive-olympic-heartbreak-after-malinin-collapse-9.7091405?cmp=rss",
-      "title": "Patrick Chan, Kurt Browning relive Olympic heartbreak after Malinin collapse",
-      "published_at": "2026-02-15T08:48:23-05:00",
-      "section": "Canada",
-      "summary_auto": "Patrick Chan and Kurt Browning, two Canadian figure skating legends, watched with the rest of the sporting world in astonishment as the American star crashed under pressure, tumbling to eighth after a disastrous free skate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "123e9548191ecf8af1c1b2cc5576ee89b6b4dcb4",
-      "url": "https://www.cbc.ca/sports/olympics/winter/canada-gold-medal-olympic-win-9.7091389?cmp=rss",
-      "title": "It's been 58 years since it last took Canada this long to win Winter Olympics gold",
-      "published_at": "2026-02-15T07:50:47-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It took nine days before a Canadian athlete won a gold medal at the 2026 Milano-Cortina Olympics — the longest the country has ever taken to win gold at the Winter Games in 58 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73285567c1bc84a551b77774ebcf26733747570d",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-headquarters-flooding-9.7091391?cmp=rss",
-      "title": "Man and woman arrested after flooding at Winnipeg police headquarters",
-      "published_at": "2026-02-15T06:49:31-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A man and a woman are facing mischief charges connected to flooding at the Winnipeg police headquarters that left extensive damage still being cleaned up.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "864af169fb68462c417f63e176eeefd45e557a78",
-      "url": "https://www.cbc.ca/news/world/israel-airstrikes-gaza-hamas-palestinian-9.7091108?cmp=rss",
-      "title": "Israel fires deadly airstrike at Gaza tent camp, Palestinian officials say",
-      "published_at": "2026-02-15T04:01:09-05:00",
-      "section": "World",
-      "summary_auto": "Israel fired airstrikes across the Gaza Strip on Sunday, killing at least 11 people, Palestinian officials said, in what the military called a response to ceasefire violations by Palestinian militant group Hamas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "90d36b1b2cb96f724d4bdabcc26f49a3e92c0b18",
-      "url": "https://www.cbc.ca/radio/sunday/gisele-pelicot-book-release-survivor-9.7075230?cmp=rss",
-      "title": "Gisèle Pelicot has been called a lot of things: Victim. Survivor. Icon. She calls herself 'an optimist'",
-      "published_at": "2026-02-15T04:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Gisèle Pelicot waived her right to anonymity at her ex-husband's trial in September 2024, where he would be convicted of drugging her, raping her and inviting men to do the same while she was unconscious. Now, she's telling her wider story in a memoir as she rebuilds her life.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f8533acc32aba6057335a6b4e564cad1df6008b4",
-      "url": "https://www.cbc.ca/news/world/ukraine-drone-russia-black-sea-port-9.7091069?cmp=rss",
-      "title": "Ukrainian drone damages Russian Black Sea port ahead of U.S.-brokered peace talks",
-      "published_at": "2026-02-15T03:24:10-05:00",
-      "section": "World",
-      "summary_auto": "A Ukrainian drone strike ignited fires at one of Russia’s Black Sea ports, officials said on Sunday, ahead of fresh talks aimed at ending the nearly four-year-old war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4ef247cade04b805966de9b5fe2c95e488e8a1f0",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-scooby-doo-collector-podcaster-9.7087531?cmp=rss",
-      "title": "Zoinks! Regina woman turns love of Scooby-Doo into collecting and podcasting",
-      "published_at": "2026-02-15T01:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Visitors to Alexa Lawlor's Regina home can't miss noticing her extensive Scooby-Doo memorabilia collection when they walk into her living room.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.713,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c579c5c2dcd0af32cc40287a37e7ac33da848a5",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-stompin-tom-connors-city-council-waterfront-hockey-song-9.7088626?cmp=rss",
-      "title": "Stompin' Tom fans push Saint John council for statue of Canadian icon",
-      "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Saint John resident Greg Hemmings and his friends are advocating for a statue to honor Canadian music icon Stompin' Tom Connors on the city's waterfront.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ecf11d79563ee7b9df4cde6fbd7692ea2ec03932",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/driving-nb-winter-history-sleigh-9.7084994?cmp=rss",
-      "title": "The long, cold, sometimes deadly way N.B.ers used to travel in winter",
-      "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Long before studded tires and heated seats, New Brunswickers relied on horse-drawn sleighs to get around in the winter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "676a98ef093416000a86d99f9697a3f98e29c4fe",
-      "url": "https://www.cbc.ca/news/canada/london/london-veteran-gives-canadas-flag-a-voice-on-flag-day-9.7088108?cmp=rss",
-      "title": "London veteran gives Canada’s flag a voice on Flag Day",
-      "published_at": "2026-02-15T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A London, Ont., veteran who witnessed Canada's maple leaf flag rise for the first time in 1965 is marking its 61st anniversary with a unique tribute: a letter written from the flag's perspective.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "af5b51f85c5a2bd534dd30a1a469ed8c1515999b",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860?cmp=rss",
-      "title": "One year later, crews continuing to monitor grounded MSC Baltic III",
-      "published_at": "2026-02-14T23:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The MSC Baltic III has been pounded by winter weather and winds in recent months, and officials working on the site say there's still uncertainty around the vessel a year after it was grounded on the west coast of Newfoundland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b37a28b220b6ea932b9a53204bf8413b2d2cf939",
-      "url": "https://www.cbc.ca/news/canada/montreal/black-blood-donations-quebec-9.7087761?cmp=rss",
-      "title": "How a history of stigma still deters some Black Quebecers from donating blood",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Policies dating back to the 1980s likely still play a role in the distrust some in Quebec's Black communities feel toward donating blood, but people like Stanley Étienne, working with Héma-Québec, strive to encourage more people to look past that history to save lives today.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f8371569370bcb0f37af8e3a6902bd1d186a9246",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-nigeria-break-in-canada-9.7076293?cmp=rss",
-      "title": "The night intruders broke into my home was the night that sent me to Canada",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ope Michael had a good life in Nigeria, but his sense of safety was shattered the night intruders broke into his home. That was the moment he decided to move to Canada, experiencing both the highs and lows of restarting life in a new country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "ad4f41ec951d602cfd5aa7f033c412beaef30a2c",
-      "url": "https://www.cbc.ca/news/world/greenland-trump-artist-response-kleist-eriksen-9.7084263?cmp=rss",
-      "title": "The art of no deal: A Greenlandic carver’s vengeful response to Trump shows opportunity amid crisis",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Greenlanders don't think that Donald Trump is done with their island quite yet, but some are determined to make the most of the crisis. Carver Kim Kleist-Eriksen — who carved his own rebuttal of Trump's efforts to take over the island — has found new audiences for his art in Canada; tourism operators are dealing with a surge of international interest;   and those who want Greenland's independence from Denmark see opportunities to forge stronger international bonds.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.723,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b4e0dc67522cedfa5674999be4621b338bb7425",
-      "url": "https://www.cbc.ca/news/business/cuban-economy-tourism-trump-survival-9.7082765?cmp=rss",
-      "title": "Tourism was once an 'economic locomotive' in Cuba. Now, the train is coming off the tracks",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "For decades, Cuba's tourism sector has enjoyed a reputation as an \"economic locomotive\" among authorities who saw it as the lifeblood of the Caribbean island country's economy. But the industry has been in decline since its 2018 peak, and the U.S. government squeezing Cuba's oil supply has pushed the nation's most crucial industry closer to its breaking point.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.285,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5bc4eecc4a8a49a6f54615013ee73d0839a01318",
-      "url": "https://www.cbc.ca/news/politics/trade-canada-mexico-9.7089835?cmp=rss",
-      "title": "Ottawa sees 'huge opportunity' as trade delegation heads to Mexico, says cabinet minister",
-      "published_at": "2026-02-14T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "A Canadian trade mission to Mexico this week could produce new deals by early spring, and marks the country's \"most significant\" such mission ever to Mexico, according to Canada-U.S. Trade Minister Dominic LeBlanc.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "medium"
       }
     }
   ]
