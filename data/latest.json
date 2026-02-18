@@ -1,14 +1,196 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-17T15:30:16.326255-05:00",
+  "generated_at": "2026-02-17T20:44:48.507043-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "541268b43eeb7391764344a93241809dc8fba5cf",
+      "url": "https://www.cbc.ca/news/iio-investigation-tumbler-ridge-9.7094186?cmp=rss",
+      "title": "B.C. police watchdog considering investigation of Tumbler Ridge mass shooting",
+      "published_at": "2026-02-17T15:00:39-05:00",
+      "section": "Canada",
+      "summary_auto": "The Independent Investigations Office of B.C. is considering whether to investigate police action connected to the Tumbler Ridge mass shooting.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "84c0eaa72ceb243902700c1aa4a5613ef108dcb3",
+      "url": "https://www.cbc.ca/news/world/rhode-island-shooting-hocey-arena-9.7094315?cmp=rss",
+      "title": "Victims in Rhode Island hockey arena shooting were suspect's ex-wife and son",
+      "published_at": "2026-02-17T14:34:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A person who  opened fire during a youth hockey game  at an ice rink in Rhode Island on Monday killed their ex-wife and one son, Pawtucket Police Chief Tina Goncalves said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2b14753277a0e696d09909024e00a394ea3bcaf",
+      "url": "https://www.cbc.ca/sports/olympics/winter/the-buzzer-newsletter-day12-lookahead-feb17-9.7094674?cmp=rss",
+      "title": "Olympic viewing guide Day 12: What to watch on a big Wednesday",
+      "published_at": "2026-02-17T14:18:30-05:00",
+      "section": "Canada",
+      "summary_auto": "CBC Sports' daily Olympics newsletter previews a loaded Day 12, featuring Canada's first men's hockey playoff game, two short track finals and snowboard star Mark McMorris' shot at a fourth straight medal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9cb8c88ce170997be45100ed61b80bb0a69647fc",
+      "url": "https://www.cbc.ca/player/play/9.7094727?cmp=rss",
+      "title": "China's kung fu robots | About That",
+      "published_at": "2026-02-17T13:56:19-05:00",
+      "section": "World",
+      "summary_auto": "Andrew Chang explains why China's humanoid robots are being recognized globally and how China has been leading in the AI-powered robotics space. Images provided by The Canadian Press, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6676c675f24a1152e8c6f7d17d09ba7ac1b9921",
+      "url": "https://www.cbc.ca/news/world/barkley-marathons-no-finishers-9.7093996?cmp=rss",
+      "title": "For the 2nd year in a row, no one finished this wildly punishing marathon",
+      "published_at": "2026-02-17T12:54:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Just like that, the annual race based on a prison break, that starts with its founder blowing a conch and lighting a cigarette, came to another anticlimactic end.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bf46d84959d86ed668a662bfd6a4da0f0609d216",
+      "url": "https://www.cbc.ca/news/science/tyrannoroter-fossil-herbivore-9.7094046?cmp=rss",
+      "title": "Ancient animal discovered on Cape Breton Island may be one of the earliest plant eaters, study suggests",
+      "published_at": "2026-02-17T12:41:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "This football-sized creature could grind its teeth like a hard-core plant-eater, back before that was really a thing — and it may be the earliest vertebrate herbivore ever found.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "26cb97965473f10cefe0a06bbe41c4eff1d31c66",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-budget-2026-9.7094451?cmp=rss",
+      "title": "B.C. budget includes tax increases, 15K public job cuts, projected $13B deficit",
+      "published_at": "2026-02-17T12:17:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The B.C. government’s 2026 budget announced a series of tax increases, capital project delays, and a reduction of 15,000 public sector jobs over three years, but major deficits are still forecasted for the indefinite future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.351,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6e5ef9046977bb8eb64b81c36cc4c685fe1d2547",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/ty-france-padres-minor-league-deal-9.7094182?cmp=rss",
+      "title": "Gold Glove winner Ty France to join Padres after brief run with Blue Jays",
+      "published_at": "2026-02-17T11:35:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Gold Glove winner Ty France won't be returning to the Toronto Blue Jays this spring, after signing a minor-league deal with the San Diego Padres.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.932,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0c729979df76ec5ca7b24db93111ea94812d8fc",
+      "url": "https://www.cbc.ca/news/entertainment/stephen-colbert-james-talarico-9.7094223?cmp=rss",
+      "title": "Stephen Colbert says CBS blocked interview with Democratic candidate James Talarico",
+      "published_at": "2026-02-17T11:28:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Late-night host Stephen Colbert said his interview with Democratic Texas Senate candidate James Talarico was pulled from Monday night's broadcast over network fears it would violate regulatory guidance from the Trump administration on giving equal time to political candidates.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "042c8f63680662ff13375a63b1de94d4d6e9a7b3",
+      "url": "https://www.cbc.ca/news/canada/montreal/saaqclic-gallant-commission-report-apology-9.7093700?cmp=rss",
+      "title": "Quebec looks into legal action against auto insurance board officials after disastrous website launch",
+      "published_at": "2026-02-17T10:48:41-05:00",
+      "section": "Canada",
+      "summary_auto": "Quebec's automobile insurance board, known as the SAAQ, has apologized following the scathing report tabled by Judge Denis Gallant on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9c47a713e013dfd81b9a0659dd51b0003a13156",
+      "url": "https://www.cbc.ca/news/world/in-photos-lunar-new-year-celebrations-for-the-year-of-the-horse-9.7094021?cmp=rss",
+      "title": "IN PHOTOS | Lunar New Year celebrations for the Year of the Horse",
+      "published_at": "2026-02-17T10:34:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Year of the Horse has begun, and celebrations around the world have started in what is being described as a year filled with independence, forward movement and energy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "501eb9ff6605367446df345bba4d97db29f932f7",
+      "url": "https://www.cbc.ca/news/canada/calgary/long-term-care-placement-hospitals-9.7089076?cmp=rss",
+      "title": "Fee charged to hospital patients waiting for long-term care points to system bottleneck, some say",
+      "published_at": "2026-02-17T10:06:40-05:00",
+      "section": "Health",
+      "summary_auto": "Calgarian Joan MacTavish is frustrated and disappointed her 92-year-old father is subject to a daily fee while he's in hospital waiting for a long-term care space to open up. The fee isn't new. It's meant to offset hospital costs, but experts say it might not be the best tool to manage patient flow.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.719,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1ee0ee9edc7de4d29a926f333eb34c6a811df4e4",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-hospital-9.7093809?cmp=rss",
+      "title": "Montreal General tops list of Quebec hospitals in dire need of repair",
+      "published_at": "2026-02-17T09:29:42-05:00",
+      "section": "Health",
+      "summary_auto": "A new assessment of Quebec’s hospital network has revealed a grim reality: the state of the province's medical infrastructure is far worse than previously reported, with the number of buildings rated in poor condition more than doubling in the last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b0b6ed3bc0957a9a5bacafc0baff8fcc7fbb81b5",
+      "url": "https://www.cbc.ca/news/canada/ottawa/house-arrest-for-ottawa-man-who-pleaded-guilty-to-husband-s-mercy-killing-9.7093763?cmp=rss",
+      "title": "House arrest for Ottawa man who pleaded guilty to husband's 'mercy killing'",
+      "published_at": "2026-02-17T09:23:42-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ottawa man who pleaded guilty to manslaughter in the death of his ailing husband has been sentenced to two years less a day of house arrest for an act the judge called \"in every respect an assisted-suicide mercy killing.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.944,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "3f4c1d3c486ceaf4b9e8fb00dc3e99e653cc1bd8",
       "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-osap-cuts-9.7094009?cmp=rss",
       "title": "Ont. premier tells students to not pick 'basket-weaving courses' in wake of loan program cuts",
       "published_at": "2026-02-17T09:07:05-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Premier Doug Ford had choice words for students expressing concerns over cuts to OSAP grants Tuesday, telling them to \"not pick basket-weaving courses\" and to invest in education that gives students in-demand jobs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +268,7 @@
       "url": "https://www.cbc.ca/news/entertainment/warner-bros-reopens-paramount-talks-9.7093472?cmp=rss",
       "title": "Warner Bros. reopening takeover talks with Paramount, but Netflix deal still favoured",
       "published_at": "2026-02-17T05:24:34-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Netflix, the preferred bidder to buy Warner Bros.' studio and streaming businesses, has given Warner a seven-day waiver to reopen talks with Paramount. The companies now have until Monday of next week to work out a possible deal, which Netflix would be allowed to match.",
       "bias_heuristic": {
         "article_type": "News",
@@ -104,19 +286,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.902,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "15fe530d0e9dee331abe4079d697efc9de3f0967",
-      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sexual-assault-trial-9.7093320?cmp=rss",
-      "title": "Woman's 'heart was pounding' in terror as Stronach groped her in Toronto condo, court hears",
-      "published_at": "2026-02-17T05:16:16-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A woman said her “heart was pounding” in terror as Frank Stronach groped her in a Toronto condominium decades ago, court heard at the sexual assault trial of the Canadian businessman on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
         "subjectivity_hint": "low"
       }
     },
@@ -151,7 +320,7 @@
       "url": "https://www.cbc.ca/news/business/canada-inflation-cpi-january-2026-9.7093329?cmp=rss",
       "title": "Canada's annual inflation rate edged down to 2.3% in January with decline in gas prices",
       "published_at": "2026-02-17T03:36:23-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Canada's annual inflation rate edged down to 2.3 per cent in January, Statistics Canada said on Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -164,7 +333,7 @@
       "url": "https://www.cbc.ca/news/world/iran-strait-of-hormuz-nucleur-talks-united-states-9.7093310?cmp=rss",
       "title": "Iran says progress made in nuclear talks with U.S. after partial closure of Strait of Hormuz",
       "published_at": "2026-02-17T03:24:39-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Iran and the United States reached an understanding on Tuesday on main \"guiding principles\" in talks aimed at resolving their longstanding nuclear dispute, but that does not mean a deal is imminent, Iranian Foreign Minister Abbas Aragchi said.",
       "bias_heuristic": {
         "article_type": "News",
@@ -190,7 +359,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/albertas-ai-data-centre-boom-unleashes-gold-rush-for-electricity-allotments-9.7089179?cmp=rss",
       "title": "Alberta’s AI data centre boom unleashes ‘gold rush’ for electricity allotments",
       "published_at": "2026-02-17T02:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Last year, as AI data centre proponents competed for a portion of the limited 1,200 megawatts that would connect their projects to the provincial grid, one company secured 180 megawatts from the Alberta Electric System Operator (AESO) — then sold it to a buyer for $18 million.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,38 +372,12 @@
       "url": "https://www.cbc.ca/news/canada/north/snowy-owls-climate-change-birds-9.7090729?cmp=rss",
       "title": "Why an Arctic icon, the snowy owl, must wait so long for legal protection",
       "published_at": "2026-02-17T02:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Snowy owls that once glided across wide open spaces of the Arctic tundra are seeing their homes shrink under thickening shrubs. They face a gauntlet of other threats, all of which decimate their numbers. Yet the raptor’s path to legal protection moves at a sluggish pace.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.5,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e539a6b92cdec16f7e03d94bd99bc074d4174273",
-      "url": "https://www.cbc.ca/news/canada/north/what-happens-if-n-w-t-diamond-mines-close-early-9.7092984?cmp=rss",
-      "title": "What happens if the N.W.T.'s diamond mines close early?",
-      "published_at": "2026-02-17T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The N.W.T. has been bracing for its diamond mines to close for years, but recent announcements from two of the three remaining players point to the possibility that it might all come to an end sooner than expected.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5c188e08a3dd8d8fd9eb7b51049ab2849894fbb7",
-      "url": "https://www.cbc.ca/news/canada/manitoba/social-media-platforms-illegal-drug-content-9.7087185?cmp=rss",
-      "title": "TikTok shuts down 2 accounts promoting opium in Punjabi within Winnipeg",
-      "published_at": "2026-02-17T01:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Advocates for countering crime online are urging social media platforms to do more to crack down on content in foreign languages promoting illegal drugs. TikTok shut down two accounts promoting what appeared to be opium in Punjabi after questions about it from CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -268,7 +411,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/down-syndrome-small-option-home-cape-breton-9.7087132?cmp=rss",
       "title": "Family says small option home abandoned man with Down syndrome at hospital",
       "published_at": "2026-02-17T00:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A 60-year-old man with Down syndrome has been living in the Inverness hospital since Dec. 22, despite the fact hospital staff say he does not require medical treatment. The small option home where he lived for 20 years says he cannot come back.",
       "bias_heuristic": {
         "article_type": "News",
@@ -290,19 +433,6 @@
       }
     },
     {
-      "id": "b0171b1bc61edc4f7ed14776139124262f9a5601",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-lung-screening-finds-early-lung-cancers-9.7082938?cmp=rss",
-      "title": "Nova Scotia's lung screening program finds dozens of cancer cases in first 2 years",
-      "published_at": "2026-02-17T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Nova Scotia's lung screening program is still in its infancy, but those leading the effort say they've already been able to deliver life-changing, positive news to dozens of people who might have been given a terminal diagnosis in other circumstances.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "d3046b10583939bd383e2384fb0440bf0372d74e",
       "url": "https://www.cbc.ca/news/canada/sudbury/forever-chemicals-toxicity-concerns-9.7088606?cmp=rss",
       "title": "Transport Canada documents raise concerns over forever chemicals as far back as 1984",
@@ -313,6 +443,19 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0171b1bc61edc4f7ed14776139124262f9a5601",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-lung-screening-finds-early-lung-cancers-9.7082938?cmp=rss",
+      "title": "Nova Scotia's lung screening program finds dozens of cancer cases in first 2 years",
+      "published_at": "2026-02-17T00:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Nova Scotia's lung screening program is still in its infancy, but those leading the effort say they've already been able to deliver life-changing, positive news to dozens of people who might have been given a terminal diagnosis in other circumstances.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -351,19 +494,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f5fbd3679e8dfad58ec8c07faa1210cae30180c",
-      "url": "https://www.cbc.ca/radio/costofliving/insurance-costs-car-9.7089016?cmp=rss",
-      "title": "Paid out of pocket for a fender-bender? Fine, but the law says you have to tell your insurer",
-      "published_at": "2026-02-16T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "For some reason, not a lot of people know that the law in Canada requires them to report a car crash to their insurer, experts told CBC. If they don't, drivers leave themselves exposed to personal injury lawsuits, voiding their insurance policies and significantly higher premiums in the future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.839,
         "subjectivity_hint": "low"
       }
     }
