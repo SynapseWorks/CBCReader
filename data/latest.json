@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-21T09:20:54.203412-05:00",
+  "generated_at": "2026-02-21T15:18:24.128689-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e60bd092ad25a271a16544b29df1d6e14dad0758",
+      "url": "https://www.cbc.ca/news/world/nasa-moon-launch-problem-march-9.7101012?cmp=rss",
+      "title": "NASA moon rocket suffers setback likely to delay March launch: officials",
+      "published_at": "2026-02-21T07:08:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "NASA's new moon rocket suffered another setback on Saturday, almost certain to bump astronauts' first lunar trip in decades into the spring.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a1d5ed95aa199cd9433f3aa58b3cc0858a7659e",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/sidney-crosby-game-time-decision-for-gold-medal-gamer-9.7100879?cmp=rss",
+      "title": "Sidney Crosby skates at practice, will be game-time decision for Olympic gold-medal final",
+      "published_at": "2026-02-21T04:23:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Sidney Crosby took part in Canada's practice Saturday and remains an option for the country's gold-medal matchup with the United States at the Milan Cortina Olympics. Head coach Jon Cooper said following an on-ice session closed to media that his captain will be a game-time decision Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "770db7dc4f21ac582d2b043e699f2cc25ee0aaa6",
       "url": "https://www.cbc.ca/news/world/israeli-airstrikes-lebanon-hezbollah-9.7100817?cmp=rss",
@@ -13,6 +39,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.914,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f0f077a99197fc716bdde08b0cc2cf04bccdfa56",
+      "url": "https://www.cbc.ca/news/politics/defence-industry-europe-trump-arms-warning-9.7100449?cmp=rss",
+      "title": "U.S. warning to Europe raises questions for Canada's new defence industrial strategy",
+      "published_at": "2026-02-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Just days before Canada unveiled its defence industrial strategy prioritizing domestic production, Washington quietly warned the European Union against favouring its own arms makers as it rebuilds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
@@ -30,16 +69,16 @@
       }
     },
     {
-      "id": "bf1b91cf43aa57b650c516f56dfb9830268365dc",
-      "url": "https://www.cbc.ca/news/world/trump-tariffs-supreme-court-analysis-9.7099838?cmp=rss",
-      "title": "What's next for Trump's tariffs after Supreme Court ruling",
+      "id": "c30a5be21e490c6093c8040d6aad39b9a38bf1d9",
+      "url": "https://www.cbc.ca/news/canada/first-person-winter-child-of-immigrants-9.7096492?cmp=rss",
+      "title": "Winter shaped me as a child of immigrants. With the season now unpredictable, I'm surprised by my nostalgia",
       "published_at": "2026-02-20T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Based simply on the barely suppressed anger that U.S. President Donald Trump showed throughout his news conference on the Supreme Court's decision on tariffs, it's a fair bet that Friday was the worst day so far of his second term.",
+      "summary_auto": "For most of her life, winter was simply something Rogene Reid lived through. But lately, as winters become less consistent and more unpredictable, she's realized winter has become part of her identity as a Canadian raised by Caribbean parents who didn’t grow up with this kind of cold.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.245,
-        "subjectivity_hint": "low"
+        "sentiment": 0.115,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -56,15 +95,15 @@
       }
     },
     {
-      "id": "f0f077a99197fc716bdde08b0cc2cf04bccdfa56",
-      "url": "https://www.cbc.ca/news/politics/defence-industry-europe-trump-arms-warning-9.7100449?cmp=rss",
-      "title": "U.S. warning to Europe raises questions for Canada's new defence industrial strategy",
+      "id": "bf1b91cf43aa57b650c516f56dfb9830268365dc",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-supreme-court-analysis-9.7099838?cmp=rss",
+      "title": "What's next for Trump's tariffs after Supreme Court ruling",
       "published_at": "2026-02-20T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Just days before Canada unveiled its defence industrial strategy prioritizing domestic production, Washington quietly warned the European Union against favouring its own arms makers as it rebuilds.",
+      "summary_auto": "Based simply on the barely suppressed anger that U.S. President Donald Trump showed throughout his news conference on the Supreme Court's decision on tariffs, it's a fair bet that Friday was the worst day so far of his second term.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.103,
+        "sentiment": 0.245,
         "subjectivity_hint": "low"
       }
     },
@@ -134,132 +173,41 @@
       }
     },
     {
+      "id": "a6135cc029bfa7e13ab9ac7d3bd116e9cc1ca693",
+      "url": "https://www.cbc.ca/news/canada/montreal/french-ballet-school-9.7099777?cmp=rss",
+      "title": "North America’s only French ballet school says funding gap threatens its future",
+      "published_at": "2026-02-20T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "This year marks the 60th anniversary of the École supérieure de ballet du Québec (ESBQ) — a milestone administrators say should be celebratory. Instead, they’re warning of financial strain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "aa30601094bc4ae6df2d2a8a507d40fcd0210573",
       "url": "https://www.cbc.ca/player/play/9.7100689?cmp=rss",
       "title": "Here's where U.S. military forces are as they head for Iran",
       "published_at": "2026-02-20T17:34:54-05:00",
       "section": "Top Stories",
-      "summary_auto": "As U.S. President Donald Trump's 'beautiful armada' draws closer to Iran, CBC News has tracked the location and movements of naval ships and military aircraft in the region.",
+      "summary_auto": "As U.S. President Donald Trump's Mideast 'armada' draws closer to Iran, CBC News has tracked the location and movements of naval ships and military aircraft in the region.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.599,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "96e39281b20aee29a42aff76c42176663c83e45b",
       "url": "https://www.cbc.ca/news/canada/british-columbia/openai-tumbler-ridge-shooter-ban-9.7100497?cmp=rss",
-      "title": "OpenAI had banned account of Tumbler Ridge, B.C., shooter",
+      "title": "OpenAI had banned account of Tumbler Ridge shooter in June 2025, reached out to RCMP after tragedy",
       "published_at": "2026-02-20T15:20:23-05:00",
       "section": "Top Stories",
       "summary_auto": "The company said, in response to questions from CBC News, that Jesse Van Rootselaar's account was detected via automated tools and human investigations that \"identify misuses of our models in furtherance of violent activities.\"",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8e568aedaa9d9796bd6c6317b4bd2a20c908b387",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendums-immigration-danielle-smith-9.7100397?cmp=rss",
-      "title": "The big questions Danielle Smith poses to Albertans as referendums",
-      "published_at": "2026-02-20T13:54:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta's premier used to want rapid growth in newcomers and enjoyed surplus budgets. Now in deficit, she's pointing a finger at immigration levels.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7278f90d1beb1f98e1721220ec9366106d8cca54",
-      "url": "https://www.cbc.ca/news/politics/transport-canada-gulfstream-jets-trump-9.7100401?cmp=rss",
-      "title": "Transport Canada certifies some jets at centre of Trump's aviation tariff threat",
-      "published_at": "2026-02-20T13:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Transport Canada has approved two American made jet models that had previously prompted U.S. President Donald Trump to threaten tariffs on Canada's aviation industry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cbff42c08be4503ed3afec7bc0f1534486169b61",
-      "url": "https://www.cbc.ca/news/entertainment/james-cameron-warner-bros-netflix-paramount-mergers-9.7099666?cmp=rss",
-      "title": "James Cameron slams Warner Bros.-Netflix bid, favours Paramount. Here’s a breakdown of both deals",
-      "published_at": "2026-02-20T13:29:44-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Canadian director James Cameron is calling on a U.S. Senate subcommittee to block Netflix’s acquisition of Warner Bros. Discovery, calling the potential deal a ‘sinking ship’ for theatres and instead backing a rival bid from Paramount Skydance. If you haven't followed the corporate back-and-forth closely, here’s a look at what each deal could mean.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4c32a15aadcb76c9572a37db80a23be41acac3f9",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/sidney-crosby-ruled-out-against-finland-9.7098964?cmp=rss",
-      "title": "As one star from Cole Harbour, N.S., is forced to only watch, another plays hero",
-      "published_at": "2026-02-20T12:17:40-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cdb74f66da58b81d95041fd8bb13689ad88b015",
-      "url": "https://www.cbc.ca/news/canada/toronto/barnhardt-home-sale-9.7099987?cmp=rss",
-      "title": "Toronto cop at centre of corruption probe lists GTA house for sale",
-      "published_at": "2026-02-20T12:03:06-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The home of the Toronto police constable described as the “genesis” of a months-long corruption probe was listed for sale this week while the officer remains behind bars.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e40416672c1f025e053237c362e9341e97415cea",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/skier-dies-in-avalanche-near-revelstoke-9.7100015?cmp=rss",
-      "title": "Skier dies in avalanche during guided trip near Revelstoke, B.C.",
-      "published_at": "2026-02-20T11:56:28-05:00",
-      "section": "Canada",
-      "summary_auto": "The snowpack in the Selkirk and Monashee mountains is considered to be of considerable risk for a human-triggered avalanche, according to Avalanche Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.338,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a0ff807a4897a4d559f7cfc586722b2b7299664b",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-olympics-alcohol-9.7099960?cmp=rss",
-      "title": "Ontario allows early-morning alcohol sales for gold medal hockey game",
-      "published_at": "2026-02-20T10:59:40-05:00",
-      "section": "Canada",
-      "summary_auto": "The Ontario government will allow bars and restaurants across the province to start selling alcohol at 6 a.m. ET on Sunday as the Canadian men’s hockey team competes for a gold medal at the Winter Olympics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be2957ce22882525026e9ae9b97cfb1098f793bd",
-      "url": "https://www.cbc.ca/radio/quirks/sinking-trees-carbon-emissions-9.7099205?cmp=rss",
-      "title": "Sinking trees into the Arctic Ocean could reduce carbon emissions. But is it worth it?",
-      "published_at": "2026-02-20T09:57:01-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "A group of European scientists have recently proposed an idea to sink mature trees from the vast boreal forest in Canada, Alaska and Russia into the deep Arctic ocean, to store the carbon for centuries to come.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
+        "sentiment": -0.898,
         "subjectivity_hint": "medium"
       }
     }
