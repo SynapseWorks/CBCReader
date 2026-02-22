@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-21T15:18:24.128689-05:00",
+  "generated_at": "2026-02-21T20:42:42.892224-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7a5722f45677752e8f8e28ba5670af6a665b97dd",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/malinin-olympics-gala-performance-social-media-9.7101293?cmp=rss",
+      "title": "U.S. figure skater Ilia Malinin highlights social media dangers in gala performance",
+      "published_at": "2026-02-21T13:36:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ilia Malinin delivered a powerful message about the dangers of social media and the unforgiving glare of the spotlight with an ‌emotional gala performance on Saturday to close the figure skating program at the Milano Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6f617d13325968001b03c3739ce85a69f27bc488",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/rcmp-investigating-threats-tumbler-ridge-victim-family-9.7101187?cmp=rss",
+      "title": "B.C. RCMP investigating reports of threats against Tumbler Ridge victim's family",
+      "published_at": "2026-02-21T13:21:55-05:00",
+      "section": "Canada",
+      "summary_auto": "A funeral for one of the victim's of the Tumbler Ridge, B.C., mass shooting has been cancelled as a result of the threats, according to the local newspaper.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d837cb87cfee2e305adcb144eed0f26888ff584f",
+      "url": "https://www.cbc.ca/news/world/skiers-california-avalanche-bodies-recovered-9.7101224?cmp=rss",
+      "title": "Crews recover bodies of 9 skiers days after deadly California avalanche",
+      "published_at": "2026-02-21T11:59:37-05:00",
+      "section": "World",
+      "summary_auto": "Crews recovered the bodies of nine backcountry skiers who were killed in a California avalanche four days ago, authorities said Saturday, concluding a harrowing operation hindered by intense snowfall.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24f690c26aac13e08514ff544fc28caae451ff30",
+      "url": "https://www.cbc.ca/news/canada/ottawa/federal-government-says-there-may-not-be-enough-workstations-for-all-workers-4-day-a-week-return-9.7100379?cmp=rss",
+      "title": "Federal government says there may not be enough workstations for all workers' 4-day-a-week return",
+      "published_at": "2026-02-21T11:28:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Unions representing federal workers say the Treasury Board of Canada's update only confirms what they already knew.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "90792de349f7628be00c8428566110add1b1eb32",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/olympic-curling-canada-men-gold-medal-match-february-21-9.7099370?cmp=rss",
+      "title": "Brad Jacobs leads Canada's curling men to Olympic gold over Great Britain",
+      "published_at": "2026-02-21T10:51:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada skip Brad Jacobs captured his second Olympic men's curling gold medal in 12 years on Saturday, defeating top-ranked Bruce Mouat and Great Britain 9-6 in a tightly contested game in Milan.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.866,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "e60bd092ad25a271a16544b29df1d6e14dad0758",
       "url": "https://www.cbc.ca/news/world/nasa-moon-launch-problem-march-9.7101012?cmp=rss",
@@ -34,24 +99,11 @@
       "url": "https://www.cbc.ca/news/world/israeli-airstrikes-lebanon-hezbollah-9.7100817?cmp=rss",
       "title": "Israeli strikes in eastern Lebanon kill 8 Hezbollah members, 2 others: officials",
       "published_at": "2026-02-21T03:23:10-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Israeli airstrikes in eastern Lebanon have killed eight members of the militant Hezbollah group, including several local officials, two officials with the group said Saturday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f0f077a99197fc716bdde08b0cc2cf04bccdfa56",
-      "url": "https://www.cbc.ca/news/politics/defence-industry-europe-trump-arms-warning-9.7100449?cmp=rss",
-      "title": "U.S. warning to Europe raises questions for Canada's new defence industrial strategy",
-      "published_at": "2026-02-20T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Just days before Canada unveiled its defence industrial strategy prioritizing domestic production, Washington quietly warned the European Union against favouring its own arms makers as it rebuilds.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
@@ -65,6 +117,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f0f077a99197fc716bdde08b0cc2cf04bccdfa56",
+      "url": "https://www.cbc.ca/news/politics/defence-industry-europe-trump-arms-warning-9.7100449?cmp=rss",
+      "title": "U.S. warning to Europe raises questions for Canada's new defence industrial strategy",
+      "published_at": "2026-02-20T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Just days before Canada unveiled its defence industrial strategy prioritizing domestic production, Washington quietly warned the European Union against favouring its own arms makers as it rebuilds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
@@ -182,32 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.637,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "aa30601094bc4ae6df2d2a8a507d40fcd0210573",
-      "url": "https://www.cbc.ca/player/play/9.7100689?cmp=rss",
-      "title": "Here's where U.S. military forces are as they head for Iran",
-      "published_at": "2026-02-20T17:34:54-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As U.S. President Donald Trump's Mideast 'armada' draws closer to Iran, CBC News has tracked the location and movements of naval ships and military aircraft in the region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96e39281b20aee29a42aff76c42176663c83e45b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/openai-tumbler-ridge-shooter-ban-9.7100497?cmp=rss",
-      "title": "OpenAI had banned account of Tumbler Ridge shooter in June 2025, reached out to RCMP after tragedy",
-      "published_at": "2026-02-20T15:20:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The company said, in response to questions from CBC News, that Jesse Van Rootselaar's account was detected via automated tools and human investigations that \"identify misuses of our models in furtherance of violent activities.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
         "subjectivity_hint": "medium"
       }
     }
