@@ -1,213 +1,226 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-22T20:43:25.815312-05:00",
+  "generated_at": "2026-02-23T09:41:14.943649-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "9a6cb86e21b13f550bffcbae7b96bc46b7f9fc06",
-      "url": "https://www.cbc.ca/news/canada/edmonton/puerto-vallarta-mexico-violence-alta-tourists-9.7102075?cmp=rss",
-      "title": "Albertan tourists stranded in Puerto Vallarta amid escalating violence",
+      "id": "b3a0f11c54f906666120aeccc86713777e74e79c",
+      "url": "https://www.cbc.ca/news/entertainment/bafta-racial-slur-tourettes-9.7102258?cmp=rss",
+      "title": "British film academy, BBC apologize after BAFTA awards guest with Tourette's shouts racial slur",
+      "published_at": "2026-02-23T04:13:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Host Alan Cumming had earlier told the audience that a guest with Tourette's who inspired a film about the neurological disorder was in the audience, and Cumming apologized following the outburst.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70765c3dda685b36fe284831c5cb774a67d3d71c",
+      "url": "https://www.cbc.ca/news/canada/toronto/nexus-closure-canadian-airports-9.7102199?cmp=rss",
+      "title": "Partial U.S. government shutdown blamed for NEXUS closure at Canadian airports",
+      "published_at": "2026-02-23T02:10:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Airports in Calgary, Montreal, Vancouver and Toronto are asking passengers travelling through U.S. Customs to allow for extra time to pass through security checks. While most airports didn't explain the reason behind the NEXUS closure Sunday, Vancouver International Airport said on its website that it's suspended until further notice \"due to the partial U.S. Government shutdown.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c3334a9b94e19d2ab5e36de075bd6b9ef884cf6a",
+      "url": "https://www.cbc.ca/news/world/fla-trump-estate-gunman-shot-9.7102181?cmp=rss",
+      "title": "FBI identifies gunman shot dead at entrance of Trump's Florida estate",
+      "published_at": "2026-02-23T02:02:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The FBI and U.S. Secret Service have released more details after an armed man drove into the secure perimeter of Mar-a-Lago, President Donald Trump's resort in Palm Beach, Fla., on Sunday morning. He was identified as Austin Martin, 21, a North Carolina native.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "adf85a759f5bb6a01cd72bdf8de80077722a0703",
+      "url": "https://www.cbc.ca/news/entertainment/nick-reiner-returns-to-court-9.7102157?cmp=rss",
+      "title": "Rob Reiner's son may enter plea today in the killing of his parents",
+      "published_at": "2026-02-23T01:55:46-05:00",
+      "section": "World",
+      "summary_auto": "Nick Reiner is set to appear in a downtown Los Angeles courtroom Monday for his arraignment on two counts of first-degree murder with his new lawyer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bad1dfea614697abdfb21e509221efb22e40dc71",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winkler-morden-measles-9.7099669?cmp=rss",
+      "title": "Measles outbreak not a concern for many in this part of southern Manitoba",
+      "published_at": "2026-02-23T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite high measles rates in the Winkler and Morden area of southern Manitoba, many residents remain unconcerned about the illness, CBC News found during a recent visit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bad1dfea614697abdfb21e509221efb22e40dc71",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winkler-morden-measles-9.7099669?cmp=rss",
+      "title": "Measles outbreak not a concern for many in Winkler-Morden area",
+      "published_at": "2026-02-23T01:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Despite high measles rates in the Winkler and Morden area of southern Manitoba, many residents remain unconcerned about the illness, CBC News found during a recent visit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff50d519e058359685b7853e272a808a19ce9150",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/schools-closed-dismissing-early-in-n-s-with-nor-easter-set-to-bring-snow-wind-9.7102171?cmp=rss",
+      "title": "Schools closed, dismissing early in N.S. with nor'easter set to bring snow, wind",
+      "published_at": "2026-02-23T00:40:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some schools in Nova Scotia are closed or dismissing early Monday as a nor'easter arrives in the region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "566d80474dab4e252a117d7d0b8087d9dc29ac9b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/we-have-failed-them-studies-overlook-sex-gender-in-veteran-pain-care-9.7098829?cmp=rss",
+      "title": "'We have failed them': Studies overlook sex, gender in veteran pain care",
+      "published_at": "2026-02-23T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A recent study on chronic pain management for Canadian veterans has uncovered a critical flaw in decades of research: Not a single one examined the impact of sex or gender on treatment effectiveness.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3f75529f15a05fb0b575b8e33417bb158da533b1",
+      "url": "https://www.cbc.ca/news/world/us-east-coast-blizzard-9.7102119?cmp=rss",
+      "title": "Travel 'nearly impossible' in parts of U.S. northeast, with thousands of flight cancellations",
+      "published_at": "2026-02-22T23:56:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Millions of people in New York City and a large swath of the northeastern U.S. were stuck at home under road travel bans and blizzard warnings Monday as heavy snow and strong winds intensified, creating whiteout conditions in the densely populated region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85b8a401ae232149ce0c73b015745ef56e89e75a",
+      "url": "https://www.cbc.ca/news/gopublic/credit-ratings-fraud-9.7099030?cmp=rss",
+      "title": "Edmonton woman frustrated by 18-month battle with Equifax and TransUnion to fix credit rating",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After identity thieves racked up $20,000 in debt in her name, Zoe Lorenz-Boser spent a year and a half trying to convince Equifax and TransUnion the debts weren’t hers. Experts say her case highlights systemic problems with Canada’s credit reporting system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b6d22ac1a7a73284a34640c9157066b98b43d172",
+      "url": "https://www.cbc.ca/radio/whitecoat/maid-edmonton-william-hume-9.7093721?cmp=rss",
+      "title": "An Alberta man wanted MAID. Instead, he died in a Catholic hospital, waiting to be transferred",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "William Hume knew he was dying and wanted medical assistance in dying (MAID). But when he ended up in a hospital run by a Catholic health-care provider, his last wishes weren't able to happen. He would die while waiting to transfer so he could receive MAID.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.775,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b789e54f01cc6202eb241e553318c2e6d1d16a33",
+      "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-challenge-bill-21-canada-implications-9.7097747?cmp=rss",
+      "title": "Why the Supreme Court challenge of Quebec's secularism law matters to the whole country",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "What began as a fight over the right of teachers in Quebec to wear hijabs has morphed into an epic legal battle about how Canadian democracy should function.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a6ab13e883e6fad9f61d2406d12d77f880883b1e",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-return-to-office-plan-9.7099817?cmp=rss",
+      "title": "Ontario has not purchased or leased new space for thousands of returning civil servants",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Doug Ford’s government says it has not signed any new leases or purchased real estate to accommodate 60,000 public sector workers ordered to return to the office five days a week, as unions representing the civil servants say they're facing a serious space crunch.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "311bc67005526e7538d07de1adb9610cbb811e00",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/blueberries-dalhousie-study-food-prescribing-healthy-eating-9.7097294?cmp=rss",
+      "title": "If food is medicine, how about a prescription for blueberries? N.S. researchers hope that’s the future",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A new study is examining whether providing blueberries for people to eat every day, combined with 30 grams of protein powder and personalized exercise routines, will improve frailty and heart health in older people. If it does, researchers hope the results will bolster the argument for doctors to prescribe blueberries. “Food prescribing” is part of a larger trend gaining traction in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.922,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d7b716bbe37e4194d11879ba51535c3a0bd17c0e",
+      "url": "https://www.cbc.ca/news/canada/north/nunavut-government-gun-buyback-police-9.7099729?cmp=rss",
+      "title": "Nunavut gov’t says no police resources will be used on federal gun buyback program",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Nunavut government says it will not be using police resources on the federal gun buyback program, and solutions proposed by Ottawa do not apply to the territory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6da79f7b5c2ae29caf8326c66dd9b44090bd3c12",
+      "url": "https://www.cbc.ca/news/canada/ottawa/worry-among-healthcare-practitioners-as-some-outaouais-patients-transferred-out-of-area-9.7099778?cmp=rss",
+      "title": "Doctors worried amid rise in western Quebec patients being transferred elsewhere",
+      "published_at": "2026-02-22T23:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Dozens of western Quebec patients were transferred elsewhere for medical care last year, leading to concerns that Outaouais residents could be at increased risk if they're seriously injured in an accident.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "91b924270217fa7567f12f56c7955cb53644a9b2",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-woman-stuck-in-puerto-vallarta-after-violence-erupts-in-the-mexican-town-9.7102003?cmp=rss",
+      "title": "Her flight home was cancelled. Now, this N.L. woman is stuck in Mexico in her 2nd trimester",
       "published_at": "2026-02-22T15:26:07-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d69a3967ca7b6c57d97db9fecae1642384dae38e",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/with-gold-medal-around-his-neck-canadian-skip-jacobs-has-a-message-for-the-haters-9.7101836?cmp=rss",
-      "title": "With gold medal around his neck, Canadian skip Jacobs has a message for the haters",
-      "published_at": "2026-02-22T09:33:26-05:00",
-      "section": "Canada",
-      "summary_auto": "Canada's Brad Jacobs addresses social media backlash against teammate Marc Kennedy during a press conference following their gold medal win in men's curling.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8cfd2050c73d9666423e50f57deddfd5e45cb099",
-      "url": "https://www.cbc.ca/news/world/livestory/puerto-vallarta-violence-9.7101866?cmp=rss",
-      "title": "Canadians urged not to travel to Mexico as violence explodes in wake of cartel leader's death",
-      "published_at": "2026-02-22T08:46:25-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3e5c0d6d9a5168e06e43133031d1c35a99c39d9",
-      "url": "https://www.cbc.ca/news/world/puerto-vallarta-advisory-9.7101787?cmp=rss",
-      "title": "Mexico says top cartel boss killed as violence engulfs Puerto Vallarta and several states",
-      "published_at": "2026-02-22T08:12:01-05:00",
-      "section": "World",
-      "summary_auto": "Global Affairs Canada has updated its travel advisory for the coastal city of Puerto Vallarta and other parts of the Mexican state of Jalisco following a sudden explosion of violence that includes road blockades with burning vehicles and clashes between federal authorities and armed groups.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ea8519849ab5d8214009ed214f1e63db25d2d39",
-      "url": "https://www.cbc.ca/news/world/hungary-eu-sanctions-russia-strike-ukraine-9.7101483?cmp=rss",
-      "title": "Hungary threatens veto on EU's 20th Russia sanctions package over halted oil shipments",
-      "published_at": "2026-02-22T05:38:41-05:00",
-      "section": "World",
-      "summary_auto": "Budapest has threatened to block a new package of European Union sanctions against Russia and to stall efforts to help Ukraine until Russian oil deliveries to Hungary resume.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4392e1d317f8ae7a828d57f53cd62c15667f64ce",
-      "url": "https://www.cbc.ca/news/world/us-iran-sanctions-talks-9.7101441?cmp=rss",
-      "title": "Trump 'curious' about Iran's defiance amid U.S. military buildup, Witkoff says",
-      "published_at": "2026-02-22T04:32:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump is curious about why Iran has not yet \"capitulated\" and agreed to curb its nuclear program, as Washington builds up its military capability in the Middle East, Trump's special envoy, Steve Witkoff, said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4e35f61b347257c2046e15302a7b2f9e52b9c4c5",
-      "url": "https://www.cbc.ca/news/world/trump-mar-a-lago-secret-service-9.7101554?cmp=rss",
-      "title": "Armed man shot, killed after entering perimeter at Trump's Mar-a-Lago, Secret Service says",
-      "published_at": "2026-02-22T04:09:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Secret ‌Service said on ​Sunday its agents ​shot and killed ​a man ⁠in ⁠his ‌20s after he unlawfully entered a secure ‌perimeter at President Donald Trump's Mar-a-Lago ​resort in Palm ⁠Beach, Fla. Trump was not there at the time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7938e1bc108963301dff3b74b63773b00aa0f040",
-      "url": "https://www.cbc.ca/news/world/pakistan-strike-afghan-border-9.7101456?cmp=rss",
-      "title": "Pakistan strikes Afghan border; Red Crescent reports 18 dead",
-      "published_at": "2026-02-22T04:03:32-05:00",
-      "section": "World",
-      "summary_auto": "Islamabad said it carried out strikes along the border with Afghanistan early Sunday, targeting what it called hideouts of Pakistani militants it blamed for recent attacks inside Pakistan. The Afghan Red Crescent Society said more than a dozen people were killed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.963,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6094d2eee4bb382eaf25fa9a54253da7a8c87537",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-world-cup-tickets-politics-travel-concerns-9.7097422?cmp=rss",
-      "title": "Ticket prices, political concerns outweigh FIFA World Cup hype for some fans",
-      "published_at": "2026-02-22T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "World governing body of soccer says World Cup excitement is at record levels, but supporter groups say costly ticket prices, new travel rules and safety concerns are keeping some European fans home.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.696,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fcfe4b8248b5d3fbdb4455c5158ddb2d73102002",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743?cmp=rss",
-      "title": "Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet",
-      "published_at": "2026-02-22T03:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96ff5fd4dd9a5f6dd66893aabe0d6fc5c895c0ed",
-      "url": "https://www.cbc.ca/news/canada/toronto/landlord-tenant-arrears-eviction-9.7097925?cmp=rss",
-      "title": "This Brampton landlord 'can't sleep at night' after he says his tenant stopped paying rent and won't leave",
-      "published_at": "2026-02-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A tenant who told a past landlord she made $120,000 a year as an online content creator is scheduled to go before Ontario's Landlord and Tenant Board next month, accused of not paying rent to her current landlord for almost a year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.45,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "890acd6e5e62ca607b8c5a4c740b28c5929e7359",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-brown-culture-identity-9.7089287?cmp=rss",
-      "title": "Living in rural Sask., I thought of myself as white with brown skin. A nationwide tragedy shook me awake",
-      "published_at": "2026-02-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Although Miguel Fenrich has a Sudanese father, he didn't know him and grew up with his white family members in rural Saskatchewan. Fenrich saw himself as white — just with brown skin. At 15, after a trial that grappled with discrimination in the legal system and province he lived in, he was forced to confront his desire to be like everyone else around him.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7dff7a7abe737e34b5767d5e829be2665d0e0602",
-      "url": "https://www.cbc.ca/radio/day6/survivor-50-seasons-9.7087560?cmp=rss",
-      "title": "Survivor changed reality TV. Now it’s celebrating its 50th season",
-      "published_at": "2026-02-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Survivor airs its 50th season Feb. 25, marking 25 years of one of the longest-running reality TV shows. And experts say its premiere — and the seasons that followed — changed the landscape of reality television.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "859b95c1d6f48cc63c455dd136972ea7f0bea7ef",
-      "url": "https://www.cbc.ca/news/world/fake-republican-kate-barr-9.7095820?cmp=rss",
-      "title": "Why Kate Barr is campaigning in North Carolina as a 'fake Republican'",
-      "published_at": "2026-02-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Kate Barr, a progressive, is attempting to become the Republican candidate for Congress in North Carolina’s 14th district, a conservative stronghold.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7a8c6189423e9da5b2e88182707053f9fcdadb5f",
-      "url": "https://www.cbc.ca/news/world/syria-canadian-return-home-9.7094102?cmp=rss",
-      "title": "Syrian Canadians waited years to return. For many, coming home has been harder than leaving",
-      "published_at": "2026-02-21T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It's been little over a year since the fall of Bashar al-Assad in Syria ended a 14-year civil war. More than 1.3 million Syrians have returned home since then, according to the UN refugee agency, primarily from neighbouring countries such as Turkey, Lebanon, Jordan, Iraq and Egypt — but also from as far away as Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.351,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b53c06274e40850a0a6ed27339789b6603f6f4c9",
-      "url": "https://www.cbc.ca/sports/olympics/winter/livestory/olympics-2026-milano-cortina-winter-olympic-games-closing-ceremony-team-canada-live-updates-9.7101260?cmp=rss",
-      "title": "Closing ceremony filled with opera, acrobatics wraps up Milano-Cortina Olympics",
-      "published_at": "2026-02-21T22:57:25-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.459,
         "subjectivity_hint": "low"
       }
     }
