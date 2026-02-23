@@ -1,12 +1,38 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-22T15:19:06.626774-05:00",
+  "generated_at": "2026-02-22T20:43:25.815312-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "9a6cb86e21b13f550bffcbae7b96bc46b7f9fc06",
+      "url": "https://www.cbc.ca/news/canada/edmonton/puerto-vallarta-mexico-violence-alta-tourists-9.7102075?cmp=rss",
+      "title": "Albertan tourists stranded in Puerto Vallarta amid escalating violence",
+      "published_at": "2026-02-22T15:26:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d69a3967ca7b6c57d97db9fecae1642384dae38e",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/with-gold-medal-around-his-neck-canadian-skip-jacobs-has-a-message-for-the-haters-9.7101836?cmp=rss",
+      "title": "With gold medal around his neck, Canadian skip Jacobs has a message for the haters",
+      "published_at": "2026-02-22T09:33:26-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada's Brad Jacobs addresses social media backlash against teammate Marc Kennedy during a press conference following their gold medal win in men's curling.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8cfd2050c73d9666423e50f57deddfd5e45cb099",
       "url": "https://www.cbc.ca/news/world/livestory/puerto-vallarta-violence-9.7101866?cmp=rss",
-      "title": "Violence erupts in Mexico after cartel boss's death. Canadians advised to shelter in place in Puerto Vallarta",
+      "title": "Canadians urged not to travel to Mexico as violence explodes in wake of cartel leader's death",
       "published_at": "2026-02-22T08:46:25-05:00",
       "section": "Top Stories",
       "summary_auto": "",
@@ -19,13 +45,13 @@
     {
       "id": "a3e5c0d6d9a5168e06e43133031d1c35a99c39d9",
       "url": "https://www.cbc.ca/news/world/puerto-vallarta-advisory-9.7101787?cmp=rss",
-      "title": "Canada issues Puerto Vallarta advisory after violence erupts in Mexican city, several states",
+      "title": "Mexico says top cartel boss killed as violence engulfs Puerto Vallarta and several states",
       "published_at": "2026-02-22T08:12:01-05:00",
       "section": "World",
       "summary_auto": "Global Affairs Canada has updated its travel advisory for the coastal city of Puerto Vallarta and other parts of the Mexican state of Jalisco following a sudden explosion of violence that includes road blockades with burning vehicles and clashes between federal authorities and armed groups.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.848,
+        "sentiment": -0.917,
         "subjectivity_hint": "low"
       }
     },
@@ -175,39 +201,13 @@
     {
       "id": "b53c06274e40850a0a6ed27339789b6603f6f4c9",
       "url": "https://www.cbc.ca/sports/olympics/winter/livestory/olympics-2026-milano-cortina-winter-olympic-games-closing-ceremony-team-canada-live-updates-9.7101260?cmp=rss",
-      "title": "2026 Olympic Games:  Closing ceremony lights up Arena di Verona to wrap 17-day competition",
+      "title": "Closing ceremony filled with opera, acrobatics wraps up Milano-Cortina Olympics",
       "published_at": "2026-02-21T22:57:25-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f9a755fff0d964fd8ac2d1e324d930ca86456b1",
-      "url": "https://www.cbc.ca/news/world/trump-hospital-ship-greenland-9.7101380?cmp=rss",
-      "title": "Greenland PM declines Trump's hospital ship, urges him to stop 'random outbursts' online",
-      "published_at": "2026-02-21T17:17:28-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump said on Saturday he was working with Louisiana Gov. Jeff Landry to send a hospital boat to Greenland — a Danish territory that Trump has ‌said he wants to acquire.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da2fd84157b22668971857ca988dd1829ea34d9f",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-separatism-rally-smith-referendum-9.7101372?cmp=rss",
-      "title": "Albertans react to upcoming referendum during weekend rally, call-in radio show",
-      "published_at": "2026-02-21T16:41:52-05:00",
-      "section": "Canada",
-      "summary_auto": "Some callers to Alberta Premier Danielle Smith's provincewide radio show are in support of her recently-announced referendum, while others rallying outside the legislature in Edmonton say they're disheartened with the direction Smith is taking with the province.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     }
