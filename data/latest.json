@@ -1,12 +1,207 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-24T20:43:33.245404-05:00",
+  "generated_at": "2026-02-25T09:43:52.867673-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "b29e4d8fa3723dba1ecd66dac2d1794102dc252b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-wood-bison-9.7104110?cmp=rss",
+      "title": "Relocated bison herd aims to bring food security to Métis in northern Alberta",
+      "published_at": "2026-02-25T04:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Leaders of the Willow Lake Métis Nation located south of Fort McMurray, Alta., say the return of a wood bison herd to their traditional territory is a victory for food sustainability.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "23ddae8a4f5b64aebdd5f6a6b741e00902dbfdac",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/herring-spawn-2026-vancouver-island-9.7101843?cmp=rss",
+      "title": "First signs of herring spawn spark excitement on Vancouver Island",
+      "published_at": "2026-02-25T04:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The herring spawn is an auspicious time on the South Coast. For some coastal First Nations, it represents the coming of spring and a time to gather food, while for conservationists it’s a time to take stock of the fish’s numbers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "30ade555bfa9b43b46a5e62da9150d4b4206c4e8",
+      "url": "https://www.cbc.ca/news/world/gates-foundation-epstein-apology-9.7105036?cmp=rss",
+      "title": "Bill Gates apologizes to foundation for Epstein ties, says he 'saw nothing illicit'",
+      "published_at": "2026-02-25T03:57:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Bill Gates \"took ​responsibility for his actions\" over ties to late financier and sex offender Jeffrey Epstein in a town hall meeting with employees of the Gates Foundation, a spokesperson for the philanthropic group told Reuters in a written statement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e34c2e592ee1eff937a10f01e97ae87c5be53d8c",
+      "url": "https://www.cbc.ca/news/world/brazil-rains-mudslides-9.7105006?cmp=rss",
+      "title": "At least 30 dead, dozens missing from floods, mudslides in southeastern Brazil",
+      "published_at": "2026-02-25T01:41:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "At least 30 people died after heavy rains hit Brazil's southeastern state of Minas Gerais, ‌local authorities said Tuesday, while 39 people were missing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "01f360a40db15e04244bf3f36bd458538d847d55",
+      "url": "https://www.cbc.ca/radio/frontburner/jason-kenney-on-canadian-immigration-9.7104515?cmp=rss",
+      "title": "Jason Kenney on Canadian immigration",
+      "published_at": "2026-02-25T01:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Former UCP Premier of Alberta Jason Kenney on the shifting immigration consensus in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e8b333bbe3751b6f61f99f926e6355fd5a1cc5cb",
+      "url": "https://www.cbc.ca/news/world/trump-state-of-the-union-address-9.7104968?cmp=rss",
+      "title": "Trump sticks to celebratory script in state of the union, with one angry detour",
+      "published_at": "2026-02-25T00:09:07-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump delivered a state of the union address that, by his standards, came across as relatively focused and disciplined, giving a preview of how the Republicans may try to campaign to keep control of Congress in this fall's midterms.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "74539ef8f471a28e0b16588dc6248ae6a482f277",
+      "url": "https://www.cbc.ca/news/politics/lena-diab-immigration-minister-criticism-9.7103914?cmp=rss",
+      "title": "Where is Canada's immigration minister? Community groups are asking",
+      "published_at": "2026-02-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Immigration organizations are expressing concerns about Immigration Minister Lena Diab's availability, and nine Liberal MPs are questioning her place at the cabinet table.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9785913129eed70e09e2a3a1142f0a402542bb7a",
+      "url": "https://www.cbc.ca/news/entertainment/celebrity-crowdfunding-reaction-9.7104590?cmp=rss",
+      "title": "From James Van Der Beek to Eric Dane, what's behind the celebrity crowdfunding backlash",
+      "published_at": "2026-02-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In what feels to some like a sea change in acceptable behaviour, celebrities and those close to them have been calling for everyday fans to contribute to grassroots fundraising efforts. Not everyone thinks that's OK.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6b4753baa3c89c75c694e40ed1399bf7f5f3f1d6",
+      "url": "https://www.cbc.ca/news/canada/toronto/ttc-drug-user-arrests-9.7104333?cmp=rss",
+      "title": "Ontario considers giving special constables power to arrest drug users on transit",
+      "published_at": "2026-02-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario is considering changes to legislation that could allow special constables to arrest people using drugs on public transit — a move constables say needs to come with an increased ability to use force and advocates say risks further victimizing the most vulnerable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.104,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "713b0cb21ffbe08b43ca5842f82f5fa434672165",
+      "url": "https://www.cbc.ca/news/canada/ottawa/former-public-servant-says-phoenix-ruined-his-20s-and-haunts-him-still-9.7103932?cmp=rss",
+      "title": "Former public servant says Phoenix payroll system 'ruined' his 20s and haunts him still",
+      "published_at": "2026-02-24T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jordan Morrison says his 20s were ruined by Phoenix pay errors that he's still fighting today. An economist warns the federal government will continue losing talented young workers to the private sector if these errors continue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70dbab9f11aa0b2e8fb43792412abf2e134bbf98",
+      "url": "https://www.cbc.ca/news/business/canadians-upcoming-mexico-trip-9.7104488?cmp=rss",
+      "title": "Canadian travellers with trips planned to Mexico weighing whether or not to stay home",
+      "published_at": "2026-02-24T23:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "While Canadian airlines started flying to and from Mexico again on Tuesday, caution is still advised in the region, leaving tourists trying to decide what to do. And unless travellers bought the right kind of insurance, they might not be able to get their money back if they want to cancel or rebook their vacations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "464bce47c6197aba8447c15c7baa58c14495f90d",
+      "url": "https://www.cbc.ca/news/world/trump-state-of-the-union-fact-check-9.7104917?cmp=rss",
+      "title": "Five fact checks from Trump’s state of the union address",
+      "published_at": "2026-02-24T19:12:52-05:00",
+      "section": "World",
+      "summary_auto": "Donald Trump’s focus on the economy in his state of the union address led him to repeat numerous false claims he’s made in the past. Here are some of the main ones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eeaff01beb7c5b5c231405aad0a1ecb40f044e0d",
+      "url": "https://www.cbc.ca/news/canada/manitoba/hellebuyck-medal-of-freedom-trump-sotu-9.7104918?cmp=rss",
+      "title": "Trump honours Winnipeg Jets goalie with Presidential Medal of Freedom during state of the union address",
+      "published_at": "2026-02-24T18:39:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Olympic gold medal-winning U.S. men's hockey team visited U.S. President Donald Trump at the White House on Tuesday afternoon and later received about a two-minute bipartisan standing ovation during his state of the union address.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a4a1be73f841ef4a6505d71a0893551c70f4c07b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/joffre-peak-avalanche-death-9.7104832?cmp=rss",
+      "title": "1 person dead in avalanche near Joffre Lakes Park in B.C.'s Sea-to-Sky region",
+      "published_at": "2026-02-24T16:51:22-05:00",
+      "section": "Canada",
+      "summary_auto": "RCMP say the individual was skiing near the Anniversary Glacier. A search and rescue team have located the deceased and the recovery is ongoing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e29fa856fa874decb2fa1e9be5c51dc3744a829",
+      "url": "https://www.cbc.ca/news/business/flair-customer-stranded-mexico-9.7104574?cmp=rss",
+      "title": "Flair customer 'not clear at all' on when he'll be able to fly home from Mexico",
+      "published_at": "2026-02-24T15:55:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Flair Airlines customer Douglas Connors and his partner have been trying to get back home to Ontario from Mexico, but he's still not sure how soon that can happen, days after their flight home was abruptly cancelled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.674,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "bdb887a87749d33bbe08387ec656d345e559256e",
       "url": "https://www.cbc.ca/news/politics/open-ai-government-meeting-tumbler-ridge-9.7104789?cmp=rss",
-      "title": "AI minister 'disappointed' by OpenAI meeting in wake of Tumbler Ridge shooting",
+      "title": "AI minister 'disappointed' by OpenAI meeting held in wake of Tumbler Ridge shooting",
       "published_at": "2026-02-24T15:36:17-05:00",
       "section": "Canada",
       "summary_auto": "Artificial Intelligence Minister Evan Solomon says he was \"disappointed\" following a Tuesday meeting with senior officials from Open AI that was arranged after it was revealed that the killer in the mass shooting in Tumbler Ridge, B.C., was banned from using the company's ChatGPT platform months before the murders.",
@@ -30,6 +225,19 @@
       }
     },
     {
+      "id": "c6c78da0ace27f43e5c6c596c84082b6ba36b21d",
+      "url": "https://www.cbc.ca/news/world/livestory/state-of-the-union-2026-us-president-donald-trump-live-updates-9.7102910?cmp=rss",
+      "title": "State of the union: Trump salutes Olympians, defends tariffs and spars with Democrats",
+      "published_at": "2026-02-24T14:30:08-05:00",
+      "section": "World",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "9fd84e5f47b2fb102d58b0017244fb2631a484ed",
       "url": "https://www.cbc.ca/news/assault-riffle-b-c-buyback-program-9.7104578?cmp=rss",
       "title": "Over 7K 'assault-style' firearms declared by British Columbians applying to buyback program",
@@ -47,7 +255,7 @@
       "url": "https://www.cbc.ca/news/entertainment/paramount-netflix-warner-bros-bid-9.7104582?cmp=rss",
       "title": "Paramount ups its offer to acquire Warner Bros. in fight with Netflix for the Hollywood giant",
       "published_at": "2026-02-24T13:16:07-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Warner Bros. Discovery said that Paramount has raised the price of its takeover offer to $31 US per share, potentially setting the stage for a fresh bidding war with Netflix over the future of the Hollywood giant.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +281,7 @@
       "url": "https://www.cbc.ca/sports/olympics/cbc-viewership-olympics-milanp-cortina-9.7104526?cmp=rss",
       "title": "8.7 million Canadians watched end of men's Olympic gold-medal hockey game",
       "published_at": "2026-02-24T12:44:12-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Nearly nine million Canadians watched the end of the men's gold-medal hockey game at the Milano-Cortina Olympics, which CBC says was Canada's most-watched moment at the Games.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/youths-charged-hazing-sexual-assault-truro-area-9.7104486?cmp=rss",
       "title": "Two teen boys formally charged with sex assault in alleged hockey hazing in N.S.",
       "published_at": "2026-02-24T12:29:58-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The youths accused were 14 years old at the time of the alleged offences, according to court documents.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +359,7 @@
       "url": "https://www.cbc.ca/sports/olympics/winter/speed-skating/laurent-dubreuil-funding-crisis-amateur-athletes-canada-9.7104432?cmp=rss",
       "title": "'Heading for disaster': Canadian Olympic medallist Dubreuil denounces lack of amateur athlete funding",
       "published_at": "2026-02-24T11:52:36-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Canadian long track speed skater Laurent Dubreuil is sounding the alarm about the lack of funding for Canadian amateur sports and the consequences it could have on the country's success at the Winter Olympics going forward.",
       "bias_heuristic": {
         "article_type": "News",
@@ -196,279 +404,6 @@
         "article_type": "News",
         "sentiment": -0.612,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "03af4e6565b503a08562bac03f505f092f5e2406",
-      "url": "https://www.cbc.ca/news/health/tourette-syndrome-coprolalia-bafta-9.7104141?cmp=rss",
-      "title": "N-word shouted by a guest upended BAFTAs. We explain the medical condition behind outbursts",
-      "published_at": "2026-02-24T10:39:57-05:00",
-      "section": "Entertainment",
-      "summary_auto": "A racial slur shouted by a guest with Tourette and broadcast during Britain's top movie awards event has put the spotlight on one of the symptoms of the syndrome. Here's more about coprolalia — the involuntary outburst of obscene, socially inappropriate, and derogatory remarks and gestures.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d1e9857954b3b397ed53bf40ae05c52ef77ceb5e",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/electric-vehicle-users-advocates-say-new-levy-feels-punitive-9.7103892?cmp=rss",
-      "title": "N.S. electric vehicle users, advocates say province's new levy feels 'punitive'",
-      "published_at": "2026-02-24T09:11:12-05:00",
-      "section": "Canada",
-      "summary_auto": "A new levy on electric vehicles announced in Monday's budget will see EV drivers pay $500 every two years while hybrid users will pay $250.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6e0390794ee4d7aaf6f8ada4634bca3cdc9ec4a1",
-      "url": "https://www.cbc.ca/news/canada/north/delegates-talk-rangers-trek-as-interest-in-arctic-security-grows-9.7103959?cmp=rss",
-      "title": "Delegates talk, rangers trek as interest in Arctic security grows",
-      "published_at": "2026-02-24T08:31:16-05:00",
-      "section": "World",
-      "summary_auto": "Delegates from across the circumpolar world are in Whitehorse for Arctic summit as Canadian Forces prep for an epic trip from Herschel Island to Churchill, Man.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "106f30dd2c9bec7cabdb45e072efe4b860059deb",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooter-sibling-arrested-9.7104087?cmp=rss",
-      "title": "Half-brother of Tumbler Ridge shooter arrested for breaking bail on attempted murder charge",
-      "published_at": "2026-02-24T08:22:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Jacob Jan Van Rootselaar, 22, is awaiting trial for his alleged role in a 2024 stabbing in Fort McMurray, Alta. He was out on bail when he broke the conditions of his release, RCMP say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9a68a727aac7b45716fd8051c35b326c450c786d",
-      "url": "https://www.cbc.ca/news/world/france-louvre-director-resignation-9.7104092?cmp=rss",
-      "title": "Louvre Museum director resigns amid heist, ticket fraud scandals",
-      "published_at": "2026-02-24T08:16:09-05:00",
-      "section": "World",
-      "summary_auto": "French President Emmanuel Macron on Tuesday accepted the resignation ‌of the head of Paris's Louvre Museum, which has ​been grappling with ​the fallout from a high-profile jewel heist and ​rolling strikes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "730f6ea090db14faece0ad781549948563584420",
-      "url": "https://www.cbc.ca/news/world/in-photos-vigils-held-globally-to-mark-the-4-year-anniversary-of-russia-s-invasion-of-ukraine-9.7103786?cmp=rss",
-      "title": "IN PHOTOS | Vigils held globally to mark the 4-year anniversary of Russia's invasion of Ukraine",
-      "published_at": "2026-02-24T07:43:26-05:00",
-      "section": "World",
-      "summary_auto": "As fighting entered its fifth year on Tuesday, the Russian invasion of Ukraine is being commemorated in ceremonies around the world.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0f7c9e24a399c57d71356551472900ece3d4e9c2",
-      "url": "https://www.cbc.ca/news/canada/mexico-travel-warning-feb24-9.7103798?cmp=rss",
-      "title": "As stability returns to Mexico, here's what Canadian travellers should know",
-      "published_at": "2026-02-24T06:42:50-05:00",
-      "section": "World",
-      "summary_auto": "Global Affairs Canada is urging Canadians in Puerto Vallarta and Guadalajara to head to the airports only if they have a confirmed flight, 'and it's safe to do so,' two days after violence erupted across Mexico.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d65c48ef3922f5be584be380190dabe7988d35b0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/autism-disability-funding-changes-b-c-9.7103091?cmp=rss",
-      "title": "Changes to B.C.'s autism, disability funding leave parents with questions",
-      "published_at": "2026-02-24T06:41:29-05:00",
-      "section": "Health",
-      "summary_auto": "Changes to how the B.C. government supports children with disabilities are provoking mixed reactions among parents — relief for those who will receive funding for the first time, but anxiety, fear and uncertainty for those who will see their children’s support reduced.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "beb519bf58fa2441116b147d522ee94b716543ae",
-      "url": "https://www.cbc.ca/news/world/fbi-plane-patel-9.7103617?cmp=rss",
-      "title": "FBI flights, taxpayer dollars: Why director Kash Patel's travels are drawing scrutiny",
-      "published_at": "2026-02-24T06:40:19-05:00",
-      "section": "World",
-      "summary_auto": "Kash Patel's trip to Milan that coincided with the end of the Winter Olympics is putting the spotlight on taxpayer-funded travel by FBI directors, a practice Patel harshly criticized before he was in government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b17e7a4a56a61abad71f65ad87d111b2aaa0489",
-      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-cottage-airbnb-9.7103897?cmp=rss",
-      "title": "Are you coming to the cottage? You can soon rent Heated Rivalry property in Muskoka",
-      "published_at": "2026-02-24T06:28:32-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Cottage will officially open for stays on Airbnb, the rental platform confirmed Tuesday. The three-bedroom retreat in Ontario's Muskoka Lakes has been the subject of intense fan discussion since the episode of the TV romance Heated Rivalry aired.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f80dbdc2c40a7534cb042f2fc2b815aede510193",
-      "url": "https://www.cbc.ca/news/politics/canada-gulfstream-approved-trump-9.7103954?cmp=rss",
-      "title": "Canada approves latest Gulfstream business jets after Trump tariff threat",
-      "published_at": "2026-02-24T06:23:35-05:00",
-      "section": "World",
-      "summary_auto": "Federal regulators are giving the thumbs up to Gulfstream G700 and G800 business jets in a move that comes weeks after new tariff threats from U.S. President Donald Trump over the planes' status in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "914e965792d9ba05289ff3caf61ac995986b687f",
-      "url": "https://www.cbc.ca/news/politics/beirut-canada-us-staff-9.7103829?cmp=rss",
-      "title": "Canadian staff 'remain in place' in Beirut after U.S. pulls non-essential embassy workers",
-      "published_at": "2026-02-24T06:02:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Global Affairs Canada says Canadian staff are still in Lebanon despite growing military tensions in Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.188,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5054e577227f535baeabae5de7b52f6cf59e3d1c",
-      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sex-assault-trial-9.7103666?cmp=rss",
-      "title": "Stronach's lawyer accuses sex assault complainant of having a 'tendency to lie'",
-      "published_at": "2026-02-24T05:16:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The defence lawyer for Frank Stronach is continuing her cross-examination of the fifth complainant in the Canadian businessman's sexual assault trial at a Toronto courthouse.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22e56daced898be5e0fac93ada86e45e4b4344d9",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-man-turkey-chase-video-story-9.7103190?cmp=rss",
-      "title": "Ottawa man describes close encounter of the bird kind",
-      "published_at": "2026-02-24T04:08:27-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An Ottawa man caught on video escaping from two persistent and hostile turkeys is opening up about his experience.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b2a95bea30e723a72d115f70396b8720042af8c7",
-      "url": "https://www.cbc.ca/news/world/mexico-el-mencho-9.7103578?cmp=rss",
-      "title": "Mexico made 'high-risk bet' in taking down cartel boss El Mencho",
-      "published_at": "2026-02-24T04:03:41-05:00",
-      "section": "World",
-      "summary_auto": "After tracking El Mencho’s lover to his lair, Mexican special forces launched an operation by air and land, leading to two shootouts that left the drug boss mortally wounded.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79984601f7e61759a256e2abd0ec881f075b744c",
-      "url": "https://www.cbc.ca/news/canada/toronto/family-health-teams-ask-funding-increase-nurses-health-workers-9.7103597?cmp=rss",
-      "title": "Family health teams urge Ontario to up pay for nurses, health workers to retain them",
-      "published_at": "2026-02-24T03:13:40-05:00",
-      "section": "Health",
-      "summary_auto": "Ontario is working toward attaching everyone in the province to a primary care provider, but family health teams are warning that as the government has its sights set on that laudable goal, the foundation of primary care is crumbling.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11b75db9b1a9f197306f7a23716f291462c0f5bc",
-      "url": "https://www.cbc.ca/news/world/us-hockey-teams-trump-state-union-invitation-9.7103592?cmp=rss",
-      "title": "U.S women's hockey team declines invitation to attend Trump's state of the union address",
-      "published_at": "2026-02-24T02:24:05-05:00",
-      "section": "World",
-      "summary_auto": "The U.S. women's hockey gold medal-winning team said it has to decline an invitation from President Donald Trump to attend his state of the union address on Tuesday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c6c78da0ace27f43e5c6c596c84082b6ba36b21d",
-      "url": "https://www.cbc.ca/news/world/livestory/state-of-the-union-2026-us-president-donald-trump-live-updates-9.7102910?cmp=rss",
-      "title": "U.S. state of the union: Trump expected to touch on economy, affordability as president's approval dips",
-      "published_at": "2026-02-24T02:07:34-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f92f9b6899ff1d4f270574010e7412b603c61fb",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/snowy-winter-in-n-s-pushing-tiny-saw-whet-owls-into-more-populated-areas-9.7102246?cmp=rss",
-      "title": "Snowy winter in N.S. pushing tiny saw-whet owls into more populated areas",
-      "published_at": "2026-02-24T00:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Northern saw-whet owls are smaller than robins and can find it difficult to penetrate the snow to reach their usual prey.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ed6e06c98144614afc6b4f8d965b1fdf5d7da7b6",
-      "url": "https://www.cbc.ca/news/business/precon-condo-consequences-9.7103131?cmp=rss",
-      "title": "Pre-construction condo buyers face steep losses as Toronto prices slide",
-      "published_at": "2026-02-23T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Homebuyers who gambled that buying a home before it was actually constructed could get them an advance foothold in an expensive housing market are discovering they have few options to avoid losing hundreds of thousands of dollars, in a market that is considerably less expensive.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "550145a30220bdff5ee8b37bd95d1f1aacfff7d3",
-      "url": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-war-anniversary-support-9.7103150?cmp=rss",
-      "title": "'Putin will not stop': Zelenskyy warns world on 4th anniversary of Russia's invasion of Ukraine",
-      "published_at": "2026-02-23T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy delivered a stark message to the world on the fourth anniversary of Russia's relentless war against his country, warning allies not to turn away or become distracted by other conflicts, lest they be next to need help.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.736,
-        "subjectivity_hint": "low"
       }
     }
   ]
