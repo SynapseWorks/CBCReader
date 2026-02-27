@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-27T09:35:56.486286-05:00",
+  "generated_at": "2026-02-27T15:21:37.892064-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "005cf063b7f10f51aeefe9aef804ac3d994d7e6e",
-      "url": "https://www.cbc.ca/player/play/9.7108017?cmp=rss",
-      "title": "NASA takes questions about Artemis II mission",
-      "published_at": "2026-02-27T05:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "NASA officials are providing an update Friday on the upcoming Artemis II mission, which will see a crew — including a Canadian astronaut — make a lunar flyby.",
+      "id": "af9ac52b9718f0a7b73b4a73f241b204ecc1b0db",
+      "url": "https://www.cbc.ca/news/world/afghanistan-pakistan-explainer-9.7108336?cmp=rss",
+      "title": "Pakistan and Afghanistan in 'open war': How we got here and what might happen next",
+      "published_at": "2026-02-27T09:53:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2e84cc9fee50dd97fc51e6bbb59f60b6d7aa22bc",
+      "url": "https://www.cbc.ca/news/politics/family-doctors-access-9.7108620?cmp=rss",
+      "title": "College of Family Physicians of Canada calls on Ottawa to increase support for family doctors",
+      "published_at": "2026-02-27T09:40:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The College of Family Physicians of Canada is urging the government to reduce administrative burdens and barriers for family physicians so that they can deliver better patient care.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2d2aa50d0a79ef66c351386f607c2719e819d436",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-amber-alert-9.7108728?cmp=rss",
+      "title": "Missing 2-year-old boy police say was abducted from Winnipeg home found safe",
+      "published_at": "2026-02-27T09:20:37-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Winnipeg police say a child who was the subject of an Amber Alert Friday has been found safe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b7a25c22c0dca81da586e5f3e3659bd98b933e6",
+      "url": "https://www.cbc.ca/news/canada/burger-king-whopper-9.7108107?cmp=rss",
+      "title": "Burger King is updating its Whopper, so that's one less thing that's falling apart",
+      "published_at": "2026-02-27T08:17:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Fast food chain Burger King announced Thursday that it's updating its signature Whopper burger for the first time in a decade, adding a sturdier bun and serving it in a cardboard box after years of customer complaints about smashed burgers that fell apart.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.465,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c26ef52c9bbc23b816e248e4170c5a77e2e228c2",
+      "url": "https://www.cbc.ca/news/health/blueberry-frozen-recall-fda-9.7108382?cmp=rss",
+      "title": "Frozen blueberries sold in Canada and U.S. recalled over listeria contamination risk, FDA says",
+      "published_at": "2026-02-27T07:04:45-05:00",
+      "section": "Canada",
+      "summary_auto": "A U.S. company is recalling more than 25,000 kilograms of frozen blueberries that were distributed in Michigan, Oregon, Washington, Wisconsin and Canada, U.S. officials say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a013ec46b78d5d1a07b6b458a33c0f2bdae4ab5",
+      "url": "https://www.cbc.ca/news/canada/north/tlicho-government-and-diavik-officials-sign-closure-agreement-9.7107891?cmp=rss",
+      "title": "After 26 years of diamond mining, Tłı̨chǫ government and Rio Tinto sign deal for Diavik closure",
+      "published_at": "2026-02-27T06:51:52-05:00",
+      "section": "Canada",
+      "summary_auto": "On Thursday evening the Tłı̨chǫ Government & Diavik officials marked a step towards Diavik’s upcoming closure and the beginning of reclamation work.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a0f4840e647a0cd37d422efa0b4f7d0ca721a9f",
+      "url": "https://www.cbc.ca/news/world/gaza-msf-aid-leaving-strip-9.7107323?cmp=rss",
+      "title": "A Canadian helped build a water plant in Gaza. Now he worries about its fate as aid groups leave over new law",
+      "published_at": "2026-02-27T06:30:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d777ec3b1278a6a5b4cf3d9f108e2d8f422474f4",
+      "url": "https://www.cbc.ca/news/canada/spit-hoods-misuse-deaths-9.7107138?cmp=rss",
+      "title": "Why putting spit hoods on people is risky — and can be deadly",
+      "published_at": "2026-02-27T05:36:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d41612e5dda331378b2530eb1b11d27ba089791e",
+      "url": "https://www.cbc.ca/sports/paralympics/canada-opening-ceremony-flag-bearers-2026-paralympics-9.7107677?cmp=rss",
+      "title": "Para nordic star Natalie Wilkie, hockey captain Tyler McGregor named Canada's flag-bearers for Paralympics opening ceremony",
+      "published_at": "2026-02-27T05:02:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Hockey captain Tyler McGregor and Para nordic skier Natalie Wilkie will be Canada’s Paralympic flag-bearers for the Milano-Cortina opening ceremony on March 6, the Canadian Paralympic Committee announced Friday morning.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a7d945d7ebf11da023b76e2b7db0e0646d3606a",
+      "url": "https://www.cbc.ca/news/entertainment/bridgerton-hannah-dodd-9.7108045?cmp=rss",
+      "title": "The 'crisis'? The 'pinnacle'? For Bridgerton, the word orgasm wouldn't quite do",
+      "published_at": "2026-02-27T04:36:06-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Bridgerton's creators speak of the interesting euphemisms they went through to give their characters' dialogue a ring of truth.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.118,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +138,7 @@
       "url": "https://www.cbc.ca/news/business/canada-gdp-dec-2025-9.7108015?cmp=rss",
       "title": "Canada's economy contracted unexpectedly in fourth quarter of 2025",
       "published_at": "2026-02-27T04:16:34-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Gross domestic product contracted ​at an annualized pace of 0.6 per cent in the quarter running from October to December, ​Statistics Canada said. The country's overall growth for 2025 was 1.7 per cent — in line with Bank of Canada expectations, but the slowest pace of annual growth since ​the decline in 2020.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,11 +147,24 @@
       }
     },
     {
+      "id": "8553c7b2bc12b007a6a043aebf2629c8fc1a06f6",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/nanaimo-senior-independent-living-rent-increases-tenancy-act-9.7107321?cmp=rss",
+      "title": "This Nanaimo senior challenged years of rent increases, and won",
+      "published_at": "2026-02-27T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Shane Conn challenged two years of rent increases at a Nanaimo independent living facility at the Residential Tenancy Board. He won and received almost $9,500 in rent deductions and a limit on future increases. But the benefits apply only to him. They don’t apply to any of his neighbours unless they go through the same months-long administrative process Conn did.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "6040770c42a416a22ac6bd56670e63484eadb21e",
       "url": "https://www.cbc.ca/news/politics/canada-suspends-tariffs-some-canada-9.7108023?cmp=rss",
       "title": "China suspending some agricultural tariffs on Canada starting March 1",
       "published_at": "2026-02-27T03:53:27-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "China said on Friday it would suspend some tariffs on Canadian agricultural products imposed during a trade spat between Beijing and Ottawa, after Canadian Prime Minister Mark ‌Carney struck an initial deal with Beijing during a visit in January.",
       "bias_heuristic": {
         "article_type": "News",
@@ -58,26 +188,26 @@
     {
       "id": "dee7b7dc6742dc17f06d28fb6dd9a52ac800ca8b",
       "url": "https://www.cbc.ca/news/world/united-states-israel-embassy-staff-9.7107986?cmp=rss",
-      "title": "U.S. says embassy staff in Israel who want to leave should do so immediately",
+      "title": "Trump says he's 'not happy' with Iran, but more talks expected Friday",
       "published_at": "2026-02-27T03:10:45-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Embassy in Israel on Friday told its staff that it could leave the country and urged anyone considering departure to do so immediately, as the threat of an American strike on Iran looms.",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump said Friday he was \"not happy\" with Iran, but more talks were expected on Tehran's nuclear program.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
       }
     },
     {
-      "id": "e52e872001a6690c76d6bb6cf03df795c2db699c",
-      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/ski-cross-serbia-kevin-drury-reece-howden-february-27-9.7107982?cmp=rss",
-      "title": "Canada's Drury injured in crash involving teammate Howden during World Cup ski cross final",
-      "published_at": "2026-02-27T03:06:58-05:00",
+      "id": "4bde927d9707d7bf485d2e2a5ab3abb5ae7040ee",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/surrey-teachers-suspension-emails-spam-9.7107633?cmp=rss",
+      "title": "20 Surrey, B.C., school teachers have their licences suspended after crucial emails sent to spam folder",
+      "published_at": "2026-02-27T03:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Canadian ski cross racer Kevin Drury was injured in a crash during the big final of a World Cup event in Kopaonik, Serbia on Friday.",
+      "summary_auto": "The president of the Surrey Teachers' Association said the teachers missed critical emails about updating their criminal record checks because the notice went to their spam folders.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.869,
+        "sentiment": -0.932,
         "subjectivity_hint": "low"
       }
     },
@@ -86,7 +216,7 @@
       "url": "https://www.cbc.ca/news/world/us-texas-government-laser-drone-incident-9.7107942?cmp=rss",
       "title": "Democrats alarmed by 'chaos in the skies' after U.S. government again fires laser near Mexico border",
       "published_at": "2026-02-27T02:49:04-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. military used a laser Thursday to shoot down a \"seemingly threatening\" drone flying near the U.S.-Mexico border — one that appears to have been flown by U.S. Customs and Border Protection.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,15 +225,15 @@
       }
     },
     {
-      "id": "03c3e428b34bf1e5d6b7f75c5cc9775ae4f6aab2",
-      "url": "https://www.cbc.ca/news/world/pakistan-afghanistan-open-war-9.7107910?cmp=rss",
-      "title": "Pakistan now in 'open war' with Afghanistan, defence minister says, after countries trade attacks",
-      "published_at": "2026-02-26T23:53:01-05:00",
+      "id": "b56c0a60ea3ffce733cee68e050016d523d70059",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/cain-quest-finish-line-9.7107965?cmp=rss",
+      "title": "Father and son duo win their 2nd gruelling Cain's Quest snowmobile race across Labrador",
+      "published_at": "2026-02-27T02:30:23-05:00",
       "section": "Top Stories",
-      "summary_auto": "Pakistan and Afghanistan traded attacks in a dramatic escalation of tensions between the countries that Pakistan's defence minister said Friday means they are now in \"open war.\"",
+      "summary_auto": "Randy and Sebastian Malleck have crossed the finish line in Labrador City — winning their second consecutive Cain's Quest and capturing the $100,000 prize.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.938,
+        "sentiment": 0.888,
         "subjectivity_hint": "low"
       }
     },
@@ -112,25 +242,12 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-crown-prosecutor-under-investigation-for-smuggling-weapons-offences-9.7107577?cmp=rss",
       "title": "N.L. Crown prosecutor under investigation for smuggling, weapons offences",
       "published_at": "2026-02-26T23:30:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "RCMP court filings indicate that charges are pending against a provincial Crown prosecutor in Newfoundland and Labrador after police seized a cache of firearms and prohibited weapons late last year.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.908,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "875afd4dde9e68bc0e3bff037de2924ec1d06013",
-      "url": "https://www.cbc.ca/news/marketplace/spf-sunscreen-protection-9.7106878?cmp=rss",
-      "title": "Why you shouldn’t count on SPF for all of your sun protection",
-      "published_at": "2026-02-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Sunscreen manufacturers assign an precise SPF number using an imprecise method of lab testing, which could be giving Canadians a false sense of security when using sunscreen to protect themselves from the sun.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -147,16 +264,29 @@
       }
     },
     {
-      "id": "d777ec3b1278a6a5b4cf3d9f108e2d8f422474f4",
-      "url": "https://www.cbc.ca/news/canada/spit-hoods-misuse-deaths-9.7107138?cmp=rss",
-      "title": "Why putting spit hoods on people is risky — and can be deadly",
+      "id": "875afd4dde9e68bc0e3bff037de2924ec1d06013",
+      "url": "https://www.cbc.ca/news/marketplace/spf-sunscreen-protection-9.7106878?cmp=rss",
+      "title": "Why you shouldn’t count on SPF for all of your sun protection",
       "published_at": "2026-02-26T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Spit hoods are meant to protect first responders from spitting. Yet an investigation by CBC's the fifth estate and Radio-Canada's Enquête identified 17 fatal incidents involving the controversial device in Canada over the last two decades. In nearly every case, the hood seems to have been misused.",
+      "summary_auto": "Sunscreen manufacturers assign an precise SPF number using an imprecise method of lab testing, which could be giving Canadians a false sense of security when using sunscreen to protect themselves from the sun.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
+        "sentiment": 0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1398901ff155136f574cb3012268fe21253484f9",
+      "url": "https://www.cbc.ca/news/canada/toronto/ford-one-year-election-9.7107376?cmp=rss",
+      "title": "Ford’s fight against Trump enters tougher phase as Ontario faces job losses and trade uncertainty",
+      "published_at": "2026-02-26T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A year after winning a third-straight majority government on a pledge to “protect Ontario’ from U.S. tariffs, the fight against Donald Trump continues to fuel Doug Ford’s policy and politics. And experts watching the province’s struggling economy say the year ahead may prove even more challenging for the Ford government as key trade talks between the U.S. and Canada unfold.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.728,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -164,24 +294,11 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/sea-lions-9.7107383?cmp=rss",
       "title": "2 sea lions from Marineland get new home at Vancouver Aquarium",
       "published_at": "2026-02-26T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The sea lions were recently moved to the Vancouver Aquarium as part of Canada's Accredited Zoos and Aquariums' effort to find long-term homes for animals previously located at Marineland, the defunct amusement park in Niagara Falls, Ont.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8a0f4840e647a0cd37d422efa0b4f7d0ca721a9f",
-      "url": "https://www.cbc.ca/news/world/gaza-msf-aid-leaving-strip-9.7107323?cmp=rss",
-      "title": "A Canadian helped build a water plant in Gaza. Now he worries about its fate as aid groups leave over new law",
-      "published_at": "2026-02-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Foreign workers from 37 international non-governmental organizations will leave the Gaza Strip by Sunday after choosing not to comply with new registration rules imposed by Israel. The new rules include handing over lists of local and foreign staff, which the organizations say put people at risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
         "subjectivity_hint": "low"
       }
     },
@@ -242,7 +359,7 @@
       "url": "https://www.cbc.ca/player/play/9.7107879?cmp=rss",
       "title": "#TheMoment rats learned how to drive 🐀",
       "published_at": "2026-02-26T17:06:34-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Kendal Crawford and Shaun Stephens-Whal tell The National about the moment they taught their pet rats how to drive mini cars in Squamish, B.C.",
       "bias_heuristic": {
         "article_type": "News",
@@ -255,24 +372,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mayor-ken-sim-sean-orr-9.7107724?cmp=rss",
       "title": "Vancouver Mayor Ken Sim made unsubstantiated claims about councillor distributing drugs",
       "published_at": "2026-02-26T16:26:29-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "It has emerged that Vancouver Mayor Ken Sim accused a political opponent of distributing illegal drugs without evidence — days before a fellow councillor made similar claims that he later retracted.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4042280c337ae1b95a179d0025ac27002836215",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/oregon-man-killed-in-b-c-avalanche-near-pemberton-9.7107787?cmp=rss",
-      "title": "'Enormous loss': Professional snowboarder killed in B.C. avalanche east of Pemberton",
-      "published_at": "2026-02-26T16:22:38-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The 28-year-old man is being remembered as one of the best split-boarders in the world who always had a smile on his face.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.101,
         "subjectivity_hint": "low"
       }
     },
@@ -295,153 +399,10 @@
       "title": "Neighbours of B.C. ostrich farm sue RCMP, CFIA for allegedly trespassing on their property",
       "published_at": "2026-02-26T15:54:31-05:00",
       "section": "Canada",
-      "summary_auto": "Three residents of Edgewood, B.C., who live adjacent to Universal Ostrich Farm, are suing the Canadian Food Inspection Agency (CFIA) and the RCMP for trespassing on their property, according to a notice of civil claim.",
+      "summary_auto": "Three residents of Edgewood, B.C., neighbours of Universal Ostrich Farm, are suing the Canadian Food Inspection Agency (CFIA) and the RCMP for allegedly trespassing on their property, according to a notice of civil claim.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "23bfb2857e19f26ab1047915491365593937fdcb",
-      "url": "https://www.cbc.ca/news/canada/windsor/amherstburg-diageo-deal-workers-last-day-9.7107387?cmp=rss",
-      "title": "Former Diageo workers speak out on deal that keeps Crown Royal on shelves",
-      "published_at": "2026-02-26T14:30:40-05:00",
-      "section": "Canada",
-      "summary_auto": "As workers filed out of Diageo's Amherstburg, Ont., Crown Royal bottling facility for the last time on Wednesday, some expressed anger — not just at the company that put them out of work, but at the provincial government for not following through on a promise to pull Crown Royal off shelves if the plant closed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "556380c1db1d42e2aa07d2f070817d3fea62bf55",
-      "url": "https://www.cbc.ca/player/play/9.7107645?cmp=rss",
-      "title": "Health reform adopted, but Quebec medical specialists remain at odds with government",
-      "published_at": "2026-02-26T14:03:32-05:00",
-      "section": "Health",
-      "summary_auto": "The federation representing medical specialists in the province is accusing the Coalition Avenir Québec government of stalling negotiations to reach a new agreement. The group is now putting more pressure on officials. Meanwhile, MNAs have adopted Bill 19. It changes how general practitioners are paid and replaces the controversial law known as Bill 2.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.501,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c2f5d75450cfaf21f6aa7bdf9f621393ce3ed3c5",
-      "url": "https://www.cbc.ca/news/business/netflix-backs-away-warner-bros-9.7107622?cmp=rss",
-      "title": "Netflix backs away from offer to buy Warner Bros. after Paramount submits revised bid",
-      "published_at": "2026-02-26T13:46:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Netflix on Thursday signalled it was backing away from its offer to buy Warner Bros. Discovery's streaming and studio assets, saying ‌the deal was no longer financially attractive after Paramount Skydance revised its offer for the coveted Hollywood studio to a $31-a-share offer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94f21b1e5427265f2d1bf3b507f833fd627abc9b",
-      "url": "https://www.cbc.ca/radio/asithappens/russia-telegram-criminal-probe-9.7107459?cmp=rss",
-      "title": "As Russia launches criminal probe against Telegram CEO, the app's critics come to its defence",
-      "published_at": "2026-02-26T12:51:15-05:00",
-      "section": "World",
-      "summary_auto": "Pavel Durov, the billionaire CEO of the messaging app Telegram, has confirmed Russian state media reports that the country's Federal Security Service is investigating him for \"aiding terrorism.\" Access Now — a digital rights non-profit that has been vocally critical of Telegram's security and privacy in the past — says this probe is nothing more than a pretext to crack down on free speech.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4dafb3cbf12a70f45a82213ea5f290bf65c369b0",
-      "url": "https://www.cbc.ca/news/politics/canada-zero-population-growth-9.7107361?cmp=rss",
-      "title": "Zero population growth expected in Canada this year: Budget watchdog",
-      "published_at": "2026-02-26T11:20:49-05:00",
-      "section": "Canada",
-      "summary_auto": "The parliamentary budget officer predicts Canada's rate of population growth will remain flat in 2026, mainly due to cuts to non-permanent resident admissions in the latest federal Immigration Levels Plan.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dda641b8e041d9e230fd64783dd1f3159aa1a2f3",
-      "url": "https://www.cbc.ca/news/canada/montreal/bill-94-secularism-school-staff-9.7106299?cmp=rss",
-      "title": "Dozens of Montreal school staff already fired or resigned over expanded religious symbols ban",
-      "published_at": "2026-02-26T11:00:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Dozens of Montreal school staff have either been fired, suspended or decided to resign following Quebec’s new law expanding the ban on religious symbols in schools. According to the Montreal Association of School Principals, hundreds of other school employees stand to lose their jobs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.974,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0908e0b9473c914802177c7d3390b4e48e3e2e00",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-budget-day-2026-9.7106223?cmp=rss",
-      "title": "Alberta government projects $9.4B deficit with no plan to return to balanced budgets",
-      "published_at": "2026-02-26T10:54:12-05:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94009786ff18e30544328255314f83080b67089d",
-      "url": "https://www.cbc.ca/news/canada/hamilton/baby-parker-arrest-9.7107279?cmp=rss",
-      "title": "Brantford, Ont., police make arrest, lay charges 20 years after newborn's body discovered on trail",
-      "published_at": "2026-02-26T10:53:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Brantford, Ont., police have charged a 39-year-old woman with indignity to a body and concealing the body of a child, over two decades after a deceased newborn was found.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c7c6f04da8dbb292af862a2933e908d6d048119e",
-      "url": "https://www.cbc.ca/news/politics/refugee-health-care-conservatives-liberals-analysis-9.7105871?cmp=rss",
-      "title": "A federal program to provide health care for refugees is — once again — sparking a fiery debate",
-      "published_at": "2026-02-26T10:14:10-05:00",
-      "section": "Health",
-      "summary_auto": "The stated concerns about the Interim Federal Health Program and the political rhetoric harken back to the last time changes were made to the program — an episode that ended in a rebuke from the Federal Court.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ddf0d1f9df59de13029ce3c25766825f0f993ff4",
-      "url": "https://www.cbc.ca/news/science/neanderthal-human-hybrids-mating-preferences-9.7107129?cmp=rss",
-      "title": "Neanderthals' human blood mostly came from moms, study suggests",
-      "published_at": "2026-02-26T09:53:36-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Long ago, Neanderthals and modern humans interbred. But among Neanderthals, their modern human blood came mostly from their female ancestors, and a new genetic study finds this was likely due to their mating preferences.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "34c3b5e59e52a1db6244c55ba77b119a24c11689",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/trailer-park-boys-charge-not-guilty-plea-9.7107192?cmp=rss",
-      "title": "Trailer Park Boys actor Mike Smith pleads not guilty to sexual assault charge",
-      "published_at": "2026-02-26T09:45:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Nova Scotia-based actor Mike Smith, best known for playing Bubbles on the long-running TV comedy Trailer Park Boys, has pleaded not guilty to one count of sexual assault that stems from an alleged incident in 2017.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.552,
         "subjectivity_hint": "low"
       }
     }
