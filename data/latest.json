@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-02-27T15:21:37.892064-05:00",
+  "generated_at": "2026-02-27T20:20:34.048263-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "59c681e3c3b775b750215186408a79dd2f1a5877",
+      "url": "https://www.cbc.ca/news/world/trump-us-cuba-strategy-9.7095719?cmp=rss",
+      "title": "Trump floats 'friendly takeover' of Cuba.  What's his endgame?",
+      "published_at": "2026-02-27T13:59:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "efa021b2e63eb5f85aa5070b712a1e74e8c341b8",
+      "url": "https://www.cbc.ca/news/health/cholesterol-screening-children-9.7108926?cmp=rss",
+      "title": "Canadian pediatricians call for cholesterol checks for kids as young as 2 to catch heart risks early",
+      "published_at": "2026-02-27T13:26:32-05:00",
+      "section": "Health",
+      "summary_auto": "The Canadian Paediatric Society is recommending cholesterol screening for all children between two and 10 years old, saying that about one in 300 Canadians have high cholesterol caused by a genetic condition called familial hypercholesterolemia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a9fab1eb111b95518c7961451d99fcf45c418d89",
+      "url": "https://www.cbc.ca/player/play/9.7109206?cmp=rss",
+      "title": "Mexican Navy say they’ve secured Puerto Vallarta",
+      "published_at": "2026-02-27T13:07:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Puerto Vallarta has started to reopen after days of violence and unrest sparked by the killing of a Mexican cartel boss. According to the Mexican Navy, the resort city is now secure and the reinforcements that were sent are staying until further notice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a2a34d4c61a49e6a481a41954e7730163f111d6",
+      "url": "https://www.cbc.ca/news/canada/montreal/mcgill-concordia-tuition-hikes-9.7109101?cmp=rss",
+      "title": "McGill and Concordia drop legal fight over Quebec's out-of-province tuition hikes",
+      "published_at": "2026-02-27T12:50:19-05:00",
+      "section": "Canada",
+      "summary_auto": "Concordia and McGill universities had both filed lawsuits in early 2024, arguing that the government’s plan to increase tuition for out-of-province students was discriminatory and threatened their institutional viability.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "003ba4d72d2a546f8e742e4064ceffbd32b76380",
+      "url": "https://www.cbc.ca/news/canada/edmonton/ashley-rattlesnake-nina-napope-dumais-sentencing-9.7108956?cmp=rss",
+      "title": "Alberta woman will serve just under 4 years in prison for death of 8-year-old girl",
+      "published_at": "2026-02-27T11:55:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Cries and shouts could be heard inside an Edmonton courtroom after Ashley Rattlesnake, 30, was sentenced to three years and nine months in prison for the death of eight-year-old Nina Napope Dumais.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "431c2dfd240c189b80a9b316398f6ce127f5a6f5",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mayor-ken-sim-apology-sean-orr-9.7108801?cmp=rss",
+      "title": "Vancouver Mayor Ken Sim apologizes to councillor for unsubstantiated comments about distributing drugs",
+      "published_at": "2026-02-27T11:28:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mayor Ken Sim says he has apologized to his council colleague Sean Orr for claiming without evidence in a media briefing earlier this month that Orr distributed illegal drugs. Orr has denied the allegation \"unequivocally\" and said the comments were ridiculous and defamatory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6553f63103116680e8210bec673884ac53c38449",
+      "url": "https://www.cbc.ca/news/business/trump-anthropic-feud-ai-9.7109006?cmp=rss",
+      "title": "Trump directs all federal agencies to stop using AI company Anthropic's technology",
+      "published_at": "2026-02-27T11:23:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Trump's directive comes amid a feud ⁠between the Pentagon and top artificial ⁠intelligence lab Anthropic over concerns about how ⁠the ⁠military ​could use AI at war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "eae0115b9eda784c68289fd5b79bc7adfbb75d58",
+      "url": "https://www.cbc.ca/news/health/long-term-care-cihi-antipsychotic-drugs-9.7108636?cmp=rss",
+      "title": "Antipsychotic use in long-term care homes still 'stubbornly high' despite a national target, doctor says",
+      "published_at": "2026-02-27T10:58:56-05:00",
+      "section": "Health",
+      "summary_auto": "Use of sedating medications in long term care homes has continued to grow since the pandemic and Canadians with dementia are at a great risk, a new report suggests.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "81802b413443dd9a31082f694fa9b7a05fcedd84",
+      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-connor-storrie-snl-9.7108755?cmp=rss",
+      "title": "Heated Rivalry star Connor Storrie to host Saturday Night Live",
+      "published_at": "2026-02-27T10:09:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Connor Storrie, one of the stars from the breakout Canadian hit show Heated Rivalry, is set to host Saturday Night Live this weekend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "af9ac52b9718f0a7b73b4a73f241b204ecc1b0db",
       "url": "https://www.cbc.ca/news/world/afghanistan-pakistan-explainer-9.7108336?cmp=rss",
-      "title": "Pakistan and Afghanistan in 'open war': How we got here and what might happen next",
+      "title": "Pakistan and Afghanistan: How we got here and what might happen next",
       "published_at": "2026-02-27T09:53:29-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.599,
+        "sentiment": 0.0,
         "subjectivity_hint": "medium"
       }
     },
@@ -32,13 +149,13 @@
     {
       "id": "2d2aa50d0a79ef66c351386f607c2719e819d436",
       "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-amber-alert-9.7108728?cmp=rss",
-      "title": "Missing 2-year-old boy police say was abducted from Winnipeg home found safe",
+      "title": "Violent dispute leads to young Winnipeg boy's abduction, Amber Alert being issued",
       "published_at": "2026-02-27T09:20:37-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Winnipeg police say a child who was the subject of an Amber Alert Friday has been found safe.",
+      "section": "Canada",
+      "summary_auto": "Two people are in custody after police say a two-year-old boy was abducted from a Winnipeg home earlier Friday in a violent incident that began as a dispute with the child's mother.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.361,
+        "sentiment": -0.959,
         "subjectivity_hint": "low"
       }
     },
@@ -58,13 +175,13 @@
     {
       "id": "c26ef52c9bbc23b816e248e4170c5a77e2e228c2",
       "url": "https://www.cbc.ca/news/health/blueberry-frozen-recall-fda-9.7108382?cmp=rss",
-      "title": "Frozen blueberries sold in Canada and U.S. recalled over listeria contamination risk, FDA says",
+      "title": "Frozen blueberries recalled over Listeria concern didn't reach customers in Canada: CFIA",
       "published_at": "2026-02-27T07:04:45-05:00",
-      "section": "Canada",
-      "summary_auto": "A U.S. company is recalling more than 25,000 kilograms of frozen blueberries that were distributed in Michigan, Oregon, Washington, Wisconsin and Canada, U.S. officials say.",
+      "section": "Top Stories",
+      "summary_auto": "A U.S. company is recalling more than 25,000 kilograms of frozen blueberries that were distributed in Michigan, Oregon, Washington, Wisconsin. Canadian officials say the affected imported product did not reach retailers or consumers in this country.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.273,
+        "sentiment": -0.19,
         "subjectivity_hint": "low"
       }
     },
@@ -82,19 +199,6 @@
       }
     },
     {
-      "id": "8a0f4840e647a0cd37d422efa0b4f7d0ca721a9f",
-      "url": "https://www.cbc.ca/news/world/gaza-msf-aid-leaving-strip-9.7107323?cmp=rss",
-      "title": "A Canadian helped build a water plant in Gaza. Now he worries about its fate as aid groups leave over new law",
-      "published_at": "2026-02-27T06:30:57-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "d777ec3b1278a6a5b4cf3d9f108e2d8f422474f4",
       "url": "https://www.cbc.ca/news/canada/spit-hoods-misuse-deaths-9.7107138?cmp=rss",
       "title": "Why putting spit hoods on people is risky — and can be deadly",
@@ -104,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d41612e5dda331378b2530eb1b11d27ba089791e",
-      "url": "https://www.cbc.ca/sports/paralympics/canada-opening-ceremony-flag-bearers-2026-paralympics-9.7107677?cmp=rss",
-      "title": "Para nordic star Natalie Wilkie, hockey captain Tyler McGregor named Canada's flag-bearers for Paralympics opening ceremony",
-      "published_at": "2026-02-27T05:02:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hockey captain Tyler McGregor and Para nordic skier Natalie Wilkie will be Canada’s Paralympic flag-bearers for the Milano-Cortina opening ceremony on March 6, the Canadian Paralympic Committee announced Friday morning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -151,7 +242,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/nanaimo-senior-independent-living-rent-increases-tenancy-act-9.7107321?cmp=rss",
       "title": "This Nanaimo senior challenged years of rent increases, and won",
       "published_at": "2026-02-27T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Shane Conn challenged two years of rent increases at a Nanaimo independent living facility at the Residential Tenancy Board. He won and received almost $9,500 in rent deductions and a limit on future increases. But the benefits apply only to him. They don’t apply to any of his neighbours unless they go through the same months-long administrative process Conn did.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/surrey-teachers-suspension-emails-spam-9.7107633?cmp=rss",
       "title": "20 Surrey, B.C., school teachers have their licences suspended after crucial emails sent to spam folder",
       "published_at": "2026-02-27T03:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The president of the Surrey Teachers' Association said the teachers missed critical emails about updating their criminal record checks because the notice went to their spam folders.",
       "bias_heuristic": {
         "article_type": "News",
@@ -251,19 +342,6 @@
       }
     },
     {
-      "id": "b64411202d5b14363b270b175a64e223e3568441",
-      "url": "https://www.cbc.ca/news/entertainment/scream-7-review-9.7107678?cmp=rss",
-      "title": "Even Neve Campbell can't save controversy-laden Scream 7",
-      "published_at": "2026-02-26T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Scream 7 may mark the return of scream queen Neve Campbell to the long-running slasher franchise, but it's nowhere near a high-water mark for the series.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.438,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "875afd4dde9e68bc0e3bff037de2924ec1d06013",
       "url": "https://www.cbc.ca/news/marketplace/spf-sunscreen-protection-9.7106878?cmp=rss",
       "title": "Why you shouldn’t count on SPF for all of your sun protection",
@@ -273,6 +351,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b64411202d5b14363b270b175a64e223e3568441",
+      "url": "https://www.cbc.ca/news/entertainment/scream-7-review-9.7107678?cmp=rss",
+      "title": "Even Neve Campbell can't save controversy-laden Scream 7",
+      "published_at": "2026-02-26T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Scream 7 may mark the return of scream queen Neve Campbell to the long-running slasher franchise, but it's nowhere near a high-water mark for the series.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.438,
         "subjectivity_hint": "medium"
       }
     },
@@ -316,6 +407,19 @@
       }
     },
     {
+      "id": "8a0f4840e647a0cd37d422efa0b4f7d0ca721a9f",
+      "url": "https://www.cbc.ca/news/world/gaza-msf-aid-leaving-strip-9.7107323?cmp=rss",
+      "title": "A Canadian helped build a water plant in Gaza. Now he worries about its fate as aid groups leave over new law",
+      "published_at": "2026-02-26T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "Foreign workers from 37 international non-governmental organizations will leave the Gaza Strip by Sunday after choosing not to comply with new registration rules imposed by Israel. The new rules include handing over lists of local and foreign staff, which the organizations say put people at risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "fe526ce736a871acaef7074c3e585e7d07b935b7",
       "url": "https://www.cbc.ca/news/politics/india-carney-energy-oil-9.7106572?cmp=rss",
       "title": "Energy-hungry India tells Carney 'we are willing to buy whatever Canada is offering'",
@@ -352,58 +456,6 @@
         "article_type": "News",
         "sentiment": 0.802,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "073ebad90f88529410095efbf1efb0c0e9e2d2fe",
-      "url": "https://www.cbc.ca/player/play/9.7107879?cmp=rss",
-      "title": "#TheMoment rats learned how to drive 🐀",
-      "published_at": "2026-02-26T17:06:34-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Kendal Crawford and Shaun Stephens-Whal tell The National about the moment they taught their pet rats how to drive mini cars in Squamish, B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d51507458926b0f1a03888d9baed5c408cd2602d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mayor-ken-sim-sean-orr-9.7107724?cmp=rss",
-      "title": "Vancouver Mayor Ken Sim made unsubstantiated claims about councillor distributing drugs",
-      "published_at": "2026-02-26T16:26:29-05:00",
-      "section": "Canada",
-      "summary_auto": "It has emerged that Vancouver Mayor Ken Sim accused a political opponent of distributing illegal drugs without evidence — days before a fellow councillor made similar claims that he later retracted.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4042280c337ae1b95a179d0025ac27002836215",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/oregon-man-killed-in-b-c-avalanche-near-pemberton-9.7107787?cmp=rss",
-      "title": "'Enormous loss': Professional snowboarder killed in avalanche east of Pemberton",
-      "published_at": "2026-02-26T16:22:38-05:00",
-      "section": "Canada",
-      "summary_auto": "The 28-year-old man is being remembered as one of the best split-boarders in the world who always had a smile on his face.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.101,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f941a2db181861a000f4f39d9755d024b2f62dfc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ostrich-farm-neighbours-sue-rcmp-cfia-trespass-9.7107411?cmp=rss",
-      "title": "Neighbours of B.C. ostrich farm sue RCMP, CFIA for allegedly trespassing on their property",
-      "published_at": "2026-02-26T15:54:31-05:00",
-      "section": "Canada",
-      "summary_auto": "Three residents of Edgewood, B.C., neighbours of Universal Ostrich Farm, are suing the Canadian Food Inspection Agency (CFIA) and the RCMP for allegedly trespassing on their property, according to a notice of civil claim.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
       }
     }
   ]
