@@ -1,19 +1,123 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-01T09:18:49.936242-05:00",
+  "generated_at": "2026-03-01T15:19:29.825740-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "062f703951d0472a4d7d629a484f636cd65f305d",
-      "url": "https://www.cbc.ca/news/politics/india-natural-partner-carney-free-trade-deal-9.7110248?cmp=rss",
-      "title": "Hailing India as a ‘natural partner,’ Carney says Canada can secure a free trade deal by year’s end",
-      "published_at": "2026-03-01T03:44:15-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney’s Indian charm offensive continued over the weekend as he set aside any notion of bilateral bad blood and hailed the South Asian country as a \"natural partner.\"",
+      "id": "605a09d21aeb9061b2c094f0d579372bac378a1d",
+      "url": "https://www.cbc.ca/news/politics/conservatives-inquiry-tumbler-ridge-shooting-bc-jesse-van-rootselaar-9.7110535?cmp=rss",
+      "title": "Conservatives call for federal independent inquiry on Tumbler Ridge mass shooting",
+      "published_at": "2026-03-01T09:55:36-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal Conservatives are calling for an independent inquiry on the mass shooting in Tumbler Ridge, B.C., to understand what happened and how to prevent similar tragedies from occurring in the future.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.649,
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ca72e51d701368c29d2ce4f7f6b2884368cbd2c",
+      "url": "https://www.cbc.ca/sports/soccer/president-of-iran-s-soccer-federation-says-world-cup-participation-in-u-s-is-in-doubt-9.7110533?cmp=rss",
+      "title": "President of Iran's soccer federation says World Cup participation in U.S. is in doubt",
+      "published_at": "2026-03-01T09:41:17-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The president of Iran's soccer federation says he does not know if the national team can play 2026 FIFA World Cup matches in the United States following the surprise U.S. and Israeli bombardment of his country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d2d1c49b8a094df8dbdc807b10b5fd632a953575",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/iranian-in-n-l-grapples-with-mixed-feelings-as-the-u-s-and-israel-launch-strikes-against-iran-9.7110415?cmp=rss",
+      "title": "Iranian in N.L. grapples with mixed feelings as the U.S. and Israel launch strikes against Iran",
+      "published_at": "2026-03-01T07:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Shayan Morshedi stayed awake, waiting for news from home, as the United States and Israel launched attacks on Iran on Saturday. Originally from Iran, the Memorial University PhD student said he messaged his parents and friends as soon as the first strikes hit the country Saturday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e4fd5550bfc4cf8378dae950deeb74286617d938",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/hilary-knight-joke-saturday-night-live-trump-olympics-9.7110453?cmp=rss",
+      "title": "U.S. hockey star Hilary Knight delivers joke on SNL featuring women's, men's Olympic champions",
+      "published_at": "2026-03-01T07:25:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "This time it was Hilary Knight's turn to provide a big laugh, with an assist from the Saturday Night Live writers, in the wake of a weeklong dust-up involving the United States women's and men's Olympic gold medal-winning hockey teams.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.9,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "612c29122e8e7e75c195e396d47abde77ba49713",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/diving/fung-miller-synchro-bronze-diving-world-cup-montreal-9.7110360?cmp=rss",
+      "title": "Canada's Katelyn Fung, Kate Miller capture 1st international diving medal together",
+      "published_at": "2026-03-01T05:39:55-05:00",
+      "section": "Canada",
+      "summary_auto": "Katelyn Fung and Kate Miller claimed their first international podium finish as a team in the synchronized 10-metre event at the Montreal Diving World Cup on Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0406ad2c78b8506235de3c47cce6ddb3cae05b36",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-yarn-materials-pst-exemption-ends-9.7108997?cmp=rss",
+      "title": "Say it ain't sew: B.C. to end PST exemption for yarn, other materials used to make or mend clothing",
+      "published_at": "2026-03-01T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Yarn and other materials used to make or mend clothing will no longer be exempt from provincial sales tax as of Oct. 1, a move that the owner of a Kelowna, B.C., yarn store says unfairly affects people who are looking for a more mindful and sustainable approach to fashion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "209c6185209f9eb9b918b27fbff13b595a89806a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-toxic-drug-death-toll-drops-2025-9.7109657?cmp=rss",
+      "title": "Why were toxic drug deaths in B.C. down 21% in 2025?",
+      "published_at": "2026-03-01T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A new study has found that decreasing fentanyl concentrations in the illicit drug supply was related with a decrease in fatal overdoses in B.C. But scientists, advocates and officials remain unclear on why exactly the drug death toll in the province dropped by 21 per cent in 2025 compared to the previous year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "062f703951d0472a4d7d629a484f636cd65f305d",
+      "url": "https://www.cbc.ca/news/politics/india-natural-partner-carney-free-trade-deal-9.7110248?cmp=rss",
+      "title": "Hailing India as a 'natural partner,' Carney says Canada can secure a free trade deal by year's end",
+      "published_at": "2026-03-01T03:44:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney's Indian charm offensive continued over the weekend as he set aside any notion of bilateral bad blood and hailed the South Asian country as a \"natural partner.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0b4b72bb62589dc9b850237a189562f58c0e044d",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/premier-tim-houston-booed-african-heritage-month-gala-budget-9.7110291?cmp=rss",
+      "title": "N.S. premier booed at African Heritage Month gala as budget cuts spark upset",
+      "published_at": "2026-03-01T03:32:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Tim Houston was booed as he delivered remarks at the African Heritage Month gala in Halifax on Saturday night. Houston's government delivered a budget last week that includes cuts to programs aimed at Black and African Nova Scotian communities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -30,12 +134,51 @@
       }
     },
     {
+      "id": "9d61654dc72c5145185c2584159daa91c383edee",
+      "url": "https://www.cbc.ca/news/canada/manitoba/international-birders-prairies-travel-9.7107499?cmp=rss",
+      "title": "Forget white sand beaches. These snowbirds prefer to prowl for owls on the frozen Canadian prairie",
+      "published_at": "2026-03-01T02:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Southern Manitoba is a winter hot spot for tourists who prefer seeking out elusive owls on the frozen prairie over beachside getaways.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "370539676334c40ef88061617c80b3d7f9ef469e",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/baby-death-one-person-one-record-9.7108507?cmp=rss",
+      "title": "Family believes Nova Scotia's new medical records system played part in baby's death",
+      "published_at": "2026-03-01T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Musquodoboit, N.S., family says it believes a tragedy could have been averted if not for the One Person One Record system that launched in December at the IWK Health Centre.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f26e0ec901dbe3161ce56c090a4a2abcbac870b2",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-craft-beer-breweries-struggling-2-crows-closing-9.7107385?cmp=rss",
+      "title": "Nova Scotia's craft beer industry seeing 'unheard of' number of closures",
+      "published_at": "2026-03-01T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "While Nova Scotia's craft beer industry saw huge growth in the past couple of decades, growing to as many as 60 breweries with some having additional taproom locations, the number of breweries has decreased to around 50 in just the last two years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "cee3229037ab53962d876ae43bc874d8fa3b02c9",
       "url": "https://www.cbc.ca/news/canada/rise-of-singles-economy-dating-social-change-9.7107437?cmp=rss",
       "title": "The rise of singlehood could impact everything from housing to taxes",
       "published_at": "2026-02-28T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "For decades there has been an increase in single people across the world. But more recently that number seems to be not only growing, but changing how we talk about single people and how the world might work with more of them.",
+      "summary_auto": "For decades there has been an increase in single people across the world. But more recently, that number seems to be not only growing but changing how we talk about single people and how the world might work with more of them.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.182,
@@ -45,7 +188,7 @@
     {
       "id": "20e66ce7656164ad380b43054c83bb491d5d6805",
       "url": "https://www.cbc.ca/news/politics/tim-hodgson-lng-exports-100-million-tonnes-9.7107519?cmp=rss",
-      "title": "Canada poised to become 'one of the largest suppliers of LNG in the world': Energy minister",
+      "title": "Canada poised to become 'one of the largest suppliers of LNG in the world': energy minister",
       "published_at": "2026-02-28T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "Canada's energy minister says the country is poised to become one of the world's biggest suppliers of liquefied natural gas, exporting as much as 100 million tonnes per year.",
@@ -86,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/snow-removal-city-parking-side-streets-9.7107176?cmp=rss",
       "title": "Snowbanks are still blocking parking on some streets more than a month after Toronto's last big storm",
       "published_at": "2026-02-28T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "More than a month after Toronto's last major snowstorm, some residents are complaining their streets are still so clogged with curbside snowbanks that finding on-street parking remains a problem — not just for residents but local businesses too.",
       "bias_heuristic": {
         "article_type": "News",
