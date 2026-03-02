@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-01T15:19:29.825740-05:00",
+  "generated_at": "2026-03-01T20:28:25.144039-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "ff87a1c5bd965f9f2797db0263a4f1c3cc42c752",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fatal-avalanche-at-kootenay-pass-bc-9.7110689?cmp=rss",
+      "title": "23-year-old snowmobiler dies in Kootenay Pass avalanche; forecasters warn of high risks in B.C.’s backcountry",
+      "published_at": "2026-03-01T15:10:12-05:00",
+      "section": "Canada",
+      "summary_auto": "A snowmobiler has died in B.C.’s Interior after an avalanche in the Kootenay Pass area on Saturday, as forecasters warn hazardous conditions persist across the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd3d674f116df1cb4b3dc554600f177bc2deeb27",
+      "url": "https://www.cbc.ca/life/style/actor-awards-2026-red-carpet-fashion-9.7108766?cmp=rss",
+      "title": "The must-see red carpet looks from the 2026 Actor Awards",
+      "published_at": "2026-03-01T13:38:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Wunmi Mosaku, Teyana Taylor, Kate Hudson, Mia Goth and more standout looks from the SAG-AFTRA celebration.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b854455bd1d7c3784d0856574e0f00e3fa088cf3",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/celebrations-in-downtown-halifax-mark-fall-of-iran-s-supreme-leader-9.7110578?cmp=rss",
+      "title": "Celebrations in downtown Halifax mark fall of Iran's supreme leader",
+      "published_at": "2026-03-01T12:23:18-05:00",
+      "section": "Canada",
+      "summary_auto": "More than a hundred Iranian-Canadians took to the streets of Halifax on Sunday to celebrate after U.S.-Israeli attacks on Iran that killed the country's supreme leader.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec0dfc43254f0c13560a166fc632a30708176c0b",
+      "url": "https://www.cbc.ca/news/canada/toronto/university-of-toronto-student-jailed-in-pakistan-denied-bail-9.7110591?cmp=rss",
+      "title": "Toronto student jailed in Pakistan over social media content denied bail",
+      "published_at": "2026-03-01T11:52:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian University of Toronto PhD student who was arrested while conducting research for his dissertation in Pakistan has been denied bail.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3e9895863ad7ccb0dd31d0ebddf1828d3cd1af81",
+      "url": "https://www.cbc.ca/sports/hockey/victoire-blank-frost-4-0-to-take-1st-place-in-pwhl-standings-9.7110580?cmp=rss",
+      "title": "Montreal Victoire blank Minnesota Frost 4-0 to take 1st place in PWHL standings",
+      "published_at": "2026-03-01T11:49:58-05:00",
+      "section": "Canada",
+      "summary_auto": "Ann-Renée Desbiens earned her fourth shutout of the season with a 17-save effort as the Montreal Victoire defeated the Minnesota Frost 4-0 in Professional Women's Hockey League action at Place Bell on Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cce7c55b3b284a0a3e46bbf757179f065989ab69",
+      "url": "https://www.cbc.ca/news/canada/calgary/oil-jumps-10-on-iran-conflict-and-could-spike-to-100-us-a-barrel-analysts-say-9.7110557?cmp=rss",
+      "title": "Oil jumps 10% on Iran conflict and could spike to $100 US a barrel, analysts say",
+      "published_at": "2026-03-01T11:31:13-05:00",
+      "section": "Business",
+      "summary_auto": "Brent crude jumped 10 per cent to about $80 US a barrel over the counter on Sunday, oil traders said, while analysts predicted that prices could climb  as high as $100 US after U.S. and Israeli strikes on Iran plunged the Middle East into ​a new war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "5ec5ac702e15a9045940435159a11240bf4e89d2",
+      "url": "https://www.cbc.ca/news/world/middle-east-iran-israel-us-war-air-travel-9.7110553?cmp=rss",
+      "title": "Hundreds of thousands stranded as war shuts down much of Middle East air traffic",
+      "published_at": "2026-03-01T11:09:38-05:00",
+      "section": "World",
+      "summary_auto": "Hundreds of thousands of stranded travellers scrambled to make new connections and get through to airlines on jammed phone lines on Sunday after the attack on Iran by the United States and Israel shut down much of the Middle East to air travel.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "605a09d21aeb9061b2c094f0d579372bac378a1d",
       "url": "https://www.cbc.ca/news/politics/conservatives-inquiry-tumbler-ridge-shooting-bc-jesse-van-rootselaar-9.7110535?cmp=rss",
@@ -45,9 +136,22 @@
     {
       "id": "e4fd5550bfc4cf8378dae950deeb74286617d938",
       "url": "https://www.cbc.ca/sports/olympics/winter/hockey/hilary-knight-joke-saturday-night-live-trump-olympics-9.7110453?cmp=rss",
-      "title": "U.S. hockey star Hilary Knight delivers joke on SNL featuring women's, men's Olympic champions",
+      "title": "U.S. hockey star Hilary Knight takes shot at Trump on SNL episode with Connor Storrie and Olympic champs",
       "published_at": "2026-03-01T07:25:03-05:00",
       "section": "Top Stories",
+      "summary_auto": "This time it was Hilary Knight's turn to provide a big laugh, with an assist from the Saturday Night Live writers, in the wake of a weeklong dust-up involving the United States women's and men's Olympic gold medal-winning hockey teams.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e4fd5550bfc4cf8378dae950deeb74286617d938",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/hilary-knight-joke-saturday-night-live-trump-olympics-9.7110453?cmp=rss",
+      "title": "U.S. hockey star Hilary Knight delivers joke on SNL featuring women's, men's Olympic champions",
+      "published_at": "2026-03-01T07:25:03-05:00",
+      "section": "World",
       "summary_auto": "This time it was Hilary Knight's turn to provide a big laugh, with an assist from the Saturday Night Live writers, in the wake of a weeklong dust-up involving the United States women's and men's Olympic gold medal-winning hockey teams.",
       "bias_heuristic": {
         "article_type": "News",
@@ -79,6 +183,19 @@
         "article_type": "News",
         "sentiment": -0.202,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0a4941a563e1b65309dabc27aa54e82d1b18a6f4",
+      "url": "https://www.cbc.ca/news/world/khamenei-death-regime-change-iran-9.7110285?cmp=rss",
+      "title": "Why killing Ayatollah Ali Khamenei may not mean regime change in Iran",
+      "published_at": "2026-03-01T04:33:55-05:00",
+      "section": "World",
+      "summary_auto": "Following a joint U.S.-Israeli missile strike that killed Supreme Leader Ayatollah Ali Khamenei, Iran is experiencing a volatile mix of state-sanctioned mourning and celebratory street protests. The assassination has sparked international fear that the lack of a post-war plan could plunge the region into uncontrollable chaos.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.978,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -203,7 +320,7 @@
       "url": "https://www.cbc.ca/news/politics/poilievre-election-interview-the-bridge-floor-crosser-washington-trump-usa-9.7110025?cmp=rss",
       "title": "Canada should not have an election before reviewing CUSMA trade deal, says Poilievre",
       "published_at": "2026-02-28T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Conservative Leader Pierre Polievre says Canada should not have an election before it reviews the Canada-U.S.-Mexico Agreement (CUSMA) this year — and instead he's reiterating his proposal the Carney government set up an all-party committee on the matter.",
       "bias_heuristic": {
         "article_type": "News",
@@ -216,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/canada-public-art-collection-online-9.7107292?cmp=rss",
       "title": "Why much of Canada's national art collection isn't online",
       "published_at": "2026-02-28T23:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Canada has the technology to share its national art collection online. What it hasn’t clearly decided is how much copyright law should stand in the way.",
       "bias_heuristic": {
         "article_type": "News",
