@@ -1,14 +1,261 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-04T20:28:38.861084-05:00",
+  "generated_at": "2026-03-05T09:40:52.155159-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "6cd34a372c8532b0461a10e1dd6ac067910c8704",
+      "url": "https://www.cbc.ca/player/play/9.7115523?cmp=rss",
+      "title": "Middle East war makes ethical debate over AI use in war all too real",
+      "published_at": "2026-03-05T03:04:29-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Artificial intelligence is being used in the war in the Middle East, although exactly how is being kept secret, and the question of who — or what — should make the decision to kill is up for debate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.9,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fd625e2ca01663270c594bc7fa17e321d69c993e",
+      "url": "https://www.cbc.ca/sports/olympics/winter/how-to-watch-paralympics-on-cbc-digital-platforms-9.7112353?cmp=rss",
+      "title": "How to watch the Milano-Cortina Paralympics on CBC",
+      "published_at": "2026-03-05T01:35:04-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2437a0bfd77ab645a8b07c76af6c3978edf7c9da",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-budget-cuts-advocates-families-say-harms-most-vulnerable-9.7115229?cmp=rss",
+      "title": "'We feel betrayed': Disability community says N.S. budget cuts to day programs, caregiver benefit are 'illogical'",
+      "published_at": "2026-03-05T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Parents and advocates are sounding the alarm over the harm the provincial government’s proposed budget cuts will cause some of Nova Scotia’s most vulnerable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b2de7f60df2deecd488181ee8d512d6fe3b224f6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/seniors-indepedent-living-continuing-care-nova-scotia-provincial-housing-agency-9.7114368?cmp=rss",
+      "title": "Seniors at N.S. independent living facility outraged after housing authority ends in-house care",
+      "published_at": "2026-03-05T00:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Nova Scotia Provincial Housing Agency is changing how continuing care is delivered at facilities in Bridgetown, Berwick and Antigonish due to operational changes and complaints by some residents about mandatory costs, according to a spokesperson.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2de7f60df2deecd488181ee8d512d6fe3b224f6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/seniors-indepedent-living-continuing-care-nova-scotia-provincial-housing-agency-9.7114368?cmp=rss",
+      "title": "Seniors at independent living facility outraged after housing authority ends in-house care",
+      "published_at": "2026-03-05T00:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Nova Scotia Provincial Housing Agency is changing how continuing care is delivered at facilities in Bridgetown, Berwick and Antigonish due to operational changes and complaints by some residents about mandatory costs, according to a spokesperson.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2437a0bfd77ab645a8b07c76af6c3978edf7c9da",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-budget-cuts-advocates-families-say-harms-most-vulnerable-9.7115229?cmp=rss",
+      "title": "'We feel betrayed': Disability community says provincial budget 'punches down'",
+      "published_at": "2026-03-05T00:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Parents and advocates are sounding the alarm over the harm the provincial government’s proposed budget cuts will cause some of Nova Scotia’s most vulnerable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2d449e95c2ffacd2ed8ab529f0eaa1b8a41ecd45",
+      "url": "https://www.cbc.ca/news/canada/indigenous-remains-niagara-region-ontario-9.7114012?cmp=rss",
+      "title": "Indigenous ancestral remains found on Ontario property could cost this couple $319K",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ontario couple was concerned to discover Indigenous ancestral remains on their property during renovations. But the biggest shock came when they learned a provincially mandated investigation could cost $319,000. Experts say the remains must be protected and treated with dignity — but that the current law should be updated so situations like this don't happen.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.826,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "c1aa79c43250d085add516bc34112cbba6243e4b",
+      "url": "https://www.cbc.ca/news/canada/bc-daylight-saving-health-concerns-9.7114947?cmp=rss",
+      "title": "B.C. is adopting permanent daylight time. Sleep researchers say standard time is healthier",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Scientists who study sleep are warning B.C. 's decision to adopt permanent daylight time will disrupt sleep patterns and have a negative effect on overall health, especially for children, for whom adequate sleep is critical for brain development.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7cc76a6f41e2b5a81676e60acae7a4dd093dea65",
+      "url": "https://www.cbc.ca/news/canada/canada-spain-trump-social-media-9.7115059?cmp=rss",
+      "title": "Canadians reaching out to Spain after Trump's 'sadly familiar' threats",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some Canadians are feeling kinship with Spain and reaching out on social media after the European country was the latest victim of a tirade from U.S. President Donald Trump. \"We're going to cut off all trade with Spain, we don't want anything to do with Spain,\" Trump told reporters at the White House on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.712,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0991d61b389bdd53ac92d7a886aa8cddc03b8090",
+      "url": "https://www.cbc.ca/news/investigates/red-flag-gun-laws-data-gap-9.7114992?cmp=rss",
+      "title": "Are Canada's 'red flag' gun laws working? No one can say",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Red flag orders were a key part of the federal government's response to the 2020 Portapique, N.S., mass shooting. But two years after the measure became law, a CBC News investigation has determined that no one is keeping track of when, where or how often these emergency orders are being implemented.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "760593b67cc74cdb769ff0711c469942e44b46fd",
+      "url": "https://www.cbc.ca/news/canada/montreal/grappling-with-the-pstq-program-9.7112477?cmp=rss",
+      "title": "How 1 woman is grappling with Quebec's new immigration program and its 'contradictions'",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Social worker Florence Bollet Michel was recruited abroad to work in Quebec. After jumping over the pond with her family and putting in two years of work in Montreal, her future in the province is now uncertain due to changes the government made to its immigration pathway programs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e01a296351639312657c9b24c1b6285dfae9138c",
+      "url": "https://www.cbc.ca/news/world/uae-safety-iran-strikes-9.7114827?cmp=rss",
+      "title": "How America’s war with Iran has shattered the U.A.E.’s sense of security",
+      "published_at": "2026-03-04T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "For decades, the United Arab Emirates has positioned itself as an economic and cultural hub, connecting European and Asian markets. But on Saturday, just hours after the U.S. and Israel launched massive strikes against Iran that killed the country’s longtime Supreme Leader Ayatollah Ali Khamenei, the U.A.E. came under fire like never before.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "57d61a8a26f081f6ff9b297a7931bc4da1c60447",
+      "url": "https://www.cbc.ca/news/canada/toronto/elle-maija-tailfeathers-toronto-film-critics-award-palestine-9.7115415?cmp=rss",
+      "title": "Elle-Máijá Tailfeathers returns Toronto film critics award, says support for Palestine cut from speech",
+      "published_at": "2026-03-04T18:04:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Elle-Máijá Tailfeathers says she is returning her Toronto Film Critics Association Award after a portion of her acceptance speech expressing support for Palestine was cut out.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "094a4455653e0029a0efea858b3a65f633a8c2c1",
+      "url": "https://www.cbc.ca/player/play/9.7115406?cmp=rss",
+      "title": "#TheMoment a (likely) meteor caused a sonic boom over Vancouver",
+      "published_at": "2026-03-04T17:38:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Michael Unger, the programming director at the H.R. MacMillan Space Centre, tells The National about the moment a suspected meteor created a sonic boom and lit up Vancouver’s night sky.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f3d448b6fb57a3d21ed83ed3085eea79f433473",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-pregnant-patients-vgh-diversion-9.7115404?cmp=rss",
+      "title": "A Vancouver hospital won't treat pregnant trauma patients. This surgeon says other facilities lack the right specialists, too",
+      "published_at": "2026-03-04T17:38:08-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The medical director of trauma services at Vancouver General Hospital says the health authority's directive to divert pregnant patients is causing \"horrific distress\" among clinicians. The directive comes as the hospital operates without any on-call obstetricians.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.916,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4d79b6dfeb4c71d5b8909d30ac1f3393a4e491b4",
+      "url": "https://www.cbc.ca/news/world/nepal-election-prime-minister-rapper-9.7114273?cmp=rss",
+      "title": "In Nepal, a former rapper wants to be the next prime minister — and young voters are excited",
+      "published_at": "2026-03-04T17:29:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As Nepalis head to the polls on Thursday in the first election since a Gen Z revolution last September toppled the previous government, one-time musician turned Kathmandu mayor Balendra Shah has galvanized the electorate, with many young voters hoping he will defeat politicians belonging to the South Asian country's old guard.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d01ef490f9382fea26c5a4c898715cb4dc100453",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-corruption-probe-accused-ryan-wedding-9.7115354?cmp=rss",
+      "title": "Man charged in Toronto police corruption probe ordered not to contact Ryan Wedding’s co-accused",
+      "published_at": "2026-03-04T16:36:30-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Brian Da Costa, an alleged drug trafficker accused of bribing Toronto police officers in Project South, has been ordered not to contact a co-accused of alleged cocaine kingpin Ryan Wedding as part of his bail conditions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3acd95007332054fcde60d52b0db03da2f38fb9d",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-permanent-daylight-time-issues-9.7115305?cmp=rss",
+      "title": "As B.C. moves to permanent daylight time, what could that look like if Alberta follows suit?",
+      "published_at": "2026-03-04T16:29:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As Alberta considers following B.C. 's lead in ending biannual clock changes, a sleep expert is advising the province to reject permanent daylight time in favour of a standard time model that better aligns with the solar cycle.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5041f4cd9c24910271c678333623dde226640a86",
+      "url": "https://www.cbc.ca/news/world/iran-school-bombing-investigation-9.7114994?cmp=rss",
+      "title": "Who bombed a girls' school in Iran? A visual investigation",
+      "published_at": "2026-03-04T15:47:53-05:00",
+      "section": "World",
+      "summary_auto": "CBC's visual investigations team analyzes satellite images and video of the bombing of an elementary school that Iranian state TV says has killed at least 165 people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "c5896d3d7eaff0a9a45474d3a2a47e74ca2b1b30",
       "url": "https://www.cbc.ca/news/world/ecuador-boots-cuban-ambassador-9.7115133?cmp=rss",
       "title": "Ecuador draws Cuba's ire after declaring its ambassador and his staff 'persona non grata'",
       "published_at": "2026-03-04T15:18:33-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Ecuador declared Cuba's ambassador, Basilio Antonio Gutiérrez, and his diplomatic staff \"persona non grata\" on Wednesday and gave them 48 hours to leave the South American country.",
       "bias_heuristic": {
         "article_type": "News",
@@ -48,10 +295,23 @@
       "title": "OpenAI CEO expressed 'horror and responsibility' over ChatGPT's ties to Tumbler Ridge, AI minister says",
       "published_at": "2026-03-04T14:26:18-05:00",
       "section": "Canada",
-      "summary_auto": "Artificial Intelligence Minister Evan Solomon says OpenAI's CEO agreed to let Canadian experts into its safety office to help evaluate future threats following the mass shooting in Tumbler Ridge, B.C.",
+      "summary_auto": "Artificial Intelligence Minister Evan Solomon says OpenAI's CEO has agreed to let Canadian experts into its safety office to help evaluate future threats following the mass shooting in Tumbler Ridge, B.C.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0c6618b8e8f7eef7478e39f0bb113c0db4df200f",
+      "url": "https://www.cbc.ca/radio/thecurrent/elvis-stojko-olympic-gold-medal-cope-disappointment-9.7114371?cmp=rss",
+      "title": "Elvis Stokjo still grieves his '98 gold medal loss. Here's how athletes can deal with disappointment",
+      "published_at": "2026-03-04T14:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After pouring so much time and emotion into competing at the highest levels, major defeats can be crushing for elite athletes. Performance experts say people have to refocus to help deal with internal pressure and disappointment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +320,7 @@
       "url": "https://www.cbc.ca/player/play/9.7114939?cmp=rss",
       "title": "Quebec’s language watchdog to send undercover inspectors into businesses",
       "published_at": "2026-03-04T13:48:14-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "For the first time in three years, the Office québécois de la langue française will send its inspectors to 7,800 restaurants, stores, and bars in and around Montreal as well as elsewhere in Quebec to assess the availability of service offered in French.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,6 +342,19 @@
       }
     },
     {
+      "id": "fdb9152ccd3ecf716524bca7641df6ffba72ff1c",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/tim-houston-budget-claudia-chender-iain-rankin-9.7114995?cmp=rss",
+      "title": "N.S. premier says no changes planned for $300M budget cuts despite protests",
+      "published_at": "2026-03-04T13:08:53-05:00",
+      "section": "Canada",
+      "summary_auto": "Nova Scotia Premier Tim Houston says he’s not changing course. A week after his government tabled a budget with $300 million in cuts that sparked multiple protests around the province, including two this week at the legislature, Houston told reporters that he doesn’t expect any changes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.704,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "5a5e739b518ff502709a8c4185c2c600b7961c88",
       "url": "https://www.cbc.ca/news/canada/calgary/alberta-foreign-interference-9.7114928?cmp=rss",
       "title": "Alberta ‘excessively vulnerable’ to foreign interference, experts warn",
@@ -95,24 +368,11 @@
       }
     },
     {
-      "id": "8559551816ca86b3b391b676a1dde77f3a0d6482",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/budget-culture-heritage-arts-grant-cuts-protest-9.7114664?cmp=rss",
-      "title": "Thousands take to streets to protest cuts to N.S. arts grants",
-      "published_at": "2026-03-04T12:09:45-05:00",
-      "section": "Top Stories",
-      "summary_auto": "About 2,000 people gathered outside Province House in Halifax to let the Houston government know cuts to arts, tourism, culture and heritage sectors would cause irreparable harm to their industries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "dc73d7c0542589bd7a4e73ccdbe165c40057e538",
       "url": "https://www.cbc.ca/news/world/western-cuba-power-outage-9.7114825?cmp=rss",
       "title": "Western Cuba hit by major blackout that energy official says could last 72 hours",
       "published_at": "2026-03-04T11:54:52-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A blackout hit the western half of Cuba on Wednesday, leaving millions of people in the capital Havana and beyond without power in the latest outage to affect an island struggling with dwindling oil reserves and a crumbling electric grid.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,11 +381,24 @@
       }
     },
     {
+      "id": "424ca201e7a4482994ac1b1457581079472883da",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/toro-canada-phillies-recap-exhibition-world-baseball-classic-9.7114855?cmp=rss",
+      "title": "The World Baseball Classic starts today. Here's who is playing for Canada",
+      "published_at": "2026-03-04T11:41:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Kansas City Royals third baseman Abraham Toro hit a bases-clearing double in the sixth inning as Canada rallied past the Philadelphia Phillies 5-3 on Wednesday in an exhibition game.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "cb783d7e8951c73eacaedc5cd1a5ecee54ad3225",
       "url": "https://www.cbc.ca/news/canada/london/school-bus-collision-fog-9.7114766?cmp=rss",
       "title": "'The bus spun 180 degrees' in Ont. crash that sent students to hospital",
       "published_at": "2026-03-04T11:09:29-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A school bus carrying two students collided with a tractor-trailer in Huron East Tuesday morning. Police say heavy fog reduced visibility and are reminding drivers to use extra caution.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +424,7 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/christophers-law-constitutional-challenge-9.7113022?cmp=rss",
       "title": "Hamilton judge rules Ontario's sex offender registry is unconstitutional. What could happen next?",
       "published_at": "2026-03-04T10:05:20-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The decision is \"significant\" and could see changes to Ontario’s sex offender registry, depending on how the appeals process plays out, says the applicant's lawyer. The province says it plans to appeal.",
       "bias_heuristic": {
         "article_type": "News",
@@ -164,25 +437,12 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/canadian-man-stuck-ice-detention-centre-9.7113431?cmp=rss",
       "title": "Canadian man stuck in ICE detention centre for 4 months, awaiting deportation hearing",
       "published_at": "2026-03-04T10:02:30-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Since November, Edmonton-born Curtis Wright has been stuck in an ICE detainment facility in Texas. Since then, his family has been pushing for his release while his case moves through the courts.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.67,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "66d447de7b51f6662e51631ed2d34683e1d944a2",
-      "url": "https://www.cbc.ca/news/world/khan-classified-evidence-9.7114635?cmp=rss",
-      "title": "U.S. terrorism case against former Ont. student includes 'classified' national security material",
-      "published_at": "2026-03-04T09:52:04-05:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. prosecutors have taken steps to protect classified national security material set to be part of their case against a Pakistani man accused of plotting an attack on Jews in New York. Muhammad Shahzeb Khan, who previously lived in the Toronto area, is scheduled to stand trial in May.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -196,305 +456,6 @@
         "article_type": "News",
         "sentiment": 0.309,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0cff08b7e0d81a48370b5728cd82ed30ab752f65",
-      "url": "https://www.cbc.ca/player/play/9.7114643?cmp=rss",
-      "title": "Fact check: Grok tells users fake Tel Aviv video is real",
-      "published_at": "2026-03-04T09:33:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Can you tell this video is fake? The AI chatbot Grok could not. It’s been viewed millions of times on platforms like X and Instagram, with claims it shows Iranian missiles hitting Tel Aviv.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.572,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d9fd4fcdc6158a4ed2e37246055970cd90207518",
-      "url": "https://www.cbc.ca/news/world/in-photos-war-in-iran-enters-5th-day-9.7114425?cmp=rss",
-      "title": "IN PHOTOS | War in Iran enters 5th day",
-      "published_at": "2026-03-04T09:31:01-05:00",
-      "section": "World",
-      "summary_auto": "Israel and the U.S. launched a new wave of strikes on Iran on Wednesday, prompting more missiles and drones fired from Tehran toward Israel. Turkey became the latest country to be drawn into the conflict, after NATO defence systems destroyed an Iranian ballistic missile on its way to Turkish airspace.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ea50185e15a3c7a9076dfc42600d9eff6ff6330",
-      "url": "https://www.cbc.ca/news/world/world-cup-mexico-9.7114025?cmp=rss",
-      "title": "Mexico seeks to dispel lingering fears in Guadalajara ahead of World Cup",
-      "published_at": "2026-03-04T09:16:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "World Cup preparations in Guadalajara, one of three host Mexican cities, were recently plunged under a cloud of uncertainty following an explosion of violence on Feb. 22 that ripped through the city, across Jalisco, and flared in several parts of the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3066c827e07ea460dcb06a45cdb005e9389fefe5",
-      "url": "https://www.cbc.ca/news/world/half-marathon-guide-car-wrong-turn-9.7114022?cmp=rss",
-      "title": "She was set to win the U.S. women's half marathon. Then a guide car made a wrong turn",
-      "published_at": "2026-03-04T08:25:55-05:00",
-      "section": "World",
-      "summary_auto": "Jessica McClain was ahead by a wide margin with about 2.4 kilometres left to go at the U.S. half marathon championships when she and three other runners followed a guide vehicle on a wrong turn, leading them off-course for about one kilometre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "305e24ce28925be5277bd73ae90774a3e550e82d",
-      "url": "https://www.cbc.ca/news/politics/carney-deputy-minister-shuffle-9.7114459?cmp=rss",
-      "title": "Carney shakes up senior ranks of the public service",
-      "published_at": "2026-03-04T08:24:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney has shaken up the senior ranks of the public service, creating and expanding some roles in a continued effort to put his stamp on the machinery of government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "45e2f58654d5b186068d076306641104ea4f5f5e",
-      "url": "https://www.cbc.ca/news/canada/toronto/osap-protest-ontario-toronto-9.7114458?cmp=rss",
-      "title": "Ontario students stage mass protest over Ford government’s cuts to aid program",
-      "published_at": "2026-03-04T07:44:49-05:00",
-      "section": "Canada",
-      "summary_auto": "Students across the province are protesting recent changes to the Ontario Student Assistance Program — the post-secondary financial aid system will go from a majority grant structure to a majority loan structure in the new school year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd80bcbba1920696a0be9335e23a0e1bb25cab99",
-      "url": "https://www.cbc.ca/news/canada/london/zekun-wang-bail-explosives-investigation-9.7114452?cmp=rss",
-      "title": "Judge grants bail to one of four accused in London, Ont., explosives case",
-      "published_at": "2026-03-04T07:44:48-05:00",
-      "section": "Canada",
-      "summary_auto": "Zekun Wang, who also goes by Alex, appeared at the London courthouse on Wednesday, where Justice of the Peace Kristine Diaz granted him bail. He's one of four people accused of possessing high explosives and manufacturing firearms, following an investigation in January.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "090b7a31fa6a62ff14018867ce6bcb526b2243fd",
-      "url": "https://www.cbc.ca/news/canada/windsor/moroun-bridge-lobby-canada-ambassador-gordie-howe-wellington-9.7114271?cmp=rss",
-      "title": "Moroun, Ambassador Bridge company turned to ex-Harper aides’ firm to lobby Canadian officials",
-      "published_at": "2026-03-04T07:43:41-05:00",
-      "section": "Canada",
-      "summary_auto": "The billionaire U.S. owners of the busiest land border crossing in North America turned to a high-powered lobbying firm run by former top aides to Prime Minister Stephen Harper in recent years, records show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "113e19bbd0eb998fbd31438d93933149686652b1",
-      "url": "https://www.cbc.ca/news/health/canadians-glp1-ozempic-mounjaro-9.7114197?cmp=rss",
-      "title": "3 million Canadians use GLP-1 drugs. Survey says that's changing their appetites — and habits",
-      "published_at": "2026-03-04T07:38:06-05:00",
-      "section": "Canada",
-      "summary_auto": "A new survey suggests about three million Canadian adults are currently taking GLP-1 drugs such as Ozempic or Mounjaro and that many more would like to, but cost is a barrier.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.036,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "693e562ffa01b61b25c9ac606ae0001214091f84",
-      "url": "https://www.cbc.ca/sports/paralympics/winter-sports/wheelchair-curling/wheelchair-curling-rocks-stolen-2026-paralympics-9.7114390?cmp=rss",
-      "title": "Curling rocks stolen from Milano-Cortina Paralympic venue ahead of wheelchair competition",
-      "published_at": "2026-03-04T07:17:40-05:00",
-      "section": "World",
-      "summary_auto": "Curling drama has arrived at the Paralympics even before the first competition rock has been thrown. Two curling stones have been stolen from the Cortina Curling Olympic Stadium.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2b51ffe4c8d3b7d00ed532838f5044c22f90a3d9",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/sachigo-lake-red-sucker-lake-mining-exploration-9.7113795?cmp=rss",
-      "title": "Sister First Nations in Ontario, Manitoba speak out against mining exploration underway",
-      "published_at": "2026-03-04T07:15:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Two Anisininew Nations in northwestern Ontario and northeastern Manitoba are speaking out against mining exploration in their traditional territories, which they say is happening without their consent. Leaders from Sachigo Lake First Nation and Red Sucker Lake First Nation held a joint press conference at Queen’s Park on Tuesday about the Lingman Lake Gold Project. Here are their concerns and how Signature Resources Ltd. has responded to them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.311,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fe58e75ad59c4b3a7e1c4fe9f5f8af9bfa847c1c",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-corruption-scandal-project-south-da-costa-9.7104547?cmp=rss",
-      "title": "Brian Da Costa, alleged drug trafficker accused of bribing Toronto cops, gets $1.5M bail",
-      "published_at": "2026-03-04T07:07:18-05:00",
-      "section": "Canada",
-      "summary_auto": "The alleged drug trafficker accused of obtaining confidential information from a Toronto police officer, which was used in an alleged conspiracy to kill a senior corrections officer, was granted a $1.5-million bail Wednesday in Toronto.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "61e5c9ff2d2ec92a645179b6cf529d5997c08d91",
-      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sex-assault-trial-9.7113926?cmp=rss",
-      "title": "Frank Stronach says 'justice will prevail' in sexual assault trial as 7th and final complainant cross-examined",
-      "published_at": "2026-03-04T05:35:46-05:00",
-      "section": "Canada",
-      "summary_auto": "The Crown has wrapped up its case in the sexual assault trial of Frank Stronach, having heard from all seven complainants whose allegations against the Canadian businessman included sexual assault, attempted rape and rape.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.969,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c13f6400d4e2fd29364ae70cd2618bb27278857",
-      "url": "https://www.cbc.ca/news/world/indian-ocean-us-iran-ship-torpedo-9.7113910?cmp=rss",
-      "title": "U.S. submarine torpedoes Iranian ship in Indian Ocean, reportedly killing at least 87 sailors",
-      "published_at": "2026-03-04T04:36:50-05:00",
-      "section": "World",
-      "summary_auto": "A U.S. submarine sank a warship with a torpedo off the southern coast of Sri ​Lanka, dramatically widening Washington's pursuit of the Iranian navy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e85e52b79573eae52d1f6673874c27bab0368bb",
-      "url": "https://www.cbc.ca/news/politics/two-blocks-from-the-white-house-9.7042430?cmp=rss",
-      "title": "Two Blocks from the White House: Trump’s ‘no rules’ war on Iran",
-      "published_at": "2026-03-04T03:53:32-05:00",
-      "section": "World",
-      "summary_auto": "What are the implications of Trump’s military operation in Iran? We gauge reactions from both within the U.S. and among the country’s allies, including Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5afa31b640d5592b0bacaf9d8602969ad0015393",
-      "url": "https://www.cbc.ca/news/entertainment/mike-myers-canadian-screen-awards-9.7112765?cmp=rss",
-      "title": "Mike Myers, Hazel Mae among recipients of special 2026 Canadian Screen Awards honours",
-      "published_at": "2026-03-04T03:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Canadian Screen Week takes place in Toronto from May 27 to May 31, culminating with the Canadian Screen Awards ceremony honouring the best in the country's cinema, television and digital media.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.96,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f2349e17bbefb27377b1b7c3dc891265f7b3753f",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/polar-bears-churchill-research-9.7113255?cmp=rss",
-      "title": "Polar bears aren't hunting people, they're just out of ice: Scientists",
-      "published_at": "2026-03-04T01:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "\"Nutritional stress does play a role. It's just that it doesn't appear to be the role that we thought it was, just driving bears en masse desperately into communities,\" said Douglas Clark, a professor in the University of Saskatchewan’s School of Environment and Sustainability.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bce3aa613bafcfc1062d15970d00559597570296",
-      "url": "https://www.cbc.ca/news/canada/manitoba/jaskirat-singh-sidhu-humboldt-crash-victims-9.7111384?cmp=rss",
-      "title": "Time running out in Canada for man who caused Humboldt Broncos bus crash",
-      "published_at": "2026-03-03T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Jaskirat Singh Sidhu, the man responsible for the 2018 Humboldt Broncos bus crash, could be deported to India within weeks, leaving behind a wife and two children who are pleading with Canada to let him stay. At the same time, some families of the victims say Sidhu should have been removed from Canada years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b0d0bb2d5e926886b0d9a9511353962557062637",
-      "url": "https://www.cbc.ca/news/canada/dennis-modry-misappropriated-funds-9.7105913?cmp=rss",
-      "title": "Family seeking $1.3M owed by Alberta separatist leader Dennis Modry after court order",
-      "published_at": "2026-03-03T23:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Relatives of a prominent Alberta separatist who met with U.S. officials are upset that he has failed to pay back more than $1.3 million that he owes from a court order issued almost a year ago. A B.C. Supreme Court judge ruled in March 2025 that Dennis Modry, a co-founder of the Alberta Prosperity Project, misappropriated the money from the joint bank account of his aunt and uncle.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "76cf22847c956b9eb170d3351fd1585f6c91fde7",
-      "url": "https://www.cbc.ca/news/world/iran-military-capabilities-9.7112249?cmp=rss",
-      "title": "How long can Iran keep firing missiles and drones?",
-      "published_at": "2026-03-03T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Experts say Tehran will likely try to inflict collateral damage in neighbouring countries and exhaust U.S. and Israeli defences by using cheap kamikaze drones in order to try and save the regime.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cc09ec87b3bf381d408c34030721b5178f31b85f",
-      "url": "https://www.cbc.ca/news/world/u-s-iran-war-counter-terrorism-government-shutdown-9.7113767?cmp=rss",
-      "title": "As Iran war raises terror risk, U.S. enforcement agencies are spread thin, experts say",
-      "published_at": "2026-03-03T23:00:00-05:00",
-      "section": "World",
-      "summary_auto": "After a year of upheaval, departures and shifting priorities at some of the U.S. agencies charged with keeping the U.S. safe, experts say the U.S. may be more vulnerable to a terror attack. The conflict with Iran also comes as hundreds of Homeland Security personnel are not being paid or have been furloughed because of the government shutdown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.942,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "372939b6be89a212e9bb625e254f7d167ef31312",
-      "url": "https://www.cbc.ca/news/health/radon-guidelines-canada-9.7113142?cmp=rss",
-      "title": "Why researchers say lowering Canada's radon limit could prevent more cases of lung cancer and save lives",
-      "published_at": "2026-03-03T23:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Could a lower threshold for radon levels in Canadian homes protect more people from getting lung cancer? Some researchers say Canada is overdue for an evidence-backed rethink in light of emerging research and rising risks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4c503d8ee4135b6305dccfcf53573a1502bf7085",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-it-is-not-easy-lets-be-clear-9.7113807?cmp=rss",
-      "title": "'It's not easy, let's be clear': Carney speaks frankly about dealing with Trump at an event in Australia",
-      "published_at": "2026-03-03T22:41:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney pulled back the curtain on his relationship with his American counterpart on Wednesday evening in Australia, saying it's not easy dealing with U.S. President Donald Trump and he must choose his words carefully to avoid any blowback.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.443,
-        "subjectivity_hint": "medium"
       }
     }
   ]
