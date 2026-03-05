@@ -1,15 +1,41 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-05T14:16:30.196787-05:00",
+  "generated_at": "2026-03-05T15:31:37.774903-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "2b737f9d77192014f03a718bc65583839e6cce1c",
+      "url": "https://www.cbc.ca/news/politics/ceta-eu-canada-trade-9.7116223?cmp=rss",
+      "title": "Canada signing agreement with EU to enhance free trade deal",
+      "published_at": "2026-03-05T09:37:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As relations with the Trump administration remain fraught and uncertain, trade ministers from Canada and the European Union are set to sign on to a series of improvements to their bilateral trade agreement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "916bcfa51aa8d12f7e809f9d472aa93bf6bf1827",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-arrest-canada-s-most-wanted-fugitive-9.7116105?cmp=rss",
+      "title": "Montreal police arrest Canada's most wanted fugitive",
+      "published_at": "2026-03-05T09:13:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Montreal police arrested Bryan Fuentes Gramajo, 24, overnight Wednesday. He was wanted in connection with the shooting death of 28-year-old Kashif Jamal Bentley-Jean last July in the parking lot of the Yorkdale Shopping Centre in Toronto.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "807c7ff75197b8d853635c3f8eac8e85d25c9d81",
       "url": "https://www.cbc.ca/news/world/kristi-noem-ousted-homeleand-security-ice-9.7116182?cmp=rss",
       "title": "Kristi Noem out at U.S. Department of Homeland Security",
       "published_at": "2026-03-05T08:58:39-05:00",
       "section": "Top Stories",
-      "summary_auto": "One of the top officials overseeing U.S. President Donald Trump's immigration crackdown, U.S. Homeland Security Secretary Kristi Noem, will leave her role,  Trump said on Thursday.",
+      "summary_auto": "One of the top officials overseeing U.S. President Donald Trump's immigration crackdown, U.S. Homeland Security Secretary Kristi Noem, will leave her role, Trump said on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.66,
@@ -84,14 +110,14 @@
     {
       "id": "75bce9eb6057fa1aba13fdd2071197a0d226c379",
       "url": "https://www.cbc.ca/news/entertainment/britney-spears-arrested-9.7115790?cmp=rss",
-      "title": "Britney Spears arrested and released in California, though charge is unclear",
+      "title": "Britney Spears arrested in California on suspicion of driving under the influence",
       "published_at": "2026-03-05T05:49:12-05:00",
       "section": "Top Stories",
-      "summary_auto": "Britney Spears was arrested Wednesday night in Southern California and booked early the following morning, though the charge was not clear, according to the Ventura County Sheriff's office website.",
+      "summary_auto": "The singer was briefly held in detention before she was released Thursday morning with a May 4 court date, according to local authorities.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.855,
-        "subjectivity_hint": "low"
+        "sentiment": -0.802,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -99,7 +125,7 @@
       "url": "https://www.cbc.ca/news/health/delici-chocolate-mousse-recall-9.7115610?cmp=rss",
       "title": "Delici Dubai Style chocolate mousse recalled, Costco Canada says",
       "published_at": "2026-03-05T05:02:06-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Costco Wholesale is alerting customers of a recall of certain lot codes of the Delici Dubai Style chocolate mousse due to the possible presence of cashew nuts and macademia nuts that aren't declared on the label.",
       "bias_heuristic": {
         "article_type": "News",
@@ -157,19 +183,6 @@
         "article_type": "News",
         "sentiment": 0.565,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6cd34a372c8532b0461a10e1dd6ac067910c8704",
-      "url": "https://www.cbc.ca/player/play/9.7115523?cmp=rss",
-      "title": "Middle East war makes ethical debate over AI use in war all too real",
-      "published_at": "2026-03-05T03:04:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Artificial intelligence is being used in the war in the Middle East, although exactly how is being kept secret, and the question of who — or what — should make the decision to kill is up for debate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.9,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -403,58 +416,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5896d3d7eaff0a9a45474d3a2a47e74ca2b1b30",
-      "url": "https://www.cbc.ca/news/world/ecuador-boots-cuban-ambassador-9.7115133?cmp=rss",
-      "title": "Ecuador draws Cuba's ire after declaring its ambassador and his staff 'persona non grata'",
-      "published_at": "2026-03-04T15:18:33-05:00",
-      "section": "World",
-      "summary_auto": "Ecuador declared Cuba's ambassador, Basilio Antonio Gutiérrez, and his diplomatic staff \"persona non grata\" on Wednesday and gave them 48 hours to leave the South American country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "33cb0b9a306012a9af0a48d15edac0fbde027fad",
-      "url": "https://www.cbc.ca/news/politics/anita-anand-flights-out-of-uae-iran-war-9.7114969?cmp=rss",
-      "title": "Canada hoping to charter flights for Canadians to leave U.A.E. in next 72 hours: Anand",
-      "published_at": "2026-03-04T14:59:11-05:00",
-      "section": "Canada",
-      "summary_auto": "Foreign Affairs Minister Anita Anand says the government is looking at getting Canadians out of the Middle East, including asking the United Arab Emirates to use its airspace for chartered evacuation flights.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94fdd62bc8f445fc914039f75568a55bf98901cc",
-      "url": "https://www.cbc.ca/news/canada/montreal/dave-tumel-extradition-9.7115239?cmp=rss",
-      "title": "Canada's former most wanted fugitive facing extradition to Quebec",
-      "published_at": "2026-03-04T14:52:11-05:00",
-      "section": "Canada",
-      "summary_auto": "Dave \"Pik\" Turmel faces numerous criminal charges, including drug trafficking, conspiracy and assault with a weapon causing bodily harm. He is also suspected of being linked to numerous other crimes committed in Quebec.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.953,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c58e6d5ee9646aa7d76fbdbfaa3516b1b9451a9",
-      "url": "https://www.cbc.ca/news/politics/evan-solomon-open-ai-meeting-ceo-sam-altman-9.7114767?cmp=rss",
-      "title": "OpenAI CEO expressed 'horror and responsibility' over ChatGPT's ties to Tumbler Ridge, AI minister says",
-      "published_at": "2026-03-04T14:26:18-05:00",
-      "section": "Canada",
-      "summary_auto": "Artificial Intelligence Minister Evan Solomon says OpenAI's CEO has agreed to let Canadian experts into its safety office to help evaluate future threats following the mass shooting in Tumbler Ridge, B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
         "subjectivity_hint": "low"
       }
     }
