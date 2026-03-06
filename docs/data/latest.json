@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-06T09:32:30.620301-05:00",
+  "generated_at": "2026-03-06T15:25:20.558655-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "343d952fef52c2f3a12c925a9317d815d5dabfe5",
-      "url": "https://www.cbc.ca/news/world/us-venezuela-relations-burghum-visit-9.7117034?cmp=rss",
-      "title": "U.S., Venezuela re-establish diplomatic ties 2 months after Maduro's capture",
-      "published_at": "2026-03-06T02:35:11-05:00",
+      "id": "ee36041194ce7301fc85488030aeb2331c5fecc0",
+      "url": "https://www.cbc.ca/books/heated-rivalry-jacob-tierney-next-project-9.7117420?cmp=rss",
+      "title": "Heated Rivalry show creator Jacob Tierney's next project is another CanLit adaptation",
+      "published_at": "2026-03-06T09:22:41-05:00",
       "section": "Top Stories",
-      "summary_auto": "The United States and interim authorities in Venezuela have agreed to re-establish diplomatic and consular relations, the U.S. State Department said on Thursday, aiming to foster a peaceful transition to elect a new government in the South American country.",
+      "summary_auto": "Heated Rivalry showrunner Jacob Tierney will write, direct and executive produce new series Alexander, adapted from Vancouver author Annabel Lyon's 2009 novel The Golden Mean, Netflix announced Thursday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.796,
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bdd6677287f26f848077635f7e003e20957bdfb1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/kim-lafantaisie-bus-crash-dominican-republic-9.7117179?cmp=rss",
+      "title": "Winnipeg woman killed in Dominican Republic bus crash was 'generous beyond belief,' son says",
+      "published_at": "2026-03-06T09:06:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Winnipeg woman killed in a bus crash while on vacation is being remembered as a determined, caring and selfless mother who always offered a helping hand to those who needed it — whether it be volunteering or rescuing stray cats.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4c230cdc5569656c3af770e6469f1e230edc73db",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-ottawa-danielle-smith-mark-carney-project-assessment-9.7117659?cmp=rss",
+      "title": "Alberta, Ottawa agree on deal that would see province front its own major project reviews",
+      "published_at": "2026-03-06T08:58:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ottawa and Alberta have reached an agreement that will see the province take control of regulatory approvals for major projects, something they say will deliver those projects more expeditiously.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e8e2577aaf6ea2534d3565e3a145ec8ba2edd77b",
+      "url": "https://www.cbc.ca/news/business/crude-oil-prices-middle-east-9.7117585?cmp=rss",
+      "title": "Oil hits $90 US per barrel for first time in 2 years",
+      "published_at": "2026-03-06T08:27:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. crude prices rise above $90 per barrel for the first time in more than two years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0076427b8a53cd1bb34a3bacea2495817253f697",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-trade-roundup-march-6-2026-9.7117065?cmp=rss",
+      "title": "NHL trade deadline: Minnesota Wild acquire Nick Foligno, Bobby Brink",
+      "published_at": "2026-03-06T07:52:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nick Foligno is joining his brother Marcus with the Minnesota Wild, who started off NHL trade deadline day by making two moves they hope will finally deliver some playoff success.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "94d04680cac147a9dd626164e9d2bc04be16bbc7",
+      "url": "https://www.cbc.ca/sports/basketball/nba/dillon-brooks-canadian-nba-player-with-the-phoenix-suns-arrested-for-suspicion-of-dui-after-traffic-stop-9.7117561?cmp=rss",
+      "title": "Dillon Brooks, Canadian NBA player with the Phoenix Suns, arrested for suspicion of DUI after traffic stop",
+      "published_at": "2026-03-06T07:37:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Phoenix Suns forward Dillon Brooks was arrested for suspicion of driving under the influence early Friday morning in Scottsdale, Ariz., police said. Brooks was released following the booking process around 3:30 a.m.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7bac1b1682d85a945092e0c92aa86d2a6d7496f4",
+      "url": "https://www.cbc.ca/news/world/epstein-files-trump-allegations-9.7117186?cmp=rss",
+      "title": "Justice Department releases Epstein files that include uncorroborated Trump allegation, after complaints",
+      "published_at": "2026-03-06T06:56:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. Justice Department released FBI records late Thursday that summarize interviews of an ‌unidentified woman in which she made accusations against President Donald Trump related to an alleged sexual encounter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c8e36995744a0ee4114c2926acc3b582828813e7",
+      "url": "https://www.cbc.ca/news/world/lebanon-israel-evacuation-orders-iran-war-9.7117084?cmp=rss",
+      "title": "'This is wrong,' Lebanese resident says as hundreds of thousands displaced amid Israeli strikes",
+      "published_at": "2026-03-06T06:13:47-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli airstrikes continued to pound Lebanon on Friday, forcing hundreds of thousands to flee their homes in densely populated neighbourhoods to seek shelter elsewhere, as aid groups warned the escalating conflict could lead to a humanitarian catastrophe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "74b24be61409807c1966a8aa1c468e0c9e2f7e68",
+      "url": "https://www.cbc.ca/news/canada/toronto/ring-of-fire-ad-foi-millions-9.7117300?cmp=rss",
+      "title": "Ontario government spent over $7.5M on taxpayer-funded Ring of Fire ads last year, documents show",
+      "published_at": "2026-03-06T05:33:09-05:00",
+      "section": "Canada",
+      "summary_auto": "The Ontario government spent over $7.5 million to advertise the Ring of Fire last year, according to documents obtained through a freedom of information request by CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6941f28a8d87bf44a78bc16ecc36c2495bf48acf",
+      "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-asylum-seekers-subsidized-daycare-ruling-9.7117175?cmp=rss",
+      "title": "Supreme Court rules Quebec asylum seekers eligible for subsidized daycare",
+      "published_at": "2026-03-06T05:28:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Supreme Court of Canada has ruled Quebec cannot bar asylum seekers from subsidized daycare.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
         "subjectivity_hint": "low"
       }
     },
@@ -30,16 +147,29 @@
       }
     },
     {
-      "id": "09fe68ddf50dbb0f7f1e4b5a13b79996eb25d007",
-      "url": "https://www.cbc.ca/radio/frontburner/iran-and-ai-on-the-battlefield-9.7116426?cmp=rss",
-      "title": "Iran and AI on the battlefield",
+      "id": "3beb38ea02578a46c3d1ea97ce80c3dc7641427f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/st-boniface-hospital-emergency-department-doctors-9.7116449?cmp=rss",
+      "title": "Some ER patients were waiting 20 hours or more for care at Manitoba's 2nd largest hospital this week",
       "published_at": "2026-03-06T01:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The role of AI-powered warfare in the U.S-Israeli attack on Iran, and the fight between Anthropic and the Pentagon.",
+      "summary_auto": "Emergency physicians at St. Boniface Hospital said it's demoralizing to see long wait times at Manitoba's second-largest hospital, and elsewhere in the health-care system, having become increasingly normalized over the years.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.859,
+        "sentiment": 0.221,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3beb38ea02578a46c3d1ea97ce80c3dc7641427f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/st-boniface-hospital-emergency-department-doctors-9.7116449?cmp=rss",
+      "title": "St. Boniface Hospital doctors worry long wait times being normalized as ER might have set record",
+      "published_at": "2026-03-06T01:00:00-05:00",
+      "section": "Health",
+      "summary_auto": "Emergency physicians at St. Boniface Hospital said it's demoralizing to see long wait times at Manitoba's second-largest hospital, and elsewhere in the health-care system, having become increasingly normalized over the years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -47,7 +177,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/a-terrible-experience-patients-spent-days-on-overflow-stretchers-in-corner-brook-hospital-9.7114011?cmp=rss",
       "title": "Woman who spent 6 days on an overflow stretcher in a N.L. hospital says 'it felt degrading'",
       "published_at": "2026-03-05T23:30:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "After spending six days on a hospital stretcher, Jaymee Miller said she hopes she never has to be admitted to the Western Memorial Regional Hospital in Corner Brook ever again.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,16 +212,16 @@
       }
     },
     {
-      "id": "b180a1e364733976996869674c64a1b8fd47babb",
-      "url": "https://www.cbc.ca/player/play/9.7116683?cmp=rss",
-      "title": "Should the cheese curds atop your poutine get special protected status in Quebec?",
+      "id": "1a3671cab37fcd1f750ebd9dd2b53e3e1eeb5fe6",
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-trade-canada-us-cusma-usmca-leblanc-greer-9.7116887?cmp=rss",
+      "title": "Canada-U.S. trade talks have restarted. Here's what's at stake",
       "published_at": "2026-03-05T23:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Conseil des industriels laitiers du Québec is campaigning for poutine’s iconic squeaky cheese to get a protected geographical indication. What would that entail?",
+      "summary_auto": "For the first time since U.S. President Donald Trump called off negotiations last October — ostensibly over a TV ad — Prime Minister Mark Carney's point man on trade, Canada-U.S. Trade Minister Dominic LeBlanc, met face to face with his White House counterpart.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.834,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -108,32 +238,6 @@
       }
     },
     {
-      "id": "1a3671cab37fcd1f750ebd9dd2b53e3e1eeb5fe6",
-      "url": "https://www.cbc.ca/news/politics/trump-tariffs-trade-canada-us-cusma-usmca-leblanc-greer-9.7116887?cmp=rss",
-      "title": "Canada-U.S. trade talks are restarting. Here's what's at stake",
-      "published_at": "2026-03-05T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "For the first time since U.S. President Donald Trump called off negotiations last October — ostensibly over a TV ad — Prime Minister Mark Carney's point man on trade, Canada-U.S. Trade Minister Dominic LeBlanc, will meet face to face with his White House counterpart.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6356e8a2df58f3ea9580dc40ca1bd56834fc006d",
-      "url": "https://www.cbc.ca/news/business/canada-fill-gap-supply-oil-energy-iran-9.7114328?cmp=rss",
-      "title": "With a crucial oil artery blocked near Iran, can Canada fill the gap in global supply?",
-      "published_at": "2026-03-05T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As the war in Iran disrupts oil and gas exports from the Gulf region, the Canadian energy sector could see a jump in demand — and federal officials are positioning Canada as a beacon of stability during an unpredictable moment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "9a6651a870a983ca7a1efdbe33132c6602396465",
       "url": "https://www.cbc.ca/news/canada/toronto/niche-thefts-ontario-9.7116325?cmp=rss",
       "title": "Toronto-area grave robbers are stealing family heirlooms. This victim says it's 'a total violation of my parents'",
@@ -143,6 +247,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.924,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4ca0b17f44c8269ba49cf33ed23b4ada451f16fd",
+      "url": "https://www.cbc.ca/news/world/trump-iran-war-regime-change-victory-domestic-politics-9.7116034?cmp=rss",
+      "title": "Why anything short of regime change in Iran is a loss for Donald Trump",
+      "published_at": "2026-03-05T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "While U.S. President Donald Trump has not explicitly named regime change as an objective of his war in Iran, it's difficult to see how a hard-line Islamic republic remaining in place in Tehran could be sold to the American people as a win.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6356e8a2df58f3ea9580dc40ca1bd56834fc006d",
+      "url": "https://www.cbc.ca/news/business/canada-fill-gap-supply-oil-energy-iran-9.7114328?cmp=rss",
+      "title": "With a crucial oil artery blocked near Iran, can Canada fill the gap in global supply?",
+      "published_at": "2026-03-05T23:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "As the war in Iran disrupts oil and gas exports from the Gulf region, the Canadian energy sector could see a jump in demand — and federal officials are positioning Canada as a beacon of stability during an unpredictable moment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
         "subjectivity_hint": "medium"
       }
     },
@@ -190,7 +320,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/jalen-falk-sentenced-naramata-kathleen-richardson-murder-9.7116867?cmp=rss",
       "title": "B.C. man sentenced to life in prison for 2021 gang-related murder of woman — the details of which were kept secret until now",
       "published_at": "2026-03-05T16:48:19-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A B.C. man has been sentenced to life in prison for his role in the 2021 killing of Naramata woman — a development that remained largely secret until a judge partially lifted a sweeping publication ban this week.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,128 +333,11 @@
       "url": "https://www.cbc.ca/news/world/markwayne-mullin-new-dhs-secretary-9.7116764?cmp=rss",
       "title": "Will Homeland Security change under Markwayne Mullin? Meet the man Trump wants in charge",
       "published_at": "2026-03-05T16:06:12-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump's firing of Homeland Security Secretary Kristi Noem on Thursday overshadowed the announcement of his plans to nominate Republican Sen. Markwayne Mullin as her successor. But who is the Oklahoman tapped to take over the position?",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.363,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d25e72554df1f961c665e23949071fb3e26e87c0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/sam-altman-david-eby-meeting-9.7116693?cmp=rss",
-      "title": "B.C. premier says OpenAI CEO Sam Altman will apologize to Tumbler Ridge, push for stronger regulations",
-      "published_at": "2026-03-05T14:52:21-05:00",
-      "section": "Canada",
-      "summary_auto": "The company behind ChatGPT is facing waves of criticism after it came out that the account of Jesse Van Rootselaar — who police say killed eight people, including six children, in Tumbler Ridge on Feb. 10 — wasn't reported to police despite posts about gun violence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.816,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "65c086cfb6cd9c32d8146a3438f3be06e8be8842",
-      "url": "https://www.cbc.ca/player/play/9.7116668?cmp=rss",
-      "title": "The unanswered question in the U.S.-Israel war on Iran: Why? | About That",
-      "published_at": "2026-03-05T13:25:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Questions are being raised about why the U.S. and Israel chose this particular moment to launch an attack on Iran. Andrew Chang lays out the mixed messaging from U.S. President Donald Trump and his administration to break down possible motivations behind the move and the criticism it faces — even among MAGA Republicans. (Images provided by The Canadian Press, Reuters and Getty Images)",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a0ee1c3c639d98ec4c71bc5de717616ae226c371",
-      "url": "https://www.cbc.ca/news/entertainment/crave-hbo-warner-bros-paramount-deal-9.7115968?cmp=rss",
-      "title": "HBO's future on Crave uncertain as Paramount Skydance acquires Warner Bros. Discovery in merger",
-      "published_at": "2026-03-05T12:25:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "It's not clear if the U.S. studio mega-merger will affect existing agreements that Warner Bros. Discovery has with Canadian broadcasters and streamers, like Crave, and whether Canadian viewers will have to subscribe to yet another service to watch their favourite shows.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.056,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b89f51e00d05ae18eabf17fc9aea5f0126ee4089",
-      "url": "https://www.cbc.ca/news/business/oil-prices-markets-spike-war-iran-9.7116474?cmp=rss",
-      "title": "Oil prices spike to highest level since summer of 2024 amid war in Iran",
-      "published_at": "2026-03-05T12:05:30-05:00",
-      "section": "Business",
-      "summary_auto": "Stocks on Wall Street sank on Thursday after the price of oil spiked to its highest level since the summer of 2024 due to the U.S.-Israeli war with Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "807c7ff75197b8d853635c3f8eac8e85d25c9d81",
-      "url": "https://www.cbc.ca/news/world/kristi-noem-ousted-homeleand-security-ice-9.7116182?cmp=rss",
-      "title": "Kristi Noem out at U.S. Department of Homeland Security",
-      "published_at": "2026-03-05T12:00:58-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2cb5cec6cabba7ecc439e3eb3f33914facbe3867",
-      "url": "https://www.cbc.ca/player/play/9.7116477?cmp=rss",
-      "title": "The facts about Iran’s Shahed attack drones",
-      "published_at": "2026-03-05T11:55:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Cheap and noisy Shahed drones have become a crucial weapon for Iran in the U.S. and Israel’s war against the country. Here are the facts about the drones.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ec81a869bd14489000239352b80a67c859ea1c92",
-      "url": "https://www.cbc.ca/news/canada/manitoba/jamie-felix-mass-shooting-trial-9.7116275?cmp=rss",
-      "title": "Jury finds man guilty of 5 counts of 2nd-degree murder in Winnipeg drug house shootings",
-      "published_at": "2026-03-05T11:19:17-05:00",
-      "section": "Canada",
-      "summary_auto": "A jury has found a man accused of fatally shooting five people at a Winnipeg rooming house in 2023 guilty of five counts of second-degree murder.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.97,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a416d496cc863ede3448bc808f059b944c87ee55",
-      "url": "https://www.cbc.ca/news/canada/edmonton/charges-alta-tent-collapse-9.7115686?cmp=rss",
-      "title": "Rental company charged in fatal 2024 tent collapse at Alberta meditation retreat",
-      "published_at": "2026-03-05T11:02:29-05:00",
-      "section": "Canada",
-      "summary_auto": "Nearly two years after a tent collapse at a meditation retreat northwest of Edmonton left one woman dead and dozens of others injured, a special event rental company is facing charges. Investigators allege the structure was not safely installed, leaving it vulnerable to severe winds.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.967,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7bfe3af811482b9a6e24c165d7dde9193d829328",
-      "url": "https://www.cbc.ca/sports/olympics/winter/cross-country-skiing/mackie-mckeever-cross-country-skiing-medals-canada-9.7116269?cmp=rss",
-      "title": "Canada's Alison Mackie skis to U23 cross-country gold, teammate Xavier McKeever earns bronze",
-      "published_at": "2026-03-05T10:02:14-05:00",
-      "section": "Canada",
-      "summary_auto": "Alison Mackie won gold in the women's 20-kilometre mass start and fellow Canadian Xavier McKeever took bronze in the men's event Thursday at the under-23 cross-country skiing championships in Lillehammer, Norway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
         "subjectivity_hint": "low"
       }
     }
