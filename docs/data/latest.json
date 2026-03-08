@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-08T08:35:20.268694-04:00",
+  "generated_at": "2026-03-08T10:19:46.276871-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "898bf05836d4608a448fb79b7d4128d07376bc28",
+      "url": "https://www.cbc.ca/news/politics/carney-byelection-terrebonne-scarborough-southwest-university-rosedale-ndp-conservatives-9.7119497?cmp=rss",
+      "title": "Carney calls byelections in Quebec riding of Terrebonne, 2 Toronto ridings",
+      "published_at": "2026-03-08T06:08:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney has called byelections in the Toronto ridings of University-Rosedale and Scarborough Southwest and the Quebec riding of Terrebonne — races the Liberals will want to win to secure a thin majority government.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "96271f9d6f419ecafeb8a5116ec76c159d67b3b3",
+      "url": "https://www.cbc.ca/news/canada/montreal/bill-c-3-canadian-citizenship-by-descent-american-interest-9.7112724?cmp=rss",
+      "title": "Millions of Americans can now claim Canadian citizenship by descent. But they have to prove it",
+      "published_at": "2026-03-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Amid rising tensions in the United States and increased global volatility, many Americans are looking to Canada — and their roots — for a possible way out following recent changes to Canada’s citizenship rules.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9ee5741d0021430d36181fe924633c79801015f6",
+      "url": "https://www.cbc.ca/news/world/royal-engagements-line-of-succession-9.7117645?cmp=rss",
+      "title": "Keeping up the royal appearances amid the Andrew scandal",
+      "published_at": "2026-03-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Even though senior members of the Royal Family haven't been commenting publicly about former prince Andrew Mountbatten-Windsor, in keeping up their regular appearances they have been sending messages amid the controversy swirling around King Charles’s younger brother.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "80670a5983681a5f67541f6f53094913cf2d2bb9",
       "url": "https://www.cbc.ca/news/politics/united-states-customs-border-protection-phone-search-9.7118271?cmp=rss",
@@ -13,6 +52,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4920063029b8cf921c28a49b55e3aa62e7c3e008",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/scherzer-older-baseball-players-mlb-9.7113224?cmp=rss",
+      "title": "Jays pitcher Max Scherzer is a rare bird, still flying high as a competitive player in his 40s",
+      "published_at": "2026-03-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Toronto Blue Jays have brought pitcher Max Scherzer back into the fold for another run at a World Series title in 2026. It's a rare case of a player wearing a Jays jersey past age 40 — or in Scherzer's case, doing so for the second year in a row.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
         "subjectivity_hint": "low"
       }
     },
@@ -30,28 +82,15 @@
       }
     },
     {
-      "id": "9ee5741d0021430d36181fe924633c79801015f6",
-      "url": "https://www.cbc.ca/news/world/royal-engagements-line-of-succession-9.7117645?cmp=rss",
-      "title": "Keeping up the royal appearances amid the Andrew scandal",
-      "published_at": "2026-03-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Even though senior members of the Royal Family haven't been commenting publicly about former prince Andrew Mountbatten-Windsor, in keeping up their regular appearances they have been sending messages amid the controversy swirling around King Charles’s younger brother.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "06bab6e77e7b6eb0ad6f975adfa2e4dbb1d5acf1",
       "url": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795?cmp=rss",
-      "title": "At 25, Wikipedia faces a double threat: the rise of AI and the decline of local media",
+      "title": "At 25, Wikipedia doubles down on its 'human-created, human-vetted' philosophy",
       "published_at": "2026-03-07T23:00:00-05:00",
       "section": "Top Stories",
       "summary_auto": "It's been 25 years since Wikipedia first launched, but what does its future look like in a world where traditional media is on the decline and AI is on the rise?",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.318,
+        "sentiment": 0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -69,6 +108,19 @@
       }
     },
     {
+      "id": "06bab6e77e7b6eb0ad6f975adfa2e4dbb1d5acf1",
+      "url": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795?cmp=rss",
+      "title": "At 25, Wikipedia faces a double threat: the rise of AI and the decline of local media",
+      "published_at": "2026-03-07T23:00:00-05:00",
+      "section": "World",
+      "summary_auto": "It's been 25 years since Wikipedia first launched, but what does its future look like in a world where traditional media is on the decline and AI is on the rise?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "6a80063462a721435f17dbc91adf731568776aa3",
       "url": "https://www.cbc.ca/news/canada/british-columbia/power-outages-due-to-high-winds-in-northern-bc-9.7119380?cmp=rss",
       "title": "High winds knock out power to thousands across northern B.C.",
@@ -78,6 +130,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "98249449fa58519d73744ecc8f8ef08a79689b1a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/lebanese-community-in-vancouver-fear-over-middle-east-conflict-9.7119318?cmp=rss",
+      "title": "Vancouver's Lebanese community fears for loved ones as war spreads in the Middle East",
+      "published_at": "2026-03-07T17:27:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "B.C. residents with family in Lebanon say they are watching the escalating conflict in the Middle East with fear, as Israeli airstrikes and evacuation orders push more civilians from their homes and deepen worries that ordinary people will once again bear the cost of war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.932,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9a691ba6a95b5c77d8b627e39c40e377f2c86fb0",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/chemical-spill-9.7119142?cmp=rss",
+      "title": "Fredericton car wash set up for those who drove through chemical spill, but some say response too slow",
+      "published_at": "2026-03-07T12:44:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The New Brunswick government has set up a special car wash for people who drove through a chemical spill on the Vanier Highway in Fredericton between Wednesday evening and Friday at 4 p.m. AT, but some residents are questioning why it took so long for the province to take action.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.45,
         "subjectivity_hint": "low"
       }
     },
