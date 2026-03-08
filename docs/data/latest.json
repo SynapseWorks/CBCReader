@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-08T10:19:46.276871-04:00",
+  "generated_at": "2026-03-08T14:25:16.643279-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "624c116390759960b3613a80cd17c9ee195a5c65",
+      "url": "https://www.cbc.ca/news/world/balendra-shah-nepal-gen-z-win-9.7119677?cmp=rss",
+      "title": "Former rapper and Gen Z's candidate poised to win Nepali election by landslide",
+      "published_at": "2026-03-08T09:08:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In a resounding victory that is guaranteed to reshape Nepal's politics, rapper-turned-politician Balendra Shah appeared headed for a landslide win in the South Asian country's first polls since youth-led protests toppled the previous government last fall.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2e369b9691bf938e40295eae4c0821de2fc9f010",
+      "url": "https://www.cbc.ca/news/canada/toronto/jewish-community-reaction-synagogue-shootings-9.7119616?cmp=rss",
+      "title": "'Shaken to our core': Jewish community urges action against antisemitism after GTA synagogue shootings",
+      "published_at": "2026-03-08T07:36:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jewish community members are calling on the Canadian government and residents to take a stance against hate and antisemitism after three synagogues were hit by gunfire this week in the Greater Toronto Area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "898bf05836d4608a448fb79b7d4128d07376bc28",
       "url": "https://www.cbc.ca/news/politics/carney-byelection-terrebonne-scarborough-southwest-university-rosedale-ndp-conservatives-9.7119497?cmp=rss",
@@ -17,6 +43,32 @@
       }
     },
     {
+      "id": "bad11f43922c2ea74ca817daf6a3b4f2ab6437a9",
+      "url": "https://www.cbc.ca/news/canada/calgary/daniel-zolnikov-alberta-montana-electricity-9.7118319?cmp=rss",
+      "title": "Alberta and the U.S. have been arguing over electricity — but a ‘win-win’ may be in sight",
+      "published_at": "2026-03-08T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After months of complaints from Montana politicians and scrutiny from U.S. trade officials, Alberta’s utilities minister says he recently had a great chat with a Montana legislator who has been critical of the province’s approach to electricity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.214,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7602bbc0ffd39449db44e0aff7268efbd28468f4",
+      "url": "https://www.cbc.ca/news/canada/manitoba/northern-mobile-mri-unit-staffing-9.7114955?cmp=rss",
+      "title": "Northern Manitoba mobile MRI unit parked in Thompson, struggling to keep staff, associations say",
+      "published_at": "2026-03-08T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A mobile MRI unit intended to serve patients in two northern Manitoba communities has been parked in Thompson and is struggling to retain staff, according to two associations representing technologists.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "96271f9d6f419ecafeb8a5116ec76c159d67b3b3",
       "url": "https://www.cbc.ca/news/canada/montreal/bill-c-3-canadian-citizenship-by-descent-american-interest-9.7112724?cmp=rss",
       "title": "Millions of Americans can now claim Canadian citizenship by descent. But they have to prove it",
@@ -27,6 +79,19 @@
         "article_type": "News",
         "sentiment": 0.421,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a15586987cd69c55f9ac02c8794944eae3dec8d",
+      "url": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772?cmp=rss",
+      "title": "SpaceX wants to launch a million satellites. Here's how that could impact the atmosphere and the night sky",
+      "published_at": "2026-03-07T23:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Scientists are deeply concerned about SpaceX's recent proposal to launch one million satellites into orbit around Earth. Their concerns range from a loss of the natural night sky and our access to space, to the environmental impact on our atmosphere.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -66,19 +131,6 @@
         "article_type": "News",
         "sentiment": 0.178,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4a15586987cd69c55f9ac02c8794944eae3dec8d",
-      "url": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772?cmp=rss",
-      "title": "SpaceX wants to launch a million satellites. Here's how that could impact the atmosphere and the night sky",
-      "published_at": "2026-03-07T23:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Scientists are deeply concerned about SpaceX's recent proposal to launch one million satellites into orbit around Earth. Their concerns range from a loss of the natural night sky and our access to space, to the environmental impact on our atmosphere.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "high"
       }
     },
     {
@@ -123,10 +175,10 @@
     {
       "id": "6a80063462a721435f17dbc91adf731568776aa3",
       "url": "https://www.cbc.ca/news/canada/british-columbia/power-outages-due-to-high-winds-in-northern-bc-9.7119380?cmp=rss",
-      "title": "High winds knock out power to thousands across northern B.C.",
+      "title": "High winds knock out power to thousands across B.C.",
       "published_at": "2026-03-07T19:41:14-05:00",
       "section": "Top Stories",
-      "summary_auto": "Strong winds sweeping across northern British Columbia have knocked out power for thousands with some outages expected to last overnight.",
+      "summary_auto": "Strong winds sweeping across northern British Columbia have knocked out power for thousands.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.511,
@@ -143,32 +195,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.932,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9a691ba6a95b5c77d8b627e39c40e377f2c86fb0",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/chemical-spill-9.7119142?cmp=rss",
-      "title": "Fredericton car wash set up for those who drove through chemical spill, but some say response too slow",
-      "published_at": "2026-03-07T12:44:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The New Brunswick government has set up a special car wash for people who drove through a chemical spill on the Vanier Highway in Fredericton between Wednesday evening and Friday at 4 p.m. AT, but some residents are questioning why it took so long for the province to take action.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.45,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6c68262c30832a9109e534f4b9873adffc9c759",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/brier-recap-march-7-2026-9.7118638?cmp=rss",
-      "title": "Brad Gushue's storied Brier career ends with playoff loss to Brad Jacobs",
-      "published_at": "2026-03-07T10:33:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Brad Gushue's competitive curling career at the Brier has come to an end. The six-time Canadian champion was eliminated from contention with a 7-5 playoff loss to Brad Jacobs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     }
