@@ -1,15 +1,54 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-09T08:48:16.652906-04:00",
+  "generated_at": "2026-03-09T10:43:44.887018-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c15efe4fa8ab53765ab8038a7eabeb9008aa3168",
+      "url": "https://www.cbc.ca/news/entertainment/live-nation-doj-settlement-9.7120378?cmp=rss",
+      "title": "Live Nation, U.S. Department of Justice reach settlement in antitrust trial",
+      "published_at": "2026-03-09T06:12:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The trial in the case began last week after a judge in February rejected Live Nation's bid to dismiss ​the lawsuit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "be046b06625ce321a043a7a05f94558a838c4522",
+      "url": "https://www.cbc.ca/news/world/scotland-glasgow-fire-9.7120235?cmp=rss",
+      "title": "Glasgow fire destroys historic building, snarls train services",
+      "published_at": "2026-03-09T05:09:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A major fire in the heart of Glasgow crippled Scottish train services Monday as firefighters worked to douse the blaze that destroyed a four-storey building near Scotland's busiest railway station.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.771,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9c9d2fd69fb5a7f1514128ae26ac4f1710b4d84c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-school-book-ban-order-graphic-novels-9.7118495?cmp=rss",
+      "title": "Alberta schools pull more than 160 titles due to ban on explicit images of sexual acts",
+      "published_at": "2026-03-09T04:37:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Alberta school divisions complying with a provincial order have removed dozens of graphic novels from their shelves, from illustrated versions of literary classics to coming-of-age memoirs and dramatic retellings of mythology, access to information request results show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "74fe94af1cbf87b3af64c926d45479a81e14a41d",
       "url": "https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss",
       "title": "Oil prices spike to highest levels in years as Iran war intensifies",
       "published_at": "2026-03-09T04:23:19-04:00",
-      "section": "Business",
-      "summary_auto": "Oil prices spiked near $120 US per barrel before falling back Monday as the Iran war intensified, threatening production and shipping in the Middle East and pummeling financial markets.",
+      "section": "World",
+      "summary_auto": "Oil prices spiked to near $120 US a barrel before falling back on Monday as the Iran war intensified, threatening production and shipping in the Middle East and pummelling financial markets.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.915,
@@ -30,6 +69,19 @@
       }
     },
     {
+      "id": "aad59a82943bb0d8d61529bcd0837ac0b28a7942",
+      "url": "https://www.cbc.ca/news/canada/toronto/defence-to-make-case-in-stronach-trial-9.7120146?cmp=rss",
+      "title": "Crown to withdraw another 2 charges in sexual assault trial of Frank Stronach",
+      "published_at": "2026-03-09T02:31:23-04:00",
+      "section": "Canada",
+      "summary_auto": "Two more charges will be withdrawn in the sexual assault trial of Frank Stronach, meaning the Canadian businessman is now facing seven counts, down from the original 12.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b9e0c031931aa980faf4f556e55c62b8ba7d1e45",
       "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-taxes-deficit-budget-2026-9.7118227?cmp=rss",
       "title": "How good is Alberta 'tax advantage' when it requires deficit borrowing?",
@@ -40,6 +92,32 @@
         "article_type": "News",
         "sentiment": -0.494,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d0c72246be663d588459dadb20bd973b9c35bcf1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/babies-measles-preventive-treatment-manitoba-immune-globulin-vaccine-9.7117547?cmp=rss",
+      "title": "Babies exposed to measles getting preventive treatment every week in Manitoba",
+      "published_at": "2026-03-09T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An average of one baby a week in the Southern Health region is being given a preventive treatment after a potential measles exposure, which a health official says is a sign of the disease's widespread transmission and the vulnerability of babies too young to be vaccinated.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "adc9c9434e7a34917d74b88b8176cc2778ba5b3c",
+      "url": "https://www.cbc.ca/radio/frontburner/irans-allies-and-foes-explained-9.7119961?cmp=rss",
+      "title": "Iran’s allies and foes, explained",
+      "published_at": "2026-03-09T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Countries across the Middle East are being pulled into the U.S.-Israeli war on Iran. How long will their opposition to Iran hold?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -71,10 +149,10 @@
     {
       "id": "e7afbf75d9860f791034232af90b9ec592a42b5a",
       "url": "https://www.cbc.ca/news/gopublic/tuition-scam-9.7115857?cmp=rss",
-      "title": "New tuition scam left woman with $37K in fraudulent charges – and no help from bank, police or school",
+      "title": "New tuition scam left woman with $37K in fraudulent charges — and no help from bank, police or school",
       "published_at": "2026-03-09T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "A new scam is emerging across Canada – fraudsters who claim to give students a tuition break, but rip them off using stolen credit cards. When a Vancouver woman discovered $37,000 in fraudulent charges on her accounts, neither the university involved, police, nor TD Bank said they could help.",
+      "summary_auto": "A new scam is emerging across Canada: fraudsters who claim to give students a tuition break, but rip them off using stolen credit cards. When a Vancouver woman discovered $37,000 in fraudulent charges on her accounts, neither the university involved, police, nor TD Bank said they could help.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.908,
@@ -91,6 +169,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "90bd64300c532d56bcbe128c0d7fd7988b5b73c5",
+      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-health-care-spending-9.7116136?cmp=rss",
+      "title": "Ford defends health-care record as hospitals say financial 'crisis' is coming",
+      "published_at": "2026-03-09T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Premier Doug Ford is defending his government’s health-care record ahead of his eighth budget, even as the province’s hospitals say they face a billion-dollar structural funding deficit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
         "subjectivity_hint": "low"
       }
     },
@@ -162,7 +253,7 @@
     {
       "id": "f8270f7fe954e6c9dd43f17e2bdb1bd867790dd2",
       "url": "https://www.cbc.ca/news/canada/hamilton/ice-rescue-march-7-9.7119894?cmp=rss",
-      "title": "Bystanders help save two youth who fell through ice, Hamilton police say",
+      "title": "Bystanders help save 2 youth who fell through ice, Hamilton police say",
       "published_at": "2026-03-08T13:20:49-04:00",
       "section": "Canada",
       "summary_auto": "An officer with Hamilton police's marine unit says no ice is safe after bystanders helped rescue two youth who fell through the ice near the Pier 7 boardwalk.",
@@ -177,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/mamdani-house-explosive-9.7119856?cmp=rss",
       "title": "2 arrested after explosive device thrown at protest near Mayor Mamdani's house: NYPD",
       "published_at": "2026-03-08T12:30:20-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "New York ​City police said on Sunday a device that was ignited and thrown during protests outside Mayor Zohran Mamdani's home over the weekend was an explosive that could have caused serious injury or death.",
       "bias_heuristic": {
         "article_type": "News",
@@ -221,71 +312,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.915,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5e5ff25f920334d7f98937859b059fb2522bdf7a",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-trained-kurt-oatway-takes-bronze-in-paralympic-skiing-9.7119666?cmp=rss",
-      "title": "Sask. trained Kurt Oatway takes bronze in Paralympic skiing",
-      "published_at": "2026-03-08T11:20:09-04:00",
-      "section": "Canada",
-      "summary_auto": "Kurt Oatway, the 2018 Paralympic gold medal winner who trained in Saskatchewan has just medalled again, taking bronze in men's downhill sit-skiing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "649a1ad997ff214e1506526922620b1ccb7093b0",
-      "url": "https://www.cbc.ca/sports/paralympics/mollie-jepsen-knee-injury-milano-cortina-9.7119738?cmp=rss",
-      "title": "Canadian Para alpine star Mollie Jepsen to miss rest of Milano-Cortina Games with knee injury",
-      "published_at": "2026-03-08T10:31:43-04:00",
-      "section": "Canada",
-      "summary_auto": "Mollie Jepsen's Paralympics have come to an early end due to a knee injury. The Canadian Paralympic Committee and Alpine Canada announced that the West Vancouver, B.C., native will not compete in the four events remaining on her schedule.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da3fd9cb24984a8d3298523c014df0dea7ee2a60",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-wildfire-season-anxiety-canmore-hinton-9.7119675?cmp=rss",
-      "title": "Anxiety in some Alberta mountain towns as wildfire season begins",
-      "published_at": "2026-03-08T10:28:25-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite spring snow still dusting parts of Alberta, it's now officially wildfire season, and with it comes once again the gnawing worry about which community will next be touched by nature's fickle finger of destruction.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "75eed9ace326befe9f83a7cde0246c28021a60f4",
-      "url": "https://www.cbc.ca/sports/paralympics/para-hockey-attendance-record-milano-cortina-9.7119696?cmp=rss",
-      "title": "Roaring crowd of 8,992 sets Para hockey attendance record at U.S.-Italy game in Milan",
-      "published_at": "2026-03-08T09:31:47-04:00",
-      "section": "World",
-      "summary_auto": "The opening Para ice hockey match at the Milano-Cortina Winter Games set an attendance record for the sport at a major tournament.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "624c116390759960b3613a80cd17c9ee195a5c65",
-      "url": "https://www.cbc.ca/news/world/balendra-shah-nepal-gen-z-win-9.7119677?cmp=rss",
-      "title": "Former rapper and Gen Z's candidate poised to win Nepali election by landslide",
-      "published_at": "2026-03-08T09:08:18-04:00",
-      "section": "World",
-      "summary_auto": "In a resounding victory that is guaranteed to reshape Nepal's politics, rapper-turned-politician Balendra Shah appeared headed for a landslide win in the South Asian country's first polls since youth-led protests toppled the previous government last fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.827,
         "subjectivity_hint": "low"
       }
     }
