@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-10T08:45:00.340083-04:00",
+  "generated_at": "2026-03-10T10:42:47.033454-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e8694141fd67f4d31c05511314c967e011af9cfa",
+      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-10-9.7121953?cmp=rss",
+      "title": "Canada's Natalie Wilkie skis to 3rd medal of Milano Cortina, earning sprint classic bronze",
+      "published_at": "2026-03-10T05:27:56-04:00",
+      "section": "Canada",
+      "summary_auto": "Canadian Para nordic skiing star Natalie Wilkie has now won a medal of every colour at the Milano-Cortina Paralympics, adding bronze in the women's standing sprint classic on Tuesday in Val di Fiemme.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "19110593e97f48128087747f8c423d02eb984209",
+      "url": "https://www.cbc.ca/news/business/markets-oil-prices-tuesday-march-10-9.7121923?cmp=rss",
+      "title": "Markets steady, crude oil prices ease on Tuesday after volatile start to week",
+      "published_at": "2026-03-10T04:51:10-04:00",
+      "section": "Business",
+      "summary_auto": "Trading steadied early Tuesday and crude prices eased after wild swings this week with investors trying to figure out how long the war with Iran will continue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "33e214f6629b6a8f4150c47f9a124f1de83bee3a",
+      "url": "https://www.cbc.ca/news/canada/calgary/teacher-questionnaire-first-story-9.7103385?cmp=rss",
+      "title": "Strike aftermath leaves many Alberta teachers isolated, looking for new work",
+      "published_at": "2026-03-10T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "CBC News heard from 6,000 teachers and other educators across the province with a nuanced view of life in Alberta classrooms. Many worry a staffing crisis is on the horizon and express little hope for substantial change. There was a lot of anger — much of it directed at the government, some at union officials, and in a few cases, against school district leaders.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.885,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "4f08c4af6ad7df413e4d5f1da4ff261a2e8cff53",
       "url": "https://www.cbc.ca/news/world/haiti-drones-human-rights-watch-report-9.7121807?cmp=rss",
@@ -53,6 +92,19 @@
         "article_type": "News",
         "sentiment": -0.296,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4411b3724d7e92f7fb7888cbedb5efaf8a75ed71",
+      "url": "https://www.cbc.ca/news/canada/edmonton/hub-mall-shooting-federal-parole-bill-9.7121045?cmp=rss",
+      "title": "Parents of security guard killed in Edmonton robbery push for parole law changes",
+      "published_at": "2026-03-10T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The parents of an Edmonton security guard killed in an armed robbery in 2012 are pushing for legislative changes that would limit parole eligibility for their son’s killer and other convicted murderers in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.941,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -329,19 +381,6 @@
       }
     },
     {
-      "id": "97ef23bb6e7223fe76e93fafe6beb54067ab8ee5",
-      "url": "https://www.cbc.ca/sports/paralympics/the-buzzer-newsletter-march9-9.7121509?cmp=rss",
-      "title": "Canada is off to a strong start at the Paralympics",
-      "published_at": "2026-03-09T15:42:54-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC Sports' daily newsletter recaps the opening weekend of the Milan-Cortina Paralympic Winter Games and looks at the Canadians to watch on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "ecfb907de8366cf49829c6ba9148859bc5c0723e",
       "url": "https://www.cbc.ca/news/politics/drones-defence-research-bombardier-9.7121356?cmp=rss",
       "title": "Canada commits nearly $1B to drone and airborne defence research",
@@ -420,19 +459,6 @@
       }
     },
     {
-      "id": "c9c23c9a8939e8c0ace90f9d6ae8f767a994f6bb",
-      "url": "https://www.cbc.ca/news/politics/liberals-bloc-terrebonne-byelection-spending-9.7120991?cmp=rss",
-      "title": "Bloc leader laughs off running 'fake' byelection candidates outside of Quebec",
-      "published_at": "2026-03-09T11:55:38-04:00",
-      "section": "Canada",
-      "summary_auto": "Bloc Québécois Leader Yves-François Blanchet is laughing at the idea of fielding \"fake\" candidates in Toronto — even if it means ceding a financial advantage to the Liberals in a tight Montreal-area byelection.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "2782bd88d6688923b75e2053522aa29adddb8e20",
       "url": "https://www.cbc.ca/news/world/mamdani-protest-explosives-isis-arrests-9.7120956?cmp=rss",
       "title": "2 men accused of bringing explosives to weekend protest in New York inspired by ISIS: court complaint",
@@ -450,38 +476,12 @@
       "url": "https://www.cbc.ca/news/canada/calgary/fertilizer-impact-canadian-farmers-iran-9.7120124?cmp=rss",
       "title": "Not just oil: Fertilizer prices spike amid Iran war, worrying Canadian farmers",
       "published_at": "2026-03-09T10:50:04-04:00",
-      "section": "Canada",
+      "section": "Business",
       "summary_auto": "A prolonged global supply disruption could send food prices higher later this spring: analysts",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.832,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "96dfc7198b31ce346386267a4287a43fbaad0b4f",
-      "url": "https://www.cbc.ca/news/world/in-photos-satellite-images-of-damage-in-iran-gulf-nations-9.7117128?cmp=rss",
-      "title": "IN PHOTOS | Satellite images of damage in Iran, Gulf nations",
-      "published_at": "2026-03-09T10:30:00-04:00",
-      "section": "World",
-      "summary_auto": "Satellite images show the damage to naval bases, airports and other key facilities inside Iran since the U.S.-Israel attacks began Feb. 28, as well as damage from Iran's retaliatory strikes on Persian Gulf neighbours.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d4530571e0d3a39c211e7fcd398c925689614655",
-      "url": "https://www.cbc.ca/news/entertainment/rihanna-gunshots-home-arrest-9.7120926?cmp=rss",
-      "title": "Woman arrested following gunshots fired near Rihanna's L.A. home",
-      "published_at": "2026-03-09T10:11:22-04:00",
-      "section": "World",
-      "summary_auto": "No one was injured in the shooting. A 35-year-old woman was later taken into custody and the suspect has been booked on suspicion of attempted murder.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.964,
-        "subjectivity_hint": "low"
       }
     }
   ]
