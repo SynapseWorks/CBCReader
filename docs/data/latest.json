@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-10T10:42:47.033454-04:00",
+  "generated_at": "2026-03-10T14:39:08.672082-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7f40006c259e323c9a8259bc177433d0939d8611",
+      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-hate-comments-9.7122376?cmp=rss",
+      "title": "Heated Rivalry stars Hudson Williams and Francois Arnaud denounce hateful comments",
+      "published_at": "2026-03-10T09:58:22-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Actors Hudson Williams and Francois Arnaud posted matching statements to their Instagram accounts on Monday night, calling out hateful comments made by fans of the hit hockey romance show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7f40006c259e323c9a8259bc177433d0939d8611",
+      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-hate-comments-9.7122376?cmp=rss",
+      "title": "Canadian Heated Rivalry stars denounce hateful comments",
+      "published_at": "2026-03-10T09:58:22-04:00",
+      "section": "Canada",
+      "summary_auto": "Actors Hudson Williams and Francois Arnaud posted matching statements to their Instagram accounts on Monday night, calling out hateful comments made by fans of the hit hockey romance show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4fe3d53861f3164ecd74cef3c3b4e92b5b1d464",
+      "url": "https://www.cbc.ca/sports/basketball/wnba-players-union-negotiations-collective-agreement-9.7122585?cmp=rss",
+      "title": "WNBA, players' union to meet as deadline nears to start season on time: report",
+      "published_at": "2026-03-10T09:57:58-04:00",
+      "section": "World",
+      "summary_auto": "The WNBA and the players' union are set to meet Tuesday to continue discussions on reaching a new collective bargaining agreement as a deadline to get the season started on time is at hand, a person familiar with the negotiations told The Associated Press.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d2e4d807c2aa1a9e05be14c8a5ab99a717181093",
+      "url": "https://www.cbc.ca/sports/basketball/nba/gilgeous-alexander-record-match-chamberlain-20-point-streak-9.7122516?cmp=rss",
+      "title": "Hamilton's Shai Gilgeous-Alexander ties NBA 20-point streak record",
+      "published_at": "2026-03-10T09:29:46-04:00",
+      "section": "Canada",
+      "summary_auto": "On Monday night, Canada's Shai Gilgeous-Alexander matched Wilt Chamberlain's NBA record of 126 consecutive regular-season games of 20 or more points.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ceb843a18db0a741a870c0b001cc15b80132f149",
+      "url": "https://www.cbc.ca/news/world/tommy-demorizi-pleads-not-guilty-ryan-wedding-9.7122326?cmp=rss",
+      "title": "Montrealer charged in Ryan Wedding-linked murder plot pleads not guilty",
+      "published_at": "2026-03-10T08:43:41-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Montreal man charged in connection with a murder plot allegedly ordered by accused drug kingpin Ryan Wedding — and said to involve a Quebec hitman known as Tupac — has pleaded not guilty in a U.S. court.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.889,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "68b522eec6063d36437d6a88283fbf9ed631654e",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-family-war-medal-veteran-afghanistan-9.7122241?cmp=rss",
+      "title": "Ontario family reunited with war medal missing since veteran died in 2011",
+      "published_at": "2026-03-10T07:47:11-04:00",
+      "section": "Canada",
+      "summary_auto": "The family of Canadian soldier Stefan Jankowski has been reunited with a military medal that had been missing since the time of his death 2011. He’s from Windsor, Ont., and was a trooper with the Royal Canadian Dragoons, serving in Afghanistan, where he earned the medal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c99ccf125a7de7b312f13bb04db96edcb1cc46ad",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-separation-9.7121983?cmp=rss",
+      "title": "First Nations chiefs go to Alberta legislature, pressure province to end separation debate",
+      "published_at": "2026-03-10T05:58:08-04:00",
+      "section": "Canada",
+      "summary_auto": "More than a dozen First Nations chiefs and even more band councillors and elders were at Alberta's legislature Monday, calling on Premier Danielle Smith's government to stomp out the push for the province to quit Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "62211f0579a447a66609ea2b03befb51cb1c75c9",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-freezing-rain-9.7122020?cmp=rss",
+      "title": "Major freezing rain storm could affect large swath of Eastern Canada, Environment Canada warns",
+      "published_at": "2026-03-10T05:41:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Environment Canada is warning of a major freezing rain storm spanning parts of Ontario, Quebec and the Atlantic provinces, which the weather agency says could lead to power outages and dangerous road conditions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "87646b50805755816a03c342d80fd94c7d8dc9b5",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/tim-houston-budget-cuts-grant-funding-restored-9.7121998?cmp=rss",
+      "title": "'We got it wrong': N.S. government reverses course on some budget cuts after outcry",
+      "published_at": "2026-03-10T05:37:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Supports and programming for people with disabilities, seniors and African Nova Scotian and Indigenous students will be maintained, reversing the cuts that were previously announced.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "e8694141fd67f4d31c05511314c967e011af9cfa",
       "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-10-9.7121953?cmp=rss",
@@ -34,7 +151,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/teacher-questionnaire-first-story-9.7103385?cmp=rss",
       "title": "Strike aftermath leaves many Alberta teachers isolated, looking for new work",
       "published_at": "2026-03-10T04:00:00-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "CBC News heard from 6,000 teachers and other educators across the province with a nuanced view of life in Alberta classrooms. Many worry a staffing crisis is on the horizon and express little hope for substantial change. There was a lot of anger — much of it directed at the government, some at union officials, and in a few cases, against school district leaders.",
       "bias_heuristic": {
         "article_type": "News",
@@ -84,13 +201,26 @@
     {
       "id": "2f7a8db5944abadcfbf5b9eda37c74031f86b381",
       "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-say-us-consulate-struck-by-gunfire-9.7121843?cmp=rss",
-      "title": "U.S. consulate target of gunfire, no injuries reported: Toronto police",
+      "title": "Police release video of suspect vehicle fleeing 'national security incident' shooting at U.S. consulate in Toronto",
       "published_at": "2026-03-10T03:07:06-04:00",
-      "section": "Canada",
-      "summary_auto": "Police say officers responded to reports of gunfire directed at the U.S. consulate in downtown Toronto around 5:30 a.m. Tuesday.",
+      "section": "Top Stories",
+      "summary_auto": "Police say they are looking for two male suspects who reportedly stopped outside the consulate in a white vehicle around 4:30 a.m. and fired multiple rounds at the building. Though police have not provided a possible motive, it follows three separate shootings at synagogues in the Greater Toronto Area at a time of war in the Middle East.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f7a8db5944abadcfbf5b9eda37c74031f86b381",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-say-us-consulate-struck-by-gunfire-9.7121843?cmp=rss",
+      "title": "Police call shooting at U.S. consulate in Toronto 'national security incident,' seek 2 suspects",
+      "published_at": "2026-03-10T03:07:06-04:00",
+      "section": "Canada",
+      "summary_auto": "Police say they are looking for two male suspects who reportedly stopped outside the consulate in a white vehicle around 4:30 a.m. and fired multiple rounds at the building. Though police have not provided a possible motive, it follows three separate shootings at synagogues in the Greater Toronto Area at a time of war in the Middle East.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/hub-mall-shooting-federal-parole-bill-9.7121045?cmp=rss",
       "title": "Parents of security guard killed in Edmonton robbery push for parole law changes",
       "published_at": "2026-03-10T03:00:00-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "The parents of an Edmonton security guard killed in an armed robbery in 2012 are pushing for legislative changes that would limit parole eligibility for their son’s killer and other convicted murderers in Canada.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,19 +251,6 @@
       }
     },
     {
-      "id": "51ce32f23c2981fac9e088347eed3672403699b1",
-      "url": "https://www.cbc.ca/news/canada/windsor/nancy-grewal-sister-speaks-about-influencer-s-killing-9.7121317?cmp=rss",
-      "title": "Sister of Sikh influencer killed outside LaSalle, Ont., home says she was ‘kind-hearted’",
-      "published_at": "2026-03-10T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The family of Nancy Grewal — a personal support worker and Sikh social media influencer who was fatally stabbed outside a LaSalle, Ont., home — is remembering her as a kind-hearted and jovial woman.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "f9cb7059100eefaa2b348651bd211cf2149e2242",
       "url": "https://www.cbc.ca/news/canada/new-brunswick/allan-legere-miramichi-serial-killer-dead-9.7121793?cmp=rss",
       "title": "Notorious N.B. serial killer Allan Legere dead at 78",
@@ -147,15 +264,15 @@
       }
     },
     {
-      "id": "f9cb7059100eefaa2b348651bd211cf2149e2242",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/allan-legere-miramichi-serial-killer-dead-9.7121793?cmp=rss",
-      "title": "Notorious Miramichi serial killer Allan Legere dead at 78",
-      "published_at": "2026-03-10T01:56:05-04:00",
+      "id": "d2218b7736f10f227b265bcbfb0311931c8b1777",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/boat-named-the-getaway-but-the-thief-didn-t-9.7121609?cmp=rss",
+      "title": "The boat was named The Getaway, but the thief didn't",
+      "published_at": "2026-03-10T01:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Miramichi serial killer Allan Legere, who terrorized the Miramichi for seven months in 1989, has died at the age of 78.",
+      "summary_auto": "The Toronto man who drove from Alberta to the small coastal community of D'Escousse, N.S., where he stole a boat last fall, told court officials he was on the run from organized crime and was headed for Morocco to seek asylum.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.976,
+        "sentiment": -0.885,
         "subjectivity_hint": "low"
       }
     },
@@ -175,10 +292,10 @@
     {
       "id": "096d84ca64a323a8fe321b32d848c3b937e16654",
       "url": "https://www.cbc.ca/news/canada/myanmar-pearls-belpearl-9.7116544?cmp=rss",
-      "title": "This Canadian family fuelled Myanmar’s civil war with ‘blood pearls’",
+      "title": "This Canadian family fuelled Myanmar's civil war with 'blood pearls'",
       "published_at": "2026-03-10T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A company with Canadian directors funnelled valuable pearls to Myanmar’s brutal military regime long after the 2021 military coup that sparked a bloody civil war – despite sanctions imposed by Canada and its allies. A CBC investigation has determined the RCMP was asked to look at the activities of Belpearl almost two years ago by a human rights group, but authorities won’t say whether they have taken up the case.",
+      "summary_auto": "A company with Canadian directors funnelled valuable pearls to Myanmar’s brutal military regime long after the 2021 military coup that sparked a bloody civil war — despite sanctions imposed by Canada and its allies. A CBC News investigation has determined the RCMP was asked to look at the activities of Belpearl almost two years ago by a human rights group, but authorities won't say whether they have taken up the case.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.68,
@@ -191,10 +308,10 @@
       "title": "Canada restricts drug boat intel from U.S. navy's Caribbean airstrike operation",
       "published_at": "2026-03-10T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "HMCS Yellowknife has just ended its deployment in a U.S.-led anti-drug-smuggling mission in the Caribbean, where American airstrikes on suspected drug boats have killed over 150 people. Canadian officials say the Canadian Armed Forces and Canadian Coast Guard aren't involved in those strikes, and will ensure that intelligence about boats they detect and track is provided to the U.S. only on condition it not be shared with naval forces involved in lethal airstrikes in the region.",
+      "summary_auto": "HMCS Yellowknife has just ended its deployment in a U.S.-led anti-drug-smuggling mission in the Caribbean, where American airstrikes on suspected drug boats have killed over 150 people. Canadian officials say they will ensure that intelligence about boats they detect and track is provided to the U.S. only on condition it not be shared with naval forces involved in lethal airstrikes in the region.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.76,
+        "sentiment": -0.617,
         "subjectivity_hint": "low"
       }
     },
@@ -203,37 +320,11 @@
       "url": "https://www.cbc.ca/news/canada/montreal/caq-constitution-9.7121110?cmp=rss",
       "title": "Is Quebec’s controversial constitution for the province really going to happen?",
       "published_at": "2026-03-10T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The opposition Liberals – and hundreds of other groups – say the Coalition Avenir Québec’s consultation process on its plan for a Quebec constitution was a failure, and it’s time to scrap the law altogether.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f60eb2bdc2e1b8ae652a01b16c8549a2e67ff93",
-      "url": "https://www.cbc.ca/news/canada/montreal/byelection-terrebonne-liberal-9.7121566?cmp=rss",
-      "title": "How a byelection in Quebec could help the Liberals win a majority government",
-      "published_at": "2026-03-10T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Every vote counts in the Montreal-area federal riding of Terrebonne, and after the Supreme Court annulled the last results over a single uncounted ballot, it’s time for electors to head back to the polls on April 13 — potentially securing a majority for the Liberals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.908,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b32e681af13797e001e8c70890b7d1c698fe24e3",
-      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-fees-filing-complaints-9.7120802?cmp=rss",
-      "title": "Want to make a complaint about a councillor in Niagara Falls, Ont.? It will now cost you $1,000",
-      "published_at": "2026-03-10T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The cost to file a code of conduct complaint against elected officials in Niagara Falls has doubled, after councillors approved a motion for an increase.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -277,19 +368,6 @@
       }
     },
     {
-      "id": "0732bfdd410b3bf260eb557ee590d6263cead9ae",
-      "url": "https://www.cbc.ca/player/play/9.7121706?cmp=rss",
-      "title": "#TheMoment a Canadian Paralympian made an epic curling shot",
-      "published_at": "2026-03-09T18:08:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian wheelchair curler Jon Thurston tells The National about the moment he made an epic double rock takeout against Norway at the Milano-Cortina Paralympics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "25217211a5377cbe190726dd987fa581232c415f",
       "url": "https://www.cbc.ca/news/world/trump-iran-war-9.7121478?cmp=rss",
       "title": "Trump says war in Iran could be over soon, but U.S. hasn't 'won enough' yet",
@@ -307,7 +385,7 @@
       "url": "https://www.cbc.ca/news/canada/tiktok-canada-reach-deal-9.7121622?cmp=rss",
       "title": "TikTok allowed to keep business in Canada under new rules",
       "published_at": "2026-03-09T17:08:52-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "The federal government said on Monday that it will let TikTok continue to operate in Canada and allow an investment by the tech ‌platform to proceed, after a national security review reversed the conclusion of a previous one.",
       "bias_heuristic": {
         "article_type": "News",
@@ -342,42 +420,16 @@
       }
     },
     {
-      "id": "a411d53e41139a79fee0e6496034cfd0c98012bc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/openai-sued-tumbler-ridge-victim-9.7121635?cmp=rss",
-      "title": "Family of Tumbler Ridge shooting victim suing OpenAI",
-      "published_at": "2026-03-09T16:45:21-04:00",
-      "section": "Canada",
-      "summary_auto": "The mother of Maya Gebala, a 12-year-old who remains in hospital after the shooting on Feb. 10, alleges the tech company failed to alert authorities to prompts from the shooter related to violence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a8e0ffce620f017104919ac725d3a2fc1ec5c0dc",
       "url": "https://www.cbc.ca/news/canada/calgary/estrogen-patch-shortage-leaves-some-albertans-in-a-lurch-looking-for-alternatives-9.7120884?cmp=rss",
       "title": "Estrogen patch shortage leaves some Albertans in a lurch, looking for alternatives",
       "published_at": "2026-03-09T16:32:36-04:00",
-      "section": "Canada",
+      "section": "Health",
       "summary_auto": "The latest wave of an ongoing shortage of estrogen patches has some Alberta women scrambling to find new menopause treatments.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71ae78e6a9a73fb1629bcc441ca586fc71e20399",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/30-million-settlement-mount-cashel-six-lawyer-9.7121495?cmp=rss",
-      "title": "Lawyer defends $30M settlement offer for victims of 'Mount Cashel 6' at B.C. boys high schools",
-      "published_at": "2026-03-09T16:05:43-04:00",
-      "section": "Canada",
-      "summary_auto": "\"We can do some real good right now for survivors, and that's what's driving this settlement at this time,\" said Joe Fiorante, lawyer for the plaintiffs, in response to the settlement for students who suffered sexual, physical and psychological abuse.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -391,97 +443,6 @@
         "article_type": "News",
         "sentiment": 0.318,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7114c1d5f79cf644695a735f818f8ae3fd53838c",
-      "url": "https://www.cbc.ca/player/play/9.7121358?cmp=rss",
-      "title": "Is 'oil rain' really falling in Iran?  | About That",
-      "published_at": "2026-03-09T14:29:41-04:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang explains how burning oil from depots hit by U.S.-Israeli airstrikes is falling as black rain over parts of Iran, and the danger it poses. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.709,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03633129e63042800b84923d763d3f8083a57c70",
-      "url": "https://www.cbc.ca/radio/asithappens/uk-wife-carrying-race-9.6962119?cmp=rss",
-      "title": "What do you get when you win the U.K. Wife Carrying Race? Bragging rights and a barrel of ale",
-      "published_at": "2026-03-09T13:37:51-04:00",
-      "section": "World",
-      "summary_auto": "Teemu Touvinen sprinted over the hillside with his girlfriend Jatta Leinonen flung over his shoulder on Sunday, winning first place at the 2026 U.K. Wife Carrying Race in Dorking, England.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4eddda82de18e5039e558f4af030813cd4177656",
-      "url": "https://www.cbc.ca/player/play/9.7121288?cmp=rss",
-      "title": "More bees than we ever thought existed",
-      "published_at": "2026-03-09T13:20:11-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A new study reveals there are an estimated 26,000 unique bee species globally, a staggering jump from previous counts. This \"specialization explosion\" is the result of millions of years of bees co-evolving with specific flowers and microecosystems. CBC News’ Johanna Wagstaffe looks at how these bee discoveries are happening at a rate that currently outpaces our ability to name them all.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ff491ea8a6b78bcbe878b399f9974d5fb25507c9",
-      "url": "https://www.cbc.ca/news/canada/toronto/georgian-bay-fisherman-ice-rescue-9.7121205?cmp=rss",
-      "title": "'That ain't good': Ont. fisherman recounts harrowing helicopter rescue from drifting ice",
-      "published_at": "2026-03-09T13:13:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As Ontario fisherman Kevin Fox filmed himself running across the ice in Georgian Bay near Owen Sound, Ont., Sunday afternoon, he realized the severity of his situation as it became clear that he and several others could no longer get back to shore.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.317,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5e0f3bd30babea3895c4fcce4f676d96879684dd",
-      "url": "https://www.cbc.ca/player/play/9.7121170?cmp=rss",
-      "title": "Fact check: Does this video show Tehran or L.A. fires?",
-      "published_at": "2026-03-09T12:16:05-04:00",
-      "section": "World",
-      "summary_auto": "CBC's fact check team geolocated this video to Tehran, but Elon Musk's AI chatbot Grok is telling X users it's a manipulated video of Los Angeles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2782bd88d6688923b75e2053522aa29adddb8e20",
-      "url": "https://www.cbc.ca/news/world/mamdani-protest-explosives-isis-arrests-9.7120956?cmp=rss",
-      "title": "2 men accused of bringing explosives to weekend protest in New York inspired by ISIS: court complaint",
-      "published_at": "2026-03-09T11:05:00-04:00",
-      "section": "World",
-      "summary_auto": "Two men who brought explosives to a protest outside New York City's mayoral mansion said they were inspired by the Islamic State extremist group, a court complaint said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e348756a4df3b1f827e8973ecff58233be14f5be",
-      "url": "https://www.cbc.ca/news/canada/calgary/fertilizer-impact-canadian-farmers-iran-9.7120124?cmp=rss",
-      "title": "Not just oil: Fertilizer prices spike amid Iran war, worrying Canadian farmers",
-      "published_at": "2026-03-09T10:50:04-04:00",
-      "section": "Business",
-      "summary_auto": "A prolonged global supply disruption could send food prices higher later this spring: analysts",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "medium"
       }
     }
   ]
