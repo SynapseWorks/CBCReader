@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-11T08:44:12.835448-04:00",
+  "generated_at": "2026-03-11T10:41:23.099518-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "71dedfdd8a860e8148f87c4f71811bea5bfb2399",
+      "url": "https://www.cbc.ca/news/world/ukraine-war-russia-britain-missiles-9.7123656?cmp=rss",
+      "title": "Russia accuses Britain of helping Ukraine in missile strike that killed 6",
+      "published_at": "2026-03-11T05:44:04-04:00",
+      "section": "World",
+      "summary_auto": "The Kremlin on Wednesday accused British specialists of involvement in a deadly Ukrainian strike on the Russian city of ‌Bryansk that used British Storm Shadow missiles and said it would take Britain's role \"into account.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0afb8cd600bcd2337bc1c1a676596fc6876b0eb2",
+      "url": "https://www.cbc.ca/news/business/markets-trading-oil-wednesday-germany-9.7123658?cmp=rss",
+      "title": "Markets calm on Wednesday as Germany, Japan plan major release of oil reserves",
+      "published_at": "2026-03-11T04:59:39-04:00",
+      "section": "Business",
+      "summary_auto": "Wall Street pointed toward modest gains in pre-market trading Wednesday as energy prices stabilized somewhat on optimism that a major release of oil reserves was imminent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.841,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "140adae9f09ff885606be87ef74b39b992ba2516",
+      "url": "https://www.cbc.ca/sports/basketball/nba/bam-adebayo-miami-heat-83-points-9.7123637?cmp=rss",
+      "title": "Miami Heat's Bam Adebayo scores 83 points, 2nd only to Wilt Chamberlain's single-game NBA record",
+      "published_at": "2026-03-11T04:27:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Bam Adebayo had a night for all time on Tuesday, with a point total second to only Wilt Chamberlain in the NBA record books. Adebayo scored 83 points, setting league marks for free throws made and attempted in a game for the Miami Heat in a 150-129 win over the Washington Wizards.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.796,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "94adbe0d9d4d35f9fdb55162c6592d03eed138ba",
       "url": "https://www.cbc.ca/news/canada/windsor/united-states-new-vehicle-prices-soar-reason-9.7123621?cmp=rss",
@@ -17,11 +56,50 @@
       }
     },
     {
+      "id": "98855d70c81982fe0fd171b4da38ee6147a2fa31",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/royal-university-hospital-sha-doctor-patient-9.7122980?cmp=rss",
+      "title": "Sask. woman says boyfriend removed surgical screw poking out of her head after doctor didn't believe her",
+      "published_at": "2026-03-11T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Surgeons opened Stephanie Faure's skull 14 months ago to remove brain tumours, leaving her with a metal plate, screws and a scar. So when she could see a screw pushing out through her skin, she went to the hospital to get it safely removed, but says the doctor told her it was just a cyst.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dedcab1467c245bf5ef31a1caa9546ec6721a35f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/2-people-die-after-fatal-adverse-reactions-while-giving-plasma-in-winnipeg-health-canada-9.7122868?cmp=rss",
+      "title": "2 people die after giving plasma at for-profit Winnipeg collection centres: Health Canada",
+      "published_at": "2026-03-11T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News has learned two people — including a 22-year-old international student — died after giving plasma at Winnipeg collection centres that pay people for their donations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5abf88716d0016b251a38c170ea923162f43a3f3",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/second-round-of-polygraphs-conducted-in-disappearance-of-n-s-children-9.7120881?cmp=rss",
+      "title": "2nd round of polygraphs conducted in disappearance of N.S. children amid lack of answers",
+      "published_at": "2026-03-11T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nova Scotia RCMP have conducted a second round of polygraph examinations in the disappearance of Jack and Lilly Sullivan, with two of those tests focused on one of the only pieces of physical evidence in the case: a light pink blanket found hanging in a tree.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "5abf88716d0016b251a38c170ea923162f43a3f3",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/second-round-of-polygraphs-conducted-in-disappearance-of-n-s-children-9.7120881?cmp=rss",
       "title": "2nd round of polygraphs conducted in disappearance of N.S. children",
       "published_at": "2026-03-11T01:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Nova Scotia RCMP have conducted a second round of polygraph examinations in the disappearance of Jack and Lilly Sullivan, with two of those tests focused on one of the only pieces of physical evidence in the case: a light pink blanket found hanging in a tree.",
       "bias_heuristic": {
         "article_type": "News",
@@ -58,13 +136,13 @@
     {
       "id": "5e7abfad94af3d62d99ced724c6f279949a02083",
       "url": "https://www.cbc.ca/sports/paralympics/paralympics-earlier-weather-mild-9.7122076?cmp=rss",
-      "title": "Calls grow for Paralympics to be moved earlier as slushy conditions cause chaos",
+      "title": "'These games need to be held a month earlier,' says Paralympian competing in slush",
       "published_at": "2026-03-11T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "There are a few common refrains repeated in most of the news articles and athlete announcements about the 2026 Milano-Cortino Paralympic Games: challenging, extremely difficult and brutal conditions.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.882,
+        "sentiment": -0.762,
         "subjectivity_hint": "low"
       }
     },
@@ -117,6 +195,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.935,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e085d4bcf633ea8461ee9706e46963ac747dfcc8",
+      "url": "https://www.cbc.ca/news/world/trump-iran-war-end-timeline-declare-victory-9.7122742?cmp=rss",
+      "title": "How Trump's timeline for the war on Iran keeps shifting, and why that matters",
+      "published_at": "2026-03-11T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump and his secretary of war have given multiple and often contradictory descriptions of how long they expect the military operation against Iran to continue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fb0f063c5625c1a375560d9ae484a03ecf931f05",
+      "url": "https://www.cbc.ca/news/health/colorectal-cancer-screening-age-45-9.7123437?cmp=rss",
+      "title": "Younger Canadians are being diagnosed with colorectal cancers. Advocates want to lower the screening age",
+      "published_at": "2026-03-11T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "People as young as 45 should be invited to provincial and territorial programs to screen for colorectal cancer, says the Canadian Cancer Society. The call comes as emerging evidence suggests younger adults are increasingly being diagnosed with the disease before they may be eligible for screening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
         "subjectivity_hint": "medium"
       }
     },
@@ -177,24 +281,11 @@
       "url": "https://www.cbc.ca/news/entertainment/rihanna-shooting-woman-charged-attempted-murder-9.7123331?cmp=rss",
       "title": "Woman charged with attempted murder after weekend shooting at Rihanna's L.A. home",
       "published_at": "2026-03-10T16:44:20-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A Florida woman accused of firing gunshots at Rihanna's home in Los Angeles was charged Tuesday with one count of attempted murder and other felony offences, including 10 counts of assault on a person with a semi-automatic firearm.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.978,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5103c0014b104954c5f04b10e7cc143659b33dff",
-      "url": "https://www.cbc.ca/player/play/9.7123373?cmp=rss",
-      "title": "Freezing rain storm headed for Ont., Que., Atlantic provinces | Hanomansing Tonight",
-      "published_at": "2026-03-10T16:41:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A major storm is expected to sweep through parts of Eastern Canada, potentially causing power outages and dangerous road conditions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -208,19 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.901,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d1d1cae211a0b72ea57a38796a3aea912f6ac6b0",
-      "url": "https://www.cbc.ca/player/play/9.7122910?cmp=rss",
-      "title": "Mexico insists it’s safe for the World Cup — others see the shadows",
-      "published_at": "2026-03-10T15:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As Mexican officials project an image of safety and stability ahead of the FIFA World Cup this summer, others are urging visitors to take notice of the darker forces that make the country unsafe for its own citizens.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -346,63 +424,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/sean-orr-ken-sim-defamation-suit-vancouver-9.7122809?cmp=rss",
       "title": "Vancouver Coun. Sean Orr sues Mayor Ken Sim for defamation",
       "published_at": "2026-03-10T11:55:35-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Vancouver Coun. Sean Orr is suing Mayor Ken Sim for allegedly defamatory comments Sim made at an event for members of Chinese-language media in February.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9b553aedfdbce94605b3bf69d375ade3eba60afd",
-      "url": "https://www.cbc.ca/news/canada/in-photos-first-nations-leaders-unveil-items-repatriated-from-vatican-9.7122662?cmp=rss",
-      "title": "IN PHOTOS | First Nations leaders unveil items repatriated from Vatican",
-      "published_at": "2026-03-10T11:43:48-04:00",
-      "section": "Canada",
-      "summary_auto": "First Nations leaders unveiled five items repatriated to their communities after being at the Vatican for more than a century, during a ceremony at the Canadian Museum of History in Gatineau, Que., on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03909530395ac05d3191ef54c6236fda5474ec0f",
-      "url": "https://www.cbc.ca/news/politics/tariff-support-ontario-workers-9.7122769?cmp=rss",
-      "title": "Ottawa spending $229M to help tariff-hit Ontario workers obtain new skills",
-      "published_at": "2026-03-10T11:35:59-04:00",
-      "section": "Canada",
-      "summary_auto": "The federal government will spend $228.8 million over the next three years to help Ontario workers in industries hit hard by U.S. tariffs acquire new skills and adapt to the trade war disruption.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f40006c259e323c9a8259bc177433d0939d8611",
-      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-hate-comments-9.7122376?cmp=rss",
-      "title": "Heated Rivalry stars Hudson Williams and Francois Arnaud denounce hateful comments",
-      "published_at": "2026-03-10T09:58:22-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Actors Hudson Williams and Francois Arnaud posted matching statements to their Instagram accounts on Monday night, calling out hateful comments made by fans of the hit hockey romance show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b4fe3d53861f3164ecd74cef3c3b4e92b5b1d464",
-      "url": "https://www.cbc.ca/sports/basketball/wnba-players-union-negotiations-collective-agreement-9.7122585?cmp=rss",
-      "title": "WNBA, players' union to meet as deadline nears to start season on time: report",
-      "published_at": "2026-03-10T09:57:58-04:00",
-      "section": "World",
-      "summary_auto": "The WNBA and players union met for nearly 12 hours trying to get a new collective bargaining agreement deal done to start the upcoming season on time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
         "subjectivity_hint": "low"
       }
     }
