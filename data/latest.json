@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-12T08:43:55.374906-04:00",
+  "generated_at": "2026-03-12T10:43:35.559964-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3b1e0121d79509ea2f316b88ca18a2fb9e04f67d",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-trump-control-9.7125202?cmp=rss",
+      "title": "Can Trump's 'gunboat diplomacy' stop Iran from blocking the flow of oil? Not likely, say experts",
+      "published_at": "2026-03-12T06:26:00-04:00",
+      "section": "World",
+      "summary_auto": "The Strait of Hormuz is only 60 metres at its shallowest and 33 kilometres at its narrowest, with shipping lanes no more than two kilometres wide. Naval experts like Mark Norman, a retired vice-admiral of the Canadian navy, are skeptical the U.S. can re-establish shipping through the area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37e9f7cda86a730962ceed6f1daa84d1e6ebdd6b",
+      "url": "https://www.cbc.ca/news/world/ethiopia-south-deadly-landslides-9.7125359?cmp=rss",
+      "title": "Ethiopia landslides leave at least 50 dead, dozens missing",
+      "published_at": "2026-03-12T06:01:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "At least 50 people have died and 125 others are missing after landslides hit three districts in southern Ethiopia following a week of heavy rains, a local official said Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37246d74adcfc51b0d9fa537351e5b440a9150cc",
+      "url": "https://www.cbc.ca/news/canada/windsor/sarnia-legionnaires-change-ownership-winless-season-junior-hockey-9.7125411?cmp=rss",
+      "title": "What’s old is new again: Winless Canadian junior hockey team makes ownership change",
+      "published_at": "2026-03-12T05:17:11-04:00",
+      "section": "Canada",
+      "summary_auto": "The GOHL's Sarnia Legionnaires finished 0-50 for the 2025-2026 GOHL season, and immediately made a change at the top of the organization.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "fd4a4a9718d3c0d49b6780babf46de1e02d81049",
       "url": "https://www.cbc.ca/news/climate/avalanche-prediction-climate-change-danger-9.7124688?cmp=rss",
@@ -43,12 +82,25 @@
       }
     },
     {
+      "id": "97519c6199f04a8af82782aba79a56718be83a38",
+      "url": "https://www.cbc.ca/news/canada/calgary/classroom-complexity-teacher-voices-9.7099882?cmp=rss",
+      "title": "Translating, restraining kids, teaching multiple grades at once: Alberta teachers describe complex classrooms",
+      "published_at": "2026-03-12T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Data rarely tells the full story. So when CBC News emailed a questionnaire to tens of thousands of Alberta teachers this January, we invited them to share stories to illustrate what classroom complexity actually looks like for them. More than 4,000 teachers participated.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "8755bbcae418f56169b6b9197a113097da014aa4",
       "url": "https://www.cbc.ca/news/canada/windsor/st-clair-river-spill-oil-sarnia-9.7125317?cmp=rss",
       "title": "Oil spill in St. Clair River 'contained,' according to Suncor in Sarnia, Ont.",
       "published_at": "2026-03-12T02:47:48-04:00",
       "section": "Top Stories",
-      "summary_auto": "The refinery says it 'immediately deployed' equipment including booms and vacuum equipment.",
+      "summary_auto": "The Sarnia, Ont., refinery says it 'immediately deployed' equipment including booms and vacuum equipment.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -61,11 +113,24 @@
       "title": "Oil spill in St. Clair River 'contained,' according to Suncor in Sarnia",
       "published_at": "2026-03-12T02:47:48-04:00",
       "section": "Canada",
-      "summary_auto": "The refinery says it 'immediately deployed' equipment including booms and vacuum equipment.",
+      "summary_auto": "The Sarnia, Ont., refinery says it 'immediately deployed' equipment including booms and vacuum equipment.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cf3274abcb18254f54c3c279ac6a255beb350f96",
+      "url": "https://www.cbc.ca/news/canada/manitoba/minister-manitoba-plasma-ban-9.7125058?cmp=rss",
+      "title": "Manitoba Health Minister says banning paid plasma an option after 2 deaths",
+      "published_at": "2026-03-12T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Paid plasma could be banned in Manitoba, the province's health minister said after two fatal adverse reactions at Winnipeg collection centres were reported to Health Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -91,19 +156,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f63d838024e645a63058029dc38788648f1f3584",
-      "url": "https://www.cbc.ca/news/business/shipping-companies-strait-of-hormuz-9.7124842?cmp=rss",
-      "title": "How shipping companies are navigating danger in the Strait of Hormuz",
-      "published_at": "2026-03-12T01:57:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -147,6 +199,19 @@
       }
     },
     {
+      "id": "c952592ace9546847023eb404c9ac18ce6195d62",
+      "url": "https://www.cbc.ca/news/canada/montreal/rapper-k-naan-testify-sexual-assault-trial-9.7124661?cmp=rss",
+      "title": "Rapper K'naan to testify in his own defence in sexual assault trial in Quebec City",
+      "published_at": "2026-03-12T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rapper K'naan, whose real name is Keinan Abdi Warsame, is accused of sexually assaulting a woman in a Quebec City hotel room in 2010. The alleged victim maintained her version of events under cross-examination Wednesday that the performer assaulted her while she was sleeping.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b280116d4c07950e64648b3e97069f9bdef28492",
       "url": "https://www.cbc.ca/news/world/trump-castro-cuban-exiles-miami-regime-change-9.7124267?cmp=rss",
       "title": "In Miami, Cuban exiles hope to rebuild country as they await Trump's move on regime change",
@@ -169,19 +234,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.968,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de3094bc894fdae9bc9f36694300ad9a0a7539a0",
-      "url": "https://www.cbc.ca/news/canada/hamilton/bear-spray-hamilton-9.7124654?cmp=rss",
-      "title": "How are Hamilton children getting bear spray? Amid more crimes, police are taking action",
-      "published_at": "2026-03-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Over the last several years, the number of Hamilton youth using bear spray in assaults and robberies has been rising, police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
         "subjectivity_hint": "low"
       }
     },
@@ -221,6 +273,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.914,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f63d838024e645a63058029dc38788648f1f3584",
+      "url": "https://www.cbc.ca/news/business/shipping-companies-strait-of-hormuz-9.7124842?cmp=rss",
+      "title": "How shipping companies are navigating danger in the Strait of Hormuz",
+      "published_at": "2026-03-12T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "As the Mideast conflict escalates near the Strait of Hormuz, merchant ships and their workers have been caught in the crosshairs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -290,6 +355,19 @@
       }
     },
     {
+      "id": "83bb0018fe3d9a3bfd0eae63a6e707cc00210eb6",
+      "url": "https://www.cbc.ca/radio/thecurrent/jowita-bydlowska-new-book-9.7122811?cmp=rss",
+      "title": "Drunk Mom author became the 'poster girl for sobriety' — but struggled secretly with relapse",
+      "published_at": "2026-03-11T15:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Toronto author Jowita Bydlowska had told the world how she got sober in her 2013 bestselling memoir Drunk Mom. What she didn’t expect was having to write about relapsing over a decade later.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "193ead9f2259c7f27870d5458d5467486d8e4bfd",
       "url": "https://www.cbc.ca/sports/baseball/cal-quantrill-canada-cuba-recap-world-baseball-classic-2026-9.7124873?cmp=rss",
       "title": "Canada advances to World Baseball Classic playoff round for the first time",
@@ -307,7 +385,7 @@
       "url": "https://www.cbc.ca/news/world/iran-school-strike-preliminary-investigation-9.7124641?cmp=rss",
       "title": "U.S. must admit responsibility for deadly airstrike on Iranian school if at fault, says Republican",
       "published_at": "2026-03-11T14:22:11-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A Republican senator says the U.S. must not pretend Iran school strike didn't happen, and admit to the mistake if in fact the U.S. military was responsible for the attack.",
       "bias_heuristic": {
         "article_type": "News",
@@ -342,19 +420,6 @@
       }
     },
     {
-      "id": "b79eda97180f6986a90b763371253668003bca9f",
-      "url": "https://www.cbc.ca/player/play/9.7124646?cmp=rss",
-      "title": "Gas prices in Canada soar as U.S.-Israel war with Iran spreads",
-      "published_at": "2026-03-11T12:28:34-04:00",
-      "section": "Canada",
-      "summary_auto": "We know one of the impacts of the U.S.-Israel war in Iran is spiking the price of oil — but why did filling up our gas tanks get so costly, so fast?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "627435015256efe92ed8f4a022df4728e27b06dc",
       "url": "https://www.cbc.ca/news/canada/london/yellow-fentanyl-overdoses-9.7124575?cmp=rss",
       "title": "Wave of overdoses in London, Ont., after police say driver may be giving out toxic drugs for free",
@@ -381,28 +446,28 @@
       }
     },
     {
-      "id": "18b7fe6a20691282dd9a64ae7a9e1c919e5a4964",
-      "url": "https://www.cbc.ca/news/business/air-transat-charging-more-flights-europe-9.7124548?cmp=rss",
-      "title": "Air Transat charging more for flights to Europe as jet fuel prices weigh on airlines",
-      "published_at": "2026-03-11T11:32:16-04:00",
-      "section": "World",
-      "summary_auto": "Air Transat is charging more for flights to Europe as the soaring cost of jet fuel — triggered by an oil crisis that has emerged from the war in the Middle East — weighs on Canadian and international airlines.",
+      "id": "627435015256efe92ed8f4a022df4728e27b06dc",
+      "url": "https://www.cbc.ca/news/canada/london/yellow-fentanyl-overdoses-9.7124575?cmp=rss",
+      "title": "Wave of overdoses in London after police say driver may be giving out toxic drugs for free",
+      "published_at": "2026-03-11T11:37:00-04:00",
+      "section": "Health",
+      "summary_auto": "London police are looking for a person driving around the city's downtown who was allegedly handing out drugs to people who subsequently overdosed after consuming them.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "low"
+        "sentiment": 0.691,
+        "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "97167299346ca7ba36eef0344c89a8585990111b",
-      "url": "https://www.cbc.ca/player/play/9.7124232?cmp=rss",
-      "title": "Do new restrictions on TikTok do enough to protect Canadians' data?",
-      "published_at": "2026-03-11T11:22:28-04:00",
-      "section": "Canada",
-      "summary_auto": "TikTok can keep existing in Canada, with new measures to protect Canadians’ data. But will the measures be effective?",
+      "id": "18b7fe6a20691282dd9a64ae7a9e1c919e5a4964",
+      "url": "https://www.cbc.ca/news/business/air-transat-charging-more-flights-europe-9.7124548?cmp=rss",
+      "title": "Air Transat, Air Canada adjusting ticket prices as jet fuel costs weigh on airlines",
+      "published_at": "2026-03-11T11:32:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Air Transat is charging more for flights to Europe and Air Canada is adjusting prices as the soaring cost of jet fuel — triggered by an oil crisis that has emerged from the war in the Middle East — weighs on Canadian and international carriers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.797,
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -417,45 +482,6 @@
         "article_type": "News",
         "sentiment": -0.878,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fe8c7d9744650d7ee42872b0232bf358b155c322",
-      "url": "https://www.cbc.ca/player/play/9.7124491?cmp=rss",
-      "title": "Why would a desalination plant be a military target? | About That",
-      "published_at": "2026-03-11T10:43:19-04:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang explains how the war in the Middle East is threatening critical freshwater infrastructure in the region. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9671873d3150b44eab7ff85d6dc39c9253ecf5d9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/prison-librarians-eliminated-correctional-service-canada-9.7123335?cmp=rss",
-      "title": "Cuts to prison libraries at federal institutions violates human rights: advocates",
-      "published_at": "2026-03-11T09:17:08-04:00",
-      "section": "Canada",
-      "summary_auto": "The Correctional Service of Canada is finalizing plans to cut all prison librarian positions at federal institutions, in a move that advocates say violates human rights and will actively harm efforts to rehabilitate prisoners.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.968,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "098b04f2297696e8dae235427c66a6371145a15f",
-      "url": "https://www.cbc.ca/news/world/sudan-white-nile-school-strike-rsf-blamed-9.7124191?cmp=rss",
-      "title": "At least 17 killed after drone strikes school in Sudan",
-      "published_at": "2026-03-11T08:58:37-04:00",
-      "section": "World",
-      "summary_auto": "An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health-care centre in southern Sudan Wednesday, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "low"
       }
     }
   ]
