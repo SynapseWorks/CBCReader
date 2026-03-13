@@ -1,18 +1,83 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-13T08:42:59.929132-04:00",
+  "generated_at": "2026-03-13T10:38:32.726843-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8566c8cb860c91cf0b8245ca564ecd15cce095b0",
+      "url": "https://www.cbc.ca/news/canada/windsor/michigan-synagogue-attack-lost-family-members-israeli-airstrike-9.7127297?cmp=rss",
+      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
+      "published_at": "2026-03-13T06:12:13-04:00",
+      "section": "World",
+      "summary_auto": "A man with a rifle who crashed into a large Michigan synagogue in what federal officials are saying was an attack had lost four family members in an Israeli airstrike in his native Lebanon last week, an official said Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "121fd53810f0a7b3d39b5d461c3b53d74d1f31f1",
+      "url": "https://www.cbc.ca/news/entertainment/academy-award-predictions-2026-9.7126185?cmp=rss",
+      "title": "Oscars 2026: Who might win, who should win — and what to know ahead of your viewing party",
+      "published_at": "2026-03-13T05:06:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.883,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "be1c93cf5bb860afc5ad5cb7bb47170712dca041",
+      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-israel-war-beirut-9.7022028?cmp=rss",
+      "title": "As war between Israel and Hezbollah escalates, life in Lebanon poised to get 'uglier day by day'",
+      "published_at": "2026-03-13T04:56:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "506b7772858d0d5072fea5641f162cb7daea1ae5",
       "url": "https://www.cbc.ca/news/business/canada-labour-force-survey-february-2026-9.7127105?cmp=rss",
       "title": "Canada's economy lost 84,000 jobs in February, unemployment rate ticked up to 6.7%",
       "published_at": "2026-03-13T04:39:28-04:00",
-      "section": "Business",
-      "summary_auto": "Canada's economy lost 84,000 jobs in February, while the unemployment rate edged up to 6.7 per cent, Statistics Canada said on Friday.",
+      "section": "Top Stories",
+      "summary_auto": "Canada's economy lost 84,000 jobs in February while the unemployment rate edged up to 6.7 per cent, Statistics Canada said on Friday,  a setback for the labour market and one of the worst monthly job losses seen in years outside of the pandemic.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.904,
+        "sentiment": -0.958,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd3b7fe622e7a16a63a76e45366067a4fb32586b",
+      "url": "https://www.cbc.ca/news/world/iran-tehran-strikes-israel-united-states-strait-of-hormuz-9.7127055?cmp=rss",
+      "title": "Blast rocks Tehran amid latest wave of U.S. and Israeli airstrikes",
+      "published_at": "2026-03-13T04:32:37-04:00",
+      "section": "World",
+      "summary_auto": "As American and Israeli strikes pound Iran — while it attacks shipping and energy infrastructure across the Persian Gulf — U.S. President Donald Trump made a new threat to Tehran's leaders.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a42986e44b966ccf6e231b395fc90a8a3627d0fd",
+      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-13-9.7127009?cmp=rss",
+      "title": "Canada advances to wheelchair curling final with stunning final-end comeback over South Korea",
+      "published_at": "2026-03-13T03:49:34-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's wheelchair curling team advanced to the gold-medal game at the Milano-Cortina Paralympics after engineering a final-end comeback against South Korea for an 8-7 win on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.813,
         "subjectivity_hint": "low"
       }
     },
@@ -69,6 +134,19 @@
       }
     },
     {
+      "id": "4b91c59213065b21946526e519e1430ec99466c6",
+      "url": "https://www.cbc.ca/radio/frontburner/who-are-iran-s-revolutionary-guards-9.7124070?cmp=rss",
+      "title": "Who are Iran's Revolutionary Guards?",
+      "published_at": "2026-03-13T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An explainer and history of Iran’s Islamic Revolutionary Guard Corps – the powerful paramilitary force that retains control over much of the country despite the ongoing war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.714,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "10e6bea00b76a3ebd6b634c053dfec3ddf458644",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/dartmouth-doctor-ring-rescue-medical-drama-the-pitt-hbo-9.7126246?cmp=rss",
       "title": "N.S. doctor's invention featured in an episode of The Pitt, HBO's hit medical drama",
@@ -87,6 +165,19 @@
       "title": "Nova Scotia doctor's invention featured in hit medical drama The Pitt",
       "published_at": "2026-03-13T01:00:00-04:00",
       "section": "Canada",
+      "summary_auto": "The Ring Rescue appeared in the latest episode of the HBO series after one of the device's inventors, Dr. Kevin Spencer, met the show's lead actor, Noah Wyle, and producers at a medical trade show last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "10e6bea00b76a3ebd6b634c053dfec3ddf458644",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/dartmouth-doctor-ring-rescue-medical-drama-the-pitt-hbo-9.7126246?cmp=rss",
+      "title": "Dartmouth doctor’s invention featured in hit medical drama The Pitt",
+      "published_at": "2026-03-13T01:00:00-04:00",
+      "section": "Health",
       "summary_auto": "The Ring Rescue appeared in the latest episode of the HBO series after one of the device's inventors, Dr. Kevin Spencer, met the show's lead actor, Noah Wyle, and producers at a medical trade show last year.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,24 +264,11 @@
       }
     },
     {
-      "id": "ac6d6c9e0bddf88a16f860506d407531f9354509",
-      "url": "https://www.cbc.ca/news/world/ufc-fighters-fbi-quantico-9.7126934?cmp=rss",
-      "title": "Kash Patel touts 'tremendous opportunity' for FBI agents to train with UFC fighters",
-      "published_at": "2026-03-12T18:45:04-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Interim lightweight champion Justin Gaethje will be among several UFC fighters who will demonstrate their training techniques to academy students and FBI staff at the FBI Special Agent Academy in Quantico, Virginia, on Saturday and Sunday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "eea7ff1c7d006d1b1a62ffce68a6355f887b38dc",
       "url": "https://www.cbc.ca/news/canada/david-poon-28-new-charges-9.7126847?cmp=rss",
       "title": "Suspended doctor faces 28 new sex-crime charges, including sexual touching of minors",
       "published_at": "2026-03-12T18:01:11-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Suspended physician David Edward-Ooi Poon has been charged with 28 more sex crimes this week, for a total of 71 alleged offences. Toronto police now accuse the doctor and public health expert with three counts of sexual interference with minors and seven additional counts of sexual assault.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,51 +281,12 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/er-death-grey-nuns-hospital-review-alberta-9.7126730?cmp=rss",
       "title": "Alberta hospitals must admit patients to prevent ER backlogs, says review into Edmonton man's death",
       "published_at": "2026-03-12T17:03:48-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "To help prevent a backlog of patients in emergency rooms, Alberta hospitals should not cap the number of patients who can be admitted to wards, says a review completed in the wake of a 44-year-old Edmonton man’s death in an ER.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.759,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e4537e221ffecf27e9c60b6c71f34c4a890155da",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/belize-man-dead-vancouver-9.7126876?cmp=rss",
-      "title": "Man found dead in boat off Belize coast identified as Canadian from Vancouver",
-      "published_at": "2026-03-12T17:00:04-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Francis Usher, the CEO of the Ministry of National Defence in Belize, said police are treating the boat as a potential crime scene, because \"apparent wounds\" were found on the body, which was in a state of decomposition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "323930ff6006da03c52786a5359c5573851dcbbc",
-      "url": "https://www.cbc.ca/player/play/9.7126804?cmp=rss",
-      "title": "At Issue | Why are so many MPs crossing to Carney’s team?",
-      "published_at": "2026-03-12T16:43:38-04:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: A fourth member of parliament ditches their party to join Mark Carney’s Liberals. The Conservatives push the government to step up deportations of Iranian Revolutionary Guard members. And Pierre Poilievre takes his speaking tour to the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be1c93cf5bb860afc5ad5cb7bb47170712dca041",
-      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-israel-war-beirut-9.7022028?cmp=rss",
-      "title": "As war between Israel and Hezbollah escalates, life in Lebanon poised to get 'uglier day by day'",
-      "published_at": "2026-03-12T16:26:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Almost two weeks into the U.S.-Israeli war against Iran, the conflict in Lebanon is quickly escalating and expanding into more regions of the country. It began after the Iranian-backed militant group Hezbollah fired rockets into Israel, pulling Lebanon back into a major conflict with Israel.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.955,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -359,7 +398,7 @@
       "url": "https://www.cbc.ca/news/entertainment/academy-award-predictions-2026-9.7126185?cmp=rss",
       "title": "Sinners or OBAA? Predicting the most unpredictable Oscars in years",
       "published_at": "2026-03-12T12:26:29-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "The results of the 2026 Academy Awards feel harder to guess than any ceremony in living memory. To help you prepare for what is sure to be a nail-biting, shocker of a night, we've broken down the biggest categories — and the razor's-edge battles taking place in them.",
       "bias_heuristic": {
         "article_type": "News",
@@ -416,58 +455,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ea8097d54b3f15d936bccb10069df4d5a1e2b8ae",
-      "url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss",
-      "title": "Former rapper's political party sweeps Nepal election",
-      "published_at": "2026-03-12T10:31:39-04:00",
-      "section": "World",
-      "summary_auto": "A political party created just four years ago and led by an ex-rapper has swept Nepal's parliamentary poll, results published by the electoral commission on Thursday showed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0cd906f173dafc54d572017170ccc782df9816e4",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-climate-capacity-9.7125346?cmp=rss",
-      "title": "A better way to measure individual climate action",
-      "published_at": "2026-03-12T10:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In this issue of our environmental newsletter, we look at a new way to measure and manage your climate impact; find out why scientists are concerned about a plan to launch a million satellites; and check out how a B.C. First Nation is using solar energy, while encouraging renewables in other Indigenous communities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.813,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "99f3f133248ca45616616dc14d41fadfaa43404f",
-      "url": "https://www.cbc.ca/news/world/detroit-synagogue-active-shooter-9.7126056?cmp=rss",
-      "title": "FBI investigating Detroit-area synagogue attack as 'targeted act of violence against the Jewish community'",
-      "published_at": "2026-03-12T09:46:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The armed man who rammed his vehicle into one of the largest Reform synagogues in the U.S. Thursday has been identified as a 41-year-old naturalized citizen born in Lebanon, according to federal officials.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d263232ec6dbe353d550a2b8c6a38a5f57c3e72d",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-daily-bread-rice-shipment-iran-war-9.7125978?cmp=rss",
-      "title": "Rice shipment heading for Toronto food banks struck near Iran, CEO says",
-      "published_at": "2026-03-12T09:14:44-04:00",
-      "section": "Canada",
-      "summary_auto": "Effects of the Mideast conflict are now reverberating in Toronto after a shipment of rice meant for the city's Daily Bread Food Bank was struck Wednesday in the Strait of Hormuz near Iran, the food bank's CEO says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
         "subjectivity_hint": "low"
       }
     }
