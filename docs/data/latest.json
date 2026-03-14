@@ -1,14 +1,79 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-14T10:21:49.668622-04:00",
+  "generated_at": "2026-03-14T14:29:24.865952-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "eb0d81b9ef9719bd8e320c604949934cbd2bc326",
+      "url": "https://www.cbc.ca/news/world/russian-strike-kyiv-energy-infrastructure-9.7128990?cmp=rss",
+      "title": "Russian strike on Kyiv region kills 4, wounds 15",
+      "published_at": "2026-03-14T10:13:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A combined Russian missile and drone attack on the Kyiv region killed at least four people and wounded 15, a Ukrainian official said Saturday, after the United States postponed Russia-Ukraine talks due to the war with Iran. Ukrainian President Volodymyr Zelenskyy said the main target of the strikes was energy infrastructure.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.942,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3902abf29072183babf03a4115a9b1995660e9b0",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-al-quds-decision-9.7128964?cmp=rss",
+      "title": "Ontario justice allows Al-Quds Day rally to continue after Ford injunction attempt fails",
+      "published_at": "2026-03-14T10:07:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ontario Superior Court justice has ruled that the Al-Quds Day rally in Toronto may continue as planned Saturday afternoon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.818,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "79b3e370c4d06bd1d16f03e7e45449e021df40a0",
+      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-canada-china-wheelchair-curling-final-9.7128916?cmp=rss",
+      "title": "Canada's wheelchair curling team completes perfect Paralympic campaign, claiming 1st gold since 2014",
+      "published_at": "2026-03-14T08:33:22-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's wheelchair curling team won its fourth Paralympic title and first since Sochi 2014 on Saturday with a 4-3 victory over defending champion China at the Milano-Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a9552d8224621eab5d5f0ad04c299b79192afc1a",
+      "url": "https://www.cbc.ca/news/politics/federal-government-athletes-canada-sports-carney-9.7128907?cmp=rss",
+      "title": "Federal government planning to revamp funding for Canadian athletes, says Carney",
+      "published_at": "2026-03-14T07:49:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney says Ottawa is planning to revamp its funding for Canadian athletes and will examine the issue \"very deliberately\" over the next six months — news that comes just before a federal commission on the future of Canadian sport releases its final report.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "706a64d51d47ef182ecaabc6cb0f302defc10e7e",
+      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-14-9.7128820?cmp=rss",
+      "title": "Gosselin bolts to women's slalom bronze, capturing Canada's 200th all-time Winter Paralympics medal",
+      "published_at": "2026-03-14T05:22:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Michaela Gosselin placed third in the women's slalom standing category on Day 8 of the Milano-Cortina Paralympics on Saturday. The 25-year-old from Collingwood, Ont.,  posted a total time of one minute, 29.19 seconds to secure her first Paralympic podium.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "74449cd94b96ccec6f80c80390b6b2c43c93a1fc",
       "url": "https://www.cbc.ca/news/health/so-peanut-allergy-leap-9.7125919?cmp=rss",
       "title": "Why the medical advice on peanut allergies flipped in a generation",
       "published_at": "2026-03-14T04:52:42-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "The advice on how to prevent peanut allergy in babies did a U-turn. Here's the scientific basis and practical tips for parents to apply the advice.",
       "bias_heuristic": {
         "article_type": "News",
@@ -43,16 +108,55 @@
       }
     },
     {
+      "id": "944772e43f33ea08f67c5ccadc93497e0600e196",
+      "url": "https://www.cbc.ca/news/canada/calgary/atco-blames-alberta-power-policies-as-it-devalues-wind-and-solar-projects-by-408m-9.7128473?cmp=rss",
+      "title": "Alberta power policies trigger $408M devaluation to ATCO's wind and solar division, company says",
+      "published_at": "2026-03-14T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Calgary-based giant warned of \"legal recourse\" if province doesn't alter reforms that harm renewable projects.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4bb464e6b526098d08eb7532fd147f92d4833e4",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/proposed-mermaid-statue-in-lockeport-too-tall-a-tale-for-some-locals-9.7120577?cmp=rss",
+      "title": "Proposed mermaid statue in Lockeport, N.S., too tall a tale for some locals",
+      "published_at": "2026-03-14T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The chair of the town's heritage and tourism committee says the statue would \"help put Lockeport on the map.\" But some residents say any new statue should be based on the town's heritage, not a mythical creature.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.214,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "1c4645d0ab6014fc0ceca7de995fd7941816d03c",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/brad-gushue-legacy-9.7122046?cmp=rss",
       "title": "Is Brad Gushue the GOAT? Here's how curlers see his legacy",
       "published_at": "2026-03-14T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Brad Gushue will go down as one of the most decorated curlers in the history of the game. His peers say he'll be remembered for elevating the sport with his tenacious work ethic.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b65dca4877f9dbf485b662560cccb257c355f15e",
+      "url": "https://www.cbc.ca/news/world/monarch-butterfly-mexico-migration-tracking-smartphone-9.7126224?cmp=rss",
+      "title": "How your smartphone could help unlock the mystery of the monarch butterfly's migration from Mexico",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A total of 160 monarchs across Mexico’s six butterfly sanctuaries have been tagged with new transmitters that will provide the most detailed look to date at the first leg of the the insects' migration back north.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -79,6 +183,19 @@
         "article_type": "News",
         "sentiment": 0.859,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fc6b6ef2d888448f57eb6c5ec141ada6ad53e6b5",
+      "url": "https://www.cbc.ca/news/politics/parks-canada-deer-grosse-ile-9.7127828?cmp=rss",
+      "title": "Parks Canada planning to cull dozens of deer on historic Quebec island",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Parks Canada is proposing to kill dozens of white-tailed deer at a storied historic site near Quebec City, saying the deer population on the island presents a threat to rare plants and the safety of employees flying in. However, an animal-rights advocate is calling for the agency to use non-lethal solutions to deal with the deer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -121,68 +238,16 @@
       }
     },
     {
-      "id": "b65dca4877f9dbf485b662560cccb257c355f15e",
-      "url": "https://www.cbc.ca/news/world/monarch-butterfly-mexico-migration-tracking-smartphone-9.7126224?cmp=rss",
-      "title": "How your smartphone could help unlock the mystery of the monarch butterfly's migration from Mexico",
-      "published_at": "2026-03-14T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A total of 160 monarchs across Mexico’s six butterfly sanctuaries have been tagged with new transmitters that will provide the most detailed look to date at the first leg of the the insects' migration back north.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "173acace82354ef2c96c664fb52deaf6ea59d5a9",
-      "url": "https://www.cbc.ca/sports/baseball/canada-usa-world-baseball-classic-2026-march-13-9.7128534?cmp=rss",
-      "title": "U.S. beats Canada for spot in World Baseball Classic semifinals",
-      "published_at": "2026-03-13T19:26:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Aaron Judge doubled and Pete Crow-Armstrong and Brice Turang each had two hits as the United States beat Canada 5-3 on Friday night in Houston to reach the World Baseball Classic semifinals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c9e00ccc08e94c5cea23821292ebcd9b5d64a498",
-      "url": "https://www.cbc.ca/news/politics/don-cherry-order-canada-conservatives-quebec-9.7128629?cmp=rss",
-      "title": "Quebec Conservatives sour on Don Cherry nomination as party pushes Order of Canada petition",
-      "published_at": "2026-03-13T17:52:48-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Opposition is mounting among Quebec's federal Conservatives to their own party's push to award the Order of Canada to controversial hockey commentator Don Cherry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "55b6a335f6e5d1b4d2df81b1ed4c853e38bdbd46",
       "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-new-trade-deal-potatoes-mexican-market-9.7127334?cmp=rss",
       "title": "Canadian potatoes may soon be headed to Mexico thanks to new trade deal",
       "published_at": "2026-03-13T16:09:32-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Canadian Food Inspection Agency has come to an agreement with its Mexican counterpart that will allow fresh Canadian potatoes to be shipped to Mexico for consumption or processing.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.852,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8a47c158ab2cbadcbf254d69d4b96f9d1fc9d536",
-      "url": "https://www.cbc.ca/news/politics/temporary-foreign-workers-rural-employers-9.7128274?cmp=rss",
-      "title": "Ottawa to allow rural employers to increase proportion of temporary foreign workers",
-      "published_at": "2026-03-13T15:47:31-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ottawa will allow rural employers to have a greater proportion of low-wage temporary foreign workers on their payroll on a time-limited basis, as part of new measures the federal government announced on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -196,110 +261,6 @@
         "article_type": "News",
         "sentiment": 0.477,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b1758d545a850c5f6855172906328a9d8c2759a",
-      "url": "https://www.cbc.ca/sports/paralympics/the-buzzer-newsletter-march13-9.7128227?cmp=rss",
-      "title": "Paralympic viewing guide: Canadians go for gold on the final weekend",
-      "published_at": "2026-03-13T13:20:15-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC Sports' daily newsletter previews the last two days of the Winter Paralympic Games in northern Italy, where Canada has gold-medal chances in Para hockey, wheelchair curling and skiing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6a828b748cb2734eab1b90ddb4145bdf47f557b5",
-      "url": "https://www.cbc.ca/news/canada/calgary/kane-burrows-drunk-driver-crash-killed-friend-guilty-plea-9.7128043?cmp=rss",
-      "title": "Drunk driver pleads guilty, admits he stole mom’s BMWs, killed friend, hurled slurs at first responders",
-      "published_at": "2026-03-13T12:54:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Over an eight-month period Kane Burrows, 19, stole two BMWs from his mother, drove drunk, crashed twice, killed a friend and hurled slurs at first responders who tried to help him, a Calgary judge heard during the offender’s guilty plea Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.844,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f2992ec1d9611e5f383aeb366b6be490dcaa551f",
-      "url": "https://www.cbc.ca/news/canada/manitoba/plasma-deaths-winnipeg-quebec-9.7128122?cmp=rss",
-      "title": "4 people died after giving plasma in the last decade, 3 of them in Manitoba: Health Canada",
-      "published_at": "2026-03-13T12:46:08-04:00",
-      "section": "Canada",
-      "summary_auto": "Four people in the last decade have died in Canada after giving plasma, and three of those deaths happened in Manitoba, Health Canada says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22cc9d626a098a893391663e1114a57496a808d9",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-drug-consumption-sites-toronto-9.7128193?cmp=rss",
-      "title": "Ontario to end funding to multiple drug consumption sites, forcing them to close",
-      "published_at": "2026-03-13T12:44:06-04:00",
-      "section": "Health",
-      "summary_auto": "The Ontario government says it will end funding to at least three provincially funded drug consumption sites in the province, including two in Toronto, in a move that is drawing concern from advocates.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7e614ac9d3383815a99093719a724c3c21417f20",
-      "url": "https://www.cbc.ca/news/business/hyundai-palisade-sales-stop-recall-canada-us-9.7128056?cmp=rss",
-      "title": "Hyundai recalls thousands of 2026 Palisade SUVs, halts some sales after death of toddler in Ohio",
-      "published_at": "2026-03-13T12:34:35-04:00",
-      "section": "Business",
-      "summary_auto": "Hyundai Motor Company said it is stopping sales of some new Palisade SUVs in ‌Canada and the United States and will recall tens of thousands of the vehicles over an issue with power seats, following a recent incident in which a two-year-old girl was killed in Ohio.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "974b3e7a5bf25d15f36751d25978aa78f046960e",
-      "url": "https://www.cbc.ca/news/canada/toronto/ford-al-quds-day-injunction-toronto-9.7128008?cmp=rss",
-      "title": "Al-Quds Day rally to proceed in Toronto despite call by premier for injunction, lawyer says",
-      "published_at": "2026-03-13T11:35:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An Al-Quds Day rally will proceed in Toronto on Saturday despite a comment by Ontario Premier Ford that he has instructed his attorney general to seek an injunction against it, according a lawyer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c88defce5c7ca6a08f2c8cd2890735efa1dd3063",
-      "url": "https://www.cbc.ca/news/canada/calgary/banff-lakes-restrictions-9.7127677?cmp=rss",
-      "title": "Parks Canada banning paddling at some popular Banff National Park lakes",
-      "published_at": "2026-03-13T11:15:06-04:00",
-      "section": "Canada",
-      "summary_auto": "Starting this spring, Parks Canada is restricting boats and other watercraft on some popular lakes in Banff National Park to prevent the spread of aquatic invasive species.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5d9d5954ebfab222ff43ff7d8aa3c233655e8e7e",
-      "url": "https://www.cbc.ca/news/canada/manitoba/daylight-time-kinew-survey-9.7127857?cmp=rss",
-      "title": "Time to survey Manitobans on changing clocks, Kinew says",
-      "published_at": "2026-03-13T10:29:36-04:00",
-      "section": "Canada",
-      "summary_auto": "Premier Wab Kinew says Manitobans will be consulted on whether they should continue changing their clocks twice a year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
       }
     }
   ]
