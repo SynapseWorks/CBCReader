@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-13T21:26:08.786086-04:00",
+  "generated_at": "2026-03-14T08:36:43.142591-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "26edf63cbe543b72af301415f9fa1e12ba62fd6e",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/leafs-star-auston-matthews-out-for-rest-of-the-nhl-season-due-to-knee-injury-9.7128552?cmp=rss",
-      "title": "Leafs star Auston Matthews out for rest of the NHL season due to knee injury",
+      "id": "b90f1ed086bddaf9bb58f13a8f8e870f57fb1c58",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/musqueam-rights-recognition-agreement-explained-9.7128504?cmp=rss",
+      "title": "What the Musqueam rights recognition agreement means and what it doesn’t",
+      "published_at": "2026-03-14T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal agreement recognizing xʷməθkʷəy̓əm (Musqueam) Aboriginal rights in much of Metro Vancouver has sparked debate about private property and overlapping Indigenous territories. Here's what the agreement actually says and what it doesn't.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "695e08603f38e88c9a76235516ef2d1064dc0f4d",
+      "url": "https://www.cbc.ca/news/world/how-to-churn-butter-while-running-9.7127209?cmp=rss",
+      "title": "People are churning butter on runs. We're sorry to be the ones to tell you this",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Runners have discovered they can churn butter by strapping bags of heavy cream and salt to their torsos and running around for an hour. And yes, they're eating it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cb72ce466b9954d28d0ba4f4b6e9787a7518cc83",
+      "url": "https://www.cbc.ca/news/entertainment/oscars-representation-sinners-9.7123010?cmp=rss",
+      "title": "Behind the scenes of Sinners, Oscar-nominated women are 'carrying the torch' for diverse, young filmmakers",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three women of colour who worked on the crew of Sinners are helping drive a significant shift in the film industry that's allowing diverse newcomers to gain experience and recognition behind the scenes. Veterans like costume designer Ruth E. Carter who've broken barriers say they're lighting the way for those who follow to make their own communities, lift each other up and create opportunities for each other.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.859,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e71b0dda4540336c696b64ab34b79c0b7a145dee",
+      "url": "https://www.cbc.ca/news/canada/hamilton/23-echovalley-dr-resident-9.7126176?cmp=rss",
+      "title": "'Full of panic': Woman who lost Hamilton townhome to fire recalls how neighbours pulled together",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Aleesha Baxter and her family were among up to 10 people displaced by a townhouse fire this week at 23 Echovalley Dr. in Hamilton's Upper Stoney Creek area that destroyed six units. She says she was among those who jumped into action to ensure neighbours were aware of the early-morning fire.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ebf81c36fbf002a5ec86047f2aa46e3e4f0a5e2c",
+      "url": "https://www.cbc.ca/news/politics/funding-to-clear-backlog-air-passenger-complaints-9.7127811?cmp=rss",
+      "title": "Canadians might be soon waiting longer to have their air travel complaints heard",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government is currently weighing whether to renew funding meant to address a massive backlog of airline passenger complaints — funding that if not extended could result in Canadians having to wait longer to have their cases heard.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "172c4a6c2db2d8d6a729c49d934fcd124de53555",
+      "url": "https://www.cbc.ca/news/politics/nato-iran-israel-us-war-9.7127634?cmp=rss",
+      "title": "Former NATO chief says he doesn't think allies will be pulled further into Middle East conflict",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "The former secretary general of NATO says he doesn't think allies will be pulled further into the conflict in the Middle East, but he's concerned the ongoing war with Iran will benefit Russia's economy and take the world’s attention away from the invasion of Ukraine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.565,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b65dca4877f9dbf485b662560cccb257c355f15e",
+      "url": "https://www.cbc.ca/news/world/monarch-butterfly-mexico-migration-tracking-smartphone-9.7126224?cmp=rss",
+      "title": "How your smartphone could help unlock the mystery of the monarch butterfly's migration from Mexico",
+      "published_at": "2026-03-14T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "A total of 160 monarchs across Mexico’s six butterfly sanctuaries have been tagged with new transmitters that will provide the most detailed look to date at the first leg of the the insects' migration back north.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "173acace82354ef2c96c664fb52deaf6ea59d5a9",
+      "url": "https://www.cbc.ca/sports/baseball/canada-usa-world-baseball-classic-2026-march-13-9.7128534?cmp=rss",
+      "title": "U.S. beats Canada for spot in World Baseball Classic semifinals",
+      "published_at": "2026-03-13T19:26:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Aaron Judge doubled and Pete Crow-Armstrong and Brice Turang each had two hits as the United States beat Canada 5-3 on Friday night in Houston to reach the World Baseball Classic semifinals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c9e00ccc08e94c5cea23821292ebcd9b5d64a498",
+      "url": "https://www.cbc.ca/news/politics/don-cherry-order-canada-conservatives-quebec-9.7128629?cmp=rss",
+      "title": "Quebec Conservatives sour on Don Cherry nomination as party pushes Order of Canada petition",
+      "published_at": "2026-03-13T17:52:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Opposition is mounting among Quebec's federal Conservatives to their own party's push to award the Order of Canada to controversial hockey commentator Don Cherry.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "308c13753e8fe1d4811437b9ec489b43a7719725",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-maple-leafs-auston-matthews-radko-gudas-9.7128552?cmp=rss",
+      "title": "Maple Leafs' Auston Matthews out for season with a torn MCL after kneeing by Radko Gudas",
       "published_at": "2026-03-13T16:21:48-04:00",
       "section": "Top Stories",
       "summary_auto": "Toronto Maple Leafs forward Auston Matthews will miss the rest of the season due to left leg injury. The NHL team says Matthews suffered a torn knee ligament and bruised quadriceps muscle in Thursday's game against the Anaheim Ducks.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.886,
+        "sentiment": -0.863,
         "subjectivity_hint": "low"
       }
     },
@@ -56,11 +173,24 @@
       }
     },
     {
+      "id": "57784950b85ef9d1e077730b7d2f0a93b5531c8a",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-approves-plans-to-turn-mic-mac-mall-parking-lots-into-thousands-of-housing-units-9.7128339?cmp=rss",
+      "title": "Halifax approves plans to turn Mic Mac Mall parking lots into thousands of housing units",
+      "published_at": "2026-03-13T15:03:22-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Halifax has cleared the way for major development that will see the parking lots around Mic Mac Mall in Dartmouth turn into a new neighbourhood for thousands of people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "3b1758d545a850c5f6855172906328a9d8c2759a",
       "url": "https://www.cbc.ca/sports/paralympics/the-buzzer-newsletter-march13-9.7128227?cmp=rss",
       "title": "Paralympic viewing guide: Canadians go for gold on the final weekend",
       "published_at": "2026-03-13T13:20:15-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "CBC Sports' daily newsletter previews the last two days of the Winter Paralympic Games in northern Italy, where Canada has gold-medal chances in Para hockey, wheelchair curling and skiing.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +216,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-drug-consumption-sites-toronto-9.7128193?cmp=rss",
       "title": "Ontario to end funding to multiple drug consumption sites, forcing them to close",
       "published_at": "2026-03-13T12:44:06-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "The Ontario government says it will end funding to at least three provincially funded drug consumption sites in the province, including two in Toronto, in a move that is drawing concern from advocates.",
       "bias_heuristic": {
         "article_type": "News",
@@ -99,7 +229,7 @@
       "url": "https://www.cbc.ca/news/business/hyundai-palisade-sales-stop-recall-canada-us-9.7128056?cmp=rss",
       "title": "Hyundai recalls thousands of 2026 Palisade SUVs, halts some sales after death of toddler in Ohio",
       "published_at": "2026-03-13T12:34:35-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Hyundai Motor Company said it is stopping sales of some new Palisade SUVs in ‌Canada and the United States and will recall tens of thousands of the vehicles over an issue with power seats, following a recent incident in which a two-year-old girl was killed in Ohio.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/banff-lakes-restrictions-9.7127677?cmp=rss",
       "title": "Parks Canada banning paddling at some popular Banff National Park lakes",
       "published_at": "2026-03-13T11:15:06-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Starting this spring, Parks Canada is restricting boats and other watercraft on some popular lakes in Banff National Park to prevent the spread of aquatic invasive species.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,19 +290,6 @@
       }
     },
     {
-      "id": "b683483adcb50187bbcd6e2b62970b6d5618e859",
-      "url": "https://www.cbc.ca/news/politics/shadow-fleet-trump-sanctions-russia-iran-9.7127830?cmp=rss",
-      "title": "As Trump pauses Russian shadow fleet sanctions, Carney says Canada holding firm",
-      "published_at": "2026-03-13T10:12:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Three world leaders — two of them members of the G7 — stood united in opposition Friday to the Trump administration's decision to ease sanctions on Russia's shadow fleet of oil tankers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "45e86ff63b4bb59a69095d9b270402c47a91eaf6",
       "url": "https://www.cbc.ca/radio/asithappens/alabama-oyster-house-free-oysters-9.7127648?cmp=rss",
       "title": "Father, 99, and son, 80, feast on free oysters after cashing in on decades-old restaurant promise",
@@ -195,318 +312,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a468ada9091cca3b9664e7e8de39c89e07b6230e",
-      "url": "https://www.cbc.ca/news/business/trump-trade-investigation-canada-9.7127596?cmp=rss",
-      "title": "Trump administration expands trade investigations to Canada, dozens of other countries",
-      "published_at": "2026-03-13T08:35:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2585cd58cf235ffb3b373177ae0d81ab4317e9be",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/record-smashing-powerlifter-68-says-she-lives-for-the-clang-of-the-weights-9.7126974?cmp=rss",
-      "title": "Record-smashing powerlifter, 68, says she lives for the 'clang' of the weights",
-      "published_at": "2026-03-13T08:07:19-04:00",
-      "section": "Canada",
-      "summary_auto": "On Thursday morning, 68-year-old Mava Brydges put the weight of a household refrigerator onto her back, lowered herself toward the floor and then stood up again.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "839c91dc90f04ad0603cb6f0d15effa3303e6870",
-      "url": "https://www.cbc.ca/news/health/eliquis-blood-thinning-drugs-stroke-venous-thrombosis-9.7127496?cmp=rss",
-      "title": "Blood-thinning drug Eliquis likely safer for patients with deep blood clots, study suggests",
-      "published_at": "2026-03-13T08:02:42-04:00",
-      "section": "Health",
-      "summary_auto": "A trial directly comparing two commonly used blood-thinning drugs found that one carries a lower risk of dangerous bleeding ‌in patients with clots in veins deep in the body, researchers reported in the New England Journal of Medicine.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5e115adef501298314f1f06e1a18e89e947cab8",
-      "url": "https://www.cbc.ca/news/canada/sudbury/cash-for-keys-north-bay-9.7124550?cmp=rss",
-      "title": "Tenant who accepted Ontario landlord’s $40K to move out for renos says he’s worse off",
-      "published_at": "2026-03-13T07:06:22-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96dcde55e2c8b8c9042dbe739b38afe5fe36319d",
-      "url": "https://www.cbc.ca/news/canada/edmonton/teacher-strike-bill-9.7127333?cmp=rss",
-      "title": "Alberta teachers lose injunction bid challenging government back-to-work bill",
-      "published_at": "2026-03-13T06:47:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A judge has ruled against a bid for an injunction seeking to pause provincial legislation that forced thousands of striking Alberta school teachers back to work last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cda29f69464339229cf7e0115e6b7637de6b3271",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-foi-changes-9.7127380?cmp=rss",
-      "title": "Ontario government proposes FOI law change that would keep premier's records secret",
-      "published_at": "2026-03-13T06:46:43-04:00",
-      "section": "Canada",
-      "summary_auto": "Ontario is set to make Premier Doug Ford and cabinet members' records secret as it \"modernizes\" freedom-of-information laws, which critics say will dramatically curtail public scrutiny of the political process.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7d864209cc3c9a8b64ba2e7c50ae751515b09fbb",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-homicide-vancouver-9.7127357?cmp=rss",
-      "title": "Montreal man charged with murder previously stabbed a woman to death in Vancouver",
-      "published_at": "2026-03-13T06:41:43-04:00",
-      "section": "Canada",
-      "summary_auto": "A 35-year-old Montreal man who previously stabbed a mother of two to death in Vancouver has been charged with first-degree murder in connection with a homicide at a Plateau Mont-Royal  dépanneur.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.979,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d0be0af4290bf18ffd72d04b561cfe08a81dcacc",
-      "url": "https://www.cbc.ca/news/world/afghanistan-deadly-strikes-pakistan-9.7127102?cmp=rss",
-      "title": "Pakistan launches deadly airstrikes in Afghanistan as hostilities continue",
-      "published_at": "2026-03-13T06:29:46-04:00",
-      "section": "World",
-      "summary_auto": "Afghanistan's Taliban government accused Pakistan's military Friday of targeting homes in overnight airstrikes in Kabul and other areas of the country, saying at least six civilians were killed and more than a dozen injured, as fighting between the neighbours entered its third week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.932,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8566c8cb860c91cf0b8245ca564ecd15cce095b0",
-      "url": "https://www.cbc.ca/news/canada/windsor/michigan-synagogue-attack-lost-family-members-israeli-airstrike-9.7127297?cmp=rss",
-      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
-      "published_at": "2026-03-13T06:12:13-04:00",
-      "section": "World",
-      "summary_auto": "A man with a rifle who crashed into a large Michigan synagogue in what federal officials are saying was an attack had lost four family members in an Israeli airstrike in his native Lebanon last week, an official said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b69d0093f05df2cce60fe334125d51aec74e1c2e",
-      "url": "https://www.cbc.ca/news/entertainment/oscar-best-picture-nominees-how-to-watch-canada-9.7059357?cmp=rss",
-      "title": "Behind on your Oscars viewing? Here's a last-minute guide on how to watch the nominees",
-      "published_at": "2026-03-13T05:06:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be1c93cf5bb860afc5ad5cb7bb47170712dca041",
-      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-israel-war-beirut-9.7022028?cmp=rss",
-      "title": "As war between Israel and Hezbollah escalates, life in Lebanon poised to get 'uglier day by day'",
-      "published_at": "2026-03-13T04:56:38-04:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "506b7772858d0d5072fea5641f162cb7daea1ae5",
-      "url": "https://www.cbc.ca/news/business/canada-labour-force-survey-february-2026-9.7127105?cmp=rss",
-      "title": "Canada's economy lost 84,000 jobs in February, unemployment rate ticked up to 6.7%",
-      "published_at": "2026-03-13T04:39:28-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's economy lost 84,000 jobs in February while the unemployment rate edged up to 6.7 per cent, Statistics Canada said on Friday,  a setback for the labour market and one of the worst monthly job losses seen in years outside of the pandemic.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.958,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd3b7fe622e7a16a63a76e45366067a4fb32586b",
-      "url": "https://www.cbc.ca/news/world/iran-tehran-strikes-israel-united-states-strait-of-hormuz-9.7127055?cmp=rss",
-      "title": "U.S. orders 2,500 marines, amphibious assault ship to Mideast after almost 2 weeks of war",
-      "published_at": "2026-03-13T04:32:37-04:00",
-      "section": "World",
-      "summary_auto": "The American military has ordered 2,500 marines and an amphibious assault ship to the Middle East, a U.S. official said Friday, while\nIran continued to launch widespread missile and drone attacks on Israel and neighbouring Gulf states.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5c9b987b88f7b4d8a785afc777e227894a905c5",
-      "url": "https://www.cbc.ca/news/world/us-russia-oil-licence-hormuz-iran-9.7126984?cmp=rss",
-      "title": "Ukraine, its allies object to U.S. move to exempt Russian oil from sanctions for at least 30 days",
-      "published_at": "2026-03-13T03:21:12-04:00",
-      "section": "World",
-      "summary_auto": "The United States issued a 30-day licence for countries to buy Russian oil and petroleum products currently stranded ‌at sea in what Treasury Secretary Scott Bessent said was a step to stabilize global energy markets roiled by the Iran war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73256ef033c4277e0035a6e47dbc28cc173c37e1",
-      "url": "https://www.cbc.ca/news/canada/canada-hospitals-wait-times-9.7123684?cmp=rss",
-      "title": "Hospital ERs in Canada are at a breaking point and have been for some time. Is this the new normal?",
-      "published_at": "2026-03-13T02:01:22-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5e115adef501298314f1f06e1a18e89e947cab8",
-      "url": "https://www.cbc.ca/news/canada/sudbury/cash-for-keys-north-bay-9.7124550?cmp=rss",
-      "title": "North Bay, Ont., tenant says he’s worse off after accepting landlord’s $40K offer to move out",
-      "published_at": "2026-03-13T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "After a months-long fight with his landlord, Shannon Lucas accepted a $40,000 payout to move out of the North Bay, Ont., townhouse where he lived for eight years, but says he would give it all back if he could stay.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "10e6bea00b76a3ebd6b634c053dfec3ddf458644",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/dartmouth-doctor-ring-rescue-medical-drama-the-pitt-hbo-9.7126246?cmp=rss",
-      "title": "Nova Scotia doctor's invention featured in hit medical drama The Pitt",
-      "published_at": "2026-03-13T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Ring Rescue appeared in the latest episode of the HBO series after one of the device's inventors, Dr. Kevin Spencer, met the show's lead actor, Noah Wyle, and producers at a medical trade show last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10e6bea00b76a3ebd6b634c053dfec3ddf458644",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/dartmouth-doctor-ring-rescue-medical-drama-the-pitt-hbo-9.7126246?cmp=rss",
-      "title": "Dartmouth doctor’s invention featured in hit medical drama The Pitt",
-      "published_at": "2026-03-13T01:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "The Ring Rescue appeared in the latest episode of the HBO series after one of the device's inventors, Dr. Kevin Spencer, met the show's lead actor, Noah Wyle, and producers at a medical trade show last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5fb5abd4822c6304035f81fd4d01482bce982dd7",
-      "url": "https://www.cbc.ca/news/politics/history-floor-crossing-to-join-government-9.7126641?cmp=rss",
-      "title": "How rare is it for a prime minister to attract 4 floor-crossers in 4 months?",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Floor-crossing has always been a feature of Canadian politics dating back to the first Parliament — and seeing four opposition MPs jump ship to join the government in a matter of months is rare but not unprecedented.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9da330c457afe625835970554a688b6f9c760d2",
-      "url": "https://www.cbc.ca/news/business/canada-oil-reserves-9.7126115?cmp=rss",
-      "title": "Amid an energy crisis, the world is drawing on its oil reserves. Why doesn't Canada have any?",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Because Canada is a net exporter of oil, it doesn't need to keep reserves. But some say that rule is outdated, and our at-capacity oil industry can't do much to help fill the gap created by stalled tanker traffic in the Strait of Hormuz.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.431,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "73256ef033c4277e0035a6e47dbc28cc173c37e1",
-      "url": "https://www.cbc.ca/news/canada/canada-hospitals-wait-times-9.7123684?cmp=rss",
-      "title": "Canada's hospital emergency rooms have hit a breaking point. Is it the new normal?",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Hospital emergency rooms are overflowing, resulting in patients being treated in storage rooms and hallways as they wait days for a bed. Doctors say it's happening against a backdrop of behind-the-scenes backlogs, access issues and an aging population that are all impacting the flow of patients through the health-care system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3a8f7375c6e678bbf0d779cf058362c20b875ff9",
-      "url": "https://www.cbc.ca/news/canada/windsor/poilievre-usa-detroit-visit-canada-trade-auto-conservative-9.7125759?cmp=rss",
-      "title": "Poilievre set to unveil Conservative auto pact back in Canada's car capital Sunday",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's Opposition leader says his new plan would take GST off Canadian-made cars and eliminate tariffs to sell them in the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ba43ec2f9ba5c823943a71bc1ba29a3de00cf3f0",
-      "url": "https://www.cbc.ca/news/world/venezuela-us-influence-trump-9.7122944?cmp=rss",
-      "title": "U.S. pressure on Venezuela hasn't eased, even as world's attention turns to Iran",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Venezuela's acting president, Delcy Rodríguez, is trying to manage U.S. demands as she looks to hang on to the support of the Trump administration more than two months after it toppled Nicolás Maduro. It's a prospect that's being made more difficult because the U.S. is now at war with Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.708,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96cd4c41eddd88abca3db6abdce53fa2a5b3799d",
-      "url": "https://www.cbc.ca/news/business/armstrong-iran-trump-supply-chains-strait-hormuz-us-israel-9.7126304?cmp=rss",
-      "title": "'Cascading effects' of Strait of Hormuz blockage getting worse by the day, energy and trade experts say",
-      "published_at": "2026-03-13T00:00:00-04:00",
-      "section": "Business",
-      "summary_auto": "Rising oil prices are just the start. By blocking the Strait of Hormuz, global supply chains are at risk. For every day the war drags on, the list of product shortages grows. Shortages of fertilizer for farmers, critical minerals, and helium for semiconductor production are already being felt around the world.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.93,
         "subjectivity_hint": "low"
       }
     }
