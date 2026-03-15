@@ -1,18 +1,18 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-15T10:24:44.043204-04:00",
+  "generated_at": "2026-03-15T14:30:14.683844-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "73cef346b1ef8ef82c83a535f359c405e54c1fdc",
-      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-15-9.7129386?cmp=rss",
-      "title": "Canada's Kalle Eriksson, guide Sierra Smith earn slalom bronze for 3rd medal of Paralympic debut",
-      "published_at": "2026-03-15T05:11:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian Para alpine skier Kalle Eriksson and guide Sierra Smith capped their memorable Paralympic debut with bronze in the men's visually impaired slalom on Sunday at the Milano-Cortina Games.",
+      "id": "c222bc18df1abdae769949c6c4cbbdc5e6ddbddc",
+      "url": "https://www.cbc.ca/sports/paralympics/andrew-parsons-ukrain-politics-2026-paralympics-milano-cortina-9.7129575?cmp=rss",
+      "title": "IPC president disappointed with Ukraine, suggests team shifted focus to politics at Milan-Cortina Paralympics",
+      "published_at": "2026-03-15T08:25:43-04:00",
+      "section": "World",
+      "summary_auto": "The president of the International Paralympic Committee was disappointed with the complaints made by Ukraine's National Paralympic Committee during the Milan-Cortina Games, saying they appeared to be an attempt to shift the focus from sports to politics.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.477,
+        "sentiment": -0.836,
         "subjectivity_hint": "low"
       }
     },
@@ -66,6 +66,19 @@
         "article_type": "News",
         "sentiment": -0.983,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6e2f09b97edd12510c37945f09078156652b19b5",
+      "url": "https://www.cbc.ca/radio/quirks/nasa-dart-mission-asteroid-space-9.7127403?cmp=rss",
+      "title": "NASA's asteroid deflection test for planetary defence even more successful than we thought",
+      "published_at": "2026-03-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Double Asteroid Redirection Test (DART) mission not only altered an asteroid’s orbit but, for the first time, a new study shows we also successfully changed the asteroids' path around the sun.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.793,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -199,8 +212,8 @@
       }
     },
     {
-      "id": "7b5241220427cd9b64cb2df2aa99fc559e9f7b7a",
-      "url": "https://www.cbc.ca/sports/olympics/winter/speed-skating/steven-dubois-gold-world-short-track-championships-9.7129228?cmp=rss",
+      "id": "d0919724ccaa8b2afef864015a49ff31fd5aec78",
+      "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/steven-dubois-gold-world-short-track-championships-9.7129228?cmp=rss",
       "title": "Canada's Steven Dubois wins 500m gold at world short track championships",
       "published_at": "2026-03-14T15:43:50-04:00",
       "section": "Canada",
@@ -208,32 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.952,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "61f879ee1b52d159fed8d07ff3c3bb3c2793f6dc",
-      "url": "https://www.cbc.ca/sports/soccer/iran-women-soccer-three-more-return-9.7129171?cmp=rss",
-      "title": "Another 3 members of Iran’s women’s soccer team decide against staying in Australia as refugees",
-      "published_at": "2026-03-14T14:05:54-04:00",
-      "section": "World",
-      "summary_auto": "Another three members of Iran's women's soccer team who accepted refugee visas to stay in Australia have decided to return to their homeland, an Australian government minister said on Sunday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6c4a17a7939dad8cb4bd27388c669d661b674649",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/two-charged-burnaby-murder-masood-masjoody-9.7129038?cmp=rss",
-      "title": "2 charged with first-degree murder of B.C. man reported missing in February",
-      "published_at": "2026-03-14T10:43:04-04:00",
-      "section": "Canada",
-      "summary_auto": "Two people have been charged with first-degree murder in relation to the killing of 45-year-old Burnaby man Masood Masjoody. IHIT says the suspects and victim were known to each other but the motive remains under investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.901,
         "subjectivity_hint": "low"
       }
     }
