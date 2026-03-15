@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-15T08:38:34.417781-04:00",
+  "generated_at": "2026-03-15T10:24:44.043204-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "73cef346b1ef8ef82c83a535f359c405e54c1fdc",
+      "url": "https://www.cbc.ca/sports/paralympics/milano-cortina-paralympics-roundup-march-15-9.7129386?cmp=rss",
+      "title": "Canada's Kalle Eriksson, guide Sierra Smith earn slalom bronze for 3rd medal of Paralympic debut",
+      "published_at": "2026-03-15T05:11:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian Para alpine skier Kalle Eriksson and guide Sierra Smith capped their memorable Paralympic debut with bronze in the men's visually impaired slalom on Sunday at the Milano-Cortina Games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "0664ea5771139f5f5fb0b47ac622a1faf007097a",
       "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-mar-15-2025-9.7127318?cmp=rss",
@@ -13,6 +26,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a8dfc2d466801482a2859c442d9326e9de971c7",
+      "url": "https://www.cbc.ca/news/canada/sudbury/kashechwan-chief-walks-back-resignation-calls-9.7129219?cmp=rss",
+      "title": "Kashechewan chief walks back calls for Indigenous Services minister to resign",
+      "published_at": "2026-03-15T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kashechewan First Nation Chief Hosea Wesley says he takes back a call he made earlier in the month for Indigenous Services Canada Minister Mandy Gull-Masty to resign.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
         "subjectivity_hint": "low"
       }
     },
@@ -43,12 +69,12 @@
       }
     },
     {
-      "id": "42b54767d6bc41083b9bd1c94162b3e24e995d7f",
-      "url": "https://www.cbc.ca/news/world/shadow-fleet-russia-venezuela-crackdown-9.7128428?cmp=rss",
-      "title": "Shadow fleets of sanctions-skirting ships facing global crackdown: analysis",
+      "id": "ee88e972454b5b3f5e1eda1a506c4fb152587b47",
+      "url": "https://www.cbc.ca/news/canada/canada-ontario-london-old-middlesex-county-courthouse-development-9.7107268?cmp=rss",
+      "title": "Canada named this castle-like courthouse a national historic site. Now a tower is set to rise beside it",
       "published_at": "2026-03-15T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A CBC News analysis reveals the global scope of an enforcement crackdown on ships belonging to shadow fleets — vessels often flying under false flags in order to skirt sanctions — as the scale of seizures and detentions has skyrocketed in recent months.",
+      "summary_auto": "Plans for a 54-storey residential tower next door to a national historic site in London, Ont.,  cast a literal shadow over the place where the city began, while at the same time shining a light on what some heritage advocates say is a gap in federal law.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -69,6 +95,32 @@
       }
     },
     {
+      "id": "ca9c640badf7d1b36ae1b336b65b68aa27bf6153",
+      "url": "https://www.cbc.ca/news/canada/first-person-hockey-being-part-of-a-team-9.7117837?cmp=rss",
+      "title": "I just wanted to be ‘one of the guys’ on my hockey team, but it wasn’t always easy",
+      "published_at": "2026-03-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Trevor Kew has many fond recollections of playing minor hockey in Rossland, B.C., but these are tempered by less pleasant memories.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.931,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "42b54767d6bc41083b9bd1c94162b3e24e995d7f",
+      "url": "https://www.cbc.ca/news/world/shadow-fleet-russia-venezuela-crackdown-9.7128428?cmp=rss",
+      "title": "Mapping the global crackdown on shadow fleets",
+      "published_at": "2026-03-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A CBC News analysis reveals the global scope of an enforcement crackdown on ships belonging to shadow fleets — vessels often flying under false flags in order to skirt sanctions — as the scale of seizures and detentions has skyrocketed in recent months.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "90684973a55553cee82bb132a040216a4722d5d2",
       "url": "https://www.cbc.ca/radio/thecurrent/hasslers-study-negative-people-9.7124224?cmp=rss",
       "title": "The negative people in your life are making you get older faster. Here’s how to handle them",
@@ -79,19 +131,6 @@
         "article_type": "News",
         "sentiment": -0.818,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ee88e972454b5b3f5e1eda1a506c4fb152587b47",
-      "url": "https://www.cbc.ca/news/canada/canada-ontario-london-old-middlesex-county-courthouse-development-9.7107268?cmp=rss",
-      "title": "Canada named this castle-like courthouse a national historic site. Now a tower is set to rise beside it",
-      "published_at": "2026-03-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Plans for a 54-storey residential tower next door to a national historic site in London, Ont.,  cast a literal shadow over the place where the city began, while at the same time shining a light on what some heritage advocates say is a gap in federal law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -108,15 +147,15 @@
       }
     },
     {
-      "id": "fee6723a8c44b274139f6ce09515e1f397e6c418",
-      "url": "https://www.cbc.ca/news/politics/carney-norway-nordic-summit-defence-russia-greenland-9.7129246?cmp=rss",
-      "title": "Nordic leaders meet in Oslo with Carney as Arctic tensions sharpen over Greenland, Russia",
+      "id": "42b54767d6bc41083b9bd1c94162b3e24e995d7f",
+      "url": "https://www.cbc.ca/news/world/shadow-fleet-russia-venezuela-crackdown-9.7128428?cmp=rss",
+      "title": "Shadow fleets of sanctions-skirting ships facing global crackdown: analysis",
       "published_at": "2026-03-15T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Leaders from the five Nordic countries and Canada meet in Oslo for a mini-summit on Arctic security amid rising geopolitical tensions. Discussions follow a massive NATO exercise in northern Norway and focus on Russian military risks, the fallout from U.S. threats to seize Greenland and energy security.",
+      "section": "World",
+      "summary_auto": "A CBC News analysis reveals the global scope of an enforcement crackdown on ships belonging to shadow fleets — vessels often flying under false flags in order to skirt sanctions — as the scale of seizures and detentions has skyrocketed in recent months.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.527,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -151,7 +190,7 @@
       "url": "https://www.cbc.ca/news/entertainment/buffy-reboot-hulu-cancelled-9.7129237?cmp=rss",
       "title": "Hulu not moving forward with Buffy reboot, Sarah Michelle Gellar says",
       "published_at": "2026-03-14T16:12:39-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Hulu's reboot of Buffy the Vampire Slayer will no longer be happening, the TV show's former star announced on Saturday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -196,32 +235,6 @@
         "article_type": "News",
         "sentiment": -0.901,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eb0d81b9ef9719bd8e320c604949934cbd2bc326",
-      "url": "https://www.cbc.ca/news/world/russian-strike-kyiv-energy-infrastructure-9.7128990?cmp=rss",
-      "title": "Russian strike on Kyiv region kills 4, wounds 15",
-      "published_at": "2026-03-14T10:13:51-04:00",
-      "section": "World",
-      "summary_auto": "A combined Russian missile and drone attack on the Kyiv region killed at least four people and wounded 15, a Ukrainian official said Saturday, after the United States postponed Russia-Ukraine talks due to the war with Iran. Ukrainian President Volodymyr Zelenskyy said the main target of the strikes was energy infrastructure.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.942,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3902abf29072183babf03a4115a9b1995660e9b0",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-al-quds-decision-9.7128964?cmp=rss",
-      "title": "Al-Quds Day rally in Toronto proceeds after judge rules against Ford government's attempt to block it",
-      "published_at": "2026-03-14T10:07:10-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An Al-Quds Day rally took to the streets near the U.S. consulate in Toronto Saturday, after an Ontario Superior Court justice ruled that the demonstration could continue as planned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "medium"
       }
     }
   ]
