@@ -1,18 +1,57 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-16T08:57:28.000039-04:00",
+  "generated_at": "2026-03-16T10:54:43.634526-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "be2cedc6a37e57fb50e62e5bb948386db76b0a40",
+      "url": "https://www.cbc.ca/news/canada/montreal/ny-st-amand-laval-daycare-ruling-9.7130244?cmp=rss",
+      "title": "Bus driver in Laval, Que., daycare crash deemed a high-risk accused",
+      "published_at": "2026-03-16T06:07:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pierre Ny St-Amand, the man who drove a bus into a Laval daycare in 2023, killing two young children and injuring six others, has been declared a high-risk accused.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e974c0d13ddb486d466e1b3dacb5685ce26524a8",
+      "url": "https://www.cbc.ca/news/canada/sudbury/livestory/ontario-winter-weather-warning-highway-closures-power-outages-9.7130111?cmp=rss",
+      "title": "'Extremely hazardous' winter storm closes highways in northeastern Ontario",
+      "published_at": "2026-03-16T05:05:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "89253b3621b02e45fca773cccacd65e20fadb8da",
       "url": "https://www.cbc.ca/news/business/canada-annual-inflation-rate-february-2026-9.7130104?cmp=rss",
-      "title": "Canada's annual inflation rate fell to 1.8% in February",
+      "title": "Canada's annual inflation rate fell to 1.8% in February, war's impact not yet reflected",
       "published_at": "2026-03-16T04:36:15-04:00",
       "section": "Top Stories",
       "summary_auto": "Canada's annual inflation rate fell to 1.8 per cent in February, Statistics Canada said on Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "004112913a5c435a6a81cd049e6972c127f9872d",
+      "url": "https://www.cbc.ca/sports/basketball/wnba-cba-deal-march-16-9.7130103?cmp=rss",
+      "title": "WNBA commissioner says progress made in collective bargaining talks after another marathon session",
+      "published_at": "2026-03-16T04:18:02-04:00",
+      "section": "Top Stories",
+      "summary_auto": "League, players union met for another marathon negotiating session that started Sunday afternoon and ended around 3 a.m. Monday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -95,6 +134,19 @@
       }
     },
     {
+      "id": "31fecf9f4f4d78e3410786386e28adb385011dd8",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-road-infrastructure-9.7128306?cmp=rss",
+      "title": "Much of Quebec’s road infrastructure needs fixing. What’s the holdup?",
+      "published_at": "2026-03-16T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A massive hole that opened up in a Châteauguay, Que., bridge earlier this month has reignited calls for Quebec to better invest in its aging road infrastructure, with several groups saying the incident should be a wake-up call for the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "b6b12d02d9a62fa1d03b0c7d70e0c46764e05778",
       "url": "https://www.cbc.ca/player/play/9.7129864?cmp=rss",
       "title": "Pete Hegseth: the Iran war’s chief promoter",
@@ -134,6 +186,19 @@
       }
     },
     {
+      "id": "cbf7e999bacf9f759f0eda683bb93c7539d6482c",
+      "url": "https://www.cbc.ca/news/canada/ottawa/electric-flashes-keep-breaking-ottawa-lrt-9.7128491?cmp=rss",
+      "title": "Why do electric flashes keep breaking Ottawa's LRT?",
+      "published_at": "2026-03-16T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Electric 'arcing' has shut down the LRT before, but OC Transpo thought it had a fix — until last week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "2f50fb05821d7e37bdf560d2829441b5918df5e3",
       "url": "https://www.cbc.ca/news/canada/thunder-bay/northern-road-watch-9.7128289?cmp=rss",
       "title": "This Sudbury, Ont., man creates website to track northern Ontario's highway collisions",
@@ -169,19 +234,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5228daadba062bda4f99763814f5b2f437739601",
-      "url": "https://www.cbc.ca/player/play/9.7129946?cmp=rss",
-      "title": "#TheMoment Canada's wheelchair curlers became Paralympic champions",
-      "published_at": "2026-03-15T18:21:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Members of Canada's Paralympic curling team tell CBC News about the moment they won gold after beating China with only seconds left in the game.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -281,37 +333,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/lapu-lapu-day-tragedy-survivors-not-ready-for-vancouver-lapu-lapu-festival-9.7129284?cmp=rss",
       "title": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return",
       "published_at": "2026-03-15T11:13:31-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Some survivors of the Lapu-Lapu Day festival attack say it’s not the right time for the cultural event to return to Vancouver next month — about a year after 11 people were killed at the Filipino festival in 2025.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dda28f8a92915cb4a63b146e55410893915ec474",
-      "url": "https://www.cbc.ca/news/world/israeli-soldiers-kill-4-in-car-9.7129648?cmp=rss",
-      "title": "Israeli soldiers shoot at family car, killing 4, in occupied West Bank",
-      "published_at": "2026-03-15T10:52:16-04:00",
-      "section": "World",
-      "summary_auto": "Israeli soldiers fired on a car carrying a family in the northern West Bank, killing four people including two children, the Palestinian Authority's Health Ministry said. The Palestinian Red Crescent rescue service said that Ali and Waed Odeh, and two of their four children, were shot in the head.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f8aef263c764cda7a59cd23b18cbe0297fc769a3",
-      "url": "https://www.cbc.ca/sports/paralympics/canada-usa-paralympics-ice-hockey-gold-medal-game-recap-9.7129604?cmp=rss",
-      "title": "Canada claims ice hockey silver as United States romps to 5th consecutive Paralympic gold",
-      "published_at": "2026-03-15T09:06:46-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's Para ice hockey team settled for silver after a 6-2 loss to the United States on Sunday in the final event of the Milan Cortina Paralympics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
         "subjectivity_hint": "low"
       }
     }
