@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-18T10:57:22.475037-04:00",
+  "generated_at": "2026-03-18T14:51:50.088998-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "ad34fb979af44d1268b0f1119c5b5e95d80dd5d3",
+      "url": "https://www.cbc.ca/news/entertainment/val-kilmer-ai-9.7133590?cmp=rss",
+      "title": "An AI Val Kilmer is set to posthumously appear in a new movie",
+      "published_at": "2026-03-18T10:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A year after the actor's death, a generative AI version of Val Kilmer will co-star in an independent film, in one of the boldest uses yet of artificial intelligence in moviemaking.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4eafcf4c6c42b97b418f4dfe3a6033da613d9fc5",
+      "url": "https://www.cbc.ca/news/politics/future-of-prime-minister-official-residence-24-sussex-drive-9.7132472?cmp=rss",
+      "title": "Rideau Cottage 'inadequate' home for a PM as decision on 24 Sussex looms: internal memo",
+      "published_at": "2026-03-18T09:54:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rideau Cottage, the historic red-brick house where Canadian prime ministers have been living for more than a decade, is inadequate and comes with security risks, according to a government memorandum prepared last summer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c7ce51815a5069493a02ba16b1ee64539315441",
+      "url": "https://www.cbc.ca/news/canada/calgary/ai-culture-summit-banff-9.7132790?cmp=rss",
+      "title": "Federal government to launch AI and Culture Advisory Council",
+      "published_at": "2026-03-18T09:52:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government announced a new advisory council to help it protect Canada’s creative industries from rapid advancements in AI, as the first National Summit on Artificial Intelligence and Culture wrapped up in Banff on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.883,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed1f85010a7be4bdc0456af182e825844cb12c1e",
+      "url": "https://www.cbc.ca/news/canada/toronto/ford-home-invasion-shooting-9.7133361?cmp=rss",
+      "title": "'Should have shot him a couple more times': Ford congratulates person who shot alleged Ontario home invader",
+      "published_at": "2026-03-18T08:50:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford congratulated a homeowner who shot and injured an alleged home invader in Vaughan, Ont., this week, saying intruders \"need to be shot.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d38a0a01f05482b0886e6053677d8f69e36172c6",
+      "url": "https://www.cbc.ca/news/world/pakistan-afghanistan-pause-airstrikes-eid-9.7133287?cmp=rss",
+      "title": "Pakistan and Afghanistan announce temporary pause in fighting",
+      "published_at": "2026-03-18T08:27:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pakistan and Afghanistan have declared a temporary pause in escalating fighting, two days after Kabul blamed Islamabad for a deadly airstrike in the Afghan capital that it said killed hundreds of people at a drug rehabilitation hospital.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54b10c80f52862b86820df1037a29273d57bfeff",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-smith-saudi-9.7133149?cmp=rss",
+      "title": "Alberta premier says she took private flight last year following invitation from Saudi government",
+      "published_at": "2026-03-18T08:08:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Alberta Premier Danielle Smith says she travelled on a private plane to Saudi Arabia last fall to meet with local government officials, following an invitation from a member of the Saudi royal family.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aa6581f573836b921fd9aba26df9924b7f50a0b0",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/youth-school-attack-bridgewater-manitoba-9.7133261?cmp=rss",
+      "title": "Nova Scotia teen arrested for allegedly planning school attacks with Manitoba youth",
+      "published_at": "2026-03-18T08:04:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Police say a teen in the town of Bridgewater, N.S., and a youth from Manitoba have been arrested for allegedly planning simultaneous attacks at their local schools.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.9,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6eaed12880a029929537b745c1e2ded3349b93fc",
+      "url": "https://www.cbc.ca/player/play/9.7133211?cmp=rss",
+      "title": "While Canada pumps the breaks on robotaxis, China hits the gas",
+      "published_at": "2026-03-18T07:40:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada is still figuring out regulations when it comes to driverless vehicles, like robotaxis, on its roads. China, on the other hand, has embraced the technology, rolling out fully autonomous vehicles in select areas of cities like Beijing, Wuhan and Shanghai. CBC’s Lisa Xing and Chris Brown are in China as part of special coverage and took a ride inside a vehicle to see what it’s like.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "01a5ca932059328087712cafe6d0621c05ac28fa",
+      "url": "https://www.cbc.ca/news/world/trump-china-summit-negotation-9.7133084?cmp=rss",
+      "title": "Trump has delayed the Beijing summit. China wonders if he'll ever come to the negotiating table",
+      "published_at": "2026-03-18T07:16:33-04:00",
+      "section": "World",
+      "summary_auto": "The question echoing through Beijing’s diplomatic and political circles is whether U.S. President Donald Trump will show up for a summit in Beijing that was originally supposed to take place this month. Distracted by a self-launched war in Iran and facing mounting domestic pressure, Trump has pushed the China file to the side to focus on war strategy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "8df673084f996f61b0ffe1d59c51e44cc011142e",
       "url": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss",
@@ -22,23 +139,10 @@
       "title": "Building owner facing 7 counts of manslaughter in connection with fatal Old Montreal fire",
       "published_at": "2026-03-18T05:01:04-04:00",
       "section": "Top Stories",
-      "summary_auto": "Émile Benamor, the owner of an Old Montreal building that caught fire in 2023, killing seven people, is being charged with seven counts of manslaughter.",
+      "summary_auto": "Émile Benamor, the owner of an Old Montreal building that caught fire in 2023, is being charged with seven counts of manslaughter and eight counts of criminal negligence causing bodily harm.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "baa7c77ccac81105e451ef5abbc5e09cc9038f6c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/court-victory-for-girls-incarcerated-at-vancouver-area-house-of-horrors-9.7132255?cmp=rss",
-      "title": "Court victory for girls incarcerated at Vancouver-area 'house of horrors'",
-      "published_at": "2026-03-18T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A class-action lawsuit certified in B.C. Supreme Court means girls who were incarcerated at the Industrial Home for Girls and Willingdon School for Girls between 1914 and 1973 can proceed with seeking compensation from Canada, B.C. and a doctor.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
+        "sentiment": -0.943,
         "subjectivity_hint": "low"
       }
     },
@@ -56,19 +160,6 @@
       }
     },
     {
-      "id": "118ce00fc6de83ceb3eed249064bd1cca406fdfd",
-      "url": "https://www.cbc.ca/sports/baseball/world-baseball-classic-2026-usa-venezuela-final-9.7132864?cmp=rss",
-      "title": "Venezuela beats U.S. to win country's 1st World Baseball Classic title",
-      "published_at": "2026-03-18T03:39:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Venezuela won the World Baseball Classic for the first time Tuesday night, beating the United States 3-2 in the championship\ngame on Eugenio Suarez's tiebreaking double in the top of the ninth inning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "de969cc1538e1ff38b122b164ecfa27ff593674c",
       "url": "https://www.cbc.ca/news/canada/windsor/child-vaccination-rate-drops-sharply-michigan-rfk-junior-influences-policy-9.7132873?cmp=rss",
       "title": "Child vaccination rate drops sharply in Michigan as RFK Jr. influences policy",
@@ -82,15 +173,15 @@
       }
     },
     {
-      "id": "1e85e52b79573eae52d1f6673874c27bab0368bb",
-      "url": "https://www.cbc.ca/news/politics/two-blocks-from-the-white-house-9.7042430?cmp=rss",
-      "title": "Two Blocks from the White House: Trump’s coalition of the pressured",
-      "published_at": "2026-03-18T03:37:24-04:00",
+      "id": "41ebf538ee6ac28ee63c88b164f0f338f5069a8d",
+      "url": "https://www.cbc.ca/news/canada/north/medical-records-privacy-breach-9.7127915?cmp=rss",
+      "title": "Yellowknife resident says he's lost faith in the health-care system after repeated privacy breaches",
+      "published_at": "2026-03-18T03:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "President Donald Trump is sending mixed messages around his demands of U.S. allies when it comes to defending the Strait of Hormuz.",
+      "summary_auto": "A Yellowknife resident says he’s lost faith in the territory’s health-care system and wants more transparency after repeated breaches of his privacy. Such privacy breaches have happened hundreds of times over the past decade in the N.W.T., according to a government report.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.421,
+        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +190,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-police-corruption-murder-phones-9.7122419?cmp=rss",
       "title": "Did organized criminals breach the Vancouver police property office? Court docs reveal VPD investigation",
       "published_at": "2026-03-18T03:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "CBC News has learned Vancouver police are investigating whether someone with access to the force's property office colluded with organized criminals to tamper with key evidence in a high-profile murder case.",
       "bias_heuristic": {
         "article_type": "News",
@@ -123,13 +214,13 @@
     {
       "id": "9c63961f54ea20edc2c65264c773ae254c95c749",
       "url": "https://www.cbc.ca/news/world/iran-israel-united-states-attacks-9.7132837?cmp=rss",
-      "title": "Iran threatens attacks on Gulf oil infrastructure as Israel says it's killed another regime official",
+      "title": "Iran threatens attacks on Gulf oil infrastructure as Israel kills another regime official",
       "published_at": "2026-03-18T01:45:08-04:00",
       "section": "World",
       "summary_auto": "Iran’s state television published a threat on Wednesday saying the Islamic Republic would be attacking oil and gas infrastructure in Qatar, Saudi Arabia and the United Arab Emirates amid a new wave of strikes on its Persian Gulf neighbours and Israel.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.944,
+        "sentiment": -0.934,
         "subjectivity_hint": "medium"
       }
     },
@@ -173,19 +264,6 @@
       }
     },
     {
-      "id": "d2ef85d8cd7b1289de831e622336fdfc5ad78b5c",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-gun-crime-rates-rising-9.7114758?cmp=rss",
-      "title": "As gun crime rises in N.L., so do efforts by police and fears for innocent civilians",
-      "published_at": "2026-03-18T00:30:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police in Newfoundland and Labrador are seizing more guns than ever before. New statistics obtained by CBC News tell the story.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "7ae04a698dfe46b53fa5e92cdd64024ad5ac70b2",
       "url": "https://www.cbc.ca/news/canada/saskatchewan/canada-border-agency-misconduct-immigration-fraud-sask-9.7125144?cmp=rss",
       "title": "Border agency 'systemic collapse' allows man found guilty of immigration fraud to walk free and sue Canada",
@@ -221,32 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4d8ca6e79fd8271b13392839a5cef6a52d3faa0",
-      "url": "https://www.cbc.ca/news/health/self-harm-injury-canada-9.7130367?cmp=rss",
-      "title": "Self-harm among young Canadians is on the rise, specifically in girls, new research finds",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A growing number of young people are turning to self-harm in Canada and other parts of the world, according to new research.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4336cf012753ab9dffe06c4679478e7e9733b96d",
-      "url": "https://www.cbc.ca/news/politics/noma-letter-carney-highway-17-highway-11-9.7132249?cmp=rss",
-      "title": "Northwestern Ontario pleads for federal funding as highway fatalities mount",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Northern Ontario politicians are urgently appealing to the federal government for help during one of the deadliest winters on record along 2,000 kilometres of highway between Nipigon, Sudbury and North Bay.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -303,6 +355,19 @@
       }
     },
     {
+      "id": "4336cf012753ab9dffe06c4679478e7e9733b96d",
+      "url": "https://www.cbc.ca/news/politics/noma-letter-carney-highway-17-highway-11-9.7132249?cmp=rss",
+      "title": "Northwestern Ontario pleads for federal funding as highway fatalities mount",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Northern Ontario politicians are urgently appealing to the federal government for help during one of the deadliest winters on record along 2,000 kilometres of highway between Kenora, Sudbury and North Bay.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "6f9f4317bbe2312ad6fe509e4f0bcec60521613d",
       "url": "https://www.cbc.ca/news/business/gas-prices-rides-hailing-drivers-9.7132355?cmp=rss",
       "title": "As gas prices rise, ride-hail drivers feel especially pinched at the pump",
@@ -316,28 +381,28 @@
       }
     },
     {
-      "id": "291056fffea3c57101372b5325c25cb828ab3328",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-health-minister-mark-mclane-obituary-9.7132782?cmp=rss",
-      "title": "P.E.I. MLA and cabinet minister Mark McLane has died",
-      "published_at": "2026-03-17T18:57:53-04:00",
-      "section": "Top Stories",
-      "summary_auto": "P.E.I. Progressive Conservative MLA and cabinet minister Mark McLane has died, with Premier Rob Lantz paying tribute to his colleague as someone who could always be counted upon.",
+      "id": "2aeff7ac812a0401aa9fe7510e6f7e570637128e",
+      "url": "https://www.cbc.ca/radio/epstein-sciences-paleontology-9.7128103?cmp=rss",
+      "title": "Science has an Epstein problem. Women in paleontology say it's a symptom of a deeper misogyny",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "The names of hundreds of scientists have appeared in the Epstein files, including prominent dinosaur researchers. As the paleontology community reckons with the fallout of these revelations, women in the field say it's bringing to the forefront what they've known for years — that paleontology is rampant with abuse and harassment, funding and fame are prioritized above all else and institutions protect established men at the top at the expense of younger women trying to build careers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "high"
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
       }
     },
     {
-      "id": "b2e5bd3b93cdfda56f48d97b473f916fb3fee327",
-      "url": "https://www.cbc.ca/player/play/9.7132787?cmp=rss",
-      "title": "#TheMoment he made ice cream while running in Calgary",
-      "published_at": "2026-03-17T18:07:10-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jonny Arnott tells The National about the moment he churned ice cream while on a run in Calgary.",
+      "id": "f4d8ca6e79fd8271b13392839a5cef6a52d3faa0",
+      "url": "https://www.cbc.ca/news/health/self-harm-injury-canada-9.7130367?cmp=rss",
+      "title": "Self-harm among young Canadians is on the rise, specifically in girls, new research finds",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A growing number of young people are turning to self-harm in Canada and other parts of the world, according to new research.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -404,162 +469,6 @@
         "article_type": "News",
         "sentiment": -0.947,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "05d8159b327c403469bc3f8f6f255065b88f605b",
-      "url": "https://www.cbc.ca/news/world/iran-oil-crisis-fuel-rationing-4-day-work-week-9.7131547?cmp=rss",
-      "title": "4-day work weeks, rationing, dressing down: How some Asian countries are coping with the Iran oil crisis",
-      "published_at": "2026-03-17T14:26:35-04:00",
-      "section": "World",
-      "summary_auto": "Much of the oil produced in the Middle East is exported to Asian countries, which are now using a range of different methods to adjust to the fuel crunch caused by Iran's partial blockage of the Strait of Hormuz amid its war with the U.S. and Israel.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8862b7df08582c6bc53507dc1c4ebcfdd93d3dd9",
-      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/doug-armstrong-steps-down-gm-olympics-9.7132506?cmp=rss",
-      "title": "Doug Armstrong steps down as general manager of Canada's Olympic hockey team",
-      "published_at": "2026-03-17T14:17:43-04:00",
-      "section": "Canada",
-      "summary_auto": "Doug Armstrong is stepping down from his position as general manager of Canada's Olympic hockey team. Hockey Canada says Armstrong informed the organization he will be focusing on his position with the St. Louis Blues going forward.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d44db635422e83473f1fcf5d38d9d80a06167df",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/police-anticipated-worst-case-scenario-by-deploying-sniper-at-st-patrick-s-day-party-says-former-officer-9.7132335?cmp=rss",
-      "title": "Police anticipated 'worst-case scenario' by deploying sniper at St. Patrick's Day party, says former officer",
-      "published_at": "2026-03-17T13:42:07-04:00",
-      "section": "Canada",
-      "summary_auto": "The sighting of a sniper on Saturday during St. Patrick’s Day celebrations in Waterloo was met with fear and shock by some, but one policing expert from Wilfrid Laurier University says this is a proactive measure designed to keep the crowd safe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8cea15bdb06bb65058311c72a89a57b036178f48",
-      "url": "https://www.cbc.ca/news/politics/government-appealing-emergencies-act-use-supreme-court-9.7132438?cmp=rss",
-      "title": "Federal government appeals Emergencies Act use during convoy protest to Supreme Court",
-      "published_at": "2026-03-17T13:35:21-04:00",
-      "section": "Canada",
-      "summary_auto": "The federal government is bringing its case to justify use of the Emergencies Act to clear the convoy protests that gridlocked the capital city and border points to the country's highest court.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bf3bc5ae40f4bf75ed7bb7723d626fd684c54d13",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-winter-sports-decline-9.7132404?cmp=rss",
-      "title": "Should we worry about Canada's winter sports decline?",
-      "published_at": "2026-03-17T13:20:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's Winter Olympic and Paralympic medal counts are falling. Is this the sign of a crisis, or merely a shift?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.706,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bb4768130d214d5d95292f4c48ffdd5eded103ce",
-      "url": "https://www.cbc.ca/news/world/st-patrick-s-day-photo-scroller-9.7132162?cmp=rss",
-      "title": "IN PHOTOS | Celebrating St. Patrick's Day in Canada and abroad",
-      "published_at": "2026-03-17T13:06:31-04:00",
-      "section": "World",
-      "summary_auto": "St. Patrick's Day is marked annually on March 17, the traditional death date of Ireland's patron saint, and has become a celebration of Irish culture and heritage worldwide.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "602f9da447583bcbc785042a8d4e73b253b6c740",
-      "url": "https://www.cbc.ca/radio/asithappens/oldest-recorded-whale-song-9.7130961?cmp=rss",
-      "title": "The world's oldest-known whale song recordings tell a story about the changing ocean",
-      "published_at": "2026-03-17T13:00:16-04:00",
-      "section": "World",
-      "summary_auto": "Researchers at Woods Hole Oceanographic Institution have discovered a recording of humpback whales off the coast of Bermuda in March 1949 buried in their archives, marking the oldest-known recording of whale song.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf82c56b898d5852b1771fadd416c812d782a210",
-      "url": "https://www.cbc.ca/player/play/9.7132365?cmp=rss",
-      "title": "The Strait of Hormuz kill box | About That",
-      "published_at": "2026-03-17T12:48:54-04:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang explains why unblocking the world's most vital energy chokepoint is much harder than it may seem. Images provided by The Canadian Press, Reuters and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.209,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "cc5d8b628566e9da5044c634b658b7ebe5518040",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/passengers-booted-cancun-9.7132076?cmp=rss",
-      "title": "23 passengers booted from Saturday night Halifax-to-Cancun flight",
-      "published_at": "2026-03-17T12:48:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Julia Kaiser, a spokesperson for WestJet, says an unexpected cabin crew absence meant that according to federal regulations, the number of passengers had to be cut to 150. There were 173 passengers ready to board.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5337b04ddfb6cc8fb34133fc43f55cd673932b20",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/einarson-canada-roundup-women-curling-worlds-march-17-9.7132341?cmp=rss",
-      "title": "Swapping stones led to Canada's 5th straight win at women's curling worlds",
-      "published_at": "2026-03-17T12:44:13-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's fifth straight win at the women's world curling championship was a lesson in adaptation for skip Kerri Einarson.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.923,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0f09868dfb888d7ce5608fc75e25d15d54b69c6",
-      "url": "https://www.cbc.ca/news/canada/montreal/former-mp-arrested-sex-crimes-9.7132203?cmp=rss",
-      "title": "Former Bloc Québécois MP charged with sex crimes involving minors",
-      "published_at": "2026-03-17T11:56:31-04:00",
-      "section": "Canada",
-      "summary_auto": "The alleged incidents date back to 2006  — before Pascal-Pierre Paillé's election to the House of Commons — and as recently as August 2024.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "271c3d8063c5885d53085daece249baae6d2999e",
-      "url": "https://www.cbc.ca/radio/asithappens/doctor-who-lost-episodes-9.7131796?cmp=rss",
-      "title": "Doctor Who fans get to step back in time with the discovery of 2 long-lost episodes",
-      "published_at": "2026-03-17T10:59:51-04:00",
-      "section": "World",
-      "summary_auto": "For decades, dozens of early Doctor Who episodes were feared to be lost forever — until two of them turned up recently in the garage of a deceased collector.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
       }
     }
   ]
