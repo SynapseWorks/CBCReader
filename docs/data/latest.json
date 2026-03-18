@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-18T08:57:10.447412-04:00",
+  "generated_at": "2026-03-18T10:57:22.475037-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8df673084f996f61b0ffe1d59c51e44cc011142e",
+      "url": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss",
+      "title": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
+      "published_at": "2026-03-18T05:51:07-04:00",
+      "section": "Business",
+      "summary_auto": "The Bank of Canada held its key interest rate at 2.25 per cent on Wednesday, saying that higher oil and gas prices from the war in the Middle East are likely to boost global inflation but that it's too soon to assess the conflict's impact on the Canadian economy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d7964eff4f34d260bb59efde7e04ddb96d33267f",
+      "url": "https://www.cbc.ca/news/canada/montreal/emile-benamor-charged-fire-9.7132912?cmp=rss",
+      "title": "Building owner facing 7 counts of manslaughter in connection with fatal Old Montreal fire",
+      "published_at": "2026-03-18T05:01:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Émile Benamor, the owner of an Old Montreal building that caught fire in 2023, killing seven people, is being charged with seven counts of manslaughter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.926,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "baa7c77ccac81105e451ef5abbc5e09cc9038f6c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/court-victory-for-girls-incarcerated-at-vancouver-area-house-of-horrors-9.7132255?cmp=rss",
+      "title": "Court victory for girls incarcerated at Vancouver-area 'house of horrors'",
+      "published_at": "2026-03-18T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A class-action lawsuit certified in B.C. Supreme Court means girls who were incarcerated at the Industrial Home for Girls and Willingdon School for Girls between 1914 and 1973 can proceed with seeking compensation from Canada, B.C. and a doctor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dfea4b48b6e4032b76e8a34dcadc53008d64af3",
+      "url": "https://www.cbc.ca/news/canada/edmonton/hospitalists-surgeries-edmonton-9.7132424?cmp=rss",
+      "title": "Mass cancellations of orthopedic surgeries likely within weeks over compensation dispute, doctors say",
+      "published_at": "2026-03-18T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Edmonton orthopedic surgeons are warning of widespread surgery cancellations in the coming weeks, as a result of a April 1 change to how Alberta pays surgical hospitalists.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "118ce00fc6de83ceb3eed249064bd1cca406fdfd",
       "url": "https://www.cbc.ca/sports/baseball/world-baseball-classic-2026-usa-venezuela-final-9.7132864?cmp=rss",
@@ -13,6 +65,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.9,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "de969cc1538e1ff38b122b164ecfa27ff593674c",
+      "url": "https://www.cbc.ca/news/canada/windsor/child-vaccination-rate-drops-sharply-michigan-rfk-junior-influences-policy-9.7132873?cmp=rss",
+      "title": "Child vaccination rate drops sharply in Michigan as RFK Jr. influences policy",
+      "published_at": "2026-03-18T03:39:11-04:00",
+      "section": "Health",
+      "summary_auto": "Reuters data analysis shows swift fall in inoculations of toddlers. Officials link vaccination ​decline to Kennedy's policies and rhetoric.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -58,14 +123,14 @@
     {
       "id": "9c63961f54ea20edc2c65264c773ae254c95c749",
       "url": "https://www.cbc.ca/news/world/iran-israel-united-states-attacks-9.7132837?cmp=rss",
-      "title": "Iran launches fresh attacks on Israel, Gulf neighbours after 2 high-ranking leaders killed",
+      "title": "Iran threatens attacks on Gulf oil infrastructure as Israel says it's killed another regime official",
       "published_at": "2026-03-18T01:45:08-04:00",
       "section": "World",
-      "summary_auto": "Iran launched a new wave of strikes following the killing of two high-ranking leaders in an airstrike with attacks on its Persian Gulf neighbours and Israel on Wednesday, using some of its latest missiles to evade air defences and killing two people near Tel Aviv, as the war in the Middle East showed no signs of slowing.",
+      "summary_auto": "Iran’s state television published a threat on Wednesday saying the Islamic Republic would be attacking oil and gas infrastructure in Qatar, Saudi Arabia and the United Arab Emirates amid a new wave of strikes on its Persian Gulf neighbours and Israel.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.978,
-        "subjectivity_hint": "low"
+        "sentiment": -0.944,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -84,13 +149,26 @@
     {
       "id": "98c7ab1974c254935fed34c956d35a74b82b0486",
       "url": "https://www.cbc.ca/news/world/israel-airstrikes-beirut-iran-9.7132819?cmp=rss",
-      "title": "Israeli airstrikes kill 10 in central Beirut, Lebanese authorities say",
+      "title": "Israeli airstrikes kill at least 12 in central Beirut, Lebanese authorities say",
       "published_at": "2026-03-18T00:44:17-04:00",
       "section": "World",
-      "summary_auto": "More than 900 people have been ​killed in Lebanon by Israeli attacks since Hezbollah entered the regional war in support of Tehran on March 2, and more than 1 ⁠million people have been forced to flee their homes, Lebanese authorities say.",
+      "summary_auto": "Israel stepped up airstrikes on Beirut on Wednesday, killing at least 12 people and destroying a 10-storey building near the city center in the third week of its war with Hezbollah, Lebanese authorities said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.915,
+        "sentiment": -0.956,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e4d36efaa52cfa9d75f320c7a460f75afbcb3820",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/jordan-anthony-cains-quest-tribute-9.7130696?cmp=rss",
+      "title": "'He got to do his race': Mother thanks Cain's Quest racers for helping late son cross the finish line",
+      "published_at": "2026-03-18T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jordan Anthony had always wanted to complete Cain's Quest, but tragically died months after his first attempt. As his teammate raced and completed the journey this year with his ashes, Anthony's mother says it's brought her closure in that her son's goal is now complete.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
         "subjectivity_hint": "low"
       }
     },
@@ -113,10 +191,10 @@
       "title": "Border agency 'systemic collapse' allows man found guilty of immigration fraud to walk free and sue Canada",
       "published_at": "2026-03-18T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Gurpreet Singh was found responsible for running an immigration fraud scheme in Saskatchewan, but a judge granted him a “windfall” — no criminal record and no jail sentence. Now Singh is suing the government and some employees of the Canada Border Services Agency (CBSA), alleging they violated his charter rights.",
+      "summary_auto": "Gurpreet Singh is suing the Canada Border Services Agency (CBSA), alleging it violated his charter rights. In 2022, he was found guilty of immigration fraud but a judge found CBSA treated him unfairly so he granted Singh a \"windfall\" — no criminal record and no jail sentence.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.797,
+        "sentiment": -0.565,
         "subjectivity_hint": "low"
       }
     },
@@ -130,6 +208,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "732619338ccf46fee85bd5299d2dba612e1fa497",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-diesel-iran-kalibrate-9.7132148?cmp=rss",
+      "title": "Diesel prices surge to highest since 2022, raising concern for shipping, consumer costs",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The ongoing U.S.-Iran war is causing diesel prices to spike across the country, climbing nearly 30 per cent since the beginning of March. In some parts of Quebec, a litre of diesel is selling for almost $2.50.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -160,16 +251,16 @@
       }
     },
     {
-      "id": "7286217eb01ecf97f31947216053be525207f60b",
-      "url": "https://www.cbc.ca/sports/hockey/usports-womens-hockey-nationals-2026-preview-9.7132409?cmp=rss",
-      "title": "Top-ranked UBC looks to turn dominant season into 1st women's hockey championship",
+      "id": "a4f34a4d561963dac9e520ed3146f8405d55cb9a",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/pioneer-ridge-criminal-charges-9.7131987?cmp=rss",
+      "title": "Thunder Bay, Ont., long-term care home, staff member face criminal charges in resident's 2025 death",
       "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The University of British Columbia is the top seed among the eight teams vying for a national Canadian university women's hockey championship, which begins on Thursday.",
+      "section": "Canada",
+      "summary_auto": "A city-operated long-term care facility in Thunder Bay, Ont., and a staff member face criminal charges following the death of an 86-year-old resident. Here's what we know about the investigation.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
+        "sentiment": -0.908,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -186,19 +277,6 @@
       }
     },
     {
-      "id": "a4f34a4d561963dac9e520ed3146f8405d55cb9a",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/pioneer-ridge-criminal-charges-9.7131987?cmp=rss",
-      "title": "Thunder Bay, Ont., long-term care home, staff member face criminal charges in resident's 2025 death",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A city-operated long-term care facility in Thunder Bay, Ont., and a staff member face criminal charges following the death of an 86-year-old resident. Here's what we know about the investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "375ba234132b17d2cd616ee1f92e786157151856",
       "url": "https://www.cbc.ca/news/canada/london/freedom-of-information-ai-9.7132386?cmp=rss",
       "title": "'We've had enough secrets': First Nations group opposes Ontario move to limit freedom-of-information laws",
@@ -212,34 +290,34 @@
       }
     },
     {
+      "id": "7286217eb01ecf97f31947216053be525207f60b",
+      "url": "https://www.cbc.ca/sports/hockey/usports-womens-hockey-nationals-2026-preview-9.7132409?cmp=rss",
+      "title": "Top-ranked UBC looks to turn dominant season into 1st women's hockey championship",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The University of British Columbia is the top seed among the eight teams vying for a national Canadian university women's hockey championship, which begins on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "6f9f4317bbe2312ad6fe509e4f0bcec60521613d",
       "url": "https://www.cbc.ca/news/business/gas-prices-rides-hailing-drivers-9.7132355?cmp=rss",
       "title": "As gas prices rise, ride-hail drivers feel especially pinched at the pump",
       "published_at": "2026-03-18T00:00:00-04:00",
       "section": "World",
-      "summary_auto": "Gas prices worldwide have soared  since the U.S. and Israel launched strikes on Iran, and the widening war has pinched tanker traffic in the crucially-important Strait of Hormuz shipping route. Ride-hail drivers, many of whom are on the road for hours a day, say they're being hit hard by the extra expense.",
+      "summary_auto": "Gas prices worldwide have soared since the U.S. and Israel launched strikes on Iran, and the widening war has pinched tanker traffic in the crucially important Strait of Hormuz shipping route. Ride-hail drivers, many of whom are on the road for hours a day, say they're being hit hard by the extra expense.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.743,
+        "sentiment": -0.67,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "732619338ccf46fee85bd5299d2dba612e1fa497",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-diesel-iran-kalibrate-9.7132148?cmp=rss",
-      "title": "Diesel prices surge to highest since 2022, raising concern for shipping, consumer costs",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Business",
-      "summary_auto": "The ongoing U.S.-Iran war is causing diesel prices to spike across the country, climbing nearly 30 per cent since the beginning of March. In some parts of Quebec, a litre of diesel is selling for almost $2.50.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bdbd997fbbab4879ef24a11211bb0d2b21b3860a",
-      "url": "https://www.cbc.ca/news/canada/pei-health-minister-mark-mclane-obituary-9.7132782?cmp=rss",
+      "id": "291056fffea3c57101372b5325c25cb828ab3328",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-health-minister-mark-mclane-obituary-9.7132782?cmp=rss",
       "title": "P.E.I. MLA and cabinet minister Mark McLane has died",
       "published_at": "2026-03-17T18:57:53-04:00",
       "section": "Top Stories",
@@ -277,24 +355,11 @@
       }
     },
     {
-      "id": "4f9e09b0b6a4b9ebdba199f2fe771b128728ac81",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/temporary-foreign-workers-sechelt-sunshine-coast-rural-cap-9.7131396?cmp=rss",
-      "title": "B.C. premier signals he won't support feds' temporary foreign worker program expansion",
-      "published_at": "2026-03-17T16:48:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "B.C. Premier David Eby has signalled he won't support the federal government's move to temporarily increase rural employers' allowances for temporary foreign workers, saying there should be a pathway to permanent residency instead.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.3,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "547f174e7b1f2df9b150cc39bd0584b46aedc4a2",
       "url": "https://www.cbc.ca/news/world/netanyahu-video-proof-of-life-iran-israel-9.7132558?cmp=rss",
       "title": "Netanyahu posts video to dispel rumours of his death after disinformation spreads online",
       "published_at": "2026-03-17T16:32:19-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "​Israeli Prime Minister Benjamin Netanyahu posted a video of himself getting a coffee on Sunday in an apparent attempt to prove that online rumours of his death have been greatly exaggerated.",
       "bias_heuristic": {
         "article_type": "News",
@@ -424,7 +489,7 @@
       "url": "https://www.cbc.ca/radio/asithappens/oldest-recorded-whale-song-9.7130961?cmp=rss",
       "title": "The world's oldest-known whale song recordings tell a story about the changing ocean",
       "published_at": "2026-03-17T13:00:16-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Researchers at Woods Hole Oceanographic Institution have discovered a recording of humpback whales off the coast of Bermuda in March 1949 buried in their archives, marking the oldest-known recording of whale song.",
       "bias_heuristic": {
         "article_type": "News",
@@ -494,45 +559,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74d7201fc734bf5cc1b19db0c6e095ca10903294",
-      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/international-olympic-committee-gender-testing-plans-female-athletes-9.7132090?cmp=rss",
-      "title": "International Olympic Committee urged to drop reported gender test plans for female athletes",
-      "published_at": "2026-03-17T10:25:20-04:00",
-      "section": "World",
-      "summary_auto": "More than 80 human rights and sport advocacy groups have called on the ‌International Olympic Committee to abandon reported plans to introduce universal genetic sex testing for female athletes and impose a blanket ban on transgender and intersex competitors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aea48466a0289323e238411b634aeac4360feda2",
-      "url": "https://www.cbc.ca/player/play/9.7131984?cmp=rss",
-      "title": "Has Banksy’s true identity finally been revealed?",
-      "published_at": "2026-03-17T10:14:10-04:00",
-      "section": "World",
-      "summary_auto": "After decades of mystery, an investigation by Reuters, spanning from Ukraine to New York, may have just revealed the street artist Banksy’s identity. Reporter Blake Morrision, talks about his investigation and if knowing who the artist is changes our relationship with his work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7b04ab7f7bf6e3671810cd3665c0955a50872bc3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/dungeness-crab-video-vancouver-9.7132011?cmp=rss",
-      "title": "Fisheries officials investigating video of sailors bragging about giant crab catch near Vancouver",
-      "published_at": "2026-03-17T09:57:22-04:00",
-      "section": "Canada",
-      "summary_auto": "Parts of Vancouver's harbour are off-limits to crabbing, and while the men say they have stopped in \"Vancouver, Canada,\" it's not clear exactly where the vessel is anchored.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.474,
         "subjectivity_hint": "low"
       }
     }
