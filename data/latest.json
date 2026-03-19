@@ -1,14 +1,313 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-18T14:51:50.088998-04:00",
+  "generated_at": "2026-03-18T21:47:06.149535-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
+      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+      "title": "The National | 2 teens accused of planning joint school attacks",
+      "published_at": "2026-03-18T17:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "March 18, 2026 | A Nova Scotia teen and a Manitoba teen are accused of planning co-ordinated violent attacks on their local schools. Ontario Premier Doug Ford praises a homeowner for shooting an intruder. And Rideau Cottage is deemed 'inadequate' as a home for the Prime Minister.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b8082028331d87d96818316937e4f0e76604c1c4",
+      "url": "https://www.cbc.ca/news/politics/poilievre-joe-rogan-podcast-9.7134185?cmp=rss",
+      "title": "Pierre Poilievre sits down for interview with podcaster Joe Rogan",
+      "published_at": "2026-03-18T16:48:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Conservative Leader Pierre Poilievre is set to appear on The Joe Rogan Experience, one of the world's most popular podcasts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.475,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3dd2f8cc286e487fdd07f4260b9c7c10f4eb67df",
+      "url": "https://www.cbc.ca/news/canada/toronto/jennifer-pan-plea-9.7134184?cmp=rss",
+      "title": "Ont. woman pleads guilty to manslaughter in mother's 2010 death after new trial ordered",
+      "published_at": "2026-03-18T16:19:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jennifer Pan has pleaded guilty to manslaughter in the 2010 death of her mother, nearly a year after the Supreme Court of Canada ordered a new first-degree murder trial for the Markham, Ont., woman in a case that drew international attention and spawned a Netflix documentary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.938,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3dd2f8cc286e487fdd07f4260b9c7c10f4eb67df",
+      "url": "https://www.cbc.ca/news/canada/toronto/jennifer-pan-plea-9.7134184?cmp=rss",
+      "title": "Jennifer Pan pleads guilty to manslaughter in mother's death after new trial ordered",
+      "published_at": "2026-03-18T16:19:29-04:00",
+      "section": "Canada",
+      "summary_auto": "Jennifer Pan has pleaded guilty to manslaughter in the 2010 death of her mother, nearly a year after the Supreme Court of Canada ordered a new first-degree murder trial for the Markham, Ont., woman in a case that drew international attention and spawned a Netflix documentary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.938,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8150ad1fb24e9231b32d8c64e0df7cdb011afb69",
+      "url": "https://www.cbc.ca/news/world/cuba-trump-threats-costa-rica-9.7133882?cmp=rss",
+      "title": "Cuba's president lashes out at Trump's threats to take the island as regional support weakens",
+      "published_at": "2026-03-18T14:50:00-04:00",
+      "section": "World",
+      "summary_auto": "Cuban President Miguel Diaz-Canel has lashed out after U.S. President Donald Trump said that he can do \"whatever he wants\" with the Caribbean island and that Washington could take \"imminent action\" against it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "15d8c4556f33c2bd133aa88ce8d173e064f68512",
+      "url": "https://www.cbc.ca/radio/asithappens/palestinian-protest-detainee-freed-9.7133713?cmp=rss",
+      "title": "Last detainee from Trump’s 2025 Gaza war protest crackdown freed after a year",
+      "published_at": "2026-03-18T14:41:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "For Leqaa Kordia, her newfound freedom means little to her until “everybody is free.\" “There is a lot of injustice in this place,” Kordia told reporters after emerging from a U.S. immigration detention centre in Texas on Monday. “There are a lot of people that shouldn’t be here in the first place. We’re going to keep fighting for them.”",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "efebe700d42e55884a3aa3a69ee643ca6e43798a",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-mark-mclane-death-tributes-9.7133830?cmp=rss",
+      "title": "P.E.I. health minister remembered for his leadership and dedication to community, Islanders",
+      "published_at": "2026-03-18T14:11:13-04:00",
+      "section": "Canada",
+      "summary_auto": "Mark McLane is being remembered for his humour and his leadership. The health minister and Progressive Conservative MLA for Cornwall-Meadowbank died Tuesday at 56 after a serious illness.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "55a070095a724e5f9be4720bffa1cb61cdec735f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/extortion-arson-cbsa-deportations-9.7133627?cmp=rss",
+      "title": "Accused extortionists deported as part of CBSA crackdown on cross-Canada network",
+      "published_at": "2026-03-18T13:14:15-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Following extensive CBC News reporting on two Indian nationals deported for alleged links to the extortion crisis plaguing Canadian communities, the Canada Border Services Agency has identified the two men as proof of expanded efforts to disrupt extortion networks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "578bea26e42f370748678546df8cb0a77a8467fb",
+      "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-teresa-resch-wnba-cba-9.7133911?cmp=rss",
+      "title": "Toronto Tempo president ‘excited’ for team’s first tip-off after WNBA, players reach agreement in principle",
+      "published_at": "2026-03-18T13:09:26-04:00",
+      "section": "Canada",
+      "summary_auto": "In the wee hours of Wednesday morning, Toronto Tempo president Teresa Resch heard her phone ring from another room. Sure enough, in a group chat with the WNBA’s other team presidents, news was spreading that there was indeed a deal in principle on a collective bargaining agreement. Now, things are about to get real.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "31652d1906ab49dcf086b301f22fb9b85421fff2",
+      "url": "https://www.cbc.ca/news/canada/toronto/officials-call-for-reversal-of-temporary-release-of-convicted-murderer-9.7133838?cmp=rss",
+      "title": "Ont. premier, officials call for reversal of temporary release of convicted child killer",
+      "published_at": "2026-03-18T13:03:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A recent temporary release of a child murderer in Durham Region is drawing criticism from top officials across Ontario, with calls for the parole board to keep him behind bars before he’s let out again.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.9,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ae640d6c5e73540d0d17054560bc2ce3dd5f138c",
+      "url": "https://www.cbc.ca/news/world/gac-warning-video-middle-east-9.7133723?cmp=rss",
+      "title": "Canadians in Middle East warned not to record or share war videos",
+      "published_at": "2026-03-18T12:50:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Global Affairs Canada is warning Canadians in the Middle East to refrain from documenting military activity as war engulfs the region. In a post on X Tuesday, the government warned that \"taking, sharing or possessing\" photos or videos of military activity or damage \"could lead to fines, imprisonment or deportation.\" The post specifically mentions Bahrain, Kuwait, Oman, Qatar, Saudi Arabi and the United Arab Emirates.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b518d4b0a2dff0b8094c871d6a83a6892f218794",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-medical-assistance-in-dying-limits-legislation-9.7133788?cmp=rss",
+      "title": "Alberta bill would limit medically assisted dying to patients facing 'reasonably foreseeable' death",
+      "published_at": "2026-03-18T12:48:12-04:00",
+      "section": "Health",
+      "summary_auto": "New legislation would prevent anyone in Alberta from receiving medical assistance in dying (MAID) who is unlikely to die within the next 12 months.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bd4779377148eb1259481b709410972798531770",
+      "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/gilles-poirier-post-olympics-bronze-medals-world-championships-outlook-9.7133727?cmp=rss",
+      "title": "Canadian Olympic bronze-medal ice dancers Gilles, Poirier head to world championships",
+      "published_at": "2026-03-18T12:41:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Five weeks after earning their first Olympic medal, Canadian ice dancers Piper Gilles and Paul Poirier are gearing up for their 13th world championships, next week in Prague. \"We want to enjoy ourselves, enjoy our skating [and] celebrate what we've accomplished this season,\" Gilles says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.971,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "e08e69f7feaec3ec7ac7e8e9817c4b2da09eab8d",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-man-linked-to-mob-murders-arrested-mexico-9.7133785?cmp=rss",
+      "title": "Ontario man accused in mob-related killings arrested in Mexico after 9 years on the run",
+      "published_at": "2026-03-18T12:40:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Hamilton man who was on the run the past nine years was arrested in Mexico in connection with two mob-related killings and faces at least two murder counts. Daniel Tomassetti, 35, was arrested in August 2025, police told CBC Hamilton, and efforts “are underway to facilitate his extradition to Canada.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.978,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d38cfea963c4cea831d6575570d049686128eb2",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/budget-2026-27-deficit-health-care-education-oil-9.7133515?cmp=rss",
+      "title": "Sask. budget projects $819M deficit, no return to surplus until 2030",
+      "published_at": "2026-03-18T12:18:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Titled \"Protecting Saskatchewan,\" the budget echoes a refrain that Premier Scott Moe and Reiter have repeated in the weeks before the budget — no tax increases or service cuts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eeb7ba2591fd8bc62dbe7db9c36bcdfe13b7bdbc",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-2026-budget-9.7130619?cmp=rss",
+      "title": "No big-ticket items, lower deficit in Quebec's modest pre-election budget",
+      "published_at": "2026-03-18T12:16:30-04:00",
+      "section": "Canada",
+      "summary_auto": "With the looming October election, Quebec Finance Minister Eric Girard has delivered a modest budget as the province aims to withstand ongoing trade disruptions and mounting geopolitical pressure.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "19fa1ee32842a1c8404d07b08d8fc9870428570d",
+      "url": "https://www.cbc.ca/news/canada/montreal/bomb-threat-montreal-airport-9.7133729?cmp=rss",
+      "title": "Montreal airport fully operational after suspicious package temporarily closes runway",
+      "published_at": "2026-03-18T12:03:43-04:00",
+      "section": "Canada",
+      "summary_auto": "A suspicious package temporarily reduced air traffic at Montreal's Pierre Elliott Trudeau International Airport on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.644,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3fa0aa3c9e4b225ee12b1128cd93213b6576ab0e",
+      "url": "https://www.cbc.ca/news/canada/toronto/lakeshore-west-go-train-person-struck-9.7133746?cmp=rss",
+      "title": "Boy dead after being struck by train in Mississauga, Ont.: police",
+      "published_at": "2026-03-18T11:48:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A boy was fatally struck by a westbound GO train in Mississauga on Wednesday afternoon, police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3fa0aa3c9e4b225ee12b1128cd93213b6576ab0e",
+      "url": "https://www.cbc.ca/news/canada/toronto/lakeshore-west-go-train-person-struck-9.7133746?cmp=rss",
+      "title": "Boy dead after being struck by GO train in Mississauga, police say",
+      "published_at": "2026-03-18T11:48:43-04:00",
+      "section": "Canada",
+      "summary_auto": "A boy was fatally struck by a westbound GO train in Mississauga on Wednesday afternoon, police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75119fa3dbcacf74e5367abb9cb690fdeb7ab3a6",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/police-chief-stands-by-decision-to-deploy-sniper-at-st-patrick-s-day-street-party-in-waterloo-ont-9.7133587?cmp=rss",
+      "title": "Police chief stands by decision to deploy sniper at St. Patrick's Day street party in Waterloo, Ont.",
+      "published_at": "2026-03-18T11:48:33-04:00",
+      "section": "Canada",
+      "summary_auto": "The Waterloo Regional Police Service's chief is standing by the decision to deploy a tactical officer to an unsanctioned St. Patrick's Day street party in Waterloo, Ont., after sightings of what appeared to be a sniper were posted on social media.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e21675657ebd345cbf01abc49fc8806e54688731",
+      "url": "https://www.cbc.ca/news/politics/canada-population-decline-first-time-9.7133643?cmp=rss",
+      "title": "Canada's population shrank last year — a first for the country, StatsCan says",
+      "published_at": "2026-03-18T11:35:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's population dropped last year, marking the first time the country has seen an annual net decline in residents since Confederation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6b60aeaad99998656a3b3098ed623bb44b8429d9",
+      "url": "https://www.cbc.ca/news/world/cesar-chavez-allegations-sexual-abuse-huerta-9.7133645?cmp=rss",
+      "title": "U.S. civil rights leader Dolores Huerta says Cesar Chavez sexually assaulted her in the 1960s",
+      "published_at": "2026-03-18T11:35:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Civil rights ​leader Dolores Huerta, who co-founded the United Farm Workers union with Cesar Chavez and fought alongside him for decades to expand labour rights in the U.S., on Wednesday accused Chavez of sexually assaulting her in the 1960s.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6eaed12880a029929537b745c1e2ded3349b93fc",
+      "url": "https://www.cbc.ca/player/play/9.7133211?cmp=rss",
+      "title": "While Canada pumps the brakes on robotaxis, China hits the gas",
+      "published_at": "2026-03-18T11:09:01-04:00",
+      "section": "World",
+      "summary_auto": "Canada is still figuring out regulations when it comes to driverless vehicles, like robotaxis, on its roads. China, on the other hand, has embraced the technology, rolling out fully autonomous vehicles in select areas of cities like Beijing, Wuhan and Shanghai. CBC’s Lisa Xing and Chris Brown are in China as part of special coverage and took a ride inside a vehicle to see what it’s like.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.908,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "ad34fb979af44d1268b0f1119c5b5e95d80dd5d3",
       "url": "https://www.cbc.ca/news/entertainment/val-kilmer-ai-9.7133590?cmp=rss",
       "title": "An AI Val Kilmer is set to posthumously appear in a new movie",
       "published_at": "2026-03-18T10:30:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A year after the actor's death, a generative AI version of Val Kilmer will co-star in an independent film, in one of the boldest uses yet of artificial intelligence in moviemaking.",
       "bias_heuristic": {
         "article_type": "News",
@@ -17,28 +316,15 @@
       }
     },
     {
-      "id": "4eafcf4c6c42b97b418f4dfe3a6033da613d9fc5",
-      "url": "https://www.cbc.ca/news/politics/future-of-prime-minister-official-residence-24-sussex-drive-9.7132472?cmp=rss",
-      "title": "Rideau Cottage 'inadequate' home for a PM as decision on 24 Sussex looms: internal memo",
-      "published_at": "2026-03-18T09:54:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rideau Cottage, the historic red-brick house where Canadian prime ministers have been living for more than a decade, is inadequate and comes with security risks, according to a government memorandum prepared last summer.",
+      "id": "cc37b92c40177b73bf4ec420daf9df466c36cd4c",
+      "url": "https://www.cbc.ca/news/canada/toronto/ont-electric-vehicles-9.7133397?cmp=rss",
+      "title": "EV sales targets in Quebec and B.C. are hurting Canada's auto market, Ont. premier says",
+      "published_at": "2026-03-18T08:58:57-04:00",
+      "section": "Canada",
+      "summary_auto": "Ontario Premier Doug Ford says electric vehicle sales targets in British Columbia and Quebec are making Canada less competitive. He asked his fellow premiers to scale back their mandates as the country feels the effects of Trump's tariffs.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c7ce51815a5069493a02ba16b1ee64539315441",
-      "url": "https://www.cbc.ca/news/canada/calgary/ai-culture-summit-banff-9.7132790?cmp=rss",
-      "title": "Federal government to launch AI and Culture Advisory Council",
-      "published_at": "2026-03-18T09:52:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government announced a new advisory council to help it protect Canada’s creative industries from rapid advancements in AI, as the first National Summit on Artificial Intelligence and Culture wrapped up in Banff on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.883,
+        "sentiment": -0.317,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/ford-home-invasion-shooting-9.7133361?cmp=rss",
       "title": "'Should have shot him a couple more times': Ford congratulates person who shot alleged Ontario home invader",
       "published_at": "2026-03-18T08:50:57-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Ontario Premier Doug Ford congratulated a homeowner who shot and injured an alleged home invader in Vaughan, Ont., this week, saying intruders \"need to be shot.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/pakistan-afghanistan-pause-airstrikes-eid-9.7133287?cmp=rss",
       "title": "Pakistan and Afghanistan announce temporary pause in fighting",
       "published_at": "2026-03-18T08:27:50-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Pakistan and Afghanistan have declared a temporary pause in escalating fighting, two days after Kabul blamed Islamabad for a deadly airstrike in the Afghan capital that it said killed hundreds of people at a drug rehabilitation hospital.",
       "bias_heuristic": {
         "article_type": "News",
@@ -69,41 +355,15 @@
       }
     },
     {
-      "id": "54b10c80f52862b86820df1037a29273d57bfeff",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-smith-saudi-9.7133149?cmp=rss",
-      "title": "Alberta premier says she took private flight last year following invitation from Saudi government",
-      "published_at": "2026-03-18T08:08:48-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta Premier Danielle Smith says she travelled on a private plane to Saudi Arabia last fall to meet with local government officials, following an invitation from a member of the Saudi royal family.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "aa6581f573836b921fd9aba26df9924b7f50a0b0",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/youth-school-attack-bridgewater-manitoba-9.7133261?cmp=rss",
-      "title": "Nova Scotia teen arrested for allegedly planning school attacks with Manitoba youth",
+      "title": "N.S., Manitoba teens accused of planning co-ordinated school attacks",
       "published_at": "2026-03-18T08:04:20-04:00",
       "section": "Top Stories",
-      "summary_auto": "Police say a teen in the town of Bridgewater, N.S., and a youth from Manitoba have been arrested for allegedly planning simultaneous attacks at their local schools.",
+      "summary_auto": "Police say two teens — a girl from the town of Bridgewater, N.S., and the other from Manitoba — have been charged for allegedly planning simultaneous attacks at their local schools.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6eaed12880a029929537b745c1e2ded3349b93fc",
-      "url": "https://www.cbc.ca/player/play/9.7133211?cmp=rss",
-      "title": "While Canada pumps the breaks on robotaxis, China hits the gas",
-      "published_at": "2026-03-18T07:40:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada is still figuring out regulations when it comes to driverless vehicles, like robotaxis, on its roads. China, on the other hand, has embraced the technology, rolling out fully autonomous vehicles in select areas of cities like Beijing, Wuhan and Shanghai. CBC’s Lisa Xing and Chris Brown are in China as part of special coverage and took a ride inside a vehicle to see what it’s like.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.908,
+        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     },
@@ -121,6 +381,19 @@
       }
     },
     {
+      "id": "1395b18e240329b61d8f8fd6319bea96136bcee1",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/heavy-rain-bc-south-coast-fraser-valley-9.7132922?cmp=rss",
+      "title": "Evacuation order issued for Central Coast hamlet as heavy rain batters parts of B.C.",
+      "published_at": "2026-03-18T06:21:23-04:00",
+      "section": "Canada",
+      "summary_auto": "Part of the hamlet of Martin Valley, located northeast of Bella Bella, is under an evacuation order as of Tuesday due to \"landslide and flood hazard risk.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8df673084f996f61b0ffe1d59c51e44cc011142e",
       "url": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss",
       "title": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
@@ -130,32 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d7964eff4f34d260bb59efde7e04ddb96d33267f",
-      "url": "https://www.cbc.ca/news/canada/montreal/emile-benamor-charged-fire-9.7132912?cmp=rss",
-      "title": "Building owner facing 7 counts of manslaughter in connection with fatal Old Montreal fire",
-      "published_at": "2026-03-18T05:01:04-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Émile Benamor, the owner of an Old Montreal building that caught fire in 2023, is being charged with seven counts of manslaughter and eight counts of criminal negligence causing bodily harm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0dfea4b48b6e4032b76e8a34dcadc53008d64af3",
-      "url": "https://www.cbc.ca/news/canada/edmonton/hospitalists-surgeries-edmonton-9.7132424?cmp=rss",
-      "title": "Mass cancellations of orthopedic surgeries likely within weeks over compensation dispute, doctors say",
-      "published_at": "2026-03-18T04:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Edmonton orthopedic surgeons are warning of widespread surgery cancellations in the coming weeks, as a result of a April 1 change to how Alberta pays surgical hospitalists.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -173,197 +420,28 @@
       }
     },
     {
-      "id": "41ebf538ee6ac28ee63c88b164f0f338f5069a8d",
-      "url": "https://www.cbc.ca/news/canada/north/medical-records-privacy-breach-9.7127915?cmp=rss",
-      "title": "Yellowknife resident says he's lost faith in the health-care system after repeated privacy breaches",
-      "published_at": "2026-03-18T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Yellowknife resident says he’s lost faith in the territory’s health-care system and wants more transparency after repeated breaches of his privacy. Such privacy breaches have happened hundreds of times over the past decade in the N.W.T., according to a government report.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb2a18d727172e61e53fb9c78dc8d3c2f0b4f2d6",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-police-corruption-murder-phones-9.7122419?cmp=rss",
-      "title": "Did organized criminals breach the Vancouver police property office? Court docs reveal VPD investigation",
-      "published_at": "2026-03-18T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC News has learned Vancouver police are investigating whether someone with access to the force's property office colluded with organized criminals to tamper with key evidence in a high-profile murder case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.92,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a011c1cac5b3fb7e7b59f6494ceecf97c9bbec3b",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/saskatoon-family-doctor-appointment-health-care-medical-no-shows-fines-9.7131970?cmp=rss",
-      "title": "Sask. medical clinics impose fines, bans for no-show patients",
-      "published_at": "2026-03-18T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Dr. Jason Hosain, who has studied no-shows in Saskatchewan and the response to them, said he understands the increased value placed on appointments with family doctors, even though he does not believe no-shows represent a growing problem.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "9c63961f54ea20edc2c65264c773ae254c95c749",
       "url": "https://www.cbc.ca/news/world/iran-israel-united-states-attacks-9.7132837?cmp=rss",
-      "title": "Iran threatens attacks on Gulf oil infrastructure as Israel kills another regime official",
+      "title": "Iran hits Qatar energy hub after its Pars oil field struck",
       "published_at": "2026-03-18T01:45:08-04:00",
       "section": "World",
-      "summary_auto": "Iran’s state television published a threat on Wednesday saying the Islamic Republic would be attacking oil and gas infrastructure in Qatar, Saudi Arabia and the United Arab Emirates amid a new wave of strikes on its Persian Gulf neighbours and Israel.",
+      "summary_auto": "Iran accused Israel of striking its facilities in the huge Pars gas field on Wednesday in a major escalation in the U.S.-Israeli war that sent oil prices ‌shooting higher, and retaliated ‌by vowing attacks on oil and gas targets throughout the Gulf, firing missiles at Qatar and Saudi Arabia.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.934,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "abc6099a9f304b4df0e57dac6186547ffe164eb0",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/fam-program-support-entrepreneurs-9.7118893?cmp=rss",
-      "title": "New program aims to support and connect 2SLGBTQ+ entrepreneurs in Canada",
-      "published_at": "2026-03-18T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Canadian Queer Chamber of Commerce has launched the FAM Program. It's aimed at providing networking, training and other supports to 2SLGBTQ+ entrepreneurs and businesses.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "98c7ab1974c254935fed34c956d35a74b82b0486",
       "url": "https://www.cbc.ca/news/world/israel-airstrikes-beirut-iran-9.7132819?cmp=rss",
-      "title": "Israeli airstrikes kill at least 12 in central Beirut, Lebanese authorities say",
+      "title": "Israeli airstrikes in Beirut intensify, demolishing a 10-storey building and striking bridges",
       "published_at": "2026-03-18T00:44:17-04:00",
       "section": "World",
-      "summary_auto": "Israel stepped up airstrikes on Beirut on Wednesday, killing at least 12 people and destroying a 10-storey building near the city center in the third week of its war with Hezbollah, Lebanese authorities said.",
+      "summary_auto": "Israel stepped up airstrikes on Beirut on Wednesday, killing at least 10 people and destroying a 10-storey building near the city center in the third week of its war with Hezbollah, Lebanese authorities said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.956,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e4d36efaa52cfa9d75f320c7a460f75afbcb3820",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/jordan-anthony-cains-quest-tribute-9.7130696?cmp=rss",
-      "title": "'He got to do his race': Mother thanks Cain's Quest racers for helping late son cross the finish line",
-      "published_at": "2026-03-18T00:30:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jordan Anthony had always wanted to complete Cain's Quest, but tragically died months after his first attempt. As his teammate raced and completed the journey this year with his ashes, Anthony's mother says it's brought her closure in that her son's goal is now complete.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ae04a698dfe46b53fa5e92cdd64024ad5ac70b2",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/canada-border-agency-misconduct-immigration-fraud-sask-9.7125144?cmp=rss",
-      "title": "Border agency 'systemic collapse' allows man found guilty of immigration fraud to walk free and sue Canada",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Gurpreet Singh is suing the Canada Border Services Agency (CBSA), alleging it violated his charter rights. In 2022, he was found guilty of immigration fraud but a judge found CBSA treated him unfairly so he granted Singh a \"windfall\" — no criminal record and no jail sentence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.565,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d9f5c6b3bf2a4f97890d18e1cedce078e9372ed",
-      "url": "https://www.cbc.ca/news/canada/andean-medjedovic-lobbyist-seeking-pardon-9.7130131?cmp=rss",
-      "title": "Canadian crypto fugitive is seeking U.S. presidential pardon on criminal indictment, U.S. lobbying firm says",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Washington, D.C., lobbying firm says it is seeking a presidential pardon for Canadian crypto fugitive Andean Medjedovic, documents filed with the U.S. Department of Justice show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "732619338ccf46fee85bd5299d2dba612e1fa497",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-diesel-iran-kalibrate-9.7132148?cmp=rss",
-      "title": "Diesel prices surge to highest since 2022, raising concern for shipping, consumer costs",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The ongoing U.S.-Iran war is causing diesel prices to spike across the country, climbing nearly 30 per cent since the beginning of March. In some parts of Quebec, a litre of diesel is selling for almost $2.50.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a4f34a4d561963dac9e520ed3146f8405d55cb9a",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/pioneer-ridge-criminal-charges-9.7131987?cmp=rss",
-      "title": "Thunder Bay, Ont., long-term care home, staff member face criminal charges in resident's 2025 death",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A city-operated long-term care facility in Thunder Bay, Ont., and a staff member face criminal charges following the death of an 86-year-old resident. Here's what we know about the investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7ab0334c5242fab31c06d98d31e59d8581e27e72",
-      "url": "https://www.cbc.ca/news/canada/hamilton/overdoses-safe-drug-consumption-funding-cuts-9.7132358?cmp=rss",
-      "title": "As Niagara Region’s only safe drug consumption site faces closure, advocates fear more people will die",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Advocates fear the looming closure of the Niagara Region's sole safe drug consumption site, in St. Catharines, Ont., will result in a spike in overdose deaths and cases of blood-borne infections such as hepatitis C and HIV.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.74,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "375ba234132b17d2cd616ee1f92e786157151856",
-      "url": "https://www.cbc.ca/news/canada/london/freedom-of-information-ai-9.7132386?cmp=rss",
-      "title": "'We've had enough secrets': First Nations group opposes Ontario move to limit freedom-of-information laws",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A group representing First Nations is speaking out against Ontario’s proposed legislation to change freedom-of-information laws, saying there's concern the move would reduce Indigenous communities’ ability to access important information.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "7286217eb01ecf97f31947216053be525207f60b",
-      "url": "https://www.cbc.ca/sports/hockey/usports-womens-hockey-nationals-2026-preview-9.7132409?cmp=rss",
-      "title": "Top-ranked UBC looks to turn dominant season into 1st women's hockey championship",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The University of British Columbia is the top seed among the eight teams vying for a national Canadian university women's hockey championship, which begins on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4336cf012753ab9dffe06c4679478e7e9733b96d",
-      "url": "https://www.cbc.ca/news/politics/noma-letter-carney-highway-17-highway-11-9.7132249?cmp=rss",
-      "title": "Northwestern Ontario pleads for federal funding as highway fatalities mount",
-      "published_at": "2026-03-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Northern Ontario politicians are urgently appealing to the federal government for help during one of the deadliest winters on record along 2,000 kilometres of highway between Kenora, Sudbury and North Bay.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": -0.917,
         "subjectivity_hint": "low"
       }
     },
@@ -378,6 +456,19 @@
         "article_type": "News",
         "sentiment": -0.67,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "732619338ccf46fee85bd5299d2dba612e1fa497",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-diesel-iran-kalibrate-9.7132148?cmp=rss",
+      "title": "Diesel prices surge to highest since 2022, raising concern for shipping, consumer costs",
+      "published_at": "2026-03-18T00:00:00-04:00",
+      "section": "Business",
+      "summary_auto": "The ongoing U.S.-Iran war is causing diesel prices to spike across the country, climbing nearly 30 per cent since the beginning of March. In some parts of Quebec, a litre of diesel is selling for almost $2.50.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -404,71 +495,6 @@
         "article_type": "News",
         "sentiment": 0.25,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96805537f42ddb2ae98c00209a6d47dbb7711a8a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/lululemon-fourth-quarter-results-9.7132663?cmp=rss",
-      "title": "Lululemon's net income down as brand promises product shakeup",
-      "published_at": "2026-03-17T17:32:28-04:00",
-      "section": "Business",
-      "summary_auto": "Interim co-chief executive and chief financial officer Meghan Frank said Tuesday that the apparel retailer plans to shake up its product assortment with fewer logos, a \"more focused and co-ordinated\" colour palette and a \"more edited\" assortment of small accessories.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.493,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "547f174e7b1f2df9b150cc39bd0584b46aedc4a2",
-      "url": "https://www.cbc.ca/news/world/netanyahu-video-proof-of-life-iran-israel-9.7132558?cmp=rss",
-      "title": "Netanyahu posts video to dispel rumours of his death after disinformation spreads online",
-      "published_at": "2026-03-17T16:32:19-04:00",
-      "section": "World",
-      "summary_auto": "​Israeli Prime Minister Benjamin Netanyahu posted a video of himself getting a coffee on Sunday in an apparent attempt to prove that online rumours of his death have been greatly exaggerated.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0a66f0ba15d9b3ec383f60cc88bf13196b45beb0",
-      "url": "https://www.cbc.ca/news/world/cuba-reconnects-electrical-grid-9.7132502?cmp=rss",
-      "title": "Cuba reconnects electrical grid, but millions are still without power",
-      "published_at": "2026-03-17T15:53:11-04:00",
-      "section": "World",
-      "summary_auto": "Cuba has reconnected its electrical grid across much of the country, the Energy and Mines Ministry said early on Tuesday, just hours after U.S. President Donald Trump escalated his rhetoric against the communist-run ‌island, saying he could do anything he wanted with Cuba.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.392,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0cc20b1c8e990e7965f576928bc8bc98a2d5d81c",
-      "url": "https://www.cbc.ca/news/politics/long-ballot-protest-terrebonne-byelection-9.7132560?cmp=rss",
-      "title": "Longest ballot organizers eye protest in upcoming Montreal-area byelection",
-      "published_at": "2026-03-17T15:42:25-04:00",
-      "section": "Canada",
-      "summary_auto": "A group that has signed up droves of protest candidates in a number of elections and byelections in recent years is organizing in another upcoming vote, this time in Terrebonne.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad9fce6e3f2f8cc19e6dad68836588a82fc43c44",
-      "url": "https://www.cbc.ca/player/play/9.7132621?cmp=rss",
-      "title": "Is Iran waging war with mines in the Strait of Hormuz? | About That",
-      "published_at": "2026-03-17T15:16:31-04:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang explains what we know about Iran's sea mine capabilities and why they can be such a destructive and difficult naval threat to remove — especially in a critical shipping route. Images provided by The Canadian Press, Reuters, Adobe Stock, CAT-UXO and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.947,
-        "subjectivity_hint": "medium"
       }
     }
   ]
