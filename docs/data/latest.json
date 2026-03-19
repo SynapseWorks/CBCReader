@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-19T10:42:32.786584-04:00",
+  "generated_at": "2026-03-19T14:48:29.417378-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "42af197b9079002d5d5f6602594dcd5cd51530ab",
+      "url": "https://www.cbc.ca/news/entertainment/joseph-duggar-arrested-9.7134777?cmp=rss",
+      "title": "19 Kids and Counting star Joseph Duggar arrested, accused of child sexual abuse",
+      "published_at": "2026-03-19T08:15:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Joseph Duggar, former star of the TLC show 19 Kids and Counting, was arrested and charged in Arkansas Wednesday for lewd and lascivious behaviour involving unlawful sexual activity with a minor, authorities said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8e27711c9b0492c71902a79eae2c32c54da072bd",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-liberals-firearm-ban-9.7134608?cmp=rss",
+      "title": "Canada's top court will hear challenges to Liberals' firearms ban",
+      "published_at": "2026-03-19T07:17:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Supreme Court will hear arguments against the Liberal government's controversial decision to outlaw certain firearms.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "266e6353a33cb53ab85bcde423f9cb41a31ec2a5",
+      "url": "https://www.cbc.ca/news/world/hezbollah-war-israel-9.7007514?cmp=rss",
+      "title": "Can Lebanon's Hezbollah survive another war with Israel?",
+      "published_at": "2026-03-19T07:13:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "With its ally Iran now at war with the U.S. and Israel, and the Israel Defence Forces pounding Hezbollah’s weapons storage and infrastructure and killing senior leadership, can the militant group survive another war?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.964,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "372524e8de016d0f13b02f389101e645ad82f6d3",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-arson-extortion-9.7134566?cmp=rss",
+      "title": "2 men deported over alleged roles in extortions targeting Edmonton's South Asian community, police say",
+      "published_at": "2026-03-19T06:57:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Edmonton police along with federal law enforcement deported two men for their connection to extortion schemes targeting business owners in the city's South Asian community. Similar criminal schemes have seen businesses burned across Edmonton in recent years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "ab44b9d1f2379d873e43d16d2d1633e02e9b87f4",
       "url": "https://www.cbc.ca/news/politics/army-rifles-defence-procurement-canada-9.7134518?cmp=rss",
@@ -13,6 +65,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f1cf5fa9393579cef697b20a9ca2a492750d8eb",
+      "url": "https://www.cbc.ca/news/canada/toronto/umar-zameer-lawyers-opp-report-9.7134502?cmp=rss",
+      "title": "Umar Zameer's lawyer calls for public inquiry after Doug Ford, police cast doubt on acquittal",
+      "published_at": "2026-03-19T06:21:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The lawyer for a man acquitted in a high-profile Toronto murder trial where a police officer was killed is calling for a public inquiry into the “secretive process” behind a recent Ontario Provincial Police report that re-examines evidence from the trial.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
         "subjectivity_hint": "low"
       }
     },
@@ -56,25 +121,12 @@
       }
     },
     {
-      "id": "3164abe6bf585cbe2c4ec4c91385bd012ae5fafd",
-      "url": "https://www.cbc.ca/news/world/livestory/us-israel-iran-war-9.7134369?cmp=rss",
-      "title": "Global markets sink, fuel prices soar as Iran hits Gulf refineries in multiple countries",
-      "published_at": "2026-03-19T03:40:05-04:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a68e403e15d4ab4f8464c7fd909a83b17610c781",
       "url": "https://www.cbc.ca/news/canada/north/oil-price-nwt-home-heating-electrictity-yellowknife-9.7133865?cmp=rss",
       "title": "N.W.T. residents who heat home with oil may pay more due to war in Middle East",
       "published_at": "2026-03-19T02:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A senior’s advocate in Yellowknife says she is concerned that the global jump in oil prices could push seniors into poverty.",
+      "summary_auto": "A seniors' advocate in Yellowknife says she is concerned that the global jump in oil prices could push seniors into poverty.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.834,
@@ -86,7 +138,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-nurse-permanent-residency-russia-9.7133516?cmp=rss",
       "title": "Immigration rules hamper health-care recruitment, nurse says after permanent residency application rejected",
       "published_at": "2026-03-19T02:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A nurse in Winnipeg says Canada's immigration system is undercutting efforts to address a shortage of health-care workers, after his application for permanent residency was rejected on a technicality.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,11 +147,24 @@
       }
     },
     {
+      "id": "525cafa3ad18a6ef7071c38ad795f78724b0a911",
+      "url": "https://www.cbc.ca/news/canada/windsor/fatal-stabbing-of-windsor-woman-linked-to-unsolved-november-arson-9.7133660?cmp=rss",
+      "title": "'We need justice': Sister of slain Windsor, Ont., woman questions why it took police so long to release video",
+      "published_at": "2026-03-19T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Last November, someone doused Nancy Grewal's porch and lit it on fire. Four months later, she was stabbed to death outside a home in LaSalle. Now her sister wonders why police didn't appeal for leads in the arson sooner.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "8d1b68cc90895b654b837417defd38654a97c930",
       "url": "https://www.cbc.ca/news/world/soccer-iran-world-cup-us-games-9.7134335?cmp=rss",
       "title": "Iran will not play World Cup games in U.S., says soccer chief",
       "published_at": "2026-03-19T00:38:27-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Iran were one of the first nations to qualify for the finals but their participation has been in doubt since the conflict between the Islamic Republic and the United States began in late February.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,24 +203,11 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/sharp-increase-in-rehiring-of-retired-nurses-in-n-l-underscores-recruitment-and-retention-problems-union-9.7124332?cmp=rss",
       "title": "Sharp increase in rehiring of retired nurses in N.L. underscores recruitment and retention problems: union",
       "published_at": "2026-03-19T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Data obtained by CBC News shows six retired nurses were working in N.L. a decade ago. That number has jumped to 253.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bf263964bd6ea0e90a60986d84a1f206d6fc7603",
-      "url": "https://www.cbc.ca/news/canada/toronto/2-canadian-girls-stuck-in-egypt-under-a-travel-ban-requested-by-father-in-canada-9.7133529?cmp=rss",
-      "title": "2 Canadian girls stuck in Egypt under a travel ban requested by father in Canada",
-      "published_at": "2026-03-19T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Two Canadian girls are currently stuck in Egypt due to a travel ban obtained by their Egyptian-Canadian father who is living in Canada. The children's mother is trying to get the ban lifted so she can return home to Canada with her daughters.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.93,
         "subjectivity_hint": "low"
       }
     },
@@ -173,29 +225,16 @@
       }
     },
     {
-      "id": "e6f9d8f7b3157cffe20f79b064322260f020010b",
-      "url": "https://www.cbc.ca/news/business/fortnite-hiking-prices-lawsuits-google-apple-9.7132225?cmp=rss",
-      "title": "Fortnite is hiking cost of its currency to 'pay the bills.' Are its battles against Google and Apple to blame?",
+      "id": "bf263964bd6ea0e90a60986d84a1f206d6fc7603",
+      "url": "https://www.cbc.ca/news/canada/toronto/2-canadian-girls-stuck-in-egypt-under-a-travel-ban-requested-by-father-in-canada-9.7133529?cmp=rss",
+      "title": "2 Canadian girls stuck in Egypt under a travel ban requested by father in Canada",
       "published_at": "2026-03-19T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The popular online gaming platform Fortnite is hiking the price of its in-game currency starting Thursday, a rare move that experts say sheds some light on the cost of its parent company's antitrust battles against tech giants Google and Apple.",
+      "summary_auto": "Two Canadian girls are currently stuck in Egypt due to a travel ban obtained by their Egyptian-Canadian father who is living in Canada. The children's mother is trying to get the ban lifted so she can return home to Canada with her daughters.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.637,
+        "sentiment": -0.93,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ee21768414d07a174f9ad6d3ad9528be74a0616",
-      "url": "https://www.cbc.ca/news/canada/montreal/old-montreal-fire-victims-react-9.7133982?cmp=rss",
-      "title": "For families of Old Montreal fire victims, pain — and questions — still linger",
-      "published_at": "2026-03-19T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Zafar Mahmood lost his 31-year-old daughter, Dania Zafar, to a fire in Old Montreal three years ago that killed six other people and, he said, “we do miss her each and every day.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.95,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -208,6 +247,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.126,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e6f9d8f7b3157cffe20f79b064322260f020010b",
+      "url": "https://www.cbc.ca/news/business/fortnite-hiking-prices-lawsuits-google-apple-9.7132225?cmp=rss",
+      "title": "Fortnite is hiking cost of its currency to 'pay the bills.' Are its battles against Google and Apple to blame?",
+      "published_at": "2026-03-19T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The popular online gaming platform Fortnite is hiking the price of its in-game currency starting Thursday, a rare move that experts say sheds some light on the cost of its parent company's antitrust battles against tech giants Google and Apple.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
         "subjectivity_hint": "low"
       }
     },
@@ -229,7 +281,7 @@
       "url": "https://www.cbc.ca/news/world/world-happiness-2026-canada-25-9.7134296?cmp=rss",
       "title": "Canada slips further down in World Happiness rankings, due in part to social media use",
       "published_at": "2026-03-18T19:05:58-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Heavy social media use has contributed to a stark decline in well-being among young people, with the effects particularly worrying in teenage girls in English-speaking countries — including Canada — and Western Europe, according to the 2026 World Happiness Report published Thursday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -253,13 +305,13 @@
     {
       "id": "b8082028331d87d96818316937e4f0e76604c1c4",
       "url": "https://www.cbc.ca/news/politics/poilievre-joe-rogan-podcast-9.7134185?cmp=rss",
-      "title": "Pierre Poilievre sits down for interview with podcaster Joe Rogan",
+      "title": "Poilievre says he used Joe Rogan podcast to argue against U.S. tariffs and 'fight for Canada'",
       "published_at": "2026-03-18T16:48:42-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Conservative Leader Pierre Poilievre is set to appear on The Joe Rogan Experience, one of the world's most popular podcasts.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.475,
+        "sentiment": -0.228,
         "subjectivity_hint": "low"
       }
     },
@@ -277,6 +329,19 @@
       }
     },
     {
+      "id": "8406f5ebf97e23fb7c7bc83ea4703cee9aa8bdc3",
+      "url": "https://www.cbc.ca/news/canada/manitoba/rivers-manitoba-alleged-school-attack-plan-9.7133870?cmp=rss",
+      "title": "Student, parent feel shocked after Manitoba teen accused of planning school attack",
+      "published_at": "2026-03-18T15:57:34-04:00",
+      "section": "Canada",
+      "summary_auto": "A student in Rivers, Man., says he is stunned the small community was the site of a high-profile arrest after police say a teenage boy was planning simultaneous school attacks with another youth in Nova Scotia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8150ad1fb24e9231b32d8c64e0df7cdb011afb69",
       "url": "https://www.cbc.ca/news/world/cuba-trump-threats-costa-rica-9.7133882?cmp=rss",
       "title": "Cuba's president lashes out at Trump's threats to take the island as regional support weakens",
@@ -287,162 +352,6 @@
         "article_type": "News",
         "sentiment": -0.34,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "15d8c4556f33c2bd133aa88ce8d173e064f68512",
-      "url": "https://www.cbc.ca/radio/asithappens/palestinian-protest-detainee-freed-9.7133713?cmp=rss",
-      "title": "Last detainee from Trump’s 2025 Gaza war protest crackdown freed after a year",
-      "published_at": "2026-03-18T14:41:10-04:00",
-      "section": "World",
-      "summary_auto": "For Leqaa Kordia, her newfound freedom means little to her until “everybody is free.\" “There is a lot of injustice in this place,” Kordia told reporters after emerging from a U.S. immigration detention centre in Texas on Monday. “There are a lot of people that shouldn’t be here in the first place. We’re going to keep fighting for them.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "efebe700d42e55884a3aa3a69ee643ca6e43798a",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-mark-mclane-death-tributes-9.7133830?cmp=rss",
-      "title": "P.E.I. health minister remembered for his leadership and dedication to community, Islanders",
-      "published_at": "2026-03-18T14:11:13-04:00",
-      "section": "Canada",
-      "summary_auto": "Mark McLane is being remembered for his humour and his leadership. The health minister and Progressive Conservative MLA for Cornwall-Meadowbank died Tuesday at 56 after a serious illness.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "de11d747434e648e84e15928b964062b3f9ebcd4",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-march-madness-canadians-9.7133927?cmp=rss",
-      "title": "March Madness features a record number of Canadians",
-      "published_at": "2026-03-18T13:20:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC Sports' daily newsletter highlights the top Canadian players in this year's NCAA men's and women's basketball tournaments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "55a070095a724e5f9be4720bffa1cb61cdec735f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/extortion-arson-cbsa-deportations-9.7133627?cmp=rss",
-      "title": "Accused extortionists deported as part of CBSA crackdown on cross-Canada network",
-      "published_at": "2026-03-18T13:14:15-04:00",
-      "section": "Canada",
-      "summary_auto": "Following extensive CBC News reporting on two Indian nationals deported for alleged links to the extortion crisis plaguing Canadian communities, the Canada Border Services Agency has identified the two men as proof of expanded efforts to disrupt extortion networks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "578bea26e42f370748678546df8cb0a77a8467fb",
-      "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-teresa-resch-wnba-cba-9.7133911?cmp=rss",
-      "title": "Toronto Tempo president ‘excited’ for team’s first tip-off after WNBA, players reach agreement in principle",
-      "published_at": "2026-03-18T13:09:26-04:00",
-      "section": "Canada",
-      "summary_auto": "In the wee hours of Wednesday morning, Toronto Tempo president Teresa Resch heard her phone ring from another room. Sure enough, in a group chat with the WNBA’s other team presidents, news was spreading that there was indeed a deal in principle on a collective bargaining agreement. Now, things are about to get real.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "31652d1906ab49dcf086b301f22fb9b85421fff2",
-      "url": "https://www.cbc.ca/news/canada/toronto/officials-call-for-reversal-of-temporary-release-of-convicted-murderer-9.7133838?cmp=rss",
-      "title": "Ont. premier, officials call for reversal of temporary release of convicted child killer",
-      "published_at": "2026-03-18T13:03:27-04:00",
-      "section": "Canada",
-      "summary_auto": "A recent temporary release of a child murderer in Durham Region is drawing criticism from top officials across Ontario, with calls for the parole board to keep him behind bars before he’s let out again.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b518d4b0a2dff0b8094c871d6a83a6892f218794",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-medical-assistance-in-dying-limits-legislation-9.7133788?cmp=rss",
-      "title": "Alberta bill would limit medically assisted dying to patients facing 'reasonably foreseeable' death",
-      "published_at": "2026-03-18T12:48:12-04:00",
-      "section": "Health",
-      "summary_auto": "New legislation would prevent anyone in Alberta from receiving medical assistance in dying (MAID) who is unlikely to die within the next 12 months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.827,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7d38cfea963c4cea831d6575570d049686128eb2",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/budget-2026-27-deficit-health-care-education-oil-9.7133515?cmp=rss",
-      "title": "Sask. budget projects $819M deficit, no return to surplus until 2030",
-      "published_at": "2026-03-18T12:18:07-04:00",
-      "section": "Canada",
-      "summary_auto": "Titled \"Protecting Saskatchewan,\" the budget echoes a refrain that Premier Scott Moe and Reiter have repeated in the weeks before the budget — no tax increases or service cuts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fa0aa3c9e4b225ee12b1128cd93213b6576ab0e",
-      "url": "https://www.cbc.ca/news/canada/toronto/lakeshore-west-go-train-person-struck-9.7133746?cmp=rss",
-      "title": "Boy dead after being struck by GO train in Mississauga, police say",
-      "published_at": "2026-03-18T11:48:43-04:00",
-      "section": "Canada",
-      "summary_auto": "A boy was fatally struck by a westbound GO train in Mississauga on Wednesday afternoon, police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e21675657ebd345cbf01abc49fc8806e54688731",
-      "url": "https://www.cbc.ca/news/politics/canada-population-decline-first-time-9.7133643?cmp=rss",
-      "title": "Canada's population shrank last year — a first for the country, StatsCan says",
-      "published_at": "2026-03-18T11:35:39-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's population dropped last year, marking the first time the country has seen an annual net decline in residents since Confederation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6b60aeaad99998656a3b3098ed623bb44b8429d9",
-      "url": "https://www.cbc.ca/news/world/cesar-chavez-allegations-sexual-abuse-huerta-9.7133645?cmp=rss",
-      "title": "U.S. civil rights leader Dolores Huerta says Cesar Chavez sexually assaulted her in the 1960s",
-      "published_at": "2026-03-18T11:35:27-04:00",
-      "section": "World",
-      "summary_auto": "Civil rights ​leader Dolores Huerta, who co-founded the United Farm Workers union with Cesar Chavez and fought alongside him for decades to expand labour rights in the U.S., on Wednesday accused Chavez of sexually assaulting her in the 1960s.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6eaed12880a029929537b745c1e2ded3349b93fc",
-      "url": "https://www.cbc.ca/player/play/9.7133211?cmp=rss",
-      "title": "While Canada pumps the brakes on robotaxis, China hits the gas",
-      "published_at": "2026-03-18T11:09:01-04:00",
-      "section": "World",
-      "summary_auto": "Canada is still figuring out regulations when it comes to driverless vehicles, like robotaxis, on its roads. China, on the other hand, has embraced the technology, rolling out fully autonomous vehicles in select areas of cities like Beijing, Wuhan and Shanghai. CBC’s Lisa Xing and Chris Brown are in China as part of special coverage and took a ride inside a vehicle to see what it’s like.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.908,
-        "subjectivity_hint": "low"
       }
     }
   ]
