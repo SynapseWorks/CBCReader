@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-21T08:35:11.640448-04:00",
+  "generated_at": "2026-03-21T10:21:15.184440-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "9ef48fdc0bf533cd19442de3da05d713013f7f27",
+      "url": "https://www.cbc.ca/news/world/cuba-blackouts-oil-blockade-trump-9.7137288?cmp=rss",
+      "title": "Cubans say every day is a struggle for survival as they face blackouts, water and fuel shortages",
+      "published_at": "2026-03-21T05:37:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Blackouts have been common for years, but now, since U.S. President Donald Trump imposed an oil blockade on Cuba in hopes of forcing the country’s collapse, the interruptions have become more frequent, longer, sometimes engulfing the whole country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.739,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "851f7a4364015999e3d3daa392cc31e400b7f62d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bonnie-henry-covid-pandemic-six-years-later-9.7132656?cmp=rss",
+      "title": "'A time of great uncertainty': B.C.'s provincial health officer reflects on 6 years since COVID lockdown began",
+      "published_at": "2026-03-21T05:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "As the world continues to grapple with global uncertainty, Dr. Bonnie Henry reminds people to remember lessons of kindness and support that we learned during the COVID-19 pandemic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "9f174fb64c812ed5dd122c26f34afca89ada454e",
       "url": "https://www.cbc.ca/news/canada/calgary/gas-rationing-stamps-oil-crisis-9.7134294?cmp=rss",
@@ -13,6 +39,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3cf3109332d138d4c3a9d3c1092d3163bc2d59ff",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-ticket-resale-cap-reaction-9.7136731?cmp=rss",
+      "title": "How is Ontario’s ticket resale crackdown being received? Fans and insiders sound off",
+      "published_at": "2026-03-21T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Sports and music fans are applauding the province’s plans to outlaw sky-high ticket resale prices, but some insiders say there’s more work to be done.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.262,
         "subjectivity_hint": "low"
       }
     },
@@ -30,32 +69,6 @@
       }
     },
     {
-      "id": "5e412e357f92c99791c4ba5f92c4045d5c87f3e9",
-      "url": "https://www.cbc.ca/news/science/seabed-mining-isa-trump-9.7136815?cmp=rss",
-      "title": "U.S. pushes ahead on deep-sea mining. The rest of the world isn’t so sure",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Even as the race to mine the ocean floor for important minerals intensifies, a UN-body tasked with establishing regulations for the emerging industry ended a key global meeting this week without a new mining code.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.585,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a81db1abe148ad0946c1bd217267575e48aa31ee",
-      "url": "https://www.cbc.ca/news/politics/nuclear-france-us-trump-greenland-9.7136790?cmp=rss",
-      "title": "Europe is eyeing France's nuclear shield. Should Canada follow?",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As European allies quietly explore France's nuclear umbrella amid doubts about U.S. reliability, Canada faces an uncomfortable question: join or stay clear. While Ottawa rejects going nuclear, extending French deterrence to North America risks inflaming tensions with Washington — and raises stark questions about who would defend whom in a crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "f090ae4025fa2971f945c80b4f6a0829d918cc53",
       "url": "https://www.cbc.ca/news/entertainment/new-folk-protest-music-9.7135014?cmp=rss",
       "title": "On TikTok, a new group of folk musicians are taking the genre back to its political roots",
@@ -66,6 +79,32 @@
         "article_type": "News",
         "sentiment": -0.19,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "50051c3e0817fb946fc462bc7c5690afedafe2da",
+      "url": "https://www.cbc.ca/news/world/france-elections-far-right-9.7135943?cmp=rss",
+      "title": "Will the far right's gains in France’s local elections pave the way to the presidency?",
+      "published_at": "2026-03-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The recent elections mark another step in the National Rally’s effort to move from the fringes to the mainstream in French politics. Despite more professional campaigns, the party still struggles to shake its reputation for extremism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5e412e357f92c99791c4ba5f92c4045d5c87f3e9",
+      "url": "https://www.cbc.ca/news/science/seabed-mining-isa-trump-9.7136815?cmp=rss",
+      "title": "U.S. pushes ahead on deep-sea mining. The rest of the world isn’t so sure",
+      "published_at": "2026-03-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Even as the race to mine the ocean floor for important minerals intensifies, a UN-body tasked with establishing regulations for the emerging industry ended a key global meeting this week without a new mining code.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.585,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -82,16 +121,16 @@
       }
     },
     {
-      "id": "50051c3e0817fb946fc462bc7c5690afedafe2da",
-      "url": "https://www.cbc.ca/news/world/france-elections-far-right-9.7135943?cmp=rss",
-      "title": "Will the far right's gains in France’s local elections pave the way to the presidency?",
+      "id": "a81db1abe148ad0946c1bd217267575e48aa31ee",
+      "url": "https://www.cbc.ca/news/politics/nuclear-france-us-trump-greenland-9.7136790?cmp=rss",
+      "title": "Europe is eyeing France's nuclear shield. Should Canada follow?",
       "published_at": "2026-03-21T00:00:00-04:00",
       "section": "World",
-      "summary_auto": "The recent elections mark another step in the National Rally’s effort to move from the fringes to the mainstream in French politics. Despite more professional campaigns, the party still struggles to shake its reputation for extremism.",
+      "summary_auto": "As European allies quietly explore France's nuclear umbrella amid doubts about U.S. reliability, Canada faces an uncomfortable question: join or stay clear. While Ottawa rejects going nuclear, extending French deterrence to North America risks inflaming tensions with Washington — and raises stark questions about who would defend whom in a crisis.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
+        "sentiment": -0.902,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -151,7 +190,7 @@
       "url": "https://www.cbc.ca/news/canada/canadian-stock-market-close-friday-march-20-2026-9.7136842?cmp=rss",
       "title": "Stock markets dip for another straight week as U.S. war on Iran continues",
       "published_at": "2026-03-20T13:29:11-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Canadian and U.S. stock markets sank on Friday amid fears about the effects of the U.S.-Iran war on interest rates.",
       "bias_heuristic": {
         "article_type": "News",
@@ -212,6 +251,19 @@
       }
     },
     {
+      "id": "6217cc7da3523825f0decb702e00ddb534ccde6f",
+      "url": "https://www.cbc.ca/news/canada/calgary/supervised-consumption-closing-southern-alberta-9.7136672?cmp=rss",
+      "title": "Closing drug consumption site will move overdoses onto Calgary streets, health experts fear",
+      "published_at": "2026-03-20T11:50:02-04:00",
+      "section": "Health",
+      "summary_auto": "Nearly five years after first announcing its plans to close the supervised consumption site at the Sheldon M. Chumir Health Centre, the Alberta government set a date to close the site later this year and replace it with services more focused on recovery and treatment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.079,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "3682ef2a00de15f3b9beb8f1a0fa948c976a0361",
       "url": "https://www.cbc.ca/news/canada/calgary/alberta-jordan-peterson-the-path-alberta-law-society-9.7136398?cmp=rss",
       "title": "Alberta’s 'Peterson law' leads lawyers' regulator to stop mandating Indigenous education course",
@@ -229,7 +281,7 @@
       "url": "https://www.cbc.ca/news/world/drones-ukraine-kuwait-qatar-9.7136187?cmp=rss",
       "title": "As Middle Eastern countries struggle to down Iranian drones, Ukraine sends 200 specialists to help",
       "published_at": "2026-03-20T11:03:14-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "After Iranian Shahed drones hit an oil refinery in Kuwait, Ukrainian President Volodymyr Zelenskyy confirmed that Kyiv has sent more than 200 military specialists to the Middle East to help defend critical infrastructure from the same type of threat Ukraine has faced for years.",
       "bias_heuristic": {
         "article_type": "News",
