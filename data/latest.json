@@ -1,14 +1,79 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-21T10:21:15.184440-04:00",
+  "generated_at": "2026-03-21T14:28:03.540027-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "b884cd1057f970ed561a64ee4e47236b546be001",
+      "url": "https://www.cbc.ca/news/world/robert-mueller-obit-9.7137425?cmp=rss",
+      "title": "Robert Mueller, 9/11-era FBI chief who later probed alleged Trump-Russia ties, dead at 81",
+      "published_at": "2026-03-21T09:34:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Robert Mueller, the FBI director and U.S. special counsel who investigated Russia-Trump campaign ties, dies at 81.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ba38e217613271217503cc9da7244b58384418d2",
+      "url": "https://www.cbc.ca/news/world/hawaii-flooding-evacuations-9.7137381?cmp=rss",
+      "title": "Thousands urged to evacuate as Hawaii flooding anticipated to cause widespread damage",
+      "published_at": "2026-03-21T08:15:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As Hawaii endures its worst flooding in more than 20 years, officials are urging people in hard-hit areas to \"LEAVE NOW.\" The warning early Saturday came after heavy rains fell on soil already saturated by downpours from a winter storm a week ago. Still more rain was expected during the weekend, officials said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.892,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "137dedfc35ff42a7a6ec202cab922acff896999d",
+      "url": "https://www.cbc.ca/news/entertainment/bts-comeback-concert-arirang-world-tour-9.7137339?cmp=rss",
+      "title": "K-pop sensation BTS ends 4-year hiatus with free comeback concert in Seoul",
+      "published_at": "2026-03-21T07:34:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After a four-year break, K-pop supergroup BTS returned Saturday with a massive, free comeback concert in Seoul, where thousands of police locked down a central boulevard for the Netflix-exclusive spectacle that drew tens of thousands of fans.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "972c3853fc22d02558b546750d47bb39a8aa5e08",
+      "url": "https://www.cbc.ca/news/world/iranian-kurdish-camps-kurdistan-border-attacks-9.7137325?cmp=rss",
+      "title": "Iranian Kurdish fighters find themselves in the middle of U.S.-Iran war as they wait in Iraq",
+      "published_at": "2026-03-21T07:29:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite the attacks on Iranian Kurdish camps in Iraq, there remains a waiting game for Iranian Kurds hoping to play a part in regime change across the border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.362,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9ef48fdc0bf533cd19442de3da05d713013f7f27",
+      "url": "https://www.cbc.ca/news/world/cuba-blackouts-oil-blockade-trump-9.7137288?cmp=rss",
+      "title": "In Cuba, every day is a struggle for survival",
+      "published_at": "2026-03-21T05:37:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Blackouts have been common for years, but now, since U.S. President Donald Trump imposed an oil blockade on Cuba in hopes of forcing the country’s collapse, the interruptions have become more frequent, longer, sometimes engulfing the whole country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.739,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "9ef48fdc0bf533cd19442de3da05d713013f7f27",
       "url": "https://www.cbc.ca/news/world/cuba-blackouts-oil-blockade-trump-9.7137288?cmp=rss",
       "title": "Cubans say every day is a struggle for survival as they face blackouts, water and fuel shortages",
       "published_at": "2026-03-21T05:37:45-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Blackouts have been common for years, but now, since U.S. President Donald Trump imposed an oil blockade on Cuba in hopes of forcing the country’s collapse, the interruptions have become more frequent, longer, sometimes engulfing the whole country.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,11 +95,37 @@
       }
     },
     {
+      "id": "d89c5f789b0e53c613abc35c896c1e78edac58b4",
+      "url": "https://www.cbc.ca/news/world/iran-nuclear-facility-fourth-week-us-troops-9.7137298?cmp=rss",
+      "title": "Israel threatens surge in attacks as Iran fires missiles farther than ever",
+      "published_at": "2026-03-21T04:40:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Israel's defence minister threatened a surge in attacks against Iran on Saturday, and Britain condemned Iran for targeting a joint U.K.-U.S. base in the Indian Ocean as the war in the Middle East entered its fourth week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.95,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f174fb64c812ed5dd122c26f34afca89ada454e",
+      "url": "https://www.cbc.ca/news/canada/calgary/gas-rationing-stamps-oil-crisis-9.7134294?cmp=rss",
+      "title": "Canada was prepared to ration gas in the 1979 oil crisis. Could we be running on fumes once again?",
+      "published_at": "2026-03-21T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada considered conserving oil with gasoline rationing stamps in 1979. While it never put the stamps into circulation, economist Peter Tertzakian said the proofs are a reminder that anything can happen in an oil shortage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "9f174fb64c812ed5dd122c26f34afca89ada454e",
       "url": "https://www.cbc.ca/news/canada/calgary/gas-rationing-stamps-oil-crisis-9.7134294?cmp=rss",
       "title": "‘Eerie parallel’: Archived stamps reveal Canada was prepared to ration gas in the 1979 oil crisis",
       "published_at": "2026-03-21T04:00:00-04:00",
-      "section": "Business",
+      "section": "Canada",
       "summary_auto": "Canada considered conserving oil with gasoline rationing stamps in 1979. While it never put the stamps into circulation, economist Peter Tertzakian said the proofs are a reminder that anything can happen in an oil shortage.",
       "bias_heuristic": {
         "article_type": "News",
@@ -43,9 +134,22 @@
       }
     },
     {
+      "id": "4c2b1bb2270c7d96c60d7a73a09c1578c478ef3e",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/dalton-dubois-runway-chanel-exclusive-paris-fashion-week-9.7130734?cmp=rss",
+      "title": "Ontario model becomes 1st transgender person on Chanel Exclusive's catwalk at Paris Fashion Week",
+      "published_at": "2026-03-21T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "On her modelling journey, Dalton Dubois of Guelph, Ont., says it's involved \"a lot of proving yourself\" after she quit her job at a retirement home. Recently, she became the first transgender person to walk Chanel Exclusive's runway at Paris Fashion Week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "3cf3109332d138d4c3a9d3c1092d3163bc2d59ff",
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-ticket-resale-cap-reaction-9.7136731?cmp=rss",
-      "title": "How is Ontario’s ticket resale crackdown being received? Fans and insiders sound off",
+      "title": "How fans and industry insiders feel about Ontario’s ticket resale crackdown",
       "published_at": "2026-03-21T01:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "Sports and music fans are applauding the province’s plans to outlaw sky-high ticket resale prices, but some insiders say there’s more work to be done.",
@@ -60,7 +164,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/andrew-scott-drummer-sloan-painter-nscad-university-halifax-life-fellow-9.7128244?cmp=rss",
       "title": "3 credits short of a degree, he left NSCAD for a music career. The school is now honouring him",
       "published_at": "2026-03-21T01:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "When Andrew Scott decided to chase a career in music and give up his studies, it was only going to be temporary. \"I'm not going to be in a rock band when I'm 30,\" Scott told his mom. Thirty-five years later, he's still making music with Sloan. His former school is giving him a prestigious designation.",
       "bias_heuristic": {
         "article_type": "News",
@@ -69,16 +173,29 @@
       }
     },
     {
-      "id": "f090ae4025fa2971f945c80b4f6a0829d918cc53",
-      "url": "https://www.cbc.ca/news/entertainment/new-folk-protest-music-9.7135014?cmp=rss",
-      "title": "On TikTok, a new group of folk musicians are taking the genre back to its political roots",
+      "id": "5d2852f6288c65b546fb6c4289da51bef1f15d5c",
+      "url": "https://www.cbc.ca/news/politics/ndp-leadership-race-final-week-avi-lewis-heather-mcpherson-rob-ashton-9.7136678?cmp=rss",
+      "title": "NDP leadership hopefuls make final push ahead of convention vote",
       "published_at": "2026-03-21T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Their lyrics are pointed, specific and reference big political events that happened just days ago. Protest music experts say the responsiveness to the current moment has helped these artists catch fire online but say they'll need to move their message into the real world if they want it to stick.",
+      "summary_auto": "With one week until New Democrats choose a new federal leader, the front-runner in the race says he's preparing a transition team and hopes the party can use his campaign machinery in the next election.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.19,
+        "sentiment": 0.67,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6935d2e59b78ce0ba3c83113840e99dc1d305290",
+      "url": "https://www.cbc.ca/news/canada/first-person-conflict-over-iran-war-9.7135197?cmp=rss",
+      "title": "I fear the violence of war but I also fear a future where nothing changes in Iran",
+      "published_at": "2026-03-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Like many Iranian Canadians, Mehdi M. Kashani is watching the events in Iran with grief for his country and anxiety for his parents in Tehran. But he also says the reality is not a straightforward choice between war and peace.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.934,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -95,6 +212,19 @@
       }
     },
     {
+      "id": "f090ae4025fa2971f945c80b4f6a0829d918cc53",
+      "url": "https://www.cbc.ca/news/entertainment/new-folk-protest-music-9.7135014?cmp=rss",
+      "title": "On TikTok, a new group of folk musicians are taking the genre back to its political roots",
+      "published_at": "2026-03-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Their lyrics are pointed, specific and reference big political events that happened just days ago. Protest music experts say the responsiveness to the current moment has helped these artists catch fire online but say they'll need to move their message into the real world if they want it to stick.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.19,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "5e412e357f92c99791c4ba5f92c4045d5c87f3e9",
       "url": "https://www.cbc.ca/news/science/seabed-mining-isa-trump-9.7136815?cmp=rss",
       "title": "U.S. pushes ahead on deep-sea mining. The rest of the world isn’t so sure",
@@ -105,19 +235,6 @@
         "article_type": "News",
         "sentiment": 0.585,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0d64fcde6b063a405cfe2279914ba4b4afe8dc67",
-      "url": "https://www.cbc.ca/news/world/trump-us-israel-iran-war-what-next-decisions-9.7136960?cmp=rss",
-      "title": "Trump says the war on Iran is 'militarily' won. Yet there's still no end — or endgame — in sight",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Three weeks in, the joint U.S.-Israel combat operation has killed much of Iran's leadership, knocked out much of its ballistic missile capability, sunk nearly all of its navy and, according to U.S. President Donald Trump, has \"militarily WON\" already. And yet, the war goes on.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.83,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -152,10 +269,10 @@
       "title": "Nicholas Brendon of TV's Buffy the Vampire Slayer dead at 54",
       "published_at": "2026-03-20T19:44:42-04:00",
       "section": "Top Stories",
-      "summary_auto": "Actor Nicholas Brendon, who co-starred on TV's Buffy the Vampire Slayer as Xander Harris, has died, according to a statement from his family posted on social media.",
+      "summary_auto": "Actor Nicholas Brendon, who co-starred on TV's Buffy the Vampire Slayer as Xander Harris, has died at 54. His family confirmed his death in a statement on Friday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.836,
+        "sentiment": -0.915,
         "subjectivity_hint": "low"
       }
     },
@@ -182,123 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f49bba3664578de3326318fc035b635f1b60731",
-      "url": "https://www.cbc.ca/news/canada/canadian-stock-market-close-friday-march-20-2026-9.7136842?cmp=rss",
-      "title": "Stock markets dip for another straight week as U.S. war on Iran continues",
-      "published_at": "2026-03-20T13:29:11-04:00",
-      "section": "Business",
-      "summary_auto": "Canadian and U.S. stock markets sank on Friday amid fears about the effects of the U.S.-Iran war on interest rates.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6a26b3e349831a3dc98e8dea76f0750722feb298",
-      "url": "https://www.cbc.ca/news/canada/edmonton/fatal-shooting-singh-9.7136695?cmp=rss",
-      "title": "Friend of Sikh student killed on Alberta highway recalls deadly daytime shooting",
-      "published_at": "2026-03-20T12:53:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Birinder Singh was driving down the highway, hoping to see Alberta’s Rocky Mountains for the first time, when a bullet from a passing vehicle ended his life.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de5d0b0c03dd5b47c766332c2ee7d74493616301",
-      "url": "https://www.cbc.ca/news/canada/kraft-dinner-protein-9.7136154?cmp=rss",
-      "title": "No, we don't need high-protein boxed mac and cheese, experts say. But people want it",
-      "published_at": "2026-03-20T12:21:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kraft Heinz has just announced it's launching a high-protein mac and cheese called PowerMac that delivers 17 grams of protein and six grams of fibre per serving. But did we ... need this?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.115,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ee992e6919979de222d7c26a37375680cbdd0e2f",
-      "url": "https://www.cbc.ca/news/canada/montreal/sperm-donor-quebec-9.7136693?cmp=rss",
-      "title": "2 men accused of fathering hundreds of kids banned from donating sperm in Quebec",
-      "published_at": "2026-03-20T11:52:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Quebec's Superior Court has temporarily barred a man and his son from donating sperm after they were accused of fathering hundreds of children.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6217cc7da3523825f0decb702e00ddb534ccde6f",
-      "url": "https://www.cbc.ca/news/canada/calgary/supervised-consumption-closing-southern-alberta-9.7136672?cmp=rss",
-      "title": "Alberta to close supervised consumption sites in Calgary, Lethbridge at end of June",
-      "published_at": "2026-03-20T11:50:02-04:00",
-      "section": "Canada",
-      "summary_auto": "Nearly five years after first announcing its plans to close the supervised consumption site at the Sheldon M. Chumir Health Centre, the Alberta government set a date to close the site later this year and replace it with services more focused on recovery and treatment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.439,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6217cc7da3523825f0decb702e00ddb534ccde6f",
-      "url": "https://www.cbc.ca/news/canada/calgary/supervised-consumption-closing-southern-alberta-9.7136672?cmp=rss",
-      "title": "Closing drug consumption site will move overdoses onto Calgary streets, health experts fear",
-      "published_at": "2026-03-20T11:50:02-04:00",
-      "section": "Health",
-      "summary_auto": "Nearly five years after first announcing its plans to close the supervised consumption site at the Sheldon M. Chumir Health Centre, the Alberta government set a date to close the site later this year and replace it with services more focused on recovery and treatment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.079,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3682ef2a00de15f3b9beb8f1a0fa948c976a0361",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-jordan-peterson-the-path-alberta-law-society-9.7136398?cmp=rss",
-      "title": "Alberta’s 'Peterson law' leads lawyers' regulator to stop mandating Indigenous education course",
-      "published_at": "2026-03-20T11:20:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The regulator for Alberta’s lawyers says it will no longer mandate Indigenous cultural competency training in advance of what Alberta Premier Danielle Smith calls the “Peterson law” coming into effect.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ae804aca42aa830d9134adf195e44b20b6489129",
-      "url": "https://www.cbc.ca/news/world/drones-ukraine-kuwait-qatar-9.7136187?cmp=rss",
-      "title": "As Middle Eastern countries struggle to down Iranian drones, Ukraine sends 200 specialists to help",
-      "published_at": "2026-03-20T11:03:14-04:00",
-      "section": "World",
-      "summary_auto": "After Iranian Shahed drones hit an oil refinery in Kuwait, Ukrainian President Volodymyr Zelenskyy confirmed that Kyiv has sent more than 200 military specialists to the Middle East to help defend critical infrastructure from the same type of threat Ukraine has faced for years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "502c4f777f353baa47ba908410713f9b44b71d67",
-      "url": "https://www.cbc.ca/news/business/netflix-warner-music-group-artist-documentaries-9.7136519?cmp=rss",
-      "title": "Netflix, Warner Music sign multi-year deal to produce artist documentaries",
-      "published_at": "2026-03-20T10:35:00-04:00",
-      "section": "World",
-      "summary_auto": "Netflix ​and Warner Music Group have signed an exclusive multi-year deal to produce documentary series and films exploring the lives, music and legacies of the label's storied artist ‌roster.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
         "subjectivity_hint": "low"
       }
     }
