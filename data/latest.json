@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-22T10:22:07.289793-04:00",
+  "generated_at": "2026-03-22T14:28:36.006852-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d77f9f0d7acebfdc2ffd3e91758ca03e5bd8edd9",
+      "url": "https://www.cbc.ca/news/politics/steve-outhouse-pierre-poilievre-mark-carney-polls-canada-election-9.7137921?cmp=rss",
+      "title": "Conservative campaign manager shrugs off polls showing Liberals have significant lead",
+      "published_at": "2026-03-22T08:44:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Conservative Party's campaign manager is shrugging off polls showing the Liberals hold a double-digit lead over the Tories — while Pierre Poilievre says he's broadening his image but won't change who he is.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "53a26c3c914d5a7ed6f0a64bab755b7d97f32908",
+      "url": "https://www.cbc.ca/player/play/9.7137922?cmp=rss",
+      "title": "Quebecers who fought in Ukraine awarded medals for their sacrifices",
+      "published_at": "2026-03-22T08:26:56-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three Quebecers who volunteered to fight in the war in Ukraine were awarded the Ukrainian Canadian Sacrifice Medal by the Ukrainian Canadian Congress.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a3452bfd196d3039f5a4a0c5e09b0b3dd2952799",
+      "url": "https://www.cbc.ca/news/world/trump-comments-robert-mueller-death-9.7137860?cmp=rss",
+      "title": "Trump sparks outrage after calling Robert Mueller's death 'good'",
+      "published_at": "2026-03-22T07:26:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump drew sharp rebukes from Democratic and some Republican officials following his blunt statement on former FBI director Robert Mueller's death.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "c527f4bc73c5915a72b4fd01b62fc117a450d6f4",
       "url": "https://www.cbc.ca/news/canada/calgary/alberta-spring-migration-avian-flu-9.7137476?cmp=rss",
@@ -40,6 +79,32 @@
         "article_type": "News",
         "sentiment": 0.791,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "71227ef49d49d5de8b952b4ad1ebeb30b51ab60a",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/airline-leaves-passenger-s-luggage-behind-9.7136146?cmp=rss",
+      "title": "N.S. man says Yukon trip ruined after Porter pulled his luggage, leaving him without winter gear",
+      "published_at": "2026-03-22T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Twenty bags were removed from a flight to the Yukon due to weight restrictions. That left a passenger travelling on a tight budget stuck in the Yukon in just a sweater and running shoes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f0f5baa8ded69f2d7ede9c3fe5e70817725fe73b",
+      "url": "https://www.cbc.ca/news/canada/toronto/northeast-pickering-development-advocates-secondary-plan-9.7136808?cmp=rss",
+      "title": "Rural land in this Ontario city could become home for 72,000 people. Critics say council is moving too fast",
+      "published_at": "2026-03-22T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates are urging Pickering city council to reject a plan to develop 1,600 hectares of rural land in the city’s northeast, pending further consultation with First Nations and studies on the project’s environmental impact and cost.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -104,32 +169,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b884cd1057f970ed561a64ee4e47236b546be001",
-      "url": "https://www.cbc.ca/news/world/robert-mueller-obit-9.7137425?cmp=rss",
-      "title": "Robert Mueller, 9/11-era FBI chief who later probed alleged Trump-Russia ties, dead at 81",
-      "published_at": "2026-03-21T12:57:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c1e42088ec4b669f85080cd5d857e11fb212ff1e",
-      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/morales-williams-world-indoors-march-21-9.7137473?cmp=rss",
-      "title": "Canada's Christopher Morales Williams wins 400m gold, sets championship record at indoor worlds",
-      "published_at": "2026-03-21T10:50:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's Christopher Morales Williams won the men's 400-metre event Saturday at the world indoor track and field championships in Torun, Poland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.926,
         "subjectivity_hint": "low"
       }
     }
