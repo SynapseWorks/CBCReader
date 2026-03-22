@@ -1,18 +1,44 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-21T21:46:13.472678-04:00",
+  "generated_at": "2026-03-22T08:37:07.795226-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "bcfa9e13b8b5642938abcf32c7d1fb0490c1571e",
-      "url": "https://www.cbc.ca/news/world/cuba-blackout-9.7137675?cmp=rss",
-      "title": "Cuba suffers 3rd countrywide blackout this month amid U.S. oil blockade",
-      "published_at": "2026-03-21T17:04:11-04:00",
+      "id": "fa71d86dbacea0bdc816f45b871d7c3bdf8b9991",
+      "url": "https://www.cbc.ca/news/world/trump-ice-us-airports-9.7137726?cmp=rss",
+      "title": "Trump says he will send ICE agents to U.S. airports during partial government shutdown",
+      "published_at": "2026-03-22T02:49:06-04:00",
       "section": "Top Stories",
-      "summary_auto": "Cuba's power grid collapsed Saturday leaving the country without electricity for a third time in March as the communist government battles with a decaying infrastructure and a U.S.-imposed oil blockade.",
+      "summary_auto": "U.S. President Donald Trump said that he will ‌be sending Immigration and Customs Enforcement agents ​on Monday to ​help out Transportation Security Administration personnel ​in U.S airports.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.859,
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9dace804b63bf63bc911182eb1948fab72831e4c",
+      "url": "https://www.cbc.ca/radio/sunday/david-suzuki-memoir-life-birthday-climate-change-9.7136044?cmp=rss",
+      "title": "At 90, David Suzuki says he has done everything he could to protect the Earth, but fears he has fallen short",
+      "published_at": "2026-03-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "With ninety laps around the sun, David Suzuki reflects on a lifetime of science advocacy and environmental work. Despite decades of effort, he warns that humanity may have already crossed a tipping point on climate change.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.775,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "02efe26ff84b3c1bdd676f658f5655195b3ec9d1",
+      "url": "https://www.cbc.ca/news/world/princesses-beatrice-eugenie-king-charles-chiefs-mark-carney-nigeria-state-visit-commonwealth-9.7136018?cmp=rss",
+      "title": "Amid the ex-prince Andrew scandal, scrutiny falls on daughters Beatrice and Eugenie",
+      "published_at": "2026-03-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As scandal has swirled around former prince Andrew Mountbatten-Windsor, there has been a growing media focus on his daughters, Princess Beatrice and Eugenie, and their titles, accommodations in royal residences and places within the line of succession.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -65,253 +91,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ba38e217613271217503cc9da7244b58384418d2",
-      "url": "https://www.cbc.ca/news/world/hawaii-flooding-evacuations-9.7137381?cmp=rss",
-      "title": "Thousands urged to evacuate as Hawaii flooding anticipated to cause widespread damage",
-      "published_at": "2026-03-21T08:15:26-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As Hawaii endures its worst flooding in more than 20 years, officials are urging people in hard-hit areas to \"LEAVE NOW.\" The warning early Saturday came after heavy rains fell on soil already saturated by downpours from a winter storm a week ago. Still more rain was expected during the weekend, officials said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.892,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "137dedfc35ff42a7a6ec202cab922acff896999d",
-      "url": "https://www.cbc.ca/news/entertainment/bts-comeback-concert-arirang-world-tour-9.7137339?cmp=rss",
-      "title": "K-pop sensation BTS ends 4-year hiatus with free comeback concert in Seoul",
-      "published_at": "2026-03-21T07:34:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "After a four-year break, K-pop supergroup BTS returned Saturday with a massive, free comeback concert in Seoul, where thousands of police locked down a central boulevard for the Netflix-exclusive spectacle that drew tens of thousands of fans.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "972c3853fc22d02558b546750d47bb39a8aa5e08",
-      "url": "https://www.cbc.ca/news/world/iranian-kurdish-camps-kurdistan-border-attacks-9.7137325?cmp=rss",
-      "title": "Iranian Kurdish fighters find themselves in the middle of U.S.-Iran war as they wait in Iraq",
-      "published_at": "2026-03-21T07:29:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite the attacks on Iranian Kurdish camps in Iraq, there remains a waiting game for Iranian Kurds hoping to play a part in regime change across the border.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.362,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ef48fdc0bf533cd19442de3da05d713013f7f27",
-      "url": "https://www.cbc.ca/news/world/cuba-blackouts-oil-blockade-trump-9.7137288?cmp=rss",
-      "title": "Cubans say every day is a struggle for survival as they face blackouts, water and fuel shortages",
-      "published_at": "2026-03-21T05:37:45-04:00",
-      "section": "World",
-      "summary_auto": "Blackouts have been common for years, but now, since U.S. President Donald Trump imposed an oil blockade on Cuba in hopes of forcing the country’s collapse, the interruptions have become more frequent, longer, sometimes engulfing the whole country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.739,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "492dec2a181413d618851440507852aec3fcbf8d",
-      "url": "https://www.cbc.ca/news/canada/calgary/banff-national-park-visitation-record-9.7135069?cmp=rss",
-      "title": "Banff National Park breaks visitation record — again",
-      "published_at": "2026-03-21T05:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The national park in Alberta saw 4.5 million visitors in the 2025-26 fiscal year, surpassing the previous high of 4.28 million in 2023-24, in what’s become almost annual increases over the last decade.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "851f7a4364015999e3d3daa392cc31e400b7f62d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bonnie-henry-covid-pandemic-six-years-later-9.7132656?cmp=rss",
-      "title": "'A time of great uncertainty': Dr. Bonnie Henry reflects on 6 years since COVID restrictions began",
-      "published_at": "2026-03-21T05:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "As the world continues to grapple with global uncertainty, Dr. Bonnie Henry reminds people to remember lessons of kindness and support that we learned during the COVID-19 pandemic.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9f174fb64c812ed5dd122c26f34afca89ada454e",
-      "url": "https://www.cbc.ca/news/canada/calgary/gas-rationing-stamps-oil-crisis-9.7134294?cmp=rss",
-      "title": "Canada was prepared to ration gas in the 1979 oil crisis. Could we be running on fumes once again?",
-      "published_at": "2026-03-21T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada considered conserving oil with gasoline rationing stamps in 1979. While it never put the stamps into circulation, economist Peter Tertzakian said the proofs are a reminder that anything can happen in an oil shortage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9f174fb64c812ed5dd122c26f34afca89ada454e",
-      "url": "https://www.cbc.ca/news/canada/calgary/gas-rationing-stamps-oil-crisis-9.7134294?cmp=rss",
-      "title": "‘Eerie parallel’: Archived stamps reveal Canada was prepared to ration gas in the 1979 oil crisis",
-      "published_at": "2026-03-21T04:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada considered conserving oil with gasoline rationing stamps in 1979. While it never put the stamps into circulation, economist Peter Tertzakian said the proofs are a reminder that anything can happen in an oil shortage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4c2b1bb2270c7d96c60d7a73a09c1578c478ef3e",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/dalton-dubois-runway-chanel-exclusive-paris-fashion-week-9.7130734?cmp=rss",
-      "title": "Ontario model becomes 1st transgender person on Chanel Exclusive's catwalk at Paris Fashion Week",
-      "published_at": "2026-03-21T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On her modelling journey, Dalton Dubois of Guelph, Ont., says it's involved \"a lot of proving yourself\" after she quit her job at a retirement home. Recently, she became the first transgender person to walk Chanel Exclusive's runway at Paris Fashion Week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cf3109332d138d4c3a9d3c1092d3163bc2d59ff",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-ticket-resale-cap-reaction-9.7136731?cmp=rss",
-      "title": "How fans and industry insiders feel about Ontario’s ticket resale crackdown",
-      "published_at": "2026-03-21T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Sports and music fans are applauding the province’s plans to outlaw sky-high ticket resale prices, but some insiders say there’s more work to be done.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.262,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c021cbaf0c3a17f1ebd703fc9207e4c937e9244f",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/andrew-scott-drummer-sloan-painter-nscad-university-halifax-life-fellow-9.7128244?cmp=rss",
-      "title": "3 credits short of a degree, he left NSCAD for a music career. The school is now honouring him",
-      "published_at": "2026-03-21T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "When Andrew Scott decided to chase a career in music and give up his studies, it was only going to be temporary. \"I'm not going to be in a rock band when I'm 30,\" Scott told his mom. Thirty-five years later, he's still making music with Sloan. His former school is giving him a prestigious designation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ada6b08e5a00efa54f07bfdf87adb41b5071a259",
-      "url": "https://www.cbc.ca/radio/thecurrent/movie-theatre-magic-watching-with-strangers-9.7133379?cmp=rss",
-      "title": "The magic of going to the theatres isn’t about the movie. It’s about watching it with strangers",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Movie theatre attendance hasn’t recovered from the COVID-19 pandemic’s disruption and the rise of streaming services. But film enthusiasts say you lose some of that movie magic when you skip the shared emotional experience of seeing a film with a roomful of strangers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d93c29ad14c50385657a07663f5fd729011878df",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/nibinamik-first-nation-power-problems-9.7136855?cmp=rss",
-      "title": "This remote First Nation is using 1 generator to power the whole community — again",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "After dealing with a week of intermittent power outages last month, Nibinamik First Nation is having problems with its diesel generating system again. On Wednesday, workers discovered the remote Oji-Cree community’s main generator — a Caterpillar C27 — had experienced a mechanical failure. Here's what the First Nation, located about 500 kilometres north of Thunder Bay, Ont., is dealing with.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6935d2e59b78ce0ba3c83113840e99dc1d305290",
-      "url": "https://www.cbc.ca/news/canada/first-person-conflict-over-iran-war-9.7135197?cmp=rss",
-      "title": "I fear the violence of war but I also fear a future where nothing changes in Iran",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Like many Iranian Canadians, Mehdi M. Kashani is watching the events in Iran with grief for his country and anxiety for his parents in Tehran. But he also says the reality is not a straightforward choice between war and peace.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.934,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5d2852f6288c65b546fb6c4289da51bef1f15d5c",
-      "url": "https://www.cbc.ca/news/politics/ndp-leadership-race-final-week-avi-lewis-heather-mcpherson-rob-ashton-9.7136678?cmp=rss",
-      "title": "NDP leadership hopefuls make final push ahead of convention vote",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "With one week until New Democrats choose a new federal leader, the front-runner in the race says he's preparing a transition team and hopes the party can use his campaign machinery in the next election.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50051c3e0817fb946fc462bc7c5690afedafe2da",
-      "url": "https://www.cbc.ca/news/world/france-elections-far-right-9.7135943?cmp=rss",
-      "title": "Will the far right's gains in France’s local elections pave the way to the presidency?",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The recent elections mark another step in the National Rally’s effort to move from the fringes to the mainstream in French politics. Despite more professional campaigns, the party still struggles to shake its reputation for extremism.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a81db1abe148ad0946c1bd217267575e48aa31ee",
-      "url": "https://www.cbc.ca/news/politics/nuclear-france-us-trump-greenland-9.7136790?cmp=rss",
-      "title": "Europe is eyeing France's nuclear shield. Should Canada follow?",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "As European allies quietly explore France's nuclear umbrella amid doubts about U.S. reliability, Canada faces an uncomfortable question: join or stay clear. While Ottawa rejects going nuclear, extending French deterrence to North America risks inflaming tensions with Washington — and raises stark questions about who would defend whom in a crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5e412e357f92c99791c4ba5f92c4045d5c87f3e9",
-      "url": "https://www.cbc.ca/news/science/seabed-mining-isa-trump-9.7136815?cmp=rss",
-      "title": "Seabed mining talks show key issues remain unresolved",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Even as the race to mine the ocean floor for important minerals intensifies, a UN-body tasked with establishing regulations for the emerging industry ended a key global meeting this week without a new mining code.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f090ae4025fa2971f945c80b4f6a0829d918cc53",
-      "url": "https://www.cbc.ca/news/entertainment/new-folk-protest-music-9.7135014?cmp=rss",
-      "title": "On TikTok, a new group of folk musicians are taking the genre back to its political roots",
-      "published_at": "2026-03-21T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Their lyrics are pointed, specific and reference big political events that happened just days ago. Protest music experts say the responsiveness to the current moment has helped these artists catch fire online but say they'll need to move their message into the real world if they want it to stick.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.19,
         "subjectivity_hint": "low"
       }
     }
