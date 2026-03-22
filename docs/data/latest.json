@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-22T08:37:07.795226-04:00",
+  "generated_at": "2026-03-22T10:22:07.289793-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c527f4bc73c5915a72b4fd01b62fc117a450d6f4",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-spring-migration-avian-flu-9.7137476?cmp=rss",
+      "title": "Alberta poultry farmers brace for spring migration after last year's surge in avian flu cases",
+      "published_at": "2026-03-22T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Spring is heralded by the return of geese, but to many in Alberta's poultry industry, migration means something different. With last year's avian flu season considered the worst in years, farmers are being mindful to avoid their flocks contracting the disease.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.928,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "fa71d86dbacea0bdc816f45b871d7c3bdf8b9991",
       "url": "https://www.cbc.ca/news/world/trump-ice-us-airports-9.7137726?cmp=rss",
@@ -14,6 +27,32 @@
         "article_type": "News",
         "sentiment": 0.34,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ba9254a0299aab32d36ead0ff3544cfa952de62",
+      "url": "https://www.cbc.ca/news/canada/montreal/amber-alert-quebec-9.7137730?cmp=rss",
+      "title": "Amber Alert ends after children found safe in Trois-Rivières, Que., area",
+      "published_at": "2026-03-22T01:36:34-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Amber Alert issued after two young children who were reported missing on Saturday in Trois-Rivières, Que., about 150 kilometres northeast of Montreal, has ended. Quebec provincial police said the children were located Sunday morning and are safe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "caaa859ec4e641f960519809eb52d6b68ddb9949",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/hmcs-otter-halifax-harbour-march-26-1941-fire-sinking-rescue-9.7137297?cmp=rss",
+      "title": "Sinking of HMCS Otter in WW II Halifax remembered as 'dramatic tale of tension and heroics'",
+      "published_at": "2026-03-22T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nineteen people died on March 26, 1941, just outside of Halifax harbour after a vessel patrolling for Nazi subs and sea mines sank after it caught fire. The deaths and heroic rescue of the remaining 22 crew members served as a reminder of the horrors of war. Wartime censorship played a role in what could be reported.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -40,6 +79,19 @@
         "article_type": "News",
         "sentiment": -0.511,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6c8abce8e7b707917111d001cb44b3a0c3af43af",
+      "url": "https://www.cbc.ca/news/canada/first-person-grieving-from-a-distance-9.7135005?cmp=rss",
+      "title": "When my dad died, I was an ocean away trying to build a new life in Canada. That changed me",
+      "published_at": "2026-03-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "When her father died in Nigeria, Stella Igweamaka wasn't able to immediately head home for his funeral. Gratitude for the opportunity she's received in Canada is tangled with the pain of separation from her loved ones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -78,19 +130,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d9f97a78400edf36576211fe3d6b551311545dac",
-      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/ski-cross-craigleith-march-21-9.7137417?cmp=rss",
-      "title": "Canadian ski cross siblings Hannah, Jared Schmidt each earn World Cup silver on home snow",
-      "published_at": "2026-03-21T10:10:43-04:00",
-      "section": "Canada",
-      "summary_auto": "Ottawa ski cross siblings Hannah and Jared Schmidt each earned silver at the penultimate World Cup stop at Craigleith Ski Club near Collingwood, Ont., on Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     }
