@@ -1,18 +1,148 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-22T21:47:23.924057-04:00",
+  "generated_at": "2026-03-23T08:53:30.552598-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | U.S. gives Iran an ultimatum",
-      "published_at": "2026-03-22T17:00:00-04:00",
+      "id": "1098df51cd091becfaaa4c8d8eece0d00b6e8b44",
+      "url": "https://www.cbc.ca/news/canada/montreal/livestory/bill-21-supreme-court-9.7138285?cmp=rss",
+      "title": "Quebec's secularism law Bill 21 heads to the Supreme Court",
+      "published_at": "2026-03-23T04:28:10-04:00",
       "section": "Top Stories",
-      "summary_auto": "March 22, 2026 |  President Donald Trump says the U.S. will strike power plants in Iran if it does not open the Strait of Hormuz in 48 hours. Millions are in the dark after Cuba’s power grid collapses — again. And, The Guess Who get ready to hit the road for the first time in more than twenty years.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.052,
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8b690d9265a4d7f0546109cd0be32e3b74ec9145",
+      "url": "https://www.cbc.ca/news/world/christopher-columbus-statue-white-house-9.7138205?cmp=rss",
+      "title": "Trump adds new statue of Christopher Columbus near White House",
+      "published_at": "2026-03-23T03:22:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Trump endorses a traditional view of Columbus as a leader of the 1492 mission seen as the unofficial beginning of European colonization in the Americas and the development of the modern economic and political order.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bbab604b5b12913deb92ebfcc02f3e16eb495bb1",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/potash-fertilizer-strait-of-hormuz-9.7127902?cmp=rss",
+      "title": "Sask. is a potash and agriculture giant. So why is conflict in the Middle East a problem for farmers?",
+      "published_at": "2026-03-23T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In 2024, nearly a third of global potash production came from Canada, according to Natural Resources Canada .",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.414,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "452e26f24381055caf1417e4f410552f6cc7012a",
+      "url": "https://www.cbc.ca/news/world/israel-new-attacks-tehran-9.7138210?cmp=rss",
+      "title": "Trump extends deadline for Iran to reopen Strait of Hormuz",
+      "published_at": "2026-03-23T02:27:13-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump on Monday extended his deadline for Iran to reopen the crucial Strait of Hormuz to international shipping, saying it would hold off on strikes against Iranian power plants for five days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a725fa8af0af065f1e411cb20d1e75d5cece6235",
+      "url": "https://www.cbc.ca/news/world/livestory/air-canada-crash-la-guardia-airport-9.7138217?cmp=rss",
+      "title": "2 pilots killed after Air Canada plane collides with vehicle at New York's LaGuardia Airport",
+      "published_at": "2026-03-23T01:12:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b950e5c2f1f7b695c21e97ca0ca402475e0abaf7",
+      "url": "https://www.cbc.ca/news/politics/cbsa-harassment-inquiry-9.7136689?cmp=rss",
+      "title": "Canada's border agency under fire for treatment of sexual harassment cases",
+      "published_at": "2026-03-23T00:17:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "87c3bb7e97e18d82bdbb7672e4f417055ec01fb3",
+      "url": "https://www.cbc.ca/news/gopublic/go-public-coke-coca-cola-factory-injury-wcb-frustrated-empoloyement-disability-9.7133409?cmp=rss",
+      "title": "Coke Canada Bottling terminates worker injured on the job, says keeping him would be too hard on the company",
+      "published_at": "2026-03-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A longtime worker for Coca-Cola Canada Bottling Limited in Calgary was recently terminated after being seriously injured on the job two years ago. Coke Canada Bottling cited a legal principle that says keeping him employed would cause the company “undue hardship.” A labour expert says the legal argument is difficult to prove, especially with a company of that size.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.886,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "544dc931e1da11cd5c1b1347b7517eb18e60f9d8",
+      "url": "https://www.cbc.ca/news/canada/ottawa/renouncing-us-citizenship-dual-citizens-taxes-trump-factor-9.7126349?cmp=rss",
+      "title": "Dual citizens weigh Trump, taxes in decision to renounce U.S. citizenship",
+      "published_at": "2026-03-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Every year, thousands of dual citizens living abroad choose to formally renounce their U.S. citizenship. They say Trump is a major factor in their decision — but not the only one.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "02e3ab016e1fd8961ad0018297f47ca5cf545e45",
+      "url": "https://www.cbc.ca/news/world/australia-u16social-ban-checkin-9.7122420?cmp=rss",
+      "title": "Australia is settling into age-restricted social media. Canada is mulling whether to join in",
+      "published_at": "2026-03-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nearly four months into Australia's landmark social media ban for users under 16, parent proponents laud it as a valiant first step towards a safer online experience for youth. Yet as other countries weigh introducing their own social age minimum, some continue to question bans as a solution.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b1d7ab964510bc10e2bd1b77c921ee06443e525b",
+      "url": "https://www.cbc.ca/news/canada/ottawa/crtc-indigenous-radio-stations-ottawa-toronto-9.7137224?cmp=rss",
+      "title": "CRTC calling for Indigenous-led radio stations in Ottawa and Toronto",
+      "published_at": "2026-03-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's telecommunications regulator is calling for applications for Indigenous-led FM radio stations in Ottawa and Toronto. Stations dedicated to Indigenous communities have been absent from both markets since First People’s Radio Incorporated ceased operations in September.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e66b0bc06247bced905a4a548af920b0c179f6a8",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/womens-world-curling-gold-medal-recap-march22-9.7138172?cmp=rss",
+      "title": "Canada's Einarson falls to Switzerland's Schwaller in women's world curling final",
+      "published_at": "2026-03-22T17:48:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kerri Einarson's bid for a first women's world curling championship fell short in a 7-5 loss in Sunday's final to Switzerland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +164,7 @@
       "url": "https://www.cbc.ca/player/play/9.7138120?cmp=rss",
       "title": "Can pickleball help save Quebec churches?",
       "published_at": "2026-03-22T15:25:25-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Three Quebec investors say they’ve found a way to get people back to church — transforming one into a pickleball court. But not everyone is convinced this could be a sustainable solution for the province’s many empty churches.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,19 +212,6 @@
       }
     },
     {
-      "id": "83f8eea1d950bd4849b2a294bd2d1529d8738dde",
-      "url": "https://www.cbc.ca/news/canada/affordability-canada-provinces-factors-9.7126052?cmp=rss",
-      "title": "Thinking of moving to a more 'affordable' part of the country? Consider this",
-      "published_at": "2026-03-22T11:53:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "d0b0a8c498d61d41ce946c366ac926fa57e25453",
       "url": "https://www.cbc.ca/news/world/israeli-settler-rampage-west-bank-9.7137994?cmp=rss",
       "title": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
@@ -131,162 +248,6 @@
         "article_type": "News",
         "sentiment": -0.823,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d77f9f0d7acebfdc2ffd3e91758ca03e5bd8edd9",
-      "url": "https://www.cbc.ca/news/politics/steve-outhouse-pierre-poilievre-mark-carney-polls-canada-election-9.7137921?cmp=rss",
-      "title": "Conservative campaign manager shrugs off polls showing Liberals have significant lead",
-      "published_at": "2026-03-22T08:44:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Conservative Party's campaign manager is shrugging off polls showing the Liberals hold a double-digit lead over the Tories — while Pierre Poilievre says he's broadening his image but won't change who he is.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "53a26c3c914d5a7ed6f0a64bab755b7d97f32908",
-      "url": "https://www.cbc.ca/player/play/9.7137922?cmp=rss",
-      "title": "Quebecers who fought in Ukraine awarded medals for their sacrifices",
-      "published_at": "2026-03-22T08:26:56-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Three Quebecers who volunteered to fight in the war in Ukraine were awarded the Ukrainian Canadian Sacrifice Medal by the Ukrainian Canadian Congress.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3452bfd196d3039f5a4a0c5e09b0b3dd2952799",
-      "url": "https://www.cbc.ca/news/world/trump-comments-robert-mueller-death-9.7137860?cmp=rss",
-      "title": "Trump sparks outrage after calling Robert Mueller's death 'good'",
-      "published_at": "2026-03-22T07:26:59-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump drew sharp rebukes from Democratic and some Republican officials following his blunt statement on former FBI director Robert Mueller's death.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c527f4bc73c5915a72b4fd01b62fc117a450d6f4",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-spring-migration-avian-flu-9.7137476?cmp=rss",
-      "title": "Alberta poultry farmers brace for spring migration after last year's surge in avian flu cases",
-      "published_at": "2026-03-22T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Spring is heralded by the return of geese, but to many in Alberta's poultry industry, migration means something different. With last year's avian flu season considered the worst in years, farmers are being mindful to avoid their flocks contracting the disease.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.928,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa71d86dbacea0bdc816f45b871d7c3bdf8b9991",
-      "url": "https://www.cbc.ca/news/world/trump-ice-us-airports-9.7137726?cmp=rss",
-      "title": "Trump says he will send ICE agents to U.S. airports during partial government shutdown",
-      "published_at": "2026-03-22T02:49:06-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump said that he will ‌be sending Immigration and Customs Enforcement agents ​on Monday to ​help out Transportation Security Administration personnel ​in U.S airports.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ba9254a0299aab32d36ead0ff3544cfa952de62",
-      "url": "https://www.cbc.ca/news/canada/montreal/amber-alert-quebec-9.7137730?cmp=rss",
-      "title": "Amber Alert ends after children found safe in Trois-Rivières, Que., area",
-      "published_at": "2026-03-22T01:36:34-04:00",
-      "section": "Canada",
-      "summary_auto": "An Amber Alert issued after two young children who were reported missing on Saturday in Trois-Rivières, Que., about 150 kilometres northeast of Montreal, has ended. Quebec provincial police said the children were located Sunday morning and are safe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71227ef49d49d5de8b952b4ad1ebeb30b51ab60a",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/airline-leaves-passenger-s-luggage-behind-9.7136146?cmp=rss",
-      "title": "N.S. man says Yukon trip ruined after Porter pulled his luggage, leaving him without winter gear",
-      "published_at": "2026-03-22T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Passenger travelling on a tight budget stuck in the Yukon in just a sweater and running shoes, and nine days later he is still waiting to be reunited with his luggage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f0f5baa8ded69f2d7ede9c3fe5e70817725fe73b",
-      "url": "https://www.cbc.ca/news/canada/toronto/northeast-pickering-development-advocates-secondary-plan-9.7136808?cmp=rss",
-      "title": "Rural land in this Ontario city could become home for 72,000 people. Critics say council is moving too fast",
-      "published_at": "2026-03-22T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Advocates are urging Pickering city council to reject a plan to develop 1,600 hectares of rural land in the city’s northeast, pending further consultation with First Nations and studies on the project’s environmental impact and cost.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "caaa859ec4e641f960519809eb52d6b68ddb9949",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/hmcs-otter-halifax-harbour-march-26-1941-fire-sinking-rescue-9.7137297?cmp=rss",
-      "title": "Sinking of HMCS Otter in WW II Halifax remembered as 'dramatic tale of tension and heroics'",
-      "published_at": "2026-03-22T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Nineteen people died on March 26, 1941, just outside of Halifax harbour after a vessel patrolling for Nazi subs and sea mines sank after it caught fire. The deaths and heroic rescue of the remaining 22 crew members served as a reminder of the horrors of war. Wartime censorship played a role in what could be reported.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "02efe26ff84b3c1bdd676f658f5655195b3ec9d1",
-      "url": "https://www.cbc.ca/news/world/princesses-beatrice-eugenie-king-charles-chiefs-mark-carney-nigeria-state-visit-commonwealth-9.7136018?cmp=rss",
-      "title": "Amid the ex-prince Andrew scandal, scrutiny falls on daughters Beatrice and Eugenie",
-      "published_at": "2026-03-22T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As scandal has swirled around former prince Andrew Mountbatten-Windsor, there has been a growing media focus on his daughters, Princesses Beatrice and Eugenie, and their titles, accommodations in royal residences and places within the line of succession.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9dace804b63bf63bc911182eb1948fab72831e4c",
-      "url": "https://www.cbc.ca/radio/sunday/david-suzuki-memoir-life-birthday-climate-change-9.7136044?cmp=rss",
-      "title": "At 90, David Suzuki says he has done everything he could to protect the Earth, but fears he has fallen short",
-      "published_at": "2026-03-22T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "With ninety laps around the sun, David Suzuki reflects on a lifetime of science advocacy and environmental work. Despite decades of effort, he warns that humanity may have already crossed a tipping point on climate change.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.775,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6c8abce8e7b707917111d001cb44b3a0c3af43af",
-      "url": "https://www.cbc.ca/news/canada/first-person-grieving-from-a-distance-9.7135005?cmp=rss",
-      "title": "When my dad died, I was an ocean away trying to build a new life in Canada. That changed me",
-      "published_at": "2026-03-22T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When her father died in Nigeria, Stella Igweamaka wasn't able to immediately head home for his funeral. Gratitude for the opportunity she's received in Canada is tangled with the pain of separation from her loved ones.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "high"
       }
     }
   ]
