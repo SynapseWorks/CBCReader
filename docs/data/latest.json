@@ -1,18 +1,122 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-23T10:50:54.635792-04:00",
+  "generated_at": "2026-03-23T14:44:02.037244-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "56d5b820ae998fbbeac41ebcb72f3614f95d3816",
+      "url": "https://www.cbc.ca/news/world/colombia-military-crash-9.7138854?cmp=rss",
+      "title": "Colombian military cargo plane crashes near Peru-Ecuador border, unknown number of casualties",
+      "published_at": "2026-03-23T10:20:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A military cargo plane crashed shortly after taking off Monday in southwestern Colombia, causing an undetermined number of casualties, the country's defence minister said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c26c90b15a8ad8fb3fec9c1553c6b5f265ab5d8",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-no-pets-clause-rental-housing-tenants-landlords-9.7138728?cmp=rss",
+      "title": "Quebec's housing tribunal rules no-pet clause in rental lease violates Charter rights",
+      "published_at": "2026-03-23T09:22:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A recent ruling by Quebec’s housing tribunal has found the “no-pet” clause of a rental lease to be in violation of the province's Charter of Human Rights and Freedoms.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ddf66027e05112af543ea2dbffb6598a37dfde9c",
+      "url": "https://www.cbc.ca/news/entertainment/kendra-duggar-arrested-9.7138709?cmp=rss",
+      "title": "Kendra Duggar, wife of 19 Kids and Counting's Joseph Duggar, arrested",
+      "published_at": "2026-03-23T09:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Two days after the arrest of former 19 Kids and Counting star Joseph Duggar, an arrest warrant for his wife Kendra Duggar was also issued and served.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c80c79a047e6ababc707efe2db0515f2dcdcfe4",
+      "url": "https://www.cbc.ca/player/play/9.7138710?cmp=rss",
+      "title": "Arborist rescues cat from 8-storey-tall tree in east Ottawa",
+      "published_at": "2026-03-23T08:55:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Arborist Tyler Sirrs saw social media posts about a cat stuck for days in a tall tree in Orléans and decided to help. He described the rescue to CBC Ottawa Morning host Rebecca Zandbergen.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f5f9e5fa6df594b7aa5a9d7819db22d869b4abbf",
+      "url": "https://www.cbc.ca/sports/basketball/wnba-players-ratify-collective-bargaining-agreement-seven-years-9.7138676?cmp=rss",
+      "title": "WNBA players vote to ratify 7-year collective bargaining agreement through 2032",
+      "published_at": "2026-03-23T08:30:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90 per cent participating in voting over the weekend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e4bc06d683dfffbea755a42eeda6de1ca6e0dd42",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/justin-king-bail-arrest-9.7138406?cmp=rss",
+      "title": "Man dubbed prolific offender arrested again, 2 weeks after judge granted ‘last chance’ bail",
+      "published_at": "2026-03-23T07:31:09-04:00",
+      "section": "Canada",
+      "summary_auto": "A 34-year-old Conception Bay North man dubbed a “prolific offender” by the RCMP was arrested again on Sunday evening, less than two weeks after being granted bail.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b6059fe1a946c6c2b0be49377f64036b6e6ebb5f",
+      "url": "https://www.cbc.ca/news/politics/rcmp-recruitment-auditor-general-9.7138438?cmp=rss",
+      "title": "RCMP has failed to recruit enough police officers to meet operational needs: auditor general",
+      "published_at": "2026-03-23T07:13:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The RCMP has not recruited enough new officers or effectively assigned its members to meet its operational needs — raising concerns about public safety across the country, according to a new report from Canada's auditor general.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9b48c95e0abbc315fee420946780c9ee11433b01",
+      "url": "https://www.cbc.ca/news/canada/toronto/ford-billy-bishop-takeover-9.7138456?cmp=rss",
+      "title": "Ontario will make Toronto's Billy Bishop Airport 'special economic zone' as premier eyes expansion to allow jets downtown",
+      "published_at": "2026-03-23T07:01:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ford told reporters Monday that the province is taking over from the city because councillors aren't interested in modernizing the downtown airport. He said Ontario plans to use special legislation that would allow it to bypass laws while expanding the airport's runway to allow jets downtown.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.781,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "6d3367284b0e3677be9527c3d83bfd42613b3413",
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-trial-milton-closing-arguments-9.7136047?cmp=rss",
-      "title": "Final remarks begin in Ontario trial of couple accused in boy’s death, alleged torture of brother",
+      "title": "Lawyer cites 'grim' aspects of case but says co-accused didn't intend to kill boy in couple's care",
       "published_at": "2026-03-23T05:59:59-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.875,
+        "sentiment": 0.843,
         "subjectivity_hint": "low"
       }
     },
@@ -43,11 +147,11 @@
       }
     },
     {
-      "id": "0fcbffe0f70b44d524e2bfacb971eb5041ec7e38",
-      "url": "https://www.cbc.ca/news/business/bakx-trump-wti-oil-iran-ceraweek-9.7138299?cmp=rss",
+      "id": "cd627f767e5058568a5c4500ae364d2b29c3c6f1",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-trump-wti-oil-iran-ceraweek-9.7138299?cmp=rss",
       "title": "Oil prices fall after Trump postpones Iran strikes",
       "published_at": "2026-03-23T05:13:08-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Oil prices fell on Monday morning after President Donald Trump said the U.S. was holding off on striking Iran’s energy infrastructure amid productive talks between the two countries.",
       "bias_heuristic": {
         "article_type": "News",
@@ -71,13 +175,26 @@
     {
       "id": "1098df51cd091becfaaa4c8d8eece0d00b6e8b44",
       "url": "https://www.cbc.ca/news/canada/montreal/livestory/bill-21-supreme-court-9.7138285?cmp=rss",
-      "title": "Supreme Court hears arguments against Quebec's Bill 21 secularism law",
+      "title": "Lawyers challenging Quebec's Bill 21 tell Supreme Court it violates Constitution, sets dangerous precedent",
       "published_at": "2026-03-23T04:28:10-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.226,
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85c4d117f7386910bc779174d4ce04d316233e3d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-bc-casino-acquisitions-9.7137178?cmp=rss",
+      "title": "Why First Nations in B.C. are buying up casinos",
+      "published_at": "2026-03-23T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Both the CEO of a First Nations development arm and an academic say acquiring these businesses provides economic incentive at a time when nations still face barriers to generating wealth.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +216,7 @@
       "url": "https://www.cbc.ca/news/world/christopher-columbus-statue-white-house-9.7138205?cmp=rss",
       "title": "Trump adds new statue of Christopher Columbus near White House",
       "published_at": "2026-03-23T03:22:31-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Trump endorses a traditional view of Columbus as a leader of the 1492 mission seen as the unofficial beginning of European colonization in the Americas and the development of the modern economic and political order.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +229,7 @@
       "url": "https://www.cbc.ca/news/canada/saskatchewan/potash-fertilizer-strait-of-hormuz-9.7127902?cmp=rss",
       "title": "Sask. is a potash and agriculture giant. So why is conflict in the Middle East a problem for farmers?",
       "published_at": "2026-03-23T03:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "In 2024, nearly a third of global potash production came from Canada, according to Natural Resources Canada .",
       "bias_heuristic": {
         "article_type": "News",
@@ -162,13 +279,13 @@
     {
       "id": "a725fa8af0af065f1e411cb20d1e75d5cece6235",
       "url": "https://www.cbc.ca/news/world/livestory/air-canada-crash-la-guardia-airport-9.7138217?cmp=rss",
-      "title": "Canadian investigators to join probe into LaGuardia Airport collision that killed 2 pilots",
+      "title": "LaGuardia Airport reopening after 2 pilots killed in Air Canada collision",
       "published_at": "2026-03-23T01:12:50-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.7,
+        "sentiment": -0.791,
         "subjectivity_hint": "low"
       }
     },
@@ -183,32 +300,6 @@
         "article_type": "News",
         "sentiment": 0.09,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a725fa8af0af065f1e411cb20d1e75d5cece6235",
-      "url": "https://www.cbc.ca/news/world/livestory/air-canada-crash-la-guardia-airport-9.7138217?cmp=rss",
-      "title": "Canadian investigators to join probe into deadly LaGuardia Airport collision",
-      "published_at": "2026-03-23T00:52:19-04:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b950e5c2f1f7b695c21e97ca0ca402475e0abaf7",
-      "url": "https://www.cbc.ca/news/politics/cbsa-harassment-inquiry-9.7136689?cmp=rss",
-      "title": "Canada's border agency under fire for treatment of sexual harassment cases",
-      "published_at": "2026-03-23T00:17:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -238,19 +329,6 @@
       }
     },
     {
-      "id": "02e3ab016e1fd8961ad0018297f47ca5cf545e45",
-      "url": "https://www.cbc.ca/news/world/australia-u16social-ban-checkin-9.7122420?cmp=rss",
-      "title": "Australia is settling into age-restricted social media. Canada is mulling whether to join in",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Nearly four months into Australia's landmark social media ban for users under 16, parent proponents laud it as a valiant first step towards a safer online experience for youth. Yet as other countries weigh introducing their own social age minimum, some continue to question bans as a solution.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a2017fea224cc50f216b9017c8020900e778135f",
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-legislature-spring-session-9.7135930?cmp=rss",
       "title": "Doug Ford prepares to unveil 8th Ontario budget amid economic uncertainty",
@@ -260,6 +338,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "02e3ab016e1fd8961ad0018297f47ca5cf545e45",
+      "url": "https://www.cbc.ca/news/world/australia-u16social-ban-checkin-9.7122420?cmp=rss",
+      "title": "Australia is settling into age-restricted social media. Canada is mulling whether to join in",
+      "published_at": "2026-03-23T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Nearly four months into Australia's landmark social media ban for users under 16, parent proponents laud it as a valiant first step towards a safer online experience for youth. Yet as other countries weigh introducing their own social age minimum, some continue to question bans as a solution.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
         "subjectivity_hint": "low"
       }
     },
@@ -312,45 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.434,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "85cd92174e67cdc74e68f5da43989de2f62ab342",
-      "url": "https://www.cbc.ca/news/canada/toronto/steve-s-music-store-in-toronto-last-day-9.7138112?cmp=rss",
-      "title": "Steve’s Music Store in Toronto opens its doors for the last time",
-      "published_at": "2026-03-22T14:41:44-04:00",
-      "section": "Canada",
-      "summary_auto": "The Steve’s Music Store location in the Queen Street W. neighbourhood is shutting its doors after nearly five decades of bringing music lovers in Toronto together.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01b467459a4c739dc0553fd4a7639c77033f7d67",
-      "url": "https://www.cbc.ca/news/canada/public-safety-minister-halts-refugee-family-deportation-9.7137963?cmp=rss",
-      "title": "Days before deportation, Ottawa pauses removal of refugee's son, husband",
-      "published_at": "2026-03-22T11:59:02-04:00",
-      "section": "Canada",
-      "summary_auto": "A federal minister has stepped in to temporarily stop the deportation of a Montreal father and son, a last-minute decision lawyers say underscores growing concerns that Canadian authorities are increasingly and abruptly separating the families of recognized refugees.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d0b0a8c498d61d41ce946c366ac926fa57e25453",
-      "url": "https://www.cbc.ca/news/world/israeli-settler-rampage-west-bank-9.7137994?cmp=rss",
-      "title": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
-      "published_at": "2026-03-22T11:17:39-04:00",
-      "section": "World",
-      "summary_auto": "Israeli settlers rampaged through multiple Palestinian villages overnight Saturday and into Sunday, smashing cars, setting fires and wounding several men in the latest flare-up of violence in the occupied West Bank.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
         "subjectivity_hint": "low"
       }
     }
