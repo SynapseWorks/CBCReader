@@ -1,18 +1,278 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-23T14:44:02.037244-04:00",
+  "generated_at": "2026-03-23T21:27:31.201725-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "56d5b820ae998fbbeac41ebcb72f3614f95d3816",
-      "url": "https://www.cbc.ca/news/world/colombia-military-crash-9.7138854?cmp=rss",
-      "title": "Colombian military cargo plane crashes near Peru-Ecuador border, unknown number of casualties",
-      "published_at": "2026-03-23T10:20:21-04:00",
+      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
+      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+      "title": "The National | Pilots killed in Air Canada runway crash",
+      "published_at": "2026-03-23T17:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A military cargo plane crashed shortly after taking off Monday in southwestern Colombia, causing an undetermined number of casualties, the country's defence minister said.",
+      "summary_auto": "March 23, 2026 | Two pilots were killed and several passengers were injured when an Air Canada Express plane crashed into a fire truck at New York’s LaGuardia airport. Trump’s optimism about war in the Middle East is reflected in the stock market, but rejected by Iran. And, posters tease Céline Dion’s rumoured return to the stage in Paris.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.25,
+        "sentiment": -0.948,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0cc5598b46ab7b1f9aaf6019538300254a0ed14",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-judge-to-rule-on-2015-air-canada-crash-landing-class-action-settlement-9.7139483?cmp=rss",
+      "title": "N.S. judge to rule on proposed $18M settlement in 2015 Air Canada Halifax crash landing",
+      "published_at": "2026-03-23T16:22:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The class action was filed in 2015 and scheduled for trial earlier this year, but a notice released Monday said the proposed settlement could avoid a lengthy court process and probably offer larger compensation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.565,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "714d5cc6f9df3b5267639b95dd98111a27ed31a1",
+      "url": "https://www.cbc.ca/news/entertainment/bill-cosby-guilty-sexual-assault-9.7139436?cmp=rss",
+      "title": "Jury finds Bill Cosby sexually assaulted woman in 1972, awards her more than $19M US",
+      "published_at": "2026-03-23T15:51:52-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A civil jury in California found Monday that Bill Cosby was liable for drugging and sexually assaulting a woman in 1972 and awarded her $19.25 million US.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0f728427303d4deb819d5c3bb20e820d72045f16",
+      "url": "https://www.cbc.ca/player/play/9.7139424?cmp=rss",
+      "title": "The moment a plane smashed into a fire truck at LaGuardia Airport | About That",
+      "published_at": "2026-03-23T15:39:56-04:00",
+      "section": "World",
+      "summary_auto": "Air Canada Flight 8646 collided with a fire truck at New York's LaGuardia Airport, killing two pilots and injuring dozens of others. Andrew Chang breaks down what we know about the crash from air traffic control audio and insight from aviation experts. Images provided by The Canadian Press, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2ceee09630d764a30a89fbdfdf26fa1cf4febf6b",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/mlb-abs-system-robot-umpires-9.7139228?cmp=rss",
+      "title": "How Major League Baseball players can turn to a robot to challenge balls, strikes this year",
+      "published_at": "2026-03-23T14:45:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Here's a brief explanation of how Major League Baseball will use technology this year to give players the opportunity to challenge calls on balls and strikes at the plate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d8c56e4e4c62ec691ffb0baf0a715e71d7c6eb7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/northern-bc-avalanche-9.7139338?cmp=rss",
+      "title": "4 people dead in 2 separate northwest B.C. avalanches Sunday",
+      "published_at": "2026-03-23T14:42:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "RCMP say three heli-skiers were killed in an avalanche on Mount Knauss just north of Terrace, B.C., in the province's northwest on Sunday. The same day, one person was killed in a separate avalanche, near the B.C.-Alaska border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.936,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f8a82d5811fe3f5218fffeed5cbd2d72978a0e3",
+      "url": "https://www.cbc.ca/news/entertainment/justin-timberlake-arrest-footage-released-9.7139131?cmp=rss",
+      "title": "Bodycam video shows Justin Timberlake's 2024 impaired driving arrest",
+      "published_at": "2026-03-23T14:35:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Justin Timberlake struggled to perform field sobriety tests requiring him to walk a straight line and stand on one leg after he was pulled over in New York's Hamptons in 2024 by police officers who suspected him of driving drunk, according to video footage released Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f8a82d5811fe3f5218fffeed5cbd2d72978a0e3",
+      "url": "https://www.cbc.ca/news/entertainment/justin-timberlake-arrest-footage-released-9.7139131?cmp=rss",
+      "title": "Footage of Justin Timberlake's 2024 impaired driving arrest released",
+      "published_at": "2026-03-23T14:35:49-04:00",
+      "section": "World",
+      "summary_auto": "Justin Timberlake struggled to perform field sobriety tests requiring him to walk a straight line and stand on one leg after he was pulled over in New York's Hamptons in 2024 by police officers who suspected him of driving drunk, according to video footage released Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "15f5fb2ce8fa75a1670358762d295fd9a4f11b57",
+      "url": "https://www.cbc.ca/news/canada/north/one-dead-avalanche-bc-alaska-9.7139264?cmp=rss",
+      "title": "One dead following avalanche near B.C.-Alaska border",
+      "published_at": "2026-03-23T13:50:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "B.C. RCMP say police got a satellite SOS Sunday afternoon reporting an avalanche. It happened near Pleasant Camp and the Klehini River, close to the B.C.-Alaska border.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "892c78397dc464c454070d81cc89e589d33b9463",
+      "url": "https://www.cbc.ca/player/play/9.7139222?cmp=rss",
+      "title": "The facts about U.S. air traffic controllers",
+      "published_at": "2026-03-23T13:18:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Air traffic controllers in the U.S. are understaffed and overworked. Here are the facts about the job.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c99ad0290fedb42b63d265747727e6c7b87d7260",
+      "url": "https://www.cbc.ca/news/world/charity-ambulances-attacked-london-9.7139016?cmp=rss",
+      "title": "British police investigate burning of 4 ambulances belonging to Jewish charity",
+      "published_at": "2026-03-23T12:48:56-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Four ambulances belonging to a Jewish charity were set on fire early Monday in London in what British police are investigating as an antisemitic hate crime. Detectives are working to determine whether a claim of responsibility from a group with alleged links to Iran is authentic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2c586126cb2151f11e4bea5bb51a57b4919218b",
+      "url": "https://www.cbc.ca/news/canada/montreal/laguardia-airport-crash-9.7139139?cmp=rss",
+      "title": "Quebec resident among 2 pilots killed in crash at New York's LaGuardia airport",
+      "published_at": "2026-03-23T12:34:53-04:00",
+      "section": "Canada",
+      "summary_auto": "Quebec resident Antoine Forest was one of the pilots killed in the Sunday night crash at New York's LaGuardia airport, according to Radio-Canada sources.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.937,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "25a10b146dd1d7216a4b4539effe6f0d7f02071a",
+      "url": "https://www.cbc.ca/news/politics/caf-members-safe-un-peacekeeping-camp-damaged-9.7139092?cmp=rss",
+      "title": "Canadian military members safe after reports of damage at UN peacekeeping camp",
+      "published_at": "2026-03-23T12:27:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian Armed Forces members deployed in the Middle East are safe after a missile was intercepted on Sunday near the Israel-Lebanon border, the defence minister's office says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "622507ac2d7a4215cbf393c663eeb7bef42a7b52",
+      "url": "https://www.cbc.ca/sports/tennis/mboko-auger-aliassime-roundup-miami-open-march23-9.7139044?cmp=rss",
+      "title": "Victoria Mboko advances to Miami Open quarterfinals, defeating doubles partner Mirra Andreeva",
+      "published_at": "2026-03-23T12:11:29-04:00",
+      "section": "World",
+      "summary_auto": "Canada's Victoria Mboko earned a 7-6 (4), 4-6, 6-0 fourth-round win over Russia's Mirra Andreeva on Monday at the Miami Open tennis tournament.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0033d710b9bd6a820160b55ab56e43808af5df26",
+      "url": "https://www.cbc.ca/news/politics/pbo-nominee-confirmation-liberals-conservatives-9.7139025?cmp=rss",
+      "title": "Liberals' fiscal watchdog nominee vows to hold government's 'feet to the fire'",
+      "published_at": "2026-03-23T11:50:02-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Liberal government's nominee to be the next fiscal watchdog insists she'll run an independent and non-partisan ship — even though her candidacy has created a political rift.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2603b41f54e3d1b8f04363cbcc2cf723643cfac",
+      "url": "https://www.cbc.ca/news/world/ice-agents-airports-us-9.7138882?cmp=rss",
+      "title": "Federal ICE agents patrolling some U.S. airports amid security staff shortages",
+      "published_at": "2026-03-23T11:20:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Armed U.S. federal immigration officers in tactical gear moved through terminals at some of the busiest U.S. airports Monday, standing near security lines and checkpoints after U.S. President Donald Trump ordered their deployment during a partial government shutdown that has disrupted air travel nationwide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1203a9da74690083edeae595bbdc977b882c02e8",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/ottawa-leaked-letter-fsin-forensic-audit-9.7138828?cmp=rss",
+      "title": "Ottawa asks Federation of Sovereign Indigenous Nations to pay back $28.7 million after forensic audit",
+      "published_at": "2026-03-23T11:05:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government is asking the Federation of Sovereign Indigenous Nations to repay more than $28.7 million following a forensic audit into its spending.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "454628e59432112be2e18c0427773550f0f1c7f0",
+      "url": "https://www.cbc.ca/radio/asithappens/shark-friends-study-9.7138605?cmp=rss",
+      "title": "Turns out these sharks can make friends and have social lives, new study finds",
+      "published_at": "2026-03-23T10:57:49-04:00",
+      "section": "World",
+      "summary_auto": "New research is suggesting that not all sharks are the lone, cold, ruthless predators as many films so often depict them. Some species, it turns out, can even be friendly — at least among their own kind.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56d5b820ae998fbbeac41ebcb72f3614f95d3816",
+      "url": "https://www.cbc.ca/news/world/colombia-military-crash-9.7138854?cmp=rss",
+      "title": "Death toll rises to at least 33 in Colombian military plane crash",
+      "published_at": "2026-03-23T10:20:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Colombian military transport plane with 121 people on board, mostly soldiers, crashed shortly after taking off Monday in Puerto Leguizamo, Colombia, killing at least 33 people and leaving at least 81 injured, according to the town's deputy mayor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c56c1fe5b7186d3d255ce0b1974597a9ac9270eb",
+      "url": "https://www.cbc.ca/player/play/9.7138747?cmp=rss",
+      "title": "How war in the Middle East is upending the global economy",
+      "published_at": "2026-03-23T09:49:46-04:00",
+      "section": "Business",
+      "summary_auto": "Stuck ships, wrong ports, and higher costs: war in the Middle East is causing headaches for worldwide supply chains. New York Times reporter Peter S. Goodman explores the mounting impacts on supply chains that remain highly integrated.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a146b4ad27d1b97e530fe22595bb30d059fdfa38",
+      "url": "https://www.cbc.ca/player/play/9.7138742?cmp=rss",
+      "title": "When it comes to sports betting, does everyone lose?",
+      "published_at": "2026-03-23T09:22:59-04:00",
+      "section": "World",
+      "summary_auto": "With the legalization of sports betting in Canada, and much of the United States, watching your favourite team has changed. If you don't partake, you're bombarded with ads, and if you do, it's likely changed the way you view and cheer on your team. But it's changed the game for players, officials, and sports journalists too. Author Danny Funt on his new book Everyone Loses, The Tumultuous Rise of American Sports Gambling.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.19,
         "subjectivity_hint": "low"
       }
     },
@@ -21,8 +281,8 @@
       "url": "https://www.cbc.ca/news/canada/montreal/quebec-no-pets-clause-rental-housing-tenants-landlords-9.7138728?cmp=rss",
       "title": "Quebec's housing tribunal rules no-pet clause in rental lease violates Charter rights",
       "published_at": "2026-03-23T09:22:08-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A recent ruling by Quebec’s housing tribunal has found the “no-pet” clause of a rental lease to be in violation of the province's Charter of Human Rights and Freedoms.",
+      "section": "Canada",
+      "summary_auto": "A recent ruling by Quebec’s housing tribunal has found the no-pet clause of a rental lease to be in violation of the province's Charter of Human Rights and Freedoms.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.649,
@@ -60,7 +320,7 @@
       "url": "https://www.cbc.ca/sports/basketball/wnba-players-ratify-collective-bargaining-agreement-seven-years-9.7138676?cmp=rss",
       "title": "WNBA players vote to ratify 7-year collective bargaining agreement through 2032",
       "published_at": "2026-03-23T08:30:16-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90 per cent participating in voting over the weekend.",
       "bias_heuristic": {
         "article_type": "News",
@@ -71,9 +331,9 @@
     {
       "id": "e4bc06d683dfffbea755a42eeda6de1ca6e0dd42",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/justin-king-bail-arrest-9.7138406?cmp=rss",
-      "title": "Man dubbed prolific offender arrested again, 2 weeks after judge granted ‘last chance’ bail",
+      "title": "N.L. 'prolific offender' arrested again, 2 weeks after judge granted ‘last chance’ bail",
       "published_at": "2026-03-23T07:31:09-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "A 34-year-old Conception Bay North man dubbed a “prolific offender” by the RCMP was arrested again on Sunday evening, less than two weeks after being granted bail.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,9 +342,22 @@
       }
     },
     {
+      "id": "eca1a43ad134ffacd2ba59bcadc750ba3c574c37",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-murder-trial-son-mother-stay-9.7138562?cmp=rss",
+      "title": "Trial stayed for Manitoba man accused of killing mother as teen",
+      "published_at": "2026-03-23T07:19:38-04:00",
+      "section": "Canada",
+      "summary_auto": "The family of a man accused of killing his mother when he was a teen applauded and cried in a Winnipeg courtroom after a Manitoba judge ordered a stay of proceedings in the case Monday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b6059fe1a946c6c2b0be49377f64036b6e6ebb5f",
       "url": "https://www.cbc.ca/news/politics/rcmp-recruitment-auditor-general-9.7138438?cmp=rss",
-      "title": "RCMP has failed to recruit enough police officers to meet operational needs: auditor general",
+      "title": "RCMP failed to recruit enough officers to meet operational needs: auditor general",
       "published_at": "2026-03-23T07:13:03-04:00",
       "section": "Top Stories",
       "summary_auto": "The RCMP has not recruited enough new officers or effectively assigned its members to meet its operational needs — raising concerns about public safety across the country, according to a new report from Canada's auditor general.",
@@ -95,28 +368,15 @@
       }
     },
     {
-      "id": "9b48c95e0abbc315fee420946780c9ee11433b01",
-      "url": "https://www.cbc.ca/news/canada/toronto/ford-billy-bishop-takeover-9.7138456?cmp=rss",
-      "title": "Ontario will make Toronto's Billy Bishop Airport 'special economic zone' as premier eyes expansion to allow jets downtown",
-      "published_at": "2026-03-23T07:01:10-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ford told reporters Monday that the province is taking over from the city because councillors aren't interested in modernizing the downtown airport. He said Ontario plans to use special legislation that would allow it to bypass laws while expanding the airport's runway to allow jets downtown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.781,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "6d3367284b0e3677be9527c3d83bfd42613b3413",
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-trial-milton-closing-arguments-9.7136047?cmp=rss",
-      "title": "Lawyer cites 'grim' aspects of case but says co-accused didn't intend to kill boy in couple's care",
+      "title": "Ontario couple in murder trial had no 'calculated scheme' to harm boys in their care, defence argues",
       "published_at": "2026-03-23T05:59:59-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.843,
+        "sentiment": -0.856,
         "subjectivity_hint": "low"
       }
     },
@@ -125,24 +385,11 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/spring-storm-avalon-march-23-9.7138332?cmp=rss",
       "title": "Up to 40 cm of snow, strong winds expected to batter southeast Newfoundland",
       "published_at": "2026-03-23T05:20:59-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "While spring technically started late last week, Newfoundland and Labrador isn't free from winter weather just yet.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4011ad7aa590170a67eedf7fff77c38d44105315",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-schneider-atkins-contract-extension-9.7138323?cmp=rss",
-      "title": "Toronto Blue Jays extend contracts of GM Ross Atkins, manager John Schneider",
-      "published_at": "2026-03-23T05:15:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Toronto Blue Jays have signed general manager Ross Atkins to a five-year extension through 2031 and manager John Schneider to a two-year extension through 2028",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
         "subjectivity_hint": "low"
       }
     },
@@ -164,7 +411,7 @@
       "url": "https://www.cbc.ca/news/world/faith-family-cuba-blackout-9.7138212?cmp=rss",
       "title": "Cubans turn to faith and family amid nationwide blackout",
       "published_at": "2026-03-23T05:02:54-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Cuban authorities said late Sunday that the electrical system in Havana, which is regularly rationed between neighbourhoods, had returned to normal operation.",
       "bias_heuristic": {
         "article_type": "News",
@@ -177,24 +424,11 @@
       "url": "https://www.cbc.ca/news/canada/montreal/livestory/bill-21-supreme-court-9.7138285?cmp=rss",
       "title": "Lawyers challenging Quebec's Bill 21 tell Supreme Court it violates Constitution, sets dangerous precedent",
       "published_at": "2026-03-23T04:28:10-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "85c4d117f7386910bc779174d4ce04d316233e3d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-bc-casino-acquisitions-9.7137178?cmp=rss",
-      "title": "Why First Nations in B.C. are buying up casinos",
-      "published_at": "2026-03-23T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Both the CEO of a First Nations development arm and an academic say acquiring these businesses provides economic incentive at a time when nations still face barriers to generating wealth.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -256,36 +490,23 @@
       "title": "Trump extends deadline for Iran to reopen Strait of Hormuz",
       "published_at": "2026-03-23T02:27:13-04:00",
       "section": "World",
-      "summary_auto": "U.S. President Donald Trump on Monday extended his deadline for Iran to reopen the crucial Strait of Hormuz to international shipping, saying the U.S. would hold off on strikes against Iranian power plants for five days.",
+      "summary_auto": "U.S. President Donald Trump said Monday the U.S. was talking with a \"respected\" Iranian leader and claimed the Islamic Republic was eager for a deal to end the war. He also extended a deadline for Iran to reopen the Strait of Hormuz or face attacks on its power plants, saying it has an additional five days.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "51993f66e40e611426642d989d4f8a82cadea407",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-man-uk-extradition-order-historical-child-sexual-abuse-allegations-9.7136836?cmp=rss",
-      "title": "Alberta man challenges U.K. extradition order for historical child sexual abuse allegations",
-      "published_at": "2026-03-23T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Wetaskiwin man denies the allegations and is appealing an Alberta justice’s extradition approval.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
+        "sentiment": -0.178,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "a725fa8af0af065f1e411cb20d1e75d5cece6235",
       "url": "https://www.cbc.ca/news/world/livestory/air-canada-crash-la-guardia-airport-9.7138217?cmp=rss",
-      "title": "LaGuardia Airport reopening after 2 pilots killed in Air Canada collision",
+      "title": "U.S. officials say both black boxes recovered from fatal Air Canada runway crash",
       "published_at": "2026-03-23T01:12:50-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.791,
+        "sentiment": -0.735,
         "subjectivity_hint": "low"
       }
     },
@@ -300,32 +521,6 @@
         "article_type": "News",
         "sentiment": 0.09,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "87c3bb7e97e18d82bdbb7672e4f417055ec01fb3",
-      "url": "https://www.cbc.ca/news/gopublic/go-public-coke-coca-cola-factory-injury-wcb-frustrated-empoloyement-disability-9.7133409?cmp=rss",
-      "title": "Coke Canada Bottling terminates worker injured on the job, says keeping him would be too hard on the company",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A longtime worker for Coca-Cola Canada Bottling Limited in Calgary was recently terminated after being seriously injured on the job two years ago. Coke Canada Bottling cited a legal principle that says keeping him employed would cause the company “undue hardship.” A labour expert says the legal argument is difficult to prove, especially with a company of that size.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "544dc931e1da11cd5c1b1347b7517eb18e60f9d8",
-      "url": "https://www.cbc.ca/news/canada/ottawa/renouncing-us-citizenship-dual-citizens-taxes-trump-factor-9.7126349?cmp=rss",
-      "title": "Dual citizens weigh Trump, taxes in decision to renounce U.S. citizenship",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Every year, thousands of dual citizens living abroad choose to formally renounce their U.S. citizenship. They say Trump is a major factor in their decision — but not the only one.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -355,54 +550,15 @@
       }
     },
     {
-      "id": "8b18b63773d8c3b9e6fd40e5121af66addfe8258",
-      "url": "https://www.cbc.ca/sports/basketball/march-madness-recap-march22-9.7138178?cmp=rss",
-      "title": "Iowa knocks out No. 1 seed, defending champion Florida in 2nd round of men's March Madness",
-      "published_at": "2026-03-22T18:13:51-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alvaro Folgueiras nailed a 3-pointer with 4.5 seconds remaining and Iowa eliminated defending national champion Florida, sending the top-seeded Gators home with a 73-72 victory on Sunday in the second round of the NCAA Tournament.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cfe0f224924be1f694459410e181fc6076200cb7",
-      "url": "https://www.cbc.ca/news/canada/london/world-water-day-2026-oneida-9.7138083?cmp=rss",
-      "title": "Indigenous community marks World Water Day while waiting years for clean drinking water",
-      "published_at": "2026-03-22T15:39:39-04:00",
-      "section": "Canada",
-      "summary_auto": "Oneida Nation of the Thames hosted World Water Day celebrations on Sunday, where attendees listened to stories about the importance of water and reflected on how a lack of access to drinking water has affected their lives for the last five years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9329146d43c26443314e1c5827c2de4009b0b5ed",
-      "url": "https://www.cbc.ca/player/play/9.7138120?cmp=rss",
-      "title": "Can pickleball help save Quebec churches?",
-      "published_at": "2026-03-22T15:25:25-04:00",
-      "section": "Canada",
-      "summary_auto": "Three Quebec investors say they’ve found a way to get people back to church — transforming one into a pickleball court. But not everyone is convinced this could be a sustainable solution for the province’s many empty churches.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.205,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "25e9cbb574f925659e85075d304f1115e8b69494",
-      "url": "https://www.cbc.ca/news/entertainment/chappell-roan-jorginho-security-9.7138111?cmp=rss",
-      "title": "Chappell Roan responds after soccer star Jorginho alleged his daughter was mistreated by security",
-      "published_at": "2026-03-22T14:52:41-04:00",
+      "id": "544dc931e1da11cd5c1b1347b7517eb18e60f9d8",
+      "url": "https://www.cbc.ca/news/canada/ottawa/renouncing-us-citizenship-dual-citizens-taxes-trump-factor-9.7126349?cmp=rss",
+      "title": "Dual citizens weigh Trump, taxes in decision to renounce U.S. citizenship",
+      "published_at": "2026-03-23T00:00:00-04:00",
       "section": "World",
-      "summary_auto": "Grammy-winning singer Chappell Roan responded on Sunday to accusations made by Brazilian-Italian soccer star Jorginho that a security guard mistreated his 11-year-old stepdaughter after she recognized the singer. The singer said that the security guard was not her personal security and that she didn't see a woman and a child.",
+      "summary_auto": "Every year, thousands of dual citizens living abroad choose to formally renounce their U.S. citizenship. They say Trump is a major factor in their decision — but not the only one.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.434,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
