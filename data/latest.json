@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-24T08:57:55.795951-04:00",
+  "generated_at": "2026-03-24T10:52:30.034318-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3b74b49ff7a250f4ded8080511ba9559c808d9db",
+      "url": "https://www.cbc.ca/news/entertainment/celine-dion-posters-paris-9.7139862?cmp=rss",
+      "title": "Mysterious posters hinting at Céline Dion's rumoured return pop up in Paris",
+      "published_at": "2026-03-24T06:45:55-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A social media post by Dion herself and the new posters across Paris are fueling speculation about the singer's reported return to performing. But representatives for the Quebec star have not confirmed any performances.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60b67369e790a6b2cb697769b4f90d90744fcc1a",
+      "url": "https://www.cbc.ca/news/investigates/iran-war-sleeper-cells-risk-intelligence-experts-9.7138536?cmp=rss",
+      "title": "Are Iranian 'sleeper cells' a threat to Canadians? Here’s what intelligence experts say",
+      "published_at": "2026-03-24T05:34:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6e05febf9e70a18c37bc5c3bd7c324a0b76bf214",
+      "url": "https://www.cbc.ca/news/canada/edmonton/emergency-doctors-pay-arrangement-alberta-9.7139373?cmp=rss",
+      "title": "Edmonton emergency doctors and hospitalists warn of ER backlogs when stipend payments end",
+      "published_at": "2026-03-24T04:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Some family doctors and emergency room physicians working in Edmonton hospitals warn that an April 1 end to stipend pay arrangements could put patient care at risk and increase suffering.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "edddc6442c8242b84747e37f04d21488ca4c6153",
+      "url": "https://www.cbc.ca/sports/cornhole-quarruple-amputee-murder-charges-9.7139716?cmp=rss",
+      "title": "Quadruple amputee cornhole player accused of fatally shooting man in Maryland",
+      "published_at": "2026-03-24T03:51:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A county sheriff's office in Maryland said Monday that professional cornhole player who's also a quadruple amputee fatally shot a passenger in the front seat of a car he was driving during an argument.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "bec82d96a82a5ec03d070114cf9f326a64fe3d68",
       "url": "https://www.cbc.ca/news/canada/windsor/some-u-s-car-buyers-envy-what-they-cannot-have-affordable-chinese-evs-9.7139717?cmp=rss",
@@ -45,13 +97,13 @@
     {
       "id": "40a088a943855891d3e8951b7f005a7bea03cd1b",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/weather-march-24-9.7139668?cmp=rss",
-      "title": "‘A messy day ahead’ as another winter storm keeps some Newfoundland schools closed",
+      "title": "St. John's metro schools stay closed, as winter storm slams parts of Newfoundland",
       "published_at": "2026-03-24T01:51:53-04:00",
       "section": "Top Stories",
-      "summary_auto": "Much of Newfoundland is waking up to blustery and messy morning that has shuttered schools as another storm slams into the island.",
+      "summary_auto": "Much of Newfoundland is waking up to blustery and messy morning that will keep schools closed in the St. John's metro area and other parts of the island as another storm hits parts of N.L.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.612,
+        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -82,6 +134,32 @@
       }
     },
     {
+      "id": "a0c881fd40ae7806162ed5ab3f4ec589f2b83a0e",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-gull-cull-9.7138953?cmp=rss",
+      "title": "St. John's airport has a seagull problem. But critics say more than a decade of culls hasn't made things safer",
+      "published_at": "2026-03-24T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The City of St. John's has killed thousands of gulls at the Robin Hood Bay landfill as part of its wildlife management plan, but some critics say the city is taking the wrong approach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.968,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c31f7dfbd556d4f97edc13b9f5d01444762fc923",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/moms-feel-the-burn-and-a-sense-of-community-while-their-babies-are-looked-after-9.7136614?cmp=rss",
+      "title": "Moms feel the burn — and a sense of community — while their babies are looked after",
+      "published_at": "2026-03-24T00:30:00-04:00",
+      "section": "Health",
+      "summary_auto": "The Islander Athletics \"mom club\" allows parents to work out while their kids are looked after, building muscle and community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "f1859fcff6c103235cc964e2292a7539f42f1b0a",
       "url": "https://www.cbc.ca/news/indigenous/rcmp-spies-1970s-indigenous-rights-9.7134112?cmp=rss",
       "title": "How RCMP spies infiltrated the 1970s Indigenous rights movement",
@@ -95,16 +173,16 @@
       }
     },
     {
-      "id": "60b67369e790a6b2cb697769b4f90d90744fcc1a",
-      "url": "https://www.cbc.ca/news/investigates/iran-war-sleeper-cells-risk-intelligence-experts-9.7138536?cmp=rss",
-      "title": "Are Iranian 'sleeper cells' a threat to Canadians? Here’s what intelligence experts say",
+      "id": "24f948902fcf6184bc813be16308be38d2df546a",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-high-school-e-learning-9.7139226?cmp=rss",
+      "title": "Ontario mandated e-learning to expand course options. Some worry it's being used to boost marks",
       "published_at": "2026-03-24T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Rhetoric around Iranian sleeper cells has spiked since the onset of the U.S.-Israel war with Iran. Counter-intelligence experts and a former spy tell CBC News that while the regime may not use dormant agents in Canada, the threats of lone wolf attacks and 'criminal proxies' are real.",
+      "summary_auto": "Six years after the Ontario government made e-learning a mandatory requirement for a high school diploma, students don't appear to be taking online school to diversify their course selection as the province had intended, according to a CBC News analysis of provincial enrolment data.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -121,19 +199,6 @@
       }
     },
     {
-      "id": "513c5981962c1db02ca63c2246187bd33ca08eba",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-smith-ceraweek-foreign-investment-pipeline-9.7139057?cmp=rss",
-      "title": "Smith-Carney pipeline deal to miss early deadlines, premier says",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The first set of deadlines included in the energy and climate deal struck between Prime Minister Mark Carney and Alberta Premier Danielle Smith are not expected to be met, showing early challenges with the agreement that includes pursuing a new export pipeline from Alberta to the West Coast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "6aa4c2a514781942745aba9c3ca6b347676d38fd",
       "url": "https://www.cbc.ca/news/canada/windsor/harlequin-romance-books-windsor-9.7136637?cmp=rss",
       "title": "2,000 happily ever afters: Ontario woman attempts to sell huge collection of Harlequin paperbacks",
@@ -143,6 +208,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.641,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "513c5981962c1db02ca63c2246187bd33ca08eba",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-smith-ceraweek-foreign-investment-pipeline-9.7139057?cmp=rss",
+      "title": "Smith-Carney pipeline deal to miss early deadlines, premier says",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The first set of deadlines included in the energy and climate deal struck between Prime Minister Mark Carney and Alberta Premier Danielle Smith are not expected to be met, showing early challenges with the agreement that includes pursuing a new export pipeline from Alberta to the West Coast.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
         "subjectivity_hint": "low"
       }
     },
@@ -190,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/markwayne-mullin-dhs-approved-9.7139568?cmp=rss",
       "title": "U.S. Senate approves Markwayne Mullin as next head of Homeland Security",
       "published_at": "2026-03-23T17:44:01-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. Senate confirmed Markwayne Mullin as homeland security secretary late Monday, approving President Donald Trump's nominee to take over the embattled department after the firing of Kristi Noem.",
       "bias_heuristic": {
         "article_type": "News",
@@ -229,7 +307,7 @@
       "url": "https://www.cbc.ca/news/entertainment/bill-cosby-guilty-sexual-assault-9.7139436?cmp=rss",
       "title": "Jury finds Bill Cosby sexually assaulted woman in 1972, awards her nearly $60M US",
       "published_at": "2026-03-23T15:51:52-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A civil jury in California found that Bill Cosby was liable for drugging and sexually assaulting a woman in 1972 and awarded her $59.25 million US on Monday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -248,6 +326,19 @@
         "article_type": "News",
         "sentiment": -0.898,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4174fb2921902c957eb4a25ea80c5b1b273729c8",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-spring-break-school-divisions-9.7139029?cmp=rss",
+      "title": "Consider measles risks in spring break vacation plans, health officials urge Manitoba parents",
+      "published_at": "2026-03-23T15:22:16-04:00",
+      "section": "Health",
+      "summary_auto": "Manitoba parents and guardians received a warning from public health officials ahead of spring break vacations and Easter holidays asking them to consider measles risks while travelling or attending large gatherings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -390,84 +481,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de189224bb01de101c4de3d3a9698b7bca1fca88",
-      "url": "https://www.cbc.ca/player/play/9.7138926?cmp=rss",
-      "title": "Fact check: Fake video of Air Canada plane generated by Grok",
-      "published_at": "2026-03-23T10:50:31-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Can you tell this video of the LaGuardia Airport collision is fake? Grok was used to manipulate a photo of the damaged Air Canada plane, creating an AI-generated video.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "56d5b820ae998fbbeac41ebcb72f3614f95d3816",
-      "url": "https://www.cbc.ca/news/world/colombia-military-crash-9.7138854?cmp=rss",
-      "title": "Death toll rises to at least 66 in Colombian military plane crash",
-      "published_at": "2026-03-23T10:20:21-04:00",
-      "section": "World",
-      "summary_auto": "A Colombian military transport plane with 128 people on board, mostly soldiers, crashed shortly after taking off Monday in Puerto Leguizamo, Colombia, killing at least 66 people and leaving dozens injured, the head of Colombia's armed forces said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c56c1fe5b7186d3d255ce0b1974597a9ac9270eb",
-      "url": "https://www.cbc.ca/player/play/9.7138747?cmp=rss",
-      "title": "How war in the Middle East is upending the global economy",
-      "published_at": "2026-03-23T09:49:46-04:00",
-      "section": "Business",
-      "summary_auto": "Stuck ships, wrong ports, and higher costs: war in the Middle East is causing headaches for worldwide supply chains. New York Times reporter Peter S. Goodman explores the mounting impacts on supply chains that remain highly integrated.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a146b4ad27d1b97e530fe22595bb30d059fdfa38",
-      "url": "https://www.cbc.ca/player/play/9.7138742?cmp=rss",
-      "title": "When it comes to sports betting, does everyone lose?",
-      "published_at": "2026-03-23T09:22:59-04:00",
-      "section": "World",
-      "summary_auto": "With the legalization of sports betting in Canada, and much of the United States, watching your favourite team has changed. If you don't partake, you're bombarded with ads, and if you do, it's likely changed the way you view and cheer on your team. But it's changed the game for players, officials, and sports journalists too. Author Danny Funt on his new book Everyone Loses, The Tumultuous Rise of American Sports Gambling.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.19,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c26c90b15a8ad8fb3fec9c1553c6b5f265ab5d8",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-no-pets-clause-rental-housing-tenants-landlords-9.7138728?cmp=rss",
-      "title": "Quebec's housing tribunal rules no-pet clause in rental lease violates Charter rights",
-      "published_at": "2026-03-23T09:22:08-04:00",
-      "section": "Canada",
-      "summary_auto": "A recent ruling by Quebec’s housing tribunal has found the no-pet clause of a rental lease to be in violation of the province's Charter of Human Rights and Freedoms.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ddf66027e05112af543ea2dbffb6598a37dfde9c",
-      "url": "https://www.cbc.ca/news/entertainment/kendra-duggar-arrested-9.7138709?cmp=rss",
-      "title": "Kendra Duggar, wife of 19 Kids and Counting's Joseph Duggar, arrested",
-      "published_at": "2026-03-23T09:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Two days after the arrest of former 19 Kids and Counting star Joseph Duggar, an arrest warrant for his wife Kendra Duggar was also issued and served.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
         "subjectivity_hint": "low"
       }
     }
