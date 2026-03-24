@@ -1,18 +1,213 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-23T21:27:31.201725-04:00",
+  "generated_at": "2026-03-24T08:57:55.795951-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | Pilots killed in Air Canada runway crash",
-      "published_at": "2026-03-23T17:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "March 23, 2026 | Two pilots were killed and several passengers were injured when an Air Canada Express plane crashed into a fire truck at New York’s LaGuardia airport. Trump’s optimism about war in the Middle East is reflected in the stock market, but rejected by Iran. And, posters tease Céline Dion’s rumoured return to the stage in Paris.",
+      "id": "bec82d96a82a5ec03d070114cf9f326a64fe3d68",
+      "url": "https://www.cbc.ca/news/canada/windsor/some-u-s-car-buyers-envy-what-they-cannot-have-affordable-chinese-evs-9.7139717?cmp=rss",
+      "title": "Some U.S. car buyers envy what they cannot have — affordable Chinese EVs",
+      "published_at": "2026-03-24T03:41:08-04:00",
+      "section": "Business",
+      "summary_auto": "Survey shows 40 per cent of U.S. consumers ​support Chinese auto imports, while political opposition in U.S. remains strong",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.948,
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fcdbbe070e0614823c4f8a2bff5db2ba635a5925",
+      "url": "https://www.cbc.ca/news/world/trump-administration-totalenergies-offshore-wind-9.7139677?cmp=rss",
+      "title": "U.S. to pay French company $1B to scrap offshore wind projects",
+      "published_at": "2026-03-24T03:12:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Trump administration will pay $1 billion to a France's TotalEnergies to walk away from two U.S. offshore wind leases as the administration ramps up its campaign against offshore wind and other renewable energy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c41e8114c529f1edd567f9545c029966f09947db",
+      "url": "https://www.cbc.ca/radio/frontburner/the-true-cost-of-ai-data-centres-9.7138752?cmp=rss",
+      "title": "The true cost of AI data centres",
+      "published_at": "2026-03-24T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s largest AI data centre starts construction this spring in Saskatchewan. It’s one of many being built and proposed across the country. Today, a look at these centres’ controversial track record.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "40a088a943855891d3e8951b7f005a7bea03cd1b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/weather-march-24-9.7139668?cmp=rss",
+      "title": "‘A messy day ahead’ as another winter storm keeps some Newfoundland schools closed",
+      "published_at": "2026-03-24T01:51:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Much of Newfoundland is waking up to blustery and messy morning that has shuttered schools as another storm slams into the island.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d16349f1ef4d59493d7566f9efd59686e00cb211",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/foster-care-group-homes-support-raising-age-limit-9.7138740?cmp=rss",
+      "title": "N.S. bill aims to extend support for youth in foster care who age out of the system",
+      "published_at": "2026-03-24T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A bill before the Nova Scotia Legislature is proposing a change to the age when young people in the foster care or group home system can get provincial support, raising it from 19 to 26.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.91,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77c8bbaa7997d3c9960f9e462129f1988f622c4f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/trout-kejimkujik-chain-pickerel-invasion-9.7136132?cmp=rss",
+      "title": "Trout catch at Kejimkujik decimated by invasion of voracious predator",
+      "published_at": "2026-03-24T01:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Kejimkujik National Park is pausing its annual brook trout census because an invasive species is devastating the local ecosystem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f1859fcff6c103235cc964e2292a7539f42f1b0a",
+      "url": "https://www.cbc.ca/news/indigenous/rcmp-spies-1970s-indigenous-rights-9.7134112?cmp=rss",
+      "title": "How RCMP spies infiltrated the 1970s Indigenous rights movement",
+      "published_at": "2026-03-24T00:00:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60b67369e790a6b2cb697769b4f90d90744fcc1a",
+      "url": "https://www.cbc.ca/news/investigates/iran-war-sleeper-cells-risk-intelligence-experts-9.7138536?cmp=rss",
+      "title": "Are Iranian 'sleeper cells' a threat to Canadians? Here’s what intelligence experts say",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rhetoric around Iranian sleeper cells has spiked since the onset of the U.S.-Israel war with Iran. Counter-intelligence experts and a former spy tell CBC News that while the regime may not use dormant agents in Canada, the threats of lone wolf attacks and 'criminal proxies' are real.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.937,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7e9926ea35e7cd686995797dd5af32bc4c120c25",
+      "url": "https://www.cbc.ca/news/world/syrian-refugees-return-from-lebanon-9.7135484?cmp=rss",
+      "title": "Syrians fleeing Israeli strikes in Lebanon return home to a country still rebuilding",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 125,000 people have crossed from Lebanon into Syria this month, fleeing escalating violence and returning to a country that's still struggling to rebuild after more than a decade of civil war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "513c5981962c1db02ca63c2246187bd33ca08eba",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-smith-ceraweek-foreign-investment-pipeline-9.7139057?cmp=rss",
+      "title": "Smith-Carney pipeline deal to miss early deadlines, premier says",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The first set of deadlines included in the energy and climate deal struck between Prime Minister Mark Carney and Alberta Premier Danielle Smith are not expected to be met, showing early challenges with the agreement that includes pursuing a new export pipeline from Alberta to the West Coast.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6aa4c2a514781942745aba9c3ca6b347676d38fd",
+      "url": "https://www.cbc.ca/news/canada/windsor/harlequin-romance-books-windsor-9.7136637?cmp=rss",
+      "title": "2,000 happily ever afters: Ontario woman attempts to sell huge collection of Harlequin paperbacks",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Book collector Krystin Golden of Windsor says the Harlequin Intrigue line of novels isn't just about romance, and that's why she has spent decades accumulating titles. But now she'd like to sell all 2,000 of them as a single lot.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.641,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5b8472025e707df6fd5dfb566c18a9f6e9e28f68",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/slfnha-medical-transportation-thunder-bay-9.7139118?cmp=rss",
+      "title": "First Nation medical transportation program in Thunder Bay, Ont., axed over lack of funding",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Sioux Lookout First Nations Health Authority (SLFNHA) has announced it is suspending its medical transportation program in Thunder Bay, Ont., due to a lack of funding from Indigenous Services Canada and the Non-Insured Health Benefits program. Here's what the change means for people who rely on the service and the more than 20 staff members who have been laid off.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "11695fa39b9eace68aac6ffa8e9d9fcc08458fcf",
+      "url": "https://www.cbc.ca/news/editorsblog/cbc-news-indigenous-rcmp-surveillance-9.7133525?cmp=rss",
+      "title": "How the RCMP spied on Indigenous organizations — and how we broke the story",
+      "published_at": "2026-03-24T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Today, we begin publishing a series of exclusive stories that expose a sweeping RCMP program of surveillance, disruption and infiltration of Indigenous organizations between 1968 and 1982. Though long suspected by Indigenous leaders across Canada, the scope and scale of the spy program has remained hidden behind walls of government secrecy, until now.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cc83b444ce8ef5f07b7dcc72bf58e04929b31a0e",
+      "url": "https://www.cbc.ca/player/play/9.7139609?cmp=rss",
+      "title": "#TheMoment UBC's hockey captain ran from her med school interview to her final game",
+      "published_at": "2026-03-23T18:07:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "University of British Columbia's hockey captain Annalise Wong tells The National about the moment she ran from a med school interview to make the final period of her last game at the U Sports women's championships in Elmira, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "17b9394177d37243bd40360c938a8128b39b204d",
+      "url": "https://www.cbc.ca/news/world/markwayne-mullin-dhs-approved-9.7139568?cmp=rss",
+      "title": "U.S. Senate approves Markwayne Mullin as next head of Homeland Security",
+      "published_at": "2026-03-23T17:44:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. Senate confirmed Markwayne Mullin as homeland security secretary late Monday, approving President Donald Trump's nominee to take over the embattled department after the firing of Kristi Noem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed6a303e3b20862fc520f265e5490346b1ab400b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tesla-driver-sleeping-rainy-rush-hour-9.7139522?cmp=rss",
+      "title": "Tesla driver caught asleep at wheel during rainy rush hour: RCMP",
+      "published_at": "2026-03-23T17:04:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Police in Metro Vancouver are warning drivers to remain attentive, even in a self-driving vehicle, after ticketing a woman who \"appeared to be literally asleep at the wheel\" on Highway 1.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +216,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-judge-to-rule-on-2015-air-canada-crash-landing-class-action-settlement-9.7139483?cmp=rss",
       "title": "N.S. judge to rule on proposed $18M settlement in 2015 Air Canada Halifax crash landing",
       "published_at": "2026-03-23T16:22:48-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The class action was filed in 2015 and scheduled for trial earlier this year, but a notice released Monday said the proposed settlement could avoid a lengthy court process and probably offer larger compensation.",
       "bias_heuristic": {
         "article_type": "News",
@@ -32,10 +227,10 @@
     {
       "id": "714d5cc6f9df3b5267639b95dd98111a27ed31a1",
       "url": "https://www.cbc.ca/news/entertainment/bill-cosby-guilty-sexual-assault-9.7139436?cmp=rss",
-      "title": "Jury finds Bill Cosby sexually assaulted woman in 1972, awards her more than $19M US",
+      "title": "Jury finds Bill Cosby sexually assaulted woman in 1972, awards her nearly $60M US",
       "published_at": "2026-03-23T15:51:52-04:00",
       "section": "Top Stories",
-      "summary_auto": "A civil jury in California found Monday that Bill Cosby was liable for drugging and sexually assaulting a woman in 1972 and awarded her $19.25 million US.",
+      "summary_auto": "A civil jury in California found that Bill Cosby was liable for drugging and sexually assaulting a woman in 1972 and awarded her $59.25 million US on Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.25,
@@ -60,7 +255,7 @@
       "url": "https://www.cbc.ca/sports/baseball/mlb/mlb-abs-system-robot-umpires-9.7139228?cmp=rss",
       "title": "How Major League Baseball players can turn to a robot to challenge balls, strikes this year",
       "published_at": "2026-03-23T14:45:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Here's a brief explanation of how Major League Baseball will use technology this year to give players the opportunity to challenge calls on balls and strikes at the plate.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,24 +268,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/northern-bc-avalanche-9.7139338?cmp=rss",
       "title": "4 people dead in 2 separate northwest B.C. avalanches Sunday",
       "published_at": "2026-03-23T14:42:08-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "RCMP say three heli-skiers were killed in an avalanche on Mount Knauss just north of Terrace, B.C., in the province's northwest on Sunday. The same day, one person was killed in a separate avalanche, near the B.C.-Alaska border.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.936,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f8a82d5811fe3f5218fffeed5cbd2d72978a0e3",
-      "url": "https://www.cbc.ca/news/entertainment/justin-timberlake-arrest-footage-released-9.7139131?cmp=rss",
-      "title": "Bodycam video shows Justin Timberlake's 2024 impaired driving arrest",
-      "published_at": "2026-03-23T14:35:49-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Justin Timberlake struggled to perform field sobriety tests requiring him to walk a straight line and stand on one leg after he was pulled over in New York's Hamptons in 2024 by police officers who suspected him of driving drunk, according to video footage released Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
         "subjectivity_hint": "low"
       }
     },
@@ -112,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/north/one-dead-avalanche-bc-alaska-9.7139264?cmp=rss",
       "title": "One dead following avalanche near B.C.-Alaska border",
       "published_at": "2026-03-23T13:50:16-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "B.C. RCMP say police got a satellite SOS Sunday afternoon reporting an avalanche. It happened near Pleasant Camp and the Klehini River, close to the B.C.-Alaska border.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/charity-ambulances-attacked-london-9.7139016?cmp=rss",
       "title": "British police investigate burning of 4 ambulances belonging to Jewish charity",
       "published_at": "2026-03-23T12:48:56-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Four ambulances belonging to a Jewish charity were set on fire early Monday in London in what British police are investigating as an antisemitic hate crime. Detectives are working to determine whether a claim of responsibility from a group with alleged links to Iran is authentic.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,19 +342,6 @@
       }
     },
     {
-      "id": "25a10b146dd1d7216a4b4539effe6f0d7f02071a",
-      "url": "https://www.cbc.ca/news/politics/caf-members-safe-un-peacekeeping-camp-damaged-9.7139092?cmp=rss",
-      "title": "Canadian military members safe after reports of damage at UN peacekeeping camp",
-      "published_at": "2026-03-23T12:27:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian Armed Forces members deployed in the Middle East are safe after a missile was intercepted on Sunday near the Israel-Lebanon border, the defence minister's office says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "622507ac2d7a4215cbf393c663eeb7bef42a7b52",
       "url": "https://www.cbc.ca/sports/tennis/mboko-auger-aliassime-roundup-miami-open-march23-9.7139044?cmp=rss",
       "title": "Victoria Mboko advances to Miami Open quarterfinals, defeating doubles partner Mirra Andreeva",
@@ -186,24 +355,11 @@
       }
     },
     {
-      "id": "0033d710b9bd6a820160b55ab56e43808af5df26",
-      "url": "https://www.cbc.ca/news/politics/pbo-nominee-confirmation-liberals-conservatives-9.7139025?cmp=rss",
-      "title": "Liberals' fiscal watchdog nominee vows to hold government's 'feet to the fire'",
-      "published_at": "2026-03-23T11:50:02-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Liberal government's nominee to be the next fiscal watchdog insists she'll run an independent and non-partisan ship — even though her candidacy has created a political rift.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b2603b41f54e3d1b8f04363cbcc2cf723643cfac",
       "url": "https://www.cbc.ca/news/world/ice-agents-airports-us-9.7138882?cmp=rss",
       "title": "Federal ICE agents patrolling some U.S. airports amid security staff shortages",
       "published_at": "2026-03-23T11:20:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Armed U.S. federal immigration officers in tactical gear moved through terminals at some of the busiest U.S. airports Monday, standing near security lines and checkpoints after U.S. President Donald Trump ordered their deployment during a partial government shutdown that has disrupted air travel nationwide.",
       "bias_heuristic": {
         "article_type": "News",
@@ -216,7 +372,7 @@
       "url": "https://www.cbc.ca/news/canada/saskatchewan/ottawa-leaked-letter-fsin-forensic-audit-9.7138828?cmp=rss",
       "title": "Ottawa asks Federation of Sovereign Indigenous Nations to pay back $28.7 million after forensic audit",
       "published_at": "2026-03-23T11:05:16-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The federal government is asking the Federation of Sovereign Indigenous Nations to repay more than $28.7 million following a forensic audit into its spending.",
       "bias_heuristic": {
         "article_type": "News",
@@ -229,7 +385,7 @@
       "url": "https://www.cbc.ca/radio/asithappens/shark-friends-study-9.7138605?cmp=rss",
       "title": "Turns out these sharks can make friends and have social lives, new study finds",
       "published_at": "2026-03-23T10:57:49-04:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "New research is suggesting that not all sharks are the lone, cold, ruthless predators as many films so often depict them. Some species, it turns out, can even be friendly — at least among their own kind.",
       "bias_heuristic": {
         "article_type": "News",
@@ -238,12 +394,25 @@
       }
     },
     {
+      "id": "de189224bb01de101c4de3d3a9698b7bca1fca88",
+      "url": "https://www.cbc.ca/player/play/9.7138926?cmp=rss",
+      "title": "Fact check: Fake video of Air Canada plane generated by Grok",
+      "published_at": "2026-03-23T10:50:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Can you tell this video of the LaGuardia Airport collision is fake? Grok was used to manipulate a photo of the damaged Air Canada plane, creating an AI-generated video.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "56d5b820ae998fbbeac41ebcb72f3614f95d3816",
       "url": "https://www.cbc.ca/news/world/colombia-military-crash-9.7138854?cmp=rss",
-      "title": "Death toll rises to at least 33 in Colombian military plane crash",
+      "title": "Death toll rises to at least 66 in Colombian military plane crash",
       "published_at": "2026-03-23T10:20:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Colombian military transport plane with 121 people on board, mostly soldiers, crashed shortly after taking off Monday in Puerto Leguizamo, Colombia, killing at least 33 people and leaving at least 81 injured, according to the town's deputy mayor.",
+      "section": "World",
+      "summary_auto": "A Colombian military transport plane with 128 people on board, mostly soldiers, crashed shortly after taking off Monday in Puerto Leguizamo, Colombia, killing at least 66 people and leaving dozens injured, the head of Colombia's armed forces said.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.929,
@@ -294,271 +463,11 @@
       "url": "https://www.cbc.ca/news/entertainment/kendra-duggar-arrested-9.7138709?cmp=rss",
       "title": "Kendra Duggar, wife of 19 Kids and Counting's Joseph Duggar, arrested",
       "published_at": "2026-03-23T09:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Two days after the arrest of former 19 Kids and Counting star Joseph Duggar, an arrest warrant for his wife Kendra Duggar was also issued and served.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c80c79a047e6ababc707efe2db0515f2dcdcfe4",
-      "url": "https://www.cbc.ca/player/play/9.7138710?cmp=rss",
-      "title": "Arborist rescues cat from 8-storey-tall tree in east Ottawa",
-      "published_at": "2026-03-23T08:55:49-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Arborist Tyler Sirrs saw social media posts about a cat stuck for days in a tall tree in Orléans and decided to help. He described the rescue to CBC Ottawa Morning host Rebecca Zandbergen.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f5f9e5fa6df594b7aa5a9d7819db22d869b4abbf",
-      "url": "https://www.cbc.ca/sports/basketball/wnba-players-ratify-collective-bargaining-agreement-seven-years-9.7138676?cmp=rss",
-      "title": "WNBA players vote to ratify 7-year collective bargaining agreement through 2032",
-      "published_at": "2026-03-23T08:30:16-04:00",
-      "section": "World",
-      "summary_auto": "WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90 per cent participating in voting over the weekend.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e4bc06d683dfffbea755a42eeda6de1ca6e0dd42",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/justin-king-bail-arrest-9.7138406?cmp=rss",
-      "title": "N.L. 'prolific offender' arrested again, 2 weeks after judge granted ‘last chance’ bail",
-      "published_at": "2026-03-23T07:31:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A 34-year-old Conception Bay North man dubbed a “prolific offender” by the RCMP was arrested again on Sunday evening, less than two weeks after being granted bail.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eca1a43ad134ffacd2ba59bcadc750ba3c574c37",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-murder-trial-son-mother-stay-9.7138562?cmp=rss",
-      "title": "Trial stayed for Manitoba man accused of killing mother as teen",
-      "published_at": "2026-03-23T07:19:38-04:00",
-      "section": "Canada",
-      "summary_auto": "The family of a man accused of killing his mother when he was a teen applauded and cried in a Winnipeg courtroom after a Manitoba judge ordered a stay of proceedings in the case Monday morning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.923,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b6059fe1a946c6c2b0be49377f64036b6e6ebb5f",
-      "url": "https://www.cbc.ca/news/politics/rcmp-recruitment-auditor-general-9.7138438?cmp=rss",
-      "title": "RCMP failed to recruit enough officers to meet operational needs: auditor general",
-      "published_at": "2026-03-23T07:13:03-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The RCMP has not recruited enough new officers or effectively assigned its members to meet its operational needs — raising concerns about public safety across the country, according to a new report from Canada's auditor general.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6d3367284b0e3677be9527c3d83bfd42613b3413",
-      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-trial-milton-closing-arguments-9.7136047?cmp=rss",
-      "title": "Ontario couple in murder trial had no 'calculated scheme' to harm boys in their care, defence argues",
-      "published_at": "2026-03-23T05:59:59-04:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fc8b3d31e098b5920e82873aaf6e1ea831fba23",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/spring-storm-avalon-march-23-9.7138332?cmp=rss",
-      "title": "Up to 40 cm of snow, strong winds expected to batter southeast Newfoundland",
-      "published_at": "2026-03-23T05:20:59-04:00",
-      "section": "Canada",
-      "summary_auto": "While spring technically started late last week, Newfoundland and Labrador isn't free from winter weather just yet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cd627f767e5058568a5c4500ae364d2b29c3c6f1",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-trump-wti-oil-iran-ceraweek-9.7138299?cmp=rss",
-      "title": "Oil prices fall after Trump postpones Iran strikes",
-      "published_at": "2026-03-23T05:13:08-04:00",
-      "section": "Business",
-      "summary_auto": "Oil prices fell on Monday morning after President Donald Trump said the U.S. was holding off on striking Iran’s energy infrastructure amid productive talks between the two countries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e87e14eaa4c0edb3f65bca398bc2d0f440761083",
-      "url": "https://www.cbc.ca/news/world/faith-family-cuba-blackout-9.7138212?cmp=rss",
-      "title": "Cubans turn to faith and family amid nationwide blackout",
-      "published_at": "2026-03-23T05:02:54-04:00",
-      "section": "World",
-      "summary_auto": "Cuban authorities said late Sunday that the electrical system in Havana, which is regularly rationed between neighbourhoods, had returned to normal operation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1098df51cd091becfaaa4c8d8eece0d00b6e8b44",
-      "url": "https://www.cbc.ca/news/canada/montreal/livestory/bill-21-supreme-court-9.7138285?cmp=rss",
-      "title": "Lawyers challenging Quebec's Bill 21 tell Supreme Court it violates Constitution, sets dangerous precedent",
-      "published_at": "2026-03-23T04:28:10-04:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "85c4d117f7386910bc779174d4ce04d316233e3d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-bc-casino-acquisitions-9.7137178?cmp=rss",
-      "title": "Why First Nations in B.C. are buying up casinos in the age of online gambling",
-      "published_at": "2026-03-23T04:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Both the CEO of a First Nations development arm and an academic say acquiring these businesses provides economic incentive at a time when nations still face barriers to generating wealth.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8b690d9265a4d7f0546109cd0be32e3b74ec9145",
-      "url": "https://www.cbc.ca/news/world/christopher-columbus-statue-white-house-9.7138205?cmp=rss",
-      "title": "Trump adds new statue of Christopher Columbus near White House",
-      "published_at": "2026-03-23T03:22:31-04:00",
-      "section": "World",
-      "summary_auto": "Trump endorses a traditional view of Columbus as a leader of the 1492 mission seen as the unofficial beginning of European colonization in the Americas and the development of the modern economic and political order.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bbab604b5b12913deb92ebfcc02f3e16eb495bb1",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/potash-fertilizer-strait-of-hormuz-9.7127902?cmp=rss",
-      "title": "Sask. is a potash and agriculture giant. So why is conflict in the Middle East a problem for farmers?",
-      "published_at": "2026-03-23T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "In 2024, nearly a third of global potash production came from Canada, according to Natural Resources Canada .",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.414,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e02ddaf5cdfca91cdddbaf68403b57f0b9906518",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/ollie-transport-singh-9.7133012?cmp=rss",
-      "title": "Canada-wide arrest warrant issued following N.L. truck crash that left site looking like a 'war zone'",
-      "published_at": "2026-03-23T02:52:01-04:00",
-      "section": "Canada",
-      "summary_auto": "More than a year after a transport truck went over an embankment in Newfoundland’s Burin Peninsula, the Crown says the company’s president is in India and out of reach.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "452e26f24381055caf1417e4f410552f6cc7012a",
-      "url": "https://www.cbc.ca/news/world/israel-new-attacks-tehran-9.7138210?cmp=rss",
-      "title": "Trump extends deadline for Iran to reopen Strait of Hormuz",
-      "published_at": "2026-03-23T02:27:13-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump said Monday the U.S. was talking with a \"respected\" Iranian leader and claimed the Islamic Republic was eager for a deal to end the war. He also extended a deadline for Iran to reopen the Strait of Hormuz or face attacks on its power plants, saying it has an additional five days.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a725fa8af0af065f1e411cb20d1e75d5cece6235",
-      "url": "https://www.cbc.ca/news/world/livestory/air-canada-crash-la-guardia-airport-9.7138217?cmp=rss",
-      "title": "U.S. officials say both black boxes recovered from fatal Air Canada runway crash",
-      "published_at": "2026-03-23T01:12:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "57d59da95055f9c336a0b876b53036b63b82714a",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/maple-syrup-season-off-to-a-good-start-despite-concerns-about-last-year-s-drought-9.7134759?cmp=rss",
-      "title": "Maple syrup season in N.S. off to good start, despite concerns about last year's drought",
-      "published_at": "2026-03-23T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Some maple producers had been worried that the dry conditions last year would affect sap runs this year, but it's business as usual so far, producers say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.09,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a2017fea224cc50f216b9017c8020900e778135f",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-legislature-spring-session-9.7135930?cmp=rss",
-      "title": "Doug Ford prepares to unveil 8th Ontario budget amid economic uncertainty",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Politicians return to Queen’s Park Monday for a shortened spring session, as Premier Doug Ford’s government is set to unveil its eight budget in just days. The legislature returns a month later than usual after the Progressive Conservatives delayed the resumption of the session.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "02e3ab016e1fd8961ad0018297f47ca5cf545e45",
-      "url": "https://www.cbc.ca/news/world/australia-u16social-ban-checkin-9.7122420?cmp=rss",
-      "title": "Australia is settling into age-restricted social media. Canada is mulling whether to join in",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Nearly four months into Australia's landmark social media ban for users under 16, parent proponents laud it as a valiant first step towards a safer online experience for youth. Yet as other countries weigh introducing their own social age minimum, some continue to question bans as a solution.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "544dc931e1da11cd5c1b1347b7517eb18e60f9d8",
-      "url": "https://www.cbc.ca/news/canada/ottawa/renouncing-us-citizenship-dual-citizens-taxes-trump-factor-9.7126349?cmp=rss",
-      "title": "Dual citizens weigh Trump, taxes in decision to renounce U.S. citizenship",
-      "published_at": "2026-03-23T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Every year, thousands of dual citizens living abroad choose to formally renounce their U.S. citizenship. They say Trump is a major factor in their decision — but not the only one.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
