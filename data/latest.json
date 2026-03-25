@@ -1,18 +1,239 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-24T21:45:15.888902-04:00",
+  "generated_at": "2026-03-25T08:55:39.264638-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "edf726bac7e63eaf9f15744be519b435a5837fec",
-      "url": "https://www.cbc.ca/player/play/9.7141020?cmp=rss",
-      "title": "Who were the pilots killed in the LaGuardia runway collision? | Hanomansing Tonight",
-      "published_at": "2026-03-24T16:47:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Family, friends and community members are mourning Antoine Forest and Mackenzie Gunther, the two Air Canada Express pilots killed in Sunday’s crash at New York City's LaGuardia Airport.",
+      "id": "43d77663d99eee4c8d1ec7ad47bc641f6e93daea",
+      "url": "https://www.cbc.ca/player/play/9.7140810?cmp=rss",
+      "title": "Hometown of Quebec pilot killed in LaGuardia plane crash feels his loss",
+      "published_at": "2026-03-25T04:23:50-04:00",
+      "section": "Canada",
+      "summary_auto": "Antoine Forest, a 30-year-old man from Coteau-du-Lac, Que., was one of two pilots who died in the crash at New York’s LaGuardia airport on Sunday night.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.932,
+        "sentiment": -0.941,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2665bc0ec4dad7625aceac5c038ed649058ed689",
+      "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/alpine-skiing-val-grenier-shiffrin-aicher-9.7141188?cmp=rss",
+      "title": "Canada's Valérie Grenier wins World Cup giant slalom, Mikaela Shiffrin claims overall title",
+      "published_at": "2026-03-25T04:08:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's Valérie Grenier wrapped up the World Cup alpine skiing season with a win in the giant slalom on Wednesday in Lillehammer, Norway. Meanwhile, American Mikaela Shiffrin secured a record-tying sixth women's overall World Cup skiing title by holding off a challenge from emerging German rival Emma Aicher.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7119f67a4d9b66b76f100ea6698a8acf1cdaa69d",
+      "url": "https://www.cbc.ca/news/entertainment/2026-csa-nominees-9.7140809?cmp=rss",
+      "title": "North of North, Heated Rivalry, 40 Acres lead Canadian Screen Award nominees",
+      "published_at": "2026-03-25T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The first major comedy series filmed in Nunavut, a sci-fi suspense right out of Sinners, a time-travel mockumentary in the style of Back to the Future and the world's favourite queer hockey drama all top this year's Canadian Screen Award nomination rolls.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd8424a7c4eb9cf86323e5e8e2970ecd2b935d67",
+      "url": "https://www.cbc.ca/news/canada/edmonton/jasper-national-park-ban-watercraft-aquatic-invasive-species-9.7141092?cmp=rss",
+      "title": "Invasive species threat spurs paddling ban in some waterways in Jasper, other national parks",
+      "published_at": "2026-03-25T03:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Parks Canada has announced restrictions on paddling in some rivers and lakes in Alberta to prevent the spread of aquatic invasive species. Some paddlers are voicing concerns with the new policy, but urge their community to comply.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.535,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd27066aad82a9c91d7f33f804f65ba2a316efc2",
+      "url": "https://www.cbc.ca/radio/frontburner/americas-long-standoff-with-cuba-9.7140586?cmp=rss",
+      "title": "America’s long standoff with Cuba",
+      "published_at": "2026-03-25T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Donald Trump says he could “take” Cuba. From early imperial ambitions to the Cold War and today’s economic crisis, we look at why Cuba has remained such a persistent focus of American power.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e12e707af336c97d657ca93042ff6bab63751115",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-geoscientists-finish-antarctic-expedition-9.7140406?cmp=rss",
+      "title": "A kitchen party at the bottom of the world: N.S. scientists return from Antarctic research trip",
+      "published_at": "2026-03-25T01:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Three Nova Scotian geoscientists have returned from a month-long expedition to Antarctica and now hope to inspire other women to enter their field of work.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ab840a27d413d57197ee8053b615ca025e2b5c03",
+      "url": "https://www.cbc.ca/news/world/u-s-trump-iran-negotiate-war-9.7141108?cmp=rss",
+      "title": "U.S. offers plan for a ceasefire, but Iran says Washington in no position to negotiate",
+      "published_at": "2026-03-25T00:56:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Iran has received an American 15-point plan for a ceasefire for the Iran war through intermediaries from Pakistan, officials in Islamabad said Wednesday. The proposal was sent even as Washington began to move paratroopers to the Middle East to back up a contingent of Marines already heading there.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.846,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65147725d556e960b500a0721f03fd5e84553e8a",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/human-trafficking-newfoundland-labrador-9.7134949?cmp=rss",
+      "title": "Officials say human trafficking is an underreported crime in N.L. — here’s what they’re doing about it",
+      "published_at": "2026-03-25T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Hotels in Newfoundland and Labrador are being trained to recognize human trafficking — criminal activity that officials say despite a lack of cases, is in fact present in the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.713,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "31f8e135b883165daf90c26c3b159e2598927543",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-ceraweek-hodgson-9.7140979?cmp=rss",
+      "title": "Canada is pitching its energy ambitions in Texas — can the oil and gas industry be convinced?",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Though oil and gas industry executives at CERAWeek, a global energy conference in Houston, welcomed Natural Resources Minister Tim Hodgson’s enthusiasm, they still say they want to see considerable action before they can be sure Canada's federal government is serious about changing the country’s reputation as being reluctant to expand the energy sector, especially oil and natural gas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.959,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "63294747406a1949d554897b2fb747a213436a24",
+      "url": "https://www.cbc.ca/news/canada/montreal/frostbite-amputations-9.7136555?cmp=rss",
+      "title": "Montreal saw record 12 frostbite amputations in 2025, but none this year. Here's why",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite a long and cold winter, no frostbite amputations have been reported in Montreal so far this year compared to an annual average of about six. The drop in cases could be connected to the addition of hundreds of spots in temporary warming shelters around the city and the use of a new drug protocol to treat frostbite.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5dc2dcbb244236f61baa540aa25bdb90e43e6462",
+      "url": "https://www.cbc.ca/news/politics/members-parliament-sponsored-travel-9.7140842?cmp=rss",
+      "title": "Sponsored international travel by MPs drops to 15-year low outside of COVID-19 pandemic",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Members of Parliament last year went on the fewest sponsored international trips in the last 15 years, excluding the height of the COVID-19 pandemic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ced642737a4349846608f6cbc68b6128305c9e2f",
+      "url": "https://www.cbc.ca/news/canada/toronto/bill-9-vote-questioned-9.7140525?cmp=rss",
+      "title": "Ontario running out of time to pass bill to deal with misbehaving municipal politicians, critics warn",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario is running out of time to beef up rules that would crack down on negligent and misbehaving municipal politicians ahead of the next civic election, some experts and opposition critics warn.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f2638715998ed9085bb40c0d455f1a16632e6392",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/nash-prystie-siu-investigation-launched-9.7140335?cmp=rss",
+      "title": "Family of man killed in Ontario police shooting says he'd asked for help, reflecting 'gaps' in the system",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A 39-year-old man was killed in an Ontario Provincial Police shooting this month after they responded to a call about a person in crisis. CBC News was in touch with Nash Prystie's family, who said he'd previously \"reached out for help during times when he needed it most.\" Here's what the family shared as the Special Investigations Unit (SIU) looks into how he died.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "99f8cba9d58d09ff9a7a797a8068e926f829eac9",
+      "url": "https://www.cbc.ca/news/canada/investigators-delayed-us-shutdown-airports-9.7140874?cmp=rss",
+      "title": "Plane crash investigators held up by airport delays as partial U.S. shutdown continues",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Specialists investigating the Air Canada plane crash at LaGuardia Airport that killed two pilots were held up by delays at other airports Monday, according to the U.S. National Transportation Safety Board, as a partial U.S. government shutdown is causing security delays across the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9dca153aa6772b3285dfa45054fdd5a5358a0082",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/government-budget-john-lohr-tim-houston-claudia-chender-iain-rankin-9.7141047?cmp=rss",
+      "title": "N.S. budget bill vote shut down by singing protesters",
+      "published_at": "2026-03-24T23:01:02-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As the final vote to approve Premier Tim Houston's controversial budget was about to begin, members of the crowd in the Province House gallery broke out in song.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c024f32f559f29029890d014c19979e6e9bcb4b4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/heroic-youth-tumbler-ridge-final-words-9.7140439?cmp=rss",
+      "title": "12-year-old student pulled classmates to safety during Tumbler Ridge shooting, says MP",
+      "published_at": "2026-03-24T18:58:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "More than a month after the deadly mass shooting in Tumbler Ridge, stories of bravery during the tragedy are being shared. At the National Prayer Breakfast in Ottawa Tuesday morning, Conservative MP Bob Zimmer for Prince George-Peace River-Northern Rockies spoke about a student who pulled two classmates to safety.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "118266a2b3fcc2e3fdad5939b4434cd530d0cbeb",
+      "url": "https://www.cbc.ca/news/world/minnesota-sues-trump-administration-9.7141049?cmp=rss",
+      "title": "Minnesota sues Trump administration for access to evidence in killings of Renée Good, Alex Pretti",
+      "published_at": "2026-03-24T18:11:12-04:00",
+      "section": "World",
+      "summary_auto": "Officials in Minnesota sued the Trump administration Tuesday for access to evidence they say they need to independently investigate three shootings in the state earlier this year by federal officers, including the killings of Renee Good and Alex Pretti.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c12361f3925b8a86fa1ac0aeb2caf40539e96357",
+      "url": "https://www.cbc.ca/player/play/9.7141072?cmp=rss",
+      "title": "#TheMoment a 5th grader hit a backwards buzzer-beater",
+      "published_at": "2026-03-24T18:03:55-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Caden Farrare, 11, and his dad Aubrey tell The National about the moment Caden hit a backwards buzzer beater shot to win the Grade 5 basketball championship in Laurel, Md.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +281,7 @@
       "url": "https://www.cbc.ca/news/world/sora-openai-shut-down-9.7140872?cmp=rss",
       "title": "OpenAI shuts down Sora app amid rising concerns about deepfakes and consent",
       "published_at": "2026-03-24T15:15:19-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "OpenAI is shutting down its social media app Sora, which went viral last fall as a place to share short-form videos generated by artificial intelligence, but also raised alarms in Hollywood and beyond about the dangers of letting people create AI videos that resulted in nonconsensual images and realistic deepfakes.",
       "bias_heuristic": {
         "article_type": "News",
@@ -69,37 +290,11 @@
       }
     },
     {
-      "id": "43d77663d99eee4c8d1ec7ad47bc641f6e93daea",
-      "url": "https://www.cbc.ca/player/play/9.7140810?cmp=rss",
-      "title": "Pilots killed in LaGuardia runway collision mourned by family, community",
-      "published_at": "2026-03-24T14:47:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Antoine Forest, a 30-year-old man from Coteau-du-Lac, Que., was one of two pilots who died in the crash at New York’s LaGuardia airport on Sunday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.939,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43d77663d99eee4c8d1ec7ad47bc641f6e93daea",
-      "url": "https://www.cbc.ca/player/play/9.7140810?cmp=rss",
-      "title": "Hometown of Quebec pilot killed in LaGuardia plane crash feels his loss",
-      "published_at": "2026-03-24T14:47:20-04:00",
-      "section": "Canada",
-      "summary_auto": "Antoine Forest, a 30-year-old man from Coteau-du-Lac, Que., was one of two pilots who died in the crash at New York’s LaGuardia airport on Sunday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.941,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "68057ffd3ef59a3326be12541b4192288a84befc",
       "url": "https://www.cbc.ca/news/canada/british-columbia/pride-festivals-seek-federal-funding-9.7140609?cmp=rss",
       "title": "Pride festivals seek $3M from Ottawa as corporate sponsors pull back amid DEI backlash",
       "published_at": "2026-03-24T14:22:27-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Pride festivals are seeking $3 million annually from Ottawa to fill a funding gap left by corporations pulling back funding amid a backlash to diversity, equity and inclusion programs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,11 +316,24 @@
       }
     },
     {
+      "id": "873ea1bf8c358362bbc35b92a2a764436bf99628",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-counter-terrorism-unit-rifles-toronto-9.7140751?cmp=rss",
+      "title": "Cops with patrol rifles to be deployed to key locations in Toronto as police create new unit, task force",
+      "published_at": "2026-03-24T14:10:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Toronto police say they are creating a counter-terrorism unit and a specialized task force that will see officers with semi-automatic rifles stationed at key locations in the city.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7ea9323c6d4f95671e384bad9e48549cdacfe0c3",
       "url": "https://www.cbc.ca/books/blue-jays-sportscaster-hazel-mae-memoir-this-fall-9.7140668?cmp=rss",
       "title": "Blue Jays sportscaster Hazel Mae to publish memoir this fall",
       "published_at": "2026-03-24T13:46:29-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Known for her field-side reporting on the Toronto Blue Jays, Mae wrote the book Before I Let You Go, which is set to release on Nov. 10.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +359,7 @@
       "url": "https://www.cbc.ca/news/canada/cbsa-temporary-removal-middle-east-9.7140711?cmp=rss",
       "title": "Canada pauses removals of inadmissible individuals to several Middle East countries",
       "published_at": "2026-03-24T13:39:42-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Canada is temporarily halting removals to several more Middle East countries due to \"volatile and unpredictable conditions\" caused by the U.S.-Israel war with Iran that has spread to surrounding nations.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,41 +368,15 @@
       }
     },
     {
-      "id": "bd61ec4f42ec47b4a6ded1f6cb1c97da903620b4",
-      "url": "https://www.cbc.ca/player/play/9.7140699?cmp=rss",
-      "title": "Fact check: Fake CBC articles use this business writer’s byline",
-      "published_at": "2026-03-24T13:12:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jenna Benchetrit's face and name have been used in fake CBC articles intended to scam people into sending money. She’s the senior business writer for CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "ebac97911f3b5c2a06a07ca111e47c7077a08192",
       "url": "https://www.cbc.ca/news/business/epic-games-layoffs-march-2026-9.7140591?cmp=rss",
       "title": "Epic Games to lay off more than 1,000 employees as Fortnite usage drops",
       "published_at": "2026-03-24T12:48:16-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Epic Games will cut more than 1,000 jobs following a drop in engagement for Fortnite, the latest layoffs in the video game industry where growth has stalled due to economic uncertainty.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c450dbb18878b82f1712b40ffe6c55b42c9b57a5",
-      "url": "https://www.cbc.ca/news/canada/montreal/porter-flights-montreal-9.7140629?cmp=rss",
-      "title": "Porter to launch flights from revamped Montreal Metropolitan Airport",
-      "published_at": "2026-03-24T12:45:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Porter Airlines plans to launch a dozen routes this summer from the overhauled Montreal Metropolitan Airport, as Canada's third-largest carrier seeks to gain purchase in the competitive domestic market and start putting its half-billion-dollar investment to work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -216,25 +398,12 @@
       "url": "https://www.cbc.ca/sports/basketball/wnba-owners-vote-unanimous-collective-bargaining-agreement-9.7140581?cmp=rss",
       "title": "WNBA and players unanimously approve agreement, setting up sprint to May season opener",
       "published_at": "2026-03-24T12:13:19-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The WNBA board of governors unanimously ratified the terms of a new collective bargaining agreement on Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.791,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e7b40f65488ccf18e45dbcf337ce2e99fb7984de",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-stadium-fifa-world-cup-9.7140412?cmp=rss",
-      "title": "Upgrades to Toronto Stadium unveiled with World Cup games on horizon",
-      "published_at": "2026-03-24T11:25:41-04:00",
-      "section": "Canada",
-      "summary_auto": "Officials revealed Tuesday that all major updates for Toronto Stadium at Exhibition Place are finished in advance of World Cup games this summer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -264,327 +433,15 @@
       }
     },
     {
-      "id": "f7465198f7bb95bff67d2da2f87fcb12a3b5018f",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-grad-ceremonies-province-memo-9.7140384?cmp=rss",
-      "title": "Graduation ceremonies should steer clear of 'divisive or contentious issues,' says Ontario memo to school boards",
-      "published_at": "2026-03-24T10:29:37-04:00",
+      "id": "2ee2cc10e30cb2c9851f7656139babbafc123718",
+      "url": "https://www.cbc.ca/news/canada/manitoba/human-remains-france-first-world-war-manitoba-veteran-9.7139968?cmp=rss",
+      "title": "Human remains found in France ID'd as First World War soldier from Manitoba",
+      "published_at": "2026-03-24T10:04:51-04:00",
       "section": "Canada",
-      "summary_auto": "The memo, signed by Education Minister Paul Calandra and addressed to educators and school board staff, warns that failure by school boards to meet those expectations “poses a real risk to student well-being.”",
+      "summary_auto": "A construction project in France in 2020 uncovered human remains now confirmed to be those of Albert Henry Detmold, a First World War soldier from Manitoba.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e009fa873215e1105e39778e9d5a6bfec95ba2a7",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/fatality-hiker-fall-lions-bay-bc-9.7140314?cmp=rss",
-      "title": "Hiker dies after slipping down B.C.'s Brunswick Mountain while trying to help companion",
-      "published_at": "2026-03-24T10:20:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A man who slipped and fell between 100 and 150 metres while trying to help a companion during a hike on one of the tallest mountains in Metro Vancouver's North Shore has died of his injuries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c36f110b72d78d4dc81041fc91572dcf14c80cd7",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/marie-philip-poulin-long-term-injured-reserve-knee-victoire-pwhl-9.7140340?cmp=rss",
-      "title": "Montreal Victoire captain Marie-Philip Poulin to sit out at least 2 more weeks with leg injury",
-      "published_at": "2026-03-24T10:01:37-04:00",
-      "section": "Canada",
-      "summary_auto": "The Montreal Victoire have placed captain Marie-Philip Poulin on long-term injured reserve, the Professional Women's Hockey League team announced Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6141268ca7f09d2ef8461649f7b0f5ac52347d4",
-      "url": "https://www.cbc.ca/news/politics/fraser-ford-smith-moe-ford-legault-judges-9.7140166?cmp=rss",
-      "title": "Justice minister won't meet premiers' demand for 'sea change' to how judges are appointed",
-      "published_at": "2026-03-24T09:04:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Justice Minister Sean Fraser says he has no plans to change how judges are appointed in Canada after four premiers wrote to Prime Minister Mark Carney asking for more of a say in the process.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.716,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1e695dead6f64662d146a56038b045ebdc50d63",
-      "url": "https://www.cbc.ca/news/science/nasa-lunar-gateway-9.7140073?cmp=rss",
-      "title": "NASA plans $20B moon base, but pauses lunar space station project",
-      "published_at": "2026-03-24T08:27:27-04:00",
-      "section": "World",
-      "summary_auto": "NASA is pausing plans to deploy a space station in lunar orbit and will instead use its components to construct ‌a $20 billion base on the moon's surface over the next seven years, its new chief Jared Isaacman said on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c13d87f52a27f9cfb6f8b448bb3c1e1eb45babf5",
-      "url": "https://www.cbc.ca/news/canada/calgary/rcmp-probe-corruption-allegations-at-calgary-city-hall-warrants-executed-on-former-mayor-councillors-9.7140099?cmp=rss",
-      "title": "RCMP probe corruption allegations at Calgary city hall; warrants executed on former mayor, councillors",
-      "published_at": "2026-03-24T08:05:52-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An RCMP-led corruption investigation is underway and search warrants were executed on a number of properties, including the homes of former mayor Jyoti Gondek, former councillor Sean Chu and sitting councillor Andre Chabot.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2746320eb7d60504a9390ac39f91a1570e4e8a29",
-      "url": "https://www.cbc.ca/player/play/9.7139406?cmp=rss",
-      "title": "Man who lost family on Air India Flight 182 honoured with Order of Canada",
-      "published_at": "2026-03-24T08:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Mahesh Chandra Sharma, a highly respected Concordia University professor known for his philanthropic work, was appointed to the Order of Canada in March. He set up scholarships honouring his family members who were victims of the 1985 Air India bombing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.294,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "66cb5deba6c70c7316b3c91e5909536c83e89f95",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pst-groceries-2026-budget-9.7140023?cmp=rss",
-      "title": "Manitoba removing provincial sales tax from more food sold at grocery stores: premier",
-      "published_at": "2026-03-24T07:41:49-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Provincial sales taxes will be removed from more grocery store items under Manitoba's latest budget, and one researcher wonders if other provinces will follow.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "66cb5deba6c70c7316b3c91e5909536c83e89f95",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pst-groceries-2026-budget-9.7140023?cmp=rss",
-      "title": "Manitoba to cut PST on all food items at grocery stores in July",
-      "published_at": "2026-03-24T07:41:49-04:00",
-      "section": "Canada",
-      "summary_auto": "Provincial sales taxes will be removed from more grocery store items under Manitoba's latest budget, and one researcher wonders if other provinces will follow.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01a838752dbe8be2b8d027551b8b3db158eca763",
-      "url": "https://www.cbc.ca/news/politics/federal-minimum-wage-increase-9.7140017?cmp=rss",
-      "title": "Federal minimum wage increasing to $18.15 per hour",
-      "published_at": "2026-03-24T07:27:09-04:00",
-      "section": "Business",
-      "summary_auto": "The federal minimum wage will rise by 40 cents next week, a scheduled increase that keeps the wage in line with inflation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9d001b307761771364fecfe754e794abb6626c1b",
-      "url": "https://www.cbc.ca/sports/future-of-sport-canada-commission-report-march-24-9.7139878?cmp=rss",
-      "title": "'Fragmented, inconsistent, unsafe': Commission calls for sweeping change to sport in Canada",
-      "published_at": "2026-03-24T07:03:20-04:00",
-      "section": "Canada",
-      "summary_auto": "A commission studying the future of sport in Canada has called for sweeping change to the way sport is structured, after its work found “the widespread presence of maltreatment and abuse” in a poorly resourced and organized system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "80d0f518fe29d74a244a7f046e449412db69c7b5",
-      "url": "https://www.cbc.ca/news/climate/record-heat-dome-9.7139906?cmp=rss",
-      "title": "Record-breaking heat dome growing to cover nearly the entire U.S.",
-      "published_at": "2026-03-24T06:56:57-04:00",
-      "section": "World",
-      "summary_auto": "A huge heat dome is spreading across the United States. After breaking March records in 14 states with temperatures as high as 44.4 C, it's now widening and may become the most expansive heat dome ever.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3b74b49ff7a250f4ded8080511ba9559c808d9db",
-      "url": "https://www.cbc.ca/news/entertainment/celine-dion-posters-paris-9.7139862?cmp=rss",
-      "title": "Mysterious posters hinting at Céline Dion's rumoured return pop up in Paris",
-      "published_at": "2026-03-24T06:45:55-04:00",
-      "section": "World",
-      "summary_auto": "A social media post by Dion herself and the new posters across Paris are fueling speculation about the singer's reported return to performing. But representatives for the Quebec star have not confirmed any performances.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "25bb6c1ce0c74f5041b94ce9509f6f0f3a68b057",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-school-crossing-guard-crash-dead-9.7139823?cmp=rss",
-      "title": "Arrest made in hit and run that killed Ottawa school crossing guard",
-      "published_at": "2026-03-24T05:50:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ottawa police have arrested a 19-year-old man after a school crossing guard died following a hit-and-run collision near a Barrhaven elementary school on Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.944,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6e05febf9e70a18c37bc5c3bd7c324a0b76bf214",
-      "url": "https://www.cbc.ca/news/canada/edmonton/emergency-doctors-pay-arrangement-alberta-9.7139373?cmp=rss",
-      "title": "Edmonton emergency doctors and hospitalists warn of ER backlogs when stipend payments end",
-      "published_at": "2026-03-24T04:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Some family doctors and emergency room physicians working in Edmonton hospitals warn that an April 1 end to stipend pay arrangements could put patient care at risk and increase suffering.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bec82d96a82a5ec03d070114cf9f326a64fe3d68",
-      "url": "https://www.cbc.ca/news/canada/windsor/some-u-s-car-buyers-envy-what-they-cannot-have-affordable-chinese-evs-9.7139717?cmp=rss",
-      "title": "Some U.S. car buyers envy what they cannot have — affordable Chinese EVs",
-      "published_at": "2026-03-24T03:41:08-04:00",
-      "section": "Business",
-      "summary_auto": "Survey shows 40 per cent of U.S. consumers ​support Chinese auto imports, while political opposition in U.S. remains strong",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fcdbbe070e0614823c4f8a2bff5db2ba635a5925",
-      "url": "https://www.cbc.ca/news/world/trump-administration-totalenergies-offshore-wind-9.7139677?cmp=rss",
-      "title": "U.S. to pay French company $1B to scrap offshore wind projects",
-      "published_at": "2026-03-24T03:12:58-04:00",
-      "section": "World",
-      "summary_auto": "The Trump administration will pay $1 billion to a France's TotalEnergies to walk away from two U.S. offshore wind leases as the administration ramps up its campaign against offshore wind and other renewable energy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "77c8bbaa7997d3c9960f9e462129f1988f622c4f",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/trout-kejimkujik-chain-pickerel-invasion-9.7136132?cmp=rss",
-      "title": "Trout catch at Kejimkujik decimated by invasion of voracious predator",
-      "published_at": "2026-03-24T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Kejimkujik National Park is pausing its annual brook trout census because an invasive species is devastating the local ecosystem.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c31f7dfbd556d4f97edc13b9f5d01444762fc923",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/moms-feel-the-burn-and-a-sense-of-community-while-their-babies-are-looked-after-9.7136614?cmp=rss",
-      "title": "Moms feel the burn — and a sense of community — while their babies are looked after",
-      "published_at": "2026-03-24T00:30:00-04:00",
-      "section": "Health",
-      "summary_auto": "The Islander Athletics \"mom club\" allows parents to work out while their kids are looked after, building muscle and community.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b1a234456daade00d2b99f86d4cd9eb2ee45d01d",
-      "url": "https://www.cbc.ca/news/canada/london/leos-pizza-review-bomb-9.7138695?cmp=rss",
-      "title": "When a beloved pizza joint got bombarded with 1-star Google reviews, a London, Ont., neighbourhood fought back",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When the owner of a Byron pizzeria got hit with negative comments in a suspected \"review bomb\" members of the community countered with a review bomb of their own, this time with positive feedback.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f1859fcff6c103235cc964e2292a7539f42f1b0a",
-      "url": "https://www.cbc.ca/news/indigenous/rcmp-spies-1970s-indigenous-rights-9.7134112?cmp=rss",
-      "title": "How RCMP spies infiltrated the 1970s Indigenous rights movement",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A CBC Indigenous investigation has found the Cold War-era RCMP Security Service had a widespread and intrusive surveillance operation targeting at least 30 legitimate Indigenous political organizations and hundreds of Indigenous people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "24f948902fcf6184bc813be16308be38d2df546a",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-high-school-e-learning-9.7139226?cmp=rss",
-      "title": "Ontario mandated e-learning to expand course options. Some worry it's being used to boost marks",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Six years after the Ontario government made e-learning a mandatory requirement for a high school diploma, students don't appear to be taking online school to diversify their course selection as the province had intended, according to a CBC News analysis of provincial enrolment data.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "60b67369e790a6b2cb697769b4f90d90744fcc1a",
-      "url": "https://www.cbc.ca/news/investigates/iran-war-sleeper-cells-risk-intelligence-experts-9.7138536?cmp=rss",
-      "title": "Are Iranian 'sleeper cells' a threat to Canadians? Here’s what intelligence experts say",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Rhetoric around Iranian sleeper cells has spiked since the onset of the U.S.-Israel war with Iran. Counter-intelligence experts and a former spy tell CBC News that while the regime may not use dormant agents in Canada, the threats of lone wolf attacks and 'criminal proxies' are real.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7e9926ea35e7cd686995797dd5af32bc4c120c25",
-      "url": "https://www.cbc.ca/news/world/syrian-refugees-return-from-lebanon-9.7135484?cmp=rss",
-      "title": "Syrians fleeing Israeli strikes in Lebanon return home to a country still rebuilding",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "More than 125,000 people have crossed from Lebanon into Syria this month, fleeing escalating violence and returning to a country that's still struggling to rebuild after more than a decade of civil war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.923,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "513c5981962c1db02ca63c2246187bd33ca08eba",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-smith-ceraweek-foreign-investment-pipeline-9.7139057?cmp=rss",
-      "title": "Smith-Carney pipeline deal to miss early deadlines, premier says",
-      "published_at": "2026-03-24T00:00:00-04:00",
-      "section": "Business",
-      "summary_auto": "The first set of deadlines included in the energy and climate deal struck between Prime Minister Mark Carney and Alberta Premier Danielle Smith are not expected to be met, showing early challenges with the agreement that includes pursuing a new export pipeline from Alberta to the West Coast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
+        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     }
