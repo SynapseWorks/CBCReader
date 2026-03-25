@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-25T10:53:34.504492-04:00",
+  "generated_at": "2026-03-25T14:48:26.446228-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "aaf40b72e295f62ed847f278a82de9a618cc95f7",
+      "url": "https://www.cbc.ca/news/world/cuba-health-care-us-oil-embargo-9.7141080?cmp=rss",
+      "title": "Cuban health-care workers struggle to support the sick amid U.S. oil embargo",
+      "published_at": "2026-03-25T10:37:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Young health-care providers at Havana’s Cardiology Institute describe a double-whammy of desperation in their work and private lives. They're anxious about what the future holds since a U.S. oil embargo in January led to dramatic fuel shortages in Cuba, along with soaring food prices and nationwide power outages.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "612a0ceccc73ec8645f0e0c0dbc140d121443999",
+      "url": "https://www.cbc.ca/news/science/birute-galdikas-dead-orangutan-9.7141747?cmp=rss",
+      "title": "Canadian orangutan scientist Biruté Galdikas dead at 79",
+      "published_at": "2026-03-25T09:30:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Biruté Mary Galdikas, a Canadian scientist who dedicated her life to the study and conservation of orangutans, has died. She was the last living member of the renowned primatologists known as \"trimates,\" alongside Jane Goodall and Diane Fossey.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "750c1411c7e5c22dedb266e7b2688b58b6fa3b86",
+      "url": "https://www.cbc.ca/news/entertainment/peter-jackson-stephen-colbert-lord-of-the-rings-9.7141769?cmp=rss",
+      "title": "Stephen Colbert is writing a Lord of the Rings movie with his son",
+      "published_at": "2026-03-25T09:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Stephen Colbert, famous devotee to J.R.R. Tolkien's Middle-earth, is co-writing a Lord of the Rings movie with his son.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79cc673fdf6e2966eee83549423097bb6f63b304",
+      "url": "https://www.cbc.ca/news/world/russia-drone-attack-lviv-9.7141478?cmp=rss",
+      "title": "In rare daytime drone blitz, Russia attacks western Ukrainian city largely spared from war's damage",
+      "published_at": "2026-03-25T08:44:36-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In normal times, an assault of close to 1,000 Russian drones — many made from Iranian parts and designs — would dominate the news agenda. Ukraine’s President Volodymyr Zelensky described the attacks as \"absolute depravity.\" At least six people were killed and a number of others injured.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.965,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5581c6c9c6d00af55a2869808c174c15bd2bdfc2",
+      "url": "https://www.cbc.ca/news/editorsblog/cbc-hamilton-news-expansion-9.7141230?cmp=rss",
+      "title": "CBC News expands in Hamilton with new morning audio program, podcast",
+      "published_at": "2026-03-25T07:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News is announcing an expansion of our local news service in Hamilton, in the form of a live audio morning show, available on HD radio and other digital platforms, and a weekly podcast to be added to the existing digital news offered by the station.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bb34bd4d0be0dc50ea0f833a0f0dd94311e71972",
+      "url": "https://www.cbc.ca/news/canada/montreal/air-canada-ceo-michael-rousseau-francois-legault-9.7141491?cmp=rss",
+      "title": "Legault calls for resignation of Air Canada CEO over English-only condolence video",
+      "published_at": "2026-03-25T06:59:11-04:00",
+      "section": "Canada",
+      "summary_auto": "François Legault called for Air Canada CEO Michael Rousseau to resign, saying he lacks respect for Francophone employees and clients",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c1bad069324a748c53db04fdbe5d004c153d30a",
+      "url": "https://www.cbc.ca/news/politics/air-canada-ceo-english-message-9.7141321?cmp=rss",
+      "title": "Carney 'very disappointed' in Air Canada CEO's English-only condolence video, says it lacked compassion",
+      "published_at": "2026-03-25T06:18:27-04:00",
+      "section": "Canada",
+      "summary_auto": "Prime Minister Mark Carney had pointed words for the head of Canada's largest airline early Wednesday, saying the Air Canada CEO's unilingual message of condolences to those affected by the recent deadly crash showed a \"lack of judgment\" and \"a lack of compassion.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.648,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "04095aad30bb4cfab6a5b85070b4b3d1576deec0",
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-remove-hst-new-homes-9.7141269?cmp=rss",
@@ -13,19 +104,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43d77663d99eee4c8d1ec7ad47bc641f6e93daea",
-      "url": "https://www.cbc.ca/player/play/9.7140810?cmp=rss",
-      "title": "Hometown of Quebec pilot killed in LaGuardia plane crash feels his loss",
-      "published_at": "2026-03-25T04:23:50-04:00",
-      "section": "Canada",
-      "summary_auto": "Antoine Forest, a 30-year-old man from Coteau-du-Lac, Que., was one of two pilots who died in the crash at New York’s LaGuardia airport on Sunday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.941,
         "subjectivity_hint": "low"
       }
     },
@@ -108,6 +186,19 @@
       }
     },
     {
+      "id": "92406759e529052f50109555aaeac7794830bf6d",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/rcmp-native-extremism-files-metis-nation-sask-9.7138693?cmp=rss",
+      "title": "Indigenous activists in Sask. among those targeted by RCMP spying in 1970s",
+      "published_at": "2026-03-25T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Reports on Indigenous organizations in Saskatchewan are among previously classified RCMP Security Service files released to CBC under the Access to Information Act. Bruce Flamont says he is not surprised. He saw officers surveilling him in the 1970s.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.186,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "3dde0572ea5233fdab644af6891603329e1763e3",
       "url": "https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-tourism-ai-chatbot-explora-9.7139199?cmp=rss",
       "title": "N.B.'s new AI chatbot gives tourists wrong info, like suggesting they leave province to find seafood",
@@ -136,13 +227,13 @@
     {
       "id": "ab840a27d413d57197ee8053b615ca025e2b5c03",
       "url": "https://www.cbc.ca/news/world/u-s-trump-iran-negotiate-war-9.7141108?cmp=rss",
-      "title": "U.S. offers plan for a ceasefire, but Iran says Washington in no position to negotiate",
+      "title": "Iran rejects U.S. ceasefire plan as missiles continue to fly across Middle East",
       "published_at": "2026-03-25T00:56:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Iran has received an American 15-point plan for a ceasefire for the Iran war through intermediaries from Pakistan, officials in Islamabad said Wednesday. The proposal was sent even as Washington began to move paratroopers to the Middle East to back up a contingent of Marines already heading there.",
+      "section": "World",
+      "summary_auto": "Iran on Wednesday dismissed an American plan to pause the war in the Middle East and launched more attacks on Israel and Gulf Arab countries, including an assault that sparked a huge fire at Kuwait International Airport.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.846,
+        "sentiment": -0.929,
         "subjectivity_hint": "low"
       }
     },
@@ -151,7 +242,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/human-trafficking-newfoundland-labrador-9.7134949?cmp=rss",
       "title": "Officials say human trafficking is an underreported crime in N.L. — here’s what they’re doing about it",
       "published_at": "2026-03-25T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Hotels in Newfoundland and Labrador are being trained to recognize human trafficking — criminal activity that officials say despite a lack of cases, is in fact present in the province.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,42 +264,16 @@
       }
     },
     {
-      "id": "63294747406a1949d554897b2fb747a213436a24",
-      "url": "https://www.cbc.ca/news/canada/montreal/frostbite-amputations-9.7136555?cmp=rss",
-      "title": "Montreal saw record 12 frostbite amputations in 2025, but none this year. Here's why",
-      "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite a long and cold winter, no frostbite amputations have been reported in Montreal so far this year compared to an annual average of about six. The drop in cases could be connected to the addition of hundreds of spots in temporary warming shelters around the city and the use of a new drug protocol to treat frostbite.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "5dc2dcbb244236f61baa540aa25bdb90e43e6462",
       "url": "https://www.cbc.ca/news/politics/members-parliament-sponsored-travel-9.7140842?cmp=rss",
       "title": "Sponsored international travel by MPs drops to 15-year low outside of COVID-19 pandemic",
       "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Members of Parliament last year went on the fewest sponsored international trips in the last 15 years, excluding the height of the COVID-19 pandemic.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ced642737a4349846608f6cbc68b6128305c9e2f",
-      "url": "https://www.cbc.ca/news/canada/toronto/bill-9-vote-questioned-9.7140525?cmp=rss",
-      "title": "Ontario running out of time to pass bill to deal with misbehaving municipal politicians, critics warn",
-      "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario is running out of time to beef up rules that would crack down on negligent and misbehaving municipal politicians ahead of the next civic election, some experts and opposition critics warn.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -225,6 +290,19 @@
       }
     },
     {
+      "id": "ced642737a4349846608f6cbc68b6128305c9e2f",
+      "url": "https://www.cbc.ca/news/canada/toronto/bill-9-vote-questioned-9.7140525?cmp=rss",
+      "title": "Ontario running out of time to pass bill to deal with misbehaving municipal politicians, critics warn",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Ontario is running out of time to beef up rules that would crack down on negligent and misbehaving municipal politicians ahead of the next civic election, some experts and opposition critics warn.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "99f8cba9d58d09ff9a7a797a8068e926f829eac9",
       "url": "https://www.cbc.ca/news/canada/investigators-delayed-us-shutdown-airports-9.7140874?cmp=rss",
       "title": "Plane crash investigators held up by airport delays as partial U.S. shutdown continues",
@@ -238,11 +316,24 @@
       }
     },
     {
+      "id": "63294747406a1949d554897b2fb747a213436a24",
+      "url": "https://www.cbc.ca/news/canada/montreal/frostbite-amputations-9.7136555?cmp=rss",
+      "title": "Montreal saw record 12 frostbite amputations in 2025, but none this year. Here's why",
+      "published_at": "2026-03-25T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Despite a long and cold winter, no frostbite amputations have been reported in Montreal so far this year compared to an annual average of about six. The drop in cases could be connected to the addition of hundreds of spots in temporary warming shelters around the city and the use of a new drug protocol to treat frostbite.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "9dca153aa6772b3285dfa45054fdd5a5358a0082",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/government-budget-john-lohr-tim-houston-claudia-chender-iain-rankin-9.7141047?cmp=rss",
       "title": "N.S. budget bill vote shut down by singing protesters",
       "published_at": "2026-03-24T23:01:02-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "As the final vote to approve Premier Tim Houston's controversial budget was about to begin, members of the crowd in the Province House gallery broke out in song.",
       "bias_heuristic": {
         "article_type": "News",
@@ -290,24 +381,11 @@
       }
     },
     {
-      "id": "edf726bac7e63eaf9f15744be519b435a5837fec",
-      "url": "https://www.cbc.ca/player/play/9.7141020?cmp=rss",
-      "title": "Pilots killed in LaGuardia runway collision mourned by family, community | Hanomansing Tonight",
-      "published_at": "2026-03-24T16:47:36-04:00",
-      "section": "Canada",
-      "summary_auto": "Family, friends and community members are mourning Antoine Forest and Mackenzie Gunther, the two Air Canada Express pilots killed in Sunday’s crash at New York City's LaGuardia Airport.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.946,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8d49a99620a67ab158ffcd047a48ab9ce540a5e5",
       "url": "https://www.cbc.ca/news/canada/british-columbia/heli-skiiers-killed-northern-bc-switzerland-9.7140658?cmp=rss",
       "title": "Operations suspended at B.C. heli-skiing company after 3 Swiss nationals killed in avalanche",
       "published_at": "2026-03-24T15:15:55-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Swiss Consulate General in Vancouver has confirmed the three people killed in Sunday's avalanche in northern B.C. were Swiss nationals. They were part of a group of four that was heli-skiing on Mount Knauss, about 30 kilometres north of Terrace.",
       "bias_heuristic": {
         "article_type": "News",
@@ -325,123 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "68057ffd3ef59a3326be12541b4192288a84befc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/pride-festivals-seek-federal-funding-9.7140609?cmp=rss",
-      "title": "Pride festivals seek $3M from Ottawa as corporate sponsors pull back amid DEI backlash",
-      "published_at": "2026-03-24T14:22:27-04:00",
-      "section": "Canada",
-      "summary_auto": "Pride festivals are seeking $3 million annually from Ottawa to fill a funding gap left by corporations pulling back funding amid a backlash to diversity, equity and inclusion programs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f06414f1034fbe3bc46e1a3a18410bb5206efcc",
-      "url": "https://www.cbc.ca/news/world/meta-facebook-whatsapp-instagram-child-safety-violated-law-9.7140763?cmp=rss",
-      "title": "Landmark verdict in New Mexico finds Meta violated state child safety laws",
-      "published_at": "2026-03-24T14:19:09-04:00",
-      "section": "World",
-      "summary_auto": "A New Mexico jury found Tuesday that social media conglomerate Meta is harmful to children's mental health and in violation of state consumer protection law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "873ea1bf8c358362bbc35b92a2a764436bf99628",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-counter-terrorism-unit-rifles-toronto-9.7140751?cmp=rss",
-      "title": "Cops with patrol rifles to be deployed to key locations in Toronto as police create new unit, task force",
-      "published_at": "2026-03-24T14:10:29-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Toronto police say they are creating a counter-terrorism unit and a specialized task force that will see officers with semi-automatic rifles stationed at key locations in the city.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ea9323c6d4f95671e384bad9e48549cdacfe0c3",
-      "url": "https://www.cbc.ca/books/blue-jays-sportscaster-hazel-mae-memoir-this-fall-9.7140668?cmp=rss",
-      "title": "Blue Jays sportscaster Hazel Mae to publish memoir this fall",
-      "published_at": "2026-03-24T13:46:29-04:00",
-      "section": "Canada",
-      "summary_auto": "Known for her field-side reporting on the Toronto Blue Jays, Mae wrote the book Before I Let You Go, which is set to release on Nov. 10.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3f06542dfdda13efb7fa65d95fcb365a328dffac",
-      "url": "https://www.cbc.ca/news/politics/terrebonne-byelection-write-in-ballot-9.7140743?cmp=rss",
-      "title": "Montreal-area byelection to use write-in ballots due to dozens of protest candidates",
-      "published_at": "2026-03-24T13:44:38-04:00",
-      "section": "Canada",
-      "summary_auto": "The head of Elections Canada said voters will have to write in their pick in next month's byelection in an off-island Montreal suburb due to the long list of protest candidates running in the riding.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35f095316c23e8bb2901df8e9c154a60e50fb8d0",
-      "url": "https://www.cbc.ca/news/canada/cbsa-temporary-removal-middle-east-9.7140711?cmp=rss",
-      "title": "Canada pauses removals of inadmissible individuals to several Middle East countries",
-      "published_at": "2026-03-24T13:39:42-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada is temporarily halting removals to several more Middle East countries due to \"volatile and unpredictable conditions\" caused by the U.S.-Israel war with Iran that has spread to surrounding nations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ebac97911f3b5c2a06a07ca111e47c7077a08192",
-      "url": "https://www.cbc.ca/news/business/epic-games-layoffs-march-2026-9.7140591?cmp=rss",
-      "title": "Epic Games to lay off more than 1,000 employees as Fortnite usage drops",
-      "published_at": "2026-03-24T12:48:16-04:00",
-      "section": "World",
-      "summary_auto": "Epic Games will cut more than 1,000 jobs following a drop in engagement for Fortnite, the latest layoffs in the video game industry where growth has stalled due to economic uncertainty.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "840a875b94c5eb911757708f722d0bac7f5ccca4",
-      "url": "https://www.cbc.ca/sports/basketball/wnba-owners-vote-unanimous-collective-bargaining-agreement-9.7140581?cmp=rss",
-      "title": "WNBA and players unanimously approve agreement, setting up sprint to May season opener",
-      "published_at": "2026-03-24T12:13:19-04:00",
-      "section": "World",
-      "summary_auto": "The WNBA board of governors unanimously ratified the terms of a new collective bargaining agreement on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2c0ca42d79e56d9089d716d0419b6a0f08655f37",
-      "url": "https://www.cbc.ca/news/entertainment/miley-cyrus-hannah-montana-reunion-9.7140379?cmp=rss",
-      "title": "The Best of Both Worlds? Miley Cyrus back as Hannah Montana in new anniversary special",
-      "published_at": "2026-03-24T11:02:30-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The anniversary special, which started streaming Tuesday on Disney+ and Hulu, celebrates 20 years since the show's premiere. Filmed in front of a live audience, it features archival footage and is centred on an interview with MileyCyrus — now 33 and a genuine pop star — with podcast host Alex Cooper.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.923,
         "subjectivity_hint": "low"
       }
     }
