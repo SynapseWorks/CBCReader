@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-25T08:55:39.264638-04:00",
+  "generated_at": "2026-03-25T10:53:34.504492-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "04095aad30bb4cfab6a5b85070b4b3d1576deec0",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-remove-hst-new-homes-9.7141269?cmp=rss",
+      "title": "Ontario government planning to remove HST on new homes worth under $1M for 1 year",
+      "published_at": "2026-03-25T05:25:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Doug Ford announced the plan Wednesday at a news conference in Mississauga, saying the full 13 per cent tax will be removed for new homes valued up to $1 million from April 1, 2026 to March 31, 2027.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "43d77663d99eee4c8d1ec7ad47bc641f6e93daea",
       "url": "https://www.cbc.ca/player/play/9.7140810?cmp=rss",
@@ -30,6 +43,19 @@
       }
     },
     {
+      "id": "b4f6a903713225ae5c3523d0717315236ad9b2a8",
+      "url": "https://www.cbc.ca/sports/future-of-sport-commission-reaction-march25-9.7141162?cmp=rss",
+      "title": "For many in sports system, validation of sport report's findings just the start of work ahead to fix it",
+      "published_at": "2026-03-25T03:22:57-04:00",
+      "section": "Canada",
+      "summary_auto": "Those involved in the Canadian amateur sport scene have long known what the Future of Sport in Canada Commission’s final report laid bare on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7119f67a4d9b66b76f100ea6698a8acf1cdaa69d",
       "url": "https://www.cbc.ca/news/entertainment/2026-csa-nominees-9.7140809?cmp=rss",
       "title": "North of North, Heated Rivalry, 40 Acres lead Canadian Screen Award nominees",
@@ -39,6 +65,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd8424a7c4eb9cf86323e5e8e2970ecd2b935d67",
+      "url": "https://www.cbc.ca/news/canada/edmonton/jasper-national-park-ban-watercraft-aquatic-invasive-species-9.7141092?cmp=rss",
+      "title": "Invasive species threat spurs paddling ban in some waterways in Jasper, Alta., other national parks",
+      "published_at": "2026-03-25T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Parks Canada has announced restrictions on paddling in some rivers and lakes in Alberta to prevent the spread of aquatic invasive species. Some paddlers are voicing concerns with the new policy, but urge their community to comply.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.535,
         "subjectivity_hint": "low"
       }
     },
@@ -69,11 +108,24 @@
       }
     },
     {
+      "id": "3dde0572ea5233fdab644af6891603329e1763e3",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-tourism-ai-chatbot-explora-9.7139199?cmp=rss",
+      "title": "N.B.'s new AI chatbot gives tourists wrong info, like suggesting they leave province to find seafood",
+      "published_at": "2026-03-25T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Experimenting with Explora in its first few days of operation, CBC News found dozens of factual errors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "e12e707af336c97d657ca93042ff6bab63751115",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-geoscientists-finish-antarctic-expedition-9.7140406?cmp=rss",
       "title": "A kitchen party at the bottom of the world: N.S. scientists return from Antarctic research trip",
       "published_at": "2026-03-25T01:00:00-04:00",
-      "section": "Technology & Science",
+      "section": "Canada",
       "summary_auto": "Three Nova Scotian geoscientists have returned from a month-long expedition to Antarctica and now hope to inspire other women to enter their field of work.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/heroic-youth-tumbler-ridge-final-words-9.7140439?cmp=rss",
       "title": "12-year-old student pulled classmates to safety during Tumbler Ridge shooting, says MP",
       "published_at": "2026-03-24T18:58:40-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "More than a month after the deadly mass shooting in Tumbler Ridge, stories of bravery during the tragedy are being shared. At the National Prayer Breakfast in Ottawa Tuesday morning, Conservative MP Bob Zimmer for Prince George-Peace River-Northern Rockies spoke about a student who pulled two classmates to safety.",
       "bias_heuristic": {
         "article_type": "News",
@@ -247,19 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.946,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d2b080a45c66891d3a78256bb51a3a3152fef04",
-      "url": "https://www.cbc.ca/news/politics/irgc-deportation-iran-canada-9.7140778?cmp=rss",
-      "title": "Minister pressed why just 1 Iranian official deported after 24 deemed part of terror group",
-      "published_at": "2026-03-24T15:35:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Public Safety Minister Gary Anandasangaree faced pointed questions Tuesday about why the federal government has deported one Iranian official, despite longstanding concerns about how the regime operates in Canada and abroad.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -381,19 +420,6 @@
       }
     },
     {
-      "id": "c450dbb18878b82f1712b40ffe6c55b42c9b57a5",
-      "url": "https://www.cbc.ca/news/canada/montreal/porter-flights-montreal-9.7140629?cmp=rss",
-      "title": "Porter to launch flights from revamped Montreal airport",
-      "published_at": "2026-03-24T12:45:15-04:00",
-      "section": "Canada",
-      "summary_auto": "Porter Airlines plans to launch a dozen routes this summer from the overhauled Montreal Metropolitan Airport, as Canada's third-largest carrier seeks to gain purchase in the competitive domestic market and start putting its half-billion-dollar investment to work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "840a875b94c5eb911757708f722d0bac7f5ccca4",
       "url": "https://www.cbc.ca/sports/basketball/wnba-owners-vote-unanimous-collective-bargaining-agreement-9.7140581?cmp=rss",
       "title": "WNBA and players unanimously approve agreement, setting up sprint to May season opener",
@@ -416,32 +442,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.923,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f09efaabd65202ef446f738bb00795f69611dbe",
-      "url": "https://www.cbc.ca/news/world/israel-army-lebanon-south-9.7140329?cmp=rss",
-      "title": "Israel's defence minister says military plans occupy swath of southern Lebanon",
-      "published_at": "2026-03-24T10:46:23-04:00",
-      "section": "World",
-      "summary_auto": "Israel will occupy southern Lebanon up to the Litani River to create a \"defensive buffer,\" Defence Minister Israel Katz said on Tuesday, spelling out for the first time Israel's intent to seize territory amounting to nearly a tenth of Lebanon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ee2cc10e30cb2c9851f7656139babbafc123718",
-      "url": "https://www.cbc.ca/news/canada/manitoba/human-remains-france-first-world-war-manitoba-veteran-9.7139968?cmp=rss",
-      "title": "Human remains found in France ID'd as First World War soldier from Manitoba",
-      "published_at": "2026-03-24T10:04:51-04:00",
-      "section": "Canada",
-      "summary_auto": "A construction project in France in 2020 uncovered human remains now confirmed to be those of Albert Henry Detmold, a First World War soldier from Manitoba.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     }
