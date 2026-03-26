@@ -1,18 +1,148 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-25T21:51:20.259922-04:00",
+  "generated_at": "2026-03-26T09:00:07.704279-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | Air Canada CEO under fire over English-only statement",
-      "published_at": "2026-03-25T17:00:00-04:00",
+      "id": "35dd56ee38ca5f6464acf48f04b03c2c4ed2ff5a",
+      "url": "https://www.cbc.ca/news/world/us-hungary-election-april-13-9.7141189?cmp=rss",
+      "title": "Trump administration doing all it can to get Hungary's Orban re-elected",
+      "published_at": "2026-03-26T04:01:48-04:00",
       "section": "Top Stories",
-      "summary_auto": "March 25, 2026 | Quebec politicians call for Air Canada CEO Michael Rousseau's resignation after his English-only statement on the deadly Laguardia Airport collision. Meta and YouTube are found liable in a landmark social media addiction case. And, Ontario farmers try to stop plans for a high-speed rail line.",
+      "summary_auto": "U.S. President Donald Trump, early and often, has voiced his support for Viktor Orban's re-election, and top admistration figures Marco Rubio and JD Vance have been on tap for visits to Hungary. Orban has also called on allies from around the world to remind voters why he deserves a sixth term as he faces a tough battle with former ally Peter Magyar.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.791,
+        "sentiment": 0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "410da461a0309a445cf73dd17bb9129ef944fbae",
+      "url": "https://www.cbc.ca/news/politics/canada-nato-defence-spending-9.7142615?cmp=rss",
+      "title": "Canada clears NATO's 2% bar — after years of lagging and a last-minute lift",
+      "published_at": "2026-03-26T03:44:55-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has finally met NATO’s two per cent defence spending target, buoyed by a $9.3 billion surge and internal accounting changes. The long-elusive milestone fulfills Prime Minister Mark Carney’s promise under intense allied pressure, but comes as NATO shifts the goalposts farther and scrutiny turns to how the money is actually spent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac46b9eb407b8d904ef1917a66e9c88040a8f6d2",
+      "url": "https://www.cbc.ca/news/canada/montreal/wanda-kagan-quebec-human-rights-employment-9.7141954?cmp=rss",
+      "title": "She was passed over for a promotion again in Quebec. Now, she's alleging systemic racism",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After over 30 years working for the same employer, Wanda Kagan has filed a human rights complaint, alleging systemic racism at her workplace in Montreal. Now in her 60s, the high school friend of former U.S. vice-president Kamala Harris is urging workers to protect themselves while navigating institutions that are stacked against them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "92b366f8f1b2d54da8561e97d64bdf8d2c4051a6",
+      "url": "https://www.cbc.ca/news/world/canadians-qatar-war-9.7141334?cmp=rss",
+      "title": "When war broke out in the Middle East, these Canadians chose to stay in Qatar",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "While Qatar is one of several Gulf region countries targeted by Iranian missiles, civilians there have not faced the same level of violence as people in other parts of the Middle East.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "141ff28ab59cf899cb98e77297bbc57e064a3b97",
+      "url": "https://www.cbc.ca/news/health/generic-ozempic-canada-waiting-9.7142339?cmp=rss",
+      "title": "As patents on weight-loss drugs expire, doctors and patients hotly anticipate cheaper generics",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Now that patents have expired, generic versions of Novo Nordisk's blockbuster weight-loss drugs could arrive in Canada within months, according to experts. Doctors say these cheaper versions will improve access and could also change societal perceptions around weight loss and reduce the cost and burden on the health-care system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0d712a0b40a860a0d7a4186608d2832aed25eb9b",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-2026-budget-what-you-need-to-know-9.7141960?cmp=rss",
+      "title": "Ford set to unveil 2026 Ontario budget as economy remains volatile",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Doug Ford's government tables its eighth budget Thursday, as Ontario's economy faces global economic volatility and heightened levels of unemployment at home. Finance Minister Peter Bethlenfalvy is due to deliver the spending plan in the legislature at 4 p.m. ET.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60d81b228442d7b33b5fdd42de9b4e9935d88014",
+      "url": "https://www.cbc.ca/news/climate/snowy-owls-otters-hammerhead-un-migratory-species-9.7142279?cmp=rss",
+      "title": "Snowy owls, giant otters, hammerhead sharks considered for greater protection at UN conference",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Migratory species such as the snowy owl, hammerhead shark and others are being considered for additional protections at global talks in Brazil. Here's what is endangering them and what is being proposed to help.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "95791b1885c9f6efae7785c0bcc1cf589c7010e7",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-social-assistance-system-project-unir-9.7141921?cmp=rss",
+      "title": "Inside the $31.5M social assistance algorithm failing Quebec’s most vulnerable",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A year after the deployment of a new social assistance algorithm, a Radio-Canada investigation reveals a system that advocates say is failing. Promised as a tool to humanize Quebec’s welfare services, Project UNIR is instead being blamed for mounting errors, administrative failures and even human tragedy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.96,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5f83513e4285fe0f882aa60b9f8ef78554e6242a",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-tmx-trans-mountain-oil-pipeline-full-ceraweek-9.7142587?cmp=rss",
+      "title": "Trans Mountain pipeline will soon be at full capacity amid global energy crisis",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Trans Mountain oil pipeline system is expected to operate at full capacity in April and into May as a result of energy disruptions in the Middle East.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1d98b41a8086bc14d2f1748c96404c23c5c8c025",
+      "url": "https://www.cbc.ca/player/play/9.7142607?cmp=rss",
+      "title": "#TheMoment he got a 6,000-pound carrot cake for his 80th birthday",
+      "published_at": "2026-03-25T18:07:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ted Martindale, of Quesnel B.C., tells The National about the moment he had a 6,000-pound carrot cake made for his 80th birthday in an attempt to break the world record.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bdf3017c93f22c14bf80514af56f55db3a2958e2",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-ahs-children-pain-medication-deal-9.7142351?cmp=rss",
+      "title": "Alberta Health Services taking legal steps to try and recoup $49M for medication never received",
+      "published_at": "2026-03-25T17:42:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Danielle Smith says Alberta Health Services is trying to get its money back after paying $49 million to an importer and Turkish drug company for products it never received.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +151,7 @@
       "url": "https://www.cbc.ca/news/politics/bill-c-9-anti-hate-religious-exemption-hate-speech-9.7142455?cmp=rss",
       "title": "Contentious anti-hate legislation passes final vote in the House, now moves to Senate",
       "published_at": "2026-03-25T15:51:06-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Liberal government's politically contentious new anti-hate bill has passed its final hurdle in the House of Commons and will now go to the Senate.",
       "bias_heuristic": {
         "article_type": "News",
@@ -34,7 +164,7 @@
       "url": "https://www.cbc.ca/sports/basketball/wnba-expansion-draft-announcement-9.7142436?cmp=rss",
       "title": "WNBA sets April 3 expansion draft for Toronto Tempo and Portland Fire",
       "published_at": "2026-03-25T15:24:19-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The WNBA will hold an expansion draft for its new franchises in Portland and Toronto on April 3, the league announced Wednesday. A coin toss will be held Friday, with the winning franchise getting to choose either the first pick in the expansion draft or the No. 6 pick in the college draft on April 13.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +190,7 @@
       "url": "https://www.cbc.ca/news/world/us-attack-drug-vessel-caribbean-sea-kills-4-9.7142387?cmp=rss",
       "title": "U.S. attack on alleged drug boat kills 4 in Caribbean Sea, military says",
       "published_at": "2026-03-25T14:58:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. military said it carried out a strike Wednesday on a boat accused of smuggling drugs in the Caribbean Sea, killing four people, as the Trump administration pushes forward with a monthslong campaign against alleged traffickers in Latin America while waging a war against Iran.",
       "bias_heuristic": {
         "article_type": "News",
@@ -121,19 +251,6 @@
       }
     },
     {
-      "id": "06b562fb295e93e0e9549e433f408204a378e191",
-      "url": "https://www.cbc.ca/news/politics/immigration-student-cap-9.7142089?cmp=rss",
-      "title": "With hindsight, former immigration minister says he would have capped international students sooner",
-      "published_at": "2026-03-25T13:11:38-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Justice Minister Sean Fraser, who was in charge of immigration during some of the years Auditor General Karen Hogan found instances of fraud in Canada's international student program, said with hindsight, he would have acted sooner to fundamentally change it. The Opposition Conservatives have been calling for his resignation, along with his successor and the current immigration minister.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "746e8821a340d4497c742285566b60cdae1f266a",
       "url": "https://www.cbc.ca/player/play/9.7142165?cmp=rss",
       "title": "Why regime change in Iran was never in the cards | About That",
@@ -147,15 +264,28 @@
       }
     },
     {
-      "id": "dee329620076589bb97098f394b708bafb18bf58",
-      "url": "https://www.cbc.ca/news/canada/montreal/19-year-old-quebecer-shot-dead-dominican-republic-9.7141919?cmp=rss",
-      "title": "19-year-old Quebecer shot and killed in Dominican Republic while on vacation with brother",
+      "id": "d3ceffecc522c17dd066a5cd17733f9ea71f3ec6",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebecer-shot-dead-dominican-republic-9.7141919?cmp=rss",
+      "title": "2 arrested in fatal shooting of 19-year-old Quebecer in Dominican Republic",
       "published_at": "2026-03-25T12:34:38-04:00",
       "section": "Top Stories",
-      "summary_auto": "The Dominican Republic national police are investigating the death of a 19-year-old Canadian who was shot and killed early in the morning March 23, in the province of Puerto Plata while on vacation.",
+      "summary_auto": "Police in the Dominican Republic have arrested two men in connection with the death of a 19-year-old Canadian who was shot and killed early Monday morning, in the province of Puerto Plata while on vacation.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.931,
+        "sentiment": -0.959,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "855439abb29901e370cfa24632c82e730c51ea5f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/complaint-commissioner-police-sexual-misconduct-9.7141972?cmp=rss",
+      "title": "Complaint commissioner announces probe into B.C. police sexual misconduct",
+      "published_at": "2026-03-25T12:27:48-04:00",
+      "section": "Canada",
+      "summary_auto": "B.C. 's police complaint commissioner said his office has began a \"systemic investigation\" into how municipal police departments handle cases of sexual misconduct involving officers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -177,25 +307,12 @@
       "url": "https://www.cbc.ca/news/world/humanoid-melania-trump-robot-summit-9.7141974?cmp=rss",
       "title": "Humanoid robot joins Melania Trump at White House for summit on technology and kids",
       "published_at": "2026-03-25T11:45:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Melania Trump was accompanied by a humanoid companion on Wednesday, as she arrived at the White House East Room for the final day of a summit she had convened with counterparts from around the world through her Fostering the Future Together global initiative.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3696aad403b6648ad5c17832379629185f8f9cf1",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/jacob-winterton-cancer-death-ontario-hockey-league-guelph-gryphon-brother-ryan-9.7142042?cmp=rss",
-      "title": "'I lost my best friend': NHL's Ryan Winterton after brother Jacob, ex-Ontario junior player, dies of cancer",
-      "published_at": "2026-03-25T11:44:55-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jacob Winterton, a former player with the Ontario Hockey League and the University of Guelph's Gryphons, has died of cancer at 25. His family, friends and the hockey community have paid tribute to him, with younger brother Ryan Winterton of the NHL's Seattle Kraken saying, \"I'll miss your voice, your advice, and the way you made everything feel a little less heavy.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "high"
       }
     },
     {
@@ -229,25 +346,12 @@
       "url": "https://www.cbc.ca/news/world/social-media-trial-la-9.7141920?cmp=rss",
       "title": "Jury in Los Angeles finds Meta and YouTube liable in landmark social media addiction trial",
       "published_at": "2026-03-25T10:51:49-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Meta and YouTube must pay millions in damages to a 20-year-old woman after a jury decided the social media giant and video streamer designed their platforms to hook young users without concern for their well-being.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "324b1056f10dbb0d19a4183b207819b03c560af2",
-      "url": "https://www.cbc.ca/player/play/9.7141937?cmp=rss",
-      "title": "Do Quebec parents care if daycare workers wear religious symbols? Not really, new poll says",
-      "published_at": "2026-03-25T10:51:34-04:00",
-      "section": "Canada",
-      "summary_auto": "A recent Leger survey found that of 1,000 parents with at least one child in daycare or who are waiting for a spot, 68 per cent said they were comfortable with staff wearing religious symbols. That number went to 62 per cent when they were asked specifically about educators.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -260,19 +364,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.818,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1db9fcf070135b41873acc9e3c7142e7063394b5",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-ottawa-agreement-methane-9.7141890?cmp=rss",
-      "title": "Alberta, Ottawa reach 'agreement-in-principle' on methane emissions",
-      "published_at": "2026-03-25T10:30:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta will be in control of regulating its methane emissions under an agreement-in-principle with Ottawa.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
         "subjectivity_hint": "low"
       }
     },
@@ -313,201 +404,6 @@
         "article_type": "News",
         "sentiment": 0.382,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da002be9041f0b1b435415a18139d7753da9ae2b",
-      "url": "https://www.cbc.ca/news/canada/north/iqaluit-celebrates-progress-being-made-to-eliminate-tuberculosis-9.7141630?cmp=rss",
-      "title": "World Tuberculosis Day in Iqaluit celebrates progress made to eliminate the disease",
-      "published_at": "2026-03-25T08:54:59-04:00",
-      "section": "Health",
-      "summary_auto": "The acting chief public health officer for Canada says \"progress\" is being made to eradicate tuberculosis in Nunavut. The territory's chief public health officer says it is possible to eliminate TB by 2030, but only if housing health care and other sectors work together.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.857,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79cc673fdf6e2966eee83549423097bb6f63b304",
-      "url": "https://www.cbc.ca/news/world/russia-drone-attack-lviv-9.7141478?cmp=rss",
-      "title": "In rare daytime drone blitz, Russia attacks western Ukrainian city largely spared from war's damage",
-      "published_at": "2026-03-25T08:44:36-04:00",
-      "section": "World",
-      "summary_auto": "In normal times, an assault of close to 1,000 Russian drones — many made from Iranian parts and designs — would dominate the news agenda. Ukrainian President Volodymyr Zelenskyy described the attacks as \"absolute depravity.\" At least six people were killed and a number of others injured.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.965,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "91ffa556b728d433001858fd376368b08e071f4e",
-      "url": "https://www.cbc.ca/news/canada/edmonton/homicide-fire-diab-9.7141579?cmp=rss",
-      "title": "Homicide charges laid in death of beloved pediatric dentist found dead in Alberta house fire",
-      "published_at": "2026-03-25T07:40:53-04:00",
-      "section": "Canada",
-      "summary_auto": "Two men have been charged in connection with the  Feb. 19 death of Dr. Mai Diab, a pediatric dentist who is being remembered as a soft-spoken, generous person who was deeply dedicated to her young patients.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.818,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f32b68f11e95a6b798cfb5c788893fa5d5e4044d",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-province-house-closed-to-the-public-following-protest-in-gallery-9.7141458?cmp=rss",
-      "title": "N.S. government's budget bill passes as public barred from legislature",
-      "published_at": "2026-03-25T07:35:32-04:00",
-      "section": "Canada",
-      "summary_auto": "The Nova Scotia government passed its budget bill Wednesday afternoon with the public barred from watching inside the legislature and the premier and finance minister absent for the vote.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb34bd4d0be0dc50ea0f833a0f0dd94311e71972",
-      "url": "https://www.cbc.ca/news/canada/montreal/air-canada-ceo-michael-rousseau-francois-legault-9.7141491?cmp=rss",
-      "title": "Quebec politicians condemn Air Canada CEO over English-only condolence video",
-      "published_at": "2026-03-25T06:59:11-04:00",
-      "section": "Canada",
-      "summary_auto": "Premier François Legault called for Air Canada CEO Michael Rousseau to resign, saying he lacks respect for francophone employees and clients.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "04095aad30bb4cfab6a5b85070b4b3d1576deec0",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-remove-hst-new-homes-9.7141269?cmp=rss",
-      "title": "Ontario government planning to remove HST on new homes worth under $1M for 1 year",
-      "published_at": "2026-03-25T05:25:45-04:00",
-      "section": "Canada",
-      "summary_auto": "Premier Doug Ford announced the plan Wednesday at a news conference in Mississauga, saying the full 13 per cent tax will be removed for new homes valued up to $1 million from April 1, 2026 to March 31, 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7119f67a4d9b66b76f100ea6698a8acf1cdaa69d",
-      "url": "https://www.cbc.ca/news/entertainment/2026-csa-nominees-9.7140809?cmp=rss",
-      "title": "North of North, Heated Rivalry, 40 Acres lead Canadian Screen Award nominees",
-      "published_at": "2026-03-25T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The first major comedy series filmed in Nunavut, a sci-fi suspense right out of Sinners, a time-travel mockumentary in the style of Back to the Future and the world's favourite queer hockey drama all top this year's Canadian Screen Award nomination rolls.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bd8424a7c4eb9cf86323e5e8e2970ecd2b935d67",
-      "url": "https://www.cbc.ca/news/canada/edmonton/jasper-national-park-ban-watercraft-aquatic-invasive-species-9.7141092?cmp=rss",
-      "title": "Invasive species threat spurs paddling ban in some waterways in Jasper, other national parks",
-      "published_at": "2026-03-25T03:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Parks Canada has announced restrictions on paddling in some rivers and lakes in Alberta to prevent the spread of aquatic invasive species. Some paddlers are voicing concerns with the new policy, but urge their community to comply.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.535,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "92406759e529052f50109555aaeac7794830bf6d",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/rcmp-native-extremism-files-metis-nation-sask-9.7138693?cmp=rss",
-      "title": "Indigenous activists in Sask. among those targeted by RCMP spying in 1970s",
-      "published_at": "2026-03-25T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Reports on Indigenous organizations in Saskatchewan are among previously classified RCMP Security Service files released to CBC under the Access to Information Act. Bruce Flamont says he is not surprised. He saw officers surveilling him in the 1970s.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.186,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e12e707af336c97d657ca93042ff6bab63751115",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-geoscientists-finish-antarctic-expedition-9.7140406?cmp=rss",
-      "title": "A kitchen party at the bottom of the world: N.S. scientists return from Antarctic research trip",
-      "published_at": "2026-03-25T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Three Nova Scotian geoscientists have returned from a month-long expedition to Antarctica and now hope to inspire other women to enter their field of work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3dde0572ea5233fdab644af6891603329e1763e3",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-tourism-ai-chatbot-explora-9.7139199?cmp=rss",
-      "title": "N.B.'s new AI chatbot gives tourists wrong info, like suggesting they leave province to find seafood",
-      "published_at": "2026-03-25T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Experimenting with Explora in its first few days of operation, CBC News found dozens of factual errors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ab840a27d413d57197ee8053b615ca025e2b5c03",
-      "url": "https://www.cbc.ca/news/world/u-s-trump-iran-negotiate-war-9.7141108?cmp=rss",
-      "title": "Iran rejects U.S. ceasefire plan as missiles continue to fly across Middle East",
-      "published_at": "2026-03-25T00:56:59-04:00",
-      "section": "World",
-      "summary_auto": "Iran on Wednesday dismissed an American plan to pause the war in the Middle East and launched more attacks on Israel and Gulf Arab countries, including an assault that sparked a huge fire at Kuwait International Airport.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "99f8cba9d58d09ff9a7a797a8068e926f829eac9",
-      "url": "https://www.cbc.ca/news/canada/investigators-delayed-us-shutdown-airports-9.7140874?cmp=rss",
-      "title": "Plane crash investigators held up by airport delays as partial U.S. shutdown continues",
-      "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Specialists investigating the Air Canada plane crash at LaGuardia Airport that killed two pilots were held up by delays at other airports Monday, according to the U.S. National Transportation Safety Board, as a partial U.S. government shutdown is causing security delays across the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "31f8e135b883165daf90c26c3b159e2598927543",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-ceraweek-hodgson-9.7140979?cmp=rss",
-      "title": "Canada is pitching its energy ambitions in Texas — can the oil and gas industry be convinced?",
-      "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Though oil and gas industry executives at CERAWeek, a global energy conference in Houston, welcomed Natural Resources Minister Tim Hodgson’s enthusiasm, they still say they want to see considerable action before they can be sure Canada's federal government is serious about changing the country’s reputation as being reluctant to expand the energy sector, especially oil and natural gas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.959,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "63294747406a1949d554897b2fb747a213436a24",
-      "url": "https://www.cbc.ca/news/canada/montreal/frostbite-amputations-9.7136555?cmp=rss",
-      "title": "Montreal saw record 12 frostbite amputations in 2025, but none this year. Here's why",
-      "published_at": "2026-03-25T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Despite a long and cold winter, no frostbite amputations have been reported in Montreal so far this year compared to an annual average of about six. The drop in cases could be connected to the addition of hundreds of spots in temporary warming shelters around the city and the use of a new drug protocol to treat frostbite.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.0,
-        "subjectivity_hint": "medium"
       }
     }
   ]
