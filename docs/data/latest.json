@@ -1,18 +1,57 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-27T08:52:25.502438-04:00",
+  "generated_at": "2026-03-27T10:43:57.320811-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "689a11e9897cc4d030fe6de4a65404160e91ed61",
+      "url": "https://www.cbc.ca/news/world/guthrie-invu-today-return-9.7144339?cmp=rss",
+      "title": "Savannah Guthrie sets Today show return after mother's disappearance",
+      "published_at": "2026-03-27T06:37:15-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After a two-month absence sparked by her 84-year-old mother's apparent abduction, Savannah Guthrie will return to NBC's Today show next month,  saying in an interview that aired Friday  'joy will be my protest.'",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f1b9345b4b20dfcc36d222e3468e28f5a12d187b",
+      "url": "https://www.cbc.ca/news/business/markets-friday-march-27-9.7144264?cmp=rss",
+      "title": "North American stocks fall, oil prices rise as Trump's delays fail to quell fears",
+      "published_at": "2026-03-27T06:16:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The S&P 500, Nasdaq and Dow Jones Industrial Average all sank in early trading, a day after Wall Street's worst drop since the conflict with Iran started.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3a7443bb9459fe167aa37932ab9848dd0d7d4c1",
+      "url": "https://www.cbc.ca/news/business/judge-blocks-anthropic-blacklist-9.7144248?cmp=rss",
+      "title": "Judge temporarily blocks Pentagon's blacklist of AI company Anthropic",
+      "published_at": "2026-03-27T05:23:39-04:00",
+      "section": "Business",
+      "summary_auto": "In their lawsuit, Anthropic accused the government of violating its rights when U.S. Secretary of War Pete Hegseth designated Anthropic a national security supply-chain risk. The judge's decision is the latest in the saga between the AI company and the government over how Anthropic's technology can be used for defence purposes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "9dbc83451a48b3cd9061427a7ab975ca7216775a",
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-murder-trial-milton-burlington-ll-jl-9.7141697?cmp=rss",
-      "title": "Closing arguments in Ontario murder trial for prospective parents of 2 brothers enter 2nd day",
+      "title": "'This is not murder': Defence wraps arguments at trial for Ontario couple accused in case involving 2 brothers",
       "published_at": "2026-03-27T04:32:13-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.813,
+        "sentiment": -0.117,
         "subjectivity_hint": "low"
       }
     },
@@ -48,23 +87,36 @@
       "title": "Kingsbury's 'last dance': Canadian freestyle legend confirms he'll end his career with last race in Quebec",
       "published_at": "2026-03-27T02:40:57-04:00",
       "section": "Top Stories",
-      "summary_auto": "In an exclusive interview with CBC Sports, the five-time Olympic medallist confirmed he’s retiring at the end of competition this weekend at the Canadian freestyle ski championships at his home course in Quebec.",
+      "summary_auto": "The five-time Olympic medallist confirmed he’s retiring at the end of competition this weekend at the Canadian freestyle ski championships at his home course in Quebec.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.727,
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6dd7f87590f4fa3924abd88a98e32f3de5ef9ee1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/propofol-overdose-alberta-lawsuit-9.7144046?cmp=rss",
+      "title": "'Massive overdose' of sedative led to man's cardiac arrest, brain injury at Winnipeg hospital: lawsuit",
+      "published_at": "2026-03-27T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Alberta government and the father of a man who suffered cardiac arrest and permanent brain damage after he was allegedly given a \"massive overdose\" of a potent sedative at a Winnipeg hospital two years ago are suing the facility, three medical providers and two Manitoba health authorities for negligence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.943,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "eaf7eb244a30091acd6ee09946d4550c186c46b5",
       "url": "https://www.cbc.ca/news/world/trump-iran-deadline-conflict-hormuz-9.7144120?cmp=rss",
-      "title": "Israel launches strikes on 'heart of Tehran' as Trump delays Strait of Hormuz deadline",
+      "title": "Israel says it will expand attacks on Iran as diplomats push for end to war",
       "published_at": "2026-03-27T00:55:01-04:00",
       "section": "Top Stories",
-      "summary_auto": "Israel launched a wave of strikes on Iran early Friday ahead of a planned United Nations Security Council meeting to discuss attacks on Iranian civilian infrastructure, while Iran and the United States appeared at a diplomatic impasse, setting the stage for more potential escalation as the first month of the Middle East war neared its end.",
+      "summary_auto": "Israel's defence minister said on Friday that the military's attacks on Iran \"will escalate and expand,\" as the crisis was the subject of a UN Security Council meeting and a prevailing topic near Paris as G7 foreign ministers met.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.226,
+        "sentiment": -0.813,
         "subjectivity_hint": "low"
       }
     },
@@ -173,6 +225,45 @@
       }
     },
     {
+      "id": "c0f75107cdac66628b09527ffca35c98af7f2d1c",
+      "url": "https://www.cbc.ca/news/science/methane-canada-alberta-oil-gas-9.7143673?cmp=rss",
+      "title": "What's new in Ottawa-Alberta deal to cut methane emissions from oil and gas sector",
+      "published_at": "2026-03-27T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "As part of the wide-ranging Canada-Alberta memorandum of understanding on energy policy and a new oil pipeline, the two sides announced an agreement-in-principle on new methane rules and targets. It could speed up methane reductions, experts say, but some questions remain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d321ccada4819ba5d2a34827e004041568b4989a",
+      "url": "https://www.cbc.ca/news/canada/toronto/robinson-huron-legal-fees-appeal-9.7143490?cmp=rss",
+      "title": "Ontario court slashing $500M legal fees will have ‘chilling effect’ on other cases, argue lawyers",
+      "published_at": "2026-03-27T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Lawyers who had over $500 million in legal fees struck down by an Ontario court are appealing the decision, arguing the case could have wider implications affecting access to justice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4acfad4f8c441908664efdf7881fe43b5423d4f2",
+      "url": "https://www.cbc.ca/news/entertainment/latin-music-juno-awards-9.7143979?cmp=rss",
+      "title": "The Junos are adding a category for Latin music. Musicians and fans say it's been a long time coming",
+      "published_at": "2026-03-27T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Juno Awards' new Latin music recording of the year category means to reflect the genre's stratospheric popularity, musicians and industry insiders say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "51136b927f8435cc5a2e169ecfe4173d4e326e91",
       "url": "https://www.cbc.ca/news/canada/blue-jays-50th-season-start-9.7139324?cmp=rss",
       "title": "How the Blue Jays went from fledgling franchise to mature World Series contender",
@@ -199,24 +290,11 @@
       }
     },
     {
-      "id": "4acfad4f8c441908664efdf7881fe43b5423d4f2",
-      "url": "https://www.cbc.ca/news/entertainment/latin-music-juno-awards-9.7143979?cmp=rss",
-      "title": "The Junos are adding a category for Latin music. Musicians and fans say it's been a long time coming",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The Juno Awards' new Latin music recording of the year category means to reflect the genre's stratospheric popularity, musicians and industry insiders say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "ef301b7909db3034afa2204dd7ef5fcc96a29bcb",
       "url": "https://www.cbc.ca/player/play/9.7144072?cmp=rss",
       "title": "TheMoment a bear cub was saved by B.C. volunteers",
       "published_at": "2026-03-26T18:10:07-04:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Angelika Langen, co-founder of the Northern Lights Wildlife Society, tells The National about the moment her shelter rescued an abandoned bear cub near Kamloops, B.C.",
       "bias_heuristic": {
         "article_type": "News",
@@ -260,32 +338,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "93eaff1dae1182c465f2a5c425b08845fa9cbcac",
-      "url": "https://www.cbc.ca/news/canada/toronto/derringer-tribunal-cross-examination-9.7143586?cmp=rss",
-      "title": "Former Toronto radio host tells tribunal he looked at pictures of women in 'very little clothing' while at work",
-      "published_at": "2026-03-26T16:09:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Former Q107 co-host John Derringer admitted to looking at pictures of skimpily dressed women while at work during a human rights tribunal hearing on Thursday. His former co-host Jennifer Valentyne has filed a human rights complaint against Derringer for alleged verbal abuse and gender-based discrimination.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ff4277b8d3cf09a9f801131d1a1a3b121bff1bce",
-      "url": "https://www.cbc.ca/news/world/trump-signature-currency-9.7143890?cmp=rss",
-      "title": "Another way Trump is breaking with tradition: his signature will now be on U.S. dollars",
-      "published_at": "2026-03-26T15:44:32-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Treasury Department plans to put President Donald Trump's signature on all new U.S. paper currency, the agency announced on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -355,6 +407,19 @@
       }
     },
     {
+      "id": "adf3dba55472107d850adc69b926620063ca8802",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-budget-healthcare-long-term-care-9.7143637?cmp=rss",
+      "title": "Ontario budget boosting home care funding, but unlikely to reach long-term care bed goal",
+      "published_at": "2026-03-26T12:42:48-04:00",
+      "section": "Health",
+      "summary_auto": "Ontario is investing $1.1 billion more in home health care as it grapples with the reality that it is unlikely to achieve its goal of building 58,000 new long-term care beds by 2028.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.951,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "636354626f4cc161454f1d48ff6109c58876d92b",
       "url": "https://www.cbc.ca/news/canada/thunder-bay/ki-fatal-house-fire-9.7143159?cmp=rss",
       "title": "Death of First Nation chief's grandson in house fire spurs renewed calls for Ottawa to take action",
@@ -377,110 +442,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.485,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "61a7c3f13247c37b7b95a58721545746afb57aba",
-      "url": "https://www.cbc.ca/news/entertainment/bridgerton-season-5-teaser-9.7143255?cmp=rss",
-      "title": "In a series 1st, Bridgerton's new season spotlights a queer storyline. Fans have thoughts",
-      "published_at": "2026-03-26T10:43:25-04:00",
-      "section": "Entertainment",
-      "summary_auto": "For the first time, Bridgerton will focus on the lesbian love story between two woman leads — telling the story of \"world-traveller Michaela and grieving widow Francesca.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5b651a4f5ac29e0ec59155480f73d604106c24b1",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/ottawa-invests-more-than-1-billion-in-5th-canadian-support-base-gagetown-9.7143352?cmp=rss",
-      "title": "More than $1 billion going to Base Gagetown as part of military rebuilding",
-      "published_at": "2026-03-26T10:43:17-04:00",
-      "section": "Canada",
-      "summary_auto": "Prime Minister Mark Carney announced more than $1 billion Thursday for the 5th Canadian Support Base Gagetown, including its primary army training area and new ground-based air defence systems.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "edb57076d35abbbeac4e6c5fd1bc674fc7246511",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservative-mla-facing-criminal-charges-kicked-out-of-caucus-9.7143357?cmp=rss",
-      "title": "B.C. MLA Hon Chan charged with assault and choking, kicked out of Conservative caucus",
-      "published_at": "2026-03-26T10:24:02-04:00",
-      "section": "Canada",
-      "summary_auto": "The MLA for Richmond Centre has been charged with assault, assault by choking and uttering threats, the B.C. Prosecution Service announced Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.978,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fddd537aa9b41979d73b8250add663730a7c4cd",
-      "url": "https://www.cbc.ca/news/world/trump-iran-war-deal-begging-oil-gas-prices-economy-9.7142875?cmp=rss",
-      "title": "Iran is 'begging to make a deal' to end war, says Trump, 'not me'",
-      "published_at": "2026-03-26T10:05:00-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump used a televised cabinet meeting to try to sell Americans on the merits of the nearly four-week-old war against Iran, while downplaying its impact on the economy and the cost of living.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "804adacbe30d1e2666944b7cd891c0b47c3c59e3",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-cats-birds-9.7141192?cmp=rss",
-      "title": "Cats are killing a lot of birds",
-      "published_at": "2026-03-26T10:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "In this issue of our environmental newsletter, we get the latest scientific estimate of how many birds cats kill each year; check out the forecast for this year's El Niño; and find out what's in the e-waste Canadians throw out (hint: a lot of good stuff).",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "974d4a851fb23b98b947b7a8e5e4f1c30474f788",
-      "url": "https://www.cbc.ca/news/canada/north/diavik-mine-closes-nwt-9.7143141?cmp=rss",
-      "title": "As one N.W.T. diamond mine shuts down, these workers want to stay in the North",
-      "published_at": "2026-03-26T09:50:59-04:00",
-      "section": "Business",
-      "summary_auto": "The Diavik diamond mine has been operating for decades, producing more than 150 million carats of diamonds. Not all of its workers are from the North, but at least some of those who’ve come up say they want to stay.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e7bf529adbb9f905c71d284b249290bc61e1ff9d",
-      "url": "https://www.cbc.ca/news/world/hegseth-religious-services-prayer-lawsuit-9.7142921?cmp=rss",
-      "title": "Pete Hegseth and Trump's labour secretary sued over prayer services, religious discrimination",
-      "published_at": "2026-03-26T09:20:18-04:00",
-      "section": "World",
-      "summary_auto": "Defence Secretary Pete Hegseth, hosting his first monthly Christian worship service at the Pentagon since the Iran war began, prayed on Wednesday for American bullets to hit their targets. An established nonprofit group has sued both Hegseth and Donald Trump's labour secretary, accusing them of engaging in religious discrimination and breaching the separation of church and state.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7acc8789502a7b664eaded1caf2606ed6a0830b4",
-      "url": "https://www.cbc.ca/radio/asithappens/spider-mimicing-cordyceps-9.7141687?cmp=rss",
-      "title": "This spider looks like the victim of a zombie fungus. But scientists say it's a big faker",
-      "published_at": "2026-03-26T09:14:13-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Alexander Bentley, a herpetologist, is unfazed by cordyceps' presence in the Amazon. But after a finger poke of a fungi-covered mass showed movement, Bentley soon realized that one spider had a couple of tricks up its eight sleeves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
         "subjectivity_hint": "low"
       }
     }
