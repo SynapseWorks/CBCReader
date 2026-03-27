@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-27T10:43:57.320811-04:00",
+  "generated_at": "2026-03-27T14:48:10.080991-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "40fe11bf4054c4c484e2e347d48d114165db48d7",
+      "url": "https://www.cbc.ca/news/world/firebomb-plot-palestinian-activist-home-fbi-nypd-9.7144857?cmp=rss",
+      "title": "Undercover police operation thwarts plot to firebomb NY-based Palestinian activist's home",
+      "published_at": "2026-03-27T10:15:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A New Jersey man who planned to firebomb the home of a prominent Palestinian activist was arrested Thursday following a weeks-long undercover operation, according to a federal complaint and the New York City Police Department.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c3f2d02077bce7870bbb4a99db3667eeaeebf7f",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-missing-woman-charge-laid-9.7144852?cmp=rss",
+      "title": "Man in P.E.I. arrested by Edmonton police, charged with murder of missing woman",
+      "published_at": "2026-03-27T09:43:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A 47-year-old man has been charged with second-degree murder in connection with the death of a woman who went missing in southeast Edmonton last summer. John Angus Joseph MacArthur is also charged with indignity to a body in the death of his partner, Marika “Mika” Sutton. Sutton’s death is being treated as an intimate partner homicide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.986,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6913a0eb5f72bc9731f58e45302a0507b8a08ce6",
+      "url": "https://www.cbc.ca/news/canada/ai-literacy-canada-9.7142355?cmp=rss",
+      "title": "Understanding AI can be hard. These Canadians are trying to help you figure it out",
+      "published_at": "2026-03-27T09:15:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "AI is woven into our online lives today, sparking polarizing discourse about the ubiquitous technology and its breakneck evolution, from ultra-positive champions to doomsday-evoking critics. Many folks sitting somewhere between these extemes still don't give it too much thought, but some Canadians are pushing to fill that knowledge gap.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.307,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e3406c1266afed9c5a6ab92fa12d3aae1409dee2",
+      "url": "https://www.cbc.ca/news/world/us-no-kings-protests-9.7144237?cmp=rss",
+      "title": "No Kings protests in the U.S. on Saturday could be the biggest yet. Here's why",
+      "published_at": "2026-03-27T08:59:36-04:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 3,100 events are being organized in communities large and small across all 50 states on Saturday in the latest No Kings protests, with demonstrations also planned internationally, including in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.266,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ebb4eb64de5da48c8f9de4a1e466e37ec06c846d",
+      "url": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515?cmp=rss",
+      "title": "Canada backs rare earth mine in Nunavik with close ties to Trump White House",
+      "published_at": "2026-03-27T08:54:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "589e1e3a1a2816bc82342180f55861a55f55936d",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-sunshine-list-9.7144414?cmp=rss",
+      "title": "Ontario Sunshine List revealed: Here are the public sector's highest earners",
+      "published_at": "2026-03-27T07:23:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario released its 2025 Sunshine List Friday, the annual list that documents public sector employees with salaries of over $100,000, with former Ontario Power Generation President and CEO Kenneth Hartwick topping it yet again with a salary of just over $1.9 million.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "689a11e9897cc4d030fe6de4a65404160e91ed61",
       "url": "https://www.cbc.ca/news/world/guthrie-invu-today-return-9.7144339?cmp=rss",
@@ -19,13 +97,13 @@
     {
       "id": "f1b9345b4b20dfcc36d222e3468e28f5a12d187b",
       "url": "https://www.cbc.ca/news/business/markets-friday-march-27-9.7144264?cmp=rss",
-      "title": "North American stocks fall, oil prices rise as Trump's delays fail to quell fears",
+      "title": "U.S. stocks fall, oil prices rise as Trump's delays fail to quell fears",
       "published_at": "2026-03-27T06:16:42-04:00",
       "section": "Top Stories",
-      "summary_auto": "The S&P 500, Nasdaq and Dow Jones Industrial Average all sank in early trading, a day after Wall Street's worst drop since the conflict with Iran started.",
+      "summary_auto": "The S&P 500, Nasdaq and Dow Jones Industrial Average all sank in early trading, a day after Wall Street's worst drop since the conflict with Iran started. Canada's main stock index was in positive territory, however.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.93,
+        "sentiment": -0.881,
         "subjectivity_hint": "low"
       }
     },
@@ -45,13 +123,13 @@
     {
       "id": "9dbc83451a48b3cd9061427a7ab975ca7216775a",
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-murder-trial-milton-burlington-ll-jl-9.7141697?cmp=rss",
-      "title": "'This is not murder': Defence wraps arguments at trial for Ontario couple accused in case involving 2 brothers",
+      "title": "Ontario couple 'abused, tortured and starved' boys in their care, Crown says in final arguments",
       "published_at": "2026-03-27T04:32:13-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.117,
+        "sentiment": -0.875,
         "subjectivity_hint": "low"
       }
     },
@@ -82,6 +160,19 @@
       }
     },
     {
+      "id": "9a965d089c0f471a47e73cc183f82939146777cb",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/rcmp-database-child-sex-offenders-9.7143422?cmp=rss",
+      "title": "National public database for high-risk child sex offenders expected to grow",
+      "published_at": "2026-03-27T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A new national database of high-risk child sex offenders went live at the beginning of the year. The RCMP say it will continue to grow as provinces and territories recommend more names.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "65508fdd0063b9ca87c09e971c5224b470d8e6ca",
       "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/mikael-kingsbury-retirement-freestyle-ski-march27-9.7143623?cmp=rss",
       "title": "Kingsbury's 'last dance': Canadian freestyle legend confirms he'll end his career with last race in Quebec",
@@ -91,6 +182,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "370148464abe626d0001f0c2bf04b3360f3acbbd",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-uber-eats-scam-money-gone-9.7141934?cmp=rss",
+      "title": "Windsor, Ont., business owner out $27K after he's scammed via the Uber Eats app",
+      "published_at": "2026-03-27T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A business owner in Windsor, Ont., says he's out more than $25,000 after scammers compromised his banking details on a popular food delivery platform. Police say the financial crimes unit has received the complaint and is investigating.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -110,92 +214,40 @@
     {
       "id": "eaf7eb244a30091acd6ee09946d4550c186c46b5",
       "url": "https://www.cbc.ca/news/world/trump-iran-deadline-conflict-hormuz-9.7144120?cmp=rss",
-      "title": "Israel says it will expand attacks on Iran as diplomats push for end to war",
+      "title": "Nuclear energy sites targeted in latest strikes, Iranian state media reports",
       "published_at": "2026-03-27T00:55:01-04:00",
       "section": "Top Stories",
-      "summary_auto": "Israel's defence minister said on Friday that the military's attacks on Iran \"will escalate and expand,\" as the crisis was the subject of a UN Security Council meeting and a prevailing topic near Paris as G7 foreign ministers met.",
+      "summary_auto": "Iran state media says its nuclear facilities were attacked Friday, just hours after Israel threatened to \"escalate and expand\" its campaign against Tehran.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.813,
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "ebb4eb64de5da48c8f9de4a1e466e37ec06c846d",
-      "url": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515?cmp=rss",
-      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House",
+      "id": "4acfad4f8c441908664efdf7881fe43b5423d4f2",
+      "url": "https://www.cbc.ca/news/entertainment/latin-music-juno-awards-9.7143979?cmp=rss",
+      "title": "The Junos are adding a category for Latin music. Musicians and fans say it's been a long time coming",
       "published_at": "2026-03-27T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Amid Prime Minister Mark Carney’s calls that the Canada-U.S. relationship is ruptured, Ottawa has committed $175-million to a mining project in northern Quebec whose major U.S. investor is closely linked to the Trump administration.",
+      "summary_auto": "The Juno Awards' new Latin music recording of the year category means to reflect the genre's stratospheric popularity, musicians and industry insiders say.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.273,
+        "sentiment": 0.727,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "7295e0c762aad3226c3074604f9461960a5305d2",
-      "url": "https://www.cbc.ca/news/canada/montreal/key-takeaways-supreme-court-challenge-bill-21-9.7143807?cmp=rss",
-      "title": "6 key moments from the Supreme Court challenge of Quebec's secularism law",
+      "id": "c0f75107cdac66628b09527ffca35c98af7f2d1c",
+      "url": "https://www.cbc.ca/news/science/methane-canada-alberta-oil-gas-9.7143673?cmp=rss",
+      "title": "What's new in Ottawa-Alberta deal to cut methane emissions from oil and gas sector",
       "published_at": "2026-03-27T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Four days of hearings in the Supreme Court challenge to Quebec’s secularism law, Bill 21, are over. While the hearings dealt mostly with complex legal questions, there were some moments that revealed the intensity and passionate nature of the debates.",
+      "summary_auto": "As part of the wide-ranging Canada-Alberta memorandum of understanding on energy policy and a new oil pipeline, the two sides announced an agreement-in-principle on new methane rules and targets. It could speed up methane reductions, experts say, but some questions remain.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f29b1af235146a6957ac480cfb88688fcae8798",
-      "url": "https://www.cbc.ca/news/business/open-ai-ditching-sora-analysis-9.7141942?cmp=rss",
-      "title": "Why OpenAI is ditching Sora, its generative video app",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "OpenAI has decided to scrap Sora, its app that generated videos based on user prompts. The move reveals that the company, once the disruptor-in-chief of the AI world, is now facing something of an identity crisis as it struggles to pick a lane on the busy road to profitability.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51136b927f8435cc5a2e169ecfe4173d4e326e91",
-      "url": "https://www.cbc.ca/news/canada/blue-jays-50th-season-start-9.7139324?cmp=rss",
-      "title": "Blue Jays open 50th season: How the team went from fledgling franchise to mature contender",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As they begin their 50th season in Major League Baseball, the Toronto Blue Jays are facing some high expectations after coming close to winning the 2025 World Series. Here's a look at the team's journey over the years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "742beb5fdeee3be07d7d93b7b49abca89b8b6591",
-      "url": "https://www.cbc.ca/news/politics/ndp-leadership-convention-9.7142422?cmp=rss",
-      "title": "At historic low point, New Democrats descend on Winnipeg to choose a new leader",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The NDP will have a new leader by Sunday afternoon — and whoever comes out of the party's convention in Winnipeg with the top job will be tasked with bringing the party back from a historic low.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01ca0181e6c0f7aaf3459cfe056f55dcdc610adc",
-      "url": "https://www.cbc.ca/news/entertainment/ai-fruit-slop-videos-instagram-tiktok-9.7142568?cmp=rss",
-      "title": "'It's absurd; it's brain rot': Welcome to AI fruit slop, where fruits cheat on each other",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "AI \"fruit slop\" videos are racking up millions of views on TikTok and Instagram, and generating reaction and parody videos from users hooked on juicy storylines centred around romance and betrayal. Think of it like smartphone soap operas — only the stars are lustful, anthropomorphic strawberries and bananas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -225,16 +277,16 @@
       }
     },
     {
-      "id": "c0f75107cdac66628b09527ffca35c98af7f2d1c",
-      "url": "https://www.cbc.ca/news/science/methane-canada-alberta-oil-gas-9.7143673?cmp=rss",
-      "title": "What's new in Ottawa-Alberta deal to cut methane emissions from oil and gas sector",
+      "id": "7295e0c762aad3226c3074604f9461960a5305d2",
+      "url": "https://www.cbc.ca/news/canada/montreal/key-takeaways-supreme-court-challenge-bill-21-9.7143807?cmp=rss",
+      "title": "6 key moments from the Supreme Court challenge of Quebec's secularism law",
       "published_at": "2026-03-27T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "As part of the wide-ranging Canada-Alberta memorandum of understanding on energy policy and a new oil pipeline, the two sides announced an agreement-in-principle on new methane rules and targets. It could speed up methane reductions, experts say, but some questions remain.",
+      "summary_auto": "Four days of hearings in the Supreme Court challenge to Quebec’s secularism law, Bill 21, are over. While the hearings dealt mostly with complex legal questions, there were some moments that revealed the intensity and passionate nature of the debates.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.914,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -251,15 +303,15 @@
       }
     },
     {
-      "id": "4acfad4f8c441908664efdf7881fe43b5423d4f2",
-      "url": "https://www.cbc.ca/news/entertainment/latin-music-juno-awards-9.7143979?cmp=rss",
-      "title": "The Junos are adding a category for Latin music. Musicians and fans say it's been a long time coming",
+      "id": "ebb4eb64de5da48c8f9de4a1e466e37ec06c846d",
+      "url": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515?cmp=rss",
+      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House",
       "published_at": "2026-03-27T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "The Juno Awards' new Latin music recording of the year category means to reflect the genre's stratospheric popularity, musicians and industry insiders say.",
+      "summary_auto": "Amid Prime Minister Mark Carney’s calls that the Canada-U.S. relationship is ruptured, Ottawa has committed $175-million to a mining project in northern Quebec whose major U.S. investor is closely linked to the Trump administration.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.727,
+        "sentiment": 0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -320,24 +372,11 @@
       "url": "https://www.cbc.ca/news/world/tsa-workers-unfunded-airport-delays-9.7144047?cmp=rss",
       "title": "Trump says he'll sign an order to get airport security workers paid, but gave no further details",
       "published_at": "2026-03-26T17:57:42-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9148ff0ac9ef5e1da731ba3999b7b8def2cbab77",
-      "url": "https://www.cbc.ca/player/play/9.7143995?cmp=rss",
-      "title": "At Issue | Canada hits its NATO targets. What comes next?",
-      "published_at": "2026-03-26T16:33:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: The benefits, and challenges, of Canada finally meeting its two per cent NATO spending target. The uphill political battle facing the next NDP Leader. And, the growing provincial divide over how judges are appointed in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -351,97 +390,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f79299f8ad6f8e8cbe31e02fe83f9dc0a084aabb",
-      "url": "https://www.cbc.ca/news/business/wall-street-drop-nasdaq-10-9.7143820?cmp=rss",
-      "title": "Wall Street sees worst drop since Iran war began, as Nasdaq sinks 10% below its record",
-      "published_at": "2026-03-26T14:43:25-04:00",
-      "section": "Business",
-      "summary_auto": "Stocks fell sharply on Thursday, and oil prices rose as doubt took over from hope on Wall Street about a possible end to the U.S.-Israeli war with Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dfa702b3ec07863ddacd03a02fd8c1a8098798cd",
-      "url": "https://www.cbc.ca/player/play/9.7143768?cmp=rss",
-      "title": "Judge in Maduro trial refuses to dismiss charges",
-      "published_at": "2026-03-26T13:33:18-04:00",
-      "section": "World",
-      "summary_auto": "Nicolás Maduro, president of Venezuela until he was captured in a U.S. raid, appeared in a New York court with his wife on Thursday. Their lawyers have argued the case should be dismissed as sanctions on Venezuela prevent the Maduros from paying legal fees.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ab0395528e2b4fb07d5717daf739655abcde0754",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/heating-oil-costs-9.7143364?cmp=rss",
-      "title": "Heat your home with oil? 'Sky high' bills a growing struggle in N.L.",
-      "published_at": "2026-03-26T13:24:26-04:00",
-      "section": "Canada",
-      "summary_auto": "People who heat their home with oil are feeling the burn, as fuel prices continue to tick upwards in Newfoundland and Labrador.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c891f84fe52c30ced7e18dbe1c9e8065b94d7442",
-      "url": "https://www.cbc.ca/news/canada/montreal/pilots-dead-laguardia-airport-new-york-crash-air-canada-9.7143707?cmp=rss",
-      "title": "Bodies of pilots who died in collision at LaGuardia Airport repatriated to Canada",
-      "published_at": "2026-03-26T13:13:51-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The bodies of the two Air Canada pilots who died in a collision on a runway at LaGuardia Airport on Sunday have returned to Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.904,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "adf3dba55472107d850adc69b926620063ca8802",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-budget-healthcare-long-term-care-9.7143637?cmp=rss",
-      "title": "Ontario budget boosting home care funding, but unlikely to reach long-term care bed goal",
-      "published_at": "2026-03-26T12:42:48-04:00",
-      "section": "Health",
-      "summary_auto": "Ontario is investing $1.1 billion more in home health care as it grapples with the reality that it is unlikely to achieve its goal of building 58,000 new long-term care beds by 2028.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.951,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "636354626f4cc161454f1d48ff6109c58876d92b",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/ki-fatal-house-fire-9.7143159?cmp=rss",
-      "title": "Death of First Nation chief's grandson in house fire spurs renewed calls for Ottawa to take action",
-      "published_at": "2026-03-26T12:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The recent death of the three-year-old grandson of Kitchenuhmaykoosib Inninuwug Chief Donny Morris has prompted renewed calls for Ottawa to take action. The Oji-Cree community in northwestern Ontario and a tribal council launched a human rights complaint seven months ago against Indigenous Services Canada, arguing systemic discrimination is behind chronic underfunding of on-reserve fire services.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.946,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f87c4f5608e741479af8db89c21985d7e2333a36",
-      "url": "https://www.cbc.ca/news/business/td-revised-housing-market-forecast-9.7143461?cmp=rss",
-      "title": "TD revises 2026 housing market forecast, expects sales and prices to fall this year",
-      "published_at": "2026-03-26T11:35:00-04:00",
-      "section": "Business",
-      "summary_auto": "As of December, TD initially forecasted a 9.3 per cent year-over-year gain in home sales for 2026 as well as a 4.1 per cent increase in average home prices. The report says pent-up demand is taking longer than expected to return, but projects sales will rebound in 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.485,
         "subjectivity_hint": "low"
       }
     }
