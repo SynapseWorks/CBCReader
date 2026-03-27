@@ -1,18 +1,122 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-26T14:57:37.046363-04:00",
+  "generated_at": "2026-03-26T21:51:36.150540-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "385b9a7c1a70b3ee39a76a64f34118ba2f56e724",
-      "url": "https://www.cbc.ca/news/politics/foreign-interference-electoral-reforms-9.7143290?cmp=rss",
-      "title": "Liberal government targets deepfakes, foreign interference in major election law reforms",
-      "published_at": "2026-03-26T10:46:38-04:00",
+      "id": "ff4277b8d3cf09a9f801131d1a1a3b121bff1bce",
+      "url": "https://www.cbc.ca/news/world/trump-signature-currency-9.7143890?cmp=rss",
+      "title": "Another way Trump is breaking with tradition: his signature will now be on U.S. dollars",
+      "published_at": "2026-03-26T15:44:32-04:00",
       "section": "Top Stories",
-      "summary_auto": "The Liberal government is introducing reforms that it says will allow the country to better detect and protect elections from foreign and domestic interference, bribery, disinformation and a host of other potential threats to democracy.",
+      "summary_auto": "The U.S. Treasury Department plans to put President Donald Trump's signature on all new U.S. paper currency, the agency announced on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.557,
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f79299f8ad6f8e8cbe31e02fe83f9dc0a084aabb",
+      "url": "https://www.cbc.ca/news/business/wall-street-drop-nasdaq-10-9.7143820?cmp=rss",
+      "title": "Wall Street sees worst drop since Iran war began, as Nasdaq sinks 10% below its record",
+      "published_at": "2026-03-26T14:43:25-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Stocks fell sharply on Thursday, and oil prices rose as doubt took over from hope on Wall Street about a possible end to the U.S.-Israeli war with Iran.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dfa702b3ec07863ddacd03a02fd8c1a8098798cd",
+      "url": "https://www.cbc.ca/player/play/9.7143768?cmp=rss",
+      "title": "Judge in Maduro trial refuses to dismiss charges",
+      "published_at": "2026-03-26T13:33:18-04:00",
+      "section": "World",
+      "summary_auto": "Nicolás Maduro, president of Venezuela until he was captured in a U.S. raid, appeared in a New York court with his wife on Thursday. Their lawyers have argued the case should be dismissed as sanctions on Venezuela prevent the Maduros from paying legal fees.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ab0395528e2b4fb07d5717daf739655abcde0754",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/heating-oil-costs-9.7143364?cmp=rss",
+      "title": "Heat your home with oil? 'Sky high' bills a growing struggle in N.L.",
+      "published_at": "2026-03-26T13:24:26-04:00",
+      "section": "Canada",
+      "summary_auto": "People who heat their home with oil are feeling the burn, as fuel prices continue to tick upwards in Newfoundland and Labrador.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c891f84fe52c30ced7e18dbe1c9e8065b94d7442",
+      "url": "https://www.cbc.ca/news/canada/montreal/pilots-dead-laguardia-airport-new-york-crash-air-canada-9.7143707?cmp=rss",
+      "title": "Bodies of pilots who died in collision at LaGuardia Airport repatriated to Canada",
+      "published_at": "2026-03-26T13:13:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The bodies of the two Air Canada pilots who died in a collision on a runway at LaGuardia Airport on Sunday have returned to Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.904,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "380ec80ebcf8e4f0ad2400bfc0793d364547a6dc",
+      "url": "https://www.cbc.ca/news/politics/inderjeet-singh-gosal-charges-dropped-9.7143340?cmp=rss",
+      "title": "Gun charges stayed against Canadian Sikh Khalistani leader",
+      "published_at": "2026-03-26T13:03:11-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Inderjeet Singh Gosal, who leads the Sikhs for Justice movement in Canada following the 2023 assassination of Hardeep Singh Nijjar, has had gun possession charges against him stayed in an Ontario court.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "36bee64c5e303f03f230e5c03d557310455b0697",
+      "url": "https://www.cbc.ca/news/politics/pbo-ryan-jacques-conservatives-analysis-9.7143506?cmp=rss",
+      "title": "The parliamentary budget officer is caught again in partisan conflict. Should MPs pick their own watchdog?",
+      "published_at": "2026-03-26T12:10:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It's very possible the Conservatives will forget about their concerns as soon as the new PBO releases a report that is unflattering to the government. But ideally the appointment of an independent officer of Parliament would not be the subject of political conflict and partisan email campaigns.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.09,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "636354626f4cc161454f1d48ff6109c58876d92b",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/ki-fatal-house-fire-9.7143159?cmp=rss",
+      "title": "Death of First Nation chief's grandson in house fire spurs renewed calls for Ottawa to take action",
+      "published_at": "2026-03-26T12:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The recent death of the three-year-old grandson of Kitchenuhmaykoosib Inninuwug Chief Donny Morris has prompted renewed calls for Ottawa to take action. The Oji-Cree community in northwestern Ontario and a tribal council launched a human rights complaint seven months ago against Indigenous Services Canada, arguing systemic discrimination is behind chronic underfunding of on-reserve fire services.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.946,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f87c4f5608e741479af8db89c21985d7e2333a36",
+      "url": "https://www.cbc.ca/news/business/td-revised-housing-market-forecast-9.7143461?cmp=rss",
+      "title": "TD revises 2026 housing market forecast, expects sales and prices to fall this year",
+      "published_at": "2026-03-26T11:35:00-04:00",
+      "section": "Business",
+      "summary_auto": "As of December, TD initially forecasted a 9.3 per cent year-over-year gain in home sales for 2026 as well as a 4.1 per cent increase in average home prices. The report says pent-up demand is taking longer than expected to return, but projects sales will rebound in 2027.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.485,
         "subjectivity_hint": "low"
       }
     },
@@ -30,9 +134,22 @@
       }
     },
     {
+      "id": "5b651a4f5ac29e0ec59155480f73d604106c24b1",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/ottawa-invests-more-than-1-billion-in-5th-canadian-support-base-gagetown-9.7143352?cmp=rss",
+      "title": "More than $1 billion going to Base Gagetown as part of military rebuilding",
+      "published_at": "2026-03-26T10:43:17-04:00",
+      "section": "Canada",
+      "summary_auto": "Prime Minister Mark Carney announced more than $1 billion Thursday for the 5th Canadian Support Base Gagetown, including its primary army training area and new ground-based air defence systems.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "edb57076d35abbbeac4e6c5fd1bc674fc7246511",
       "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservative-mla-facing-criminal-charges-kicked-out-of-caucus-9.7143357?cmp=rss",
-      "title": "B.C. Conservative MLA Hon Chan charged with assault and choking, kicked out of caucus",
+      "title": "B.C. MLA Hon Chan charged with assault and choking, kicked out of Conservative caucus",
       "published_at": "2026-03-26T10:24:02-04:00",
       "section": "Top Stories",
       "summary_auto": "The MLA for Richmond Centre has been charged with assault, assault by choking and uttering threats, the B.C. Prosecution Service announced Thursday.",
@@ -56,19 +173,6 @@
       }
     },
     {
-      "id": "3fddd537aa9b41979d73b8250add663730a7c4cd",
-      "url": "https://www.cbc.ca/news/world/trump-iran-war-deal-begging-oil-gas-prices-economy-9.7142875?cmp=rss",
-      "title": "Iran is 'begging to make a deal' to end war, says Trump, 'not me'",
-      "published_at": "2026-03-26T10:05:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump used a televised cabinet meeting to try to sell Americans on the merits of the nearly four-week-old war against Iran, while downplaying its impact on the economy and the cost of living.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "974d4a851fb23b98b947b7a8e5e4f1c30474f788",
       "url": "https://www.cbc.ca/news/canada/north/diavik-mine-closes-nwt-9.7143141?cmp=rss",
       "title": "As one N.W.T. diamond mine shuts down, these workers want to stay in the North",
@@ -82,24 +186,11 @@
       }
     },
     {
-      "id": "b8f2b9302f67c531593e46a55e007c2cc64689c4",
-      "url": "https://www.cbc.ca/news/politics/strait-hormuz-iran-oil-canada-9.7103963?cmp=rss",
-      "title": "Canada might help oil tankers cross Strait of Hormuz if there is a ceasefire, Carney says",
-      "published_at": "2026-03-26T09:25:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney says Canada might join efforts to ensure freedom of navigation in the Middle East if there is a ceasefire.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.893,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "e7bf529adbb9f905c71d284b249290bc61e1ff9d",
       "url": "https://www.cbc.ca/news/world/hegseth-religious-services-prayer-lawsuit-9.7142921?cmp=rss",
       "title": "Pete Hegseth and Trump's labour secretary sued over prayer services, religious discrimination",
       "published_at": "2026-03-26T09:20:18-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Defence Secretary Pete Hegseth, hosting his first monthly Christian worship service at the Pentagon since the Iran war began, prayed on Wednesday for American bullets to hit their targets. An established nonprofit group has sued both Hegseth and Donald Trump's labour secretary, accusing them of engaging in religious discrimination and breaching the separation of church and state.",
       "bias_heuristic": {
         "article_type": "News",
@@ -147,15 +238,15 @@
       }
     },
     {
-      "id": "0d712a0b40a860a0d7a4186608d2832aed25eb9b",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-2026-budget-what-you-need-to-know-9.7141960?cmp=rss",
-      "title": "How does Ford plan to spend Ontario's money? 2026 budget being released today",
+      "id": "234019739bc71f5303419903d26bc68c8c1134bd",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-budget-2026-9.7143032?cmp=rss",
+      "title": "Ontario's 2026 budget sees deficit hit $13.8B amid looming global instability",
       "published_at": "2026-03-26T07:16:23-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.494,
         "subjectivity_hint": "low"
       }
     },
@@ -203,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/massive-carrot-cake-quesnel-9.7142414?cmp=rss",
       "title": "For his 80th birthday, Ted Martindale and his friends baked a 2,500-kilogram carrot cake",
       "published_at": "2026-03-26T06:00:00-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Wednesday was an 80th birthday party to remember for Ted Martindale, the owner of Granville Coffee in Quesnel. In a project that united the entire central B.C. community, he and numerous volunteers created a 2,500-kilogram carrot cake.",
       "bias_heuristic": {
         "article_type": "News",
@@ -229,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/trump-iran-truce-deal-9.7142669?cmp=rss",
       "title": "Israel kills senior Iranian naval officials, Trump continues threats to Tehran to negotiate",
       "published_at": "2026-03-26T05:58:19-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump warned Iranon Thursday to \"get serious\" about a deal to end nearly four weeks of fighting, after its foreign minister said Tehran was reviewing the U.S. proposal but that there ‌were no talks on winding down the war.",
       "bias_heuristic": {
         "article_type": "News",
@@ -264,19 +355,6 @@
       }
     },
     {
-      "id": "b93e270e85586e823cf5932c744329596021fa23",
-      "url": "https://www.cbc.ca/news/canada/windsor/enbridge-s-plan-to-fund-policing-costs-of-pipeline-reroute-in-u-s-raises-concerns-9.7142697?cmp=rss",
-      "title": "Enbridge's plan to fund policing costs of pipeline reroute in U.S. raises concerns",
-      "published_at": "2026-03-26T03:06:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The company has agreed to funnel money to U.S. law enforcement in anticipation of protests against its Line 5 pipeline reroute project, a move that has raised concerns about the depth of the company's influence in policing issues.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "2508ddca0371f0d0963315c0406276a6843b13e2",
       "url": "https://www.cbc.ca/news/canada/calgary/rural-schools-counsellors-9.7141814?cmp=rss",
       "title": "Country schools, modern problems and the long haul to help kids",
@@ -307,7 +385,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tim-o-brien-interview-conflict-of-interest-9.7140304?cmp=rss",
       "title": "N.L. prosecutor falsely accused of sexual assault calls for changes over how ex-coworkers handled case",
       "published_at": "2026-03-26T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Tim O’Brien has made peace with the fact that the woman who falsely accused him of sexual assault will never see the inside of a jail cell, but he's not ready to accept the way the case was handled.",
       "bias_heuristic": {
         "article_type": "News",
@@ -316,28 +394,28 @@
       }
     },
     {
+      "id": "141ff28ab59cf899cb98e77297bbc57e064a3b97",
+      "url": "https://www.cbc.ca/news/health/generic-ozempic-canada-waiting-9.7142339?cmp=rss",
+      "title": "As patents on weight-loss drugs expire, doctors and patients hotly anticipate cheaper generics",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Now that patents have expired, generic versions of Novo Nordisk's blockbuster weight-loss drugs could arrive in Canada within months, according to experts. Doctors say these cheaper versions will improve access and could also change societal perceptions around weight loss and reduce the cost and burden on the health-care system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "f2080094d120c1e0a365cb496adae31d8c7bdbdb",
       "url": "https://www.cbc.ca/news/canada/ottawa/hospital-child-death-9.7138786?cmp=rss",
       "title": "Asthmatic girl's treatment at Gatineau Hospital under review following her death",
       "published_at": "2026-03-26T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The health authority for the Outaouais is reviewing the case of a child who died in the days after she was seen at the Gatineau Hospital for an asthma attack. The girl's mother is raising concerns about the treatment the family received there.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.883,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ac46b9eb407b8d904ef1917a66e9c88040a8f6d2",
-      "url": "https://www.cbc.ca/news/canada/montreal/wanda-kagan-quebec-human-rights-employment-9.7141954?cmp=rss",
-      "title": "She was passed over for a promotion again in Quebec. Now, she's alleging systemic racism",
-      "published_at": "2026-03-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "After over 30 years working for the same employer, Wanda Kagan has filed a human rights complaint, alleging systemic racism at her workplace in Montreal. Now in her 60s, the high school friend of former U.S. vice-president Kamala Harris is urging workers to protect themselves while navigating institutions that are stacked against them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
         "subjectivity_hint": "low"
       }
     },
@@ -352,19 +430,6 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "141ff28ab59cf899cb98e77297bbc57e064a3b97",
-      "url": "https://www.cbc.ca/news/health/generic-ozempic-canada-waiting-9.7142339?cmp=rss",
-      "title": "As patents on weight-loss drugs expire, doctors and patients hotly anticipate cheaper generics",
-      "published_at": "2026-03-26T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Now that patents have expired, generic versions of Novo Nordisk's blockbuster weight-loss drugs could arrive in Canada within months, according to experts. Doctors say these cheaper versions will improve access and could also change societal perceptions around weight loss and reduce the cost and burden on the health-care system.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -390,19 +455,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.96,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "60d81b228442d7b33b5fdd42de9b4e9935d88014",
-      "url": "https://www.cbc.ca/news/climate/snowy-owls-otters-hammerhead-un-migratory-species-9.7142279?cmp=rss",
-      "title": "Snowy owls, giant otters, hammerhead sharks considered for greater protection at UN conference",
-      "published_at": "2026-03-26T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Migratory species such as the snowy owl, hammerhead shark and others are being considered for additional protections at global talks in Brazil. Here's what is endangering them and what is being proposed to help.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
         "subjectivity_hint": "low"
       }
     },
@@ -433,41 +485,15 @@
       }
     },
     {
-      "id": "b73873ca2d93d57eea6eeb1168b80f7442df9216",
-      "url": "https://www.cbc.ca/news/politics/bill-c-9-anti-hate-religious-exemption-hate-speech-9.7142455?cmp=rss",
-      "title": "Contentious anti-hate legislation passes final vote in the House, now moves to Senate",
-      "published_at": "2026-03-25T15:51:06-04:00",
-      "section": "Canada",
-      "summary_auto": "The Liberal government's politically contentious new anti-hate bill has passed its final hurdle in the House of Commons and will now go to the Senate.",
+      "id": "60d81b228442d7b33b5fdd42de9b4e9935d88014",
+      "url": "https://www.cbc.ca/news/climate/snowy-owls-otters-hammerhead-un-migratory-species-9.7142279?cmp=rss",
+      "title": "Snowy owls, giant otters, hammerhead sharks considered for greater protection at UN conference",
+      "published_at": "2026-03-26T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Migratory species such as the snowy owl, hammerhead shark and others are being considered for additional protections at global talks in Brazil. Here's what is endangering them and what is being proposed to help.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e8329c49a359685a204b479da3cf12f2e1d58ccf",
-      "url": "https://www.cbc.ca/sports/basketball/wnba-expansion-draft-announcement-9.7142436?cmp=rss",
-      "title": "WNBA sets April 3 expansion draft for Toronto Tempo and Portland Fire",
-      "published_at": "2026-03-25T15:24:19-04:00",
-      "section": "World",
-      "summary_auto": "The WNBA will hold an expansion draft for its new franchises in Portland and Toronto on April 3, the league announced Wednesday. A coin toss will be held Friday, with the winning franchise getting to choose either the first pick in the expansion draft or the No. 6 pick in the college draft on April 13.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1dddf9f4fe3ac0e971ca231cc5952158c22d05fe",
-      "url": "https://www.cbc.ca/news/world/us-attack-drug-vessel-caribbean-sea-kills-4-9.7142387?cmp=rss",
-      "title": "U.S. attack on alleged drug boat kills 4 in Caribbean Sea, military says",
-      "published_at": "2026-03-25T14:58:00-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. military said it carried out a strike Wednesday on a boat accused of smuggling drugs in the Caribbean Sea, killing four people, as the Trump administration pushes forward with a monthslong campaign against alleged traffickers in Latin America while waging a war against Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.967,
+        "sentiment": 0.637,
         "subjectivity_hint": "low"
       }
     }
