@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-28T10:26:43.732465-04:00",
+  "generated_at": "2026-03-28T14:31:43.848860-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "43a4156b6eeb82362a2a2e1d59d41eb284143512",
+      "url": "https://www.cbc.ca/news/canada/montreal/drunk-driver-granted-leave-9.7145521?cmp=rss",
+      "title": "Family devastated after drunk driver who killed 4 members in Quebec granted prison leave",
+      "published_at": "2026-03-28T06:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "David Fletcher says he would love to see his father, sister, niece and nephew again. But he can’t. They were all killed by a drunk driver in Beauport, Que., on Sept. 2, 2021. The driver, Éric Légaré, has now been granted unescorted temporary absences from prison once a month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.955,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "683aea56a3cea6953f1aecaf72cc0b98080b86b7",
       "url": "https://www.cbc.ca/music/rush-juno-awards-2026-9.7144684?cmp=rss",
@@ -69,16 +82,16 @@
       }
     },
     {
-      "id": "b5b1384460c91cbdd33d2f7b271b6e4b94c7fee1",
-      "url": "https://www.cbc.ca/news/politics/cuba-transition-communism-9.7142334?cmp=rss",
-      "title": "What happens after communism? Cubans face huge challenges, big decisions",
+      "id": "c0f93b1208bd58f9185466ccaeb6bfbb494842a7",
+      "url": "https://www.cbc.ca/news/canada/child-welfare-issues-advocates-canada-9.7145227?cmp=rss",
+      "title": "Ontario murder case highlights child welfare's systemic failures, say advocates",
       "published_at": "2026-03-28T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Cuba appears to be tottering toward some kind of political transition. Some Cubans are concerned that the residents own nothing and are too impoverished to take over the few functioning businesses on the island, while there is a large and wealthy diaspora community (and potentially also foreign investors) who would be able to swoop in and buy property and businesses at bargain prices.",
+      "summary_auto": "Advocates say the recent trial of a Burlington, Ont., couple is a symptom of nationwide failures in the child welfare system.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.893,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,29 +108,16 @@
       }
     },
     {
-      "id": "c0f93b1208bd58f9185466ccaeb6bfbb494842a7",
-      "url": "https://www.cbc.ca/news/canada/child-welfare-issues-advocates-canada-9.7145227?cmp=rss",
-      "title": "Ontario murder case highlights child welfare's systemic failures, say advocates",
+      "id": "b5b1384460c91cbdd33d2f7b271b6e4b94c7fee1",
+      "url": "https://www.cbc.ca/news/politics/cuba-transition-communism-9.7142334?cmp=rss",
+      "title": "What happens after communism? Cubans face huge challenges, big decisions",
       "published_at": "2026-03-28T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Advocates say the recent trial of a Burlington, Ont., couple is a symptom of nationwide failures in the child welfare system.",
+      "section": "World",
+      "summary_auto": "Cuba appears to be tottering toward some kind of political transition. Some Cubans are concerned that the residents own nothing and are too impoverished to take over the few functioning businesses on the island, while there is a large and wealthy diaspora community (and potentially also foreign investors) who would be able to swoop in and buy property and businesses at bargain prices.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.893,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "abfedff4c5955da851df586f2cdadf0ee69a364e",
-      "url": "https://www.cbc.ca/news/politics/army-canada-mobilization-soldiers-9.7145446?cmp=rss",
-      "title": "Canadian Army overhaul looms as DND finalizes mobilization plans",
-      "published_at": "2026-03-28T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's army is preparing a sweeping reorganization just as the National Defence Department moves to finalize its mobilization plan. Senior commanders warn the current force is ill suited to a more dangerous world, with proposals under study to expand reserves and generate hundreds of thousands of additional personnel in a crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.862,
-        "subjectivity_hint": "low"
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -156,123 +156,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "132917ffb70f977d7d4d9423b2c29d2ad268d53a",
-      "url": "https://www.cbc.ca/news/canada/edmonton/jason-stephan-red-deer-mla-separatism-petition-alberta-referendum-9.7145629?cmp=rss",
-      "title": "UCP MLA urges Albertans to sign petition calling for referendum on separation",
-      "published_at": "2026-03-27T17:53:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Red Deer-South MLA Jason Stephan says he believes a referendum on whether Alberta should separate from Canada is necessary to address provincial grievances with the federal government. The Opposition is calling on the premier to remove him from her caucus.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ad8970e9912d5e59a5fd501962b3e8191eb464c8",
-      "url": "https://www.cbc.ca/news/science/sperm-whale-birth-video-9.7144808?cmp=rss",
-      "title": "Scientists captured rare video of a sperm whale birth. What they learned from that remarkable moment",
-      "published_at": "2026-03-27T14:20:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rare footage of a sperm whale giving birth has offered scientists a window into the behaviour of these large, elusive mammals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9083fa7161ee0a72e30837fd1e44cf918a19bc5b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-iran-war-mark-carney-9.7145251?cmp=rss",
-      "title": "'This is a dumb war,' Manitoba Premier Wab Kinew says in letter urging PM to take action to stop Iran conflict",
-      "published_at": "2026-03-27T13:33:24-04:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba's premier is calling on Mark Carney to help stop the war in Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.934,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4055b68e69ec0260d9be20fc9b858742496bd22f",
-      "url": "https://www.cbc.ca/news/world/tiger-woods-reported-crash-jupiter-florida-9.7145130?cmp=rss",
-      "title": "Tiger Woods released on bail after arrest on suspicion of DUI in Florida",
-      "published_at": "2026-03-27T13:18:20-04:00",
-      "section": "World",
-      "summary_auto": "The pro golfer was released on bail late Friday, hours after his Land Rover clipped a truck and rolled onto its side, leading to his arrest on suspicion of driving under the influence, officials said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a7bd0415b27e04294c1236077beaf68d471526f3",
-      "url": "https://www.cbc.ca/news/entertainment/canadian-screen-awards-rule-change-9.7145027?cmp=rss",
-      "title": "New Canadian Screen Awards rule shuts out stars from other countries. Some filmmakers aren't happy",
-      "published_at": "2026-03-27T13:00:32-04:00",
-      "section": "Entertainment",
-      "summary_auto": "A new rule at the Canadian Screen Awards that restricts prizes to Canadian citizens and permanent residents is drawing criticism from some filmmakers at a time when they increasingly rely on cross-border collaborations and international talent.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.558,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6fe020072fe839197b794e3d6a76650464f07e68",
-      "url": "https://www.cbc.ca/news/canada/windsor/us-border-dna-canadian-man-cbp-cross-larson-dingell-raskin-9.7144472?cmp=rss",
-      "title": "U.S. lawmakers demand answers after Canadian man says border officers made him give DNA sample",
-      "published_at": "2026-03-27T12:50:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ed3c0f95cad3a05da98ca43ef2431cd2c72b96ea",
-      "url": "https://www.cbc.ca/news/indigenous/water-operators-first-nations-9.7144974?cmp=rss",
-      "title": "Improve drinking water on First Nations by uplifting water operators, group says",
-      "published_at": "2026-03-27T12:32:12-04:00",
-      "section": "Canada",
-      "summary_auto": "A group dedicated to ending the 41 current long-term drinking water advisories on First Nations say part of the way to achieve the goal is by recognizing and investing in the people who work in water treatment plants.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fceb58f9babffce194bd4e3fcbbea20b5fd85e08",
-      "url": "https://www.cbc.ca/news/canada/manitoba/fielding-sexual-assault-minister-9.7144916?cmp=rss",
-      "title": "Former Manitoba cabinet minister Scott Fielding accused of sexually assaulting co-worker in hotel: court docs",
-      "published_at": "2026-03-27T11:53:50-04:00",
-      "section": "Canada",
-      "summary_auto": "Scott Fielding, a former provincial minister and city councillor, is facing a sexual assault charge after a months-long investigation, Winnipeg police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f1760e18ce2d87c1706f518b5ed1d0ed372ef49a",
-      "url": "https://www.cbc.ca/news/health/nasa-medical-evacuation-speak-9.7144824?cmp=rss",
-      "title": "Evacuated NASA astronaut says he couldn't speak in space. Why remains a mystery",
-      "published_at": "2026-03-27T11:42:29-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "The astronaut who prompted NASA's first medical evacuation earlier this year said Friday that doctors still don't know why he suddenly fell sick at the International Space Station.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     }
