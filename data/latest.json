@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-28T08:40:46.711295-04:00",
+  "generated_at": "2026-03-28T10:26:43.732465-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "683aea56a3cea6953f1aecaf72cc0b98080b86b7",
+      "url": "https://www.cbc.ca/music/rush-juno-awards-2026-9.7144684?cmp=rss",
+      "title": "Rush's Alex Lifeson and Geddy Lee tease Junos surprise ahead of reunion tour later this year",
+      "published_at": "2026-03-28T05:15:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The legendary rock band's members have hinted at 'something special' for the 2026 awards show on March 29.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f50efab494eb56917451d9e2552f7c2dfcccb1e8",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/abel-mwansa-last-words-tumbler-ridge-shooting-victim-9.7145625?cmp=rss",
+      "title": "'Tell my parents that I love them so much': Tumbler Ridge shooting victim's final words shared on gravestone",
+      "published_at": "2026-03-28T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The final words of one of the victims of the mass shooting in Tumbler Ridge, B.C., have been shared by his family: \"Tell my parents that I love them so much.\" The local MP says the message was delivered by a \"hero\" classmate who helped care for Abel Mwansa, Jr. and others hurt in the tragedy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.848,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "f3a727a23ef3c86579a67e895200f56c042fc9d1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/budget-2026-analysis-9.7144691?cmp=rss",
+      "title": "5 potential perils in Wab Kinew's 3rd Manitoba budget",
+      "published_at": "2026-03-28T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Manitoba's 2026-27 budget includes optimistic assumptions about revenue and risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "7adbcee35601222ff192c52dbe985cf86c19ed9c",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pasadena-housing-9.7144877?cmp=rss",
@@ -17,6 +56,32 @@
       }
     },
     {
+      "id": "4235be1471f725268ab33ebee381fc39a64cb7fe",
+      "url": "https://www.cbc.ca/news/entertainment/north-of-north-indigenous-music-9.7139893?cmp=rss",
+      "title": "Hit show North of North has a soundtrack full of bangers by Indigenous artists now reaching a global audience",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thanks to the hit show North of North, Indigenous artists featured on its soundtrack are seeing their songs reach listeners around the world. They and other Indigenous people in the music industry say this kind of exposure lets them share authentic stories and educate new audiences about Indigenous history and culture through their music.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b5b1384460c91cbdd33d2f7b271b6e4b94c7fee1",
+      "url": "https://www.cbc.ca/news/politics/cuba-transition-communism-9.7142334?cmp=rss",
+      "title": "What happens after communism? Cubans face huge challenges, big decisions",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Cuba appears to be tottering toward some kind of political transition. Some Cubans are concerned that the residents own nothing and are too impoverished to take over the few functioning businesses on the island, while there is a large and wealthy diaspora community (and potentially also foreign investors) who would be able to swoop in and buy property and businesses at bargain prices.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "7d4e975b0f7c1dc295638bd7074a9d4835500bb7",
       "url": "https://www.cbc.ca/news/canada/hamilton/tigers-hyena-exotic-animals-wainfleet-9.7142098?cmp=rss",
       "title": "3 tigers, hyena no longer with Wainfleet, Ont., owner despite efforts to fight exotic animal bylaw",
@@ -26,6 +91,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.139,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c0f93b1208bd58f9185466ccaeb6bfbb494842a7",
+      "url": "https://www.cbc.ca/news/canada/child-welfare-issues-advocates-canada-9.7145227?cmp=rss",
+      "title": "Ontario murder case highlights child welfare's systemic failures, say advocates",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Advocates say the recent trial of a Burlington, Ont., couple is a symptom of nationwide failures in the child welfare system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
         "subjectivity_hint": "low"
       }
     },
@@ -69,19 +147,6 @@
       }
     },
     {
-      "id": "4235be1471f725268ab33ebee381fc39a64cb7fe",
-      "url": "https://www.cbc.ca/news/entertainment/north-of-north-indigenous-music-9.7139893?cmp=rss",
-      "title": "Hit show North of North has a soundtrack full of bangers by Indigenous artists now reaching a global audience",
-      "published_at": "2026-03-28T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Thanks to the hit show North of North, Indigenous artists featured on its soundtrack are seeing their songs reach listeners around the world. They and other Indigenous people in the music industry say this kind of exposure lets them share authentic stories and educate new audiences about Indigenous history and culture through their music.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "652a9d9cc2959f043b73eafdab24b3a30ebf9aff",
       "url": "https://www.cbc.ca/news/canada/23andme-settlement-class-action-9.7145473?cmp=rss",
       "title": "Settlement approved for Canadians affected by past 23andMe data breach",
@@ -105,19 +170,6 @@
         "article_type": "News",
         "sentiment": -0.361,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "48b849203300bd77c9d36fb0a9bb313ffa725e27",
-      "url": "https://www.cbc.ca/news/politics/mnc-rcmp-indigenous-spying-program-9.7144746?cmp=rss",
-      "title": "Métis National Council president says RCMP statement of regret falls short",
-      "published_at": "2026-03-27T16:59:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The president of the Métis National Council says the RCMP's response to an extensive spying program that targeted hundreds of Indigenous people falls short.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -222,84 +274,6 @@
         "article_type": "News",
         "sentiment": -0.511,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7c38b6c0e981ea702fd3930d422c646e3ace56e",
-      "url": "https://www.cbc.ca/news/canada/toronto/bbo-athletics-blue-jays-9.7145669?cmp=rss",
-      "title": "Gausman strikes out 11, Okamoto scores winning run as Blue Jays beat Athletics in season opener",
-      "published_at": "2026-03-27T11:25:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "40fe11bf4054c4c484e2e347d48d114165db48d7",
-      "url": "https://www.cbc.ca/news/world/firebomb-plot-palestinian-activist-home-fbi-nypd-9.7144857?cmp=rss",
-      "title": "Undercover police operation thwarts plot to firebomb NY-based Palestinian activist's home",
-      "published_at": "2026-03-27T10:15:00-04:00",
-      "section": "World",
-      "summary_auto": "A New Jersey man who planned to firebomb the home of a prominent Palestinian activist was arrested Thursday following a weeks-long undercover operation, according to a federal complaint and the New York City Police Department.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c3f2d02077bce7870bbb4a99db3667eeaeebf7f",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-missing-woman-charge-laid-9.7144852?cmp=rss",
-      "title": "Man in P.E.I. arrested by Edmonton police, charged with murder of missing woman",
-      "published_at": "2026-03-27T09:43:58-04:00",
-      "section": "Canada",
-      "summary_auto": "A 47-year-old man has been charged with second-degree murder in connection with the death of a woman who went missing in southeast Edmonton last summer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.973,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "00d9bfbdddb3e4d7d5e2880a39d0ada558267795",
-      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-matthew-althorpe-terrorism-9.7144637?cmp=rss",
-      "title": "Niagara neo-Nazi sentenced to 20 years after pleading guilty to terrorism charges",
-      "published_at": "2026-03-27T09:01:02-04:00",
-      "section": "Canada",
-      "summary_auto": "An Ontario man who pleaded guilty to three terrorism charges has been sentenced to 20 years in prison with the\npossibility of parole after 10 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.97,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e3406c1266afed9c5a6ab92fa12d3aae1409dee2",
-      "url": "https://www.cbc.ca/news/world/us-no-kings-protests-9.7144237?cmp=rss",
-      "title": "No Kings protests in the U.S. today could be the biggest yet. Here's why",
-      "published_at": "2026-03-27T08:59:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "More than 3,100 events are being organized in communities large and small across all 50 states on Saturday in the latest No Kings protests, with demonstrations also planned internationally, including in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.266,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e3406c1266afed9c5a6ab92fa12d3aae1409dee2",
-      "url": "https://www.cbc.ca/news/world/us-no-kings-protests-9.7144237?cmp=rss",
-      "title": "No Kings protests in the U.S. on Saturday could be the biggest yet. Here's why",
-      "published_at": "2026-03-27T08:59:36-04:00",
-      "section": "World",
-      "summary_auto": "More than 3,100 events are being organized in communities large and small across all 50 states on Saturday in the latest No Kings protests, with demonstrations also planned internationally, including in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.266,
-        "subjectivity_hint": "medium"
       }
     }
   ]
