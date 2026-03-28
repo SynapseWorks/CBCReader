@@ -1,18 +1,109 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-27T21:43:44.376973-04:00",
+  "generated_at": "2026-03-28T08:40:46.711295-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | WestJet was warned about seating plan 'hazard'",
-      "published_at": "2026-03-27T17:00:00-04:00",
+      "id": "7adbcee35601222ff192c52dbe985cf86c19ed9c",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pasadena-housing-9.7144877?cmp=rss",
+      "title": "A family lost their home in a fire.  Because of their dog, they can't live in emergency housing",
+      "published_at": "2026-03-28T00:30:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "March 27, 2026 | CBC News has learned that Transport Canada warned WestJet its new, tighter seat configuration could pose a potential safety hazard after a tip from a flight attendant. Tiger Woods is arrested on suspicion of impaired driving after a Florida car crash. And the Toronto Blue Jays play their home opener.",
+      "summary_auto": "A Pasadena man is speaking out after losing his home in a fire earlier this year, saying he and his son can't access emergency shelter options because of his son's dog.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.751,
+        "sentiment": -0.652,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d4e975b0f7c1dc295638bd7074a9d4835500bb7",
+      "url": "https://www.cbc.ca/news/canada/hamilton/tigers-hyena-exotic-animals-wainfleet-9.7142098?cmp=rss",
+      "title": "3 tigers, hyena no longer with Wainfleet, Ont., owner despite efforts to fight exotic animal bylaw",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The owner of three tigers and a hyena that are no longer living on a property in Wainfleet, Ont., is hopeful he'll someday be reunited with his animals, but it won't be in that rural township in Niagara that had ordered them removed for contravening an exotic animals bylaw.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.139,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "abfedff4c5955da851df586f2cdadf0ee69a364e",
+      "url": "https://www.cbc.ca/news/politics/army-canada-mobilization-soldiers-9.7145446?cmp=rss",
+      "title": "Canadian Army overhaul looms as DND finalizes mobilization plans",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's army is preparing a sweeping reorganization just as the National Defence Department moves to finalize its mobilization plan. Senior commanders warn the current force is ill suited to a more dangerous world, with proposals under study to expand reserves and generate hundreds of thousands of additional personnel in a crisis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.862,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b7343191a0ad855b00e0e3c64ddfd1c4b1659157",
+      "url": "https://www.cbc.ca/news/world/laguardia-airport-air-traffic-control-midnight-shift-9.7142856?cmp=rss",
+      "title": "Were 2 enough? Experts question number of air traffic controllers during LaGuardia midnight shift",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Following the deadly collision between an Air Canada jet and a fire truck on the runway at New York City's LaGuardia airport last week, concerns have been raised about whether there was adequate air traffic control staffing that night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f77389f5248544848d157e5615e4ef0abebd48b",
+      "url": "https://www.cbc.ca/news/health/early-menopause-health-issues-9.7144644?cmp=rss",
+      "title": "Does hitting menopause before 40 cause major health issues later in life? Scientists are aiming to find out",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Most women enter menopause in their mid-40s or 50s, but for those hitting this transformational life stage earlier, scientists warn there could be a heightened risk of future health impacts, like heart attacks and dementia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.45,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4235be1471f725268ab33ebee381fc39a64cb7fe",
+      "url": "https://www.cbc.ca/news/entertainment/north-of-north-indigenous-music-9.7139893?cmp=rss",
+      "title": "Hit show North of North has a soundtrack full of bangers by Indigenous artists now reaching a global audience",
+      "published_at": "2026-03-28T00:00:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Thanks to the hit show North of North, Indigenous artists featured on its soundtrack are seeing their songs reach listeners around the world. They and other Indigenous people in the music industry say this kind of exposure lets them share authentic stories and educate new audiences about Indigenous history and culture through their music.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "652a9d9cc2959f043b73eafdab24b3a30ebf9aff",
+      "url": "https://www.cbc.ca/news/canada/23andme-settlement-class-action-9.7145473?cmp=rss",
+      "title": "Settlement approved for Canadians affected by past 23andMe data breach",
+      "published_at": "2026-03-27T18:03:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A multimillion-dollar settlement has been approved in a class action claim involving Canadian customers of the 23andMe genetic testing company who were affected by a past data breach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "132917ffb70f977d7d4d9423b2c29d2ad268d53a",
+      "url": "https://www.cbc.ca/news/canada/edmonton/jason-stephan-red-deer-mla-separatism-petition-alberta-referendum-9.7145629?cmp=rss",
+      "title": "UCP MLA urges Albertans to sign petition calling for referendum on separation",
+      "published_at": "2026-03-27T17:53:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Red Deer-South MLA Jason Stephan says he believes a referendum on whether Alberta should separate from Canada is necessary to address provincial grievances with the federal government. The Opposition is calling on the premier to remove him from her caucus.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
         "subjectivity_hint": "medium"
       }
     },
@@ -30,29 +121,16 @@
       }
     },
     {
-      "id": "bf6ee769eb51c4b2644af2e918d52e093f8409d5",
-      "url": "https://www.cbc.ca/news/canada/toronto/fire-downtown-building-explosion-9.7145431?cmp=rss",
-      "title": "Crews extinguish fire at downtown Toronto building after possible explosion",
-      "published_at": "2026-03-27T14:33:26-04:00",
+      "id": "ad8970e9912d5e59a5fd501962b3e8191eb464c8",
+      "url": "https://www.cbc.ca/news/science/sperm-whale-birth-video-9.7144808?cmp=rss",
+      "title": "Scientists captured rare video of a sperm whale birth. What they learned from that remarkable moment",
+      "published_at": "2026-03-27T14:20:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Firefighters have extinguished a fire on the roof of a commercial building in downtown Toronto that is believed to have caused an explosion on Friday evening.",
+      "summary_auto": "Rare footage of a sperm whale giving birth has offered scientists a window into the behaviour of these large, elusive mammals.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dfd460727636afdeba06cece17520e764f432aa3",
-      "url": "https://www.cbc.ca/news/canada/montreal/air-canada-ceo-french-controversy-collision-9.7144663?cmp=rss",
-      "title": "Air Canada CEO's lack of respect outweighs his lack of French, crisis management expert says",
-      "published_at": "2026-03-27T13:34:52-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The CEO of Canada’s largest airline remains under fire from multiple fronts this week following a botched expression of condolence and a subsequent fumbled apology.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
+        "sentiment": 0.718,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -60,7 +138,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-iran-war-mark-carney-9.7145251?cmp=rss",
       "title": "'This is a dumb war,' Manitoba Premier Wab Kinew says in letter urging PM to take action to stop Iran conflict",
       "published_at": "2026-03-27T13:33:24-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Manitoba's premier is calling on Mark Carney to help stop the war in Iran.",
       "bias_heuristic": {
         "article_type": "News",
@@ -71,13 +149,13 @@
     {
       "id": "4055b68e69ec0260d9be20fc9b858742496bd22f",
       "url": "https://www.cbc.ca/news/world/tiger-woods-reported-crash-jupiter-florida-9.7145130?cmp=rss",
-      "title": "Golfer Tiger Woods arrested on suspicion of DUI in Florida, authorities say",
+      "title": "Tiger Woods released on bail after arrest on suspicion of DUI in Florida",
       "published_at": "2026-03-27T13:18:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Tiger Woods showed signs of impairment at the scene of a car crash Friday in which he struck another vehicle and rolled over, authorities said.",
+      "section": "World",
+      "summary_auto": "The pro golfer was released on bail late Friday, hours after his Land Rover clipped a truck and rolled onto its side, leading to his arrest on suspicion of driving under the influence, officials said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.856,
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -86,7 +164,7 @@
       "url": "https://www.cbc.ca/news/entertainment/canadian-screen-awards-rule-change-9.7145027?cmp=rss",
       "title": "New Canadian Screen Awards rule shuts out stars from other countries. Some filmmakers aren't happy",
       "published_at": "2026-03-27T13:00:32-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "A new rule at the Canadian Screen Awards that restricts prizes to Canadian citizens and permanent residents is drawing criticism from some filmmakers at a time when they increasingly rely on cross-border collaborations and international talent.",
       "bias_heuristic": {
         "article_type": "News",
@@ -108,19 +186,6 @@
       }
     },
     {
-      "id": "e739697f5a40cc2beb06f209f3ad8138af742902",
-      "url": "https://www.cbc.ca/news/politics/poilievre-olympic-gender-policy-9.7145171?cmp=rss",
-      "title": "Poilievre backs J.K. Rowling's support for Olympic ban of transgender women from women's sports",
-      "published_at": "2026-03-27T12:44:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Conservative Leader Pierre Poilievre is supporting a ruling this week by the International Olympic Committee that bans transgender women from women's sports at the Games.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "ed3c0f95cad3a05da98ca43ef2431cd2c72b96ea",
       "url": "https://www.cbc.ca/news/indigenous/water-operators-first-nations-9.7144974?cmp=rss",
       "title": "Improve drinking water on First Nations by uplifting water operators, group says",
@@ -138,7 +203,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/fielding-sexual-assault-minister-9.7144916?cmp=rss",
       "title": "Former Manitoba cabinet minister Scott Fielding accused of sexually assaulting co-worker in hotel: court docs",
       "published_at": "2026-03-27T11:53:50-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Scott Fielding, a former provincial minister and city councillor, is facing a sexual assault charge after a months-long investigation, Winnipeg police say.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,41 +225,15 @@
       }
     },
     {
-      "id": "e0faa2b3512568627632742d9ac831a053ce9e71",
-      "url": "https://www.cbc.ca/news/politics/michael-ma-china-forced-labour-investigation-9.7144931?cmp=rss",
-      "title": "Liberal MP's Chinese forced labour comments come as U.S. probes Canada's imports",
-      "published_at": "2026-03-27T11:28:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Liberal MP Michael Ma's apology for confronting an academic witness about whether her evidence on Chinese aluminum supply chains could be \"hearsay\" coincides with a highly sensitive moment in Canada's trade war with the Trump administration. The U.S. included Canada in its recent tariff investigation to crack down on countries suspected of turning a blind eye to forced labour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.931,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b51f74103fbab9d13295dcb9aa68c065e8139791",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-season-preview-richard-deitsch-opening-day-march26-9.7143804?cmp=rss",
-      "title": "Blue Jays begin what they and fans hope is the ultimate redemption arc after last year's Game 7 heartbreaker",
+      "id": "f7c38b6c0e981ea702fd3930d422c646e3ace56e",
+      "url": "https://www.cbc.ca/news/canada/toronto/bbo-athletics-blue-jays-9.7145669?cmp=rss",
+      "title": "Gausman strikes out 11, Okamoto scores winning run as Blue Jays beat Athletics in season opener",
       "published_at": "2026-03-27T11:25:07-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74a9ba50ca76c5f9f6a75834e6bb3553fc19171b",
-      "url": "https://www.cbc.ca/news/canada/scam-interview-cbc-requests-9.7144485?cmp=rss",
-      "title": "CBC warns of interview request scam asking for money",
-      "published_at": "2026-03-27T11:13:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC is warning of an email scam in which someone impersonating a CBC journalist is pitching people on an interview and then asking them to pay to promote it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
+        "sentiment": 0.226,
         "subjectivity_hint": "low"
       }
     },
@@ -240,9 +279,9 @@
     {
       "id": "e3406c1266afed9c5a6ab92fa12d3aae1409dee2",
       "url": "https://www.cbc.ca/news/world/us-no-kings-protests-9.7144237?cmp=rss",
-      "title": "No Kings protests in the U.S. on Saturday could be the biggest yet. Here's why",
+      "title": "No Kings protests in the U.S. today could be the biggest yet. Here's why",
       "published_at": "2026-03-27T08:59:36-04:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "More than 3,100 events are being organized in communities large and small across all 50 states on Saturday in the latest No Kings protests, with demonstrations also planned internationally, including in Canada.",
       "bias_heuristic": {
         "article_type": "News",
@@ -251,262 +290,15 @@
       }
     },
     {
-      "id": "589e1e3a1a2816bc82342180f55861a55f55936d",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-sunshine-list-9.7144414?cmp=rss",
-      "title": "Ontario Sunshine List revealed: Here are the public sector's highest earners",
-      "published_at": "2026-03-27T07:23:40-04:00",
-      "section": "Canada",
-      "summary_auto": "Ontario released its 2025 Sunshine List Friday, the annual list that documents public sector employees with salaries of over $100,000, with former Ontario Power Generation President and CEO Kenneth Hartwick topping it yet again with a salary of just over $1.9 million.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "689a11e9897cc4d030fe6de4a65404160e91ed61",
-      "url": "https://www.cbc.ca/news/world/guthrie-invu-today-return-9.7144339?cmp=rss",
-      "title": "Savannah Guthrie sets Today show return after mother's disappearance",
-      "published_at": "2026-03-27T06:37:15-04:00",
+      "id": "e3406c1266afed9c5a6ab92fa12d3aae1409dee2",
+      "url": "https://www.cbc.ca/news/world/us-no-kings-protests-9.7144237?cmp=rss",
+      "title": "No Kings protests in the U.S. on Saturday could be the biggest yet. Here's why",
+      "published_at": "2026-03-27T08:59:36-04:00",
       "section": "World",
-      "summary_auto": "Savannah Guthrie will return soon as co-host of NBC's Today show after a nearly two-month absence sparked by the disappearance of her 84-year-old mother, saying in an interview that 'joy will be my protest.'",
+      "summary_auto": "More than 3,100 events are being organized in communities large and small across all 50 states on Saturday in the latest No Kings protests, with demonstrations also planned internationally, including in Canada.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f1b9345b4b20dfcc36d222e3468e28f5a12d187b",
-      "url": "https://www.cbc.ca/news/business/markets-friday-march-27-9.7144264?cmp=rss",
-      "title": "Wall Street marks its worst week since start of conflict in Iran",
-      "published_at": "2026-03-27T06:16:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The S&P 500, Nasdaq and Dow Jones Industrial Average all sank on Friday, marking a fifth straight week of losses for U.S. markets. North of the border, Canada's main stock index closed in narrowly positive territory.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e3a7443bb9459fe167aa37932ab9848dd0d7d4c1",
-      "url": "https://www.cbc.ca/news/business/judge-blocks-anthropic-blacklist-9.7144248?cmp=rss",
-      "title": "Judge temporarily blocks Pentagon's blacklist of AI company Anthropic",
-      "published_at": "2026-03-27T05:23:39-04:00",
-      "section": "Business",
-      "summary_auto": "In their lawsuit, Anthropic accused the government of violating its rights when U.S. Secretary of War Pete Hegseth designated Anthropic a national security supply-chain risk. The judge's decision is the latest in the saga between the AI company and the government over how Anthropic's technology can be used for defence purposes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.893,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9dbc83451a48b3cd9061427a7ab975ca7216775a",
-      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-murder-trial-milton-burlington-ll-jl-9.7141697?cmp=rss",
-      "title": "Closing arguments end in lengthy trial for Ontario couple accused of boy’s murder, brother’s torture",
-      "published_at": "2026-03-27T04:32:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6b149c1ac5768f38f09e648a58cd5348377234d1",
-      "url": "https://www.cbc.ca/news/world/humanitarian-aid-boats-missing-cuba-mexico-9.7144119?cmp=rss",
-      "title": "2 humanitarian aid boats en route to Cuba are missing, Mexico says",
-      "published_at": "2026-03-27T03:20:54-04:00",
-      "section": "World",
-      "summary_auto": "Mexico's navy said on Thursday it had activated a search-and-rescue operation in the Caribbean to locate two sailboats carrying humanitarian aid to Cuba after the vessels failed to arrive in Havana as scheduled.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e53e38cc1eb5344b14507adaec3d2814355954a7",
-      "url": "https://www.cbc.ca/news/world/us-court-musk-x-advertisers-9.7144146?cmp=rss",
-      "title": "Judge hands defeat to Musk's X, throws out lawsuit accusing advertisters of illegal boycott",
-      "published_at": "2026-03-27T03:16:59-04:00",
-      "section": "World",
-      "summary_auto": "A U.S. judge on Thursday dismissed X Corp.'s antitrust lawsuit that accused the World Federation of Advertisers ‌and major companies including Mars, CVS Health and Colgate-Palmolive of illegally boycotting billionaire entrepreneur Elon Musk’s social media company.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.946,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9a965d089c0f471a47e73cc183f82939146777cb",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/rcmp-database-child-sex-offenders-9.7143422?cmp=rss",
-      "title": "National public database for high-risk child sex offenders expected to grow",
-      "published_at": "2026-03-27T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A new national database of high-risk child sex offenders went live at the beginning of the year. The RCMP say it will continue to grow as provinces and territories recommend more names.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6dd7f87590f4fa3924abd88a98e32f3de5ef9ee1",
-      "url": "https://www.cbc.ca/news/canada/manitoba/propofol-overdose-alberta-lawsuit-9.7144046?cmp=rss",
-      "title": "'Massive overdose' of sedative led to man's cardiac arrest, brain injury at Winnipeg hospital: lawsuit",
-      "published_at": "2026-03-27T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Alberta government and the father of a man who suffered cardiac arrest and permanent brain damage after he was allegedly given a \"massive overdose\" of a potent sedative at a Winnipeg hospital two years ago are suing the facility, three medical providers and two Manitoba health authorities for negligence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eaf7eb244a30091acd6ee09946d4550c186c46b5",
-      "url": "https://www.cbc.ca/news/world/trump-iran-deadline-conflict-hormuz-9.7144120?cmp=rss",
-      "title": "Nuclear energy sites targeted in latest strikes, Iranian state media reports",
-      "published_at": "2026-03-27T00:55:01-04:00",
-      "section": "World",
-      "summary_auto": "Iran state media says its nuclear facilities were attacked Friday, just hours after Israel threatened to \"escalate and expand\" its campaign against Tehran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01ca0181e6c0f7aaf3459cfe056f55dcdc610adc",
-      "url": "https://www.cbc.ca/news/entertainment/ai-fruit-slop-videos-instagram-tiktok-9.7142568?cmp=rss",
-      "title": "'It's absurd; it's brain rot': Welcome to AI fruit slop, where fruits cheat on each other",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "AI \"fruit slop\" videos are racking up millions of views on TikTok and Instagram, and generating reaction and parody videos from users hooked on juicy storylines centred around romance and betrayal. Think of it like smartphone soap operas — only the stars are lustful, anthropomorphic strawberries and bananas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "49fd3fb98dc46d151bdff329dddfaf4bd9d8e7df",
-      "url": "https://www.cbc.ca/news/canada/edmonton/transport-canada-westjet-seating-layout-hazard-9.7142069?cmp=rss",
-      "title": "Transport Canada warned about WestJet seating 'hazard' weeks before viral video: documents",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A WestJet flight attendant alerted the federal government to an \"imminent safety risk\" and called for a \"prompt review\" after a passenger on a flight to Calgary in November became 'stuck in his seat' on a reconfigured plane that had less legroom, documents obtained by CBC News show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f29b1af235146a6957ac480cfb88688fcae8798",
-      "url": "https://www.cbc.ca/news/business/open-ai-ditching-sora-analysis-9.7141942?cmp=rss",
-      "title": "Sora, OpenAI's generative video app, is history. Here's what that means for the firm's future",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "OpenAI has decided to scrap Sora, its app that generated videos based on user prompts. The move reveals that the company, once the disruptor-in-chief of the AI world, is now facing something of an identity crisis as it struggles to pick a lane on the busy road to profitability.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7295e0c762aad3226c3074604f9461960a5305d2",
-      "url": "https://www.cbc.ca/news/canada/montreal/key-takeaways-supreme-court-challenge-bill-21-9.7143807?cmp=rss",
-      "title": "6 key moments from the Supreme Court challenge of Quebec's secularism law",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Four days of hearings in the Supreme Court challenge to Quebec’s secularism law, Bill 21, are over. While the hearings dealt mostly with complex legal questions, there were some moments that revealed the intensity and passionate nature of the debates.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c0f75107cdac66628b09527ffca35c98af7f2d1c",
-      "url": "https://www.cbc.ca/news/science/methane-canada-alberta-oil-gas-9.7143673?cmp=rss",
-      "title": "What's new in Ottawa-Alberta deal to cut methane emissions from oil and gas sector",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "As part of the wide-ranging Canada-Alberta memorandum of understanding on energy policy and a new oil pipeline, the two sides announced an agreement-in-principle on new methane rules and targets. It could speed up methane reductions, experts say, but some questions remain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d321ccada4819ba5d2a34827e004041568b4989a",
-      "url": "https://www.cbc.ca/news/canada/toronto/robinson-huron-legal-fees-appeal-9.7143490?cmp=rss",
-      "title": "Ontario court slashing $500M legal fees will have ‘chilling effect’ on other cases, argue lawyers",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Lawyers who had over $500 million in legal fees struck down by an Ontario court are appealing the decision, arguing the case could have wider implications affecting access to justice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4acfad4f8c441908664efdf7881fe43b5423d4f2",
-      "url": "https://www.cbc.ca/news/entertainment/latin-music-juno-awards-9.7143979?cmp=rss",
-      "title": "The Junos are adding a category for Latin music. Musicians and fans say it's been a long time coming",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Juno Awards' new Latin music recording of the year category means to reflect the genre's stratospheric popularity, musicians and industry insiders say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ebb4eb64de5da48c8f9de4a1e466e37ec06c846d",
-      "url": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515?cmp=rss",
-      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Amid Prime Minister Mark Carney’s calls that the Canada-U.S. relationship is ruptured, Ottawa has committed $175-million to a mining project in northern Quebec whose major U.S. investor is closely linked to the Trump administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51136b927f8435cc5a2e169ecfe4173d4e326e91",
-      "url": "https://www.cbc.ca/news/canada/blue-jays-50th-season-start-9.7139324?cmp=rss",
-      "title": "How the Blue Jays went from fledgling franchise to mature World Series contender",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "As they begin their 50th season in Major League Baseball, the Toronto Blue Jays are facing some high expectations after coming close to winning the 2025 World Series. Here's a look at the team's journey over the years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9cc6dd7ded0be2356a6c1e4f8d6a6898f8a99209",
-      "url": "https://www.cbc.ca/news/canada/air-canada-plane-crash-runway-incursions-9.7141365?cmp=rss",
-      "title": "'It only takes one' — Why a runway collision like LaGuardia could happen in Canada",
-      "published_at": "2026-03-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Transportation Safety Board has been sounding the alarm on the risk of collision due to runway incursions — the incorrect presence of a vehicle, person or aircraft on a surface designated for takeoff or landing — since 2010.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
+        "sentiment": -0.266,
         "subjectivity_hint": "medium"
       }
     }
