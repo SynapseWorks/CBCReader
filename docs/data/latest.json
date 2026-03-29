@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-29T10:28:43.557220-04:00",
+  "generated_at": "2026-03-29T14:33:13.588663-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "f328057a75945f29ee960dcb5e8b938bafd05418",
+      "url": "https://www.cbc.ca/player/play/9.7145997?cmp=rss",
+      "title": "NASA provides status update for Artemis II launch",
+      "published_at": "2026-03-29T10:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "TKNASA holds a news conference in Florida on Sunday ahead of the planned April 1 launch of the Artemis II moon mission. The four-member crew, including Canadian astronaut Jeremy Hansen, is in quarantine ahead of the 10-day journey that will send them around the moon and back.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "206dd287b34def4ddeae5d16b2f74232af11bc9a",
+      "url": "https://www.cbc.ca/news/canada/montreal/rita-hassan-far-left-politician-refused-entry-canada-9.7146419?cmp=rss",
+      "title": "European Parliament member Rima Hassan says she was denied entry to Canada",
+      "published_at": "2026-03-29T09:42:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A French-Palestinian member of the European Parliament says she was denied entry into Canada only days before she was scheduled to participate in conferences in Montreal. Rima Hassan wrote online that she was \"prevented\" from coming to Canada in what she described as an attempt at censorship.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "206dd287b34def4ddeae5d16b2f74232af11bc9a",
+      "url": "https://www.cbc.ca/news/canada/montreal/rita-hassan-far-left-politician-refused-entry-canada-9.7146419?cmp=rss",
+      "title": "Pro-Palestine European Parliament member Rima Hassan says she was denied entry to Canada",
+      "published_at": "2026-03-29T09:42:43-04:00",
+      "section": "Canada",
+      "summary_auto": "A French-Palestinian member of the European Parliament says she was denied entry into Canada only days before she was scheduled to participate in conferences in Montreal. Rima Hassan wrote online that she was \"prevented\" from coming to Canada in what she described as an attempt at censorship.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f544601160e6079d82fab7519a37351580bb63b7",
+      "url": "https://www.cbc.ca/news/canada/calgary/white-nose-syndrome-bats-alberta-9.7144601?cmp=rss",
+      "title": "Lethal bat disease detected in Alberta's Rocky Mountains for first time",
+      "published_at": "2026-03-29T09:12:30-04:00",
+      "section": "Canada",
+      "summary_auto": "White-nose syndrome, a deadly disease that has decimated bat populations across North America in recent years, has been detected in the Rocky Mountains of Alberta for the first time, marking a significant spread since it was first confirmed to be in the province two years ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "50492019791381ae394384c6119e8f8672f28e0f",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-astronaut-jenni-gibbons-artemis-ii-9.7146319?cmp=rss",
+      "title": "'The crew is ready': Calgary-born astronaut to be voice link to Artemis II moon mission",
+      "published_at": "2026-03-29T07:20:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jenni Gibbons was always drawn to the stars. Now, the Calgary-born astronaut is set to take part in NASA's Artemis II mission, which will send humans to the moon for the first time in more than 50 years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "6ee4fa2e0264d2d4333680d81c5d8267c36594ee",
       "url": "https://www.cbc.ca/news/world/north-korea-missile-test-9.7146183?cmp=rss",
@@ -40,6 +105,19 @@
         "article_type": "News",
         "sentiment": 0.459,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f0a4c26170dc91b2bcdef4237437d0dd9206e733",
+      "url": "https://www.cbc.ca/news/canada/hamilton/heather-winterstein-coroner-inquest-niagara-health-9.7144716?cmp=rss",
+      "title": "'You are going to be outraged': Mother speaks ahead of inquest into daughter's death at Niagara hospital",
+      "published_at": "2026-03-29T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Community members gathered Thursday in Fort Erie, Ont., to pay tribute to Heather Winterstein, a young woman whose death raised questions about how Indigenous people and those with mental health and substance use issues are treated in the health-care system. An inquest into her death begins Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.949,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,19 +173,6 @@
       }
     },
     {
-      "id": "510222258e510deddc6b64d3915850d40b92f9e6",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-hotel-room-release-world-cup-2026-9.7146146?cmp=rss",
-      "title": "FIFA releases thousands of Vancouver hotel rooms ahead of 2026 World Cup, but prices may not drop",
-      "published_at": "2026-03-28T18:43:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thousands of hotel rooms have been released back into Vancouver’s inventory ahead of the 2026 FIFA World Cup, but those working in the tourism industry say visitors shouldn’t expect prices to drop.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.11,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "e15f2fcaeab57c8a164c556d5e5f2aea3659f687",
       "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/mikael-kingsbury-retirement-freestyle-ski-march28-9.7146142?cmp=rss",
       "title": "Moguls great Kingsbury gets high praise as career comes to a close in Quebec",
@@ -121,93 +186,15 @@
       }
     },
     {
-      "id": "f05d0b37b093b1788d8ea233f7ab454821b155f3",
-      "url": "https://www.cbc.ca/news/canada/calgary/banff-grizzly-the-boss-9.7146083?cmp=rss",
-      "title": "Legendary Banff grizzly 'The Boss' awakens as Alberta bears begin to emerge",
-      "published_at": "2026-03-28T15:54:52-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The awakening of Banff National Park's most iconic grizzly heralds the return of bears to the Alberta landscape. Parks Canada calls him Bear 122, but he's better known to most in Alberta — and across Canada — as The Boss.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.593,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8cdec7122ce4ac1594c29c587fb6d3b2a3a00b96",
       "url": "https://www.cbc.ca/news/entertainment/mark-carney-juno-awards-attend-9.7146080?cmp=rss",
       "title": "Carney plans to attend Sunday's Juno Awards in Hamilton",
       "published_at": "2026-03-28T14:37:37-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "The prime minister will make his Junos debut at Hamilton's TD Coliseum on Sunday evening.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4df7cad10b01ed89ca988f5188d9b8c496881cc6",
-      "url": "https://www.cbc.ca/news/canada/toronto/anti-doug-ford-rally-toronto-9.7146045?cmp=rss",
-      "title": "Large crowd gathers outside Queen’s Park for anti-Ford rally",
-      "published_at": "2026-03-28T13:58:13-04:00",
-      "section": "Canada",
-      "summary_auto": "A large crowd gathered outside Queen’s Park in Toronto Saturday for a rally against Ontario Premier Doug Ford to protest a flood of recent announcements from the provincial government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "662be7feb51180ed260f61bc5558a13ff85a8432",
-      "url": "https://www.cbc.ca/player/play/9.7145943?cmp=rss",
-      "title": "How a slow start to spring is affecting maple syrup production in Quebec",
-      "published_at": "2026-03-28T11:56:26-04:00",
-      "section": "Canada",
-      "summary_auto": "An ideal sugaring-off season usually runs from late February to late April in Quebec but with the cold, wintry weather lingering, maple syrup production has been affected. Producers, however, are still hopeful they’ll hit a sweet spot and have a good 2026 season",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.927,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d37a787ebed4bfe021abaf5e08dbb1e8bb309c8e",
-      "url": "https://www.cbc.ca/sports/soccer/canada-iceland-men-soccer-friendly-9.7145959?cmp=rss",
-      "title": "David scores twice from penalty spot as Canada battles back to tie Iceland in World Cup tune-up",
-      "published_at": "2026-03-28T11:48:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In one of their last friendlies before they co-host the biggest sporting event on Earth, Canada’s men's soccer team stumbled to a 2-2 draw against Iceland, the 75th-ranked side in the world, leaving head coach Jesse Marsch’s gaze at times as cold as the freezing temperatures.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "136e4b63d8d22a7a538855c66730f76fad6974c0",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-firewall-letter-25-years-later-9.7145406?cmp=rss",
-      "title": "25 years later, how the ‘Alberta firewall’ letter reflects today’s political landscape",
-      "published_at": "2026-03-28T10:46:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When six prominent Albertans penned an open letter to then-premier Ralph Klein in 2001, many viewed the suggestions it called for as extreme. But a quarter century later, as Albertans ready for a potential referendum vote on their future in the country, the letter has a renewed relevance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "259e83fbe377b22cbe64ee9d320c5d38021e8fab",
-      "url": "https://www.cbc.ca/news/world/no-kings-protest-u-s-trump-9.7145895?cmp=rss",
-      "title": "Anger over Iran war adds fuel to anti-Trump 'No Kings' protests across U.S.",
-      "published_at": "2026-03-28T10:34:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
         "subjectivity_hint": "low"
       }
     }
