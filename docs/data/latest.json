@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-29T08:40:39.858424-04:00",
+  "generated_at": "2026-03-29T10:28:43.557220-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "6ee4fa2e0264d2d4333680d81c5d8267c36594ee",
+      "url": "https://www.cbc.ca/news/world/north-korea-missile-test-9.7146183?cmp=rss",
+      "title": "North Korea conducts engine test for missile capable of targeting U.S.",
+      "published_at": "2026-03-29T05:34:58-04:00",
+      "section": "World",
+      "summary_auto": "North Korean leader Kim Jong-un observed a test of a high-thrust, solid-fuel engine and hailed it as a development to boost the country's strategic military capability, state media reported Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "434f6c5bbb272f481c25d6a94c5d6d69d995d477",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/oxford-bluberry-producer-mislabelled-product-country-of-origin-9.7145011?cmp=rss",
@@ -14,6 +27,19 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5100b41d2948869b2817e280ebf25373c870929d",
+      "url": "https://www.cbc.ca/news/canada/first-person-canada-health-care-9.7136845?cmp=rss",
+      "title": "I've lived in 3 provinces. Canada's health care is anything but universal",
+      "published_at": "2026-03-29T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Shannon Flaman has lived in Saskatchewan, B.C. and Alberta. Her experiences in emergency rooms and finding family doctors have changed the way she sees the country's health care.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -30,15 +56,15 @@
       }
     },
     {
-      "id": "5100b41d2948869b2817e280ebf25373c870929d",
-      "url": "https://www.cbc.ca/news/canada/first-person-canada-health-care-9.7136845?cmp=rss",
-      "title": "I've lived in 3 provinces. Canada's health care is anything but universal",
+      "id": "39973f597ec3c1c284b6a856bd5d07eb7137d02d",
+      "url": "https://www.cbc.ca/news/world/armenia-azerbaijan-iran-war-9.7142936?cmp=rss",
+      "title": "Amid Iran conflict, combative neighbours Armenia and Azerbaijan try to stay above the fray",
       "published_at": "2026-03-29T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Shannon Flaman has lived in Saskatchewan, B.C. and Alberta. Her experiences in emergency rooms and finding family doctors have changed the way she sees the country's health care.",
+      "summary_auto": "Armenia and Azerbaijan, both of which border Iran to its north, have seen their fair share of conflict. The current war around Iran has drawn in Arab Gulf states — and these two neighbours may not be able to avoid becoming involved, too.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.459,
+        "sentiment": -0.735,
         "subjectivity_hint": "medium"
       }
     },
