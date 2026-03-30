@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-30T09:05:04.070440-04:00",
+  "generated_at": "2026-03-30T10:58:19.513849-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "b5566ed56e3c1638d2b352eddcd19144435e9324",
+      "url": "https://www.cbc.ca/news/canada/edmonton/maid-is-not-death-on-demand-physicians-decry-proposed-alberta-assistance-in-dying-bill-9.7146023?cmp=rss",
+      "title": "'MAID is not death on demand': Physicians decry proposed Alberta assistance in dying bill",
+      "published_at": "2026-03-30T06:30:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.545,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c2f7e722583d436b9913c4c9e1899299d0787793",
+      "url": "https://www.cbc.ca/news/politics/champagne-china-visit-9.7146982?cmp=rss",
+      "title": "Finance minister to visit China later this week",
+      "published_at": "2026-03-30T05:57:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Finance Minister François-Philippe Champagne is visiting China later this week, a spokesperson in his office confirmed Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef882262d6ccef0ba68a947911bdc13b4c7a2402",
+      "url": "https://www.cbc.ca/news/world/humpback-whale-stuck-again-9.7146929?cmp=rss",
+      "title": "The humpback whale rescued last week in the shallow Baltic Sea? It's stuck again",
+      "published_at": "2026-03-30T05:37:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A humpback whale that was freed after becoming stuck for several days in shallow water at a Baltic Sea resort in Germany was stranded again on Saturday after failing to find its way back to the Atlantic Ocean.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "316391e4711a8a374f2cc4db720906a32e3d76cd",
+      "url": "https://www.cbc.ca/news/world/renoir-cezanne-matisse-italian-private-museum-theft-9.7146943?cmp=rss",
+      "title": "Thieves steal Renoir, Cézanne, Matisse works in 3-minute Italian museum raid",
+      "published_at": "2026-03-30T05:33:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thieves made off with three paintings by Renoir, Cézanne and Matisse worth millions of euros from a museum near the city of Parma in northern Italy, police said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "4e57391a500b5bce1fddf28964c650a8c99bed70",
       "url": "https://www.cbc.ca/news/business/air-canada-ceo-michael-rousseau-retires-9.7146886?cmp=rss",
@@ -27,6 +79,19 @@
         "article_type": "News",
         "sentiment": -0.914,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "68b1f88ec0f024cc9ee412950e23a711217ee9f9",
+      "url": "https://www.cbc.ca/news/canada/calgary/grifols-plasma-clinic-health-canada-9.7145009?cmp=rss",
+      "title": "Calgary for-profit plasma clinic rated 'non-compliant' during Health Canada inspection",
+      "published_at": "2026-03-30T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A Calgary private plasma collection centre was designated as “non-compliant” by Health Canada in December for violating rules regulating the country’s blood supply. The revelation is sparking new questions about safety.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -79,6 +144,19 @@
         "article_type": "News",
         "sentiment": -0.239,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3c64b0d63ec56f3f69b04bbf16254b861a29d470",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-potatoes-glp-1-drugs-9.7144247?cmp=rss",
+      "title": "GLP-1 drugs, changing eating habits could have consequences for P.E.I.'s potato industry",
+      "published_at": "2026-03-30T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "P.E.I. potato farmers are facing a new challenge as they get ready to plant their crop for 2026. Experts say the food industry is being reshaped by the growing number of people taking GLP-1 drugs, changing how Canadians, eat, drink and shop — including their consumption of potatoes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -229,7 +307,7 @@
       "url": "https://www.cbc.ca/player/play/9.7146565?cmp=rss",
       "title": "Mogul skiing star Mikaël Kingsbury closes out career with final victory on home turf",
       "published_at": "2026-03-29T14:12:58-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Mikaël Kingsbury’s last run in competition took place on his home mountain of Saint-Sauveur, Que. The moguls star might be retiring from the sport, but for some, he is a living legend who has inspired a new generation of freestyle skiers.",
       "bias_heuristic": {
         "article_type": "News",
@@ -273,58 +351,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.477,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a54ad47d17fd98bfc10d95d7b6e9eb288d39b8d3",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-fourth-title-ncaa-championships-swimming-100-yard-freestyle-9.7146496?cmp=rss",
-      "title": "Canada's Josh Liendo wins record-tying 4th straight NCAA swimming title in 100-yard freestyle",
-      "published_at": "2026-03-29T11:30:46-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian Olympian Josh Liendo capped an historic week of swimming at the NCAA championships on Saturday in Atlanta, posting a wire-to-wire victory in the 100-yard freestyle for a record-tying fourth consecutive title in the event and ninth overall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.881,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "df17930f6ff966110eedeca221e4403fcc9f377d",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-ndp-letter-carla-beck-avi-lewis-federal-9.7146488?cmp=rss",
-      "title": "Sask. and federal NDP clash over stance on fossil fuels in open letter",
-      "published_at": "2026-03-29T10:41:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Saskatchewan NDP Leader Carla Beck has slammed newly-elected federal NDP leader Avi Lewis over his stance on fossil fuels projects.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "206dd287b34def4ddeae5d16b2f74232af11bc9a",
-      "url": "https://www.cbc.ca/news/canada/montreal/rita-hassan-far-left-politician-refused-entry-canada-9.7146419?cmp=rss",
-      "title": "Pro-Palestine European Parliament member Rima Hassan says she was denied entry to Canada",
-      "published_at": "2026-03-29T09:42:43-04:00",
-      "section": "Canada",
-      "summary_auto": "A French-Palestinian member of the European Parliament says she was denied entry into Canada only days before she was scheduled to participate in conferences in Montreal. Rima Hassan wrote online that she was \"prevented\" from coming to Canada in what she described as an attempt at censorship.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f544601160e6079d82fab7519a37351580bb63b7",
-      "url": "https://www.cbc.ca/news/canada/calgary/white-nose-syndrome-bats-alberta-9.7144601?cmp=rss",
-      "title": "Lethal bat disease detected in Alberta's Rocky Mountains for first time",
-      "published_at": "2026-03-29T09:12:30-04:00",
-      "section": "Canada",
-      "summary_auto": "White-nose syndrome, a deadly disease that has decimated bat populations across North America in recent years, has been detected in the Rocky Mountains of Alberta for the first time, marking a significant spread since it was first confirmed to be in the province two years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
         "subjectivity_hint": "medium"
       }
     }
