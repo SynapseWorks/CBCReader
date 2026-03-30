@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-30T10:58:19.513849-04:00",
+  "generated_at": "2026-03-30T14:52:27.381539-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "42f225aa61233e51543a46597cccda2207d3a033",
+      "url": "https://www.cbc.ca/news/politics/china-forced-labour-carney-9.7147113?cmp=rss",
+      "title": "Carney defends Canada's approach to forced labour amid fallout from floor-crossing MP's comments",
+      "published_at": "2026-03-30T10:40:12-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "efd2106f19f16d1b3f0b529de4147e8f457b3ec7",
+      "url": "https://www.cbc.ca/news/health/heart-brain-health-9.7147367?cmp=rss",
+      "title": "Brain and heart health are tied together. Here are 5 ways to control both",
+      "published_at": "2026-03-30T10:04:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pay attention to the link between heart and brain health, new Canadian recommendations say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b018dc754a7a8b0591180e640e56f4e81518b8b",
+      "url": "https://www.cbc.ca/news/canada/hamilton/train-derailment-st-catharines-9.7147379?cmp=rss",
+      "title": "Train derails in St. Catharines, Ont., CN Railway investigating",
+      "published_at": "2026-03-30T09:57:45-04:00",
+      "section": "Canada",
+      "summary_auto": "CN Railway is investigating a train derailment in St. Catharines, Ont. The derailment was reported by police Monday morning, near Glendale Avenue and Keele Street.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "97fe732cae719363a96e25c5a5d8e3767a5da672",
+      "url": "https://www.cbc.ca/news/canada/toronto/rcmp-cannabis-charges-pearson-airport-9.7147363?cmp=rss",
+      "title": "Air Canada employee charged after alleged weed smuggling scheme using passenger luggage tags",
+      "published_at": "2026-03-30T09:38:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The RCMP says an Air Canada employee is facing charges after allegedly trying to export more than 60 kilograms of cannabis out of a Toronto airport by using suitcases tagged with the names of two unsuspecting passengers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "20bd7bfdf0ba099decbbd5f4b11e96bec57c70fd",
+      "url": "https://www.cbc.ca/news/canada/manitoba/northern-manitoba-saskatchewan-health-care-regional-9.7147308?cmp=rss",
+      "title": "Northern Manitoba, Sask. communities working to resolve cross-border health-care issues",
+      "published_at": "2026-03-30T09:37:04-04:00",
+      "section": "Health",
+      "summary_auto": "People in and around Flin Flon have started a health care committee to improve regional care. Saskatchewan residents use the hospital in the northern Manitoba community, but sometimes have trouble accessing care.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.772,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "b5566ed56e3c1638d2b352eddcd19144435e9324",
       "url": "https://www.cbc.ca/news/canada/edmonton/maid-is-not-death-on-demand-physicians-decry-proposed-alberta-assistance-in-dying-bill-9.7146023?cmp=rss",
@@ -26,6 +91,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a6d72e62996070b05f60534dec6250695828e22",
+      "url": "https://www.cbc.ca/news/canada/toronto/carney-ford-chow-news-conference-9.7146922?cmp=rss",
+      "title": "Ford, Carney announce $8.8B to help cut development charges, spur housing builds in Ontario",
+      "published_at": "2026-03-30T05:40:24-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal and provincial governments will each spend $4.4 billion on housing-related infrastructure over the next 10 years. The majority of the funding is intended to help cover those infrastructure costs for municipalities that lower development charges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "708f4af8acb8cd2be4ed7c82cd88433c61cd40fd",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/first-light-indigenous-incarceration-9.7145197?cmp=rss",
+      "title": "Indigenous people 8 times more likely to be incarcerated than others in N.L., says study",
+      "published_at": "2026-03-30T05:40:20-04:00",
+      "section": "Canada",
+      "summary_auto": "A new study carried out by First Light indicates Indigenous people in Newfoundland and Labrador are incarcerated at a rate eight times higher than their non-Indigenous counterparts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -69,15 +160,41 @@
       }
     },
     {
+      "id": "43caabd6041c14cce646fc98effa37db29eb439a",
+      "url": "https://www.cbc.ca/news/canada/montreal/transgender-surgery-delays-quebec-9.7146840?cmp=rss",
+      "title": "Transgender Quebecers face surgery delays, out-of-province patients get faster care",
+      "published_at": "2026-03-30T04:31:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "GrS Montreal, the sole clinic in Quebec offering fully subsidized gender-affirming surgeries, recently announced that a change in provincial funding will delay wait times — possibly by years — but only for Quebec patients.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.115,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "a8e95764d81fa164ed29cbc583392005ee187002",
       "url": "https://www.cbc.ca/news/world/south-sudan-gold-mine-9.7146842?cmp=rss",
       "title": "Over 70 killed in South Sudan in dispute over gold mine",
       "published_at": "2026-03-30T04:02:41-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Gunmen killed more than 70 people in South Sudan over a gold mining row on the outskirts of the capital over the weekend, a police spokesperson confirmed on Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.914,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "14b01107f031f3803c56197e035e26f23c71ede3",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/experts-say-more-prevention-needed-before-wicked-wildfire-season-9.7145426?cmp=rss",
+      "title": "Sask. could face another wicked fire season as experts call for more prevention",
+      "published_at": "2026-03-30T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Experts say Saskatchewan could face a severe wildfire season similar to last year, driven by dry conditions, low soil moisture and unusually hot weather. Some warn the province isn't prepared to handle what is now the new normal for the season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.89,
         "subjectivity_hint": "medium"
       }
     },
@@ -97,7 +214,7 @@
     {
       "id": "c6223e13d7713a0b85d5e065ed1a3901ec0122c5",
       "url": "https://www.cbc.ca/player/play/9.7146604?cmp=rss",
-      "title": "How some Quebec companies are making the leap towards digital sovereignty",
+      "title": "How some Quebec companies are making the leap toward digital sovereignty",
       "published_at": "2026-03-30T02:33:37-04:00",
       "section": "Canada",
       "summary_auto": "More and more Quebec companies want to offer alternatives to U.S. tech giants. With increasing geopolitical tensions, some believe the time is right for Quebecers to give digital sovereignty a chance.",
@@ -117,19 +234,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.689,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7709d7af36db3844bcccb8aaf47f47926ef765bb",
-      "url": "https://www.cbc.ca/radio/frontburner/is-trump-rigging-the-markets-9.7146502?cmp=rss",
-      "title": "Is Trump rigging the markets?",
-      "published_at": "2026-03-30T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A look at allegations of market manipulation and insider trading around Trump’s conduct of the war in Iran and other major White House moves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
         "subjectivity_hint": "low"
       }
     },
@@ -160,45 +264,6 @@
       }
     },
     {
-      "id": "d9fe35e36302507066098496e8e63b3f266f70e4",
-      "url": "https://www.cbc.ca/news/canada/toronto/autism-services-funding-ontario-9.7143531?cmp=rss",
-      "title": "More than 67,500 Ontario kids waiting for core autism funding as demand grows",
-      "published_at": "2026-03-30T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite increases to provincial funding in recent years, the percentage of children with autism registered with the Ontario Autism Program and receiving funding had yet to crack 25 per cent as of early this year — as demand for the funding continues to grow.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9501bd2c9e3e5f8fd549ed742f3247cfda1a0bde",
-      "url": "https://www.cbc.ca/news/canada/ottawa/dad-speaks-out-after-teen-ordered-banned-testosterone-booster-online-9.7141609?cmp=rss",
-      "title": "Dad speaks out after teen ordered banned testosterone booster online",
-      "published_at": "2026-03-30T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An Ottawa father says he was shocked to discover that his teenage son had ordered banned pharmaceuticals from the internet, and is warning others about websites that he says are putting kids at risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7223a7ad53402e679242f62807f5bd2c81ae4b62",
-      "url": "https://www.cbc.ca/news/canada/montreal/coroner-accidental-death-angelina-geraldi-9.7143507?cmp=rss",
-      "title": "Quebec coroner finds senior’s death accidental, but care home employee reported for negligence",
-      "published_at": "2026-03-30T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Quebec coroner has concluded that the death of a 97-year-old woman at CHSLD LaSalle in 2024 was accidental. But in her report, the coroner raised questions about why the employee on duty at the time didn't report the fall or follow established protocol.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "ffc1c380a87be962157f59be52ca0fae45849365",
       "url": "https://www.cbc.ca/news/politics/canada-immigration-reform-law-9.7145624?cmp=rss",
       "title": "A major immigration reform bill is now law in Canada.  Some worry it rolls back refugee rights",
@@ -212,15 +277,15 @@
       }
     },
     {
-      "id": "f063cbc12e45166921e22e46b0c9b0384de6ed5e",
-      "url": "https://www.cbc.ca/news/world/cuba-light-future-9.7145447?cmp=rss",
-      "title": "'Light also exists': Some Cubans see hope in the darkness of the moment",
+      "id": "d9fe35e36302507066098496e8e63b3f266f70e4",
+      "url": "https://www.cbc.ca/news/canada/toronto/autism-services-funding-ontario-9.7143531?cmp=rss",
+      "title": "More than 67,500 Ontario kids waiting for core autism funding as demand grows",
       "published_at": "2026-03-30T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The U.S. oil blockade has pushed Cuba into a third month of energy crisis, deepening daily hardship in a country already strained by crumbling infrastructure. But amid the darkness, some Cubans still see hope for a better future.",
+      "summary_auto": "Despite increases to provincial funding in recent years, the percentage of children with autism registered with the Ontario Autism Program and receiving funding had yet to crack 25 per cent as of early this year — as demand for the funding continues to grow.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.485,
+        "sentiment": -0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -238,6 +303,19 @@
       }
     },
     {
+      "id": "7223a7ad53402e679242f62807f5bd2c81ae4b62",
+      "url": "https://www.cbc.ca/news/canada/montreal/coroner-accidental-death-angelina-geraldi-9.7143507?cmp=rss",
+      "title": "Quebec coroner finds senior’s death accidental, but care home employee reported for negligence",
+      "published_at": "2026-03-30T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A Quebec coroner has concluded that the death of a 97-year-old woman at CHSLD LaSalle in 2024 was accidental. But in her report, the coroner raised questions about why the employee on duty at the time didn't report the fall or follow established protocol.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "e07f44573f85ea52bd0830d11f5cc9f6299c3bcf",
       "url": "https://www.cbc.ca/news/gopublic/westjet-passenger-flights-cancelled-9.7143680?cmp=rss",
       "title": "WestJet told passengers flights were cancelled for safety. Records suggest otherwise",
@@ -247,6 +325,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.502,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f063cbc12e45166921e22e46b0c9b0384de6ed5e",
+      "url": "https://www.cbc.ca/news/world/cuba-light-future-9.7145447?cmp=rss",
+      "title": "'Light also exists': Some Cubans see hope in the darkness of the moment",
+      "published_at": "2026-03-30T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "The U.S. oil blockade has pushed Cuba into a third month of energy crisis, deepening daily hardship in a country already strained by crumbling infrastructure. But amid the darkness, some Cubans still see hope for a better future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.485,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9501bd2c9e3e5f8fd549ed742f3247cfda1a0bde",
+      "url": "https://www.cbc.ca/news/canada/ottawa/dad-speaks-out-after-teen-ordered-banned-testosterone-booster-online-9.7141609?cmp=rss",
+      "title": "Dad speaks out after teen ordered banned testosterone booster online",
+      "published_at": "2026-03-30T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "An Ottawa father says he was shocked to discover that his teenage son had ordered banned pharmaceuticals from the internet, and is warning others about websites that he says are putting kids at risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
         "subjectivity_hint": "low"
       }
     },
@@ -264,32 +368,6 @@
       }
     },
     {
-      "id": "4b2e00123401f8053b80a2c1f2a48d62506b3899",
-      "url": "https://www.cbc.ca/player/play/9.7146724?cmp=rss",
-      "title": "#TheMoment a father and son caught the Jays' 1st home run ball of the season",
-      "published_at": "2026-03-29T18:13:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Charlie Kramer and his parents, Maya and Richard Kramer, tell The National about the moment they caught the Toronto Blue Jays' first home run ball of the 2026 season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "70c18d08813bcfb4b246e6cd9e6251c2bcf7ec88",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-woman-detained-in-texas-detention-centre-for-2-weeks-9.7146589?cmp=rss",
-      "title": "Detained B.C. mother describes ‘terrifying’ conditions in Texas immigration facility",
-      "published_at": "2026-03-29T18:08:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A B.C. mother detained with her seven-year-old at an immigration holding facility in Texas is warning others about the risks of navigating the U.S. immigration system under the current administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a2d5440d869cdc166879b9d03ff45306e40f76bb",
       "url": "https://www.cbc.ca/news/entertainment/junos-2026-winners-list-9.7146579?cmp=rss",
       "title": "Junos 2026: All the weekend's winners",
@@ -300,58 +378,6 @@
         "article_type": "News",
         "sentiment": 0.832,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ebd3b6d0c1143c5e9f62b76fd965d673b272f06",
-      "url": "https://www.cbc.ca/player/play/9.7146565?cmp=rss",
-      "title": "Mogul skiing star Mikaël Kingsbury closes out career with final victory on home turf",
-      "published_at": "2026-03-29T14:12:58-04:00",
-      "section": "Canada",
-      "summary_auto": "Mikaël Kingsbury’s last run in competition took place on his home mountain of Saint-Sauveur, Que. The moguls star might be retiring from the sport, but for some, he is a living legend who has inspired a new generation of freestyle skiers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.747,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8b8e5b1e448efa93776c296d4b1f7957236a6a87",
-      "url": "https://www.cbc.ca/music/livestory/juno-awards-2026-9.7145812?cmp=rss",
-      "title": "Junos 2026: Joni Mitchell, Rush make Junos history, the Beaches take home record-breaking win",
-      "published_at": "2026-03-29T14:00:35-04:00",
-      "section": "Entertainment",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad0465f22df5356c737222a7d35ff17b5f65b69d",
-      "url": "https://www.cbc.ca/life/style/juno-awards-carpet-fashion-2026-9.7146487?cmp=rss",
-      "title": "Must-see looks from the 2026 Juno Awards carpet",
-      "published_at": "2026-03-29T13:31:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Nelly Furtado, Raf-Saperra, Tia Wood and more make bold style statements.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.847,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f65e004226f685a3ae74525b375e39933f6eb33e",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-gilles-arsenault-removal-cabinet-9.7146523?cmp=rss",
-      "title": "P.E.I. cabinet minister's removal tied to allegations around $100K donation made by private developer",
-      "published_at": "2026-03-29T12:49:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Premier Rob Lantz removed a senior member of his inner circle over a legal opinion detailing how a $100,000 donation from a private developer was allegedly made to a group in his district.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "medium"
       }
     }
   ]
