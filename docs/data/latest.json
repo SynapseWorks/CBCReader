@@ -1,18 +1,44 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-31T09:03:10.329738-04:00",
+  "generated_at": "2026-03-31T10:56:20.014673-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "13748cdb578834b8864d61e6692dfece66ada1b4",
+      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sexual-assault-trial-9.7148191?cmp=rss",
+      "title": "Closing submissions begin in Frank Stronach sexual assault trial",
+      "published_at": "2026-03-31T06:40:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Closing submissions have begun in the sexual assault trial of Canadian businessman Frank Stronach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9411d913cd9e22774fffa4bb0b02902aec198451",
+      "url": "https://www.cbc.ca/sports/soccer/fifa-world-cup-european-playoffs-italy-bosnia-9.7148245?cmp=rss",
+      "title": "Who will Canada play first at this summer's FIFA World Cup? We find out today",
+      "published_at": "2026-03-31T05:14:33-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada will learn today which country it will face to open the FIFA World Cup on June 12. The winner of today's playoff game between Italy and Bosnia and Herzegovina will join Canada, Qatar and Switzerland in Group B at the tournament.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "f82b07c558a3159a59c66b5be969e43bd82be937",
       "url": "https://www.cbc.ca/news/business/canada-gdp-january-2026-9.7148199?cmp=rss",
-      "title": "Canada's economy saw slight growth in January",
+      "title": "Canada's economy saw slight growth in January with gains in mining, oil and gas",
       "published_at": "2026-03-31T04:36:49-04:00",
       "section": "Top Stories",
       "summary_auto": "Canada's economy saw slight growth in January, as gains in goods-producing industries like mining offset a slowdown in manufacturing, Statistics Canada said on Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.818,
+        "sentiment": 0.872,
         "subjectivity_hint": "low"
       }
     },
@@ -53,6 +79,19 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5418cfd6fc50ff4b477b891bbce5ac46218acb4a",
+      "url": "https://www.cbc.ca/news/canada/manitoba/kinew-important-manitoba-government-moves-9.7148030?cmp=rss",
+      "title": "The premier called a gas-tax holiday 'the most important thing' Manitoba's ever done. Now, he's being called out",
+      "published_at": "2026-03-31T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Premier Wab Kinew says his government's gas tax holiday was the most important thing a Manitoba government has ever done. In 2024, Kinew's NDP government suspended the 14 cents per litre gas tax for an entire year, a move that cost the province $340 million in tax revenue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.669,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -97,13 +136,26 @@
     {
       "id": "7205505b65d13164598ef2549e3fa67796655927",
       "url": "https://www.cbc.ca/news/world/iran-u-s-conflict-9.7148111?cmp=rss",
-      "title": "U.S. strikes city home to Iranian nuclear site, Netanyahu says Israel 'beyond halfway point' in its mission",
+      "title": "U.S. strikes city home to Iranian nuclear site, Trump urges allies to help in Strait of Hormuz",
       "published_at": "2026-03-31T00:50:05-04:00",
       "section": "Top Stories",
       "summary_auto": "The United States hit the central Iranian city of Isfahan early Tuesday, sending a massive fireball into the sky, and Tehran struck a fully loaded Kuwaiti oil tanker in the Persian Gulf.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.178,
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "04b2ddc0224fd3470394f63f4f831beaa2f8f33b",
+      "url": "https://www.cbc.ca/news/canada/ottawa/public-servant-says-she-s-collateral-damage-as-government-prepares-to-test-new-pay-system-9.7146893?cmp=rss",
+      "title": "Public servant says she's 'collateral damage' as government prepares to test new pay system",
+      "published_at": "2026-03-31T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A longtime federal public servant says she’s become \"collateral damage\" as her department clears its backlog of Phoenix payroll issues so it can test replacement software — and in doing so introduced an error to her file, refused to fix it and is now clawing back hundreds of dollars per paycheque.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.892,
         "subjectivity_hint": "low"
       }
     },
@@ -121,6 +173,19 @@
       }
     },
     {
+      "id": "24f3d55887d362f5bb9792ac28a5731957928ba8",
+      "url": "https://www.cbc.ca/radio/thecurrent/seniors-screentime-9.7144850?cmp=rss",
+      "title": "Have seniors become the new screenagers?",
+      "published_at": "2026-03-31T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Sherry Bagnato isn’t a millennial or a screenager. She’s a 67-year-old retired Toronto mother of two, and her phone habits have flipped the script at home. Now, she admits, it’s her adult children telling her to put the device down.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "bb4be12ab620ef5af69b7300c8dab2fdfcc65c5d",
       "url": "https://www.cbc.ca/news/gopublic/cta-lowers-air-passenger-complaints-fee-9.7148051?cmp=rss",
       "title": "CTA to lower air passenger complaints fee after pressure from airlines, transport minister, documents show",
@@ -130,19 +195,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "04b2ddc0224fd3470394f63f4f831beaa2f8f33b",
-      "url": "https://www.cbc.ca/news/canada/ottawa/public-servant-says-she-s-collateral-damage-as-government-prepares-to-test-new-pay-system-9.7146893?cmp=rss",
-      "title": "Public servant says she's 'collateral damage' as government prepares to test new pay system",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A longtime federal public servant says she’s become \"collateral damage\" as her department clears its backlog of Phoenix payroll issues so it can test replacement software — and in doing so introduced an error to her file, refused to fix it and is now clawing back hundreds of dollars per paycheque.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.892,
         "subjectivity_hint": "low"
       }
     },
@@ -169,6 +221,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4c5b66df663289bee92d8a413bf551078acd100",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-heather-winterstein-inquest-day-one-9.7147670?cmp=rss",
+      "title": "Inquest begins into death of 24-year-old Indigenous woman who died at Niagara, Ont., hospital",
+      "published_at": "2026-03-31T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A long-awaited coroner's inquest into the 2021 death of Heather Winterstein at a hospital in St. Catharines, Ont., got underway on Monday, with Winterstein's mother telling the five-person jury about the torment she feels over her daughter's death.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.946,
         "subjectivity_hint": "low"
       }
     },
@@ -212,24 +277,11 @@
       }
     },
     {
-      "id": "c0e49532ccc4c58b7856a0cd4c3a029a58e9a777",
-      "url": "https://www.cbc.ca/player/play/9.7148059?cmp=rss",
-      "title": "#TheMoment Banff's famous grizzly 'The Boss' came out of hibernation",
-      "published_at": "2026-03-30T18:06:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Wildlife photographer Jason Leo Bantle tells The National about the moment Banff National Park's famous grizzly bear, 'The Boss,' came out of hibernation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e82362efcd60e8335f4010803d49a09be635aee2",
       "url": "https://www.cbc.ca/news/canada/toronto/tornto-maple-leafs-brad-treliving-9.7148016?cmp=rss",
       "title": "Toronto Maple Leafs fire general manager Brad Treliving",
       "published_at": "2026-03-30T17:05:56-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Maple Leaf Sports and Entertainment have decided to part ways with Toronto Maple Leafs General Manager Brad Treliving.",
       "bias_heuristic": {
         "article_type": "News",
@@ -243,10 +295,10 @@
       "title": "Alberta pushing for constitutional change to give provinces say over appointment of judges",
       "published_at": "2026-03-30T15:51:08-04:00",
       "section": "Canada",
-      "summary_auto": "Alberta's government is calling on Ottawa to change the Constitution to give provinces more of a say in how judges are appointed at the provincial level.",
+      "summary_auto": "Alberta's government is calling on Ottawa to change the Constitution to give provinces more of a say in how federal superior court judges are appointed at the provincial level.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -255,7 +307,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/sooke-teenager-school-shooting-threats-9.7147872?cmp=rss",
       "title": "B.C. youth charged after chats with U.S. teen who allegedly made school shooting threats: police",
       "published_at": "2026-03-30T15:48:35-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A Sooke, B.C., youth has been arrested and charged after online chats with a U.S. teenager who allegedly made school shooting threats, RCMP say.",
       "bias_heuristic": {
         "article_type": "News",
@@ -299,6 +351,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77db4c975c87da36e822728d1f46febfc7520ebe",
+      "url": "https://www.cbc.ca/player/play/9.7147749?cmp=rss",
+      "title": "P.E.I. will lower colorectal cancer screening age to 45",
+      "published_at": "2026-03-30T13:46:39-04:00",
+      "section": "Health",
+      "summary_auto": "P.E.I. is lowering the screening age for colorectal cancer from 50 to 45, and it’s the first province in the country to do so. Colorectal cancer is on the rise in younger people, so officials say lowering the screening age is a big deal. CBC’s Connor Lamont reports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.962,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "af2e0cb8d04153bf9570fcb1848e8ce12b97aa80",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-animal-protection-bill-22-9.7147724?cmp=rss",
+      "title": "Alberta aims to improve animal safety with tougher penalties, more oversight",
+      "published_at": "2026-03-30T13:42:37-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "The Alberta government is revamping laws tied to the well-being of animals through the Animal Protection Amendment Act.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
         "subjectivity_hint": "low"
       }
     },
@@ -381,19 +459,6 @@
       }
     },
     {
-      "id": "73de9c864e91ab81cf27264adb242a67f6f6059f",
-      "url": "https://www.cbc.ca/news/politics/child-welfare-ontario-first-nations-9.7147549?cmp=rss",
-      "title": "Human rights tribunal approves $8.5B child welfare deal for Ontario First Nations",
-      "published_at": "2026-03-30T11:53:15-04:00",
-      "section": "Canada",
-      "summary_auto": "The Canadian Human Rights Tribunal has approved a landmark First Nations child welfare deal between the federal government and First Nations in Ontario, partially ending a decades-long discrimination case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "45261ea5f24de143b05978d00ca1631ff1b3a78f",
       "url": "https://www.cbc.ca/news/canada/hamilton/robert-land-investigation-9.7147243?cmp=rss",
       "title": "Robert Land Academy, now-shut private school in Ontario, under police investigation for alleged child abuse",
@@ -443,71 +508,6 @@
         "article_type": "News",
         "sentiment": 0.867,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "cae42eff2d5d2d49187d351c5f5ca736a3a2e000",
-      "url": "https://www.cbc.ca/news/world/israel-death-penalty-law-palestinian-9.7147421?cmp=rss",
-      "title": "Israeli parliament approves the death penalty for Palestinians convicted of murdering Israelis",
-      "published_at": "2026-03-30T10:52:54-04:00",
-      "section": "World",
-      "summary_auto": "The bill's passage marked the culmination of a years-long push by Israel's far-right to escalate punishment for Palestinians convicted of nationalistic offenses against Israelis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.935,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "42f225aa61233e51543a46597cccda2207d3a033",
-      "url": "https://www.cbc.ca/news/politics/china-forced-labour-carney-9.7147113?cmp=rss",
-      "title": "Carney defends Canada's approach to forced labour amid fallout from floor-crossing MP's comments",
-      "published_at": "2026-03-30T10:40:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "efd2106f19f16d1b3f0b529de4147e8f457b3ec7",
-      "url": "https://www.cbc.ca/news/health/heart-brain-health-9.7147367?cmp=rss",
-      "title": "What impacts your heart health can also raise dementia risk, new Canadian guidelines say",
-      "published_at": "2026-03-30T10:04:04-04:00",
-      "section": "Canada",
-      "summary_auto": "Pay attention to the link between heart and brain health, new Canadian recommendations say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "efd2106f19f16d1b3f0b529de4147e8f457b3ec7",
-      "url": "https://www.cbc.ca/news/health/heart-brain-health-9.7147367?cmp=rss",
-      "title": "Brain and heart health are tied together. Here are 5 ways to control both",
-      "published_at": "2026-03-30T10:04:04-04:00",
-      "section": "Health",
-      "summary_auto": "Pay attention to the link between heart and brain health, new Canadian recommendations say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "20bd7bfdf0ba099decbbd5f4b11e96bec57c70fd",
-      "url": "https://www.cbc.ca/news/canada/manitoba/northern-manitoba-saskatchewan-health-care-regional-9.7147308?cmp=rss",
-      "title": "Northern Manitoba, Sask. communities working to resolve cross-border health-care issues",
-      "published_at": "2026-03-30T09:37:04-04:00",
-      "section": "Health",
-      "summary_auto": "People in and around Flin Flon have started a health care committee to improve regional care. Saskatchewan residents use the hospital in the northern Manitoba community, but sometimes have trouble accessing care.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
       }
     }
   ]
