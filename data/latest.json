@@ -1,41 +1,67 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-03-31T14:53:41.483604-04:00",
+  "generated_at": "2026-04-01T09:06:17.391606-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "59a6893fb206f1406d495dcb6e083bc71b13d4fe",
-      "url": "https://www.cbc.ca/news/politics/commander-canada-army-latvia-charged-9.7148764?cmp=rss",
-      "title": "Senior Canadian commander charged by military police in compensation probe",
-      "published_at": "2026-03-31T10:34:59-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's military police charged Col. James Smith with prejudice to good order regarding compensation irregularities while he commanded Task Force Latvia. Legal proceedings are pending.",
+      "id": "9873f994ec57aa51ef4be62a8638171c4933833c",
+      "url": "https://www.cbc.ca/news/world/us-scotus-birthright-citizenship-case-9.7148258?cmp=rss",
+      "title": "What's at stake as the U.S. Supreme Court weighs Trump's birthright citizenship order",
+      "published_at": "2026-04-01T04:41:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Supreme Court today will hear arguments on President Donald Trump’s consequential first-day executive order in 2025, a case that could upend a long-held understanding on who is considered a U.S. citizen.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.361,
+        "sentiment": 0.67,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "145b965d5b2e03a580facb2b301c00904f224c52",
-      "url": "https://www.cbc.ca/news/politics/stephen-lewis-obituary-9.7148606?cmp=rss",
-      "title": "Stephen Lewis, Canadian politician, diplomat and journalist, dead at 88",
-      "published_at": "2026-03-31T08:52:31-04:00",
+      "id": "49d7a20253d6f16d893582bee5cd2e436a6dc8be",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-separatism-online-betting-9.7147933?cmp=rss",
+      "title": "Experts warn betting on Alberta separatism could influence results",
+      "published_at": "2026-04-01T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Albertans can use offshore gambling services to bet on the likelihood of the province separating from Canada, and that concerns experts who feel that wagering on public policy could influence the results of the upcoming referendum and make the question vulnerable to market manipulation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3a376d1aa16f13b5fba51b982c5af111b6cc5932",
+      "url": "https://www.cbc.ca/news/business/fuel-surcharge-list-roundup-9.7144830?cmp=rss",
+      "title": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise?",
+      "published_at": "2026-04-01T02:35:27-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.649,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "e98f4789df77144b2c8b93f9ce77102254ba1ce9",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-city-sword-attacks-9.7148577?cmp=rss",
-      "title": "New trial ordered for man found guilty of murder in Quebec City Halloween sword attacks",
-      "published_at": "2026-03-31T08:48:03-04:00",
+      "id": "2508103bce796eeb50d01c8006bda9786c1abdbf",
+      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-jails-violence-overcrowding-9.7144273?cmp=rss",
+      "title": "'Punched, kicked, bitten, stabbed': Assaults in northern Ontario jails hard to handle due to overcrowding",
+      "published_at": "2026-04-01T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The number of inmate-on-inmate assaults appears to be rising in the province, according to Ministry of the Solicitor General figures. The big concern in northern Ontario is violence fuelled by overcrowding and a lack of options to separate the person who was attacked from the perpetrator.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.971,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2508103bce796eeb50d01c8006bda9786c1abdbf",
+      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-jails-violence-overcrowding-9.7144273?cmp=rss",
+      "title": "Correctional officers in northern Ontario say separating inmates after assaults difficult due to overcrowding",
+      "published_at": "2026-04-01T01:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "In a decision rendered Tuesday, the Quebec Court of Appeal has ordered a new trial for Carl Girouard, the man who was found guilty of first-degree murder following the Quebec City sword attacks on Halloween night in 2020.",
+      "summary_auto": "The number of inmate-on-inmate assaults appears to be rising in the province, according to Ministry of the Solicitor General figures. The big concern in northern Ontario is violence fuelled by overcrowding and a lack of options to separate the person who was attacked from the perpetrator.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.967,
@@ -43,103 +69,25 @@
       }
     },
     {
-      "id": "08957246b4afd71cc2ec50ed7736d5bb6970abac",
-      "url": "https://www.cbc.ca/news/canada/montreal/train-pedestrian-fatal-collision-van-horne-overpass-9.7148552?cmp=rss",
-      "title": "Woman killed after being hit by train in Montreal's Mile End neighbourhood",
-      "published_at": "2026-03-31T08:45:42-04:00",
-      "section": "Canada",
-      "summary_auto": "Montreal police are investigating the death of a 26-year-old woman who was hit by a train in Montreal's Mile End neighbourhood Tuesday morning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7bdb09153adbcbc68227b3556c605d3cc6a51449",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/canada-goose-laurier-starbucks-video-tiktok-students-scream-9.7148458?cmp=rss",
-      "title": "Nowhere is safe from the wrath of a Canada goose — not even this Ontario campus",
-      "published_at": "2026-03-31T08:43:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Last week, a Canada goose found its way into a building at Wilfrid Laurier University's Waterloo, Ont., campus and was captured by several witnesses on video trying to fly away, causing students to run for cover. The goose's capers went viral on social media.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.341,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cf9c1ba68fa2178bcaff267a9986a869de1fe886",
-      "url": "https://www.cbc.ca/news/politics/carney-conservation-announcement-9.7148498?cmp=rss",
-      "title": "Carney announces $3.8B to protect nature, new conservation sites in James Bay and Manitoba",
-      "published_at": "2026-03-31T08:39:10-04:00",
+      "id": "3e5adb94c8f2f4c4cdc503678964cbb28f1b6a7d",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/snowy-winter-won-t-hinder-tick-population-this-year-experts-say-9.7141489?cmp=rss",
+      "title": "Snowy winter won't hinder tick population this year, experts say",
+      "published_at": "2026-04-01T01:00:00-04:00",
       "section": "Technology & Science",
-      "summary_auto": "Prime Minister Mark Carney announced $3.8 billion in new funding to protect nature on Tuesday, as part of the federal government’s goal to protect 30 per cent of Canada's lands and waters by 2030.",
+      "summary_auto": "Snow acts as insulation and helps protect ticks from extreme cold.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.778,
+        "sentiment": 0.637,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "833ae8c76eabbebe42f7c223d4c4249258d1e6b4",
-      "url": "https://www.cbc.ca/news/world/barbie-dream-fest-9.7148269?cmp=rss",
-      "title": "Fans were sold a magical Barbie Dream Fest. Instead, they got cardboard cutouts and hand sanitizer",
-      "published_at": "2026-03-31T08:38:05-04:00",
+      "id": "69088659acffed0972932167a5d89ea5971fab0e",
+      "url": "https://www.cbc.ca/news/world/canada-finance-minister-champagne-china-visit-trump-tariffs-trade-9.7149228?cmp=rss",
+      "title": "Canada's finance minister aims to shore up support, investment in China",
+      "published_at": "2026-04-01T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Add the three-day Barbie Dream Fest in Fort Lauderdale to the list of highly marketed conventions that didn't live up to the hype.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "04ff5850bffd4fcd86b90e088ac8b84b1e062ee6",
-      "url": "https://www.cbc.ca/news/science/artemis-2-launch-windows-how-to-watch-9.7148402?cmp=rss",
-      "title": "Get excited: How and where to watch humans go back to the moon",
-      "published_at": "2026-03-31T08:17:39-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Your go-to guide for CBC News coverage of the Artemis II mission around the moon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "117e6c1a8d43be5b3fcfee1e18fef9d6107ce104",
-      "url": "https://www.cbc.ca/sports/golf/tiger-woods-hydrocodone-pills-bloodshot-eyes-crash-scene-9.7148485?cmp=rss",
-      "title": "Tiger Woods had pills in his pocket at crash scene and bloodshot eyes, police say",
-      "published_at": "2026-03-31T07:52:17-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Tiger Woods's eyes were bloodshot and glassy, his pupils dilated, and he had hydrocodone pills in his pocket when interviewed at the scene of his car crash last week in Florida, according to a sheriff's office report released Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "30c77b5fe03b32c7fc133b03e124c0bbbc4f0764",
-      "url": "https://www.cbc.ca/news/canada/montreal/gilbert-rozon-civil-trial-decision-9.7148352?cmp=rss",
-      "title": "Just For Laughs founder Gilbert Rozon ordered to pay $880K to 8 plaintiffs in sex-assault civil trial",
-      "published_at": "2026-03-31T07:35:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Quebec Superior Court judge has ordered Gilbert Rozon, the Just For Laughs founder, to pay just under a little more than $880,000 to eight of the nine women who have accused him of sexual assault and misconduct in a civil trial.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b2354d5e96a85b8dc8776dbbd073485119e0fcb",
-      "url": "https://www.cbc.ca/news/entertainment/eurovision-asian-edition-9.7148404?cmp=rss",
-      "title": "Eurovision to expand with Asian edition later this year",
-      "published_at": "2026-03-31T07:03:46-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The music spectacle Eurovision will hold its first Asian edition in Bangkok later this year.",
+      "summary_auto": "Canada's finance minister François-Philippe Champagne is in China to continue diversifying trading partners and strengthen the economy. This visit follows that of Prime Minister Mark Carney earlier this year as U.S. President Donald Trump’s trade war has driven more and more countries to turn toward China, the world's second-largest economy.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.318,
@@ -147,314 +95,366 @@
       }
     },
     {
-      "id": "731dee50689a79e3bec8f02e711c7fcb0b9a749e",
-      "url": "https://www.cbc.ca/news/canada/sudbury/pamela-harvey-identification-quebec-9.7148379?cmp=rss",
-      "title": "Murder victim found in Quebec decades ago identified as missing Ontario woman",
-      "published_at": "2026-03-31T06:53:49-04:00",
-      "section": "Canada",
-      "summary_auto": "Police say genetic testing has been used to confirm a homicide victim found in Quebec in 1979 was a woman who had been reported missing months earlier from Ontario.",
+      "id": "e5f57b561e91806dfddbbe5953025b54267f8e23",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-venzuela-ceraweek-shell-chevron-machado-9.7148762?cmp=rss",
+      "title": "Trump administration launches new bid to attract U.S. oil companies to Venezuela — but finding few takers",
+      "published_at": "2026-04-01T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "President Donald Trump has been pressuring U.S. oil and gas executives to invest in Venezuela’s energy sector, nearly three months after the toppling of former president Nicolás Maduro, as the country is said to have the largest crude oil reserves in the world.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.906,
+        "sentiment": -0.696,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "13748cdb578834b8864d61e6692dfece66ada1b4",
-      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sexual-assault-trial-9.7148191?cmp=rss",
-      "title": "Sexual assault case against Frank Stronach built on fabricated and unreliable evidence: defence",
-      "published_at": "2026-03-31T06:40:13-04:00",
+      "id": "1c267dfc431ccd6757d2e98c24e391bccf62a7c6",
+      "url": "https://www.cbc.ca/news/canada/north/nunavut-devolution-one-year-9.7147588?cmp=rss",
+      "title": "Nunavut has 1 year left before devolution comes into effect. Is the territory ready?",
+      "published_at": "2026-04-01T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The women who testified they were sexually assaulted by Frank Stronach all failed \"quite miserably\" on credibility and reliability,  meaning the court should find the Canadian businessman not guilty, his lawyer argued on Tuesday.",
+      "summary_auto": "The Canadian government will transfer control of Nunavut's land and resources to the territory next April. But there are many big changes to be worked out before the transfer date. Some federal jobs will be transferred to the Nunavut government, a new department responsible for land and resources will be established, and Ottawa still needs to remediate contaminated sites on federal land.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.928,
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb2e103d977e4d0e3fd7475dd9ba42303f1fbd2f",
+      "url": "https://www.cbc.ca/news/science/artemis-mission-orion-sleeping-eating-toilet-9.7061728?cmp=rss",
+      "title": "Canadian Space Agency astronaut Jeremy Hansen is headed around the moon. Take a look inside the capsule",
+      "published_at": "2026-04-01T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Think of it like a long family trip, with everyone packed into an minivan along with all of your stuff — except that you're hitting the road at 28,000 km/h and there are no pit stops for nearly 10 days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.189,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1f4b381bd2006f8599cac27d348bea6a65f3dd83",
+      "url": "https://www.cbc.ca/news/politics/iran-nuclear-bomb-united-states-war-9.7147664?cmp=rss",
+      "title": "Iran's nuclear constraints were more diplomatic than technical. Then the bombs started dropping",
+      "published_at": "2026-04-01T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Nuclear weapons experts who were involved in U.S. efforts to sanction and contain Iran say the decision to attack the country is more likely to restart its nuclear program than dismantle it. A regime that previously believed that pausing at a \"threshold\" stage of 60 per cent enrichment would protect it from attack has learned that is not the case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "f82b07c558a3159a59c66b5be969e43bd82be937",
-      "url": "https://www.cbc.ca/news/business/canada-gdp-january-2026-9.7148199?cmp=rss",
-      "title": "Canada's economy saw slight growth in January with gains in mining, oil and gas",
-      "published_at": "2026-03-31T04:36:49-04:00",
-      "section": "Business",
-      "summary_auto": "Canada's economy saw slight growth in January, as gains in goods-producing industries like mining offset a slowdown in manufacturing, Statistics Canada said on Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6bbd865cbaec1bcbba551b9f4f20f52b7778483f",
-      "url": "https://www.cbc.ca/news/world/king-charles-state-visit-u-s-9.7148166?cmp=rss",
-      "title": "King Charles to make first state visit to U.S.",
-      "published_at": "2026-03-31T04:00:00-04:00",
+      "id": "c0891b441f3005bfb1215355a6557744ba811ddb",
+      "url": "https://www.cbc.ca/player/play/9.7149489?cmp=rss",
+      "title": "Artemis II: Key moments leading up to the launch",
+      "published_at": "2026-03-31T19:30:45-04:00",
       "section": "Top Stories",
-      "summary_auto": "King Charles and Queen Camilla will make a state visit to the United States this spring, Buckingham Palace has announced.",
+      "summary_auto": "The countdown is on for NASA's Artemis II mission, which will launch as early as Wednesday evening and take four astronauts around the moon in the first lunar voyage in over 50 years. Astronaut Jeremy Hansen is set to make history as the first Canadian to fly around the moon.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.421,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "df22850de128a212ca2b5f4af459f805dd666c65",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-legislature-separatism-petition-ucp-9.7148105?cmp=rss",
-      "title": "UCP members express love for Canada as Alberta NDP raises questions about op-ed on referendum petition",
-      "published_at": "2026-03-31T04:00:00-04:00",
+      "id": "9bd39928c0d3977ef27aeb8610aeb59d1f4945af",
+      "url": "https://www.cbc.ca/news/world/haiti-artibonite-new-attack-9.7149498?cmp=rss",
+      "title": "Gangs keep up attacks in Haiti's farming region after weekend massacre",
+      "published_at": "2026-03-31T18:52:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Armed men mounted further attacks Tuesday in Haiti's Artibonite ‌region, a key agricultural area. The attacks came days after a gang's weekend assault in the area of Jean-Denis left some 70 people dead, according to human rights groups and local residents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.95,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2e4d92ec8b3495678a6d25225de52e62b949e619",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-cherry-blossoms-disruptive-behaviour-9.7149368?cmp=rss",
+      "title": "Metro Vancouver's cherry blossoms prompt warning about disruptive behaviour, illegal parking",
+      "published_at": "2026-03-31T17:23:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Richmond RCMP say officers were out in a targeted enforcement at a cherry blossom viewing site over the weekend, and at one point 50 vehicles were illegally parked, disrupting traffic and creating safety hazards.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e54127af1deb6bf8192b77372132204c680d45bc",
+      "url": "https://www.cbc.ca/news/politics/us-canada-trade-irritants-report-9.7149451?cmp=rss",
+      "title": "American booze bans, 'Buy Canadian' policy flagged by U.S. as trade irritants: report",
+      "published_at": "2026-03-31T17:22:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Provincial rules around alcohol and the federal government's \"Buy Canadian\" policy have been flagged in a new report citing several trade irritants between Canada and the U.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fff157cf0f5576a63eebbb33360a8a265ad8f99d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/doctor-warns-bc-regulation-9.7149318?cmp=rss",
+      "title": "Doctor group warns B.C.’s regulatory changes could lead to fewer physicians, longer wait times",
+      "published_at": "2026-03-31T17:08:11-04:00",
       "section": "Canada",
-      "summary_auto": "Alberta Premier Danielle Smith and her United Conservative government spoke of their unwavering love for Canada on Monday as the Opposition NDP accused them of harbouring a separatist.",
+      "summary_auto": "Changes to regulatory oversight for health-care professionals that come into effect Wednesday could cause doctors to retire early or leave the province, a group representing medical professionals has warned.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.875,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5418cfd6fc50ff4b477b891bbce5ac46218acb4a",
-      "url": "https://www.cbc.ca/news/canada/manitoba/kinew-important-manitoba-government-moves-9.7148030?cmp=rss",
-      "title": "The premier called a gas-tax holiday 'the most important thing' Manitoba's ever done. Now, he's being called out",
-      "published_at": "2026-03-31T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Premier Wab Kinew says his government's gas tax holiday was the most important thing a Manitoba government has ever done. In 2024, Kinew's NDP government suspended the 14 cents per litre gas tax for an entire year, a move that cost the province $340 million in tax revenue.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.669,
+        "sentiment": -0.402,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3b2d948b02a2c5cfdb71fc92d33abaadf2b2e5a2",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/weather-radio-ending-9.7146078?cmp=rss",
-      "title": "Weather watchers mourn the end of national Weatheradio service",
-      "published_at": "2026-03-31T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "There is now one less way to get weather information in Canada. Environment and Climate Change Canada is ending its long-running Weatheradio service. It comes after ECCC closed many of its weather accounts on social media specific to provinces and territories.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "592a25ebe608494a6b99b702a06ad9d00d22bc57",
-      "url": "https://www.cbc.ca/news/entertainment/the-drama-review-9.7147900?cmp=rss",
-      "title": "Robert Pattinson, Zendaya's The Drama is disturbing, controversial and fascinating",
-      "published_at": "2026-03-31T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "That The Drama blossoms into a subversive investigation into the limits of empathy doesn't really matter. All that will matter is the disappointment theatre-goers will feel walking out of a supposed rom-com they expected to be like Sleepless in Seattle, but that instead feels closer to Midsommar.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.306,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3e18e6f131f88a7b7f4f39653f5c72b81f7a2320",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/big-mac-sauce-mcdonalds-bay-of-fundy-washing-up-9.7147496?cmp=rss",
-      "title": "Why are bags of Big Mac sauce washing up along the Bay of Fundy?",
-      "published_at": "2026-03-31T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Empty bags of Big Mac and McChicken sauce have been washing up along the Bay of Fundy recently. And local residents are not lovin’ it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7205505b65d13164598ef2549e3fa67796655927",
-      "url": "https://www.cbc.ca/news/world/iran-u-s-conflict-9.7148111?cmp=rss",
-      "title": "U.S. strikes city home to Iranian nuclear site, Trump urges allies to help in Strait of Hormuz",
-      "published_at": "2026-03-31T00:50:05-04:00",
-      "section": "World",
-      "summary_auto": "The United States hit the central Iranian city of Isfahan early Tuesday, sending a massive fireball into the sky, and Tehran struck a fully loaded Kuwaiti oil tanker in the Persian Gulf.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "24f3d55887d362f5bb9792ac28a5731957928ba8",
-      "url": "https://www.cbc.ca/radio/thecurrent/seniors-screentime-9.7144850?cmp=rss",
-      "title": "Have seniors become the new screenagers?",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Sherry Bagnato isn’t a millennial or a screenager. She’s a 67-year-old retired Toronto mother of two, and her phone habits have flipped the script at home. Now, she admits, it’s her adult children telling her to put the device down.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e91094ea4cd2642a2bdb6a784ceca84c4de41b2b",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/dental-clinic-kitchener-shut-sterilization-lapses-patients-hiv-hepatitis-testing-9.7141282?cmp=rss",
-      "title": "Weeks after Ontario dental clinic was ordered shut, patients sent letters urging hepatitis and HIV testing",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Former patients of a dental clinic in Brantford, Ont., are being warned by Grand Erie Public Health to get tested for hepatitis B, hepatitis C and HIV due to an infection prevention and control lapse investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb4be12ab620ef5af69b7300c8dab2fdfcc65c5d",
-      "url": "https://www.cbc.ca/news/gopublic/cta-lowers-air-passenger-complaints-fee-9.7148051?cmp=rss",
-      "title": "CTA to lower air passenger complaints fee after pressure from airlines, transport minister, documents show",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Internal documents show airlines and then Transport Minister Anita Anand pressed the Canadian Transportation Agency to scale back a proposed complaints fee — raising concerns about political interference.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
       }
     },
     {
       "id": "04b2ddc0224fd3470394f63f4f831beaa2f8f33b",
       "url": "https://www.cbc.ca/news/canada/ottawa/public-servant-says-she-s-collateral-damage-as-government-prepares-to-test-new-pay-system-9.7146893?cmp=rss",
       "title": "Public servant says she's 'collateral damage' as government prepares to test new pay system",
-      "published_at": "2026-03-31T00:00:00-04:00",
+      "published_at": "2026-03-31T16:34:15-04:00",
       "section": "Top Stories",
-      "summary_auto": "A longtime federal public servant says she’s become \"collateral damage\" as her department clears its backlog of Phoenix payroll issues so it can test replacement software — and in doing so introduced an error to her file, refused to fix it and is now clawing back hundreds of dollars per paycheque.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.892,
+        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "c207daed4a4d894b3f916cafc06855f8cfd24448",
-      "url": "https://www.cbc.ca/news/canada/montreal/scam-victim-canada-justice-9.7144624?cmp=rss",
-      "title": "Her scammer only got house arrest. She says Canada's sentences are a 'joke'",
-      "published_at": "2026-03-31T00:00:00-04:00",
+      "id": "9183d572ccabb6e590442d9b2c7932f0e335dffc",
+      "url": "https://www.cbc.ca/news/canada/toronto/victim-services-toronto-ask-for-angela-campaign-world-cup-9.7149211?cmp=rss",
+      "title": "Victim Services Toronto expands 'Ask for Angela' safety campaign ahead of World Cup",
+      "published_at": "2026-03-31T16:11:20-04:00",
       "section": "Canada",
-      "summary_auto": "Scam victims feel an increasing sense that the Canadian justice system is overly lenient on the people who took advantage of them.",
+      "summary_auto": "A Toronto charitable organization is expanding a campaign to help survivors of gender-based violence as the city expects to see tens of thousands of visitors during the FIFA World Cup.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
+        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "099b88c0718f15b7f1baba75c028d3b6fe0ab828",
-      "url": "https://www.cbc.ca/news/health/nurse-practitioners-primary-health-care-provinces-9.7145096?cmp=rss",
-      "title": "Most people across Canada will no longer need to pay nurse practitioners for primary care",
-      "published_at": "2026-03-31T00:00:00-04:00",
+      "id": "6e7306f00b0550c6e593396dd0801a834cea2976",
+      "url": "https://www.cbc.ca/news/canada/calgary/strychnine-emergency-use-gopher-alberta-saskatchewan-9.7149198?cmp=rss",
+      "title": "Wildlife advocates 'disappointed' by feds' decision to allow strychnine",
+      "published_at": "2026-03-31T16:05:29-04:00",
       "section": "Canada",
-      "summary_auto": "As of Wednesday, the federal government will require provinces and territories to start to pay for primary care services, including those provided by nurse practitioners. The new policy aims to ensure Canadians aren't being billed for \"medically necessary services.\"",
+      "summary_auto": "Wildlife advocates say Ottawa's authorization of the emergency use of strychnine in Alberta and Saskatchewan to target gophers is a disappointing reversal of a previous decision rejecting its use.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.718,
+        "sentiment": -0.875,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "b4c5b66df663289bee92d8a413bf551078acd100",
-      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-heather-winterstein-inquest-day-one-9.7147670?cmp=rss",
-      "title": "Inquest begins into death of 24-year-old Indigenous woman who died at Niagara, Ont., hospital",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A long-awaited coroner's inquest into the 2021 death of Heather Winterstein at a hospital in St. Catharines, Ont., got underway on Monday, with Winterstein's mother telling the five-person jury about the torment she feels over her daughter's death.",
+      "id": "c9b628d8e243b61a93d11212b8e434286491f7d4",
+      "url": "https://www.cbc.ca/player/play/9.7149312?cmp=rss",
+      "title": "Is the U.S. about to make a major military mistake? | About That",
+      "published_at": "2026-03-31T15:21:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump says a U.S. takeover of one of Iran's most critical assets — Kharg Island — could happen “very easily,” but experts warn the reality is far more complicated. Andrew Chang breaks down why even a successful assault could lead to heavy losses and uncertain gains. Images provided by The Canadian Press, Adobe Stock, Reuters and Getty Images",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.946,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e91094ea4cd2642a2bdb6a784ceca84c4de41b2b",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/dental-clinic-kitchener-shut-sterilization-lapses-patients-hiv-hepatitis-testing-9.7141282?cmp=rss",
-      "title": "Patients of Ontario dental clinic speak out after hepatitis, HIV tests urged due to sterilization lapses",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Former patients of a dental clinic in Brantford, Ont., are being warned by Grand Erie Public Health to get tested for hepatitis B, hepatitis C and HIV due to an infection prevention and control lapse investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8143ca5d2c4bdf1178660ace872a3dd3cb7538b9",
-      "url": "https://www.cbc.ca/news/world/trump-ground-troops-iran-scenarios-9.7147222?cmp=rss",
-      "title": "Trump is considering U.S. ground troops in Iran. Here are his options",
-      "published_at": "2026-03-31T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "As U.S. President Donald Trump considers ordering U.S. ground troops into Iran, military experts say trying to capture any of the most likely targets would pose a significant challenge.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
+        "sentiment": -0.718,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "0b9e7f961ca106194c9ffcc83b532000b523b812",
-      "url": "https://www.cbc.ca/news/science/snowpack-wildfires-9.7147189?cmp=rss",
-      "title": "Heat dome burns off mountain snow in western U.S.,  flashing warning for fire season",
-      "published_at": "2026-03-31T00:00:00-04:00",
+      "id": "9b87209ef209e3a96f293520b61611b03166085a",
+      "url": "https://www.cbc.ca/news/canada/air-canada-cta-penalty-appr-violations-9.7148943?cmp=rss",
+      "title": "Air Canada to dispute $426K penalty from airline regulator stemming from 2025 events",
+      "published_at": "2026-03-31T14:58:11-04:00",
+      "section": "Canada",
+      "summary_auto": "Air Canada says it rejects a claim by the country's airline regulator that it failed to live up to its rebooking obligations when dealing with a labour disruption last summer and it will push back accordingly on a formal penalty it has been handed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "632817fe9ac4c50106d298201b18324f0e5886a2",
+      "url": "https://www.cbc.ca/radio/asithappens/canada-u-s-border-town-road-closure-9.7149265?cmp=rss",
+      "title": "Farmer living in U.S. border town calls upcoming road closure for Canadians unfair",
+      "published_at": "2026-03-31T14:39:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Tensions in the Canada-U.S. relationship are playing out in border towns in both countries. Border Road, which connects Sweet Grass Hills, Mont., and Coutts, Alta., will be closed to Canadians starting in July. Wheat farmer Roger Horgus grew up on the American side. He says the move he says will create  unnecessary barriers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c56451065c1f154a456602c7296b7a07848b95d6",
+      "url": "https://www.cbc.ca/news/world/missing-sailboats-humanitarian-aid-cuba-9.7149156?cmp=rss",
+      "title": "Missing sailboats carrying aid to Cuba arrive safely in Havana",
+      "published_at": "2026-03-31T14:04:05-04:00",
       "section": "World",
-      "summary_auto": "Mountains that normally see their peak snowpack in March are brown this year, thanks to a spring heat dome that baked western U.S. for much of the second half of the month. That's raising alarm bells for the fire season that's already ramping up.",
+      "summary_auto": "Two sailboats carrying humanitarian aid from Mexico arrived safely in Havana on Saturday, Mexico's navy said, ‌concluding a journey in which the vessels were delayed by bad weather and briefly reported missing.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
+        "sentiment": -0.34,
+        "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "8c78cafed196ff9d050792a38a7f548cc1574f2a",
-      "url": "https://www.cbc.ca/news/canada/calgary/strychnine-emergency-use-alberta-saskatchewan-9.7148000?cmp=rss",
-      "title": "Ottawa authorizes emergency use of strychnine in Alberta, Saskatchewan to address gopher infestation",
-      "published_at": "2026-03-30T19:12:42-04:00",
+      "id": "b5b0a252484a70f23a13d890daf862136a7e5301",
+      "url": "https://www.cbc.ca/news/world/trump-ballroom-construction-halted-9.7148966?cmp=rss",
+      "title": "U.S. judge halts construction of Trump's $400M White House ballroom",
+      "published_at": "2026-03-31T13:12:27-04:00",
+      "section": "World",
+      "summary_auto": "A U.S. federal judge on Tuesday ordered the Trump administration to suspend its construction of a $400 million US ballroom on the site where it demolished the East Wing of the White House, barring construction work from proceeding without congressional approval.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.593,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "630e77df74a78f28aa8943873e9de2f4c27d832f",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-whisky-dale-nally-davin-de-kergommeaux-9.7148632?cmp=rss",
+      "title": "What’s an ‘Alberta whisky’? Here’s how the provincial government plans to define it in law",
+      "published_at": "2026-03-31T12:54:33-04:00",
+      "section": "Canada",
+      "summary_auto": "What defines an Alberta whisky like one might define a Kentucky or Tennessee bourbon? The provincial government says it has come up with some rules — and it used AI to help draft them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.677,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d9e7a361a7090a980bf14adf78cff1e3f015539d",
+      "url": "https://www.cbc.ca/player/play/9.7149049?cmp=rss",
+      "title": "Livestream gives a bird's-eye view into a Cape Breton bald eagle's nest",
+      "published_at": "2026-03-31T12:50:25-04:00",
       "section": "Technology & Science",
-      "summary_auto": "Ottawa is authorizing the controlled and time-limited emergency use of strychnine to address millions of dollars worth of damage in Alberta and Saskatchewan caused by an infestation of Richardson's ground squirrels, known colloquially as gophers.",
+      "summary_auto": "The project launched on Monday and already, watchers are flocking to get a first hand look. The CBC's Kyle Moore has the story.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.758,
+        "sentiment": 0.572,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "e82362efcd60e8335f4010803d49a09be635aee2",
-      "url": "https://www.cbc.ca/news/canada/toronto/tornto-maple-leafs-brad-treliving-9.7148016?cmp=rss",
-      "title": "Toronto Maple Leafs fire general manager Brad Treliving",
-      "published_at": "2026-03-30T17:05:56-04:00",
+      "id": "566542db435c8c16b024988e612f5fb420e1f4e6",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-education-bill-ideology-politics-classroom-9.7148982?cmp=rss",
+      "title": "Alberta government says new bill intended to remove politics, ideology from schools",
+      "published_at": "2026-03-31T12:44:59-04:00",
       "section": "Canada",
-      "summary_auto": "Maple Leaf Sports and Entertainment have decided to part ways with Toronto Maple Leafs General Manager Brad Treliving.",
+      "summary_auto": "The Alberta government says new legislation would require teachers and school boards to be “neutral” and “impartial” when delivering lessons and crafting a school environment.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.103,
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d1667a86f20a87549999e8ae8a4ee1343fa78a14",
+      "url": "https://www.cbc.ca/news/politics/poilievre-against-high-speed-rail-alto-9.7148975?cmp=rss",
+      "title": "Poilievre says government should cancel Toronto-Quebec City high-speed rail project",
+      "published_at": "2026-03-31T12:12:52-04:00",
+      "section": "Canada",
+      "summary_auto": "Conservative Leader Pierre Poilievre says the Liberal government should cancel the high-speed rail project planned to link Toronto and Quebec City.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6e26a1ac43a81a169e57a9861c7a229b8bd5c039",
+      "url": "https://www.cbc.ca/news/world/laguardia-air-traffic-control-staffing-air-canada-collision-9.7148910?cmp=rss",
+      "title": "LaGuardia air traffic control staffing might have violated procedures night of Air Canada collision",
+      "published_at": "2026-03-31T12:07:05-04:00",
+      "section": "World",
+      "summary_auto": "Air traffic controller staffing at LaGuardia airport on the night an Air Canada  jet collided with a fire truck may have violated the facility's procedures ‌by combining roles before midnight, according to a document seen by Reuters.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.893,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "76929ffa48bd6d07b4d4c1b7a3259b85656f972d",
+      "url": "https://www.cbc.ca/news/politics/stephen-lewis-condolences-9.7148766?cmp=rss",
+      "title": "NDP giant Stephen Lewis remembered as someone who demanded better of all",
+      "published_at": "2026-03-31T11:46:40-04:00",
+      "section": "Health",
+      "summary_auto": "Stephen Lewis, a giant in Canadian activism, is being remembered as a tireless fighter who demanded better of all.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "0a8e735e62c8cdad3c02a65736b83466f0c8db42",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-motion-judicial-appointments-9.7147940?cmp=rss",
-      "title": "Alberta pushing for constitutional change to give provinces say over appointment of judges",
-      "published_at": "2026-03-30T15:51:08-04:00",
-      "section": "Canada",
-      "summary_auto": "Alberta's government is calling on Ottawa to change the Constitution to give provinces more of a say in how federal superior court judges are appointed at the provincial level.",
+      "id": "2f0a29317a24c91c413fbb5341826402440f0212",
+      "url": "https://www.cbc.ca/news/entertainment/trump-npr-funding-9.7148861?cmp=rss",
+      "title": "Judge permanently blocks Trump order to end funding for National Public Radio",
+      "published_at": "2026-03-31T11:39:25-04:00",
+      "section": "World",
+      "summary_auto": "A U.S. federal judge on Tuesday agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for National Public Radio and the Public Broadcasting Service.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.542,
+        "sentiment": -0.402,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "ca8aeedc0dd025fd270ba7179564fd47f8e3241a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/sooke-teenager-school-shooting-threats-9.7147872?cmp=rss",
-      "title": "B.C. youth charged after chats with U.S. teen who allegedly made school shooting threats: police",
-      "published_at": "2026-03-30T15:48:35-04:00",
+      "id": "3544477c7bc63aa625b5fed01959bad9e8a983b1",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/penticton-woman-texas-immigration-detention-9.7148889?cmp=rss",
+      "title": "B.C. woman detained in Texas immigration facility could return home today, husband says",
+      "published_at": "2026-03-31T11:35:11-04:00",
       "section": "Canada",
-      "summary_auto": "A Sooke, B.C., youth has been arrested and charged after online chats with a U.S. teenager who allegedly made school shooting threats, RCMP say.",
+      "summary_auto": "Tania Warner's husband says a judge set the bond for his wife at $9,500 US.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.883,
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ed78becf9409a394fe1bf0090c617b41e6464f05",
+      "url": "https://www.cbc.ca/news/world/endangered-species-god-squad-rice-s-whale-9.7148779?cmp=rss",
+      "title": "Trump officials exempt drilling in the Gulf of Mexico from endangered species act, putting rare whale at risk",
+      "published_at": "2026-03-31T11:33:19-04:00",
+      "section": "World",
+      "summary_auto": "The Trump administration has exempted oil and gas drilling in the Gulf of Mexico from the Endangered Species Act after U.S. Defence Secretary Pete Hegseth said environmentalists' lawsuits threatened to hobble domestic energy supplies as the U.S. wages war against Iran.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "93c4db414e5aaf5ee3410f2f7ae0ca59ad17806e",
+      "url": "https://www.cbc.ca/news/health/vaccine-injury-compensation-phac-9.7148810?cmp=rss",
+      "title": "Canadian government taking over vaccine injury compensation program",
+      "published_at": "2026-03-31T11:21:50-04:00",
+      "section": "Canada",
+      "summary_auto": "The federal public health agency is taking over administration of a program that compensates people who have been injured by vaccines, months after Health Minister Marjorie Michel ordered an audit of the program following complaints about its administration.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a61d92505dadebf386912187f691e2fbbc49ff4f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/thomas-butler-sexual-abuse-sentencing-9.7148819?cmp=rss",
+      "title": "Man sentenced to 25 years for 'horrendous' sexual abuse in Manitoba after survivors spoke out",
+      "published_at": "2026-03-31T11:17:58-04:00",
+      "section": "Canada",
+      "summary_auto": "A man who repeatedly sexually abused two children in his care roughly three decades ago has been sentenced to 25 years in prison, in a case whose details a judge described as \"horrendous.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.947,
         "subjectivity_hint": "low"
       }
     }
