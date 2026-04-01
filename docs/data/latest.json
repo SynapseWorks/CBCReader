@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-01T09:06:17.391606-04:00",
+  "generated_at": "2026-04-01T10:58:45.666091-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d7ef18f6a1ee6fecd2c53ba00a43049aac15896b",
+      "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741?cmp=rss",
+      "title": "North Korea expands its nuclear arsenal after witnessing Iran’s vulnerability",
+      "published_at": "2026-04-01T06:49:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ever since becoming leader in 2011, North Korean Leader Kim Jong-un has made his nuclear weapons program a national goal — almost a doctrine — arguing it is the only way for smaller powers to keep from being \"mercilessly violated\" by superpowers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "45a5c2886ea5bf56bc8cc638e233e97f281660be",
+      "url": "https://www.cbc.ca/news/business/stock-markets-april-1-2026-9.7149760?cmp=rss",
+      "title": "Wall Street rallies Wednesday amid hope for end to war with Iran",
+      "published_at": "2026-04-01T06:22:33-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Stocks are climbing worldwide, and oil prices are easing Wednesday as hopes build that the war with Iran could end soon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "05757c5c3b522a54463eb7c21a61117bba6034ce",
+      "url": "https://www.cbc.ca/news/world/iran-u-s-conflict-midlle-east-9.7149582?cmp=rss",
+      "title": "Trump claims Iran's president wants ceasefire, no response from Tehran",
+      "published_at": "2026-04-01T05:04:12-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump on Wednesday claimed that Iran's president wants a ceasefire in the Mideast war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "9873f994ec57aa51ef4be62a8638171c4933833c",
       "url": "https://www.cbc.ca/news/world/us-scotus-birthright-citizenship-case-9.7148258?cmp=rss",
@@ -43,6 +82,19 @@
       }
     },
     {
+      "id": "cd726f034fc6aff70a2079f05b62c726b085212e",
+      "url": "https://www.cbc.ca/radio/frontburner/is-ai-making-you-dumb-9.7148732?cmp=rss",
+      "title": "Is AI making you dumb?",
+      "published_at": "2026-04-01T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "We look at the latest research on AI and cognitive decline. Is artificial intelligence making us dumb?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.594,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "2508103bce796eeb50d01c8006bda9786c1abdbf",
       "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-jails-violence-overcrowding-9.7144273?cmp=rss",
       "title": "'Punched, kicked, bitten, stabbed': Assaults in northern Ontario jails hard to handle due to overcrowding",
@@ -69,6 +121,19 @@
       }
     },
     {
+      "id": "206b0daaf0ab560f356414a93691d3013583643b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/it-has-been-30-years-since-amalgamation-of-the-halifax-regional-municipality-was-it-a-success-9.7147613?cmp=rss",
+      "title": "It's been 30 years since amalgamation of the Halifax Regional Municipality. Was it a success?",
+      "published_at": "2026-04-01T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Thirty years after four municipalities were brought together to form the Halifax Regional Municipality, opinions on amalgamation remain varied and deeply personal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "3e5adb94c8f2f4c4cdc503678964cbb28f1b6a7d",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/snowy-winter-won-t-hinder-tick-population-this-year-experts-say-9.7141489?cmp=rss",
       "title": "Snowy winter won't hinder tick population this year, experts say",
@@ -82,19 +147,6 @@
       }
     },
     {
-      "id": "69088659acffed0972932167a5d89ea5971fab0e",
-      "url": "https://www.cbc.ca/news/world/canada-finance-minister-champagne-china-visit-trump-tariffs-trade-9.7149228?cmp=rss",
-      "title": "Canada's finance minister aims to shore up support, investment in China",
-      "published_at": "2026-04-01T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's finance minister François-Philippe Champagne is in China to continue diversifying trading partners and strengthen the economy. This visit follows that of Prime Minister Mark Carney earlier this year as U.S. President Donald Trump’s trade war has driven more and more countries to turn toward China, the world's second-largest economy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e5f57b561e91806dfddbbe5953025b54267f8e23",
       "url": "https://www.cbc.ca/news/canada/calgary/bakx-venzuela-ceraweek-shell-chevron-machado-9.7148762?cmp=rss",
       "title": "Trump administration launches new bid to attract U.S. oil companies to Venezuela — but finding few takers",
@@ -104,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.696,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "69088659acffed0972932167a5d89ea5971fab0e",
+      "url": "https://www.cbc.ca/news/world/canada-finance-minister-champagne-china-visit-trump-tariffs-trade-9.7149228?cmp=rss",
+      "title": "Canada's finance minister aims to shore up support, investment in China",
+      "published_at": "2026-04-01T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's finance minister François-Philippe Champagne is in China to continue diversifying trading partners and strengthen the economy. This visit follows that of Prime Minister Mark Carney earlier this year as U.S. President Donald Trump’s trade war has driven more and more countries to turn toward China, the world's second-largest economy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -138,7 +203,7 @@
       "url": "https://www.cbc.ca/news/politics/iran-nuclear-bomb-united-states-war-9.7147664?cmp=rss",
       "title": "Iran's nuclear constraints were more diplomatic than technical. Then the bombs started dropping",
       "published_at": "2026-04-01T00:00:00-04:00",
-      "section": "Technology & Science",
+      "section": "World",
       "summary_auto": "Nuclear weapons experts who were involved in U.S. efforts to sanction and contain Iran say the decision to attack the country is more likely to restart its nuclear program than dismantle it. A regime that previously believed that pausing at a \"threshold\" stage of 60 per cent enrichment would protect it from attack has learned that is not the case.",
       "bias_heuristic": {
         "article_type": "News",
@@ -164,7 +229,7 @@
       "url": "https://www.cbc.ca/news/world/haiti-artibonite-new-attack-9.7149498?cmp=rss",
       "title": "Gangs keep up attacks in Haiti's farming region after weekend massacre",
       "published_at": "2026-03-31T18:52:20-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Armed men mounted further attacks Tuesday in Haiti's Artibonite ‌region, a key agricultural area. The attacks came days after a gang's weekend assault in the area of Jean-Denis left some 70 people dead, according to human rights groups and local residents.",
       "bias_heuristic": {
         "article_type": "News",
@@ -212,19 +277,6 @@
       }
     },
     {
-      "id": "04b2ddc0224fd3470394f63f4f831beaa2f8f33b",
-      "url": "https://www.cbc.ca/news/canada/ottawa/public-servant-says-she-s-collateral-damage-as-government-prepares-to-test-new-pay-system-9.7146893?cmp=rss",
-      "title": "Public servant says she's 'collateral damage' as government prepares to test new pay system",
-      "published_at": "2026-03-31T16:34:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "9183d572ccabb6e590442d9b2c7932f0e335dffc",
       "url": "https://www.cbc.ca/news/canada/toronto/victim-services-toronto-ask-for-angela-campaign-world-cup-9.7149211?cmp=rss",
       "title": "Victim Services Toronto expands 'Ask for Angela' safety campaign ahead of World Cup",
@@ -255,7 +307,7 @@
       "url": "https://www.cbc.ca/player/play/9.7149312?cmp=rss",
       "title": "Is the U.S. about to make a major military mistake? | About That",
       "published_at": "2026-03-31T15:21:07-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. President Donald Trump says a U.S. takeover of one of Iran's most critical assets — Kharg Island — could happen “very easily,” but experts warn the reality is far more complicated. Andrew Chang breaks down why even a successful assault could lead to heavy losses and uncertain gains. Images provided by The Canadian Press, Adobe Stock, Reuters and Getty Images",
       "bias_heuristic": {
         "article_type": "News",
@@ -316,19 +368,6 @@
       }
     },
     {
-      "id": "630e77df74a78f28aa8943873e9de2f4c27d832f",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-whisky-dale-nally-davin-de-kergommeaux-9.7148632?cmp=rss",
-      "title": "What’s an ‘Alberta whisky’? Here’s how the provincial government plans to define it in law",
-      "published_at": "2026-03-31T12:54:33-04:00",
-      "section": "Canada",
-      "summary_auto": "What defines an Alberta whisky like one might define a Kentucky or Tennessee bourbon? The provincial government says it has come up with some rules — and it used AI to help draft them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.677,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "d9e7a361a7090a980bf14adf78cff1e3f015539d",
       "url": "https://www.cbc.ca/player/play/9.7149049?cmp=rss",
       "title": "Livestream gives a bird's-eye view into a Cape Breton bald eagle's nest",
@@ -351,6 +390,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a0566913a603e187135d6ebf90d9f0aaac1b1ece",
+      "url": "https://www.cbc.ca/news/canada/edmonton/missing-infant-search-alberta-rcmp-9.7148977?cmp=rss",
+      "title": "Police searching for remains of missing infant presumed dead months after her Inuk mother was killed in St. Albert, Alta.",
+      "published_at": "2026-03-31T12:27:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As the search continues for a baby girl who vanished months ago when her mother was killed, Alberta RCMP are releasing new heartbreaking details on the case. Police ask the public to share any information which could assist them in their investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.954,
         "subjectivity_hint": "medium"
       }
     },
@@ -437,7 +489,7 @@
       "url": "https://www.cbc.ca/news/health/vaccine-injury-compensation-phac-9.7148810?cmp=rss",
       "title": "Canadian government taking over vaccine injury compensation program",
       "published_at": "2026-03-31T11:21:50-04:00",
-      "section": "Canada",
+      "section": "Health",
       "summary_auto": "The federal public health agency is taking over administration of a program that compensates people who have been injured by vaccines, months after Health Minister Marjorie Michel ordered an audit of the program following complaints about its administration.",
       "bias_heuristic": {
         "article_type": "News",
