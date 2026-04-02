@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-02T08:59:01.609852-04:00",
+  "generated_at": "2026-04-02T10:50:00.618738-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "79efdaed787db913ccb9f49730584aff971649a0",
+      "url": "https://www.cbc.ca/news/business/wall-street-trump-iran-9.7151218?cmp=rss",
+      "title": "Wall Street set for lower open after Trump's comments dent Iran resolution hopes",
+      "published_at": "2026-04-02T05:53:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Wall Street's main indexes were set for a lower open on Thursday, in the last session of a holiday-truncated week, after President ‌Donald Trump signaled more aggressive attacks on Iran, dampening expectations for a swift end to the Middle East conflict.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.733,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "ac3ce6d61c56d9bcccf17c1b299c43271e214549",
       "url": "https://www.cbc.ca/news/canada/montreal/bogus-maple-syrup-quebec-9.7149822?cmp=rss",
@@ -13,6 +26,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "40c723436435890e416f462d19f7447a496a1b37",
+      "url": "https://www.cbc.ca/news/canada/edmonton/egotik-learn-homicide-9.7150104?cmp=rss",
+      "title": "Family of mother killed in Alberta 'clinging' to hope her missing baby will be found",
+      "published_at": "2026-04-02T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ayla Egotik-Learn, a 23-year-old Inuk mother from Cambridge Bay, Nunavut, was discovered dead in January, inside her apartment northwest of Edmonton. Her baby has never been found and is presumed dead by RCMP.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4cbc556c9eaabd766d3f47e5a1638c9e9df65b4e",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl-victoire-goldeneyes-sceptres-charge-recap-april-1-9.7151084?cmp=rss",
+      "title": "Victoire clinch playoff spot, set PWHL point streak record in win over Goldeneyes",
+      "published_at": "2026-04-02T03:19:33-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Hayley Scamurra scored twice and Ann-Renee Desbiens made 18 saves as the Montreal Victoire blanked the Vancouver Goldeneyes 3-0 on Wednesday night, clinching a playoff spot and extending their point streak to a league-record 12 games.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
         "subjectivity_hint": "low"
       }
     },
@@ -30,15 +69,28 @@
       }
     },
     {
-      "id": "34d4a8d5389dd1d99dbe9e08bd62a4c959cbca90",
-      "url": "https://www.cbc.ca/news/politics/defence-nato-budget-spending-fiscal-9.7150814?cmp=rss",
-      "title": "To meet next NATO spending target, Canada needs a credible fiscal plan, think-tank says",
-      "published_at": "2026-04-02T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "After hitting NATO's two per cent GDP spending target in March 2026, Canada now faces a daunting climb to five per cent by 2035, according to the CD Howe Institute, one of the country’s leading economic think-tanks.",
+      "id": "f30b43bfb94972c4ab62b55530e6ccc82c69e784",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/new-fort-st-john-doctors-accepting-thousands-new-patients-9.7150773?cmp=rss",
+      "title": "New Fort St. John doctors to take thousands off waiting list",
+      "published_at": "2026-04-02T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Dr. Manraj Khangura and Dr. Haroon Ahmed are international medical graduates finishing up their two years of residency training in the city. They will take on 3,000 new patients starting in September.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "816781c293bd8e9f31078117da26a8df9ed6165f",
+      "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-separatist-injunction-bypass-mitch-sylvestre-danielle-smith-9.7150749?cmp=rss",
+      "title": "If court halts separatists' referendum bid, they'll push Danielle Smith to approve it anyway",
+      "published_at": "2026-04-02T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A First Nation's injunction request, to be heard April 7, claims the independence petition drive threatens treaty rights.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
         "subjectivity_hint": "low"
       }
     },
@@ -52,6 +104,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "34d4a8d5389dd1d99dbe9e08bd62a4c959cbca90",
+      "url": "https://www.cbc.ca/news/politics/defence-nato-budget-spending-fiscal-9.7150814?cmp=rss",
+      "title": "To meet next NATO spending target, Canada needs a credible fiscal plan, think-tank says",
+      "published_at": "2026-04-02T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After hitting NATO's two per cent GDP spending target in March 2026, Canada now faces a daunting climb to five per cent by 2035, according to the CD Howe Institute, one of the country’s leading economic think-tanks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -108,28 +173,15 @@
       }
     },
     {
-      "id": "04b8263cb1e068bbc907a474183ab7f41fb3597e",
-      "url": "https://www.cbc.ca/news/canada/milk-class-action-scam-9.7148807?cmp=rss",
-      "title": "Scammers are targeting Canadians about a milk settlement that doesn't exist",
-      "published_at": "2026-04-02T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "At the same time that a phishing scam related to Canada's bread price-fixing settlement is going around, CBC News has learned people are being targeted by a similar scam involving dairy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "86ff399a41e0642fb0b7b2303f5a8b5e3011653b",
       "url": "https://www.cbc.ca/news/canada/montreal/gardaworld-montreal-ice-detention-united-states-9.7141314?cmp=rss",
-      "title": "How Montreal-based GardaWorld stands to cash in on U.S. immigration crackdown",
+      "title": "How a Montreal-based security firm stands to cash in on U.S. immigration crackdown",
       "published_at": "2026-04-02T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "The Montreal-based security firm GardaWorld, backed by Quebec public financing, is now profiting from the expansion of U.S. immigration detention, raising questions about oversight and corporate accountability.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.382,
+        "sentiment": 0.612,
         "subjectivity_hint": "low"
       }
     },
@@ -143,6 +195,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "04b8263cb1e068bbc907a474183ab7f41fb3597e",
+      "url": "https://www.cbc.ca/news/canada/milk-class-action-scam-9.7148807?cmp=rss",
+      "title": "Scammers are targeting Canadians with a milk settlement that doesn't exist",
+      "published_at": "2026-04-02T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "At the same time that a phishing scam related to Canada's bread price-fixing settlement is going around, CBC News has learned people are being targeted by a similar scam involving dairy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
         "subjectivity_hint": "low"
       }
     },
@@ -173,11 +238,24 @@
       }
     },
     {
+      "id": "45cecb95e22631be916b1326ac2c0016e5c0865f",
+      "url": "https://www.cbc.ca/news/canada/toronto/federal-government-runnymede-treatment-centres-first-responders-9.7150988?cmp=rss",
+      "title": "Ottawa to spend $15M to help build 2 mental health treatment centres for first responders",
+      "published_at": "2026-04-01T18:34:01-04:00",
+      "section": "Health",
+      "summary_auto": "The federal government will contribute $15 million to the construction of two new treatment facilities in Greater Toronto Area for first responders who are dealing with post-traumatic stress injuries.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "07bbe9d2b564d1d5c263f0b520ec5800614e4b8f",
       "url": "https://www.cbc.ca/news/canada/manitoba/grifols-health-canada-conditions-9.7150889?cmp=rss",
-      "title": "Health Canada slaps new conditions on plasma donation company, still reviewing 2 Winnipeg deaths",
+      "title": "Health Canada slaps new conditions on plasma donation company Grifols, still reviewing 2 Winnipeg deaths",
       "published_at": "2026-04-01T17:16:54-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Health Canada has slapped new terms and conditions on all of a company's paid plasma centres after multiple failed inspections where the regulator found \"recurring, systemic deficiencies.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -190,7 +268,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/teachers-reaction-alberta-neutrality-bill-9.7150625?cmp=rss",
       "title": "Proposed political neutrality legislation offensive to Alberta teachers, association says",
       "published_at": "2026-04-01T16:35:03-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Alberta Teachers’ Association says the provincial government's suggestion that educators don't act with integrity or present issues in a balanced way is offensive.",
       "bias_heuristic": {
         "article_type": "News",
@@ -255,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/ffaw-says-no-snow-crab-will-be-processed-until-fair-price-is-agreed-to-9.7150692?cmp=rss",
       "title": "Union says no snow crab will be processed in N.L. until 'fair' price agreed upon",
       "published_at": "2026-04-01T14:29:25-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The union representing fishery workers in Newfoundland and Labrador says there will be no snow crab processed in the province until they get a deal for a \"fair\" price.",
       "bias_heuristic": {
         "article_type": "News",
@@ -325,6 +403,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e97ce8c4756b48879f5d8b7c7147216c0e2a46c9",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-misses-federal-funding-deadline-nurse-practitioners-9.7150540?cmp=rss",
+      "title": "Ontario misses federal funding deadline for nurse practitioners",
+      "published_at": "2026-04-01T12:57:25-04:00",
+      "section": "Health",
+      "summary_auto": "Ontario's health minister shut down one avenue of publicly funding all nurse practitioners Wednesday as the province missed a federal deadline for ensuring their medically necessary services are covered.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -417,32 +508,6 @@
         "article_type": "News",
         "sentiment": -0.872,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a7148c3a8cc9b6557b5edffdde4c4488aa1bbd56",
-      "url": "https://www.cbc.ca/news/business/canada-post-community-mailboxes-questions-9.7148787?cmp=rss",
-      "title": "Canada Post is planning to end home delivery. Here's how community mailboxes will work",
-      "published_at": "2026-04-01T10:35:29-04:00",
-      "section": "Business",
-      "summary_auto": "If your dog goes crazy every time the mail delivery person shows up at your door, you may be relieved to know that it soon may no longer be a problem. But beyond that, a lot of people are uncertain what the pending demise of door-to-door mail delivery means for them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.631,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e09c1e118d8953020a5c0edb8958c77a9568f626",
-      "url": "https://www.cbc.ca/news/world/us-supreme-court-birthright-citizenship-arguments-9.7149797?cmp=rss",
-      "title": "Justices grill Trump administration lawyer on ending birthright citizenship, with president in attendance",
-      "published_at": "2026-04-01T08:59:29-04:00",
-      "section": "World",
-      "summary_auto": "Supreme Court justices, with Donald Trump breaking historical precedent by attending oral arguments, tackled the legality of his executive order to restrict birthright citizenship in the U.S., a contentious part of his administration's immigration approach.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
       }
     }
   ]
