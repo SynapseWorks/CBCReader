@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-03T10:38:21.504993-04:00",
+  "generated_at": "2026-04-03T14:38:22.762489-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "37b2ef7449393343e611fea0a17624d824a6a8b6",
+      "url": "https://www.cbc.ca/news/politics/champagne-china-trip-pork-tariffs-monetary-policy-finances-9.7152898?cmp=rss",
+      "title": "Champagne leaves China with pork tariffs still in place, but touts relationship-building",
+      "published_at": "2026-04-03T08:17:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Although Chinese tariffs on Canadian pork products remain in place after a visit to China by Finance Minister François-Philippe Champagne, he says the important task is relationship-building — and it's not realistic to expect immediate solutions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5587c4bc3bd9c8f9d1e5dc590ad6f69061ff663b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-say-damage-to-police-vehicles-in-first-nations-protest-includes-urine-soaked-interior-surfaces-9.7152851?cmp=rss",
+      "title": "RCMP say damage to police vehicles in First Nations protest includes 'urine-soaked interior surfaces'",
+      "published_at": "2026-04-03T06:48:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "RCMP say six of their vehicles that were left at the Potlotek First Nation Thursday after officers left the scene on foot suffered damage that includes broken windows, flat tires, \"urine-soaked interior surfaces\" and dents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2c5879e33bc0f3140dabb9200017cf54feb7e5f2",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-diamond-researcher-9.7152804?cmp=rss",
+      "title": "New mineral discovered inside deep-Earth diamond now named after Alberta geochemist",
+      "published_at": "2026-04-03T06:39:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "From the coalfields of northern England to the Arctic snows and the steaming jungles of Brazil, diamond hunter and scholar Graham Pearson has carved a name for himself that now lives on in rock.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "bc3ef6e7b9939d177ad5d15261cd2c80c888799c",
       "url": "https://www.cbc.ca/news/business/hyundai-canada-recall-9.7152814?cmp=rss",
@@ -121,32 +160,6 @@
       }
     },
     {
-      "id": "9a0f16e8114c9f92e9d48882a72c6b66926de8f5",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/pokemon-card-thief-vancouver-9.7152600?cmp=rss",
-      "title": "Sting operation from Vancouver police catches alleged Pokémon card thief",
-      "published_at": "2026-04-02T17:11:46-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Staff Sgt. Ryan Campbell says thefts occurred on five consecutive days from March 23, with victims saying they were bear-sprayed and robbed after arranging meetings on Facebook Marketplace.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7190a8a3e39f4fc050b1fd5f0ce4b925e8515929",
-      "url": "https://www.cbc.ca/news/canada/gas-prices-canada-two-dollar-litre-war-iran-9.7152548?cmp=rss",
-      "title": "Gas prices could rise above $2/litre across Canada as Iran war drags on, experts say",
-      "published_at": "2026-04-02T17:04:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The price of gas crossed the $2 per litre mark in some parts of Canada this week, something the rest of the country could see as the war in Iran drags on, experts say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.881,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "765914e4f5a3d51b5da8d87b0697ccc52851d590",
       "url": "https://www.cbc.ca/news/world/hegseth-army-chief-of-staff-retire-9.7152406?cmp=rss",
       "title": "Hegseth tells U.S. Army chief of staff to retire 'effective immediately' amid war in Iran",
@@ -156,97 +169,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.793,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a99b691ba7e2f3a37c359cbb96d10bf1c04e0ac3",
-      "url": "https://www.cbc.ca/player/play/9.7152343?cmp=rss",
-      "title": "Is Ukraine about to enter the war in the Middle East? | About That",
-      "published_at": "2026-04-02T13:56:53-04:00",
-      "section": "World",
-      "summary_auto": "As Iran strikes countries across the Persian Gulf, Ukraine is making defence agreements in the Middle East. Andrew Chang explains how Ukraine’s expertise in fighting Iranian-designed Shahed drones in its war with Russia could reshape the war in the Middle East and help regional allies rethink their defence strategies. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "774772ba2e359063dd86f6549100eccca0a3f240",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vernon-mobile-home-park-power-loss-9.7152632?cmp=rss",
-      "title": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs",
-      "published_at": "2026-04-02T13:40:25-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "beb14f4d6bb7b7f96aa723cc1d8ad28929b8a9c1",
-      "url": "https://www.cbc.ca/news/entertainment/blake-lively-justin-baldoni-lawsuit-judge-tosses-harassment-claim-9.7152290?cmp=rss",
-      "title": "Judge dismisses Blake Lively's sexual harassment claim against Justin Baldoni",
-      "published_at": "2026-04-02T13:24:53-04:00",
-      "section": "Entertainment",
-      "summary_auto": "A federal judge has dismissed actor Blake Lively's sexual harassment claims in her lawsuit against actor and director Justin Baldoni, significantly narrowing her case over the filming of their 2024 romantic drama It Ends With Us.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d3d61b514d95761c35ee610bb9edded974618957",
-      "url": "https://www.cbc.ca/radio/asithappens/sexual-harassment-billboard-9.7152106?cmp=rss",
-      "title": "When an airport rejected this harassment lawyer's small ad, she sued. Now she has a giant billboard",
-      "published_at": "2026-04-02T13:21:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A New York airport authority rejected sexual harassment lawyer Megan Thomas's ad copy and asked her to tone it down, so she filed a free speech lawsuit. The judge took her side, and now she has two massive ads on full display.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "40294606d03f4c5c6229336a2e147c8788a0440b",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/northern-cod-stock-is-now-in-the-healthy-zone-dfo-says-9.7152002?cmp=rss",
-      "title": "Northern cod stock is now in the 'healthy zone,' DFO says",
-      "published_at": "2026-04-02T12:00:45-04:00",
-      "section": "Canada",
-      "summary_auto": "The province's iconic Northern cod stock appears to be making a comeback.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "88d844ecf18ccc54d78f8b6e47e28bed03296f02",
-      "url": "https://www.cbc.ca/news/business/amazon-fuel-surcharge-canada-april-17-9.7151984?cmp=rss",
-      "title": "Amazon adding fuel surcharge for Canadian, U.S. sellers starting April 17",
-      "published_at": "2026-04-02T11:19:02-04:00",
-      "section": "Business",
-      "summary_auto": "Amazon is applying a fuel surcharge to fulfillment fees for sellers in Canada and the U.S. starting on April 17, a spokesperson for the e-commerce giant confirmed to CBC News on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "255ffbc7dc4077739c8b03dbdec916a7276e7df0",
-      "url": "https://www.cbc.ca/news/entertainment/donald-trump-upset-survivor-fans-9.7151852?cmp=rss",
-      "title": "'The tribe has spoken’: Survivor fans voice frustration after Trump address interrupts show",
-      "published_at": "2026-04-02T11:09:57-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The Survivor tribe has spoken…. and they’re not thrilled. That’s because on Wednesday night, CBS had to interrupt the series’ extra-long merge episode to air U.S. President Donald Trump’s prime-time address on the war in Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.845,
         "subjectivity_hint": "low"
       }
     }
