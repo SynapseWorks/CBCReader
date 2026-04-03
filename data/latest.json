@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-03T08:51:55.667954-04:00",
+  "generated_at": "2026-04-03T10:38:21.504993-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "bc3ef6e7b9939d177ad5d15261cd2c80c888799c",
+      "url": "https://www.cbc.ca/news/business/hyundai-canada-recall-9.7152814?cmp=rss",
+      "title": "Hyundai recalls some Canadian vehicles due to seatbelt issue",
+      "published_at": "2026-04-03T05:12:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In some cars, a wiring issue with the seatbelt may cause the seatbelt indicator to say the belt in the third-row driver's side seat is buckled, even when it's not. Hyundai says it will notify affected drivers in writing, though drivers can also check if they are impacted by the recall online.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "7dfe0c37cbe38aa22ddb8299faae7988a9ea4275",
       "url": "https://www.cbc.ca/news/health/invasive-meningococcal-disease-rising-9.7151929?cmp=rss",
@@ -17,19 +30,6 @@
       }
     },
     {
-      "id": "95145c773daa1c9ea10336105aea6de9796f44cc",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-explainer-9.7151561?cmp=rss",
-      "title": "What you should know ahead of curling’s Rock League debut season",
-      "published_at": "2026-04-03T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thought curling season was over? Well, think again. Because even after an electric ride through the Grand Slams, Olympic trials, Olympics, Scotties, Brier and world championships, there is one event still to come. Rock League — a new professional curling outfit — will make its debut Monday at Toronto’s Mattamy Athletic Centre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "ac8008dd1ea180308996db680538a6a934274717",
       "url": "https://www.cbc.ca/news/science/nature-conservation-carney-9.7152175?cmp=rss",
       "title": "Carney leans on private money, alternative approaches in nature strategy. Will it work?",
@@ -40,6 +40,19 @@
         "article_type": "News",
         "sentiment": -0.052,
         "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "95145c773daa1c9ea10336105aea6de9796f44cc",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-explainer-9.7151561?cmp=rss",
+      "title": "What you should know ahead of curling’s Rock League debut season",
+      "published_at": "2026-04-03T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thought curling season was over? Well, think again. Because even after an electric ride through the Grand Slams, Olympic trials, Olympics, Scotties, Brier and world championships, there is one event still to come. Rock League — a new professional curling outfit — will make its debut Monday at Toronto’s Mattamy Athletic Centre.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -65,6 +78,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1a8fb5f77c79fd0d248dd3ec4b8c37f287493c17",
+      "url": "https://www.cbc.ca/news/canada/toronto/transit-fares-ontario-9.7151607?cmp=rss",
+      "title": "Ontario's move to give transportation minister power to set fares has advocates concerned",
+      "published_at": "2026-04-03T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Ontario government is looking to give itself the power to set transit fares across the province, a move some in Toronto are celebrating as a step towards a more integrated transit system in the GTA — while others are apprehensive about what the move could mean for the TTC.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
         "subjectivity_hint": "medium"
       }
     },
@@ -147,15 +173,15 @@
       }
     },
     {
-      "id": "3273c56f8c204a774bff5a3038340f2c1dd77ab8",
-      "url": "https://www.cbc.ca/news/canada/london/london-modular-site-resident-9.7150199?cmp=rss",
-      "title": "Ontario shelter resident says he’d rather return to streets than stay at modular site",
+      "id": "774772ba2e359063dd86f6549100eccca0a3f240",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vernon-mobile-home-park-power-loss-9.7152632?cmp=rss",
+      "title": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs",
       "published_at": "2026-04-02T13:40:25-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -170,6 +196,19 @@
         "article_type": "News",
         "sentiment": -0.735,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d3d61b514d95761c35ee610bb9edded974618957",
+      "url": "https://www.cbc.ca/radio/asithappens/sexual-harassment-billboard-9.7152106?cmp=rss",
+      "title": "When an airport rejected this harassment lawyer's small ad, she sued. Now she has a giant billboard",
+      "published_at": "2026-04-02T13:21:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A New York airport authority rejected sexual harassment lawyer Megan Thomas's ad copy and asked her to tone it down, so she filed a free speech lawsuit. The judge took her side, and now she has two massive ads on full display.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.91,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -208,97 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.845,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd05c3b994f0a72c67627bd6220257284dab5e9e",
-      "url": "https://www.cbc.ca/news/world/why-trump-fired-pam-bondi-attorney-general-9.7152508?cmp=rss",
-      "title": "Pam Bondi's loyalty to Trump wasn't enough to keep her job. Here's why",
-      "published_at": "2026-04-02T10:31:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a6d6c280a1e93523440aaadcac9dad900bae132b",
-      "url": "https://www.cbc.ca/news/canada/hamilton/ontario-governance-structure-announcement-9.7151746?cmp=rss",
-      "title": "Ontario announces plan to slash Niagara Region, Simcoe County councils and add 'strong chair' powers",
-      "published_at": "2026-04-02T10:24:13-04:00",
-      "section": "Canada",
-      "summary_auto": "Under its new Better Regional Governance Act, 2026, the province will also have the power to appoint regional chairs in Durham, Halton, Muskoka, Peel, Waterloo and York as well as the warden of Simcoe County, it announced Thursday",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0790f7b5e70b28f3943b5fb402574c4d408843c9",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-carbon-burial-9.7151558?cmp=rss",
-      "title": "Burying burnt wood after wildfires could help the climate",
-      "published_at": "2026-04-02T10:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In this issue of our environmental newsletter, we take a closer look at a low-tech way to remove and lock away carbon; get a view from space of what the western U.S. heat wave did to the snow; and see what China's EV transition looks like on the ground.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "67c0df24f66eba3d8b9711fa5e7eead6b05318ef",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-secularism-bill-9.7151637?cmp=rss",
-      "title": "Quebec passes expanded secularism law targeting daycare workers, public prayer",
-      "published_at": "2026-04-02T09:31:09-04:00",
-      "section": "Canada",
-      "summary_auto": "The Coalition Avenir Québec government adopted legislation on Thursday that puts limits on praying in public and extends a ban on wearing religious symbols to daycare workers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3edb203b3ab9595fe0b066962e06ff4683a044ca",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-public-library-changes-9.7151744?cmp=rss",
-      "title": "Alberta tables bill to reduce child access to sexually explicit images in public libraries",
-      "published_at": "2026-04-02T09:20:18-04:00",
-      "section": "Canada",
-      "summary_auto": "The Alberta government is looking to make changes in all public libraries to ensure children and young teens don't have access to graphic sexual images.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94557ce3c0c55166bddabbc2edd9444d2e274b83",
-      "url": "https://www.cbc.ca/news/world/gaza-toddler-israeli-military-custody-9.7148662?cmp=rss",
-      "title": "Gaza family says toddler released from Israeli custody found with cigarette burn marks",
-      "published_at": "2026-04-02T09:15:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On March 19, the day before Eid al-Fitr, Osama Abu Nassar took his 18-month-old son, Jawad, to a supermarket east of al-Maghazi refugee camp in central Gaza when eyewitnesses say he approached a restricted area and was detained by the Israeli military.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5a9cea11e1a88e5e61bb7983a1f73d91d983602",
-      "url": "https://www.cbc.ca/news/canada/calgary/coutts-seizure-9.7151670?cmp=rss",
-      "title": "87 kilograms of cocaine seized at Coutts border",
-      "published_at": "2026-04-02T08:55:30-04:00",
-      "section": "Canada",
-      "summary_auto": "The Canadian Border Services Agency says it's intercepted 87 kilograms of suspected cocaine from a Calgary-bound commercial truck labelled as carrying produce.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
         "subjectivity_hint": "low"
       }
     }
