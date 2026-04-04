@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-03T14:38:22.762489-04:00",
+  "generated_at": "2026-04-03T21:44:19.132406-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5587c4bc3bd9c8f9d1e5dc590ad6f69061ff663b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-say-damage-to-police-vehicles-in-first-nations-protest-includes-urine-soaked-interior-surfaces-9.7152851?cmp=rss",
+      "title": "RCMP say damage to police vehicles in First Nations protest includes 'urine-soaked interior surfaces'",
+      "published_at": "2026-04-03T16:27:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2fcd8436f16093ba73c509761b4e49e104244ceb",
+      "url": "https://www.cbc.ca/news/world/trump-alcatraz-9.7153084?cmp=rss",
+      "title": "Trump administration seeks $152M to reopen Alcatraz as 'state-of-the-art secure prison'",
+      "published_at": "2026-04-03T12:35:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The White House released a budget on Friday, in which the Trump administration requested funds for the ⁠Federal Bureau ⁠of Prisons to cover the ‌first-year costs of rebuilding Alcatraz into \"a state-of-the-art secure prison facility.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d7f91ec10a788d5349ffb0d3ead32540e00a9229",
+      "url": "https://www.cbc.ca/radio/thecurrent/actor-andrew-mccarthy-male-friendship-book-9.7152870?cmp=rss",
+      "title": "Is male friendship in trouble? Actor Andrew McCarthy went on a road trip to find out",
+      "published_at": "2026-04-03T12:14:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After the author and \"Brat Pack\" actor's wife and son confronted him with the fact he didn't have friends anymore, McCarthy crisscrossed the country to visit old friends and ask strangers whether friendships between men are in trouble.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.04,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ca1aa1addce0d4118eda31053dc7a3cc1a18ed15",
+      "url": "https://www.cbc.ca/news/world/iran-war-lebanon-universities-warning-9.7153025?cmp=rss",
+      "title": "Israel strikes Beirut as U.S. warns Iran may target universities",
+      "published_at": "2026-04-03T12:10:00-04:00",
+      "section": "World",
+      "summary_auto": "Israel pounded Beirut with airstrikes on Friday that the military said ‌had targeted what it calls militant \"infrastructure\" in Lebanon's capital, as the U.S. warned that Iran may target universities in the country as war in the Middle East rages.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.9,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7840adf79aa2c996c66adf800c000f7afa7d87d8",
+      "url": "https://www.cbc.ca/news/canada/manitoba/grifols-health-canada-conditions-winnipeg-update-9.7153040?cmp=rss",
+      "title": "2 deaths after giving plasma in Winnipeg not linked to donation process: Health Canada",
+      "published_at": "2026-04-03T11:52:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal health regulator said Friday its assessment found no evidence of a machine malfunction and the equipment performed as expected, wrote Health Canada spokesperson Mark Johnson in an emailed statement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fa2de3893fbda964ce1d34efa4709274959303be",
+      "url": "https://www.cbc.ca/sports/basketball/wnba-expansion-draft-toronto-tempo-9.7152897?cmp=rss",
+      "title": "Toronto Tempo select guard Julie Allemand as 1st-ever player in WNBA expansion draft",
+      "published_at": "2026-04-03T11:36:12-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Toronto Tempo selected Julie Allemand with their first pick of the WNBA expansion draft on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "37b2ef7449393343e611fea0a17624d824a6a8b6",
       "url": "https://www.cbc.ca/news/politics/champagne-china-trip-pork-tariffs-monetary-policy-finances-9.7152898?cmp=rss",
@@ -14,19 +92,6 @@
         "article_type": "News",
         "sentiment": 0.758,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5587c4bc3bd9c8f9d1e5dc590ad6f69061ff663b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-say-damage-to-police-vehicles-in-first-nations-protest-includes-urine-soaked-interior-surfaces-9.7152851?cmp=rss",
-      "title": "RCMP say damage to police vehicles in First Nations protest includes 'urine-soaked interior surfaces'",
-      "published_at": "2026-04-03T06:48:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "RCMP say six of their vehicles that were left at the Potlotek First Nation Thursday after officers left the scene on foot suffered damage that includes broken windows, flat tires, \"urine-soaked interior surfaces\" and dents.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -112,7 +177,7 @@
       "url": "https://www.cbc.ca/news/politics/csis-rcmp-data-access-telecoms-9.7148631?cmp=rss",
       "title": "Liberal bill would force companies to simplify data access for police. No one knows the cost",
       "published_at": "2026-04-03T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Liberal government's second attempt at giving police and spies easier access to Canadians' information includes what's anticipated to be costly demands on a range of private businesses to to change how they manage their data.",
       "bias_heuristic": {
         "article_type": "News",
@@ -143,32 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.776,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d7bbde32ce69d20eb1b20f29215007b1e37307b9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ferries-northern-adventure-milbanke-sound-9.7152608?cmp=rss",
-      "title": "B.C. Ferries details close call with northern ferry weeks after it veered a metre from rocks",
-      "published_at": "2026-04-02T18:34:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Details are being shared about a recent incident involving a B.C. Ferries vessel that veered off course near rock shoals off the northern coast on March 8. On Thursday, the company summarized what happened and confirmed an investigation is underway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "765914e4f5a3d51b5da8d87b0697ccc52851d590",
-      "url": "https://www.cbc.ca/news/world/hegseth-army-chief-of-staff-retire-9.7152406?cmp=rss",
-      "title": "Hegseth tells U.S. Army chief of staff to retire 'effective immediately' amid war in Iran",
-      "published_at": "2026-04-02T14:45:33-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. War Secretary Pete Hegseth has asked the army's top uniformed officer to step down, the Pentagon said Thursday without giving a reason for the departure as the United States wages a war against Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.793,
         "subjectivity_hint": "low"
       }
     }
