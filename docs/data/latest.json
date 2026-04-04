@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-04T08:40:29.481353-04:00",
+  "generated_at": "2026-04-04T10:28:30.860011-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "a912ed156492ab7a072411c29bc409d12a3f1a56",
+      "url": "https://www.cbc.ca/news/canada/burdett-sisler-oldest-canadian-died-9.7153267?cmp=rss",
+      "title": "Burdett 'Burd' Sisler, war veteran and oldest known living Canadian, has died at 110",
+      "published_at": "2026-04-04T05:28:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Burdett \"Burd\" Sisler, the oldest known living Canadian — and one of the world's oldest Second World War veterans — has died at 110, his family confirmed on Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.943,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c6126c51a0d91ece9c02ce5622203aa714f7b5ce",
+      "url": "https://www.cbc.ca/news/science/jeremy-hansen-video-call-space-9.7153221?cmp=rss",
+      "title": "Canadian astronaut Jeremy Hansen talks about 'incredible' views of Earth in live video call from deep space",
+      "published_at": "2026-04-04T04:23:11-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The virtual event featured Hansen speaking live from aboard NASA's Orion spacecraft, approximately three days into the 10-day lunar flyby mission.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "d974ae2ea8ef024513a79a84daa5f44dc3607622",
       "url": "https://www.cbc.ca/news/canada/easter-baskets-gifts-kids-9.7150263?cmp=rss",
@@ -32,13 +58,13 @@
     {
       "id": "42357d6798f421544618d5590db7f9c35bcb3b88",
       "url": "https://www.cbc.ca/news/world/darjeeling-tea-india-drought-rain-climate-change-9.7152129?cmp=rss",
-      "title": "How climate change is threatening the flavour — and future — of India's prized Darjeeling tea",
+      "title": "Darjeeling is world renowned. But demand for 'champagne of teas' is going flat as drought dulls its flavour",
       "published_at": "2026-04-04T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "An extremely dry winter has made for another challenging harvest of India's famous Darjeeling tea, with the flavour the region is renowned for at risk as quality dips. As climate change makes the weather more erratic in the Himalayan foothills, estate owners are growing ever more worried about the future of their businesses.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.317,
+        "sentiment": -0.448,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +125,7 @@
       "url": "https://www.cbc.ca/news/world/trump-alcatraz-9.7153084?cmp=rss",
       "title": "Trump administration seeks $152M to reopen Alcatraz as 'state-of-the-art secure prison'",
       "published_at": "2026-04-03T12:35:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The White House released a budget on Friday, in which the Trump administration requested funds for the ⁠Federal Bureau ⁠of Prisons to cover the ‌first-year costs of rebuilding Alcatraz into \"a state-of-the-art secure prison facility.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -156,19 +182,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "24817388394f5c586540dc6be0e23b47d336b669",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/mens-curling-world-championship-playoffs-april-3-9.7153009?cmp=rss",
-      "title": "Canada's Matt Dunstone to face Sweden for gold at men's curling worlds",
-      "published_at": "2026-04-03T10:24:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's Matt Dunstone will be playing for a gold medal on Saturday at the world men's curling championship in Ogden, Utah. The Winnipeg-based team defeated Scotland 9-7 in a thrilling semifinal Friday evening, scoring a deuce in the ninth to go ahead 8-7 and then stealing one in the 10th to beat Ross Whyte's squad.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
         "subjectivity_hint": "low"
       }
     }
