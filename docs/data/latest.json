@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-05T08:42:27.106957-04:00",
+  "generated_at": "2026-04-05T10:30:09.078984-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8ee49b09f446e1ac71a0093b7ecdd6588a421363",
+      "url": "https://www.cbc.ca/news/world/pope-leo-easter-message-9.7153591?cmp=rss",
+      "title": "On Easter, Pope Leo urges world leaders to end wars, conquest",
+      "published_at": "2026-04-05T05:53:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pope Leo urged global leaders in his Easter message on Sunday to end the conflicts raging across the world and abandon any schemes for power, conquest or domination.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.914,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ca64216bd799c4339507a3ccb370b6867ad63632",
+      "url": "https://www.cbc.ca/news/world/israeli-airstrike-palestinians-killed-9.7153563?cmp=rss",
+      "title": "Israeli airstrike kills 4 Palestinians in Gaza, medics say",
+      "published_at": "2026-04-05T04:40:59-04:00",
+      "section": "World",
+      "summary_auto": "An Israeli airstrike killed four Palestinians in the northern Gaza Strip on Sunday, local health authorities said, in the latest violence to overshadow ‌a fragile ceasefire amid a new push by mediators to bolster the agreement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "47af094f8927e1e7ebba85e8281a4d353a599a8e",
+      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-april-05-2025-9.7151905?cmp=rss",
+      "title": "Bogus maple syrup and WestJet under fire for flight cancellations: CBC's Marketplace Cheat Sheet",
+      "published_at": "2026-04-05T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f2575619c449ca1f63705f4863db2483b54e3311",
+      "url": "https://www.cbc.ca/news/canada/london/transport-canada-headlight-glare-survey-9.7152195?cmp=rss",
+      "title": "Blinded by the headlights? Transport Canada wants to know",
+      "published_at": "2026-04-05T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A London, Ont., optometrist says she's hearing more concerns from patients about  difficulty driving in the dark and headlight brightness. Transport Canada is asking drivers, pedestrians and cyclists to share their experiences with vehicle headlight glare through an online survey.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a9dcdfe8d999371cf2d627322f0f38d5a563b1a6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-federation-seniors-rebuilding-9.7145950?cmp=rss",
+      "title": "COVID-19 wreaked havoc on this N.S. seniors' group. It's now trying to rebuild",
+      "published_at": "2026-04-05T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "An organization that has advocated for Nova Scotia seniors for more than five decades says there's a sad reason why its membership numbers have dropped sharply in recent years. \"We lost a lot of people through COVID,\" says the president of the Nova Scotia Federation of Seniors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "4f06d5b2a2d384650c150babab4652696b012a0f",
       "url": "https://www.cbc.ca/news/canada/north/kadin-savikataaq-missing-arviat-nunavut-9.7150894?cmp=rss",
@@ -19,13 +84,13 @@
     {
       "id": "2a166ff2fce28ad83c613c8fe7471a1c13429991",
       "url": "https://www.cbc.ca/radio/injectable-peptides-explainer-9.7151279?cmp=rss",
-      "title": "Injectable peptides touted as new fountain of youth. But the science isn't there",
+      "title": "Influencers tout injectable peptides as key to youth and beauty. Scientists say they're 'a giant scam'",
       "published_at": "2026-04-05T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "Crocodile dung. Tapeworms. Raw meat facials. Yes, at some point in history these wildly popular — and wildly unproven — treatments were how people tried to stay young. Right now, plenty of influencers will tell you that injectable peptides are the answer. But the scientists? Not so much.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.799,
+        "sentiment": 0.372,
         "subjectivity_hint": "low"
       }
     },
@@ -52,6 +117,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "571f904b65deffb7fe4b327bc88c8d7695099a87",
+      "url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss",
+      "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
+      "published_at": "2026-04-05T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "The timing of King Charles's upcoming state visit to the United States has sparked controversy and questions — particularly given the ongoing U.S.-Israel war against Iran, the geopolitical turmoil it has caused and the current strain in the relationship between the United Kingdom and the U.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2a166ff2fce28ad83c613c8fe7471a1c13429991",
+      "url": "https://www.cbc.ca/radio/injectable-peptides-explainer-9.7151279?cmp=rss",
+      "title": "Injectable peptides touted as new fountain of youth. But the science isn't there",
+      "published_at": "2026-04-05T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Crocodile dung. Tapeworms. Raw meat facials. Yes, at some point in history these wildly popular — and wildly unproven — treatments were how people tried to stay young. Right now, plenty of influencers will tell you that injectable peptides are the answer. But the scientists? Not so much.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.799,
         "subjectivity_hint": "low"
       }
     },
@@ -117,32 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "16c875470744db46e0d8b98a52db576ea3d6d1d2",
-      "url": "https://www.cbc.ca/news/entertainment/collien-fernandes-christian-ulmen-sexual-deepfake-allegations-9.7136770?cmp=rss",
-      "title": "German celebrity Collien Fernandes says husband spread sexual deepfakes of her for years",
-      "published_at": "2026-04-04T09:42:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Collien Fernandes says her husband spread pornographic deepfakes of her for around a decade. Multiple experts and online commenters are now calling the actress a \"digital Pelicot\" after she spoke out about what she has called her \"virtual rape,\" generating protests and a push for change in Germany.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6e68e8bb82383546e785c88311f3f6ff4d89819b",
-      "url": "https://www.cbc.ca/news/world/fourth-person-arrested-uk-jewish-ambulance-attacks-9.7153339?cmp=rss",
-      "title": "U.K. police arrest 4th suspect in connection with arson attack on Jewish ambulances",
-      "published_at": "2026-04-04T08:46:04-04:00",
-      "section": "World",
-      "summary_auto": "British police arrested a fourth person in connection with an ‌arson attack on Jewish community ambulances that happened last month, with the detention happening at a London court where three males already charged in the case were appearing, prosecutors said on Saturday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.945,
         "subjectivity_hint": "low"
       }
     }
