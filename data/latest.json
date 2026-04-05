@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-04T14:33:16.435590-04:00",
+  "generated_at": "2026-04-04T21:55:43.088075-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "98fee21aeab2dac28e3c6b84712225dc13305c77",
+      "url": "https://www.cbc.ca/news/science/artemis-ii-toilet-9.7153491?cmp=rss",
+      "title": "Houston, we've got a plumbing problem: Artemis II toilet is still on the fritz",
+      "published_at": "2026-04-04T15:38:30-04:00",
+      "section": "World",
+      "summary_auto": "Until the bathroom is fixed, mission control has instructed the astronauts to break out urine collection bags. The so-called lunar loo malfunctioned following Wednesday's liftoff and has been hit-and-miss ever since.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4c4cd1771ed70b2992ecd657d72804942117be86",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/canada-sweden-men-s-curling-world-championship-final-9.7153477?cmp=rss",
+      "title": "Canada falls to Sweden 9-6 in final of men’s curling worlds",
+      "published_at": "2026-04-04T14:50:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s Matt Dunstone fell 9-6 to Sweden in Saturday’s final of the 2026 World Men’s Curling Championship. Canada has not won the men’s world title since 2017.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.025,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ae41efa39d79655ddbe58581f5d23d88dffb146",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/listeria-recall-cfia-9.7153348?cmp=rss",
+      "title": "CFIA announces recalls for salads, cheeses and meal kits over listeria concerns",
+      "published_at": "2026-04-04T10:31:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian Food Inspection Agency has announced recalls due to possible listeria contamination affecting products including salads, cheese and meal kits.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "16c875470744db46e0d8b98a52db576ea3d6d1d2",
       "url": "https://www.cbc.ca/news/entertainment/collien-fernandes-christian-ulmen-sexual-deepfake-allegations-9.7136770?cmp=rss",
@@ -35,10 +74,10 @@
       "title": "Five people critically injured in apartment building fire in London, Ont.",
       "published_at": "2026-04-04T07:53:27-04:00",
       "section": "Top Stories",
-      "summary_auto": "Nine people, including an infant, were taken to the hospital after a fire at a London apartment building Saturday morning, according to first responders.",
+      "summary_auto": "A fire forced the evacuation of an entire floor of a London & Middlesex apartment building and sent nine people to hospital in London, Ont., early Saturday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.758,
+        "sentiment": -0.859,
         "subjectivity_hint": "low"
       }
     },
@@ -95,6 +134,19 @@
       }
     },
     {
+      "id": "1d49190c687b59ef14c834937460ef243526bfd9",
+      "url": "https://www.cbc.ca/news/canada/toronto/brampton-shooting-two-dead-9.7153240?cmp=rss",
+      "title": "2 dead following shooting in Brampton, Ont., schoolyard, police say",
+      "published_at": "2026-04-04T04:10:23-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Two people are dead after a shooting in a Brampton elementary schoolyard late Friday, according to Peel police.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d974ae2ea8ef024513a79a84daa5f44dc3607622",
       "url": "https://www.cbc.ca/news/canada/easter-baskets-gifts-kids-9.7150263?cmp=rss",
       "title": "When did Easter become 'spring Christmas'? Stressed parents would like to know",
@@ -110,7 +162,7 @@
     {
       "id": "e40b6778c324a669783d2822745e8adbb6caa475",
       "url": "https://www.cbc.ca/news/canada/iran-war-mortgage-rates-canada-9.7152182?cmp=rss",
-      "title": "How the Middle East war is already impacting mortgage rates in Canada",
+      "title": "How the war in the Middle East is already impacting mortgage rates in Canada",
       "published_at": "2026-04-04T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "The ongoing war in Iran and the closure of the Strait of Hormuz are impacting Canadian pocketbooks in ways we might not expect. Experts warn Canadian homeowners facing mortgage renewals that rates are going up, despite the Bank of Canada holding its key interest rate for months.",
@@ -156,45 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "db6804bd28bd77c07cd2cb27701a99c0751a7e20",
-      "url": "https://www.cbc.ca/news/world/evacuations-wildfire-southern-california-9.7153188?cmp=rss",
-      "title": "Smoky, fast-moving wildfire triggers evacuation orders in Southern California",
-      "published_at": "2026-04-03T18:28:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The fire was burning in a populated — but not densely so — unincorporated part of Riverside County, in a recreational area near the city of Moreno Valley, which has a population of roughly 200,000.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5587c4bc3bd9c8f9d1e5dc590ad6f69061ff663b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-say-damage-to-police-vehicles-in-first-nations-protest-includes-urine-soaked-interior-surfaces-9.7152851?cmp=rss",
-      "title": "RCMP say damage to police vehicles in First Nations protest includes 'urine-soaked interior surfaces'",
-      "published_at": "2026-04-03T16:27:48-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c8b2ad0c21a76f0a3680ee6db0335f6a2c2daae2",
-      "url": "https://www.cbc.ca/player/play/9.7153004?cmp=rss",
-      "title": "Hunting for a cause: National Service Dogs hosts an Easter egg hunt for dogs",
-      "published_at": "2026-04-03T15:19:56-04:00",
-      "section": "Canada",
-      "summary_auto": "For three decades, National Service Dogs, a charity that trains service dogs, has turned the classic Easter egg hunt into a powerhouse fundraiser. Every hidden egg helps pair life-changing companions with those who need them most.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
         "subjectivity_hint": "low"
       }
     }
