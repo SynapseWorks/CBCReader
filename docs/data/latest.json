@@ -1,19 +1,45 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-06T10:41:05.879773-04:00",
+  "generated_at": "2026-04-06T14:49:46.562978-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "b6bc01ced888a25d886a89cfe4f5f3c352383cac",
+      "url": "https://www.cbc.ca/news/world/russia-drone-attack-odesa-ukraine-kills-three-9.7154042?cmp=rss",
+      "title": "Woman, toddler daughter among 3 killed in Russia drone attack in Ukraine's Odesa",
+      "published_at": "2026-04-06T07:26:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russia launched a drone attack on Ukraine's Black Sea port of Odesa overnight Monday, killing a 30-year-old woman, her two-year-old daughter and another woman, while damaging residential buildings and energy infrastructure, the regional governor said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.95,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "fbecb04b751afdcb6171eaee45744ebe7187a899",
       "url": "https://www.cbc.ca/news/canada/british-columbia/huxley-raven-sneeze-prince-george-9.7150641?cmp=rss",
       "title": "Rescued raven learns to imitate 'dramatic' sneeze of B.C. shelter operator",
       "published_at": "2026-04-06T04:00:00-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Huxley the raven is a permanent rescue at Good Caws Crow Rescue in Prince George, B.C. In addition to pretending to sneeze, he likes to repeat his own name, play with squeaky toys and take baths.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.951,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "08d21ad8925f21bc4cb88c526e27f8f176d47402",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-rural-vet-clinic-coronation-9.7152368?cmp=rss",
+      "title": "Alberta town takes DIY approach to tackle long-standing livestock vet shortage",
+      "published_at": "2026-04-06T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "In rural Alberta, getting to see a veterinarian can take hours, and during calving season, a critical time for ranchers, the stakes can be high.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -53,6 +79,19 @@
         "article_type": "News",
         "sentiment": -0.494,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6be6d4341b2e9239f5f9eb95945244694b42d33b",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-administrative-workload-family-doctors-9.7141517?cmp=rss",
+      "title": "P.E.I.'s family doctors are buried in paperwork. These experts have ways to ease that burden",
+      "published_at": "2026-04-06T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Family doctors in P.E.I. have recently been voicing concerns about their growing administrative workload, and experts say addressing the issue will require a range of changes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -183,32 +222,6 @@
         "article_type": "News",
         "sentiment": 0.942,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8eca27bf1d197c60cd0a41de8f2e46dda25ce4f3",
-      "url": "https://www.cbc.ca/news/canada/calgary/westjet-surcharge-companion-voucher-9.7153798?cmp=rss",
-      "title": "WestJet introducing temporary fuel surcharge on companion voucher bookings",
-      "published_at": "2026-04-05T14:02:24-04:00",
-      "section": "Canada",
-      "summary_auto": "WestJet's new temporary fuel surcharge of $60 on all companion voucher bookings takes effect Wednesday, April 8.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4425f53865e7093a8da3234c36a3b912a8e08246",
-      "url": "https://www.cbc.ca/sports/swedish-video-oskar-eriksson-double-touch-demonstration-9.7153658?cmp=rss",
-      "title": "Canada-Sweden curling feud reignites as Eriksson video stirs 'double-touch' debate",
-      "published_at": "2026-04-05T11:19:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A video demonstration from Swedish curler Oskar Eriksson is adding fresh fuel to one of the most debated moments of Olympic curling.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
       }
     }
   ]
