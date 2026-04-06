@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-06T08:57:29.699753-04:00",
+  "generated_at": "2026-04-06T10:41:05.879773-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "fbecb04b751afdcb6171eaee45744ebe7187a899",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/huxley-raven-sneeze-prince-george-9.7150641?cmp=rss",
+      "title": "Rescued raven learns to imitate 'dramatic' sneeze of B.C. shelter operator",
+      "published_at": "2026-04-06T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Huxley the raven is a permanent rescue at Good Caws Crow Rescue in Prince George, B.C. In addition to pretending to sneeze, he likes to repeat his own name, play with squeaky toys and take baths.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.951,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "982fa36b857221b77145677fbca5671f57808f3c",
       "url": "https://www.cbc.ca/player/play/9.7152819?cmp=rss",
@@ -19,14 +32,40 @@
     {
       "id": "7fb831980ce02a559b3fb33ef48428777f0d71d8",
       "url": "https://www.cbc.ca/news/world/savannah-guthrie-returns-today-show-9.7153908?cmp=rss",
-      "title": "Savannah Guthrie returns as Today show co-anchor for 1st time since mother's disappearance",
+      "title": "Savannah Guthrie returns as Today show co-host for 1st time since mother's disappearance",
       "published_at": "2026-04-06T02:49:58-04:00",
       "section": "Top Stories",
-      "summary_auto": "Savannah Guthrie returned to NBC's Today show Monday for the first time in over two months, since her mother's disappearance Feb. 1. \"OK, here we go. Ready or not, let’s do the news,\" the longtime co-anchor said at the outset of the show.",
+      "summary_auto": "Savannah Guthrie returned to NBC's Today show on Monday for the first time in over two months, since her mother's disappearance Feb. 1. \"OK, here we go. Ready or not, let’s do the news,\" the longtime co-host said at the outset of the show.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "79b3a19e50419b98392b4d5b307e3015b2cd48c7",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-correctional-officer-smuggling-shatter-9.7153271?cmp=rss",
+      "title": "Underbelly of N.S. jail drug trade revealed in former guard’s sentencing",
+      "published_at": "2026-04-06T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The case of a correctional officer caught trying to smuggle a potent form of cannabis into a Nova Scotia jail is shedding light on the world of inmate drug trafficking, including testimony about enormously lucrative prices, steep debts and power behind bars.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2aa4cef60f3b4273c10e165159e98abfc7c368a2",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-municipalities-funding-gap-9.7150596?cmp=rss",
+      "title": "Ontario municipalities say they're at ‘critical’ point, call on province to fill $4B funding gap",
+      "published_at": "2026-04-06T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Municipalities across Ontario say they can no longer foot the bill for provincial programming like social services and health care, saying they face an “unsustainable” funding shortfall of billions of dollars annually.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.542,
+        "subjectivity_hint": "low"
       }
     },
     {
