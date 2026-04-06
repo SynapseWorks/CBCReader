@@ -1,18 +1,135 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-05T21:56:58.728135-04:00",
+  "generated_at": "2026-04-06T08:57:29.699753-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | Trump escalates threats after Iran rescue mission",
-      "published_at": "2026-04-05T17:00:00-04:00",
+      "id": "982fa36b857221b77145677fbca5671f57808f3c",
+      "url": "https://www.cbc.ca/player/play/9.7152819?cmp=rss",
+      "title": "At 80 years old, he braves the Saskatchewan winter on a bicycle",
+      "published_at": "2026-04-06T03:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "April 5, 2026 | U.S. President Donald Trump fires off an expletive-laden ultimatum for Iran hours after a daring rescue mission to save an American pilot. The Artemis II crew gears up for a lunar flyby. And, advance polls open for three crucial federal byelections.",
+      "summary_auto": "Retired lawyer Louis Stringer is always on the move. He regularly cycles the roads of his community of Gravelbourg, 200 km southwest of Regina, in summer and winter.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.859,
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7fb831980ce02a559b3fb33ef48428777f0d71d8",
+      "url": "https://www.cbc.ca/news/world/savannah-guthrie-returns-today-show-9.7153908?cmp=rss",
+      "title": "Savannah Guthrie returns as Today show co-anchor for 1st time since mother's disappearance",
+      "published_at": "2026-04-06T02:49:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Savannah Guthrie returned to NBC's Today show Monday for the first time in over two months, since her mother's disappearance Feb. 1. \"OK, here we go. Ready or not, let’s do the news,\" the longtime co-anchor said at the outset of the show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "924fa15cc6f63e5d383e64ed92634e03f48cb350",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/the-innu-nation-flag-is-on-board-for-the-artemis-ii-moon-mission-9.7151982?cmp=rss",
+      "title": "The Innu Nation flag is on board for the Artemis II moon mission",
+      "published_at": "2026-04-06T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jeremy Hansen carried an Innu Nation flag with him on the 10-day mission, launching Wednesday from the Kennedy Space Center in Florida.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ea82a91f8818fb1a2272ce0d21354bfac0fe8ad",
+      "url": "https://www.cbc.ca/news/canada/toronto/cunningham-fader-niagara-homicide-9.7152009?cmp=rss",
+      "title": "Police probe gun, SUV used in Ryan Wedding-linked homicide for ties to unsolved cases",
+      "published_at": "2026-04-06T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Two years after the killing of a suspected drug trafficker in Niagara Falls, Ont. — purportedly targeted by Ryan Wedding's alleged criminal network — police are still trying to unlock the victim's phone and identify more suspects. Details of the case are contained in a new police affidavit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3647a9cb3e87eb2d0887e3f8f30c4aa81b283559",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-typewriter-company-9.7152119?cmp=rss",
+      "title": "In the age of autocorrect, this typewriter shop owner in Hamilton wants you to write with intention",
+      "published_at": "2026-04-06T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jonathan Marshall has been repairing typewriters for about 10 years. In March, he opened a repair shop and museum in Hamilton. He says his ultimate goal is to help people think more intentionally about the words they write.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b52a9de6d3b1b353e12cd4e9e026f370cdf60bae",
+      "url": "https://www.cbc.ca/news/science/grid-solar-africa-9.7126087?cmp=rss",
+      "title": "Solar power in Africa is heating up — thanks in part to chili peppers",
+      "published_at": "2026-04-06T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "They're the chili peppers in the spicy chicken at a restaurant you might know. And they were an ingredient used by a Canadian company to build the first solar power plants in Malawi.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "969259b0e42419d9b72bd916252b76cb9348718f",
+      "url": "https://www.cbc.ca/news/politics/brian-masse-sports-betting-9.7149986?cmp=rss",
+      "title": "Former MP behind sports gambling legalization says some results are 'deplorable'",
+      "published_at": "2026-04-06T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The former MP who spent more than a decade pushing to legalize single-event sports betting says he doesn't regret it — but says its implementation is in some ways \"sad\" and \"deplorable.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.54,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "378d1e4c4cbaaf3eb223d5577c59daa46f10e057",
+      "url": "https://www.cbc.ca/player/play/9.7153881?cmp=rss",
+      "title": "#TheMoment Canadian seniors pulled their own KitKat heist",
+      "published_at": "2026-04-05T18:08:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Staff members Katie Hourigan and Judie Gibbons tell The National about the moment they made a video recreating the recent KitKat heist at a seniors' residence in Oakville, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c7e81b92f1c033d8765fe16c7bf4bf258d25ccd9",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-snow-police-collisions-9.7153843?cmp=rss",
+      "title": "More than 160 crashes reported by Calgary police Sunday amid snowfall",
+      "published_at": "2026-04-05T15:44:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Yet another round of snowfall hit Calgary Sunday. Dangerous driving conditions led to a significant number of accidents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9a8ebebf933e1064106c3d64cb0b7286cafaf8bf",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-ferries-disruptions-easter-long-weekend-9.7153817?cmp=rss",
+      "title": "B.C. Ferries warns of more cancellations as winds threaten sailings after chaotic long weekend",
+      "published_at": "2026-04-05T15:30:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Some ferry sailings between the Lower Mainland and Vancouver Island are at risk of cancellation Monday as strong winds are expected along the southern coast and parts of the Island.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
         "subjectivity_hint": "low"
       }
     },
@@ -34,24 +151,11 @@
       "url": "https://www.cbc.ca/news/canada/calgary/westjet-surcharge-companion-voucher-9.7153798?cmp=rss",
       "title": "WestJet introducing temporary fuel surcharge on companion voucher bookings",
       "published_at": "2026-04-05T14:02:24-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "WestJet's new temporary fuel surcharge of $60 on all companion voucher bookings takes effect Wednesday, April 8.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74235681e141b2a6ee7152b55d6e7eda23812c7e",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-curlers-expectations-9.7153745?cmp=rss",
-      "title": "Trophies, rivalries and a bar: What curlers expect in Rock League’s debut season",
-      "published_at": "2026-04-05T12:05:08-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Curling is set to enter the great unknown. Debuting Monday, Rock League is just a little different from your typical tournament, from mixed 10-player teams to new rules to a bar that will be positioned in between the sheets on the ice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -65,266 +169,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50f1762814406d33a587f1617f2d09b3ac427f9c",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/houston-blasts-first-nations-protests-9.7153648?cmp=rss",
-      "title": "N.S. premier blasts First Nation highway blockades, calls for RCMP to be respected",
-      "published_at": "2026-04-05T08:41:34-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Nova Scotia Premier Tim Houston called the recent protests by First Nations over cannabis raids in their communities unacceptable in a statement posted to Facebook Saturday night. The protests blocked several highways throughout the province in reaction to RCMP seizing cannabis products from First Nations dispensaries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8ee49b09f446e1ac71a0093b7ecdd6588a421363",
-      "url": "https://www.cbc.ca/news/world/pope-leo-easter-message-9.7153591?cmp=rss",
-      "title": "On Easter, Pope Leo urges world leaders to end wars, conquest",
-      "published_at": "2026-04-05T05:53:13-04:00",
-      "section": "World",
-      "summary_auto": "Pope Leo urged global leaders in his Easter message on Sunday to end the conflicts raging across the world and abandon any schemes for power, conquest or domination.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ca64216bd799c4339507a3ccb370b6867ad63632",
-      "url": "https://www.cbc.ca/news/world/israeli-airstrike-palestinians-killed-9.7153563?cmp=rss",
-      "title": "Israeli airstrike kills 4 Palestinians in Gaza, medics say",
-      "published_at": "2026-04-05T04:40:59-04:00",
-      "section": "World",
-      "summary_auto": "An Israeli airstrike killed four Palestinians in the northern Gaza Strip on Sunday, local health authorities said, in the latest violence to overshadow ‌a fragile ceasefire amid a new push by mediators to bolster the agreement.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "700b6942d47592f9da7d51baab59772f0288278f",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-grizzly-bear-hunt-rma-9.7150252?cmp=rss",
-      "title": "Rural municipalities call on Alberta government to open grizzly bear hunt",
-      "published_at": "2026-04-05T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Rural Municipalities of Alberta organization is advocating for the provincial government to legalize grizzly bear hunting in light of what Cardston County calls increased reports of negative human-bear interactions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ece85c1ebdbeadf5c6f4a25ac097d8f9fcef45dd",
-      "url": "https://www.cbc.ca/news/canada/north/yukon-man-grows-pineapple-at-home-9.7152274?cmp=rss",
-      "title": "Yukon man grows pineapple at home — and it only took 9 years",
-      "published_at": "2026-04-05T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When Alex Oberg finally cut into the fruit for a taste, it was a bit sour. 'We maybe could have waited a little bit longer,' he said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "47af094f8927e1e7ebba85e8281a4d353a599a8e",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-april-05-2025-9.7151905?cmp=rss",
-      "title": "Bogus maple syrup and WestJet under fire for flight cancellations: CBC's Marketplace Cheat Sheet",
-      "published_at": "2026-04-05T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b1ad5b7eb8507bbd6a38176b259cac97bc0a6920",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/himmat-rai-recycling-centre-birthday-9.7151026?cmp=rss",
-      "title": "5-year-old B.C. boy celebrates birthday at recycling centre",
-      "published_at": "2026-04-05T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "For most people, recycling is a chore. But for Himmat Rai, a five-year-old living in Maple Ridge, B.C., he says it's his \"favourite thing to do.\" And to celebrate his passion for recycling, Rai and over a dozen of his classmates celebrated his fifth birthday at the local recycling centre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.955,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c0e89ff7440f6ebac4631445243aabf7e52dee6",
-      "url": "https://www.cbc.ca/news/canada/sudbury/victoria-cross-petition-ontario-support-9.7147471?cmp=rss",
-      "title": "Ontario supports House of Commons petition to allow top military honour to be awarded to late Ontario veteran",
-      "published_at": "2026-04-05T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A House of Commons petition that calls on the federal government to establish an independent review board for military honours, such as the Victoria Cross, now has support from Ontario’s provincial government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8ef81c4896139367bdad165bf1dd1897a4b8db21",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/avoid-the-honk-interactive-map-helps-waterloo-students-stay-away-from-canada-geese-9.7151994?cmp=rss",
-      "title": "'Avoid the honk': Interactive map helps Waterloo students stay away from Canada geese",
-      "published_at": "2026-04-05T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A University of Waterloo student has launched a platform to help students navigate “aggressive geese” on campus.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f2575619c449ca1f63705f4863db2483b54e3311",
-      "url": "https://www.cbc.ca/news/canada/london/transport-canada-headlight-glare-survey-9.7152195?cmp=rss",
-      "title": "Blinded by the headlights? Transport Canada wants to know",
-      "published_at": "2026-04-05T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A London, Ont., optometrist says she's hearing more concerns from patients about  difficulty driving in the dark and headlight brightness. Transport Canada is asking drivers, pedestrians and cyclists to share their experiences with vehicle headlight glare through an online survey.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a9dcdfe8d999371cf2d627322f0f38d5a563b1a6",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-federation-seniors-rebuilding-9.7145950?cmp=rss",
-      "title": "COVID-19 wreaked havoc on this N.S. seniors' group. It's now trying to rebuild",
-      "published_at": "2026-04-05T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "An organization that has advocated for Nova Scotia seniors for more than five decades says there's a sad reason why its membership numbers have dropped sharply in recent years. \"We lost a lot of people through COVID,\" says the president of the Nova Scotia Federation of Seniors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "db9d0876193b9f765a7a6e702395b689a347fcce",
-      "url": "https://www.cbc.ca/news/canada/first-person-newcomer-confidence-9.7143421?cmp=rss",
-      "title": "It stung to start over at the bottom of the career ladder when I moved to Canada. Now I help other newcomers",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When Yemisi Peters moved from Nigeria to Edmonton, she was unsure how to navigate Canadian workplaces and faced many cultural shocks. Over time, she had to stop hiding who she was and her experience.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4f06d5b2a2d384650c150babab4652696b012a0f",
-      "url": "https://www.cbc.ca/news/canada/north/kadin-savikataaq-missing-arviat-nunavut-9.7150894?cmp=rss",
-      "title": "Kadin Savikataaq has been missing for a year and a half. Her family is still searching",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On Aug. 19, 2024, 20-year-old Kadin Savikataaq went out for the night and never returned. The truck she'd been driving was discovered submerged in Hudson Bay, but a year and a half later, Kadin is still missing. RCMP say she likely drowned, but her family doesn't agree. They say they'll never stop looking for her.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.877,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2a166ff2fce28ad83c613c8fe7471a1c13429991",
-      "url": "https://www.cbc.ca/radio/injectable-peptides-explainer-9.7151279?cmp=rss",
-      "title": "Influencers tout injectable peptides as key to youth and beauty. Scientists say they're 'a giant scam'",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Crocodile dung. Tapeworms. Raw meat facials. Yes, at some point in history these wildly popular — and wildly unproven — treatments were how people tried to stay young. Right now, plenty of influencers will tell you that injectable peptides are the answer. But the scientists? Not so much.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.372,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "28c6ef09164cc539e11f6913f19ddfdfee9327d6",
-      "url": "https://www.cbc.ca/news/canada/toronto/drive-chip-and-put-championship-final-augusta-national-audrey-lu-9.7149210?cmp=rss",
-      "title": "This 12-year-old Toronto-area golfer is representing Canada at the Augusta National",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A twelve-year-old from Vaughan is competing for a coveted junior golfing title at Augusta National ahead of the Masters.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "25ebece88544174a65310cba52509cb21a20e067",
-      "url": "https://www.cbc.ca/news/canada/hamilton/bioadaptive-interface-lab-9.7151552?cmp=rss",
-      "title": "How Brantford, Ont., researchers are using VR gaming to help older adults with dementia stay fit",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Researchers from Wilfrid Laurier University partnered with Brantford’s Adult Recreation Therapy Centre for a trial on a game aimed at supporting therapeutic movements and engaging users' brains — work aided by funding from the Alzheimer Society: Brant, Haldimand Norfolk, Hamilton Halton.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "571f904b65deffb7fe4b327bc88c8d7695099a87",
-      "url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss",
-      "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "The timing of King Charles's upcoming state visit to the United States has sparked controversy and questions — particularly given the ongoing U.S.-Israel war against Iran, the geopolitical turmoil it has caused and the current strain in the relationship between the United Kingdom and the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2a166ff2fce28ad83c613c8fe7471a1c13429991",
-      "url": "https://www.cbc.ca/radio/injectable-peptides-explainer-9.7151279?cmp=rss",
-      "title": "Injectable peptides touted as new fountain of youth. But the science isn't there",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Crocodile dung. Tapeworms. Raw meat facials. Yes, at some point in history these wildly popular — and wildly unproven — treatments were how people tried to stay young. Right now, plenty of influencers will tell you that injectable peptides are the answer. But the scientists? Not so much.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.799,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3a522926588a9b4b66714993cd3109fa793d6553",
-      "url": "https://www.cbc.ca/news/politics/dog-international-import-ban-100-countries-cfia-animal-rescue-9.7152014?cmp=rss",
-      "title": "Ban on rescue dogs from countries at risk of spreading rabies to remain, CFIA says",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "The federal government says a ban on the import of rescue dogs into Canada will remain in place until further notice due to rabies concerns. Animal advocacy groups say the restrictions — which were brought in more than three years ago and originally meant to be temporary — are preventing healthy animals from legitimate international rescues from finding homes in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "461eeed503ffa10b86550caf1f22a5e91b6ca995",
-      "url": "https://www.cbc.ca/news/entertainment/nasa-space-movies-9.7152559?cmp=rss",
-      "title": "Project Hail Mary and Artemis II's launch reflect a long parallel between NASA and Hollywood",
-      "published_at": "2026-04-05T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Artemis II's launch and Project Hail Mary's stunning success reflect a long line of films about space — films that similarly released alongside real life space-exploration projects, or increased public fascination with the subject.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.904,
         "subjectivity_hint": "low"
       }
     }
