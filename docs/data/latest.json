@@ -1,19 +1,149 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-08T09:08:20.079756-04:00",
+  "generated_at": "2026-04-08T15:06:52.534182-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "930e25ec81b094a71973aa4e9d598526aa548c8d",
-      "url": "https://www.cbc.ca/news/world/ceasefire-iran-u-s-israel-trump-9.7155860?cmp=rss",
-      "title": "Sporadic attacks reported in Iran, Gulf countries hours after Trump announces ceasefire",
-      "published_at": "2026-04-08T03:19:28-04:00",
-      "section": "World",
-      "summary_auto": "The United States and Iran agreed to a two-week ceasefire brokered by Pakistan, potentially suspending a six-week-old war that has killed thousands, spread across the Middle East and caused unprecedented disruption to the world's energy supplies.",
+      "id": "f54c6a2432f81a6d24253f5b91721231d00dacb1",
+      "url": "https://www.cbc.ca/news/lebanon-israel-attacks-9.7156476?cmp=rss",
+      "title": "With aggressive new attacks on Lebanon, Israel signals it will not be bound by Donald Trump’s ceasefire",
+      "published_at": "2026-04-08T10:55:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The announcement of a ceasefire between Iran and the United States was met in Lebanon with the war’s bloodiest day, as Israel launched a massive air campaign that its media termed \"Operation Eternal Darkness.\" The Israeli strikes killed and wounded hundreds, as Prime Minister Benjamin Netanyahu signaled his intent to pursue Hezbollah regardless of international pressure.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.832,
+        "sentiment": -0.886,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "13046870ffd97c60574136311735c53c7212db23",
+      "url": "https://www.cbc.ca/news/entertainment/sentence-ketamine-queen-9.7156540?cmp=rss",
+      "title": "Judge gives 15-year sentence to woman who admitted selling Friends star Matthew Perry ketamine",
+      "published_at": "2026-04-08T10:39:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal judge on Wednesday handed down a sentence of 15 years in prison to a woman who pleaded guilty to selling Friends star Matthew Perry the ketamine that killed him in 2023.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2276e75f31dd548e43e973fd32e10396ecdcd0ed",
+      "url": "https://www.cbc.ca/news/canada/hamilton/winterstein-inquest-medical-expert-9.7156248?cmp=rss",
+      "title": "Medical expert defends doctor’s assessment of woman before she died of sepsis in Ontario hospital",
+      "published_at": "2026-04-08T09:05:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Heather Winterstein didn't show hallmark warning signs of potentially life-threatening sepsis when she went through triage screening the day before she died at the hospital in St. Catharines, Ont., an emergency medical expert told the coroner’s inquest for the 24-year-old.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.83,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a1896d5249d7c505be9d6aed368733ad9424d3c",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-campaign-donations-9.7156311?cmp=rss",
+      "title": "With no donation limits, former premier gave N.L. Tories $46,900 ahead of election",
+      "published_at": "2026-04-08T08:37:35-04:00",
+      "section": "Canada",
+      "summary_auto": "Former Newfoundland and Labrador Premier Danny Williams donated more than $46,000 to the Progressive Conservatives ahead of last year's election in a province where corporations and individuals can make political contributions as large as they want.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0cf9cf6a3714fd255456753fbc9cd5478bbbe7c",
+      "url": "https://www.cbc.ca/news/entertainment/aubrey-plaza-pregnant-9.7156275?cmp=rss",
+      "title": "Aubrey Plaza reportedly expecting her 1st child with Girls alum Chris Abbott",
+      "published_at": "2026-04-08T08:17:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The two actors appeared alongside each other in the 2020 film Black Bear and shared the stage in 2023 in the off-Broadway revival of Danny and the Deep Blue Sea.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecb6f3b611da82247947abc167d2b9d6efe22bb5",
+      "url": "https://www.cbc.ca/news/world/us-ny-heuermann-murders-plea-9.7156135?cmp=rss",
+      "title": "Serial killer Rex Heuermann admits to killing 8 women in New York state",
+      "published_at": "2026-04-08T08:02:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Manhattan-based architect who led a secret life as a serial killer pleaded guilty on Wednesday to murdering seven women and admitted to killing an eighth in a string of long-unsolved crimes known as the Gilgo Beach killings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.983,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e7bba680c2ebade3cf0e0bad9c9dce2d97757752",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-military-campaign-ceasefire-9.7156168?cmp=rss",
+      "title": "Lebanon death toll surpasses 200 after Israel launches assault despite U.S.-Iran ceasefire",
+      "published_at": "2026-04-08T07:28:25-04:00",
+      "section": "World",
+      "summary_auto": "A wave of Israeli airstrikes swept across Lebanon on Wednesday, leaving at least 112 dead and hundreds wounded, according to the Lebanese Health Ministry.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.919,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bb491a511f535822a0bb90e3bd5401181843efe6",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/alex-ovechkin-hockey-future-capitals-end-of-season-nhl-9.7156186?cmp=rss",
+      "title": "Alex Ovechkin to decide NHL future after season, with health biggest factor",
+      "published_at": "2026-04-08T07:22:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Alex Ovechkin says he is waiting until after the Washington Capitals' season is over to decide whether he's calling it a career or returning to play one more year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "20fe5bfad1d75daef947d660f84975676ac07ad6",
+      "url": "https://www.cbc.ca/news/world/war-ceasefire-strait-hormuz-outlook-9.7155950?cmp=rss",
+      "title": "No sign Iran ceding control of Strait of Hormuz in ceasefire, with logjam expected to continue for weeks",
+      "published_at": "2026-04-08T06:48:59-04:00",
+      "section": "World",
+      "summary_auto": "Shippers looking to revive the passage of tankers through the Strait of Hormuz were seeking clarity on the logistics on Wednesday, while refiners inquired about new crude loadings, in response to a ceasefire deal between the U.S. ‌and Iran.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e521c7dc010024df7493e759877e0361daefcb2b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/spring-snowstorm-alberta-clipper-manitoba-9.7155911?cmp=rss",
+      "title": "Alberta clipper brings spring snowstorm to southern Manitoba, closes several schools",
+      "published_at": "2026-04-08T04:04:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Alberta clipper brought heavy snow to central and southern areas of the province late Tuesday and into Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "930e25ec81b094a71973aa4e9d598526aa548c8d",
+      "url": "https://www.cbc.ca/news/world/ceasefire-iran-u-s-israel-trump-9.7155860?cmp=rss",
+      "title": "Strikes continue across Gulf countries amid confusion over status of Strait of Hormuz",
+      "published_at": "2026-04-08T03:19:28-04:00",
+      "section": "World",
+      "summary_auto": "U .S. President Donald Trump is sending an Iran negotiating team, led by Vice-President JD Vance, to Pakistan for talks, the White House told reporters on Wednesday, ‌adding that the first round of negotiations would take place on Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -26,6 +156,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6c5b4751ca92d2dbcadee76783450518e0d1c9ba",
+      "url": "https://www.cbc.ca/news/canada/manitoba/youth-parents-charged-school-attack-9.7155254?cmp=rss",
+      "title": "Youth charged in Manitoba school attack plot had threatened kids with knife, parents say",
+      "published_at": "2026-04-08T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Multiple Rivers, Man., parents allege 14-year-old charged in a school attack plot had a history of knife threats. They say the community needs better mental health support.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -43,15 +186,28 @@
       }
     },
     {
-      "id": "25aca8d13e99691ed63f5d42f23a187ca10304c3",
-      "url": "https://www.cbc.ca/news/canada/montreal/stolen-cars-montreal-9.7151820?cmp=rss",
-      "title": "CBC investigation finds numerous Montreal exporters sent stolen vehicles overseas",
-      "published_at": "2026-04-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police raided a Montreal mattress company and found stolen cars. A CBC investigation into the city's car export industry found numerous Montreal businesses have sent stolen cars overseas.",
+      "id": "1909ba90359c06eb32f82432ee4d967789b670f8",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nslc-stolen-alcohol-covid-19-pandemic-9.7145159?cmp=rss",
+      "title": "Police uncovered $20K worth of alleged stolen booze in a single home. Inside N.S.'s booze black market",
+      "published_at": "2026-04-08T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "After a two-month investigation into significant alcohol thefts from NSLC stores in the Halifax region, RCMP seized more than 450 bottles of hard alcohol worth almost $20,000 from a home. Police even seized a ledger detailing the alcohol being delivered to the home and what had been resold.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.863,
+        "sentiment": -0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f5801a7e1c857658fd9e177d5e3e1d8556897317",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-court-challenges-9.7154811?cmp=rss",
+      "title": "'The justice system has been allowed to disintegrate': lawyer says N.L. courts are in crisis",
+      "published_at": "2026-04-08T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A first-degree murder trial was delayed last week on Newfoundland’s west coast over a lack of sheriff officers and one lawyer says she wasn’t surprised, given the state of the province’s criminal justice system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.827,
         "subjectivity_hint": "low"
       }
     },
@@ -69,6 +225,32 @@
       }
     },
     {
+      "id": "40d89e9ad53851c80c9b24eda9db98f8806e076c",
+      "url": "https://www.cbc.ca/news/canada/montreal/soccer-prodigy-quebec-asylum-seeker-9.7155008?cmp=rss",
+      "title": "This teen soccer prodigy is stuck in Quebec with invitation to Real Madrid training camp",
+      "published_at": "2026-04-08T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A 14-year-old aspiring soccer player living in Quebec has been given the opportunity of a lifetime. But his status as an asylum seeker is preventing him from getting on a plane and capitalizing on it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.064,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "25aca8d13e99691ed63f5d42f23a187ca10304c3",
+      "url": "https://www.cbc.ca/news/canada/montreal/stolen-cars-montreal-9.7151820?cmp=rss",
+      "title": "CBC investigation finds numerous Montreal exporters sent stolen vehicles overseas",
+      "published_at": "2026-04-08T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Police raided a Montreal mattress company and found stolen cars. A CBC investigation into the city's car export industry found numerous Montreal businesses have sent stolen cars overseas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "a19e65b683bdcedad0def00c1fcc5da26b6ddd38",
       "url": "https://www.cbc.ca/news/politics/tanks-drones-canada-army-9.7155312?cmp=rss",
       "title": "As drones upend tank warfare, Canada's army races to rethink its armour",
@@ -82,32 +264,6 @@
       }
     },
     {
-      "id": "cef1f4d20b044817d71788cadff86dfb221d548f",
-      "url": "https://www.cbc.ca/news/world/china-canada-renewable-energy-ai-9.7151817?cmp=rss",
-      "title": "From the Gobi Desert to Canada’s North: This Chinese visionary is betting on AI to power this country’s future",
-      "published_at": "2026-04-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In China, the energy landscape has reached a historic tipping point. For the first time, its total installed wind and solar capacity has officially surpassed that of coal. It’s a shift driven by massive industrial scale and artificial intelligence — and Chinese energy giants have their sights set on the Canadian wilderness.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dffe1c818d6b7e0edfefeca8c8c7a174c3dca756",
-      "url": "https://www.cbc.ca/news/entertainment/the-boys-creator-stars-interview-9.7155421?cmp=rss",
-      "title": "The Boys' showrunner says it was a tough call to end the series. 'Politically, I have a lot more to say'",
-      "published_at": "2026-04-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As Eric Kripke's superhero satire The Boys releases the first two episodes of its fifth and final season today (with the last dropping on May 20), he's just glad to be able to say the show is ending on his terms.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "e2ece707faaa35e7368922f23884f01afd6a6896",
       "url": "https://www.cbc.ca/news/politics/terrebonne-liberal-campaign-9.7155268?cmp=rss",
       "title": "'Every vote counts': Liberals campaign hard for Quebec seat in Monday's federal byelection",
@@ -117,6 +273,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cef1f4d20b044817d71788cadff86dfb221d548f",
+      "url": "https://www.cbc.ca/news/world/china-canada-renewable-energy-ai-9.7151817?cmp=rss",
+      "title": "From the Gobi Desert to Canada’s North: This Chinese visionary is betting on AI to power this country’s future",
+      "published_at": "2026-04-08T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "In China, the energy landscape has reached a historic tipping point. For the first time, its total installed wind and solar capacity has officially surpassed that of coal. It’s a shift driven by massive industrial scale and artificial intelligence — and Chinese energy giants have their sights set on the Canadian wilderness.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.878,
         "subjectivity_hint": "low"
       }
     },
@@ -134,55 +303,42 @@
       }
     },
     {
-      "id": "01f0014a177e49c25cd2b12d1e51f50530d4d4bd",
-      "url": "https://www.cbc.ca/news/canada/toronto/dodgers-blue-jays-9.7155790?cmp=rss",
-      "title": "Dodgers top Blue Jays 4-1 to hand Toronto its 6th loss in a row",
-      "published_at": "2026-04-07T18:18:49-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Hyeseong Kim scored twice and Dodgers starter Yoshinobu Yamamoto was strong over six-plus innings as the Los Angeles Dodgers defeated Toronto 4-1 on Tuesday to hand the Blue Jays their sixth straight loss.",
+      "id": "dffe1c818d6b7e0edfefeca8c8c7a174c3dca756",
+      "url": "https://www.cbc.ca/news/entertainment/the-boys-creator-stars-interview-9.7155421?cmp=rss",
+      "title": "The Boys' showrunner says it was a tough call to end the series. 'Politically, I have a lot more to say'",
+      "published_at": "2026-04-08T00:00:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "As Eric Kripke's superhero satire The Boys releases the first two episodes of its fifth and final season today (with the last dropping on May 20), he's just glad to be able to say the show is ending on his terms.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5bce24e3895a29c2f01043081f3b0cd96d851183",
-      "url": "https://www.cbc.ca/player/play/9.7155802?cmp=rss",
-      "title": "#TheMoment he had his 5th birthday party at a recycling facility",
-      "published_at": "2026-04-07T18:09:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Young recycling enthusiast Himmat Rai and his mom, Joti Muker, tell The National about the moment Himmat celebrated his 5th birthday at a recycling facility in Maple Ridge, B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0c588b5e7ca7a759dcad3e2a7bc5feb9ddf17fd",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-manslaughter-sentence-court-9.7155551?cmp=rss",
-      "title": "Criminal Trial Lawyers' Association calls for criminal probe into Edmonton police chief, lawyer",
-      "published_at": "2026-04-07T16:50:38-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Criminal Trial Lawyers' Association says serious questions surround Chief Warren Driechel and police lawyer Megan Hankewich for their statements about a recent manslaughter case involving the death of an eight-year-old girl named Nina Napope.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "65e904cb75f3e9d6008f4e2444a352b17fa47121",
-      "url": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-launch-9.7155672?cmp=rss",
-      "title": "'Organized chaos' of Rock League strategy keeping curlers on their toes in early going",
-      "published_at": "2026-04-07T16:20:25-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rock League has not been perfect through two days. But if the goal of this one-week Rock League preview season is proof of concept, then you can see how it all might come together.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.519,
+        "sentiment": 0.361,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c127e1fd3d7477f2df3fc3b25fd0b0efdd4fe180",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-victoire-torrent-9.7155846?cmp=rss",
+      "title": "First-place Victoire make PWHL history with 10th home win of season",
+      "published_at": "2026-04-07T21:02:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three second-period goals spurred the Montreal Victoire to a 4-1 win over the Seattle Torrent on Tuesday night in Laval, Que.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6cdba8f51e8d319ea8b10874e81063588e5dc77b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/100-hecate-wildfire-sparked-in-mount-currie-9.7155821?cmp=rss",
+      "title": "‘It's really dry’: Wildfire sparks in Líl̓wat Nation hay field near Pemberton, B.C., airport",
+      "published_at": "2026-04-07T20:09:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The B.C. Wildfire Service responded to the wildfire burning east of Pemberton Regional Airport in Mount Currie, which is part of Líl̓wat Nation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -190,7 +346,7 @@
       "url": "https://www.cbc.ca/news/politics/lebanon-israel-canada-reaction-9.7152218?cmp=rss",
       "title": "Why Canada's reaction to Israel's invasion of Lebanon is so different this time",
       "published_at": "2026-04-07T15:39:17-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Canada's response to Israel's 2026 invasion of Lebanon has been unequivocal condemnation of what Prime Minister Mark Carney called \"an illegal invasion.\" That's a marked contrast to Stephen Harper's defence of Israel's 2006 invasion.",
       "bias_heuristic": {
         "article_type": "News",
@@ -221,71 +377,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c013f319a7db19a012d04f269eda639701d5f624",
-      "url": "https://www.cbc.ca/radio/asithappens/ukraine-bat-release-festival-9.7128068?cmp=rss",
-      "title": "Ukrainians find glimmer of hope in war time by releasing hundreds of bats into the wild",
-      "published_at": "2026-04-07T12:39:40-04:00",
-      "section": "World",
-      "summary_auto": "Over the weekend more than 1,000 spectators gathered in Ukraine to carefully open cloth bags and release dozens of rescued bats into the air. Alona Pryslutska, co-founder of the Ukrainian Bat Rehab Center, says not even the war is stopping this unconventional marker of the arrival of spring.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.592,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2accec93136327480b1731a63b7390c56200923b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/jonathan-black-branch-disbarred-uk-9.7154975?cmp=rss",
-      "title": "Former U of Manitoba law dean disbarred in U.K., still under Canada-wide arrest warrant",
-      "published_at": "2026-04-07T10:57:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Former University of Manitoba law school dean Jonathan Black-Branch, who was disbarred in Manitoba in 2024, has now also been disbarred in England and Wales.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2accec93136327480b1731a63b7390c56200923b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/jonathan-black-branch-disbarred-uk-9.7154975?cmp=rss",
-      "title": "Disgraced former Manitoba law school dean disbarred in U.K. over 'blatant and sustained dishonesty'",
-      "published_at": "2026-04-07T10:57:36-04:00",
-      "section": "Canada",
-      "summary_auto": "Former University of Manitoba law school dean Jonathan Black-Branch, who was disbarred in Manitoba in 2024, has now also been disbarred in England and Wales.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "42fe7aec5f28e9f0a5103b32d52131913794344e",
-      "url": "https://www.cbc.ca/news/politics/latvia-canada-military-police-investigation-9.7155125?cmp=rss",
-      "title": "Top Canadian commander in Latvia temporarily removed following compensation probe",
-      "published_at": "2026-04-07T10:35:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's military operations commander has temporarily removed the officer in charge of the country's biggest overseas deployment. The decision by Lt.-Gen. Steve Boivin comes after Col. James Smith was charged by military police with prejudice to good order regarding compensation irregularities while he commanded Task Force Latvia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "51a41b1602a13856bbd29bd330cca1dea9c90c6d",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/community/sask-wadin-bay-firefighting-costs-9.7154987?cmp=rss",
-      "title": "Sask. volunteers spent $39K to save their homes from wildfire. Will they be compensated?",
-      "published_at": "2026-04-07T10:06:28-04:00",
-      "section": "Canada",
-      "summary_auto": "Wadin Bay, Sask., residents defied a mandatory evacuation order and saved their community from the summer fires of 2025. Attempts to recover the firefighting costs have stalled. They wonder how small communities can protect themselves as wildfires increase in the north.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.856,
         "subjectivity_hint": "low"
       }
     }
