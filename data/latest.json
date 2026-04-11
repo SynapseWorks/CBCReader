@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-11T10:31:42.934517-04:00",
+  "generated_at": "2026-04-11T14:35:32.069073-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "4cc96d269047864af2d0aed40b7be74f39d815a1",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-orthodox-easter-ceasefire-drone-strikes-9.7160429?cmp=rss",
+      "title": "Orthodox Easter ceasefire in Russia-Ukraine war falters following drone strikes",
+      "published_at": "2026-04-11T08:08:23-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took effect Saturday, a Ukrainian military officer told The Associated Press, casting immediate doubt over the truce.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5fa25de6c91c0ebc1a3f472ab34c6c14f93f62fa",
+      "url": "https://www.cbc.ca/news/canada/sudbury/soo-jr-greyhounds-messy-dressing-room-resolution-9.7160382?cmp=rss",
+      "title": "Resolution reached on messy dressing room dispute, Soo Jr. Greyhounds to compete for league title",
+      "published_at": "2026-04-11T06:33:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Northern Ontario Hockey Association will allow the U18 Soo Jr. Greyhounds to compete in a championship game on Sunday in Sudbury against the Copper Cliff Reds. There were initially told they had to forfeit a game after leaving behind an allegedly messy dressing room.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "7441f2c927948acfc418146986ce3cf31aa6cbda",
       "url": "https://www.cbc.ca/news/canada/british-columbia/vernon-bc-mobile-home-park-no-power-9.7160291?cmp=rss",
@@ -13,6 +39,45 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.476,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5246eafa9a01bc6408cc0bf75544d1096aae278",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/joe-wood-nova-scotia-rdr-national-music-centre-canadian-country-music-hall-of-fame-9.7153641?cmp=rss",
+      "title": "Meet Joe Wood, the Nova Scotian being honoured by the National Music Centre",
+      "published_at": "2026-04-11T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Joe Wood, a longtime Liverpool, N.S., resident, is being honoured later this month with a special plaque ceremony at the National Music Centre, following on the heels of his induction into the Canadian Country Music Hall of Fame last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.9,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ee6484d963f5ae01191313248caafef023bff9de",
+      "url": "https://www.cbc.ca/news/politics/liberal-party-vote-on-social-media-age-restrictions-9.7159746?cmp=rss",
+      "title": "Liberal members vote in favour of age restrictions for social media, AI chatbots",
+      "published_at": "2026-04-11T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Liberal members voted in favour of restricting young Canadians' access to social media platforms and artificial intelligence chatbots, as the party's national convention winds down in Montreal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74e837591522fa5de585265060023b86a347b4bd",
+      "url": "https://www.cbc.ca/radio/quirks/animal-testing-canada-9.7147504?cmp=rss",
+      "title": "Other countries are looking to end animal testing. In Canada, there's a holdup",
+      "published_at": "2026-04-11T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Other countries, like the U.K, the United States and the European Union have all dedicated funding and detailed roadmaps to replace animal testing in research settings. And while Canada has a strategy to replace animals used in chemical and toxicity testing, there is still no plan for those used in biomedical testing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
         "subjectivity_hint": "low"
       }
     },
@@ -82,19 +147,6 @@
       }
     },
     {
-      "id": "ee6484d963f5ae01191313248caafef023bff9de",
-      "url": "https://www.cbc.ca/news/politics/liberal-party-vote-on-social-media-age-restrictions-9.7159746?cmp=rss",
-      "title": "Liberal members will vote today on whether they'd like to see age restrictions for social media",
-      "published_at": "2026-04-11T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Liberal members will decide Saturday whether they think the government should restrict young Canadians' access to social media platforms and artificial intelligence chatbots, as the national convention winds down in Montreal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "dadc74319bb810cd6205fe7579c92dfd2fdc62b9",
       "url": "https://www.cbc.ca/news/canada/toronto/orthodox-easter-basket-blessing-scroller-9.7158856?cmp=rss",
       "title": "IN PHOTOS | Inside an Orthodox Easter celebration in Canada",
@@ -131,19 +183,6 @@
         "article_type": "News",
         "sentiment": 0.735,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "74e837591522fa5de585265060023b86a347b4bd",
-      "url": "https://www.cbc.ca/radio/quirks/animal-testing-canada-9.7147504?cmp=rss",
-      "title": "Other countries are looking to end animal testing. In Canada, there's a holdup",
-      "published_at": "2026-04-11T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Other countries, like the U.K, the United States and the European Union have all dedicated funding and detailed roadmaps to replace animal testing in research settings. And while Canada has a strategy to replace animals used in chemical and toxicity testing, there is still no plan for those used in biomedical testing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -229,7 +268,7 @@
       "url": "https://www.cbc.ca/news/canada/windsor/kingsville-proposed-dead-body-lab-9.7159889?cmp=rss",
       "title": "Scientists want to build an outdoor lab in Ontario to study decomposing human bodies",
       "published_at": "2026-04-10T16:01:56-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A Windsor-based forensic scientist is working to bring an outdoor lab to Kingsville that would study how human bodies decompose over time.",
       "bias_heuristic": {
         "article_type": "News",
@@ -286,97 +325,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.922,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0c3b38eba0e7620a13ab66880ce9bb1b7af6ced8",
-      "url": "https://www.cbc.ca/news/politics/deputy-minister-aquaintance-hiring-response-ethics-9.7159868?cmp=rss",
-      "title": "Deputy minister found breaching ethics rules says she was following diversity mandate",
-      "published_at": "2026-04-10T14:18:57-04:00",
-      "section": "Canada",
-      "summary_auto": "Deputy minister of national defence Christiane Fox says she was trying to bring in outside perspectives when she influenced her former department to hire an acquaintance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "55fed97ceed85cd92a0bec22175eef1d0e04c95d",
-      "url": "https://www.cbc.ca/news/politics/gazan-mmiwg2slgbtqqia-pushback-9.7159796?cmp=rss",
-      "title": "NDP's Leah Gazan calls MMIWG2SLGBTQQIA+ critics 'bigots'",
-      "published_at": "2026-04-10T14:01:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "NDP MP Leah Gazan is standing by her use of the initialism MMIWG2SLGBTQQIA+ and denouncing those who are mocking her online for using the term.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "95a99161de04b635b3180cc41a1a598ec0c77115",
-      "url": "https://www.cbc.ca/news/canada/ottawa/lockdown-lifted-at-university-of-ottawa-man-arrested-nearby-9.7159923?cmp=rss",
-      "title": "Lockdown lifted at University of Ottawa, man arrested nearby",
-      "published_at": "2026-04-10T13:56:53-04:00",
-      "section": "Canada",
-      "summary_auto": "The Ottawa Police Service says it's arrested a man in connection with an incident at the University of Ottawa Friday afternoon that left the school under lockdown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "222a562a3305f18c6a96a032a18936bc29c25fe0",
-      "url": "https://www.cbc.ca/news/world/altman-home-molotov-cocktail-attack-suspect-arrest-9.7159863?cmp=rss",
-      "title": "Police arrest suspect after Molotov cocktail thrown at home of OpenAI's Sam Altman",
-      "published_at": "2026-04-10T13:54:09-04:00",
-      "section": "World",
-      "summary_auto": "Officers arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home on Friday and then making threats at the company's headquarters, police and the company said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "886049012c43d44e93d0fd55d9e955fafb84c787",
-      "url": "https://www.cbc.ca/news/world/us-south-africa-refugees-9.7159402?cmp=rss",
-      "title": "U.S. allows nearly 4,500 South African refugees since October — and only 3 from elsewhere",
-      "published_at": "2026-04-10T13:46:50-04:00",
-      "section": "World",
-      "summary_auto": "President Donald Trump has made good on a promise to drastically cut the number of refugees into the U.S., with white South Africans being the top priority over those fleeing conflict, poverty and other threats to their safety from different countries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3de237f542e5bc997fbf4183020a220b8f4ce99f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/dripa-suspension-confidence-vote-first-nation-leaders-opposed-9.7158996?cmp=rss",
-      "title": "First Nations leaders strongly oppose B.C. plan to pause DRIPA as Eby defends move ahead of confidence vote",
-      "published_at": "2026-04-10T13:32:37-04:00",
-      "section": "Canada",
-      "summary_auto": "First Nations leaders in B.C. are urging B.C. NDP MLAs to reject Premier David Eby’s plan to  suspend some sections of the province’s Declaration on the Rights of Indigenous Peoples Act (DRIPA), as the government prepares to bring the proposal forward as a confidence vote.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "809d583695948bd67d27027cac2b8314eac42895",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/victoria-swimming-pool-gas-incident-9.7159770?cmp=rss",
-      "title": "Shelter-in-place lifted after chlorine gas exposure hospitalized 8 at Victoria swimming pool",
-      "published_at": "2026-04-10T12:37:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
