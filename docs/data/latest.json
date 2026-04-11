@@ -1,18 +1,31 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-11T08:42:50.594406-04:00",
+  "generated_at": "2026-04-11T10:31:42.934517-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "01fe902f3c1f8010965877b44efb30493bb56bf9",
-      "url": "https://www.cbc.ca/news/world/us-delegation-pakistan-iran-ceasefire-9.7160338?cmp=rss",
-      "title": "U.S. delegation led by JD Vance arrives in Pakistan for ceasefire talks with Iran",
-      "published_at": "2026-04-11T04:31:23-04:00",
+      "id": "7441f2c927948acfc418146986ce3cf31aa6cbda",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vernon-bc-mobile-home-park-no-power-9.7160291?cmp=rss",
+      "title": "Residents of mobile home park in Vernon, B.C., without power indefinitely",
+      "published_at": "2026-04-11T05:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A U.S. delegation led by Vice-President JD Vance arrived in Pakistan for talks with Iranian officials aimed at shoring up a shaky ceasefire and paving the way for a permanent end to the fighting.",
+      "summary_auto": "The site's electrical system was disconnected because it has been deemed hazardous by Technical Safety B.C. Crown Villa's landlord says she cannot afford to pay for the repairs.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.527,
+        "sentiment": 0.476,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e41133549c3ef245e34fadaacdf458ffd1c18612",
+      "url": "https://www.cbc.ca/news/politics/online-streaming-act-streamers-canada-netflix-tax-tariffs-trump-9.7159752?cmp=rss",
+      "title": "Is Canada's 'Netflix tax' worth the hassle it's getting from the U.S.?",
+      "published_at": "2026-04-11T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As U.S. lawmakers press the White House to examine whether Canada's Online Streaming Act is an unfair trade practice — and retaliate if necessary — CBC's The House speaks to experts about whether the bill is worth all the hassle and why it's generated so much controversy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
         "subjectivity_hint": "low"
       }
     },
@@ -58,13 +71,13 @@
     {
       "id": "b717111596d02df61cef2a4101909c3d739c4088",
       "url": "https://www.cbc.ca/news/world/gaza-israel-hamas-ceasefire-9.7160289?cmp=rss",
-      "title": "Her daughter was killed by gunfire at school in Gaza. For her and others, the 6-month ceasefire is failing",
+      "title": "Her daughter was killed by gunfire in Gaza school. For her and others, 6-month Israeli ceasefire isn't working",
       "published_at": "2026-04-11T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "Tent schools like the one where nine-year-old Ritaj Rihan was killed by gunfire this week are symbolic of the fragile hope Palestinians have for the future and the paralyzing fear they still live with today. Six months after Israel and Hamas reached the first phase of a ceasefire that was supposed to end fighting in Gaza, humanitarian organizations have given it a failing grade.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.948,
+        "sentiment": -0.922,
         "subjectivity_hint": "low"
       }
     },
@@ -74,11 +87,24 @@
       "title": "Liberal members will vote today on whether they'd like to see age restrictions for social media",
       "published_at": "2026-04-11T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Liberal members will decide today whether they think the government should restrict young Canadians' access to social media platforms and artificial intelligence chatbots, as the national convention winds down in Montreal.",
+      "summary_auto": "Liberal members will decide Saturday whether they think the government should restrict young Canadians' access to social media platforms and artificial intelligence chatbots, as the national convention winds down in Montreal.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.459,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dadc74319bb810cd6205fe7579c92dfd2fdc62b9",
+      "url": "https://www.cbc.ca/news/canada/toronto/orthodox-easter-basket-blessing-scroller-9.7158856?cmp=rss",
+      "title": "IN PHOTOS | Inside an Orthodox Easter celebration in Canada",
+      "published_at": "2026-04-11T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "While most Canadians have packed away their Easter decorations, Ukrainian, Greek and other Orthodox communities in the country are gathering to celebrate Easter this weekend. Here's a look at Toronto's Ukrainian community and how members mark the religious holiday with a basket blessing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -113,7 +139,7 @@
       "title": "Other countries are looking to end animal testing. In Canada, there's a holdup",
       "published_at": "2026-04-11T00:00:00-04:00",
       "section": "Technology & Science",
-      "summary_auto": "Other countries, like the U.K., the United States and the European Union have all dedicated funding and detailed roadmaps to replace animal testing in research settings. And while Canada has a strategy to replace animals used in chemical and toxicity testing, there is still no plan for those used in biomedical testing.",
+      "summary_auto": "Other countries, like the U.K, the United States and the European Union have all dedicated funding and detailed roadmaps to replace animal testing in research settings. And while Canada has a strategy to replace animals used in chemical and toxicity testing, there is still no plan for those used in biomedical testing.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.727,
@@ -294,7 +320,7 @@
       "url": "https://www.cbc.ca/news/canada/ottawa/lockdown-lifted-at-university-of-ottawa-man-arrested-nearby-9.7159923?cmp=rss",
       "title": "Lockdown lifted at University of Ottawa, man arrested nearby",
       "published_at": "2026-04-10T13:56:53-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Ottawa Police Service says it's arrested a man in connection with an incident at the University of Ottawa Friday afternoon that left the school under lockdown.",
       "bias_heuristic": {
         "article_type": "News",
@@ -320,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/us-south-africa-refugees-9.7159402?cmp=rss",
       "title": "U.S. allows nearly 4,500 South African refugees since October — and only 3 from elsewhere",
       "published_at": "2026-04-10T13:46:50-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "President Donald Trump has made good on a promise to drastically cut the number of refugees into the U.S., with white South Africans being the top priority over those fleeing conflict, poverty and other threats to their safety from different countries.",
       "bias_heuristic": {
         "article_type": "News",
@@ -333,7 +359,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/dripa-suspension-confidence-vote-first-nation-leaders-opposed-9.7158996?cmp=rss",
       "title": "First Nations leaders strongly oppose B.C. plan to pause DRIPA as Eby defends move ahead of confidence vote",
       "published_at": "2026-04-10T13:32:37-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "First Nations leaders in B.C. are urging B.C. NDP MLAs to reject Premier David Eby’s plan to  suspend some sections of the province’s Declaration on the Rights of Indigenous Peoples Act (DRIPA), as the government prepares to bring the proposal forward as a confidence vote.",
       "bias_heuristic": {
         "article_type": "News",
@@ -351,45 +377,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7303bca59cb8b2c6ce3e222ba74faf6718bc6461",
-      "url": "https://www.cbc.ca/player/play/9.7159421?cmp=rss",
-      "title": "Has Trump proven himself unfit for the presidency? | About That",
-      "published_at": "2026-04-10T10:18:21-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump’s recent social posts, like his threat to destroy Iran's 'whole civilization,’ have alarmed both critics and allies, leaving Democrats questioning whether he’s fit for the presidency – Andrew Chang shows us how they’re going about it. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d10c9f01c68c443ee7f8a7a5057a23736834dc2b",
-      "url": "https://www.cbc.ca/radio/thecurrent/artemis-return-reentry-david-saint-jacques-9.7159119?cmp=rss",
-      "title": "Artemis II capsule will be a 'fireball' on re-entry. David Saint-Jacques knows what that’s like",
-      "published_at": "2026-04-10T09:27:49-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "After slingshotting around the moon, the Artemis II mission is expected to splash down in the Pacific Ocean tonight. Canadian astronaut David Saint-Jacques knows exactly what hurtling back to Earth feels like.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c8f9d312dfe3d59c6f186d31152bf64fac4426e",
-      "url": "https://www.cbc.ca/news/canada/toronto/pickering-teen-murder-guilty-plea-9.7159250?cmp=rss",
-      "title": "Teenager pleads guilty to 1st-degree murder of Pickering senior",
-      "published_at": "2026-04-10T09:14:31-04:00",
-      "section": "Canada",
-      "summary_auto": "A teenager who fatally stabbed an 83-year-old retired kindergarten teacher in Pickering, Ont., in 2025 has pleaded guilty to first-degree murder.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.972,
         "subjectivity_hint": "low"
       }
     }
