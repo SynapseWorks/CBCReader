@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-12T10:36:04.368125-04:00",
+  "generated_at": "2026-04-12T14:38:12.169891-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "1a3827ac4801337707999b847c8e884b41ac7c25",
+      "url": "https://www.cbc.ca/news/politics/liberals-majority-government-floorcrossers-9.7160889?cmp=rss",
+      "title": "Liberals will keep working across party lines even if byelections deliver majority: MacKinnon",
+      "published_at": "2026-04-12T07:46:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As the Liberals gear up for three federal byelections on Monday that could deliver them a majority government, House leader Steven MacKinnon says the government will \"continue that impulse of working across party lines\" even if it's not required to co-operate to pass legislation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "8246ad868022ade2fe8d849795c55d34af6a9a6f",
       "url": "https://www.cbc.ca/news/world/trump-strait-of-hormuz-9.7160834?cmp=rss",
@@ -56,6 +69,19 @@
       }
     },
     {
+      "id": "a63fce374c259775082f04890e11583ac8713488",
+      "url": "https://www.cbc.ca/radio/thecurrent/r-word-normalization-9.7156594?cmp=rss",
+      "title": "The R-word was taboo as a slur for people with disabilities. Now it's being normalized again",
+      "published_at": "2026-04-12T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The R-word has been considered taboo for several years, as a slur against people with intellectual and developmental disabilities. Now, the word appears to be undergoing a resurgence and normalization.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "74372a1179f0233a9a35ce6f4831f6ef978c1bc3",
       "url": "https://www.cbc.ca/news/business/publishing-industry-ai-shy-girl-fallout-9.7155292?cmp=rss",
       "title": "A novelist was accused of using AI. Why the literary world is still grappling with guardrails",
@@ -69,16 +95,16 @@
       }
     },
     {
-      "id": "a63fce374c259775082f04890e11583ac8713488",
-      "url": "https://www.cbc.ca/radio/thecurrent/r-word-normalization-9.7156594?cmp=rss",
-      "title": "The R-word was taboo as a slur for people with disabilities. Now it's being normalized again",
+      "id": "e37c9f0a1133c04e8bf47e7a3d64429fbb9f9a38",
+      "url": "https://www.cbc.ca/news/politics/iran-war-oil-ceasefire-oil-lng-9.7159384?cmp=rss",
+      "title": "There's a silver lining in the Iran war ceasefire for Canada's oil and gas industry",
       "published_at": "2026-04-12T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The R-word has been considered taboo for several years, as a slur against people with intellectual and developmental disabilities. Now, the word appears to be undergoing a resurgence and normalization.",
+      "summary_auto": "The Iran war appears to have ended (if it has ended) with a settlement that neither fully opens the Strait of Hormuz nor keeps it fully closed. The lingering doubts about the Persian Gulf as a source of energy for Europe and Asia, especially if Iran succeeds in its goal of charging tolls for passage, could be good news for Canadian oil and gas — if disaster can be averted.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
+        "sentiment": -0.787,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -108,19 +134,6 @@
       }
     },
     {
-      "id": "e37c9f0a1133c04e8bf47e7a3d64429fbb9f9a38",
-      "url": "https://www.cbc.ca/news/politics/iran-war-oil-ceasefire-oil-lng-9.7159384?cmp=rss",
-      "title": "There's a silver lining in the Iran war ceasefire for Canada's oil and gas industry",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Iran war appears to have ended (if it has ended) with a settlement that neither fully opens the Strait of Hormuz nor keeps it fully closed. The lingering doubts about the Persian Gulf as a source of energy for Europe and Asia, especially if Iran succeeds in its goal of charging tolls for passage, could be good news for Canadian oil and gas — if disaster can be averted.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.787,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "87466c591addba2c2797dd136f350c18ad791c5b",
       "url": "https://www.cbc.ca/news/canada/montreal/quebec-new-premier-leadership-race-caq-9.7157880?cmp=rss",
       "title": "Quebec to get new premier today as CAQ leadership race concludes",
@@ -131,6 +144,19 @@
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e68d9e4a1029fe90bd0e56ab5656dac6c8e3eddd",
+      "url": "https://www.cbc.ca/news/canada/hamilton/next-great-save-2026-9.7159565?cmp=rss",
+      "title": "Niagara-on-the-Lake Museum is one of 12 historic places across Canada vying for $50,000 in contest",
+      "published_at": "2026-04-12T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Niagara-on-the-Lake Museum is one of 12 historic places across Canada up for $65,000 in cash prizes that could help the museum turn its founder's house into an archival centre.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -169,45 +195,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "67a6e490d8042487ede05f57ce5f052cb1649c37",
-      "url": "https://www.cbc.ca/sports/baseball/blue-jays-george-springer-fractures-big-toe-9.7160644?cmp=rss",
-      "title": "Blue Jays' injury woes continue as Springer fractures big toe",
-      "published_at": "2026-04-11T13:45:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The relentless injury bug continues to hit the Toronto Blue Jays hard. The latest blow saw George Springer suffer a broken left big toe in Saturday's 7-4 loss to the visiting Minnesota Twins.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "58b7fcc45b71c89889f3b4f9aaf67cb268406d06",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/large-black-bear-found-dead-on-sunshine-coast-9.7160600?cmp=rss",
-      "title": "'Breaks my heart': Investigation launched after black bear found dead on Sunshine Coast road",
-      "published_at": "2026-04-11T12:55:57-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The B.C. Conservation Officer Service said as the investigation is ongoing, no further information can be provided at this time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "293af99b9e3268416e2ab7e00bf1a9531454599a",
-      "url": "https://www.cbc.ca/news/entertainment/giller-prize-boycott-ends-9.7160540?cmp=rss",
-      "title": "Pro-Palestinian organizers end Giller Prize boycott, citing successful campaign",
-      "published_at": "2026-04-11T11:20:36-04:00",
-      "section": "Entertainment",
-      "summary_auto": "CanLit Responds says the group received confirmation in the form of an email from executive director Elana Rabinovitch that the Giller no longer has sponsorship ties to Scotiabank or the Azrieli Foundation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
         "subjectivity_hint": "low"
       }
     }
