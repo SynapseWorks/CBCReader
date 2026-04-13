@@ -1,8 +1,229 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-13T09:12:07.859941-04:00",
+  "generated_at": "2026-04-13T15:06:05.032668-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d6c244ae87bed15c46219fd700f0d0e839c7d3e8",
+      "url": "https://www.cbc.ca/news/entertainment/box-office-2026-mario-9.7162031?cmp=rss",
+      "title": "Super Mario Galaxy, Project Hail Mary help support best box office since start of pandemic",
+      "published_at": "2026-04-13T11:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A string of box office successes is, perhaps surprisingly, supported by what seemed a fading remnant of the Hollywood landscape just a few years ago: non-franchises and even the occasional original feature.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.972,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85ea67a62b2758ea6f616afd7666185e503e7430",
+      "url": "https://www.cbc.ca/news/world/trump-lawsuit-dismissed-epstein-wall-street-journal-9.7162012?cmp=rss",
+      "title": "Judge throws out Trump's $10B US lawsuit against Wall Street Journal over Epstein birthday card",
+      "published_at": "2026-04-13T10:55:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal judge on Monday dismissed U.S. President Donald Trump’s defamation lawsuit against the Wall Street Journal, a setback for Trump in his legal campaign against media companies he accuses of treating him unfairly.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "39879f722933e12c0f53e7426786e28a8862ff69",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/ndp-caucus-divided-over-b-c-premier-s-plan-to-amend-dripa-9.7161976?cmp=rss",
+      "title": "B.C. NDP caucus split over premier's plan to amend Indigenous reconciliation framework law",
+      "published_at": "2026-04-13T10:29:44-04:00",
+      "section": "Canada",
+      "summary_auto": "The NDP government is courting two Independent MLAs to support the premier’s controversial plan to suspend sections of the Declaration on the Rights of Indigenous People’s Act. Sources tell CBC News a growing number of NDP MLAs oppose the changes the premier is pushing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3d16dd91ee34d6d25547e8c160a1d545f6f8bef7",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-school-board-legislation-9.7161639?cmp=rss",
+      "title": "Ontario capping number of school trustees per board, creating new oversight roles",
+      "published_at": "2026-04-13T10:04:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f69a9f2603e3bd78b13af499180199e088efe47c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-libraries-restrictions-privacy-9.7161614?cmp=rss",
+      "title": "Alberta's access restrictions threaten privacy and democratic role of libraries, critics say",
+      "published_at": "2026-04-13T09:32:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Critics of Alberta's proposed rule changes to public libraries say the true danger lies in giving the province power to dictate access and potentially snoop on which books people are checking out.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "622586139b8ed062434649a741ba1ec1af4140be",
+      "url": "https://www.cbc.ca/player/play/9.7161847?cmp=rss",
+      "title": "What's next for Hungary after 16 years of Orbán?",
+      "published_at": "2026-04-13T08:56:07-04:00",
+      "section": "World",
+      "summary_auto": "The morning after a dramatic election result, Hungarians are reacting to the end of Viktor Orbán's 16 years in power. Questions remain about how the new government, led by Péter Magyar, will shake things up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ce0819cd721d7230ad7f1e1776cf8d34943d1876",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-fifa-cross-country-tour-2026-9.7161796?cmp=rss",
+      "title": "Cross-country tour to celebrate FIFA World Cup to wrap with stop in Niagara Falls in July",
+      "published_at": "2026-04-13T08:12:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "FIFA recently announced Niagara Falls will be a final stop in an upcoming cross-country tour to celebrate the 2026 FIFA World Cup.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9b99476f0842e738f57481a3e10a79e5d1fae319",
+      "url": "https://www.cbc.ca/news/world/gaza-palestinians-killed-ceasefire-deal-israel-9.7161562?cmp=rss",
+      "title": "At least 3 killed in Israeli strike on Gaza as talks to advance ceasefire back on",
+      "published_at": "2026-04-13T08:05:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Israeli airstrike killed at least three Palestinians in the Gaza Strip on Monday, health officials said, as mediators met leaders from Hamas in an effort to shore up a U.S.-brokered ceasefire deal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ab6fac4b810e690100fb340252d6b479ee05334f",
+      "url": "https://www.cbc.ca/news/health/cancer-young-people-9.7161730?cmp=rss",
+      "title": "Young adult cancer survivors at twice the risk of later cancers, study suggests",
+      "published_at": "2026-04-13T07:55:00-04:00",
+      "section": "Health",
+      "summary_auto": "Survivors of cancer in adolescence and young adulthood are at increased risk for nearly all types later, Canadian researchers find.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "313e8c44db7af5586b05d6683a9d995693099492",
+      "url": "https://www.cbc.ca/news/world/hungary-magyar-world-reaction-9.7161463?cmp=rss",
+      "title": "EU president calls Hungary election a 'victory for fundamental freedoms' as world leaders congratulate Magyar",
+      "published_at": "2026-04-13T07:30:02-04:00",
+      "section": "World",
+      "summary_auto": "European Union ​Commission President Ursula von der Leyen hailed Hungary's election as \"a victory for fundamental freedoms,\" and compared the ousting of nationalist Viktor Orbán to the country's 1956 ‌anti-Soviet uprising and its 1989 break with communism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e71ed0b55be340c8ee0e0d5f437ba0882c74c93",
+      "url": "https://www.cbc.ca/news/entertainment/coachella-music-and-arts-festival-photo-scroller-9.7161431?cmp=rss",
+      "title": "IN PHOTOS | Highlights from Coachella",
+      "published_at": "2026-04-13T07:11:47-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Over the weekend, fans flocked to the Californian desert for the Coachella Valley Music and Arts Festival for performances by top global artists and emerging acts. Check out some of the scenes from the first weekend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4868ee2f1e5998aac04becc7a9dd76494bdc4534",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/farming-income-tax-act-agriculture-ontario-9.7159753?cmp=rss",
+      "title": "Thousands of farms are 'boarded shut' due to 'outdated' tax rules, Ontario farmer says",
+      "published_at": "2026-04-13T07:10:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Farmers in southern Ontario are fighting for a change to the Income Tax Act, so that inheriting nieces and nephews are included in tax deferrals. They say it will help keep farms across Canada open.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4868ee2f1e5998aac04becc7a9dd76494bdc4534",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/farming-income-tax-act-agriculture-ontario-9.7159753?cmp=rss",
+      "title": "Thousands of farms are 'boarded shut' due to 'outdated' tax rules, says Ontario farmer",
+      "published_at": "2026-04-13T07:10:51-04:00",
+      "section": "Canada",
+      "summary_auto": "Farmers in southern Ontario are fighting for a change to the Income Tax Act, so that inheriting nieces and nephews are included in tax deferrals. They say it will help keep farms across Canada open.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4bef507a14d66b013f1124ded66d9fc0bbf9428c",
+      "url": "https://www.cbc.ca/sports/soccer/ghanaian-soccer-player-killed-premier-league-robbery-team-bus-9.7161559?cmp=rss",
+      "title": "Ghanaian Premier League player killed in suspected armed robbery attack on team bus",
+      "published_at": "2026-04-13T06:20:58-04:00",
+      "section": "World",
+      "summary_auto": "Dominic Frimpong of Ghanaian Premier League club Berekum Chelsea was killed after the team's bus was attacked by a group of suspected armed robbers, the country's soccer association said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.958,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6c277f192e92312821286efa5ddaf67f9605053",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-ceasefire-talks-border-town-9.7161451?cmp=rss",
+      "title": "Israel launches attack to seize Lebanon border town ahead of U.S.-hosted talks",
+      "published_at": "2026-04-13T05:38:44-04:00",
+      "section": "World",
+      "summary_auto": "Israeli troops launched an attack to seize a key south Lebanon town from Hezbollah fighters holed up inside on Monday, pressing the war on the Iran-backed group on the eve of historic talks between Israeli and Lebanese government envoys.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "370dae41693e311b139372c7a8b5484cedbe8ab9",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/russian-swimmers-to-be-allowed-to-compete-after-restrictions-dropped-9.7161467?cmp=rss",
+      "title": "Russian swimmers to be allowed to compete with flag and anthem after restrictions dropped",
+      "published_at": "2026-04-13T05:27:36-04:00",
+      "section": "World",
+      "summary_auto": "The governing body for international swimming and aquatic sports will allow athletes from Russia to compete without restrictions and with their national flag and anthem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a78a7e1374cce077baf388563dfc0c5e8848e7ea",
+      "url": "https://www.cbc.ca/player/play/9.7161445?cmp=rss",
+      "title": "How would a U.S. military blockade of Iran's ports work?",
+      "published_at": "2026-04-13T05:15:21-04:00",
+      "section": "World",
+      "summary_auto": "CBC's David Common explains what's expected around the Strait of Hormuz after the U.S. military said it would move to block ships travelling to or from Iran's ports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "7bf29da683afe329a79cba430c7367390c77cd25",
       "url": "https://www.cbc.ca/news/world/swalwell-campaign-allegations-9.7161338?cmp=rss",
@@ -17,54 +238,41 @@
       }
     },
     {
-      "id": "44db8823e1f896539301ddbf88d276a610b409cb",
-      "url": "https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss",
-      "title": "Trump slams 'very liberal' Pope Leo following American pontiff's comments on Iran war",
-      "published_at": "2026-04-13T04:58:45-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "75fd5875271aca318cb4ff8930b7978ac9585163",
       "url": "https://www.cbc.ca/news/business/markets-april-13-9.7161390?cmp=rss",
-      "title": "Oil prices rise, global markets decline ahead of U.S. blockade of Strait of Hormuz",
+      "title": "Oil prices rise above $100, North American stock market holds steady as U.S.-Iran tensions continue",
       "published_at": "2026-04-13T04:53:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Brent crude oil, the international standard, rose $7.04, or 7.4 per cent, to $102.24 US a barrel on Monday. That's up from roughly $70 per barrel before the war in late February. Markets in France, Britain, Germany, Japan, South Korea and more also declined.",
+      "section": "Business",
+      "summary_auto": "Brent crude oil, the international standard, hovered around $100 US a barrel on Monday — up from roughly $70 per barrel before the war in late February. North American markets were mostly flat as of midday, after dipping earlier in the morning.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.823,
+        "sentiment": -0.883,
         "subjectivity_hint": "medium"
       }
     },
     {
       "id": "305fbd17aa2cfdd04b3310206ab25bb037d90659",
       "url": "https://www.cbc.ca/books/canadareads/livestory/canada-reads-2026-live-updates-9.7159466?cmp=rss",
-      "title": "Canada Reads 2026 is about to start",
+      "title": "Foe by Iain Reid 1st book to be eliminated on Canada Reads 2026",
       "published_at": "2026-04-13T04:30:16-04:00",
-      "section": "Entertainment",
+      "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.44,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "d758f4c41230542130951957459e3c82ee5c0f31",
       "url": "https://www.cbc.ca/news/world/livestory/us-israel-iran-war-blockade-strait-hormuz-9.7161372?cmp=rss",
-      "title": "U.S. military’s promised blockade of ships leaving Iranian ports expected to begin shortly",
+      "title": "Iran port blockade has started, Trump says, after pledging approaching attack ships will be 'eliminated'",
       "published_at": "2026-04-13T04:13:38-04:00",
       "section": "World",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.361,
+        "sentiment": -0.477,
         "subjectivity_hint": "low"
       }
     },
@@ -73,7 +281,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/alberta-wild-boar-drones-9.7159112?cmp=rss",
       "title": "Alberta testing AI-powered drone technology in battle against wild boar",
       "published_at": "2026-04-13T04:00:00-04:00",
-      "section": "Technology & Science",
+      "section": "Top Stories",
       "summary_auto": "Researchers are turning to a new high-tech combination of drones, thermal cameras and artificial intelligence to get a new vantage point on Alberta’s wild boar problem.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,24 +290,11 @@
       }
     },
     {
-      "id": "153290e6e47c0e47fd30a8dc0a3f509f141685cc",
-      "url": "https://www.cbc.ca/player/play/9.7161358?cmp=rss",
-      "title": "Liberals poised to secure majority. How did we get here?",
-      "published_at": "2026-04-13T03:40:08-04:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC News chief political correspondent Rosemary Barton breaks down the comings and goings since the last federal election that lead to the Liberal Party to be just one seat shy of a majority government. They need just one win in three byelections taking place Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.836,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "3544244cd7e2b72c30fc285d4411b7b3b5c8d84e",
       "url": "https://www.cbc.ca/news/entertainment/us-music-spears-rehab-9.7161328?cmp=rss",
       "title": "Britney Spears enters treatment facility weeks after DUI arrest",
       "published_at": "2026-04-13T03:06:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Britney Spears has entered a substance abuse treatment facility just over a month after she was arrested on suspicion of driving under the influence of alcohol and drugs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +307,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/grizzly-hunt-proposal-alberta-9.7160632?cmp=rss",
       "title": "Conservation groups call for 'science-based' approach to Alberta grizzly bear hunt proposal",
       "published_at": "2026-04-13T03:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Conservation groups say recent calls for the provincial government to legalize the hunting of threatened grizzly bears in Alberta aren't justified by science due to a lack of up-to-date population studies.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,19 +329,6 @@
       }
     },
     {
-      "id": "ecb9fc4b5a631da6bd33a0c2004cc1ed184e0306",
-      "url": "https://www.cbc.ca/radio/frontburner/can-pierre-poilievre-stop-the-bleeding-9.7160972?cmp=rss",
-      "title": "Can Pierre Poilievre stop the bleeding?",
-      "published_at": "2026-04-13T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "After a fourth MP crosses the floor, and reported discontent within caucus, Pierre Poilievre’s ability to lead the Conservatives is being called into question. Can he quell the unrest?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.118,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "2d5a30ef5f8f8ea977f1ec43cdc75f8f0fea202d",
       "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-emails-documents-provide-new-information-on-canada-first-ai-facial-recognition-bodycam-pilot-9.7157991?cmp=rss",
       "title": "Edmonton police emails, documents provide new information on Canada-first AI facial recognition bodycam pilot",
@@ -164,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/strikes-boats-u-s-military-pacific-9.7161307?cmp=rss",
       "title": "Strikes on alleged drug boats kill 5, leave 1 survivor in eastern Pacific, U.S. military says",
       "published_at": "2026-04-13T01:43:02-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. military said Sunday that it blew up two boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of five people and leaving one survivor, as the Trump administration pursues its campaign against alleged traffickers in Latin America while preparing a naval blockade of Iranian ports.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,16 +355,16 @@
       }
     },
     {
-      "id": "4d2fa03302239f36e85a28d8885953f8a700f35a",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/hurricane-fiona-post-tropical-storm-fiona-insurance-dispute-nova-scotia-9.7144484?cmp=rss",
-      "title": "It's been 3½ years since Fiona, but N.S. man still fighting insurer to get home fixed",
+      "id": "920411ebf129ad828a042486af36717c9ff54e66",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/glooscap-first-nation-first-cannabis-law-9.7159153?cmp=rss",
+      "title": "This First Nation's community in N.S. is asking if it wants pot sold on the reserve at all",
       "published_at": "2026-04-13T01:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Stephen MacMillan has been in a dispute with his home insurer since 2022's post-tropical storm Fiona. Mould and water damage meant he spent this past winter living in a trailer on the property. MacMillan is not alone in having an unresolved Fiona claim, says the public adjuster representing him.",
+      "summary_auto": "Police raids of Indigenous-owned cannabis stores in Nova Scotia have been headline news. But that’s overshadowing other questions: whether band members even want cannabis stores, and if so, who should own and profit from them. That’s what band members are being asked on the Glooscap First Nation.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.875,
-        "subjectivity_hint": "low"
+        "sentiment": 0.649,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -203,7 +385,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/sawmills-future-newsprint-9.7154979?cmp=rss",
       "title": "As the N.L. newsprint industry sputters, these sawmill owners are framing up a bright future",
       "published_at": "2026-04-13T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The future of the newsprint mill in Corner Brook is about as murky as the slurry used to make paper. And all that uncertainty is also being felt by the saw milling sector.",
       "bias_heuristic": {
         "article_type": "News",
@@ -238,19 +420,6 @@
       }
     },
     {
-      "id": "b839efd5573d37af51fb9c20943a8da4b77ada9c",
-      "url": "https://www.cbc.ca/news/canada/sudbury/fatal-collision-car-crash-highway-69-9.7158938?cmp=rss",
-      "title": "Family of Sudbury couple killed in latest Highway 69 crash urges Ontario to honour expansion promise",
-      "published_at": "2026-04-13T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Family and friends of a couple killed last week on a stretch of Highway 69 that's seen other fatal crashes are questioning why the Ontario government has yet to deliver on a long-promised expansion from two to four lanes. Vinod and Shilpa Patel died in a collision along the only remaining two-lane stretch of the highway, near Britt.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "f76fe02dd5a0b8c3a12b91bf35d96389091d21b0",
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-ford-cost-of-living-affordability-9.7157646?cmp=rss",
       "title": "Pressure ramps up on Ford government to address rising cost of living",
@@ -260,6 +429,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b839efd5573d37af51fb9c20943a8da4b77ada9c",
+      "url": "https://www.cbc.ca/news/canada/sudbury/fatal-collision-car-crash-highway-69-9.7158938?cmp=rss",
+      "title": "Family of Sudbury couple killed in latest Highway 69 crash urges Ontario to honour expansion promise",
+      "published_at": "2026-04-13T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Family and friends of a couple killed last week on a stretch of Highway 69 that's seen other fatal crashes are questioning why the Ontario government has yet to deliver on a long-promised expansion from two to four lanes. Vinod and Shilpa Patel died in a collision along the only remaining two-lane stretch of the highway, near Britt.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
         "subjectivity_hint": "low"
       }
     },
@@ -277,15 +459,28 @@
       }
     },
     {
-      "id": "cfc6b0904c0e86e21a7253ac1d4967abaf5df750",
-      "url": "https://www.cbc.ca/player/play/9.7161257?cmp=rss",
-      "title": "#TheMoment a former Edmonton Oiler opened a time capsule from 2000",
-      "published_at": "2026-04-12T18:11:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Michelle Letourneau tells The National about the moment former Edmonton Oilers player Tyler Ennis came home to Edmonton to see their elementary school open a time capsule from the year 2000.",
+      "id": "d73ea6525a2acfebd0bb1e8414cd074f4e27bece",
+      "url": "https://www.cbc.ca/player/play/9.7159990?cmp=rss",
+      "title": "How McGill’s new greenhouse will help grow more climate change-resistant agriculture",
+      "published_at": "2026-04-13T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "McGill University’s Macdonald Campus has a new greenhouse, which features seven bays, a classroom and demonstration rooms. Staff explain how they plan to use these new facilities.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "44db8823e1f896539301ddbf88d276a610b409cb",
+      "url": "https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss",
+      "title": "Trump attacks Pope Leo, then draws backlash for Christ-like AI post",
+      "published_at": "2026-04-12T17:54:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pope Leo told Reuters on Monday that he plans to continue speaking out against war after U.S. ‌President Donald Trump's direct attack the previous day on the leader of the 1.4-billion-member church.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
         "subjectivity_hint": "low"
       }
     },
@@ -299,84 +494,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f60321df087d3a13663db84ea8d5950aaa96959",
-      "url": "https://www.cbc.ca/news/world/peter-magyar-explainer-9.7161141?cmp=rss",
-      "title": "Who is Péter Magyar, Hungary's next prime minister?",
-      "published_at": "2026-04-12T14:34:19-04:00",
-      "section": "World",
-      "summary_auto": "Once an ally to Hungarian Prime Minister Viktor Orbán, Péter ​Magyar broke from the party to forge a path of his own that ultimately led to him replacing Orbán.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ef7433b207ef407d4901b4def6c461b82c989767",
-      "url": "https://www.cbc.ca/news/entertainment/justin-bieber-coachella-2026-youtube-9.7161120?cmp=rss",
-      "title": "Justin Bieber takes Coachella crowd on a nostalgic YouTube detour",
-      "published_at": "2026-04-12T13:53:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Justin Bieber returned to the platform that first made him a viral sensation on the Coachella stage Saturday night, huddling up to a laptop for a nostalgic YouTube-powered detour during his headlining set.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "79ccdc017241a45b276cf109e11d164706670e25",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/skytrain-death-vancouver-9.7161060?cmp=rss",
-      "title": "Man struck and killed by SkyTrain in Vancouver",
-      "published_at": "2026-04-12T12:07:12-04:00",
-      "section": "Canada",
-      "summary_auto": "The incident closed the Main Street-Science World SkyTrain Station down for four hours on Friday evening.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "197c93fbeaa15be0f41e99994cdb4573d8b385f5",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/metis-nation-british-columbia-removes-president-9.7160991?cmp=rss",
-      "title": "Métis Nation British Columbia removes president following allegations of misconduct",
-      "published_at": "2026-04-12T11:55:19-04:00",
-      "section": "Canada",
-      "summary_auto": "The Métis Nation British Columbia (MNBC) says its board of directors have voted to remove president Walter Mineault, alleging he breached his fiduciary duty. In an April 9 press release, MNBC said an election will be held to replace Mineault, with vice president Melanie Allard appointed as their interim president.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ea71f26860e0bdc785c024428f4eb986a2e296e0",
-      "url": "https://www.cbc.ca/player/play/9.7161051?cmp=rss",
-      "title": "How Iran is using executions to crush dissent",
-      "published_at": "2026-04-12T11:27:34-04:00",
-      "section": "World",
-      "summary_auto": "Human rights groups say Iran is speeding up executions of political dissidents and anti-regime protesters who took to the streets in January. Families and activists say any negotiations to end the war must be conditioned on ending the killings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7c91ed4ae15d555f4377639ede148dfd6e30b5e8",
-      "url": "https://www.cbc.ca/news/world/ireland-gas-fuel-protest-tax-9.7161046?cmp=rss",
-      "title": "Irish PM announces fuel tax cuts amid days of protests over soaring prices at the pumps",
-      "published_at": "2026-04-12T11:23:59-04:00",
-      "section": "World",
-      "summary_auto": "Irish Prime Minister Micheal Martin said Sunday that his government will offer new fuel tax cuts to try to end crippling protests over soaring gas costs, though he slammed the tactics of farmers and truckers who had blocked access to the nation's only oil refinery and several depots.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
         "subjectivity_hint": "low"
       }
     }
