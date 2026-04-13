@@ -1,171 +1,275 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-12T14:38:12.169891-04:00",
+  "generated_at": "2026-04-13T09:12:07.859941-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "1a3827ac4801337707999b847c8e884b41ac7c25",
-      "url": "https://www.cbc.ca/news/politics/liberals-majority-government-floorcrossers-9.7160889?cmp=rss",
-      "title": "Liberals will keep working across party lines even if byelections deliver majority: MacKinnon",
-      "published_at": "2026-04-12T07:46:51-04:00",
+      "id": "7bf29da683afe329a79cba430c7367390c77cd25",
+      "url": "https://www.cbc.ca/news/world/swalwell-campaign-allegations-9.7161338?cmp=rss",
+      "title": "Eric Swalwell suspends California governor campaign amid sex assault allegation",
+      "published_at": "2026-04-13T04:58:47-04:00",
+      "section": "World",
+      "summary_auto": "Democratic House Rep. Eric Swalwell suspended his campaign for California governor on Sunday following sexual assault allegations that he continues to deny.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "44db8823e1f896539301ddbf88d276a610b409cb",
+      "url": "https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss",
+      "title": "Trump slams 'very liberal' Pope Leo following American pontiff's comments on Iran war",
+      "published_at": "2026-04-13T04:58:45-04:00",
       "section": "Top Stories",
-      "summary_auto": "As the Liberals gear up for three federal byelections on Monday that could deliver them a majority government, House leader Steven MacKinnon says the government will \"continue that impulse of working across party lines\" even if it's not required to co-operate to pass legislation.",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75fd5875271aca318cb4ff8930b7978ac9585163",
+      "url": "https://www.cbc.ca/news/business/markets-april-13-9.7161390?cmp=rss",
+      "title": "Oil prices rise, global markets decline ahead of U.S. blockade of Strait of Hormuz",
+      "published_at": "2026-04-13T04:53:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Brent crude oil, the international standard, rose $7.04, or 7.4 per cent, to $102.24 US a barrel on Monday. That's up from roughly $70 per barrel before the war in late February. Markets in France, Britain, Germany, Japan, South Korea and more also declined.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "305fbd17aa2cfdd04b3310206ab25bb037d90659",
+      "url": "https://www.cbc.ca/books/canadareads/livestory/canada-reads-2026-live-updates-9.7159466?cmp=rss",
+      "title": "Canada Reads 2026 is about to start",
+      "published_at": "2026-04-13T04:30:16-04:00",
+      "section": "Entertainment",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d758f4c41230542130951957459e3c82ee5c0f31",
+      "url": "https://www.cbc.ca/news/world/livestory/us-israel-iran-war-blockade-strait-hormuz-9.7161372?cmp=rss",
+      "title": "U.S. military’s promised blockade of ships leaving Iranian ports expected to begin shortly",
+      "published_at": "2026-04-13T04:13:38-04:00",
+      "section": "World",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60150935220649542719710556d4558789f9599c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-wild-boar-drones-9.7159112?cmp=rss",
+      "title": "Alberta testing AI-powered drone technology in battle against wild boar",
+      "published_at": "2026-04-13T04:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Researchers are turning to a new high-tech combination of drones, thermal cameras and artificial intelligence to get a new vantage point on Alberta’s wild boar problem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "153290e6e47c0e47fd30a8dc0a3f509f141685cc",
+      "url": "https://www.cbc.ca/player/play/9.7161358?cmp=rss",
+      "title": "Liberals poised to secure majority. How did we get here?",
+      "published_at": "2026-04-13T03:40:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News chief political correspondent Rosemary Barton breaks down the comings and goings since the last federal election that lead to the Liberal Party to be just one seat shy of a majority government. They need just one win in three byelections taking place Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.836,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3544244cd7e2b72c30fc285d4411b7b3b5c8d84e",
+      "url": "https://www.cbc.ca/news/entertainment/us-music-spears-rehab-9.7161328?cmp=rss",
+      "title": "Britney Spears enters treatment facility weeks after DUI arrest",
+      "published_at": "2026-04-13T03:06:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Britney Spears has entered a substance abuse treatment facility just over a month after she was arrested on suspicion of driving under the influence of alcohol and drugs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1be777d046a86feb9c4319b9503d646adcf52f6f",
+      "url": "https://www.cbc.ca/news/canada/calgary/grizzly-hunt-proposal-alberta-9.7160632?cmp=rss",
+      "title": "Conservation groups call for 'science-based' approach to Alberta grizzly bear hunt proposal",
+      "published_at": "2026-04-13T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Conservation groups say recent calls for the provincial government to legalize the hunting of threatened grizzly bears in Alberta aren't justified by science due to a lack of up-to-date population studies.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.762,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5d7168ac8f4695bb5764496053c3b8b539946e6e",
+      "url": "https://www.cbc.ca/news/canada/manitoba/lawsuit-ngn-desjarlais-guardians-9.7159598?cmp=rss",
+      "title": "Lawsuit accuses Winnipeg woman of taking $6M from non-profit to fund vacations, buy TikTok coins",
+      "published_at": "2026-04-13T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A non-profit organization — once in charge of millions of dollars in federal funds — is suing a former employee, alleging she misappropriated more than $6 million to pay for vacations and divert to a Jamaican dance hall singer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecb9fc4b5a631da6bd33a0c2004cc1ed184e0306",
+      "url": "https://www.cbc.ca/radio/frontburner/can-pierre-poilievre-stop-the-bleeding-9.7160972?cmp=rss",
+      "title": "Can Pierre Poilievre stop the bleeding?",
+      "published_at": "2026-04-13T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After a fourth MP crosses the floor, and reported discontent within caucus, Pierre Poilievre’s ability to lead the Conservatives is being called into question. Can he quell the unrest?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.118,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2d5a30ef5f8f8ea977f1ec43cdc75f8f0fea202d",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-emails-documents-provide-new-information-on-canada-first-ai-facial-recognition-bodycam-pilot-9.7157991?cmp=rss",
+      "title": "Edmonton police emails, documents provide new information on Canada-first AI facial recognition bodycam pilot",
+      "published_at": "2026-04-13T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Key details include a “critical fault” system outage, possible extension of pilot project and that facial recognition model was supplied by Corsight AI, a company whose technology has reportedly been used for mass surveillance in Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "426f738f596c381591a5337ae236ced370ece7b9",
+      "url": "https://www.cbc.ca/news/world/strikes-boats-u-s-military-pacific-9.7161307?cmp=rss",
+      "title": "Strikes on alleged drug boats kill 5, leave 1 survivor in eastern Pacific, U.S. military says",
+      "published_at": "2026-04-13T01:43:02-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. military said Sunday that it blew up two boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of five people and leaving one survivor, as the Trump administration pursues its campaign against alleged traffickers in Latin America while preparing a naval blockade of Iranian ports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4d2fa03302239f36e85a28d8885953f8a700f35a",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/hurricane-fiona-post-tropical-storm-fiona-insurance-dispute-nova-scotia-9.7144484?cmp=rss",
+      "title": "It's been 3½ years since Fiona, but N.S. man still fighting insurer to get home fixed",
+      "published_at": "2026-04-13T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Stephen MacMillan has been in a dispute with his home insurer since 2022's post-tropical storm Fiona. Mould and water damage meant he spent this past winter living in a trailer on the property. MacMillan is not alone in having an unresolved Fiona claim, says the public adjuster representing him.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "920411ebf129ad828a042486af36717c9ff54e66",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/glooscap-first-nation-first-cannabis-law-9.7159153?cmp=rss",
+      "title": "This N.S. First Nations community asking if it wants pot sold on the reserve at all",
+      "published_at": "2026-04-13T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Police raids of Indigenous-owned cannabis stores in Nova Scotia have been headline news. But that’s overshadowing other questions: whether band members even want cannabis stores, and if so, who should own and profit from them. That’s what band members are being asked on the Glooscap First Nation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "390b5b4892cd9a95754c2b0431c1a511a094c1e4",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/sawmills-future-newsprint-9.7154979?cmp=rss",
+      "title": "As the N.L. newsprint industry sputters, these sawmill owners are framing up a bright future",
+      "published_at": "2026-04-13T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The future of the newsprint mill in Corner Brook is about as murky as the slurry used to make paper. And all that uncertainty is also being felt by the saw milling sector.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db52419e0251827da83d120047c46196f13f9c9d",
+      "url": "https://www.cbc.ca/news/health/canadian-cancer-projections-9.7159535?cmp=rss",
+      "title": "Cancer remains top cause of death in Canada as new study shows multiple types rising",
+      "published_at": "2026-04-13T00:12:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "453474f1c68f55613ae84b801eb61df101722799",
+      "url": "https://www.cbc.ca/news/gopublic/pharmacists-prescriptions-medication-errors-near-miss-health-canada-9.7156873?cmp=rss",
+      "title": "Shoppers Drug Mart gave her the wrong medication. Months later, she landed in the ER",
+      "published_at": "2026-04-13T00:02:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b839efd5573d37af51fb9c20943a8da4b77ada9c",
+      "url": "https://www.cbc.ca/news/canada/sudbury/fatal-collision-car-crash-highway-69-9.7158938?cmp=rss",
+      "title": "Family of Sudbury couple killed in latest Highway 69 crash urges Ontario to honour expansion promise",
+      "published_at": "2026-04-13T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Family and friends of a couple killed last week on a stretch of Highway 69 that's seen other fatal crashes are questioning why the Ontario government has yet to deliver on a long-promised expansion from two to four lanes. Vinod and Shilpa Patel died in a collision along the only remaining two-lane stretch of the highway, near Britt.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f76fe02dd5a0b8c3a12b91bf35d96389091d21b0",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-ford-cost-of-living-affordability-9.7157646?cmp=rss",
+      "title": "Pressure ramps up on Ford government to address rising cost of living",
+      "published_at": "2026-04-13T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "As the cost of living rises in the province, Ontario’s government finds itself under increasing pressure to address affordability just weeks after it delivered its latest budget. Opposition parties and anti-poverty advocates are questioning the wisdom of holding off on immediate measures to provide cost of living relief.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8246ad868022ade2fe8d849795c55d34af6a9a6f",
-      "url": "https://www.cbc.ca/news/world/trump-strait-of-hormuz-9.7160834?cmp=rss",
-      "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble",
-      "published_at": "2026-04-12T05:19:52-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump on Sunday said the U.S. navy would immediately start blockading the Strait of Hormuz and would also interdict every vessel in international waters that had paid a toll to Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "40d486e12c5fffe26d1a417b95e530fbf954da5f",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-easter-ceasefire-violation-9.7160792?cmp=rss",
-      "title": "Ukraine, Russia accuse each other of violating Orthodox Easter ceasefire",
-      "published_at": "2026-04-12T04:55:17-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Russia and Ukraine accused each other on Sunday of breaching the 32-hour ceasefire in their four-year war, each reporting close to 2,000 drone and shelling attacks just hours after the truce began on Saturday to mark Orthodox Easter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.923,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "03f0dde39c59c7aae5d2f5b7483f68a0141147d7",
-      "url": "https://www.cbc.ca/news/world/hungary-election-viktor-orban-9.7160781?cmp=rss",
-      "title": "Hungarians vote in landmark election that could unseat Orbán",
-      "published_at": "2026-04-12T02:43:12-04:00",
-      "section": "World",
-      "summary_auto": "Orbán, a Eurosceptic nationalist, has carved out a model of an \"illiberal democracy\" seen as a blueprint by Trump's Make  America Great Again (MAGA) movement and its admirers in Europe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.796,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8a4264691c31c9022e3ec5a4ab8b23af33f37c33",
-      "url": "https://www.cbc.ca/news/world/ireland-fuel-protests-9.7160759?cmp=rss",
-      "title": "Fuel protests in Ireland continue as pumps run dry, prices rise amid war in Middle East",
-      "published_at": "2026-04-12T01:42:57-04:00",
-      "section": "World",
-      "summary_auto": "Trucks and tractors continued to block access to vital fuel depots and a major port, and vehicles clogging traffic led to closures of part of the main highway around Dublin, as well as sections of other major roadways.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a63fce374c259775082f04890e11583ac8713488",
-      "url": "https://www.cbc.ca/radio/thecurrent/r-word-normalization-9.7156594?cmp=rss",
-      "title": "The R-word was taboo as a slur for people with disabilities. Now it's being normalized again",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The R-word has been considered taboo for several years, as a slur against people with intellectual and developmental disabilities. Now, the word appears to be undergoing a resurgence and normalization.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74372a1179f0233a9a35ce6f4831f6ef978c1bc3",
-      "url": "https://www.cbc.ca/news/business/publishing-industry-ai-shy-girl-fallout-9.7155292?cmp=rss",
-      "title": "A novelist was accused of using AI. Why the literary world is still grappling with guardrails",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The recent cancelling of a horror novelist's book demonstrates the conundrum that literary professionals face as they comb through every pitch, query letter and manuscript lobbed their way: how do you separate the proverbial wheat from the AI-generated chaff, and what happens if you get it wrong?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e37c9f0a1133c04e8bf47e7a3d64429fbb9f9a38",
-      "url": "https://www.cbc.ca/news/politics/iran-war-oil-ceasefire-oil-lng-9.7159384?cmp=rss",
-      "title": "There's a silver lining in the Iran war ceasefire for Canada's oil and gas industry",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Iran war appears to have ended (if it has ended) with a settlement that neither fully opens the Strait of Hormuz nor keeps it fully closed. The lingering doubts about the Persian Gulf as a source of energy for Europe and Asia, especially if Iran succeeds in its goal of charging tolls for passage, could be good news for Canadian oil and gas — if disaster can be averted.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.787,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "87466c591addba2c2797dd136f350c18ad791c5b",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-new-premier-leadership-race-caq-9.7157880?cmp=rss",
-      "title": "CAQ to pick new leader and Quebec premier today",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "84c9ec126e20425ae672a387196bdef54f2a2700",
-      "url": "https://www.cbc.ca/news/business/cusma-energy-proportionality-9.7159330?cmp=rss",
-      "title": "In a new CUSMA, should Canada offer the U.S. stronger energy rights?",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "With the future of free trade between Canada and the United States unclear at best, a look to the past could provide hints at where critical exports of energy fit into a deal in the future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.936,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "87466c591addba2c2797dd136f350c18ad791c5b",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-new-premier-leadership-race-caq-9.7157880?cmp=rss",
-      "title": "Quebec to get new premier today as CAQ leadership race concludes",
-      "published_at": "2026-04-12T00:00:00-04:00",
+      "id": "525b1999c9d69ed9761515775eca7e826978c250",
+      "url": "https://www.cbc.ca/news/politics/byelection-liberal-conservatives-carney-majority-government-9.7161054?cmp=rss",
+      "title": "Voters head to polls in 3 federal byelections that could deliver majority Liberal government",
+      "published_at": "2026-04-13T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "The leadership race to replace outgoing Quebec Premier François Legault concludes Sunday and the results are set to be announced in Drummondville, Que., in the afternoon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e68d9e4a1029fe90bd0e56ab5656dac6c8e3eddd",
-      "url": "https://www.cbc.ca/news/canada/hamilton/next-great-save-2026-9.7159565?cmp=rss",
-      "title": "Niagara-on-the-Lake Museum is one of 12 historic places across Canada vying for $50,000 in contest",
-      "published_at": "2026-04-12T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Niagara-on-the-Lake Museum is one of 12 historic places across Canada up for $65,000 in cash prizes that could help the museum turn its founder's house into an archival centre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2ff9cd32707f1014a4bf523e7e652c6a27245f8a",
-      "url": "https://www.cbc.ca/news/world/hungary-election-orban-9.7160593?cmp=rss",
-      "title": "Viktor Orbán spent 16 years building Hungary's 'illiberal' democracy. On Sunday, he may be voted out",
-      "published_at": "2026-04-11T17:07:22-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
+      "summary_auto": "Voters in two Ontario ridings and one in Quebec will head to the polls on Monday for a slate of crucial federal byelections that could deliver the Liberals a majority government — cementing their hold on power for the next few years.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -173,28 +277,106 @@
       }
     },
     {
-      "id": "04c147061fa00b1f714840b8eba0df23cdc897f0",
-      "url": "https://www.cbc.ca/sports/golf/masters-recap-round-3-saturday-9.7160710?cmp=rss",
-      "title": "McIlroy stumbles at the Masters, shares lead with Cameron Young entering final round",
-      "published_at": "2026-04-11T16:05:38-04:00",
+      "id": "cfc6b0904c0e86e21a7253ac1d4967abaf5df750",
+      "url": "https://www.cbc.ca/player/play/9.7161257?cmp=rss",
+      "title": "#TheMoment a former Edmonton Oiler opened a time capsule from 2000",
+      "published_at": "2026-04-12T18:11:36-04:00",
       "section": "Top Stories",
-      "summary_auto": "Rory McIlroy's march to another Masters title took a ride through the Georgia pines and into the water and all sorts of places he didn't want to be Saturday, including having to share space at the top of the leaderboard with Cameron Young.",
+      "summary_auto": "Michelle Letourneau tells The National about the moment former Edmonton Oilers player Tyler Ennis came home to Edmonton to see their elementary school open a time capsule from the year 2000.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.61,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "690b4da8afcfb7587459b2df468bc7913f5ec1c7",
-      "url": "https://www.cbc.ca/news/canada/manitoba/operation-nanook-churchill-military-arctic-security-rangers-patrol-9.7160666?cmp=rss",
-      "title": "Rangers end 'majestic' snowmobile trek through Canada's North in Churchill",
-      "published_at": "2026-04-11T15:10:03-04:00",
-      "section": "Canada",
-      "summary_auto": "Members of the 1st Canadian Ranger Patrol Group have arrived to their final destination after a 52-day exercise that took them all across the country's North.",
+      "id": "f9a0e3cd4cdf444617ab75f7ae85fbc0690f05eb",
+      "url": "https://www.cbc.ca/sports/golf/masters-round-4-recap-9.7161199?cmp=rss",
+      "title": "Rory repeats: McIlroy goes back-to-back at the Masters to join Jack Nicklaus, Nick Faldo and Tiger Woods",
+      "published_at": "2026-04-12T15:15:52-04:00",
+      "section": "World",
+      "summary_auto": "Rory McIlroy joined more elite company Sunday at the Masters when he pulled away with a pair of birdies around Amen Corner and, as usual, saved a little drama for the end before taking his place in Augusta National history as only the fourth back-to-back champion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.836,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7f60321df087d3a13663db84ea8d5950aaa96959",
+      "url": "https://www.cbc.ca/news/world/peter-magyar-explainer-9.7161141?cmp=rss",
+      "title": "Who is Péter Magyar, Hungary's next prime minister?",
+      "published_at": "2026-04-12T14:34:19-04:00",
+      "section": "World",
+      "summary_auto": "Once an ally to Hungarian Prime Minister Viktor Orbán, Péter ​Magyar broke from the party to forge a path of his own that ultimately led to him replacing Orbán.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef7433b207ef407d4901b4def6c461b82c989767",
+      "url": "https://www.cbc.ca/news/entertainment/justin-bieber-coachella-2026-youtube-9.7161120?cmp=rss",
+      "title": "Justin Bieber takes Coachella crowd on a nostalgic YouTube detour",
+      "published_at": "2026-04-12T13:53:47-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Justin Bieber returned to the platform that first made him a viral sensation on the Coachella stage Saturday night, huddling up to a laptop for a nostalgic YouTube-powered detour during his headlining set.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79ccdc017241a45b276cf109e11d164706670e25",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/skytrain-death-vancouver-9.7161060?cmp=rss",
+      "title": "Man struck and killed by SkyTrain in Vancouver",
+      "published_at": "2026-04-12T12:07:12-04:00",
+      "section": "Canada",
+      "summary_auto": "The incident closed the Main Street-Science World SkyTrain Station down for four hours on Friday evening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "197c93fbeaa15be0f41e99994cdb4573d8b385f5",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/metis-nation-british-columbia-removes-president-9.7160991?cmp=rss",
+      "title": "Métis Nation British Columbia removes president following allegations of misconduct",
+      "published_at": "2026-04-12T11:55:19-04:00",
+      "section": "Canada",
+      "summary_auto": "The Métis Nation British Columbia (MNBC) says its board of directors have voted to remove president Walter Mineault, alleging he breached his fiduciary duty. In an April 9 press release, MNBC said an election will be held to replace Mineault, with vice president Melanie Allard appointed as their interim president.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea71f26860e0bdc785c024428f4eb986a2e296e0",
+      "url": "https://www.cbc.ca/player/play/9.7161051?cmp=rss",
+      "title": "How Iran is using executions to crush dissent",
+      "published_at": "2026-04-12T11:27:34-04:00",
+      "section": "World",
+      "summary_auto": "Human rights groups say Iran is speeding up executions of political dissidents and anti-regime protesters who took to the streets in January. Families and activists say any negotiations to end the war must be conditioned on ending the killings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7c91ed4ae15d555f4377639ede148dfd6e30b5e8",
+      "url": "https://www.cbc.ca/news/world/ireland-gas-fuel-protest-tax-9.7161046?cmp=rss",
+      "title": "Irish PM announces fuel tax cuts amid days of protests over soaring prices at the pumps",
+      "published_at": "2026-04-12T11:23:59-04:00",
+      "section": "World",
+      "summary_auto": "Irish Prime Minister Micheal Martin said Sunday that his government will offer new fuel tax cuts to try to end crippling protests over soaring gas costs, though he slammed the tactics of farmers and truckers who had blocked access to the nation's only oil refinery and several depots.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
         "subjectivity_hint": "low"
       }
     }
