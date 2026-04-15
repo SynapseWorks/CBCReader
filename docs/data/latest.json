@@ -1,8 +1,242 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-15T09:11:38.151915-04:00",
+  "generated_at": "2026-04-15T15:06:52.837210-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "23a29a625b77957f52aedea5b6a22cabc214c87e",
+      "url": "https://www.cbc.ca/player/play/9.7164912?cmp=rss",
+      "title": "Why the U.S. and Iran can't reach a peace deal | About That",
+      "published_at": "2026-04-15T10:44:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Andrew Chang explains what's keeping the U.S. and Iran from reaching a peace agreement following six weeks of ongoing war and a recent marathon negotiating session in Pakistan. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.172,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9a4b6cc86dfd78794fd5eaa3c6798eb6598eed3",
+      "url": "https://www.cbc.ca/news/world/russia-court-heated-rivalry-9.7164683?cmp=rss",
+      "title": "Russian news agency fined for posting review of Heated Rivalry",
+      "published_at": "2026-04-15T10:04:29-04:00",
+      "section": "Entertainment",
+      "summary_auto": "A Russian court has fined a local news agency and one of its directors thousands of dollars for a review it posted on the smash hit series Heated Rivalry, which the Russian government considers LGBTQ+ propaganda.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b60286fa7e652669aad9180f9aa4b751748b9146",
+      "url": "https://www.cbc.ca/news/science/photos/artemis-ii-crew-photo-trainers-scroller-9.7164633?cmp=rss",
+      "title": "IN PHOTOS | How the Artemis II crew made out-of-this-world images",
+      "published_at": "2026-04-15T09:50:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Artemis II astronauts made many mind-blowing images during their historic lunar mission earlier this month. They have two NASA trainers to thank for equipping them with tried-and-true digital SLR cameras and sharing their photo skills.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9bc2375607e78b84c2f630569a479149db2a368c",
+      "url": "https://www.cbc.ca/news/entertainment/raffle-winner-picasso-painting-9.7164517?cmp=rss",
+      "title": "Raffle winner surprised — even skeptical — upon landing $1M Picasso",
+      "published_at": "2026-04-15T09:16:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Parisian art enthusiast could not believe his luck when he found out Tuesday he'd won a Pablo Picasso painting worth more than $1 million in a raffle.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.841,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "be16774a6650d60310c9ecefdca8c1cf7007a0fa",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/gregory-applin-death-navy-sailors-halifax-charged-9.7164764?cmp=rss",
+      "title": "2 Royal Canadian Navy sailors charged in fatal Halifax harbour capsizing",
+      "published_at": "2026-04-15T09:12:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Petty Officer 2nd Class Gregory Applin of Shoal Cove West, N.L., died after he was thrown into frigid water when an inflatable boat hit an unlit buoy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0b5b7d2db0d35901e34b1f7b9aa6068a8f3986d",
+      "url": "https://www.cbc.ca/news/canada/toronto/fifa-fan-fest-ticket-cost-9.7164605?cmp=rss",
+      "title": "Originally promised to be free, Toronto now wants to charge for FIFA Fan Fest",
+      "published_at": "2026-04-15T08:30:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Once promised as a free way for Torontonians and visitors to take part in one of the world’s largest sporting events, the city is now looking to charge for tickets to the 2026 FIFA World Cup fan festival.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.955,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc3fd13340f90bf72af47f1492140ab387a491f6",
+      "url": "https://www.cbc.ca/news/business/ndp-motion-surveillance-pricing-9.7164611?cmp=rss",
+      "title": "Are you paying more than your neighbour? It could be 'surveillance pricing'",
+      "published_at": "2026-04-15T08:29:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal NDP is introducing a motion on Wednesday to ban so-called surveillance pricing, where personal data is used to offer individual customers or groups of people different prices than others. While finding specific examples is difficult, critics argue it's a serious problem.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.914,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "95d8848015f0a76a8911210a99bff54723e9526b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/capp-conference-9.7164414?cmp=rss",
+      "title": "Canadian oil and gas losing competitive edge due to industrial carbon price: industry leaders",
+      "published_at": "2026-04-15T07:57:48-04:00",
+      "section": "Canada",
+      "summary_auto": "Leaders in Canada's oil and gas sector say the industrial carbon levy would erode the country's competitive edge at a time when the world is clamouring for a reliable energy supply.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c1a1f2f744823a6e86cc2b8ff4c4f538da4e52ca",
+      "url": "https://www.cbc.ca/news/world/sudan-civil-war-three-years-9.7164178?cmp=rss",
+      "title": "'We were a normal family … but then everything changed': Refugees recount brutal toll of Sudan's civil war",
+      "published_at": "2026-04-15T07:13:56-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three years on from the outbreak of war in Sudan in April 2023, the country is in the grip of what the United Nations calls the world’s worst displacement crisis, with more than 11 million people forced from their homes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.986,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "12582a7764a69cc960e169575c9509c2fabbadef",
+      "url": "https://www.cbc.ca/news/politics/canada-funding-sudan-fourth-year-9.7164455?cmp=rss",
+      "title": "Canada pledges $120M in humanitarian assistance as civil war in Sudan enters 4th year",
+      "published_at": "2026-04-15T06:52:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has announced more than $120 million in humanitarian and development assistance to help people in Sudan and its neighbours as the civil war in that country marks its third anniversary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7c2f1874417f9d0cfedea822fb06a508d9b53d87",
+      "url": "https://www.cbc.ca/news/entertainment/ye-postpones-french-show-9.7164460?cmp=rss",
+      "title": "Ye postpones show in France amid possible ban",
+      "published_at": "2026-04-15T06:45:40-04:00",
+      "section": "World",
+      "summary_auto": "The rapper formerly known as Kanye West postponed his upcoming show in the city of Marseille after French authorities said they would seek to ban the concert.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d506a2278bb325264552d97db3c62520cf07a9d0",
+      "url": "https://www.cbc.ca/news/world/us-uk-tensions-charles-visit-9.7164234?cmp=rss",
+      "title": "Political strain between U.S. and Britain on full display days ahead of King Charles’s American visit",
+      "published_at": "2026-04-15T06:23:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "British Finance Minister Rachel Reeves was not backing away from her criticism of the Iran war as \"folly,\" even as she prepared to meet Treasury Secretary Scott Bessent and other U.S. officials in Washington on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.657,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ae1c83c58246844ff7488302f26a546f9b7e4d48",
+      "url": "https://www.cbc.ca/news/entertainment/taylor-frankie-paul-slomw-bachelorette-no-new-charges-9.7164417?cmp=rss",
+      "title": "Reality TV star Taylor Frankie Paul will not face new domestic violence charges",
+      "published_at": "2026-04-15T06:22:09-04:00",
+      "section": "World",
+      "summary_auto": "Taylor Frankie Paul, a star of The Secret Lives of Mormon Wives and the recently scrubbed season of The Bachelorette, will not be charged in recent fights with her former partner, the Salt Lake County District Attorney's Office said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.808,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2665bbdd3761769cb35a9fdb1e831fe9a70c4552",
+      "url": "https://www.cbc.ca/news/world/turkey-kahramanmaras-school-shooting-9.7164374?cmp=rss",
+      "title": "9 dead in Turkey's 2nd school shooting this week",
+      "published_at": "2026-04-15T05:56:12-04:00",
+      "section": "World",
+      "summary_auto": "A student opened fire on two classrooms at a middle school in Turkey on Wednesday, killing nine people and wounding 13 others, the interior minister said, in the country's second such shooting in two days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3aed203146bf7be3549778eec1ed06975ae0154",
+      "url": "https://www.cbc.ca/news/world/children-killed-lebanon-israeli-strikes-hezbollah-9.7164299?cmp=rss",
+      "title": "Children killed in Lebanon as Israeli strikes hit homes far from the war's front lines",
+      "published_at": "2026-04-15T05:50:06-04:00",
+      "section": "World",
+      "summary_auto": "Israel has often struck alleged Hezbollah militants or officials in their homes without warning, frequently in areas far from the front line when they are with their families, in apartment buildings surrounded by uninvolved neighbours.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.88,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "60ff8fec6e74d7a5aaa35b012cb77ed0d82375df",
+      "url": "https://www.cbc.ca/news/canada/edmonton/carney-affordability-alta-9.7164324?cmp=rss",
+      "title": "Alberta sticking to its gas tax formula as Ottawa announces temporary cut",
+      "published_at": "2026-04-15T05:38:09-04:00",
+      "section": "Canada",
+      "summary_auto": "While Prime Minister Mark Carney announced federal measures to give Canadians relief at the pumps Tuesday, Alberta says its fuel tax will stay in place for now.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9d91ad5fc22c3d5a1c37e5fc24df3ec9c20ceed0",
+      "url": "https://www.cbc.ca/news/canada/montreal/christine-frechette-swearing-in-new-premier-quebec-9.7164255?cmp=rss",
+      "title": "Christine Fréchette will become Quebec's premier today. Here's how she got here",
+      "published_at": "2026-04-15T04:11:41-04:00",
+      "section": "Canada",
+      "summary_auto": "It has been just four years since Christine Fréchette took office with the Coalition Avenir Québec. Later today, she will be sworn in as the province’s 33rd premier. Here's a look at how she got here.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c4ee13f29f9999c8303f23bc9b1198886b4802c5",
+      "url": "https://www.cbc.ca/news/canada/edmonton/hospitalists-alberta-discipline-dispute-government-contract-9.7163607?cmp=rss",
+      "title": "Some Alberta doctors caught in hospitalist contract dispute facing disciplinary action",
+      "published_at": "2026-04-15T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Doctors and hospital leaders are at loggerheads in Edmonton, with disciplinary action, legal threats and staffing confusion in the wake of expired contracts that changed how hundreds of doctors across the province are paid.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "d58f3d37e7af82821c50b5a321e25e429562c220",
       "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-iranians-feel-fear-guilt-over-distance-from-family-as-war-rages-on-9.7163978?cmp=rss",
@@ -34,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/rohingya-bangladesh-boat-sink-9.7164219?cmp=rss",
       "title": "At least 250 people missing after boat sinks in Indian Ocean",
       "published_at": "2026-04-15T00:53:40-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "At least 250 people, including Rohingya refugees and Bangladeshi nationals, were missing after a boat capsized in the Andaman Sea recently on the way to Malaysia, according to the United Nations' refugee and migration agencies.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,11 +294,24 @@
       "url": "https://www.cbc.ca/news/politics/alexander-stubb-finland-carney-meeting-9.7164014?cmp=rss",
       "title": "Finland's president on why he believes Canada could — eventually — be part of the EU",
       "published_at": "2026-04-15T00:17:47-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ff4b67e5130b6ea9cc8b855b0af996e6f6b53c41",
+      "url": "https://www.cbc.ca/radio/whatonearth/landowners-aging-oil-wells-9.7162246?cmp=rss",
+      "title": "Aging oil wells on her land are making this Alberta farmer's life miserable. She's not alone",
+      "published_at": "2026-04-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Teresa Patry, a Vermilion, Alta., farmer and rancher, has two active oil wells operating on her land, which, according to an air quality assessment, are venting a steady stream of potentially dangerous greenhouse gases downwind from where she lives with her family and livestock. But, according to Alberta's energy regular, everything is operating as it should be.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.406,
         "subjectivity_hint": "medium"
       }
     },
@@ -82,19 +329,6 @@
       }
     },
     {
-      "id": "26483e8c5fc6a83bb8bb6e5c378756c61a728bd9",
-      "url": "https://www.cbc.ca/news/canada/toronto/ont-edubill-exams-attendance-9.7163291?cmp=rss",
-      "title": "Ontario plans to tie high school attendance to grades and mandate final exams. It's getting mixed reactions",
-      "published_at": "2026-04-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "New Ontario education legislation proposes to count attendance and class participation into high schoolers' final marks and to mandate final exams, drawing a mix of reaction from students, parents and education experts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e85cdc77c71a8acf36b53d1b5ceed97d8eb11e5d",
       "url": "https://www.cbc.ca/news/entertainment/dosa-divas-game-review-9.7163242?cmp=rss",
       "title": "Dosa Divas stirs the pot with cooking, robot battles and a dash of family drama",
@@ -108,15 +342,15 @@
       }
     },
     {
-      "id": "2bd19d1fa4cdfaf5cf0864f6b6641e6a28bce808",
-      "url": "https://www.cbc.ca/news/canada/pwhl-fandom-growing-salaries-9.7162342?cmp=rss",
-      "title": "PWHL stars are having a cultural moment. Their salaries are not keeping up",
+      "id": "c7fc4d19aac309da8dd41cc7fad2a4b95c852beb",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ontario-farmers-fertilizer-iran-9.7162247?cmp=rss",
+      "title": "Eastern Ontario farmers brace for rising costs from U.S.-Iran war",
       "published_at": "2026-04-15T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Hockey fans may have tuned in to the 2026 Olympics excited about the long-awaited return of NHL players, but by the end it was the Professional Women's Hockey League (PWHL) that turned heads and  earned a growing wave  of new fans.",
+      "summary_auto": "Farmers in eastern Ontario are warning that rising fuel and fertilizer costs due to the U.S.-Iran war could soon drive up the price of locally grown food.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.262,
+        "sentiment": -0.881,
         "subjectivity_hint": "medium"
       }
     },
@@ -134,16 +368,16 @@
       }
     },
     {
-      "id": "02e775b786dddc7d02907a32513d4a597c6d32e0",
-      "url": "https://www.cbc.ca/news/politics/immigration-minister-asylum-crackdown-trudeau-carney-9.7163661?cmp=rss",
-      "title": "Asylum crackdown passed under Carney first requested by Trudeau's immigration minister",
+      "id": "2bd19d1fa4cdfaf5cf0864f6b6641e6a28bce808",
+      "url": "https://www.cbc.ca/news/canada/pwhl-fandom-growing-salaries-9.7162342?cmp=rss",
+      "title": "PWHL stars are having a cultural moment. Their salaries are not keeping up",
       "published_at": "2026-04-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Major changes to Canada's asylum system passed into law this year were first sought by the federal immigration minister in 2024 — but the Trudeau government largely did not act on them.",
+      "section": "Canada",
+      "summary_auto": "Hockey fans may have tuned in to the 2026 Olympics excited about the long-awaited return of NHL players, but by the end it was the Professional Women's Hockey League (PWHL) that turned heads and  earned a growing wave  of new fans.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
+        "sentiment": 0.262,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -151,25 +385,12 @@
       "url": "https://www.cbc.ca/news/canada/calgary/tough-job-market-for-young-canadians-9.7163501?cmp=rss",
       "title": "The tough job market isn't getting any better for young Canadians",
       "published_at": "2026-04-15T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Thousands of young people are turning to job fairs to try and stand out in-person to find a gig for this summer, but competition remains intense.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.129,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c7fc4d19aac309da8dd41cc7fad2a4b95c852beb",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ontario-farmers-fertilizer-iran-9.7162247?cmp=rss",
-      "title": "Eastern Ontario farmers brace for rising costs from U.S.-Iran war",
-      "published_at": "2026-04-15T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Farmers in eastern Ontario are warning that rising fuel and fertilizer costs due to the U.S.-Iran war could soon drive up the price of locally grown food.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.881,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -182,19 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.077,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ff4b67e5130b6ea9cc8b855b0af996e6f6b53c41",
-      "url": "https://www.cbc.ca/radio/whatonearth/landowners-aging-oil-wells-9.7162246?cmp=rss",
-      "title": "Aging oil wells on her land are making this Alberta farmer's life miserable. She's not alone",
-      "published_at": "2026-04-15T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Teresa Patry, a Vermilion, Alta., farmer and rancher, has two active oil wells operating on her land, which, according to an air quality assessment, are venting a steady stream of potentially greenhouse gases downwind from where she lives with her family and livestock. But, according to Alberta's energy regular, everything is operating as it should be.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.582,
         "subjectivity_hint": "medium"
       }
     },
@@ -216,7 +424,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mlb-team-proposal-ken-sim-9.7163991?cmp=rss",
       "title": "Does Vancouver have the appetite for an MLB team? Critics doubt mayor's proposal",
       "published_at": "2026-04-14T16:33:53-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "As Vancouver Mayor Ken Sim puts forward a motion seeking to attract a Major League Baseball (MLB) franchise to the city, critics are doubtful whether the city can put forward an attractive enough business case and sustain the franchise.",
       "bias_heuristic": {
         "article_type": "News",
@@ -229,193 +437,11 @@
       "url": "https://www.cbc.ca/news/health/7-eleven-recall-listeria-sandwiches-subs-wraps-9.7164066?cmp=rss",
       "title": "7-Eleven sandwiches, subs and wraps recalled over Listeria concerns",
       "published_at": "2026-04-14T15:51:45-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Canadian Food Inspection Agency on Tuesday ordered a recall of 7-Eleven brand sandwiches, subs and wraps due to potential contamination of Listeria monocytogenes.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eed82a6997b274b868b573cd668fc00f1769abc1",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-an-undercover-officer-became-dean-penney-s-best-friend-after-his-wife-disappeared-9.7163761?cmp=rss",
-      "title": "How an undercover officer befriended a man accused of murdering his wife after she disappeared",
-      "published_at": "2026-04-14T15:14:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0ffd2b845435faa39b9b2790f8edfebe7d20919a",
-      "url": "https://www.cbc.ca/news/world/us-doj-court-proud-boys-oath-keepers-9.7163910?cmp=rss",
-      "title": "U.S. Justice Dept. asks appeal court to toss seditious conspiracy convictions of Proud Boys, Oath Keepers",
-      "published_at": "2026-04-14T14:51:26-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. Justice Department on Tuesday asked a federal appeals court to throw out the seditious conspiracy convictions of Proud Boys and Oath Keepers leaders who were sentenced to prison terms for leading members of the far-right extremist groups in attacking the U.S. Capitol to keep U.S. President Donald Trump in office over five years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2cd7118f23e873d99f264e8cefdfb035bd3b91f7",
-      "url": "https://www.cbc.ca/radio/asithappens/james-maloney-liberal-majority-9.7163845?cmp=rss",
-      "title": "Liberal majority government will run 'much more efficiently,' says caucus leader",
-      "published_at": "2026-04-14T14:26:53-04:00",
-      "section": "Top Stories",
-      "summary_auto": "James Maloney doesn't see anything wrong with the way Prime Minister Mark Carney secured his majority government, and says Canadians will benefit from a stronger, more diverse Liberal Party.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.941,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7aa9a31e6a6158f741af5262c64006d9489c2fa9",
-      "url": "https://www.cbc.ca/news/world/suspect-attack-sam-altman-openai-house-9.7163832?cmp=rss",
-      "title": "Man accused of attacking Sam Altman's home was in midst of mental health crisis, lawyer says",
-      "published_at": "2026-04-14T14:07:33-04:00",
-      "section": "World",
-      "summary_auto": "The man accused of trying to kill OpenAI CEO Sam Altman by throwing a Molotov cocktail at his San Francisco home was experiencing a mental health crisis and has been overcharged by prosecutors, his public defender said Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.963,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c27d988a8172a12c1dbb4327deebf1a18b18782",
-      "url": "https://www.cbc.ca/player/play/9.7163902?cmp=rss",
-      "title": "Music promoter Donald K. Donald remembered for bringing big names to Montreal",
-      "published_at": "2026-04-14T14:05:30-04:00",
-      "section": "Canada",
-      "summary_auto": "Donald Tarlton, better known as Donald K. Donald, has died at 82 years old. His career as a music promoter was marked by his ability to get major artists — from Queen to Frank Zappa to Tina Turner — to perform for Montrealers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "07427b3363845cfb3aa473064d7646e6ccffb0c6",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/vancouver-mayor-motion-council-mlb-expansion-team-9.7163810?cmp=rss",
-      "title": "Vancouver mayor moves to launch bid for Major League Baseball expansion team",
-      "published_at": "2026-04-14T13:21:07-04:00",
-      "section": "Canada",
-      "summary_auto": "Vancouver's mayor says he is bringing forward a motion in council that aims to bring a Major League Baseball franchise to the city, in light of the league recently broaching the subject of expansion.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "317e478fe005ff64b5a4bbabd458e5eb5c81767c",
-      "url": "https://www.cbc.ca/news/world/super-typhoon-sinlaku-pacific-islands-9.7163755?cmp=rss",
-      "title": "Super Typhoon Sinlaku batters remote U.S. islands with ferocious winds",
-      "published_at": "2026-04-14T13:11:33-04:00",
-      "section": "World",
-      "summary_auto": "A super typhoon steadily battered a pair of remote U.S. islands in the Pacific Ocean with ferocious winds and relentless rains, shredding tin roofs and forcing residents to take cover from flying tree limbs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "18c847feb79d56ca5b35d6786405b605512b2807",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-120-day-approvals-major-energy-projects-9.7163707?cmp=rss",
-      "title": "Alberta introduces fast-track approval process for major energy projects",
-      "published_at": "2026-04-14T12:49:34-04:00",
-      "section": "Canada",
-      "summary_auto": "Bill 30 if passed will accelerate major energy projects by creating an 120-day approval window. Projects must align with provincial priorities, be of strategic economic importance and have at least $250 million in capital investment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.928,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d09be23faadd042a2a99e67af4e14b0364b4a798",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canadian-guide-to-nba-playoffs-9.7163764?cmp=rss",
-      "title": "A Canadian's guide to the NBA playoffs",
-      "published_at": "2026-04-14T12:40:36-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC Sports' daily newsletter breaks down some Canadian angles for the NBA post-season, including the Raptors' return and SGA's bid for back-to-back titles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8ebcea4c2f7d682eb745e7b154a325c672f5144e",
-      "url": "https://www.cbc.ca/news/canada/bermuda-cruise-rerouted-saint-john-9.7163053?cmp=rss",
-      "title": "Their Bermuda cruise was rerouted to New Brunswick. They were told to pack layers",
-      "published_at": "2026-04-14T12:28:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Bermuda and  Saint John, New Brunswick, actually have a lot in common, when you really think about it. They both kiss the Atlantic Ocean, albeit at slightly different latitudes. They're both known for their beaches, even if one boasts pinks sands and turquoise water and the other is named after discarded tin cans.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7e8cb5fce985abe714d4ad45e10bfade6e9df07d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-10-year-of-toxic-drug-health-emergency-9.7163577?cmp=rss",
-      "title": "Loved ones rally across B.C. to mark 10 years since toxic drug crisis was declared an emergency",
-      "published_at": "2026-04-14T11:40:40-04:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f87e0851c124b5e0d502ef4a27494c147d9fec1",
-      "url": "https://www.cbc.ca/news/canada/calgary/tobacco-metis-crop-calgary-9.7163049?cmp=rss",
-      "title": "This Métis woman grew a bountiful crop of tobacco in her yard, then gave it away",
-      "published_at": "2026-04-14T11:23:40-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Julietta Sorensen Kass didn’t expect so many people to respond with interest to her social media post offering to gift tobacco she'd grown in her northwest Calgary yard for prayers and ceremonies. She says she's been blessed with connections and so much more in return.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3912806fb7e56d6fc6ce27805d28b9b95d6c7051",
-      "url": "https://www.cbc.ca/news/business/7-eleven-closure-stores-canada-9.7163624?cmp=rss",
-      "title": "7-Eleven expects to close hundreds of locations in Canada, U.S.",
-      "published_at": "2026-04-14T11:14:23-04:00",
-      "section": "Top Stories",
-      "summary_auto": "According to earnings filings published last week, 7-Eleven's North American operator plans to close 645 stores in the 2026 fiscal year — outpacing the 205 locations it forecasts it will open during that same time.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "992815419296f8455d018bff1d73038db3d28cb6",
-      "url": "https://www.cbc.ca/news/canada/montreal/more-maple-syrup-cans-fake-label-9.7163562?cmp=rss",
-      "title": "Fake maple syrup scandal spreads: More labels hiding name of implicated producer found on cans",
-      "published_at": "2026-04-14T11:02:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Cans from producer Steve Bourdeau, implicated in a fake maple syrup scandal, have been found in grocery stores with different labels concealing the name of Bourdeau’s company.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
         "subjectivity_hint": "low"
       }
     }
