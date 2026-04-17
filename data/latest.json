@@ -1,18 +1,83 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-17T09:05:37.644799-04:00",
+  "generated_at": "2026-04-17T10:50:23.662475-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "a7bb269123dcc25dd060a09d954f07a662b03e77",
+      "url": "https://www.cbc.ca/news/business/markets-april-17-strait-of-hormuz-9.7167882?cmp=rss",
+      "title": "North American stocks rally and oil tumbles 10% after Iran says Strait of Hormuz is open",
+      "published_at": "2026-04-17T06:21:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "S&P 500, Dow Jones and Nasdaq all climbed shortly after open, as stocks run toward the finish of a third straight week of big gains. Brent crude oil, the international standard, dropped to $89.13 US a barrel — still higher than the $70 before the Iran war, but lower than it has been in recent weeks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.665,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1a72e9d0177ab66f991861f82972f3e72d8c16ae",
+      "url": "https://www.cbc.ca/sports/soccer/cpl/kyle-bekker-forge-fc-testicular-cancer-canadian-premier-league-9.7167313?cmp=rss",
+      "title": "After testicular cancer surgery, Forge FC's Kyle Bekker wants men to 'listen to their body'",
+      "published_at": "2026-04-17T06:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Forge FC midfielder Kyle Bekker gathered recently with teammates to inform them about his recent absence from the Canadian Premier League club. \"I had surgery four weeks ago [this past] Monday to remove a tumour after being diagnosed with testicular cancer,\" Bekker revealed Thursday to CBC Sports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7f5fcf6a0b2754cef39cf3aba3572ef059bc1568",
+      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-private-jet-9.7167824?cmp=rss",
+      "title": "Ontario government buys $28.9M private jet for Doug Ford's use",
+      "published_at": "2026-04-17T05:33:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The provincial government has purchased a pre-owned private jet for $28.9 million to be used by Ontario Premier Doug Ford.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "86dcb1b61f8d6ae76db8c3dcd9503f2e7f2e3b8b",
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/heather-winterstein-inquiry-st-catharines-indigenous-9.7167775?cmp=rss",
-      "title": "EMS head, pathologist to testify at inquest for Indigenous woman who died of sepsis in Ontario hospital",
+      "title": "Some paramedic protocols not met in taking Indigenous woman to hospital before sepsis death: Ontario inquest",
       "published_at": "2026-04-17T04:58:27-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.557,
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5481e634e7fa3b31a18969ea8d31424b007d49c8",
+      "url": "https://www.cbc.ca/news/canada/toronto/mclaren-crash-casa-loma-9.7167763?cmp=rss",
+      "title": "McLaren driver charged after supercar slams into wall, bike rack near Toronto's Casa Loma",
+      "published_at": "2026-04-17T04:44:11-04:00",
+      "section": "Canada",
+      "summary_auto": "One person has been arrested for impaired driving after a supercar crashed and was stuck propped up against a wall outside Casa Loma.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7e973dc0aea847f1000a6ea6240f496688e6a422",
+      "url": "https://www.cbc.ca/news/canada/montreal/frechette-carney-ottawa-meeting-9.7167746?cmp=rss",
+      "title": "Quebec's new premier heads to Ottawa to meet Mark Carney",
+      "published_at": "2026-04-17T04:30:41-04:00",
+      "section": "Canada",
+      "summary_auto": "The meeting is set to happen Friday morning, less than 48 hours after Fréchette was sworn in as Quebec's new premier.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -30,6 +95,19 @@
       }
     },
     {
+      "id": "64a2b6f3af61a713f8cfdb632e3a007eeabd3ab4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bankruptcy-helen-sun-developer-tax-9.7163855?cmp=rss",
+      "title": "Bankruptcy bid adds to financial woes threatening debt-ridden B.C. developer",
+      "published_at": "2026-04-17T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A B.C. developer who has already risked jail time for failing to come clean about the finances behind her lavish lifestyle now faces a possible bankruptcy order over a $74-million loan she guaranteed in relation to prime property in the heart of Vancouver's Cambie Corridor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "57404c5d282089a11ab91af6d82b3fd5f8aa83f3",
       "url": "https://www.cbc.ca/news/business/armstrong-invest-in-canada-summit-carney-9.7166810?cmp=rss",
       "title": "Exclusive: Carney's pitch to unlock trillions in global investment",
@@ -39,6 +117,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70975168d04f1cbbe816f75a17a348883220d701",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-liberals-stephen-carter-9.7167279?cmp=rss",
+      "title": "From political rump to anti-separatism powerhouse: Inside a politico's bid to transform the Alberta Liberals",
+      "published_at": "2026-04-17T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Veteran operative Stephen Carter wants to change the small party into a big referendum advertiser. He may change its name, too.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ba53cae5fb58c6edb14a514de88ad4249ad4a589",
+      "url": "https://www.cbc.ca/news/canada/manitoba/rcmp-thompson-detachment-gun-cell-search-9.7167041?cmp=rss",
+      "title": "RCMP officer failed to find gun during search of youth being placed in Thompson, Man. detachment cell",
+      "published_at": "2026-04-17T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Police say something \"went wrong\" when a youth managed to get a gun into a cell at the Thompson RCMP detachment after a search failed to find it on him. The incident happened in 2024. Cleaning staff found the gun behind a toilet two days later, and ammunition was later found in the toilet bowl.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.942,
         "subjectivity_hint": "low"
       }
     },
@@ -160,6 +264,32 @@
       }
     },
     {
+      "id": "d1a69f7d4bfd3af1c12877ce491db7f3127ee465",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-pilot-remembered-9.7167252?cmp=rss",
+      "title": "Quebec pilot killed in crash at N.Y. airport to be remembered at visitation today",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Captain Antoine Forest, who died in a plane crash at New York's LaGuardia airport last month, will be remembered later today in his hometown of Coteau-du-Lac, Que.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.926,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6bf034e30b0fdddade4e4e588936f31b07c6dd1",
+      "url": "https://www.cbc.ca/news/canada/ottawa/court-weighs-overturning-rule-blocking-birth-alert-class-action-from-suing-49-childrens-aid-societies-9.7164436?cmp=rss",
+      "title": "Court weighs overturning rule blocking birth alert class action from suing 49 children’s aid societies",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Ontario Court of Appeal will now decide whether pregnant mothers targeted by controversial birth alerts — a practice that led to newborns being taken away from their families — can pursue a class-action lawsuit against 49 children's aid societies across the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7a4997233efa6c4200133c7773dd1ae554f9e415",
       "url": "https://www.cbc.ca/news/science/carbon-emissions-climate-canada-unfccc-9.7167013?cmp=rss",
       "title": "Oil and gas emissions rising as other sectors mostly flat, federal data shows",
@@ -169,19 +299,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "36e4208e7c92568e0266964abeff34c04d0708e5",
-      "url": "https://www.cbc.ca/player/play/9.7167614?cmp=rss",
-      "title": "#TheMoment neighbours saved a baby black bear",
-      "published_at": "2026-04-16T18:04:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kristina Whitlock tells The National about the moment she and her neighbours banded together to rescue an abandoned black bear cub in Maple Ridge, B.C.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
         "subjectivity_hint": "low"
       }
     },
@@ -216,24 +333,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-mayor-reid-hamer-jackson-bullying-complaint-9.7167125?cmp=rss",
       "title": "Kamloops, B.C., mayor bullied, intimidated staff: external investigation",
       "published_at": "2026-04-16T16:39:09-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "\"No mayor should treat staff in this manner and the mayor owes these staff an unqualified apology,\" said external investigator Reece Harding in the report about Kamloops Mayor Reid Hamer-Jackson, dated February 2026.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.625,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f5bd7f288b3c83082b49a85f834f2e23d3f40e3d",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-madison-square-garden-game-sellout-us-market-9.7166812?cmp=rss",
-      "title": "'We won't give up': How the PWHL sold out Madison Square Garden",
-      "published_at": "2026-04-16T16:12:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Growing its fan base in New York and adding more teams are key parts of the league's drive to get a coveted national U.S. broadcast rights deal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
         "subjectivity_hint": "medium"
       }
     },
@@ -251,19 +355,6 @@
       }
     },
     {
-      "id": "7161e92c847e77244d7645f39e6eb73c4d9bfe99",
-      "url": "https://www.cbc.ca/player/play/9.7167435?cmp=rss",
-      "title": "Waymo taking steps to bring robotaxis to Toronto",
-      "published_at": "2026-04-16T15:15:54-04:00",
-      "section": "Canada",
-      "summary_auto": "Waymo, the autonomous taxi operator, may be taking another step to break into the Canadian market, possibly eyeing Toronto as a new testing ground for its self-driving fleet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "d9c0b614d8f6f269dceb3b17c266ea6eea725ee0",
       "url": "https://www.cbc.ca/news/world/white-house-ballroom-decision-legal-project-trump-9.7167366?cmp=rss",
       "title": "Trump rails against latest court decision on stalled White House ballroom project",
@@ -274,19 +365,6 @@
         "article_type": "News",
         "sentiment": -0.318,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "26ffba4198ea80bbf7985f75363b467a46abef6f",
-      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-ahs-lawsuit-9.7166738?cmp=rss",
-      "title": "Former CEO of Alberta Health Services wants podcasters held in contempt for 'harassment' campaign",
-      "published_at": "2026-04-16T14:13:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.807,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -346,7 +424,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/jon-klassen-astrid-lindgren-award-childrens-literature-9.7167120?cmp=rss",
       "title": "Winnipeg-born author Jon Klassen wins nearly $750K Swedish prize for children's literature",
       "published_at": "2026-04-16T12:51:56-04:00",
-      "section": "Canada",
+      "section": "Entertainment",
       "summary_auto": "Jon Klassen, the Winnipeg-born children's book author and illustrator of I Want My Hat Back, has won a Swedish book prize worth nearly $750,000.",
       "bias_heuristic": {
         "article_type": "News",
@@ -377,84 +455,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e13a053b4a2f2effaf8f032eb15adcd64ab9a6f3",
-      "url": "https://www.cbc.ca/news/canada/windsor/public-incitement-hatred-sentencing-9.7166898?cmp=rss",
-      "title": "Ontario man sentenced to 2 years in jail for 'vile' anti-semitic crimes",
-      "published_at": "2026-04-16T10:52:22-04:00",
-      "section": "Canada",
-      "summary_auto": "Before sentencing a 30-year-old LaSalle man to two years in jail, the Windsor judge described his antisemitic crimes as “vile, filth, disgusting.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "26ffba4198ea80bbf7985f75363b467a46abef6f",
-      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-ahs-lawsuit-9.7166738?cmp=rss",
-      "title": "Former CEO of Alberta Health Services wants podcasters held in contempt for ‘harassment’ campaign",
-      "published_at": "2026-04-16T10:02:06-04:00",
-      "section": "Canada",
-      "summary_auto": "The former CEO of Alberta Health Services is asking a judge for legal protection and a contempt finding against two podcasters she alleges have run a campaign of harassment and intimidation against her in response to her ongoing legal action.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8678b42844070ab2ef14d532e2ec43ca81eff3f4",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-ai-conservation-9.7165676?cmp=rss",
-      "title": "How AI could help conservation work",
-      "published_at": "2026-04-16T10:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "In this issue of our environmental newsletter, we look at how AI could help protect important ecosystems; get an update on offshore wind in the U.S.; and find out why Parks Canada is connecting with social media influencers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.832,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "b94bdc686a6c3fcdf49bef0ebc4ef6738ecc3b79",
-      "url": "https://www.cbc.ca/news/canada/manitoba/us-minnesota-boundary-waters-ban-9.7166707?cmp=rss",
-      "title": "Trump expected to OK resolution to lift mining ban on Minnesota wilderness area near Canadian border",
-      "published_at": "2026-04-16T09:56:24-04:00",
-      "section": "World",
-      "summary_auto": "Congressional Republicans have sent U.S. President Donald Trump a resolution that would lift a federal ban on mining near Minnesota's Boundary Waters Canoe Area Wilderness, about 160 kilometres southwest of Thunder Bay, Ont.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.645,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b9163a11c793cce9ebe99d4a45535dcaa5d488f2",
-      "url": "https://www.cbc.ca/news/business/sunwing-vacations-cuba-suspended-9.7166126?cmp=rss",
-      "title": "Sunwing Vacations cancels all Cuba operations until October amid island's fuel crisis",
-      "published_at": "2026-04-16T09:34:56-04:00",
-      "section": "Business",
-      "summary_auto": "Sunwing Vacations has both extended and broadened its suspension of operations in Cuba, as the popular tourist hub remains cut off from oil shipments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b3c7d07fff34b50ad070eecc684edd1e10748297",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/riders-release-ajou-after-cfl-investigation-suspension-aggressive-women-9.7166728?cmp=rss",
-      "title": "Riders fire Ajou Ajou after CFL says he made 'aggressive and unwelcome physical contact' with women",
-      "published_at": "2026-04-16T09:06:51-04:00",
-      "section": "Canada",
-      "summary_auto": "The Saskatchewan Roughriders have kicked receiver Ajou Ajou off the team after the CFL concluded he made 'aggressive and unwelcome physical contact' with multiple women at a Regina restaurant on the day of the Riders' Grey Cup parade last November.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
         "subjectivity_hint": "low"
       }
     }
