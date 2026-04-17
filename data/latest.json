@@ -1,19 +1,435 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-16T15:03:36.325859-04:00",
+  "generated_at": "2026-04-17T09:05:37.644799-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "b70727b03872d67674e5b12be276802d793ec604",
-      "url": "https://www.cbc.ca/news/entertainment/val-kilmer-ai-trailer-9.7166746?cmp=rss",
-      "title": "AI-generated Val Kilmer movie debuts trailer, creators defend digital resurrection of late actor",
-      "published_at": "2026-04-16T10:10:00-04:00",
+      "id": "86dcb1b61f8d6ae76db8c3dcd9503f2e7f2e3b8b",
+      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/heather-winterstein-inquiry-st-catharines-indigenous-9.7167775?cmp=rss",
+      "title": "EMS head, pathologist to testify at inquest for Indigenous woman who died of sepsis in Ontario hospital",
+      "published_at": "2026-04-17T04:58:27-04:00",
       "section": "Top Stories",
-      "summary_auto": "The filmmakers behind As Deep as the Grave, the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
+        "sentiment": -0.557,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "76512065a6703d537b880adbe3f8a0ecce6acf9a",
+      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-microsoft-partnership-ai-push-9.7167736?cmp=rss",
+      "title": "Stellantis, Microsoft sign 5-year partnership for AI push",
+      "published_at": "2026-04-17T03:24:46-04:00",
+      "section": "Business",
+      "summary_auto": "The legacy automaker eyes 60 per cent data centre footprint cut by 2029 as it leans into big tech in software, AI Race. Deal is set to co-develop 100+ initiatives at Stellantis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "57404c5d282089a11ab91af6d82b3fd5f8aa83f3",
+      "url": "https://www.cbc.ca/news/business/armstrong-invest-in-canada-summit-carney-9.7166810?cmp=rss",
+      "title": "Exclusive: Carney's pitch to unlock trillions in global investment",
+      "published_at": "2026-04-17T02:10:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "86da8ed04cc55a98e45d582ca3ee69663d05df2c",
+      "url": "https://www.cbc.ca/news/world/lebanon-israel-ceasefire-hezbollah-9.7167688?cmp=rss",
+      "title": "10-day ceasefire in Lebanon takes effect as Trump predicts war with Iran to end 'pretty soon'",
+      "published_at": "2026-04-17T01:02:18-04:00",
+      "section": "World",
+      "summary_auto": "A 10-day truce appeared to be holding in Lebanon early Friday, promising a pause in fighting between Israel and the Hezbollah militant group and possibly clearing one major obstacle to a deal between Iran and the United States and Israel to end weeks of devastating war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d01332b0d18a6d077ae591b2789d59d8cb557759",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-classrooms-screen-time-chromebooks-9.7164577?cmp=rss",
+      "title": "Why these parents want to see less screen time in N.S. classrooms",
+      "published_at": "2026-04-17T01:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Technology is deeply embedded in Canadian classrooms, but some Nova Scotia parents say the public education system relies too heavily on screen use. They are questioning why, when and how technology is introduced to their kids, and they think parents should have more say in these decisions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.115,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1c5ea7510775e03863bfc11a9013fcf929691d76",
+      "url": "https://www.cbc.ca/news/canada/cricket-canada-allegations-fifth-estate-9.7167081?cmp=rss",
+      "title": "Threats, corruption and intimidation: Is the Bishnoi gang calling shots at Cricket Canada?",
+      "published_at": "2026-04-17T00:01:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d3181aa442b373e2c4500bf99d90cd80c6164441",
+      "url": "https://www.cbc.ca/radio/chimpanzee-civil-war-9.7165831?cmp=rss",
+      "title": "A chimpanzee 'civil war' erupted in Uganda. Scientists aren't sure why",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An unusually large troop of chimpanzees displayed cooperation and social cohesion for decades, until something shifted and they started to turn on each other.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.706,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "70d701008705df8334da3119fb74b77e4b18e25d",
+      "url": "https://www.cbc.ca/news/world/mine-hotline-ignored-9.7167497?cmp=rss",
+      "title": "Canadian firm ignored worker complaints over drug cartel-management links at Mexican gold mine, sources say",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Several workers for a Canadian-owned Mexican gold mine received no response after making complaints to the company’s workplace ethics hotline saying that local management was working with a prominent organized crime group to force out the existing union, according to two former local union members.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f5b2c81666fdd2ea65d02e7f8d5a9e0a36f024ed",
+      "url": "https://www.cbc.ca/news/entertainment/lee-cronins-the-mummy-review-9.7167511?cmp=rss",
+      "title": "Why is Lee Cronin's The Mummy called that? Also, why is it so terrible?",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Lee Cronin's The Mummy, a needlessly mean-spirited horror flick that's barely about mummies, may have you asking a million questions. And before you even get to the plot-related ones, the most obvious is: what's with that title?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.849,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "68bce6412c030be8881810d7360d3ceb12bd41de",
+      "url": "https://www.cbc.ca/news/canada/toronto/patrician-grill-closing-after-70-years-9.7167062?cmp=rss",
+      "title": "After more than 70 years, a beloved Toronto diner is closing its doors",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A long-standing Toronto business has made the difficult decision to close its doors. The Patrician Grill, located on King Street East, was built in the 1950s and has been a family-owned restaurant since 1967. The cozy diner has been serving authentic homemade food to the business crowd, George Brown students and local residents for decades.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cf626891cfa613830c0ad0375f2c1da211f0db88",
+      "url": "https://www.cbc.ca/news/entertainment/chandler-levack-movies-interview-cbc-the-national-9.7164662?cmp=rss",
+      "title": "'It's like I gave birth to twins': Canadian director Chandler Levack has 2 movies opening on the same day",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In Montreal, a young woman in a Spin magazine T-shirt stares furiously at the blank page on her 2011 MacBook. It's a moment from the new movie Mile End Kicks that could have been ripped from director Chandler Levack's own life, when the former critic traded Toronto for Montreal's exploding music scene. Mile End Kicks is one of two movies from Levack opening on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "48fca995b8ee00faef8ca5629835baf575d5d480",
+      "url": "https://www.cbc.ca/news/politics/charter-rights-freedoms-turns-44-9.7166036?cmp=rss",
+      "title": "Charter at a turning point as it turns 44",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's Justice Minister Sean Fraser says he has significant concerns with the way the provinces are overriding Charter rights by invoking the notwithstanding clause, and he's prepared to establish guardrails around its use as the document turns 44.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7a4997233efa6c4200133c7773dd1ae554f9e415",
+      "url": "https://www.cbc.ca/news/science/carbon-emissions-climate-canada-unfccc-9.7167013?cmp=rss",
+      "title": "Oil and gas emissions rising as other sectors mostly flat, federal data shows",
+      "published_at": "2026-04-17T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Progress on cutting carbon emissions has stalled somewhat in Canada, according to the federal government annual reporting to the UN. Oil and gas emissions have continued to rise since the pandemic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "36e4208e7c92568e0266964abeff34c04d0708e5",
+      "url": "https://www.cbc.ca/player/play/9.7167614?cmp=rss",
+      "title": "#TheMoment neighbours saved a baby black bear",
+      "published_at": "2026-04-16T18:04:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kristina Whitlock tells The National about the moment she and her neighbours banded together to rescue an abandoned black bear cub in Maple Ridge, B.C.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fcd87b7fa88d53095b0399e1a91092e65568ba33",
+      "url": "https://www.cbc.ca/news/entertainment/d4vd-arrest-teen-girl-death-9.7167581?cmp=rss",
+      "title": "U.S. singer D4vd arrested on suspicion of killing teen girl found dead in his Tesla",
+      "published_at": "2026-04-16T18:03:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. singer D4vd has been arrested on suspicion of killing a 14-year-old girl whose decomposed body was found last year in an apparently abandoned Tesla that was registered to him and towed from the Hollywood Hills, police said Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.981,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ee610fdd11b32c00cea8148fad9b2101b62d484e",
+      "url": "https://www.cbc.ca/news/science/jeremy-hansen-space-earth-return-9.7167549?cmp=rss",
+      "title": "Canadian astronaut Jeremy Hansen reflects on his mission — its challenges and its joy",
+      "published_at": "2026-04-16T17:26:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jeremy Hansen sat down with CBC News to share some of his insights, like how he felt during lift-off, the joy the mission brought him, and that one time he accidentally let a water bag explode in the capsule.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f7857e1b416c9738b0e4e2e64e931fff39fe06f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-mayor-reid-hamer-jackson-bullying-complaint-9.7167125?cmp=rss",
+      "title": "Kamloops, B.C., mayor bullied, intimidated staff: external investigation",
+      "published_at": "2026-04-16T16:39:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "\"No mayor should treat staff in this manner and the mayor owes these staff an unqualified apology,\" said external investigator Reece Harding in the report about Kamloops Mayor Reid Hamer-Jackson, dated February 2026.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f5bd7f288b3c83082b49a85f834f2e23d3f40e3d",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-madison-square-garden-game-sellout-us-market-9.7166812?cmp=rss",
+      "title": "'We won't give up': How the PWHL sold out Madison Square Garden",
+      "published_at": "2026-04-16T16:12:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Growing its fan base in New York and adding more teams are key parts of the league's drive to get a coveted national U.S. broadcast rights deal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5a842bc9091c50c619dc76ee51ad283252183564",
+      "url": "https://www.cbc.ca/news/canada/montreal/flooding-quebec-prepared-9.7165565?cmp=rss",
+      "title": "Quebec municipalities preparing for flooding, Montreal reaches highest alert level",
+      "published_at": "2026-04-16T16:06:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7161e92c847e77244d7645f39e6eb73c4d9bfe99",
+      "url": "https://www.cbc.ca/player/play/9.7167435?cmp=rss",
+      "title": "Waymo taking steps to bring robotaxis to Toronto",
+      "published_at": "2026-04-16T15:15:54-04:00",
+      "section": "Canada",
+      "summary_auto": "Waymo, the autonomous taxi operator, may be taking another step to break into the Canadian market, possibly eyeing Toronto as a new testing ground for its self-driving fleet.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d9c0b614d8f6f269dceb3b17c266ea6eea725ee0",
+      "url": "https://www.cbc.ca/news/world/white-house-ballroom-decision-legal-project-trump-9.7167366?cmp=rss",
+      "title": "Trump rails against latest court decision on stalled White House ballroom project",
+      "published_at": "2026-04-16T15:02:24-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump railed against a federal judge's decision on Thursday that continues to block above-ground construction of a $400-million US White House ballroom, allowing only below-ground work on a bunker and other \"national security facilities\" at the site.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "26ffba4198ea80bbf7985f75363b467a46abef6f",
+      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-ahs-lawsuit-9.7166738?cmp=rss",
+      "title": "Former CEO of Alberta Health Services wants podcasters held in contempt for 'harassment' campaign",
+      "published_at": "2026-04-16T14:13:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "13c5dfb1daeeefdd6a4d6614ca56652169587633",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dean-penney-trial-april-16-9.7167109?cmp=rss",
+      "title": "Dean Penney pledges '150% honesty' to fake crime boss in interview played in court",
+      "published_at": "2026-04-16T13:52:56-04:00",
+      "section": "Canada",
+      "summary_auto": "The video played in Corner Brook Supreme Court, a four-plus hour long conversation, was started on Thursday afternoon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "09aab009286fc009844d1c5711a49438813caeda",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/prince-george-cougars-penticton-vees-penalties-9.7166794?cmp=rss",
+      "title": "Beer-throwing fans trigger 2-minute penalty for B.C. hockey team",
+      "published_at": "2026-04-16T13:20:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It was the fans versus the referees in a tense and at times chaotic Western Hockey League playoff game in Prince George, B.C., Wednesday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "09aab009286fc009844d1c5711a49438813caeda",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/prince-george-cougars-penticton-vees-penalties-9.7166794?cmp=rss",
+      "title": "Beer-throwing fans at WHL game trigger 2-minute penalty for Prince George Cougars",
+      "published_at": "2026-04-16T13:20:08-04:00",
+      "section": "Canada",
+      "summary_auto": "It was the fans versus the referees in a tense and at times chaotic Western Hockey League playoff game in Prince George, B.C., Wednesday night.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b1dd1b5e1ebbadcd0f6afd2c164c079e7a63e854",
+      "url": "https://www.cbc.ca/news/entertainment/netflix-chair-co-founder-reed-hastings-leaving-9.7167191?cmp=rss",
+      "title": "Netflix chair and co-founder Reed Hastings to leave streaming platform",
+      "published_at": "2026-04-16T13:05:32-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Netflix chair Reed Hastings is leaving the streaming service he co-founded 29 years ago as the company regains its footing after it lost its $72-billion US deal for Warner Bros. Discovery.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3768f3c2a5a81de9b745e312ea9eb73b223788c1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/jon-klassen-astrid-lindgren-award-childrens-literature-9.7167120?cmp=rss",
+      "title": "Winnipeg-born author Jon Klassen wins nearly $750K Swedish prize for children's literature",
+      "published_at": "2026-04-16T12:51:56-04:00",
+      "section": "Canada",
+      "summary_auto": "Jon Klassen, the Winnipeg-born children's book author and illustrator of I Want My Hat Back, has won a Swedish book prize worth nearly $750,000.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.945,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e3e405ccb7dab47cbdaf175787c99af898a0161d",
+      "url": "https://www.cbc.ca/news/politics/canada-post-community-mailboxes-door-to-door-delivery-9.7167047?cmp=rss",
+      "title": "Canada Post announces first 136,000 addresses to lose door-to-door delivery",
+      "published_at": "2026-04-16T12:20:11-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8736c43e0bcaf786c9bccff38aa755ff7b0135ed",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/snow-crab-pricing-schedule-2026-9.7166977?cmp=rss",
+      "title": "After weeks of strife, both sides come to deal on snow crab pricing schedule",
+      "published_at": "2026-04-16T11:50:07-04:00",
+      "section": "Canada",
+      "summary_auto": "The Fish, Food and Allied Workers union and Association of Seafood Producers have agreed to a snow crab pricing schedule after a two-week long dispute.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e13a053b4a2f2effaf8f032eb15adcd64ab9a6f3",
+      "url": "https://www.cbc.ca/news/canada/windsor/public-incitement-hatred-sentencing-9.7166898?cmp=rss",
+      "title": "Ontario man sentenced to 2 years in jail for 'vile' anti-semitic crimes",
+      "published_at": "2026-04-16T10:52:22-04:00",
+      "section": "Canada",
+      "summary_auto": "Before sentencing a 30-year-old LaSalle man to two years in jail, the Windsor judge described his antisemitic crimes as “vile, filth, disgusting.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "26ffba4198ea80bbf7985f75363b467a46abef6f",
+      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-ahs-lawsuit-9.7166738?cmp=rss",
+      "title": "Former CEO of Alberta Health Services wants podcasters held in contempt for ‘harassment’ campaign",
+      "published_at": "2026-04-16T10:02:06-04:00",
+      "section": "Canada",
+      "summary_auto": "The former CEO of Alberta Health Services is asking a judge for legal protection and a contempt finding against two podcasters she alleges have run a campaign of harassment and intimidation against her in response to her ongoing legal action.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8678b42844070ab2ef14d532e2ec43ca81eff3f4",
+      "url": "https://www.cbc.ca/news/climate/what-on-earth-ai-conservation-9.7165676?cmp=rss",
+      "title": "How AI could help conservation work",
+      "published_at": "2026-04-16T10:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "In this issue of our environmental newsletter, we look at how AI could help protect important ecosystems; get an update on offshore wind in the U.S.; and find out why Parks Canada is connecting with social media influencers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "b94bdc686a6c3fcdf49bef0ebc4ef6738ecc3b79",
+      "url": "https://www.cbc.ca/news/canada/manitoba/us-minnesota-boundary-waters-ban-9.7166707?cmp=rss",
+      "title": "Trump expected to OK resolution to lift mining ban on Minnesota wilderness area near Canadian border",
+      "published_at": "2026-04-16T09:56:24-04:00",
+      "section": "World",
+      "summary_auto": "Congressional Republicans have sent U.S. President Donald Trump a resolution that would lift a federal ban on mining near Minnesota's Boundary Waters Canoe Area Wilderness, about 160 kilometres southwest of Thunder Bay, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.645,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -34,402 +450,12 @@
       "url": "https://www.cbc.ca/news/canada/saskatchewan/riders-release-ajou-after-cfl-investigation-suspension-aggressive-women-9.7166728?cmp=rss",
       "title": "Riders fire Ajou Ajou after CFL says he made 'aggressive and unwelcome physical contact' with women",
       "published_at": "2026-04-16T09:06:51-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Saskatchewan Roughriders have kicked receiver Ajou Ajou off the team after the CFL concluded he made 'aggressive and unwelcome physical contact' with multiple women at a Regina restaurant on the day of the Riders' Grey Cup parade last November.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.832,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a174f176758451a5613b47eabc89c4f93cda65f4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/narinder-singh-rhandawa-duty-to-warn-surrey-bc-9.7165898?cmp=rss",
-      "title": "Surrey Pro-Khalistan activist says police have warned him of significant safety risk",
-      "published_at": "2026-04-16T08:17:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An activist based in Surrey, B.C., who was a friend and associate of the assassinated pro-Khalistan advocate Hardeep Singh Nijjar, says he has been warned by police that he could be in serious danger.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a174f176758451a5613b47eabc89c4f93cda65f4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/narinder-singh-rhandawa-duty-to-warn-surrey-bc-9.7165898?cmp=rss",
-      "title": "Surrey, B.C. Pro-Khalistan activist says police have warned him of significant safety risk",
-      "published_at": "2026-04-16T08:17:15-04:00",
-      "section": "Canada",
-      "summary_auto": "An activist based in Surrey, B.C., who was a friend and associate of the assassinated pro-Khalistan advocate Hardeep Singh Nijjar, says he has been warned by police that he could be in serious danger.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5ebca36b77d3ca9cd25b08bfef85bc17a33bd188",
-      "url": "https://www.cbc.ca/news/world/justin-fairfax-wife-murder-suicide-9.7165815?cmp=rss",
-      "title": "Justin Fairfax, once Virginia's 2nd-highest ranking politician, kills wife then himself",
-      "published_at": "2026-04-16T06:03:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Virginia police said Thursday that Justin Fairfax, the state's former lieutenant governor, shot and killed his wife Cerina and then fatally shot himself.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.922,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a8ef21fed15ec1701d866d4b7e463f16aa95d1d",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-secularism-law-schools-9.7165798?cmp=rss",
-      "title": "Montreal's largest school service centre loses more than 100 support staff due to new secularism law",
-      "published_at": "2026-04-16T05:44:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Montreal’s largest school board has lost more than 100 support staff because they refused to remove religious symbols to comply with the province’s new secularism law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.033,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6b7146ff48126b61380792920ba617dca190aaf5",
-      "url": "https://www.cbc.ca/news/business/trump-pipeline-permits-9.7165785?cmp=rss",
-      "title": "Trump issues multiple permits for pipelines transporting oil between Canada and U.S.",
-      "published_at": "2026-04-16T05:20:32-04:00",
-      "section": "Business",
-      "summary_auto": "Permits include one for the construction of a new pipeline, and several related to the maintenance of existing pipelines, according to White House documents.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "80470dd282f1994c41d0f7b0cd09006d32402ef1",
-      "url": "https://www.cbc.ca/news/business/gatorade-non-athlete-rebrand-9.7165727?cmp=rss",
-      "title": "Gatorade was the first sports drink. Now, the company behind it is targeting non-athletes",
-      "published_at": "2026-04-16T05:14:46-04:00",
-      "section": "Business",
-      "summary_auto": "Gatorade parent company PepsiCo said Thursday they're hoping to broaden their customer base to include non-athletes who are also trying to hydrate — whether they're on a long flight, going for a walk or nursing a hangover.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1f9576e7f97bc7b6823a72b2bf85ad517041cee8",
-      "url": "https://www.cbc.ca/news/world/israeli-strikes-lebanon-litani-river-9.7165708?cmp=rss",
-      "title": "Israeli strike destroys last bridge over Litani River as intense fighting continues in south Lebanon",
-      "published_at": "2026-04-16T05:00:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An Israeli strike destroyed the last bridge over the Litani River into Lebanon's south, according to a senior Lebanese security source, fully severing almost a tenth of Lebanon from the rest of the country, after Israel destroyed other crossings during the war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.94,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c24dbe3e8a98572d295a01af363f900b3e9581f1",
-      "url": "https://www.cbc.ca/news/canada/hamilton/livestory/heather-winterstein-coroners-inquest-updates-april-15-9.7165490?cmp=rss",
-      "title": "Peer worker was told Ontario hospital ER too busy to 'deal with' woman who later died of sepsis, inquest hears",
-      "published_at": "2026-04-16T04:40:43-04:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be970073855128eb8fadb9c3190028ccd52bba56",
-      "url": "https://www.cbc.ca/news/canada/calgary/free-rsv-shot-newborns-recommendation-9.7164894?cmp=rss",
-      "title": "Alberta doctors urge province to offer free RSV shot to all newborns to cut health risks, hospital visits",
-      "published_at": "2026-04-16T04:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Pediatricians are calling on the Alberta government to provide a preventative RSV shot for free to all newborns this fall, saying the move could spare many babies from getting very sick and reduce pressure on hospitals during the busy respiratory virus season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.338,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fa01827a285c77082cd257a764512b5446b1a1ff",
-      "url": "https://www.cbc.ca/news/business/airfares-fuel-prices-iran-war-faq-9.7164934?cmp=rss",
-      "title": "Should you book flights now or wait? What rising fuel costs mean for airfares",
-      "published_at": "2026-04-16T03:39:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6b82022fc16aebf50d531957d2ab4d4d71424101",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bawling-bear-cub-found-by-residents-in-maple-ridge-9.7165440?cmp=rss",
-      "title": "Neighbours band together to help rescue tiny bear cub in backyard",
-      "published_at": "2026-04-16T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Residents heard the bawling from a bear cub early in the morning on Tuesday and called for help.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6ea873d1ebbc1882ba55b191538925473a5e47d0",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/saskatoon-drug-testing-machine-fentanyl-harm-reduction-9.7165480?cmp=rss",
-      "title": "Province seeks new home for Saskatoon drug testing machine",
-      "published_at": "2026-04-16T03:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "The fate of the drug testing machine, which played a major role in toxic drug alerts issued by the Saskatchewan Ministry of Health, remains uncertain after a financial crisis forced Prairie Harm Reduction to close its doors last week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8125a994bcbbd2759fc54bc1893c138be81eb428",
-      "url": "https://www.cbc.ca/news/canada/manitoba/fertilizer-urea-water-quality-9.7165209?cmp=rss",
-      "title": "Widely used fertilizer can degrade nearly half of freshwater bodies on Canadian Prairies: study",
-      "published_at": "2026-04-16T02:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A popular fertilizer that helps feed most of the world can degrade nearly half of all freshwater bodies on the Canadian Prairies, according to a new study by a group of Manitoba and Saskatchewan researchers. However, one expert says the findings may be an \"overstatement.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fa4002299dd4ba5a1a507fa44be743f4db5002f4",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-ray-drug-toxicity-deaths-9.7164643?cmp=rss",
-      "title": "5 people died in 2 weeks after using drugs in Winnipeg. 'The drug supply is poisoned,' RaY director says",
-      "published_at": "2026-04-16T02:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "A Winnipeg organization is urging people to get their drugs tested after it says five people connected to its community died after using substances within the last two weeks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "25e8d3e7d4b1c08c707694b01676042b7d074911",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/clergy-abuse-halifax-yarmouth-victims-not-yet-paid-9.7163025?cmp=rss",
-      "title": "He was abused by a priest. He’s still waiting on compensation",
-      "published_at": "2026-04-16T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "More than 60 victims of sexual abuse by clergy from what is now the Roman Catholic Archdiocese of Halifax-Yarmouth are still waiting to be paid from a settlement that was approved in November 2022. Some are growing frustrated with the delays and what they view as a lack of information.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.905,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f4493edf920629cdbf44e2d385b4f9223f1de04",
-      "url": "https://www.cbc.ca/news/business/crea-housing-market-downgrade-april-9.7165168?cmp=rss",
-      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
-      "published_at": "2026-04-16T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian Real Estate Association has downgraded its housing market forecast following a jump in fixed mortgage rates and weaker than expected housing sales in the first three months of 2026. CREA had been forecasting higher sales, based on the idea that pent-up demand would emerge, especially from first-time buyers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "42c7c6a8d97f4d2d527e943e54c70b87dda4675b",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/cains-quest-donation-iwk-9.7163312?cmp=rss",
-      "title": "For a second time, father-and-son duo donate portion of Cain's Quest winnings",
-      "published_at": "2026-04-16T00:30:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A father and son duo from central Labrador are donating some of the proceeds from winning a gruelling 3,400-kilometre snowmobile race to a hospital that treats children.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "93c3e8abc1ef8a03ba6ebb08734b7c1f41a5980c",
-      "url": "https://www.cbc.ca/news/canada/toronto/gun-smuggler-plea-deal-9.7159464?cmp=rss",
-      "title": "Guns in Toronto shootout, Hamilton killing linked to U.S. trucker's smuggling scheme",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. court documents reviewed by CBC News provide a rare glimpse into a cross-border pipeline for crime guns. A former trucker from Florida has been sentenced to more than four years in prison after smuggling handguns into Canada that were later recovered at 10 crime scenes in Ontario and Quebec.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.968,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c83679d94711e576414c6a3f2431f2fd4aa591fc",
-      "url": "https://www.cbc.ca/news/health/hospital-rates-vaccine-illnesses-9.7165119?cmp=rss",
-      "title": "Hospitalization rates for illnesses like COVID, flu have doubled since pre-pandemic, report finds",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Striking new data from the Canadian Institute for Health Information (CIHI) shows hospitalization rates for vaccine-preventable respiratory diseases more than doubled in 2024, compared to pre-pandemic levels, all while vaccination rates are backsliding.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11c0465f82d609aaaec4f913175ee5aa2f594315",
-      "url": "https://www.cbc.ca/news/politics/pistol-soldier-canada-wounded-p320-9.7165101?cmp=rss",
-      "title": "Canadian soldier sues Ottawa and U.S. gun maker over accidental shooting",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A veteran military police officer is suing Ottawa and SIG Sauer after a holstered C-22 allegedly discharged without a trigger pull, ending his career. The case undercuts defence claims of a clean rollout and reopens scrutiny of a pistol platform tied to hundreds of disputed U.S. incidents and prior warnings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "af887f4478c746862acbe96cc3b902d4dbc03c7a",
-      "url": "https://www.cbc.ca/news/canada/montreal/1-500-soldiers-training-quebec-nato-9.7164771?cmp=rss",
-      "title": "Why 1,500 Canadian soldiers are training in these Quebec regions this month",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Tanks, fighter jets and about 1,500 Canadian soldiers have taken over some areas in Quebec for a series of training exercises as part of the army’s largest annual training event to prepare for a NATO mission.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "92d27fa8b4686de9cecf0a5905a58a5cd32ca66d",
-      "url": "https://www.cbc.ca/news/indigenous/afn-rcmp-indigenous-surveillance-9.7165191?cmp=rss",
-      "title": "Assembly of First Nations head rejects RCMP 'regret' for secret Indigenous surveillance program",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The head of the Assembly of First Nations is rejecting the RCMP's recent statement of regret for a secret surveillance program that targeted hundreds of Indigenous people. Such statements are \"not a sufficient response,\" Cindy Woodhouse Nepinak says in a letter to the prime minister.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e669ab36c94827b3d4664ba056cb7f931c4b056",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/northern-toll-john-howard-society-of-ontario-9.7165048?cmp=rss",
-      "title": "Reintegration from corrections a 'critical juncture' in northern Ontario's drug crisis",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A new report from the John Howard Society of Ontario highlights the growing severity of the toxic drug crisis and the effects on those involved in northern Ontario’s criminal justice system. The report, released Tuesday, explores the link between incarceration and drug-related deaths in the region, and says people from northern communities and First Nations become increasingly at risk of harm upon leaving correctional facilities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa01827a285c77082cd257a764512b5446b1a1ff",
-      "url": "https://www.cbc.ca/news/business/airfares-fuel-prices-iran-war-faq-9.7164934?cmp=rss",
-      "title": "Air travel faces 'unprecedented' fuel crisis as war squeezes supply, experts warn",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Europe has \"maybe six weeks\" of jet fuel left, the head of the International Energy Agency said Thursday, warning of possible flight cancellations \"soon\" if oil supplies remain throttled. Here's what consumers should know.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f2a7a64bc39d064c324ac3d0b26acbd15eb6088c",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-helium-prairies-qatar-global-9.7164757?cmp=rss",
-      "title": "Surging prices provide 'adrenaline shot' for Canadian helium industry",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The global shortage of helium caused by the conflict in the Middle East and the closure of the Strait of Hormuz is providing a boost to Canada’s nascent helium industry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fbbbc3eae91165b16007a53b2d2744b832b5258b",
-      "url": "https://www.cbc.ca/news/science/artemisii-astronauts-qanda-9.7165256?cmp=rss",
-      "title": "Artemis II astronauts set to share more about historic mission around the moon",
-      "published_at": "2026-04-16T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "After flying 406,771 kilometres around the moon — the farthest any humans have ever been — Canadian Space Agency astronaut Jeremy Hansen and NASA astronauts Reid Wiseman, Victor Glover and Christina Koch are ready to share more of their experiences with the public. CBC will have live coverage of today's news conference as they take questions from the media at the Johnson Space Center in Houston, Texas, at 2:30 p.m. ET.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6b74855752857da19ab083ab39e81857dc7f247b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-toxic-drugs-2025-9.7165603?cmp=rss",
-      "title": "First Nations people disproportionately impacted by B.C.'s toxic drug crisis, officials say",
-      "published_at": "2026-04-15T19:53:55-04:00",
-      "section": "Health",
-      "summary_auto": "First Nations members in B.C. make up approximately 3.4 per cent of the population, but accounted for 15.8 per cent of all toxic drug deaths in 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.372,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43e8e6d09a60c84989643b771596def21c095b4a",
-      "url": "https://www.cbc.ca/news/world/russia-missiles-kyiv-child-killed-9.7165579?cmp=rss",
-      "title": "Russian strikes kill 16 across Ukraine in worst attack this year",
-      "published_at": "2026-04-15T18:46:33-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Russia unleashed its deadliest attack so far this year on the Ukrainian capital Kyiv and other cities overnight, killing 16 people, including a 12-year-old child, and wounding scores, in drone and missile strikes, officials said on Thursday.y.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.976,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "569f53dd207588260b4723383650e1fb9c3954ff",
-      "url": "https://www.cbc.ca/news/canada/edmonton/imperial-oil-pipeline-spill-bitumen-emulsion-9.7165429?cmp=rss",
-      "title": "Imperial Oil pipeline spills 843,000 litres northwest of Cold Lake, Alta.",
-      "published_at": "2026-04-15T18:35:00-04:00",
-      "section": "Canada",
-      "summary_auto": "An Imperial Oil pipeline spilled 843,000 litres of bitumen emulsion northwest of Cold Lake, Alta., last week. In a statement, Imperial Oil apologized for the spill, which has been stopped and contained.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d4d203e6c1dd00f3aab3f2c0efca7cd06cdf5fb6",
-      "url": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535?cmp=rss",
-      "title": "Waymo is taking steps to get its robotaxis on Toronto streets. But roadblocks await",
-      "published_at": "2026-04-15T15:49:20-04:00",
-      "section": "Business",
-      "summary_auto": "The autonomous taxi operator Waymo appears to be taking steps to break into the Canadian market, eyeing Toronto as a new testing ground for its self-driving fleet. But it may face technological, political and environmental roadblocks —  including the harsh reality of Canadian winters — as it seeks to expand north.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "medium"
       }
     }
   ]
