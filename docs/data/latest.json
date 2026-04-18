@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-18T08:50:41.853469-04:00",
+  "generated_at": "2026-04-18T10:35:59.129277-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "78040b950032c3cfc15e1141fb0aa998a3d93b44",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/summer-gas-prices-carney-cut-9.7164978?cmp=rss",
+      "title": "Summer gas is here. What does that mean for sky-high prices?",
+      "published_at": "2026-04-18T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As a gas tax break comes down the pipe from Ottawa, the summer blend of gas means prices could still move in the wrong direction for already-stretched motorists.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9bd12f43a71abb16613618244d1081dd9e542c77",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-family-childhood-apraxia-of-speech-son-cant-speak-ohip-coverage-fundraiser-9.7167955?cmp=rss",
+      "title": "'He's going to be stuck': Guelph, Ont., family struggles to afford speech therapy for 4-year-old son",
+      "published_at": "2026-04-18T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A Guelph, Ont., family says their four-year-old son requires intensive speech therapy for his childhood apraxia of speech and OHIP doesn't fully cover the sessions he needs to make progress. They've planned a fundraiser for Saturday afternoon to help them cover costs and also raise awareness of the condition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a4f64cb8c611d1cb56b887c88bf5747bbd92c4c0",
       "url": "https://www.cbc.ca/news/politics/fear-of-reprisals-isolation-anxiety-report-documents-mental-health-concerns-at-csis-9.7168117?cmp=rss",
@@ -30,15 +56,15 @@
       }
     },
     {
-      "id": "1faf9066455ab9056dba6c7599c9b74d74d6441a",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-tenants-union-9.7166868?cmp=rss",
-      "title": "Toronto renters gather this weekend to launch first citywide tenants union",
+      "id": "eea4dcb79f54f257787e795f0ff80c636a906d49",
+      "url": "https://www.cbc.ca/news/science/electric-ferries-canada-charging-9.7166705?cmp=rss",
+      "title": "Electric ferries are breaking records — and quietly joining Canada's fleet",
       "published_at": "2026-04-18T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Organizers say the new union will unite tenants across Toronto to strengthen collective action on rent, housing conditions, and affordability, while landlords and housing providers also weigh in on the tensions in the rental market.",
+      "summary_auto": "Electric ferries around the world are getting bigger and travelling longer distances than ever. They're also quietly arriving at quays across Canada. Here's where they're at across the country.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.103,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -56,9 +82,22 @@
       }
     },
     {
+      "id": "1faf9066455ab9056dba6c7599c9b74d74d6441a",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-tenants-union-9.7166868?cmp=rss",
+      "title": "Toronto renters gather this weekend to launch first citywide tenants union",
+      "published_at": "2026-04-18T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Organizers say the new union will unite tenants across Toronto to strengthen collective action on rent, housing conditions, and affordability, while landlords and housing providers also weigh in on the tensions in the rental market.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8465730bf942fb79a090434c4939a3e210f48713",
       "url": "https://www.cbc.ca/news/world/strait-hormuz-alternatives-oil-9.7168112?cmp=rss",
-      "title": "Iran's closure of the Strait of Hormuz sparks 'tremendous interest' in alternate routes",
+      "title": "Iran's closure of the Strait of Hormuz sparks 'tremendous interest' in alternative routes",
       "published_at": "2026-04-18T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "The closure of the Strait of Hormuz during the U.S.-Israel war with Iran has served as wake-up call that a significant source of the world's oil supply remains dependent on the accessibility of this narrow passageway. But, analysts say, it may now force some serious consideration of oil export alternatives.",
@@ -162,19 +201,6 @@
     {
       "id": "dbc4a5a96f71f7808f0f97843b0bbc6007b1bba1",
       "url": "https://www.cbc.ca/news/canada/edmonton/brazeau-county-fatal-house-fire-baby-toddler-rcmp-9.7168778?cmp=rss",
-      "title": "Baby, toddler dead after house fire in Brazeau County: RCMP",
-      "published_at": "2026-04-17T13:38:33-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A baby and toddler are dead after they were unable to be rescued from a burning  house in Brazeau County, police said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dbc4a5a96f71f7808f0f97843b0bbc6007b1bba1",
-      "url": "https://www.cbc.ca/news/canada/edmonton/brazeau-county-fatal-house-fire-baby-toddler-rcmp-9.7168778?cmp=rss",
       "title": "Baby dead, toddler missing after house fire southwest of Edmonton: RCMP",
       "published_at": "2026-04-17T13:38:33-04:00",
       "section": "Canada",
@@ -195,19 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e981a6dfa3ea91888bfe93dabf124548392b5541",
-      "url": "https://www.cbc.ca/player/play/9.7168672?cmp=rss",
-      "title": "Has looksmaxxing guru Clavicular gone too far?",
-      "published_at": "2026-04-17T13:20:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Braden Peters, also known as Clavicular online, was recently hospitalized after a suspected overdose. The 20-year-old influencer’s content, based around ‘looksmaxxing’ tips, has garnered attention for how extreme and dangerous it can be.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.646,
         "subjectivity_hint": "low"
       }
     },
@@ -247,97 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b6472fa4006c4326eb36a210898c557f0c67054c",
-      "url": "https://www.cbc.ca/news/canada/manitoba/boeing-winnipeg-36-million-investment-research-development-9.7168282?cmp=rss",
-      "title": "Boeing announces $36M for research and development at Winnipeg facility",
-      "published_at": "2026-04-17T10:23:20-04:00",
-      "section": "Business",
-      "summary_auto": "Boeing plans to spend $36 million on composite aerospace manufacturing research and development projects at its Winnipeg facility, the aerospace company's president announced Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e25dd9e107d0b7259621bcb5e27abc30703fb456",
-      "url": "https://www.cbc.ca/news/canada/windsor/canadian-mould-makers-tariff-united-states-9.7168162?cmp=rss",
-      "title": "Canadian mould makers say quiet U.S. tariff tweak loudly impacts their bottom line",
-      "published_at": "2026-04-17T09:47:40-04:00",
-      "section": "Canada",
-      "summary_auto": "The new tax levy that came in Apr. 2 applies to the full customs value of metal articles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "00f863b3e43ecb4312035b6a50c4318d8af17039",
-      "url": "https://www.cbc.ca/books/canadareads/tegan-quin-wins-canada-reads-2026-championing-the-cure-for-drowning-by-loghan-paylor-9.7168017?cmp=rss",
-      "title": "Tegan Quin wins Canada Reads 2026 championing The Cure for Drowning by Loghan Paylor",
-      "published_at": "2026-04-17T09:29:22-04:00",
-      "section": "Canada",
-      "summary_auto": "The historical fiction novel won in a 4-1 vote on the final day of the great Canadian book debate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9eda893da2c43b36eb87bd33945906f8e2259bdf",
-      "url": "https://www.cbc.ca/news/canada/edmonton/john-de-ruiter-charges-stayed-9.7168266?cmp=rss",
-      "title": "Sexual assault charges stayed against Alberta spiritual leader, wife",
-      "published_at": "2026-04-17T09:27:02-04:00",
-      "section": "Canada",
-      "summary_auto": "Sexual assault charges against a self-styled spiritual leader and his wife in the Edmonton area have been stayed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8b26225a54acf03cae34596f4ff4e537433ddbc3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/new-technology-tackle-illicit-drugs-bc-9.7168149?cmp=rss",
-      "title": "New B.C. program to 'track and trace' origins of illicit drug supply",
-      "published_at": "2026-04-17T09:03:53-04:00",
-      "section": "Health",
-      "summary_auto": "B.C. officials have announced a new \"track and trace\" pilot program using technology they say can reveal patterns about the geographic origins and patterns of the illicit drug supply.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "80422405e2a7d654ae176321fef266681b075ce8",
-      "url": "https://www.cbc.ca/news/world/mandelson-starmer-resign-9.7167957?cmp=rss",
-      "title": "Calls grow for Starmer to resign, as the shadow of Epstein still looms large over 10 Downing St.",
-      "published_at": "2026-04-17T08:59:03-04:00",
-      "section": "World",
-      "summary_auto": "Calls are growing for Keir Starmer to resign after it was revealed that Peter Mandelson, who was a close friend to the late convicted sex offender Jeffrey Epstein, failed a security vetting process but was appointed as the U.K's ambassador to the U. S. anyway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.351,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6beef3cc2c915ac537ef6f9bc893b55d754b0e9a",
-      "url": "https://www.cbc.ca/news/entertainment/celine-dion-new-song-9.7168138?cmp=rss",
-      "title": "Celine Dion drops new song Dansons ahead of Paris residency",
-      "published_at": "2026-04-17T08:50:48-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Canadian icon Celine Dion dropped a new single Friday, marking her latest step back into the spotlight. The soft, romantic French-language ballad is called Dansons, meaning \"Let’s dance\" in English.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     }
