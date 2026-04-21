@@ -1,28 +1,392 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-20T14:56:27.584232-04:00",
+  "generated_at": "2026-04-21T09:10:58.502454-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "1f11c6aaacef4cdbeaa0e95443a19bcf85fb39f5",
-      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-private-jet-9.7170321?cmp=rss",
-      "title": "Ford says no one in Canada is scrutinized like he is after backtracking on $28.9M private jet purchase",
+      "id": "20973186e9ebf3fb4d522a98bd9713ba59063dd2",
+      "url": "https://www.cbc.ca/news/canada/north/taloyoak-nunavut-three-days-blizzard-9.7170738?cmp=rss",
+      "title": "Nunavut man wins volleyball title after surviving 3 days in blizzard on snowmobile trip to tournament",
+      "published_at": "2026-04-21T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Peter Qayutinuak Jr. was part of a group of five Taloyoak, Nunavut, residents who were headed for Gjoa Haven on snowmobiles on Apr. 7 for a volleyball tournament. There was a blizzard and they tried to beat it, but Qayutinuak ended up getting separated from the group, and he wasn't found for another three days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.45,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "80c1f7012091620e5d7c15c95bab466f21f7021c",
+      "url": "https://www.cbc.ca/news/world/uk-prime-minister-office-mandelson-9.7171371?cmp=rss",
+      "title": "Ex-official blames pressure from U.K. prime minister's office to pick Epstein-linked U.S. ambassador",
+      "published_at": "2026-04-21T02:18:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A former top Foreign Ministry official said on Tuesday he had faced \"constant pressure\" from U.K. Prime Minister Keir Starmer's office to speed up the process to install his pick as U.S. ambassador, deepening a row that threatens the British leader.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "da70a660c4854965c76f577c79f160066673265b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/brokenhead-freed-and-freed-manufacturer-9.7170998?cmp=rss",
+      "title": "Brokenhead Ojibway Nation sees new opportunities in purchase of century-old Winnipeg clothing manufacturer",
+      "published_at": "2026-04-21T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Brokenhead Ojibway Nation has purchased clothing manufacturer Freed & Freed International Ltd. on Friday, saying it sees economic and procurement opportunities within the industry, as well as an oportunity to provide jobs and skills.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77af3ef3f5f4c47e8c058c845f6dc4bae377cc26",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-infirmary-weapons-metal-detectors-ai-detectors-stabbing-9.7169271?cmp=rss",
+      "title": "Knives, box cutters, even a hacksaw. What weapon detectors uncovered at the Halifax Infirmary",
+      "published_at": "2026-04-21T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Devices that look for weapons or items that could be used as a weapon were installed at the Halifax Infirmary following a stabbing last year. Some of the items now in the hospital's possession include knives, box cutters, a hacksaw and what one official calls \"improvised weapons.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1a06fd77c68f3316d42b9e835140e4bb226a2f15",
+      "url": "https://www.cbc.ca/player/play/9.7170857?cmp=rss",
+      "title": "Drone seeding gives P.E.I. farmers a head start on season",
+      "published_at": "2026-04-21T01:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "A growing number of P-E-I farmers are using agricultural drones to give them a head start on the season. Spring time is muddy on the Island, making it almost impossible for heavy trucks and tractors to get into fields. But the drone is adding a couple of extra weeks to get work done before planting. Nancy Russell and drone operator Aaron Adetuyi have the story.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "71723a612806cef5d350f68cd6c9577abcdd6d34",
+      "url": "https://www.cbc.ca/news/canada/ultrafine-particles-canada-9.7170474?cmp=rss",
+      "title": "These Toronto residents say there's already too much plane exhaust. Doug Ford wants to bring in bigger jets",
+      "published_at": "2026-04-21T00:01:34-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74afcc1ec0599a4c5e20dfc2dda70c2ddbd4df94",
+      "url": "https://www.cbc.ca/news/politics/sir-isaac-brock-mark-carney-9.7170975?cmp=rss",
+      "title": "Who was Sir Isaac Brock, and why does Carney have his statuette in the Prime Minister's Office?",
+      "published_at": "2026-04-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney stunned some Canadian historians over the weekend when he released a pointed video message about the U.S. featuring a War of 1812 general who led the charge against the American invaders of that era.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dbe378b0cbc104c871a4266b37f7a5df44bcac10",
+      "url": "https://www.cbc.ca/news/science/solar-wind-ember-renewables-electricity-9.7170953?cmp=rss",
+      "title": "The future of electricity is wind and solar, new report says. Canada is lagging behind",
+      "published_at": "2026-04-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Renewable energy met all new demand for electricity in 2025, according to a new review of global power generation, preventing any increase in the burning of fossil fuels to produce electricity and highlighting the promise of clean sources like wind and solar.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d942894a0e85ad9d744f6719fdbf87635e5551c3",
+      "url": "https://www.cbc.ca/player/play/9.7171061?cmp=rss",
+      "title": "Hockey worship? Habs fans pack into cathedral to watch NHL playoffs",
+      "published_at": "2026-04-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Fans are cheering on the Montreal Canadiens from the pews of the Cathédrale Saint-Jean-l’Évangéliste, 40 minutes outside Montreal. The church in Saint-Jean-sur-Richelieu, Que., is a heritage site that hosts mass as well as cultural and artistic events.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cdd783a146ac82aa711b481160c00c1e80906555",
+      "url": "https://www.cbc.ca/news/canada/hamilton/heather-winterstein-inquest-st-catharines-asking-homicide-ruling-9.7170931?cmp=rss",
+      "title": "Family of Indigenous woman who died in Ontario hospital after 2 ER visits seeks homicide ruling at inquest",
+      "published_at": "2026-04-21T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The family of an Indigenous woman is urging an inquest jury examining her death in an Ontario hospital to rule it was a homicide due to biases, and errors made in her assessment and treatment. Heather Winterstein, 24, went to the St. Catharines hospital on Dec. 9, 2021, but a doctor ruled out infection, opted against doing bloodwork and attributed her symptoms to \"social issues,\" the inquest heard. She returned the next day and died of sepsis after hours in the waiting room.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.885,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "12f18fe32505435c326bcf6d1f0c7958ed11f598",
+      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-whales-loan-federal-government-9.7170824?cmp=rss",
+      "title": "Marineland requesting $10M-$20M federal loan to export belugas to U.S.",
+      "published_at": "2026-04-21T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "CBC News has learned from a senior government source that Marineland — the permanently closed theme park and zoo in Niagara Falls, Ont. — is requesting $10 million to $20 million in a federal loan to move up to 30 belugas and four dolphins to aquariums across the U.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8257f49c6470419c73668f41e34d617c85fdb75f",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-anaheim-ducks-nhl-playoffs-game-one-9.7171318?cmp=rss",
+      "title": "Late goal sees Oilers earn 4-3 win in Game 1 of series against Ducks",
+      "published_at": "2026-04-20T21:39:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Edmonton Oilers have a 1-0 series lead over the Anaheim Ducks as the hockey clubs prepare for Game 2 in Alberta's capital on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a559c2c81f394c40cf18b6d69c3e563d7837e9d",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-raptors-cleveland-cavaliers-eastern-conference-first-round-game-two-9.7171302?cmp=rss",
+      "title": "Raptors fall to Cavaliers in Game 2, trail series heading back to Toronto",
+      "published_at": "2026-04-20T18:38:56-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Donovan Mitchell scored 30 points, James Harden added 28 and the Cleveland Cavaliers held on for a 115-105 victory over the Toronto Raptors on Monday night for a 2-0 lead in their Eastern Conference first-round series.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "23ccab72bf93a646a5121f75e981e7a602a0e7e5",
+      "url": "https://www.cbc.ca/news/world/canadian-woman-fatally-shot-mexico-9.7170773?cmp=rss",
+      "title": "'I just started to hear people scream': Canadian killed in mass shooting at Mexico’s Teotihuacán pyramids",
+      "published_at": "2026-04-20T17:22:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "71053e7761c79323339187d94ea786028a0cecd5",
+      "url": "https://www.cbc.ca/news/politics/carney-advisory-council-canada-u-s-trade-9.7171179?cmp=rss",
+      "title": "Carney to name new Canada-U.S. trade advisory council, sources say",
+      "published_at": "2026-04-20T16:15:37-04:00",
+      "section": "Business",
+      "summary_auto": "Prime Minister Mark Carney will name a new advisory council on Canada and U.S. trade on Tuesday, according to two sources familiar with the matter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c9f405fb74b7b7d844788b61ce11fad7be91e0e8",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/majcher-foreign-influence-china-trial-9.7170848?cmp=rss",
+      "title": "Ex-Mountie pleads not guilty to acting on behalf of China as foreign influence trial begins",
+      "published_at": "2026-04-20T15:13:06-04:00",
+      "section": "Canada",
+      "summary_auto": "A former Mountie accused of acting on behalf of the Chinese government pleaded not guilty Monday to laying the groundwork for a scheme to \"induce\" a multimillionaire Chinese expat to turn himself over to China where he was accused of financial crimes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.068,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9875dd29d3ca7307972b5e0cf3c3719f48e16830",
+      "url": "https://www.cbc.ca/news/indigenous/amnesty-report-human-rights-9.7170749?cmp=rss",
+      "title": "Amnesty International concerned Canada is 'rolling back' support for Indigenous rights",
+      "published_at": "2026-04-20T15:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Amnesty International is concerned Canada is backsliding on Indigenous rights under Prime Minister Mark Carney. The organization warns in its annual global human rights report that new laws passed last year to fast-track major projects have threatened Indigenous peoples' right to self-determination.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.241,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77e1b67f4993fadc7d2258551fd4c20aac39f201",
+      "url": "https://www.cbc.ca/news/canada/toronto/kenneth-law-resolution-hearing-may-9.7171012?cmp=rss",
+      "title": "Alleged poison seller Kenneth Law to avoid murder trial, case to be 'resolved' in May: judge",
+      "published_at": "2026-04-20T14:38:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kenneth Law, the Toronto-area man accused of selling poison to individuals at risk of self-harm, will avoid a murder trial and his criminal case will come to a conclusion next month, a judge has said. Law is expected to plead guilty to 14 counts of counselling or aiding suicide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.987,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0ce52f268c7947c8dab2280db5db79a43bb11ba9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/eby-dripa-plan-fall-9.7170787?cmp=rss",
+      "title": "B.C. to work with First Nations on Indigenous rights act, Eby says",
+      "published_at": "2026-04-20T14:10:49-04:00",
+      "section": "Canada",
+      "summary_auto": "B.C. Premier David Eby has outlined a plan for B.C. and First Nations to co-develop a joint approach to DRIPA before the fall session begins in October.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37199b863eb6620526f4e1d91cea23f6346b661b",
+      "url": "https://www.cbc.ca/news/canada/calgary/westjet-flight-capacity-9.7170970?cmp=rss",
+      "title": "WestJet evaluating summer schedule and consolidating some flights over jet fuel costs",
+      "published_at": "2026-04-20T14:02:22-04:00",
+      "section": "Canada",
+      "summary_auto": "WestJet says it is cutting flight capacity due to the soaring price of jet fuel caused by the war in Iran.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e5e3922e472ff28abe0bc82863b9f9d9f209350",
+      "url": "https://www.cbc.ca/news/business/tim-cook-stepping-down-apple-john-ternus-9.7170940?cmp=rss",
+      "title": "Tim Cook stepping down as Apple CEO, handing reins to hardware leader John Ternus",
+      "published_at": "2026-04-20T13:44:25-04:00",
+      "section": "World",
+      "summary_auto": "Apple CEO Tim Cook is stepping down from the job that he inherited from the late Steve Jobs, ending a nearly 15-year reign that saw the company's market value soar by more than $3.6 trillion US during an iPhone-fuelled era of prosperity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d56300d3fa60060f500f623328e1740e0c0b1653",
+      "url": "https://www.cbc.ca/news/canada/montreal/gas-prices-carney-fuel-tax-suspension-quebec-9.7170688?cmp=rss",
+      "title": "Quebec has some of the highest gas prices in Canada. But some not sold on fuel tax freeze",
+      "published_at": "2026-04-20T13:31:22-04:00",
+      "section": "Canada",
+      "summary_auto": "Despite Quebecers paying among the highest fuel prices in North America, some think the federal government's gas tax reprieve is a terrible idea.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.593,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "bc93434c53ae9862e588794daa1e41722b8a9074",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-specialists-contract-agreement-9.7170899?cmp=rss",
+      "title": "Quebec specialist doctors reach tentative deal with province after contract dispute",
+      "published_at": "2026-04-20T13:14:58-04:00",
+      "section": "Health",
+      "summary_auto": "The federation representing Quebec’s specialist doctors says it has reached a tentative agreement with the provincial government, potentially ending a long contract dispute that has seen physicians pull back from key administrative duties in recent months.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "89a8d42a5240777e789ea4c924f98c7d7d6011f4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/okanagan-sexual-assault-long-term-care-9.7170768?cmp=rss",
+      "title": "Kelowna long-term care worker convicted of sexual assault amid B.C. wildfire evacuations",
+      "published_at": "2026-04-20T13:13:04-04:00",
+      "section": "Canada",
+      "summary_auto": "A judge has found an unnamed health-care worker at a long-term care facility in the Central Okanagan guilty of three counts of sexual assault against his co-workers. The assaults happened while the workers were staying in the Lower Mainland in order to care for evacuated residents during the August 2023 McDougall Creek wildfire in West Kelowna.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54e555bc376da3b5c36afbe89dd2267c0194a26c",
+      "url": "https://www.cbc.ca/player/play/9.7170841?cmp=rss",
+      "title": "What is China's endgame for the war in Iran? | About That",
+      "published_at": "2026-04-20T12:42:48-04:00",
+      "section": "World",
+      "summary_auto": "The U.S. war on Iran indirectly opens the door for China to help reshape the world order as the ceasefire deadline looms. Andrew Chang explains how China, Iran's largest oil customer, takes a unique position in this war to become the new 'global grown-up' in the room. Images provided by The Canadian Press, Adobe Stock, Reuters and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.907,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a4634add87193e4bdb5e287530f56f371aea5686",
+      "url": "https://www.cbc.ca/news/entertainment/harvey-weinstein-retrial-new-york-9.7170716?cmp=rss",
+      "title": "Why Harvey Weinstein is headed to New York court for the third time",
+      "published_at": "2026-04-20T11:39:03-04:00",
+      "section": "World",
+      "summary_auto": "Former Hollywood producer Harvey Weinstein is scheduled to go back to court Tuesday, in his third New York trial regarding various allegations of rape and sexual assault.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.859,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37d2d60be6d210e5e8fae44f705a19848c567a30",
+      "url": "https://www.cbc.ca/news/world/shreveport-mass-shooting-domestic-violence-9.7170715?cmp=rss",
+      "title": "Mass shooting in Shreveport, La., a case of domestic violence, local authorities confirm",
+      "published_at": "2026-04-20T11:36:18-04:00",
+      "section": "World",
+      "summary_auto": "Just 10 days after local authorities in Caddo Parish, La., announced a new domestic violence unit, a father killed eight children, including seven of his own, and injured two women in Shreveport, officials said during a news conference on Monday — the worst mass shooting in the United States in more than two years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.957,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5d16469951b971033a726034926dc75a147004d8",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-tanking-draft-order-gold-plan-2026-9.7170614?cmp=rss",
+      "title": "How the PWHL is trying to discourage teams from tanking",
+      "published_at": "2026-04-20T11:05:57-04:00",
+      "section": "World",
+      "summary_auto": "The Gold Plan, adopted by the PWHL when it launched in 2024, forces teams to try to win after being eliminated from playoff contention. Each win earns the team draft order points toward securing the top pick at the entry draft.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bf1ee48e2794d0c91a429527861479abb2e87b9e",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-private-jets-9.7170866?cmp=rss",
+      "title": "Yes, Doug Ford, Quebec bought private jets — but not for the premier's travels",
       "published_at": "2026-04-20T10:38:56-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": 0.214,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "7e2e5761fed1d8d70431cef24be9842e6db6cb98",
       "url": "https://www.cbc.ca/news/world/onion-infowars-9.7170638?cmp=rss",
-      "title": "Parody news site The Onion says it has a new plan to acquire Infowars.com",
+      "title": "Parody news site the Onion says it has a new plan to acquire Infowars.com",
       "published_at": "2026-04-20T10:38:34-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The parody news site The Onion says it has a new plan to acquire the conspiracy website Infowars.com, something it has been trying to do since the site first came up for sale two years ago.",
+      "section": "World",
+      "summary_auto": "The parody news site the Onion says it has a new plan to acquire the conspiracy website Infowars.com, something it has been trying to do since the site first came up for sale two years ago.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.527,
@@ -32,13 +396,13 @@
     {
       "id": "dbbf55951d7efe99bd344fa45d38ba0941ad9312",
       "url": "https://www.cbc.ca/news/entertainment/d4vd-murder-charge-9.7170585?cmp=rss",
-      "title": "U.S. singer D4vd charged with murder of teen girl found dead in his Tesla",
+      "title": "U.S. singer D4vd pleads not guilty to murder of 14-year-old",
       "published_at": "2026-04-20T10:10:46-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Los Angeles County District Attorney's Office said the 21-year-old D4vd, whose legal name is David Burke, was charged with first-degree murder in the killing of Celeste Rivas Hernandez, who was reported missing by her family in 2024, when she was 13. Authorities say she was 14 when she died.",
+      "section": "World",
+      "summary_auto": "The Los Angeles County District Attorney's Office said the 21-year-old D4vd, whose legal name is David Burke, was charged with first-degree murder, lewd and lascivious acts with a person under 14 and mutilating a body. His attorney entered not guilty pleas on his behalf to all counts.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.98,
+        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -53,331 +417,6 @@
         "article_type": "News",
         "sentiment": 0.923,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2632a5c1701029a42645394cacda75c1b895cd63",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/jongwon-ham-not-fit-stand-trial-shaelyn-yang-rcmp-9.7170518?cmp=rss",
-      "title": "Man accused of killing RCMP officer in Burnaby, B.C., found not fit to stand trial",
-      "published_at": "2026-04-20T08:54:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jongwon Ham, accused of first-degree murder in the death of Burnaby RCMP Const. Shaelyn Yang, has been found not fit to stand trial in B.C. Supreme Court.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.952,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2632a5c1701029a42645394cacda75c1b895cd63",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/jongwon-ham-not-fit-stand-trial-shaelyn-yang-rcmp-9.7170518?cmp=rss",
-      "title": "Man accused of killing RCMP officer in Burnaby, B.C. found not fit to stand trial",
-      "published_at": "2026-04-20T08:54:41-04:00",
-      "section": "Canada",
-      "summary_auto": "Jongwon Ham, accused of first-degree murder in the death of Burnaby RCMP Const. Shaelyn Yang, has been found not fit to stand trial in B.C. Supreme Court.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.952,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de1d1e3f4291f80f657bcf029db0cf07380c8ca0",
-      "url": "https://www.cbc.ca/news/politics/ottawa-increases-flights-to-from-china-9.7170511?cmp=rss",
-      "title": "Feds announce 'incremental increase' in direct flights to and from China",
-      "published_at": "2026-04-20T08:52:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ottawa has announced an increase in the number of direct flights permitted to bring passengers and cargo to and from China.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8453c701a9f769b234ba78985bec503d211b3c44",
-      "url": "https://www.cbc.ca/news/world/nike-boston-marathon-ad-9.7170162?cmp=rss",
-      "title": "Nike backtracks after 'walkers tolerated' Boston Marathon ad draws outrage",
-      "published_at": "2026-04-20T08:24:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Runners accused Nike of being tone-deaf for a sign it posted in a store along the route for the Boston Marathon, which is also the premier marathon event for para athletes and adaptive runners.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "368aa953ca664638ca9ce6ee1975ea202529d402",
-      "url": "https://www.cbc.ca/news/world/keir-starmer-mandelson-ambassador-9.7170379?cmp=rss",
-      "title": "U.K. prime minister says he didn't know Epstein-linked ambassador failed vetting process",
-      "published_at": "2026-04-20T08:16:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.K. Prime Minister Keir Starmer spoke today about the fact that Peter Mandelson was appointed ambassador to the U.S. despite a recommendation against him receiving security clearance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d93971c3bfb702e5a89740ea51b9c38fdae38728",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/3-humpback-whales-died-bc-vessel-strikes-9.7169495?cmp=rss",
-      "title": "Electric ferry aims to reduce underwater noise, but threats still remain for humpbacks in B.C.",
-      "published_at": "2026-04-20T06:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A new all-electric passenger ferry is moving ahead and while it will reduce underwater noise pollution, marine mammal experts and researchers says it is increasing another risk to humpback whales.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.747,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9a78e6ce8238ab089f84d57236699d2bf20065f0",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-9.7170159?cmp=rss",
-      "title": "Oilers lean into their playoff maturity ahead of Game 1 against Ducks",
-      "published_at": "2026-04-20T05:56:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Edmonton Oilers climbed a playoff mountain the last two years, but didn't plant their flag on the summit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9bb2e23984731d4c7ebb40ba3cf54d13027a80b8",
-      "url": "https://www.cbc.ca/news/canada/manitoba/how-reality-show-milf-manor-led-to-wholesome-rescue-show-must-love-dogs-9.7168506?cmp=rss",
-      "title": "How reality show MILF Manor lead to wholesome Canadian rescue show Must Love Dogs",
-      "published_at": "2026-04-20T05:06:36-04:00",
-      "section": "Canada",
-      "summary_auto": "A wholesome dog rescue show isn't the kind of project you'd expect to share DNA with one of reality TV's most unhinged dating experiments. And yet, that's exactly where the story behind CBC's new docuseries Must Love Dogs begins, says one of the leads.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.953,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c677a75a29f853a28677049a26e7ecc0b9ee0cd4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/former-2x2s-minister-not-guilty-historic-sex-abuse-9.7168420?cmp=rss",
-      "title": "Former fundamentalist minister in B.C. found not guilty of historical sexual abuse",
-      "published_at": "2026-04-20T05:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Lee-Ann McChesney acquitted in B.C. Supreme Court in New Westminster on charges of sexual assault and sexual exploitation dating back to 1989.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.488,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e3c493c0501372c483baa6c85f582bf9bf814ca",
-      "url": "https://www.cbc.ca/news/world/israel-soldier-crucifix-south-lebanon-9.7170084?cmp=rss",
-      "title": "Israel condemns soldier's desecration of crucifix in south Lebanon",
-      "published_at": "2026-04-20T04:51:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Israel's prime minister, foreign minister and military on Monday condemned the desecration of a crucifix smashed by an Israeli soldier in a southern Lebanese village home to Christians.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d2d08f94cea5e4a20d54c975e9fae27943fbc837",
-      "url": "https://www.cbc.ca/news/business/march-2026-inflation-rate-9.7170077?cmp=rss",
-      "title": "Canada's annual inflation rate rose to 2.4% in March, driven by high gas prices",
-      "published_at": "2026-04-20T04:37:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Canada's annual inflation rate rose to 2.4 per cent in March, Statistics Canada said on Monday. Economists expected the rising cost of fuel to weigh heavily on inflation, as the oil crunch in the Strait of Hormuz has driven gas prices up worldwide.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f6e791476c6ed093b122d02467770a07f7b2ea01",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-first-nation-seeks-federal-funding-for-birthing-lodge-9.7169023?cmp=rss",
-      "title": "First Nation seeks federal funding to support first on-reserve birthing lodge in Sask.",
-      "published_at": "2026-04-20T03:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "A new birthing and childrearing lodge is nearly ready to open on Sturgeon Lake First Nation, but leaders say the bigger question is whether it can operate at full capacity.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5aa7dddebec5a6a7d6558a9c36b7b891cb9b567",
-      "url": "https://www.cbc.ca/news/world/bulgaria-election-9.7169987?cmp=rss",
-      "title": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
-      "published_at": "2026-04-20T02:13:44-04:00",
-      "section": "World",
-      "summary_auto": "A pro-Russian former president, Rumen Radev, is set for a runaway victory in Bulgaria's election and may even secure a parliamentary majority, exit polls showed, potentially ending years of weak coalition governments and altering the European Union member's foreign policy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3acb3e26b304dfa301aec312756b24d708e5906b",
-      "url": "https://www.cbc.ca/radio/frontburner/is-a-global-food-crisis-looming-9.7169743?cmp=rss",
-      "title": "Is a global food crisis looming?",
-      "published_at": "2026-04-20T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S.-Israeli  war on Iran has sparked a global energy crisis. Is a food crisis next?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.951,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cce6d05e0e99f68298bbed3ceac3b95de6225cb3",
-      "url": "https://www.cbc.ca/news/world/japan-tsunami-warning-9.7170022?cmp=rss",
-      "title": "Japan issues advisory for slightly increased risk of mega-quake in northern coastal areas",
-      "published_at": "2026-04-20T01:09:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Japan issued an advisory Monday for an increased risk of a possible mega-quake in northern coastal areas, induced by a major earthquake earlier in the day.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.004,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35db707487002c53b5aaac3b67720a9e2c47df77",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/salmon-farm-funding-conservation-federal-9.7169305?cmp=rss",
-      "title": "Fish feud: Atlantic salmon farmers, conservationists clash over promised federal funding",
-      "published_at": "2026-04-20T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A salmon war is bubbling up in the waters of Atlantic Canada. On one side are fish farmers who raise salmon in ocean pens. On the other is a conservation group called the Atlantic Salmon Federation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "26fc6dded1d79a4e35960d495efa19616728de85",
-      "url": "https://www.cbc.ca/player/play/9.7168644?cmp=rss",
-      "title": "An earlier start to P.E.I.’s spring lobster season is proving challenging at some harbours",
-      "published_at": "2026-04-20T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The spring lobster season gets underway on April 25 this year,  one week earlier than the traditional start date of May 1. That's causing problems for at least one of the Island's larger harbours. CBC’s Nancy Russell explains.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "51245ac2b8c6f876471e3b99db5e64c3325132aa",
-      "url": "https://www.cbc.ca/player/play/9.7168516?cmp=rss",
-      "title": "What can be done to reduce LED headlight glare?",
-      "published_at": "2026-04-20T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A Transport Canada survey that asks drivers to weigh in on car headlight glare closes April 20, 2026. Experts and everyday drivers in Nova Scotia have some strong opinions to share.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35db707487002c53b5aaac3b67720a9e2c47df77",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/salmon-farm-funding-conservation-federal-9.7169305?cmp=rss",
-      "title": "Fish feud: Salmon farmers, conservationists clash over promised federal funding",
-      "published_at": "2026-04-20T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A salmon war is bubbling up in the waters of Atlantic Canada. On one side are fish farmers who raise salmon in ocean pens. On the other is a conservation group called the Atlantic Salmon Federation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8169c651a7cc6ae9429a5ecccb25c486a43f7402",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/horizon-staff-ambulance-bay-unit-9.7165043?cmp=rss",
-      "title": "Documents show Horizon staff raised alarm about ambulance bay unit long before public backlash",
-      "published_at": "2026-04-20T01:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Horizon Health staff raised concerns ranging from substandard infection prevention to equipment and temperature controls.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "33dc96c9418a6165988bad75b6dd48c03071a1e0",
-      "url": "https://www.cbc.ca/news/gopublic/enterprise-damage-claim-go-public-9.7167152?cmp=rss",
-      "title": "Enterprise demanded almost $10K from couple over alleged diesel damage — evidence suggests otherwise",
-      "published_at": "2026-04-20T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A B.C. couple says they returned a rental car without issue — then months later were told they owed almost $10K for diesel damage. Receipts, vehicle design and expert opinion contradict the claim, which Enterprise dropped after legal pressure and Go Public inquiries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.883,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a42bb1f3a155d120a12a5ba1d0e0891d6038cb76",
-      "url": "https://www.cbc.ca/news/canada/hamilton/devan-selvey-documentary-9.7168061?cmp=rss",
-      "title": "New film about Hamilton teen Devan Selvey, murdered at school, aims to help make all students safer",
-      "published_at": "2026-04-20T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Over six years since her son Devan was murdered outside his Hamilton high school, Shari-Ann Selvey says not enough has changed to protect kids. To raise awareness about issues including bullying and youth crime, Selvey is working with Hamilton filmmaker Tyrone Greenidge on a documentary about Devan.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f898352d75908000258750ea16c8cbb5695f829a",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-daycares-fear-uncertainty-9.7164977?cmp=rss",
-      "title": "'There's no guidance': Quebec daycares say new secularism law causing fear, uncertainty",
-      "published_at": "2026-04-20T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Adopted earlier this month, Bill 9 bans workers in publicly funded daycares from wearing religious symbols on the job. Many daycare operators say they’re still in the dark about how the law is supposed to work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0ab8103c2dfe433f1cb4661c0cede1f572b42cdb",
-      "url": "https://www.cbc.ca/news/canada/montreal/nhl-stanley-cup-playoffs-montreal-canadiens-at-tampa-bay-game-1-9.7169884?cmp=rss",
-      "title": "Habs take Game 1 in Tampa with hat trick from Slafkovsky",
-      "published_at": "2026-04-19T17:36:12-04:00",
-      "section": "Canada",
-      "summary_auto": "Juraj Slafkovsky scored his third power-play goal 1:22 into overtime and the Montreal Canadiens beat the Tampa Bay Lightning 4-3 in Game 1 of their first-round series on Sunday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "428d2cad7a6c21c45b50e7c88b3e9f18099f5eb8",
-      "url": "https://www.cbc.ca/player/play/9.7169950?cmp=rss",
-      "title": "Jeremy Hansen's wife calls Artemis II re-entry 'the most terrifying day of my life'",
-      "published_at": "2026-04-19T17:24:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In an exclusive Canadian interview with The National, Canadian astronaut Jeremy Hansen and his wife, Catherine, tell CBC's Ian Hanomansing about their respective experiences witnessing the history-making Artemis II mission from the far side of the moon and on the ground in mission control.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.176,
-        "subjectivity_hint": "medium"
       }
     }
   ]
