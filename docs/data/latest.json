@@ -1,18 +1,460 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-21T15:03:39.698381-04:00",
+  "generated_at": "2026-04-22T09:13:56.899631-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "47ba6c644d853b2dbf844aa5ac31111b9439e581",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/prison-package-mission-b-c-disguised-as-grass-9.7171833?cmp=rss",
-      "title": "Meth, steroids and sparkly iPhone found in grass-disguised package dropped in B.C. prison yard",
-      "published_at": "2026-04-21T10:36:09-04:00",
-      "section": "Canada",
-      "summary_auto": "Police suspect the large package was flown by drone over the Mission Institution at night and dropped into the prison yard.",
+      "id": "213c03a5d2354e0e4d8be8048fd9fc6dabc55adc",
+      "url": "https://www.cbc.ca/news/world/eu-ukraine-loan-hungary-orban-9.7172861?cmp=rss",
+      "title": "EU approves huge new loan for Ukraine, just days after objector Orban's defeat in Hungary",
+      "published_at": "2026-04-22T04:50:30-04:00",
+      "section": "World",
+      "summary_auto": "European Union ambassadors approved on Wednesday the disbursement of a promised 90 billion euro ($144 billion Cdn) loan to Ukraine as well as a ‌new package of sanctions against Russia, after Hungary lifted its veto, the bloc's Cypriot presidency said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.832,
+        "sentiment": 0.813,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2d71969439f283d774aa97d17d6c819ea0008af1",
+      "url": "https://www.cbc.ca/news/canada/calgary/slopaganda-youtube-alberta-separatism-9.7171993?cmp=rss",
+      "title": "Alberta separatist leader unconcerned about influence of YouTube ‘slopaganda’ videos",
+      "published_at": "2026-04-22T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After a new report this week analyzed a seemingly coordinated network of inauthentic YouTube channels amplifying grievances with the federal government to discuss Alberta separation and U.S. annexation, an Alberta separatist leader said he's unconcerned about the effect foreign interference could have in influencing debate within the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "98e47598239faf60d8d25b4e344aa473cc61e4ae",
+      "url": "https://www.cbc.ca/news/canada/toronto/fire-crews-toronto-drake-ice-blocks-melt-9.7172835?cmp=rss",
+      "title": "Toronto Fire crew hoses down massive ice blocks promoting Drake album due to public safety concerns",
+      "published_at": "2026-04-22T03:05:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Toronto Fire crews are hosing down and trying to melt a massive formation of ice blocks installed by Drake to promote his upcoming album.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c2598b51db32646795bea189d1a67f925f9a54d1",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/andrea-barbour-ai-9.7172320?cmp=rss",
+      "title": "N.L. arts and tourism minister says she regrets posting image altered with AI to social media",
+      "published_at": "2026-04-22T02:31:38-04:00",
+      "section": "Canada",
+      "summary_auto": "Andrea Barbour made a social media post with a photo of herself in front of The Rooms in St. John’s Tuesday, but something wasn't quite right. A nonexistent logo was in place of the museum's iconic caribou sculpture. The post was met with swift criticism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e47df301c744307cc9a92c0a5ac52de6fb354cac",
+      "url": "https://www.cbc.ca/radio/frontburner/rights-and-reconciliation-collide-in-b-c-9.7172639?cmp=rss",
+      "title": "Rights and reconciliation collide in B.C.",
+      "published_at": "2026-04-22T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A conflict playing out in British Columbia is testing the limits of reconciliation in the province. It’s a fight that involves resource extraction, democracy, political flip-flops, and a test of values.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "498cb8d71d866fe4179d61866dc617874cb46c28",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-widow-loses-life-savings-romance-scam-facebook-9.7172275?cmp=rss",
+      "title": "N.S. widow warns others after losing $130K in relationship scam",
+      "published_at": "2026-04-22T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Over several months last year, Lynn MacLeod, 74, sent more than $130,000 via e-transfers to what she thought was a legitimate email after developing a relationship with a man on Facebook.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "10266457030b67625f5b2a1d14ef83d8b9fe7dd7",
+      "url": "https://www.cbc.ca/news/canada/ai-baby-slop-9.7166873?cmp=rss",
+      "title": "AI slop videos aimed at babies are 'garbage,' says pediatrician",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A new wave of AI-generated YouTube videos aimed at toddlers and preschoolers are raising concerns among child development experts and advocates who say it could harm early childhood development. They're calling for YouTube parent company Google to change how the videos are displayed and distributed on the platform.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "23ec5a40ae5530abe37f8adc14dcfdef59aa5605",
+      "url": "https://www.cbc.ca/news/world/trump-iran-regime-change-new-leaders-irgc-9.7170933?cmp=rss",
+      "title": "Trump claims 'Regime Change!' in Iran. The evidence suggests otherwise",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump has swung from urging the Iranian people to topple their government to dismissing regime change as unnecessary to claiming Iran's new leaders are \"less radical and much more reasonable\" than the old ones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3193985568490ffba3760f969630bd5123df1199",
+      "url": "https://www.cbc.ca/player/play/9.7172163?cmp=rss",
+      "title": "Former Toronto police officer alleges antisemitism in high ranks | Exclusive",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Former homicide inspector Hank Idsinga has written a book about what he says happens behind the closed doors of Canada’s biggest police force. In an exclusive interview with CBC News chief correspondent Adrienne Arsenault, he details allegations of antisemitism and anti-Black racism in the senior ranks — claims the Toronto Police Service say they can’t substantiate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1685ea738f0d4e11e23547d509ea0182211694b4",
+      "url": "https://www.cbc.ca/news/indigenous/john-amagoalik-rcmp-surveillance-9.7171894?cmp=rss",
+      "title": "Mounties spied on 'Father of Nunavut' in 1970s amid fears of Inuit-Dene alliance",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The RCMP Security Service spied on Inuit leaders like John Amagoalik as they developed their Nunavut proposal in the 1970s, newly declassified papers show. Between 1972 and 1980, Mounties compiled a three-volume intelligence dossier on the national Inuit organization under the \"Native extremism\" program.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4bca535b36848c6daf49aee087ed25eadd9ff07e",
+      "url": "https://www.cbc.ca/radio/whatonearth/environment-protection-movement-social-justice-india-canada-united-states-9.7166739?cmp=rss",
+      "title": "Meet the unsung heroes of conservation this Earth Day",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Throughout history, human activity has often damaged the environment, pushing forests and wildlife closer to extinction. But alongside these challenges are quieter, sometimes overlooked stories — people who have devoted their lives to protecting the natural world for those who come after us.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "102e8280e5a9e69b7276493468729593aa052c66",
+      "url": "https://www.cbc.ca/news/canada/ottawa/kingston-penitentiary-federal-land-bank-could-turn-historic-prison-into-housing-9.7162985?cmp=rss",
+      "title": "Condos at Kingston Pen? Feds mull major housing development at notorious prison site",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government has added Kingston Penitentiary to its list of properties with housing potential, raising the question: what if the “big house\" became your house? Documents obtained by CBC reveal interest in building up to 700 units at the historic site.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.551,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db0cf7708353371fbfc2addd0450a72b96435a76",
+      "url": "https://www.cbc.ca/news/politics/carney-artificial-intelligence-correspondence-9.7172335?cmp=rss",
+      "title": "Is it Mark Carney or is it AI?",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "That’s a question thousands of Canadians who receive a letter back from Canada’s prime minister may be asking in the not-too-distant future as the government contemplates a plan to replace some of the people who handle his correspondence with new technology like artificial intelligence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e8474f34bc145fc54daa20216426904ac15ce979",
+      "url": "https://www.cbc.ca/news/business/instagram-plus-rollout-9.7172486?cmp=rss",
+      "title": "Instagram is testing premium features. Will people pay?",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Instagram is testing a premium subscription that, for a monthly fee, allows users to extend the life of their story posts, \"spotlight\" their stories to put them at the front of followers' feeds and see how many people have rewatched their stories. It's part of an industry-wide shift away from services that are free and equal for all users — a shift that some say is wearing people out.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "93533c30c1c576c827b00a3134170384be2f47b1",
+      "url": "https://www.cbc.ca/news/business/john-ternus-apple-ceo-9.7172364?cmp=rss",
+      "title": "John Ternus is replacing Tim Cook as Apple CEO. But he faces a big challenge in AI",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Currently a vice-president of hardware engineering with Apple, Ternus has overseen the product design of much of the company's tech, from AirPods to the Macbook Neo. But Apple has struggled on the AI front in recent years, and how Ternus will approach it remains a question.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.392,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d4273b84e214bfa49254428fc15d2b4954e0bce4",
+      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-jet-airport-runways-9.7172500?cmp=rss",
+      "title": "$28.9M private jet province bought, plans to sell, could have used only 10% of Ontario airports",
+      "published_at": "2026-04-22T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The $28.9-million private jet the Ontario government purchased — and Premier Doug Ford has now committed to sell — would only have been able to fly in and out of about 10 per cent of recognized airports in the province, according to a CBC News analysis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dd42e6fb0459a677c1019f061f4e365a358e35da",
+      "url": "https://www.cbc.ca/player/play/9.7172763?cmp=rss",
+      "title": "#TheMoment fireworms lit up the Pacific Ocean",
+      "published_at": "2026-04-21T19:08:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Photographer Patrick Coyne tells The National about the moment he captured bioluminescent fireworms glowing bright green off the coast of Long Beach, Calif.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b9c9b735f5ddcacfd44651c191ced61cbdc1317b",
+      "url": "https://www.cbc.ca/news/politics/liberal-majority-committees-9.7172759?cmp=rss",
+      "title": "Liberals will move to take control of House committees with newly secured majority",
+      "published_at": "2026-04-21T18:55:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "House leader Steven MacKinnon said in a social media post Tuesday that the Liberals will seek to change the standing orders to reflect their majority in the House and give them the most votes on committees.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f0323a93190a00735e1b78279736aad4517f2203",
+      "url": "https://www.cbc.ca/player/play/9.7172721?cmp=rss",
+      "title": "Doctors say patients are seeking false health information online: CMA survey | Hanomansing Tonight",
+      "published_at": "2026-04-21T17:42:13-04:00",
+      "section": "Health",
+      "summary_auto": "A new survey by the Canadian Medical Association found doctors are increasingly intervening to address harms done to patients who found incorrect health information online. Dr. Iris Gorfinkel, a family doctor and a clinical researcher from Toronto, says it’s ‘like a coin flip’ as to whether the diagnoses patients find online are correct.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1b02c49e6da601f43cd7d83c4d242e567bb1c91e",
+      "url": "https://www.cbc.ca/news/canada/premiers-private-flights-commercial-9.7171284?cmp=rss",
+      "title": "We asked Canada's premiers if they fly private. Here's what they said",
+      "published_at": "2026-04-21T16:59:25-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford has reversed course on the purchase of a $28.9-million private jet for his travel — a controversy that has raised questions about how often Canada's leaders fly on private aircraft. CBC News reached out to offices of the premier from coast to coast, to see how the provinces book air travel.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6ae267e978404f18b9423e8e9f945b694c2b1449",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-energy-minister-northern-route-pipeline-9.7172566?cmp=rss",
+      "title": "B.C. energy minister says northern route for proposed oil pipeline not realistic",
+      "published_at": "2026-04-21T16:27:28-04:00",
+      "section": "Canada",
+      "summary_auto": "B.C. 's energy minister says that a northern route for an oil pipeline from Alberta, which was recently proposed as part of a memorandum of understanding (MOU) signed with Ottawa, is simply not realistic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2df5a4f44648e1d51a9683640b237d86cd274531",
+      "url": "https://www.cbc.ca/news/canada/cpac-program-staffing-cuts-9.7172425?cmp=rss",
+      "title": "CPAC cuts 15% of its staff and cancels 2 shows amid 'accelerating revenue decline'",
+      "published_at": "2026-04-21T14:44:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "CPAC, the Canadian service that provides direct coverage of political events, says declining revenues have led it to cancel two flagship programs, PrimeTime Politics and L'Essentiel.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2df5a4f44648e1d51a9683640b237d86cd274531",
+      "url": "https://www.cbc.ca/news/canada/cpac-program-staffing-cuts-9.7172425?cmp=rss",
+      "title": "CPAC cuts a dozen staff and cancels 2 shows amid 'accelerating revenue decline'",
+      "published_at": "2026-04-21T14:44:14-04:00",
+      "section": "Canada",
+      "summary_auto": "CPAC, the Canadian service that provides direct coverage of political events, says declining revenues have led it to cancel two flagship programs, PrimeTime Politics and L'Essentiel.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f39364271041b107ddcfe7e0837ce8331b97d06",
+      "url": "https://www.cbc.ca/news/canada/boston-marathon-gord-downie-9.7171532?cmp=rss",
+      "title": "This Kingston man paid tribute to Gord Downie in the Boston Marathon — it was a long time running",
+      "published_at": "2026-04-21T13:59:55-04:00",
+      "section": "Canada",
+      "summary_auto": "Firefighter Joseph Reid ran the prestigious marathon dressed in silver pants, a Jaws T-shirt, and a grey top hat adorned with a feather — the same outfit the late Tragically Hip frontman wore for his final concert in Kingston, Ont., in 2016.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d5bce665ee1c8b589e44ea62a4e4a5b003c9fe3a",
+      "url": "https://www.cbc.ca/news/canada/toronto/ont-jails-9.7172342?cmp=rss",
+      "title": "6 inmates released mistakenly still at large, Ontario Premier Doug Ford says",
+      "published_at": "2026-04-21T13:49:36-04:00",
+      "section": "Canada",
+      "summary_auto": "Six inmates who were mistakenly released from Ontario's jails remain at large, Premier Doug Ford said Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4d79a4adaa1a281af7b92cef777bc6ce77c990fd",
+      "url": "https://www.cbc.ca/news/politics/csis-says-it-s-likely-unable-to-approve-early-retirements-citing-operational-pressures-9.7172327?cmp=rss",
+      "title": "CSIS says it's likely unable to approve early retirements, citing 'operational pressures'",
+      "published_at": "2026-04-21T13:25:06-04:00",
+      "section": "Canada",
+      "summary_auto": "Employees at Canada's spy agency who were hoping to take advantage of the federal government's early retirement incentive appear to be out of luck.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "96847d0447c687e9de94c1b629e6e0d6a8136f70",
+      "url": "https://www.cbc.ca/player/play/9.7172333?cmp=rss",
+      "title": "King Charles says late Queen would be ‘troubled’ by today’s world",
+      "published_at": "2026-04-21T13:22:25-04:00",
+      "section": "World",
+      "summary_auto": "In a video message, King Charles paid tribute to his late mother Queen Elizabeth on what would have been her 100th birthday, saying today’s world ‘may have troubled her deeply.’",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "56b299d6e9db206bc33e3570c945a980f77c0b78",
+      "url": "https://www.cbc.ca/news/entertainment/alls-fair-in-love-and-mahjong-reaction-9.7172192?cmp=rss",
+      "title": "Hallmark's All's Fair in Love and Mahjong kicks off debate around Asian representation",
+      "published_at": "2026-04-21T13:04:27-04:00",
+      "section": "Entertainment",
+      "summary_auto": "An upcoming Hallmark movie, All’s Fair in Live and Mahjong, became the subject of criticism for what some see as a disregard for the Asian cultural elements its story is based around.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eb14f074d0de93183167546fb88e2904d961600e",
+      "url": "https://www.cbc.ca/news/science/nasa-mars-curiosity-rover-life-organic-compounds-9.7172210?cmp=rss",
+      "title": "NASA rover adds to growing list of organic compounds detected on Mars",
+      "published_at": "2026-04-21T12:36:01-04:00",
+      "section": "World",
+      "summary_auto": "NASA's Curiosity rover has identified more organic compounds on Mars as scientists strive to learn whether the Red Planet ever harboured life. Five of the seven diverse organic compounds, which were confirmed in an experiment by the six-wheeled rover in rock that formed in a dried lakebed near the planet's equator, had never previously been identified on Mars, researchers said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d71b543663b12f1218ba096a2a033fb777ef025b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/innu-child-protection-inquiry-death-investigations-9.7172178?cmp=rss",
+      "title": "Investigation into deaths of 6 Innu youths shows how the system failed them, inquiry hears",
+      "published_at": "2026-04-21T12:23:19-04:00",
+      "section": "Canada",
+      "summary_auto": "A report into the deaths of six youths from the Mushuau Innu First Nation between 2015 and 2020 has found 12 systemic failings — from placements in faraway group homes, to the persistent problem of gas sniffing in their home community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d550a7887ae0dda12092543031a45583e7aa03dc",
+      "url": "https://www.cbc.ca/news/canada/sudbury/sudbury-state-emergency-flooding-9.7172186?cmp=rss",
+      "title": "Greater Sudbury mayor declares state of emergency due to flooding risk",
+      "published_at": "2026-04-21T12:00:09-04:00",
+      "section": "Canada",
+      "summary_auto": "Greater Sudbury Mayor Paul Lefebvre has declared a state of emergency due to the ongoing risk of flooding in the city.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8ff535f22fe6b35233fba606ea505c361b13857a",
+      "url": "https://www.cbc.ca/news/entertainment/harvey-weinstein-rape-trial-9.7172113?cmp=rss",
+      "title": "Harvey Weinstein's rape retrial opens in New York",
+      "published_at": "2026-04-21T11:55:24-04:00",
+      "section": "World",
+      "summary_auto": "As the third rape trial of Harvey Weinstein's opens in New York, this trial focuses on hairstylist and actor Jessica Mann and her encounter with Weinstein one morning in a hotel room.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8bb8ce784911063513bc16b170c5f1b7845d0944",
+      "url": "https://www.cbc.ca/news/politics/canadian-space-launch-act-9.7171949?cmp=rss",
+      "title": "Federal bill aims to enable 'homegrown' space launches",
+      "published_at": "2026-04-21T11:00:52-04:00",
+      "section": "Canada",
+      "summary_auto": "On the heels of the successful Artemis II space mission, the federal government says it's taking another step toward launching Canadian spacecraft from home soil.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "100919eb497d28f673c6b64a84123894cbe3f72a",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-crucifix-9.7172071?cmp=rss",
+      "title": "Israeli military says it has replaced crucifix desecrated by soldier in Lebanon",
+      "published_at": "2026-04-21T11:00:08-04:00",
+      "section": "World",
+      "summary_auto": "Israel's military says it has replaced a crucifix in southern Lebanon after a soldier smashed it down over the weekend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c80ead4999d1093128d7f34bf42f6a3da21e3fa0",
+      "url": "https://www.cbc.ca/news/canada/hamilton/heather-winterstein-coroner-s-inquest-sepsis-indigenous-9.7172039?cmp=rss",
+      "title": "Inquest jury deliberating how Heather Winterstein died in Ontario hospital after collapsing on 2nd ER visit",
+      "published_at": "2026-04-21T10:57:35-04:00",
+      "section": "Canada",
+      "summary_auto": "After a marathon inquest, a jury is deliberating on how Heather Winterstein died of sepsis after the 24-year-old Indigenous woman sought help at the St. Catharines, Ont., hospital over two days, but collapsed in the emergency department on Dec. 10, 2021, while waiting to see a doctor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
         "subjectivity_hint": "low"
       }
     },
@@ -26,370 +468,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03fb9e5e7db4075e770c10f500ff57341e1bbc40",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alta-appeal-court-applegarth-9.7171466?cmp=rss",
-      "title": "Alberta's top court overturns conviction for man who beat his partner to death",
-      "published_at": "2026-04-21T09:02:45-04:00",
-      "section": "Canada",
-      "summary_auto": "Citing a legal error, a panel of three judges at Alberta’s highest court has ordered a new trial for Ryan Applegarth, a man convicted of second-degree murder six years ago for the fatal beating of Chantelle Firingstoney, his common-law wife.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d35f03a8a55b7ab118cf50a6e00d5a3a9bde53b7",
-      "url": "https://www.cbc.ca/news/canada/toronto/fairview-mall-shooting-9.7171845?cmp=rss",
-      "title": "Toronto mall security employee shot after confronting alleged jewelry store robber: police",
-      "published_at": "2026-04-21T08:42:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Fairview Mall security employee was rushed to hospital Tuesday after being shot while confronting a man who had just robbed a jewelry store, Toronto police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6247eeae1ab93fd50478aedc9361ab91dc1240ad",
-      "url": "https://www.cbc.ca/radio/asithappens/anglerfish-mating-lure-9.7170920?cmp=rss",
-      "title": "The female anglerfish's shiny lure may be as irresistible to her lovers as it is to her prey",
-      "published_at": "2026-04-21T08:16:35-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Scientists have long known that deepsea female anglerfish use their glowing lures to draw in unwitting prey. Now, a new study posits the appendage may have an additional function — as a beacon for lonely little males, looking for love in the dark abyss.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.818,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "afd0fe5b038172b24bb2192b4b6d95484b7e6851",
-      "url": "https://www.cbc.ca/news/business/mythos-anthropic-ai-explainer-9.7171597?cmp=rss",
-      "title": "Anthropic's latest AI model is sparking fears from cybersecurity experts and the banking sector. Here's why.",
-      "published_at": "2026-04-21T08:02:51-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Mythos, Anthropic's most advanced AI model to date, has sparked fears about the threat to traditional software security after the AI ‌startup said the preview had uncovered \"thousands\" of major vulnerabilities in \"every major operating system and web browser.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cfc18df9ae8fb85a21011c8e79edd76bef88f376",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-researchers-call-for-national-database-tracking-physician-sexual-assault-misconduct-9.7170711?cmp=rss",
-      "title": "Calgary researchers call for national database tracking physician sexual assault, misconduct",
-      "published_at": "2026-04-21T08:01:47-04:00",
-      "section": "Health",
-      "summary_auto": "Researchers from the University of Calgary say they've found key gaps in the way allegations and findings of sexual assault and misconduct against physicians are tracked and reported in Canada — and they argue that’s putting patients at risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6357455b82b5133d3c4a3efc9940641c0f12a6da",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-budget-announcement-9.7148185?cmp=rss",
-      "title": "N.L. budget will be delivered on April 29",
-      "published_at": "2026-04-21T07:56:18-04:00",
-      "section": "Canada",
-      "summary_auto": "The Newfoundland and Labrador government says it will table its budget for the upcoming fiscal year on April 29.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "04909e586b5704776fbcb088ddab5dcb140382d8",
-      "url": "https://www.cbc.ca/news/politics/cbc-ca-politics-anand-israel-canadian-killed-9.7171669?cmp=rss",
-      "title": "Ottawa has asked Israel to investigate Canadian's killing in Lebanon: Anand",
-      "published_at": "2026-04-21T07:37:33-04:00",
-      "section": "World",
-      "summary_auto": "Canadian officials have summoned  Israeli ambassador Iddo Moed to request an investigation into the killing of Mohammad Hassan Haidar, a Canadian citizen in southern Lebanon, Foreign Affairs Minister Anita Anand said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd6dbcd3e0242d10756c8a3b418d37effa844f23",
-      "url": "https://www.cbc.ca/news/world/palestinians-killed-west-bank-israeli-settler-9.7171632?cmp=rss",
-      "title": "2 Palestinians, including 14-year-old, killed in Israeli settler attack in West Bank: health officials",
-      "published_at": "2026-04-21T06:52:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Two Palestinians, including a 14-year-old boy, were killed in the Israeli-occupied West Bank on Tuesday after Israeli settlers and soldiers opened fire, witnesses said, while in Gaza health officials said two Palestinians were killed in Israeli strikes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.97,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6e845c592245279d35f73b3e51e3abf999d5a02f",
-      "url": "https://www.cbc.ca/sports/soccer/canada-soccer-women-ninth-fifa-rankings-9.7171565?cmp=rss",
-      "title": "Canada's women's soccer team rises to 9th in rankings following impressive performance at FIFA Series",
-      "published_at": "2026-04-21T06:23:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's women's soccer team moved up one place to ninth in the FIFA rankings released Tuesday after a two-win showing at the recent FIFA Series in Brazil.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10c21221dfe565e4e1ccea755964504346ecf996",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alta-electoral-boundaries-report-ucp-9.7171510?cmp=rss",
-      "title": "Alberta premier denies claims of UCP interference on electoral boundaries",
-      "published_at": "2026-04-21T06:05:43-04:00",
-      "section": "Canada",
-      "summary_auto": "Alberta Premier Danielle Smith is rejecting Opposition accusations that her United Conservatives are pulling the strings to rejig election ridings in their favour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "30815909024b9c5c15d1e00f14e61a5dfa5f48ae",
-      "url": "https://www.cbc.ca/news/canada/toronto/iceman-release-date-drake-ice-pile-9.7171479?cmp=rss",
-      "title": "Drake teases album release, prompts crowd chaos with massive ice blocks in downtown Toronto",
-      "published_at": "2026-04-21T05:54:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Somewhere inside a massive formation of ice blocks in a downtown Toronto parking lot lies the answer many hip-hop fans have been waiting for: the release date of Drake's forthcoming album.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "929ce90e485e2ef4f63dde8714e1de1168ecb8a9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ferries-humpbacks-north-9.7170977?cmp=rss",
-      "title": "B.C. Ferries alters Northern Expedition schedule amid efforts to avoid hitting humpback whales",
-      "published_at": "2026-04-21T04:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "The Northern Expedition ferry, serving Prince Rupert and Haida Gwaii, is travelling at lower speeds in an effort to reduce the risk of hitting humpback whales and other marine mammals in the region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "20973186e9ebf3fb4d522a98bd9713ba59063dd2",
-      "url": "https://www.cbc.ca/news/canada/north/taloyoak-nunavut-three-days-blizzard-9.7170738?cmp=rss",
-      "title": "Nunavut man wins volleyball title after surviving 3 days in blizzard on snowmobile trip to tournament",
-      "published_at": "2026-04-21T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Peter Qayutinuak Jr. was part of a group of five Taloyoak, Nunavut, residents who were headed for Gjoa Haven on snowmobiles on Apr. 7 for a volleyball tournament. There was a blizzard and they tried to beat it, but Qayutinuak ended up getting separated from the group, and he wasn't found for another three days.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.45,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "80c1f7012091620e5d7c15c95bab466f21f7021c",
-      "url": "https://www.cbc.ca/news/world/uk-prime-minister-office-mandelson-9.7171371?cmp=rss",
-      "title": "Ex-official blames pressure from U.K. prime minister's office to pick Epstein-linked U.S. ambassador",
-      "published_at": "2026-04-21T02:18:45-04:00",
-      "section": "World",
-      "summary_auto": "A former top Foreign Ministry official said on Tuesday he had faced \"constant pressure\" from U.K. Prime Minister Keir Starmer's office to speed up the process to install his pick as U.S. ambassador, deepening a row that threatens the British leader.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "19300b59f3e238911fc9e970710bcda5fac3fe4b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/alexander-rm-wiebe-ban-challenge-9.7171307?cmp=rss",
-      "title": "Manitoba municipality has no authority to ban 'disruptive' resident from council meetings, judge rules",
-      "published_at": "2026-04-21T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A judge has told a municipality in eastern Manitoba it cannot ban a resident it considers disruptive from attending council meetings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da70a660c4854965c76f577c79f160066673265b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/brokenhead-freed-and-freed-manufacturer-9.7170998?cmp=rss",
-      "title": "Century-old Winnipeg clothing manufacturer gets a new chapter from Brokenhead Ojibway Nation purchasing it",
-      "published_at": "2026-04-21T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Brokenhead Ojibway Nation's purchase of clothing manufacturer Freed & Freed International will create economic and procurement opportunities within the industry, as well as an opportunity to provide jobs and skills, Chief Gordon BlueSky says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74a78835d2b3d526de2bf3553abd3183581a812a",
-      "url": "https://www.cbc.ca/radio/frontburner/can-liberal-democracy-be-saved-9.7170927?cmp=rss",
-      "title": "Can liberal democracy be saved?",
-      "published_at": "2026-04-21T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Is liberal democracy dying? If so, can it be revived? A conversation with Nobel laureate Daron Acemoglu.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.517,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da70a660c4854965c76f577c79f160066673265b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/brokenhead-freed-and-freed-manufacturer-9.7170998?cmp=rss",
-      "title": "First Nation buys Winnipeg clothing manufacturer with plans to expand federal, provincial contracts",
-      "published_at": "2026-04-21T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Brokenhead Ojibway Nation's purchase of clothing manufacturer Freed & Freed International will create economic and procurement opportunities within the industry, as well as an opportunity to provide jobs and skills, Chief Gordon BlueSky says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.936,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "77af3ef3f5f4c47e8c058c845f6dc4bae377cc26",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-infirmary-weapons-metal-detectors-ai-detectors-stabbing-9.7169271?cmp=rss",
-      "title": "Knives, box cutters, even a hacksaw. What weapon detectors uncovered at the Halifax Infirmary",
-      "published_at": "2026-04-21T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Devices that look for weapons or items that could be used as a weapon were installed at the Halifax Infirmary following a stabbing last year. Some of the items now in the hospital's possession include knives, box cutters, a hacksaw and what one official calls \"improvised weapons.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "823b2b09faed0f9e3fa6380487725756685d030a",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/dalhousie-union-mount-saint-vincent-smu-9.7170637?cmp=rss",
-      "title": "Cost of living, financial pressures behind a year of contract turmoil at N.S. universities",
-      "published_at": "2026-04-21T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Cost-of-living pressures, changing demographics and financial constraints are some of the factors contributing to the past year of contract discord at several Nova Scotia universities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a06fd77c68f3316d42b9e835140e4bb226a2f15",
-      "url": "https://www.cbc.ca/player/play/9.7170857?cmp=rss",
-      "title": "Drone seeding gives P.E.I. farmers a head start on season",
-      "published_at": "2026-04-21T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A growing number of P.E.I. farmers are using agricultural drones to give them a head start on the season. Spring time is muddy on the Island, making it almost impossible for heavy trucks and tractors to get into fields. But the drone is adding a couple of extra weeks to get work done before planting. Nancy Russell and drone operator Aaron Adetuyi have the story.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "71723a612806cef5d350f68cd6c9577abcdd6d34",
-      "url": "https://www.cbc.ca/news/canada/ultrafine-particles-canada-9.7170474?cmp=rss",
-      "title": "These Toronto residents say there's already too much plane exhaust. Doug Ford wants to bring in bigger jets",
-      "published_at": "2026-04-21T00:01:34-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74afcc1ec0599a4c5e20dfc2dda70c2ddbd4df94",
-      "url": "https://www.cbc.ca/news/politics/sir-isaac-brock-mark-carney-9.7170975?cmp=rss",
-      "title": "Who was Sir Isaac Brock, and why does Carney have his statuette in the Prime Minister's Office?",
-      "published_at": "2026-04-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney stunned some Canadian historians over the weekend when he released a pointed video message about the U.S. featuring a War of 1812 general who led the charge against the American invaders of that era.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cdd783a146ac82aa711b481160c00c1e80906555",
-      "url": "https://www.cbc.ca/news/canada/hamilton/heather-winterstein-inquest-st-catharines-asking-homicide-ruling-9.7170931?cmp=rss",
-      "title": "Family of Indigenous woman who died in Ontario hospital after 2 ER visits seeks homicide ruling at inquest",
-      "published_at": "2026-04-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The family of an Indigenous woman is urging an inquest jury examining her death in an Ontario hospital to rule it was a homicide due to biases, and errors made in her assessment and treatment. Heather Winterstein, 24, went to the St. Catharines hospital on Dec. 9, 2021, but a doctor ruled out infection, opted against doing bloodwork and attributed her symptoms to \"social issues,\" the inquest heard. She returned the next day and died of sepsis after hours in the waiting room.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.885,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dbe378b0cbc104c871a4266b37f7a5df44bcac10",
-      "url": "https://www.cbc.ca/news/science/solar-wind-ember-renewables-electricity-9.7170953?cmp=rss",
-      "title": "The future of electricity is wind and solar, new report says. Canada is lagging behind",
-      "published_at": "2026-04-21T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Renewable energy met all new demand for electricity in 2025, according to a new review of global power generation, preventing any increase in the burning of fossil fuels to produce electricity and highlighting the promise of clean sources like wind and solar.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "12f18fe32505435c326bcf6d1f0c7958ed11f598",
-      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-whales-loan-federal-government-9.7170824?cmp=rss",
-      "title": "Marineland requesting $10M-$20M federal loan to export belugas to U.S.",
-      "published_at": "2026-04-21T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC News has learned from a senior government source that Marineland — the permanently closed theme park and zoo in Niagara Falls, Ont. — is requesting $10 million to $20 million in a federal loan to move up to 30 belugas and four dolphins to aquariums across the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cbf8fcc0bacfd628e3bd030c50954f1804aaef0b",
-      "url": "https://www.cbc.ca/news/canada/sheinbaum-teotihuacan-shooting-canadian-woman-9.7171725?cmp=rss",
-      "title": "Mexico releases new details in Teotihuacán shooting that killed Canadian woman",
-      "published_at": "2026-04-20T17:22:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71053e7761c79323339187d94ea786028a0cecd5",
-      "url": "https://www.cbc.ca/news/politics/carney-advisory-council-canada-u-s-trade-9.7171179?cmp=rss",
-      "title": "Carney to name new Canada-U.S. trade advisory council, sources say",
-      "published_at": "2026-04-20T16:15:37-04:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney will name a new advisory council on Canada and U.S. trade on Tuesday, according to two sources familiar with the matter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
         "subjectivity_hint": "low"
       }
     }
