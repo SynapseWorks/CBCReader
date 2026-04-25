@@ -1,15 +1,41 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-25T10:37:35.155309-04:00",
+  "generated_at": "2026-04-25T14:40:38.682910-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "a9dd17da366871ec048b298c07db5a4da9b92334",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-anaheim-ducks-game-three-playoffs-9.7176599?cmp=rss",
+      "title": "McDavid scores, but Oilers' leaky defence leads to defeat against Ducks",
+      "published_at": "2026-04-25T08:27:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "992b2a94dfa0928e1abea98fc451bb9c13b94bd2",
+      "url": "https://www.cbc.ca/news/world/us-iran-pakistan-talks-9.7177261?cmp=rss",
+      "title": "Trump says he's no longer sending Witkoff, Kushner to Pakistan for Iran talks",
+      "published_at": "2026-04-25T07:59:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump said he has told envoys not to go to Pakistan for more talks with Iran, shortly after Iran's top diplomat left Islamabad late Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "d9a91545a8ca2bfefdb5a9de75f9d4d8e848c5c8",
       "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256?cmp=rss",
       "title": "Gunmen stage simultaneous attacks in and outside Mali capital, army says",
       "published_at": "2026-04-25T05:54:53-04:00",
       "section": "World",
-      "summary_auto": "Militants staged attacks in Mali's capital Bamako and in several locations in the interior of the country on Saturday morning, the Mali army said, in an apparently coordinated assault involving multiple groups.",
+      "summary_auto": "Militants staged attacks in Mali's capital Bamako and in several locations in the interior of the country on Saturday morning, the Mali army said, in an apparently co-ordinated assault involving multiple groups.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.863,
@@ -19,10 +45,10 @@
     {
       "id": "37469f255916bfb54cd507b8247e963a31cad943",
       "url": "https://www.cbc.ca/news/canada/british-columbia/governor-general-visit-tumbler-ridge-visit-9.7177121?cmp=rss",
-      "title": "Governor General to visit Tumbler Ridge, B.C., as it heals from mass shooting",
+      "title": "Governor General to visit Tumbler Ridge, B.C., as community heals from mass shooting",
       "published_at": "2026-04-25T05:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Gov. Gen. Mary Simon is set to visit the northeast B.C. community of Tumbler Ridge on Monday as it continues to recover from a mass shooting on Feb. 10 in which eight people were killed.",
+      "summary_auto": "Gov. Gen. Mary Simon is set to visit the northeast B.C. community of Tumbler Ridge on Monday as community continues to recover from a mass shooting on Feb. 10 in which eight people were killed.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.67,
@@ -32,13 +58,13 @@
     {
       "id": "aaca12d897adf3d1ff057ef6914db4ec4cbde6f8",
       "url": "https://www.cbc.ca/news/world/russia-attack-ukraine-dnipro-9.7177273?cmp=rss",
-      "title": "Russian attacks kill 5 and wound more than 30 in Ukraine's Dnipro",
+      "title": "Major Russian attacks kill at least 7 and wound dozens in Ukraine",
       "published_at": "2026-04-25T04:43:31-04:00",
       "section": "Top Stories",
-      "summary_auto": "Russian drone and missile strikes on the Ukrainian city of Dnipro killed at least five people and wounded 34, local authorities said Saturday.",
+      "summary_auto": "A major Russian attack on Ukraine overnight killed seven people and injured dozens more, as Moscow launched over 660 drones and missiles in a barrage that targeted the city of Dnipro and hit several other regions.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.939,
+        "sentiment": -0.958,
         "subjectivity_hint": "low"
       }
     },
@@ -56,6 +82,19 @@
       }
     },
     {
+      "id": "7cc9ee5db22a94b44bd5002c0f1b5ccfcc3577b3",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-turn-to-send-judge-to-supreme-court-9.7174930?cmp=rss",
+      "title": "When will Saskatchewan get to send a judge to the Supreme Court?",
+      "published_at": "2026-04-25T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An open seat on the Supreme Court must be filled by a candidate from Western Canada. Saskatchewan hasn't had a sitting Supreme Court judge since Emmett Hall retired in 1973. A former provincial justice minister, and the current one, say it's time.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.935,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "89d60820b30088ca8085a04dcfe285bb633fbf39",
       "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-roblox-online-games-children-safety-9.7167533?cmp=rss",
       "title": "Concerns over online games like Roblox have parents urging diligence with kids' safety",
@@ -66,6 +105,19 @@
         "article_type": "News",
         "sentiment": 0.891,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "223093c47c2041b7094b9892c3d83c877726fc0c",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/innu-inquiry-commissioners-have-one-word-after-week-of-heavy-testimony-hope-9.7176436?cmp=rss",
+      "title": "Innu inquiry commissioners have one word after week of heavy testimony: 'Hope'",
+      "published_at": "2026-04-25T00:30:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "All three commissioners for the inquiry into the treatment of Innu families in the child protection system say they have hope for the future, as they move towards the final phases of the four-year project.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,16 +147,16 @@
       }
     },
     {
-      "id": "2011f9e361708c3540262cf47c5d7d0134a6bf41",
-      "url": "https://www.cbc.ca/news/politics/lithuania-canada-economic-warfare-trade-9.7176557?cmp=rss",
-      "title": "Standing up to bullies: Lithuania’s playbook for surviving economic warfare, and what Canada can learn",
+      "id": "8408a3fe180e5074105b2057c855730d303b2b0b",
+      "url": "https://www.cbc.ca/news/world/china-taiwan-african-countries-airspace-9.7174770?cmp=rss",
+      "title": "Why China's looking to the skies to thwart Taiwan's diplomatic outreach",
       "published_at": "2026-04-25T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Once a target of Russian and Chinese economic coercion, Lithuania has turned pressure into policy. By rapidly diversifying trade, severing energy ties with Moscow and investing in defence and tech, the Baltic state built resilience and saw growth. Its experience now offers Canada a cautionary, and increasingly relevant, roadmap.",
+      "summary_auto": "In its ongoing territorial dispute with Taiwan, China may be looking toward the sky as a new way to thwart the island's attempts at building diplomatic ties. China was accused of pressuring three African countries to withdraw their permission to allow Taiwan's president to fly over their territories.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
+        "sentiment": -0.511,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -117,19 +169,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8408a3fe180e5074105b2057c855730d303b2b0b",
-      "url": "https://www.cbc.ca/news/world/china-taiwan-african-countries-airspace-9.7174770?cmp=rss",
-      "title": "Why China's looking to the skies to thwart Taiwan's diplomatic outreach",
-      "published_at": "2026-04-25T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In its ongoing territorial dispute with Taiwan, China may be looking toward the sky as a new way to thwart the island's attempts at building diplomatic ties. China was accused of pressuring three African countries to withdraw their permission to allow Taiwan's president to fly over their territories.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
         "subjectivity_hint": "medium"
       }
     },
@@ -147,19 +186,6 @@
       }
     },
     {
-      "id": "a9dd17da366871ec048b298c07db5a4da9b92334",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-anaheim-ducks-game-three-playoffs-9.7176599?cmp=rss",
-      "title": "McDavid scores, but Oilers' defence leaky to trail in playoff series against Ducks",
-      "published_at": "2026-04-24T21:17:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Mikael Granlund had a goal and two assists, and the Anaheim Ducks celebrated their first home playoff game in eight years with a 7-4 victory over the Edmonton Oilers and a 2-1 series lead on Friday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.768,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e82b7441fc4a5c9010e0b34cd7e8662c6f50d088",
       "url": "https://www.cbc.ca/news/world/washington-dc-australia-flag-error-king-charles-9.7177210?cmp=rss",
       "title": "Washington, D.C., swaps out Australian flags for British ones before King's arrival after mix-up",
@@ -173,15 +199,15 @@
       }
     },
     {
-      "id": "33c9cfc543773f2de41ebdfe245e6ec95d336cf6",
-      "url": "https://www.cbc.ca/player/play/9.7177204?cmp=rss",
-      "title": "#TheMoment the Ottawa Senators banished a fan to Taiwan",
-      "published_at": "2026-04-24T18:08:09-04:00",
+      "id": "103591c6c4038c11ad48da5d7142fc1b4b84454a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/majcher-trial-ends-submissions-9.7176445?cmp=rss",
+      "title": "Crown says ex-Mountie's actions an 'affront to Canadian sovereignty' as foreign influence trial nears end",
+      "published_at": "2026-04-24T16:49:51-04:00",
       "section": "Top Stories",
-      "summary_auto": "Kyle Ivan tells The National about the moment the Ottawa Senators banished him to Taiwan after he made a parody for the team's playoff run that superstitious fans believed was cursed.",
+      "summary_auto": "A former Mountie committed \"an affront to Canadian sovereignty\" by allegedly acting at China's behest to target an alleged fraudster, a Crown lawyer told the judge overseeing William Majcher's B.C. Supreme Court trial Friday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.318,
+        "sentiment": 0.296,
         "subjectivity_hint": "low"
       }
     },
@@ -195,123 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bda6ced1f2eccdcbef9ab631e05938d4dc03388b",
-      "url": "https://www.cbc.ca/player/play/9.7176908?cmp=rss",
-      "title": "Ukraine’s killer robots | About That",
-      "published_at": "2026-04-24T14:13:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Five years into the war with Russia, Ukraine faces persistent manpower problems. Andrew Chang explores the advantages and limitations of using unmanned ground vehicles (UGVs) on the front line, in Ukraine and beyond. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "150f4917aff0d9ac4744f03ee05cf1eee5903fe8",
-      "url": "https://www.cbc.ca/news/canada/north/could-nuclear-power-solve-the-yukons-energy-problem-9.7176553?cmp=rss",
-      "title": "Could nuclear power solve the Yukon’s energy problem?",
-      "published_at": "2026-04-24T13:22:04-04:00",
-      "section": "Canada",
-      "summary_auto": "Officials from Ontario and the Yukon have entered into a partnership that marks “the first step” toward deploying small modular reactors in the Yukon – technology they say could help solve the territory’s energy crisis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a7da27bf17fc879d854a0bff53d3feb68048c8ff",
-      "url": "https://www.cbc.ca/radio/asithappens/steak-canadian-9.7176475?cmp=rss",
-      "title": "Yes, a Steak Canadian is a real thing. No, it wasn't invented 'in a place called Ontario'",
-      "published_at": "2026-04-24T12:38:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite its name, the sandwich, which recently went viral on YouTube, is a purely British phenomenon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c86c91f633da1cc63b32a5bdbf616c1365dbcc71",
-      "url": "https://www.cbc.ca/news/entertainment/jake-reiner-9.7176585?cmp=rss",
-      "title": "Rob Reiner's son Jake describes 'living nightmare' after parents' murder",
-      "published_at": "2026-04-24T12:15:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jake Reiner, the eldest son of Rob and Michelle Reiner, published a ‌tribute to his late parents on Friday and described the \"living nightmare\" he has experienced since their murders in December.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.951,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4926ba4313617f1d9577a254594ea469b4affb63",
-      "url": "https://www.cbc.ca/news/canada/manitoba/time-change-kinew-9.7176389?cmp=rss",
-      "title": "Days of time change 'pretty much at the end' in Manitoba, premier suggests",
-      "published_at": "2026-04-24T12:14:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Manitoba's premier is moving the needle a tick closer toward ditching the spring forward, fall back ritual, in a move that could usher in a \"Prairie time zone.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "52f413c24e2ae72476dfdd88dd9885f011c92acc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/sam-altman-tumbler-ridge-apology-9.7176482?cmp=rss",
-      "title": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
-      "published_at": "2026-04-24T11:40:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "efeff0010055805b8d39820e87ee787e014000e7",
-      "url": "https://www.cbc.ca/news/canada/edmonton/snowstorm-alberta-fort-mcmurray-highway-closed-stranded-drivers-9.7176489?cmp=rss",
-      "title": "Last of stranded travellers on snow-battered Alberta highway have managed to leave: RCMP",
-      "published_at": "2026-04-24T11:37:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "babe05eddc9a9ca800a87dcd55b1abffadbe64ef",
-      "url": "https://www.cbc.ca/news/world/u-s-pakistan-iran-talks-9.7176515?cmp=rss",
-      "title": "Trump dispatches U.S. envoys to Pakistan for new talks with Iran's foreign minister",
-      "published_at": "2026-04-24T11:29:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump is sending his envoys Steve Witkoff and Jared Kushner to Pakistan to meet with Iran's foreign minister, the White House said Friday, as officials in the South Asian nation pushed to revive ceasefire talks between the U.S. and Iran.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f1b7024ab572426ad0c62df4f781659d77bae3ff",
-      "url": "https://www.cbc.ca/news/canada/montreal/ndp-quebec-solidaire-boulerice-9.7176474?cmp=rss",
-      "title": "Alexandre Boulerice, NDP's sole Quebec MP, to leave party and run provincially: sources",
-      "published_at": "2026-04-24T10:40:35-04:00",
-      "section": "Canada",
-      "summary_auto": "Alexandre Boulerice is expected to announce that he is leaving the federal NDP and will run provincially for Québec Solidaire, according to Radio-Canada sources.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
         "subjectivity_hint": "low"
       }
     }
