@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-25T08:51:16.878216-04:00",
+  "generated_at": "2026-04-25T10:37:35.155309-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d9a91545a8ca2bfefdb5a9de75f9d4d8e848c5c8",
+      "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256?cmp=rss",
+      "title": "Gunmen stage simultaneous attacks in and outside Mali capital, army says",
+      "published_at": "2026-04-25T05:54:53-04:00",
+      "section": "World",
+      "summary_auto": "Militants staged attacks in Mali's capital Bamako and in several locations in the interior of the country on Saturday morning, the Mali army said, in an apparently coordinated assault involving multiple groups.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37469f255916bfb54cd507b8247e963a31cad943",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/governor-general-visit-tumbler-ridge-visit-9.7177121?cmp=rss",
+      "title": "Governor General to visit Tumbler Ridge, B.C., as it heals from mass shooting",
+      "published_at": "2026-04-25T05:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Gov. Gen. Mary Simon is set to visit the northeast B.C. community of Tumbler Ridge on Monday as it continues to recover from a mass shooting on Feb. 10 in which eight people were killed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aaca12d897adf3d1ff057ef6914db4ec4cbde6f8",
+      "url": "https://www.cbc.ca/news/world/russia-attack-ukraine-dnipro-9.7177273?cmp=rss",
+      "title": "Russian attacks kill 5 and wound more than 30 in Ukraine's Dnipro",
+      "published_at": "2026-04-25T04:43:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russian drone and missile strikes on the Ukrainian city of Dnipro killed at least five people and wounded 34, local authorities said Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "b0f9a4d9d22cdb94acf741e47b5739003d5ce016",
       "url": "https://www.cbc.ca/news/canada/edmonton/alberta-energy-regulator-maga-9.7176266?cmp=rss",
@@ -43,19 +82,6 @@
       }
     },
     {
-      "id": "50e3b4371af4c86d5b0a63f2ead2965b70f712a3",
-      "url": "https://www.cbc.ca/news/politics/parliament-committees-floor-crossing-analysis-9.7176595?cmp=rss",
-      "title": "The important questions raised by Parliament's game of musical chairs",
-      "published_at": "2026-04-25T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Beneath the partisan acrimony and overheated language, there are useful and important questions about how Canada's parliamentary democracy works and how it is supposed to work.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "77bd39a3e58259af9ac2c7631090488a28f2ad22",
       "url": "https://www.cbc.ca/news/entertainment/kirk-jones-i-swear-interview-tourette-syndrome-baftas-9.7176725?cmp=rss",
       "title": "I Swear director says BAFTAs controversy highlights how misunderstood Tourette syndrome is",
@@ -79,6 +105,19 @@
         "article_type": "News",
         "sentiment": 0.44,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "50e3b4371af4c86d5b0a63f2ead2965b70f712a3",
+      "url": "https://www.cbc.ca/news/politics/parliament-committees-floor-crossing-analysis-9.7176595?cmp=rss",
+      "title": "The important questions raised by Parliament's game of musical chairs",
+      "published_at": "2026-04-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Beneath the partisan acrimony and overheated language, there are useful and important questions about how Canada's parliamentary democracy works and how it is supposed to work.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -160,6 +199,19 @@
       }
     },
     {
+      "id": "bda6ced1f2eccdcbef9ab631e05938d4dc03388b",
+      "url": "https://www.cbc.ca/player/play/9.7176908?cmp=rss",
+      "title": "Ukraine’s killer robots | About That",
+      "published_at": "2026-04-24T14:13:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Five years into the war with Russia, Ukraine faces persistent manpower problems. Andrew Chang explores the advantages and limitations of using unmanned ground vehicles (UGVs) on the front line, in Ukraine and beyond. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "150f4917aff0d9ac4744f03ee05cf1eee5903fe8",
       "url": "https://www.cbc.ca/news/canada/north/could-nuclear-power-solve-the-yukons-energy-problem-9.7176553?cmp=rss",
       "title": "Could nuclear power solve the Yukon’s energy problem?",
@@ -227,13 +279,13 @@
     {
       "id": "efeff0010055805b8d39820e87ee787e014000e7",
       "url": "https://www.cbc.ca/news/canada/edmonton/snowstorm-alberta-fort-mcmurray-highway-closed-stranded-drivers-9.7176489?cmp=rss",
-      "title": "Stuck on the highway: Heavy snow, high winds pummel parts of Alberta",
+      "title": "Last of stranded travellers on snow-battered Alberta highway have managed to leave: RCMP",
       "published_at": "2026-04-24T11:37:35-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.25,
+        "sentiment": -0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -255,34 +307,8 @@
       "url": "https://www.cbc.ca/news/canada/montreal/ndp-quebec-solidaire-boulerice-9.7176474?cmp=rss",
       "title": "Alexandre Boulerice, NDP's sole Quebec MP, to leave party and run provincially: sources",
       "published_at": "2026-04-24T10:40:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alexandre Boulerice is expected to announce that he is leaving the federal NDP and will run provincially for Québec Solidaire, according to Radio-Canada sources.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0ecd4fbd051baea39b4990828e78efd6704e22ce",
-      "url": "https://www.cbc.ca/news/canada/ottawa/gatineau-woman-forced-to-take-down-bird-feeder-bylaw-warning-9.7175384?cmp=rss",
-      "title": "Gatineau woman told her bird feeder could lead to $400 fine",
-      "published_at": "2026-04-24T09:16:34-04:00",
       "section": "Canada",
-      "summary_auto": "A Gatineau woman said she's taken aback after the city warned her she could face a $400 fine over the bird feeder in her backyard.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "99ed44dc7293f37aa700021adb60fb2c0aa4d624",
-      "url": "https://www.cbc.ca/sports/tennis/carlos-alcaraz-withdrawal-french-open-wrist-injury-tennis-9.7176270?cmp=rss",
-      "title": "2-time French Open champ Alcaraz won't defend title after further testing on injured wrist",
-      "published_at": "2026-04-24T08:52:05-04:00",
-      "section": "World",
-      "summary_auto": "Two-time defending champion Carlos Alcaraz won't attempt to defend his French Open title due to a right wrist injury.",
+      "summary_auto": "Alexandre Boulerice is expected to announce that he is leaving the federal NDP and will run provincially for Québec Solidaire, according to Radio-Canada sources.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
