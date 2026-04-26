@@ -1,6 +1,6 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-26T08:53:26.735584-04:00",
+  "generated_at": "2026-04-26T10:38:24.129884-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
@@ -34,11 +34,24 @@
       "url": "https://www.cbc.ca/news/world/white-house-correspondents-dinner-suspect-9.7177665?cmp=rss",
       "title": "White House correspondents' dinner shooting suspect a part-time teacher, game developer",
       "published_at": "2026-04-26T01:23:59-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The chief of the ​District of Columbia police department said investigators believe the suspect was a guest at the Washington Hilton hotel, where the annual dinner was ​taking place, but that no motive had been determined.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "af91a2e79a62ff206bea1f2cb93cf7e66b9d6cdb",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/sujit-acharya-momonepal-acadia-frank-h-sobey-scholarship-9.7176324?cmp=rss",
+      "title": "This Acadia student didn't like cooking. Now his Nepalese dumplings are in demand",
+      "published_at": "2026-04-26T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Acadia University student Sujit Acharya owed thousands in tuition and had a few hundred dollars to his name when he decided to make some Nepalese dumplings for a festival in the hopes to earn some money. The business now sells its products at farmers' markets and in several stores. And that's just the start of his plans.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.419,
         "subjectivity_hint": "low"
       }
     },
@@ -56,19 +69,6 @@
       }
     },
     {
-      "id": "512e8727257508da7514d326088efaa363b65b77",
-      "url": "https://www.cbc.ca/radio/costofliving/why-so-many-national-days-9.7175176?cmp=rss",
-      "title": "From National Pizza Day to National Puppy Day: Why so many national days have filled the calendar",
-      "published_at": "2026-04-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "National Day Calendar recognizes over 3,000 special days, weeks and months that are celebrated worldwide. The days honour everything from jelly beans to beer cans — but if every day is special, is any day truly special?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "702e336a4ae12c421097f4743130b5dc4e27ab1d",
       "url": "https://www.cbc.ca/news/health/lipoprotein-a-heart-attack-stroke-screening-9.7174934?cmp=rss",
       "title": "1 reason why healthy people have heart attacks, and what experts say could help",
@@ -79,6 +79,19 @@
         "article_type": "News",
         "sentiment": 0.557,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "512e8727257508da7514d326088efaa363b65b77",
+      "url": "https://www.cbc.ca/radio/costofliving/why-so-many-national-days-9.7175176?cmp=rss",
+      "title": "From National Pizza Day to National Puppy Day: Why so many national days have filled the calendar",
+      "published_at": "2026-04-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "National Day Calendar recognizes over 3,000 special days, weeks and months that are celebrated worldwide. The days honour everything from jelly beans to beer cans — but if every day is special, is any day truly special?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.948,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -147,28 +160,54 @@
       }
     },
     {
-      "id": "7835f5e6a826fc668149fc2ceef21caee841eff0",
-      "url": "https://www.cbc.ca/news/world/trump-correspondents-dinner-security-9.7177582?cmp=rss",
-      "title": "Trump unharmed after 'shooting incident' at White House correspondents' dinner",
+      "id": "b4a95e2ed54bb27eb5898a14671bf9e598c22496",
+      "url": "https://www.cbc.ca/news/world/livestory/white-house-correspondents-dinner-shooting-trump-targeted-9.7177721?cmp=rss",
+      "title": "Shooting suspect at correspondents' dinner was likely targeting Trump officials, says acting attorney general",
       "published_at": "2026-04-25T17:34:12-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7835f5e6a826fc668149fc2ceef21caee841eff0",
+      "url": "https://www.cbc.ca/news/world/trump-correspondents-dinner-security-9.7177582?cmp=rss",
+      "title": "Trump unharmed after 'shooting incident' at White House correspondents' dinner",
+      "published_at": "2026-04-25T16:53:44-04:00",
+      "section": "World",
+      "summary_auto": "A man armed with guns and knives stormed the lobby outside a high-profile journalists' dinner attended by U.S. President Donald Trump and multiple senior U.S. leaders on Saturday night, rushing toward the ballroom before Secret Service agents swarmed him and took him into custody.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "bb62fd85f1f2f2cc3b50d89a3cfe4ba831f11172",
       "url": "https://www.cbc.ca/news/canada/british-columbia/man-dies-after-falling-from-stawamus-chief-9.7177477?cmp=rss",
-      "title": "Well-known rock climber dies after falling 20 metres from Stawamus Chief in Squamish, B.C.",
+      "title": "Pro rock climber dies after falling 20 metres from Stawamus Chief in Squamish, B.C.",
       "published_at": "2026-04-25T13:45:15-04:00",
       "section": "Top Stories",
       "summary_auto": "Will Stanhope was widely known as a free solo climber and was a member of the Association of Canadian Mountain Guides. He was scaling Rutabaga at the time of his fall.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bb62fd85f1f2f2cc3b50d89a3cfe4ba831f11172",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/man-dies-after-falling-from-stawamus-chief-9.7177477?cmp=rss",
+      "title": "Professional climber dies after 20 metre fall from Stawamus Chief in Squamish",
+      "published_at": "2026-04-25T13:45:15-04:00",
+      "section": "Canada",
+      "summary_auto": "Will Stanhope was widely known as a free solo climber and was a member of the Association of Canadian Mountain Guides. He was scaling Rutabaga at the time of his fall.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -182,32 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.875,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "47e6d174d56f0c57ab22b4f5d5897c7205c7e93d",
-      "url": "https://www.cbc.ca/news/canada/north/arviat-inuit-nunangat-university-9.7177278?cmp=rss",
-      "title": "Hamlet in Nunavut celebrates being chosen as site of first Inuit-led university in Canada",
-      "published_at": "2026-04-25T10:29:48-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Arviat, Nunavut, a community of about 3,200 people on the western coast of Hudson Bay, was selected by Inuit Tapiriit Kanatami to host the university's main campus in part because it is known as an 'education leader' and has a strong connection to Inuktitut, the Inuit language.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6645b6e127a3b472d036fd6fc7279708b94b0ae8",
-      "url": "https://www.cbc.ca/news/canada/toronto/doug-ford-protest-rallies-ontario-9.7177390?cmp=rss",
-      "title": "Anti-Doug Ford rallies take place across Ontario to protest OSAP, FOI changes",
-      "published_at": "2026-04-25T09:09:02-04:00",
-      "section": "Canada",
-      "summary_auto": "Demonstrations are taking place across Ontario to protest against Premier Doug Ford and several of the province's recent controversial measures, including changes to freedom of information laws and OSAP grants.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     }
