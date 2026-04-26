@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-26T10:38:24.129884-04:00",
+  "generated_at": "2026-04-26T14:42:12.223677-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "36f17179d4736f745a88b611096f63ce7a6dc963",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sabastian-sawe-marathon-world-record-9.7177842?cmp=rss",
+      "title": "Kenyan runner breaks 2-hour marathon barrier, shattering world record by 65 seconds",
+      "published_at": "2026-04-26T07:50:31-04:00",
+      "section": "World",
+      "summary_auto": "In a race for the ages, Sabastian Sawe of Kenya won the London Marathon in one hour, 59 minutes and 30 seconds on Sunday, shattering the previous men's world record by an astonishing 65 seconds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "39cc53388fa9c16cc1de21b8f5d382852404c6c5",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kelowna-vibrant-vine-bankruptcy-receivership-9.7175690?cmp=rss",
+      "title": "Wedding dreams crushed at last minute as winery in Kelowna, B.C., goes into receivership",
+      "published_at": "2026-04-26T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Kelowna, B.C., winery has left a number of couples jilted at the altar after going into receivership. Court documents show Vibrant Vine owes lenders nearly $7 million — and took wedding bookings despite being in financial trouble.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "1cecdd1e46cfe44f30b4afe7ebe28638b8213c30",
       "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-april-26-2025-9.7174796?cmp=rss",
@@ -27,6 +53,19 @@
         "article_type": "News",
         "sentiment": -0.813,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e800567ec280f6db75b3c2e17284cfe8a810ca5",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-kinew-megaprojects-analysis-9.7177015?cmp=rss",
+      "title": "Kinew now banks on Port of Churchill alone to change Manitoba's financial tides",
+      "published_at": "2026-04-26T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After stating last fall that three pending Manitoba megaprojects could wean this province off federal equalization payments within 10 years, Premier wab Kinew now says only a Port of Churchill expansion can transform the provincial economy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -82,6 +121,19 @@
       }
     },
     {
+      "id": "df1792cb5f4a4d2cf84b55764a6989239c1e796d",
+      "url": "https://www.cbc.ca/news/canada/first-person-autism-partial-schooling-9.7175015?cmp=rss",
+      "title": "When my sons with autism are sent home from school, they've learned the problem is them — not the system",
+      "published_at": "2026-04-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Wendy Lintner's twin sons with autism are in Grade 5. At one time, both were not attending school full-time. Not because she doesn’t believe in education or because they don't want to be there, but because the school system simply hasn’t been able to support their needs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.38,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "512e8727257508da7514d326088efaa363b65b77",
       "url": "https://www.cbc.ca/radio/costofliving/why-so-many-national-days-9.7175176?cmp=rss",
       "title": "From National Pizza Day to National Puppy Day: Why so many national days have filled the calendar",
@@ -121,19 +173,6 @@
       }
     },
     {
-      "id": "df1792cb5f4a4d2cf84b55764a6989239c1e796d",
-      "url": "https://www.cbc.ca/news/canada/first-person-autism-partial-schooling-9.7175015?cmp=rss",
-      "title": "When my sons with autism are sent home from school, they've learned the problem is them — not the system",
-      "published_at": "2026-04-26T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Wendy Lintner's twin sons with autism are in Grade 5. At one time, both were not attending school full-time. Not because she doesn’t believe in education or because they don't want to be there, but because the school system simply hasn’t been able to support their needs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.38,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "0944533964c8f2ff8d6f8ecf8a341ffe58566f1a",
       "url": "https://www.cbc.ca/news/canada/edmonton/hwy-63-fort-mcmurray-snow-storm-stranded-9.7177581?cmp=rss",
       "title": "Albertans call for answers after being stranded on northern highway during snow storm",
@@ -162,7 +201,7 @@
     {
       "id": "b4a95e2ed54bb27eb5898a14671bf9e598c22496",
       "url": "https://www.cbc.ca/news/world/livestory/white-house-correspondents-dinner-shooting-trump-targeted-9.7177721?cmp=rss",
-      "title": "Shooting suspect at correspondents' dinner was likely targeting Trump officials, says acting attorney general",
+      "title": "Correspondents' dinner shooting suspect allegedly wrote about targeting U.S. officials, says Trump",
       "published_at": "2026-04-25T17:34:12-04:00",
       "section": "Top Stories",
       "summary_auto": "",
@@ -182,45 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb62fd85f1f2f2cc3b50d89a3cfe4ba831f11172",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/man-dies-after-falling-from-stawamus-chief-9.7177477?cmp=rss",
-      "title": "Pro rock climber dies after falling 20 metres from Stawamus Chief in Squamish, B.C.",
-      "published_at": "2026-04-25T13:45:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Will Stanhope was widely known as a free solo climber and was a member of the Association of Canadian Mountain Guides. He was scaling Rutabaga at the time of his fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb62fd85f1f2f2cc3b50d89a3cfe4ba831f11172",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/man-dies-after-falling-from-stawamus-chief-9.7177477?cmp=rss",
-      "title": "Professional climber dies after 20 metre fall from Stawamus Chief in Squamish",
-      "published_at": "2026-04-25T13:45:15-04:00",
-      "section": "Canada",
-      "summary_auto": "Will Stanhope was widely known as a free solo climber and was a member of the Association of Canadian Mountain Guides. He was scaling Rutabaga at the time of his fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f4bf98057650288cbfad3379551318ff25715fc",
-      "url": "https://www.cbc.ca/news/canada/wags-hockey-nhl-lauren-kyle-mcdavid-9.7177365?cmp=rss",
-      "title": "NHL playoffs: Fans are following the games — and the WAGs",
-      "published_at": "2026-04-25T10:41:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Interest in wives and girlfriends of professional athletes — known as \"WAGs\" — is a global phenomenon, across sports from hockey to soccer to F1 racing. Experts say social media has created opportunities for WAGs to build their own brands and expand their influence — and thus, create names for themselves in their own right.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.875,
         "subjectivity_hint": "low"
       }
     }
