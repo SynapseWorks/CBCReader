@@ -1,28 +1,158 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-27T15:09:05.584998-04:00",
+  "generated_at": "2026-04-28T15:24:53.536424-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "4a9d9c4320b489dedbe49ec806ea6106682b23e2",
-      "url": "https://www.cbc.ca/news/canada/manitoba/children-youth-social-media-chatbot-ai-ban-9.7178892?cmp=rss",
-      "title": "Manitoba ban on social media, AI chatbots for kids could start in schools: education minister",
-      "published_at": "2026-04-27T10:51:16-04:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba's education minister says the government may first turn to schools to ban children from using social media accounts and artificial intelligence chatbots.",
+      "id": "0a794653e8f6a85fcfd19de08ded1716b23b42e6",
+      "url": "https://www.cbc.ca/news/world/polymarket-us-soldier-charged-maduro-9.7180300?cmp=rss",
+      "title": "U.S. special forces soldier pleads not guilty to using classified information to win big on prediction market",
+      "published_at": "2026-04-28T10:49:33-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A U.S. special forces soldier pleaded not guilty Tuesday to charges that he used classified information about the mission to capture former Venezuelan leader Nicolás Maduro to win more than $400,000 US on the prediction market Polymarket.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.625,
+        "sentiment": 0.939,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "a4427b92d11389f0415c4748ca53061f979f27db",
-      "url": "https://www.cbc.ca/news/canada/hamilton/nabil-askafe-funeral-9.7178338?cmp=rss",
-      "title": "Family in 'deep agony,' says imam at funeral for 16-year-old boy from Syria fatally shot at Hamilton mall",
-      "published_at": "2026-04-27T09:32:27-04:00",
+      "id": "f61ab6a04aa365815d797d2857ff7f2a01b94dfd",
+      "url": "https://www.cbc.ca/news/world/trump-ballroom-justice-dept-federal-court-motion-9.7180270?cmp=rss",
+      "title": "U.S. Justice Department files motion that some legal critics say reads like a Trump social media post",
+      "published_at": "2026-04-28T10:44:31-04:00",
       "section": "Top Stories",
-      "summary_auto": "A funeral for a 16-year-old Hamilton boy killed on the weekend is underway at Hamilton Mountain Mosque. Abrar Mechmechia, a trauma counsellor supporting the teen's family, says the Syrian community is grieving alongside them.",
+      "summary_auto": "The U.S. Justice Department has asked a federal judge to throw out a lawsuit that has impeded President Donald Trump's plans for a White House ballroom, saying its opponents \"suffer from Trump derangement syndrome\" and that an alleged assassination attempt on the president showed the ‌project was necessary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f5bf8a9eeec3be309e70af8b0afbe43ad5abc9d1",
+      "url": "https://www.cbc.ca/sports/football/cfl/cfl-2027-season-may-start-new-playoff-format-9.7180290?cmp=rss",
+      "title": "CFL to open 2027 season in May before adopting new playoff format later that year",
+      "published_at": "2026-04-28T10:37:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian Football League will kick off its season earlier and revamp its playoff format in 2027.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "aaed87aa1cd202dbb27e01926d89ae04ef5f4141",
+      "url": "https://www.cbc.ca/news/health/fauci-adviser-indicted-covid-9.7180250?cmp=rss",
+      "title": "Former Fauci adviser indicted for allegedly concealing communications related to COVID-19 research",
+      "published_at": "2026-04-28T10:11:52-04:00",
+      "section": "World",
+      "summary_auto": "Dr. David Morens, 78, is accused of using his private email account to intentionally circumvent public records laws while employed at the National Institutes of Health. The U.S. Justice Department alleges that he concealed or destroyed records of discussions related to COVID-19 research grants, including an effort to revive a controversial coronavirus grant.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75f060ed0b6491238a19688caee4bd74b27f70d0",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-testing-delays-9.7180158?cmp=rss",
+      "title": "He's one reason why it's taking so long for the Gordie Howe bridge to open",
+      "published_at": "2026-04-28T10:00:42-04:00",
+      "section": "Canada",
+      "summary_auto": "Phil Saoud is an engineer whose consulting firm is responsible for making sure every system on the span works properly and safely. The team is one of the reasons behind why the new crossing set to link Windsor, Ont., and Detroit has yet to open.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "529118229d05e557432f19f046a7440f190c652d",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-full-cellphone-ban-schools-9.7180241?cmp=rss",
+      "title": "Ontario considering social media, cellphone ban on school properties",
+      "published_at": "2026-04-28T09:59:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Ontario Education Minister Paul Calandra says the province will be working closely with the federal government on a social media ban for kids under a certain age. He also says he is considering implementing an \"outright ban\" of cellphones on school properties, with some medical exemptions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4fb1fc9dfebfd238910b8aa19d17acb9b0a876e2",
+      "url": "https://www.cbc.ca/news/canada/montreal/human-trafficking-sexual-exploitation-quebec-9.7178009?cmp=rss",
+      "title": "1 woman, 5 pairs of heels and a 3,000-km journey shed light on human trafficking",
+      "published_at": "2026-04-28T09:45:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Dora Alcover walked from Spain to Romania to turn the spotlight on sex trafficking. Montreal advocates say they welcome her initiative, adding that it’s drawing attention to the issue here in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "53843d10588b5b2ad9454e9efba6b3f1808c593e",
+      "url": "https://www.cbc.ca/news/canada/manitoba/boy-charged-cruelty-canada-goose-killed-9.7180058?cmp=rss",
+      "title": "Boy, 17, charged with animal cruelty after Canada geese driven over and killed in Winnipeg",
+      "published_at": "2026-04-28T09:26:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Animal cruelty charges have been laid against a 17-year-old after he allegedly drove a vehicle over several sleeping geese in a Winnipeg parking lot, killing most of them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.967,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a7dd406d460ee8794966c2ddca7aa6c2e4e39f7f",
+      "url": "https://www.cbc.ca/news/canada/toronto/fifa-world-cup-tickets-price-cap-rule-9.7180161?cmp=rss",
+      "title": "Toronto resale tickets for World Cup no longer on FIFA site following new price cap rule",
+      "published_at": "2026-04-28T09:11:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "FIFA's marketplace for resale World Cup tickets no longer has seats listed for Toronto matches after a new price cap came into effect last week. The Ontario legislation bans people and platforms from reselling seats to events in the province for more than face value.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.187,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d04bea79d0a8852a51a21d4b7c6d034f892834bd",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/rob-thomson-fired-manager-philadelphia-phillies-mlb-9.7180011?cmp=rss",
+      "title": "Phillies fire Canadian manager Rob Thomson following 11th loss in 12 games",
+      "published_at": "2026-04-28T08:02:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian manager Rob Thomson, who led the Phillies to four straight playoff appearances, including the 2022 World Series, was fired on Tuesday after Philadelphia lost 11 of 12 games and began the day tied for last place in the majors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.942,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea736f94cf15cd3f23507a6db13d897a95cd0b4b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/flood-wood-buffalo-9.7179905?cmp=rss",
+      "title": "Overland flooding triggers evacuation alert in community southeast of Fort McMurray",
+      "published_at": "2026-04-28T07:17:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A northern Alberta community southeast of Fort McMurray has been placed on evacuation alert as the thawing Clearwater River begins to overflow its banks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c528e89c343f0e374fceb0fd278343fb35073eb6",
+      "url": "https://www.cbc.ca/news/entertainment/jam-master-jay-killing-plea-9.7179806?cmp=rss",
+      "title": "Man pleads guilty in 2002 killing of Run-DMC's Jam Master Jay",
+      "published_at": "2026-04-28T07:07:42-04:00",
+      "section": "World",
+      "summary_auto": "Several decades after rap star Jam Master Jay of Run-DMC was shot to death, a man named Jay Bryant pleaded guilty to a federal murder charge, telling a judge he helped other people get into a recording studio to ambush the DJ.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.962,
@@ -30,288 +160,275 @@
       }
     },
     {
-      "id": "488313946eb5c1989592c9445cf26f991bbb618a",
-      "url": "https://www.cbc.ca/news/entertainment/nedra-talley-ross-ronettes-dead-age-80-9.7178482?cmp=rss",
-      "title": "Nedra Talley Ross, last surviving member of the Ronettes, dead at 80",
-      "published_at": "2026-04-27T07:34:52-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Nedra Talley Ross, the last surviving member of the 1960s bee-hived pop band the Ronettes, who sang the enduring hits Be My Baby, Baby I Love You and Walking in the Rain alongside her cousins, has died at 80.",
+      "id": "6e404b23efa9c9db105465f52d794bc99c2a062f",
+      "url": "https://www.cbc.ca/news/canada/windsor/police-identify-18-year-old-accused-of-1st-degree-murder-in-windsor-stabbing-9.7179873?cmp=rss",
+      "title": "Police identify 18-year-old accused of 1st-degree murder in Windsor, Ont., stabbing",
+      "published_at": "2026-04-28T06:44:14-04:00",
+      "section": "Canada",
+      "summary_auto": "A 16-year-old boy was killed Sunday night at a plaza in the city.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e5728fac4a0973b66c2230293a46e71f18ce70b9",
+      "url": "https://www.cbc.ca/news/business/uae-leaving-opec-9.7179689?cmp=rss",
+      "title": "U.A.E. leaving OPEC amid Middle East energy supply crunch",
+      "published_at": "2026-04-28T04:59:33-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The loss of the U.A.E., a longstanding OPEC member, could weaken the group, which has usually sought to show a ​united front — despite internal disagreements over a range of issues, from geopolitics to production quotas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.17,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "491e113ae4444956766ee29abf5c474aa105730a",
-      "url": "https://www.cbc.ca/news/world/israel-east-lebanon-strikes-ceasefire-9.7178499?cmp=rss",
-      "title": "Israeli strikes hit east Lebanon, expanding conflict area despite ceasefire",
-      "published_at": "2026-04-27T07:01:03-04:00",
+      "id": "f7ec5b04bd721f31ff3e17bfc3254d0c00db8b77",
+      "url": "https://www.cbc.ca/news/canada/ottawa/child-injured-laurier-avenue-ottawa-fall-9.7179661?cmp=rss",
+      "title": "Boy dead after fall from downtown Ottawa highrise, first responders say",
+      "published_at": "2026-04-28T04:05:28-04:00",
       "section": "Top Stories",
-      "summary_auto": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding the scope of its bombing campaign during a ceasefire that has failed to fully halt hostilities with Lebanese armed group Hezbollah.",
+      "summary_auto": "Ottawa police and paramedics say a young boy has died after falling from an apartment window on Laurier Avenue E. around the University of Ottawa Monday evening.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.918,
+        "sentiment": -0.859,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "7f7fd4f626f9344f97cb6ff6206a93796e318c12",
-      "url": "https://www.cbc.ca/news/canada/montreal/alexandre-boulerice-ndp-quebec-solidaire-9.7178354?cmp=rss",
-      "title": "Quebec MP Alexandre Boulerice officially quits NDP to run provincially for Québec Solidaire",
-      "published_at": "2026-04-27T06:31:10-04:00",
+      "id": "8b3e1532099588100159dc5d1de99ae10d207ef9",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-separatism-janet-brown-mitch-sylvestre-9.7178496?cmp=rss",
+      "title": "Support for Alberta separatism flat, struggling high earners more likely supporters: poll",
+      "published_at": "2026-04-28T04:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Boulerice plans to run provincially in the Montreal riding of Gouin. It's the current riding of former Québec Solidaire co-spokesperson Gabriel Nadeau-Dubois, who is leaving politics at the end of his mandate.",
+      "summary_auto": "After months of signature-gathering and with a potential referendum on independence on the horizon, a new poll done for CBC News suggests Albertans' support for separatism remains \"baked in,\" with few persuaded to change sides.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.698,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "a81b2ac602a67ee2ce046161154b99f466bf3d82",
-      "url": "https://www.cbc.ca/news/canada/calgary/shell-arc-resources-wael-sawan-9.7178319?cmp=rss",
-      "title": "Shell to buy ARC Resources in deal valued at $22B including debt",
-      "published_at": "2026-04-27T06:12:48-04:00",
-      "section": "Business",
-      "summary_auto": "Oil giant Shell is acquiring Canadian energy company ARC Resources in a stock-and-cash deal valued at $22 billion, including assumed debt.",
+      "id": "c0adb574a9df99bec191a2839bceb80495dae8db",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/beloved-b-c-train-tradition-in-jeopardy-9.7179409?cmp=rss",
+      "title": "These B.C. kids spend their days greeting train passengers, but beloved tradition is in jeopardy",
+      "published_at": "2026-04-28T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A group of children in Pemberton, B.C., has been welcoming visitors to their town for as long as they can remember. For six months of the year, twice a week, every week, they wait for the train to arrive and greet people.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.44,
+        "sentiment": 0.836,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "56290e85afa508ec93e80356a1f8492584e82e4a",
-      "url": "https://www.cbc.ca/news/business/musk-altman-openai-court-9.7178312?cmp=rss",
-      "title": "Elon Musk, Sam Altman head to court in trial over Open AI's founding vision",
-      "published_at": "2026-04-27T05:45:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred their once-shared vision for the development of artificial intelligence.",
+      "id": "fc9350c0dee43f159c7b2105d42e66d31a0321f0",
+      "url": "https://www.cbc.ca/news/world/austria-guilty-plea-taylor-swift-concert-plot-9.7179609?cmp=rss",
+      "title": "Austrian citizen pleads guilty to Taylor Swift concert attack plot",
+      "published_at": "2026-04-28T02:33:36-04:00",
+      "section": "World",
+      "summary_auto": "A man accused of pledging allegiance to the Islamic State group and plotting to attack one of superstar singer Taylor Swift's concerts in Vienna nearly two years ago pleaded guilty as his trial began on Tuesday, Austria media reported.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": -0.904,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "b11ddfe8f03374e8308bcc4fdeb33f6458b671c7",
-      "url": "https://www.cbc.ca/news/world/iran-foreign-minister-u-s-conflict-russia-9.7178194?cmp=rss",
-      "title": "Iran offers to end chokehold on Strait of Hormuz if nuclear talks are deferred, officials say",
-      "published_at": "2026-04-27T05:01:14-04:00",
+      "id": "7691a5656576ffb4b3eb8f6fa5525bd8882b67b1",
+      "url": "https://www.cbc.ca/news/world/indonesia-train-crash-9.7179596?cmp=rss",
+      "title": "Train collision in Indonesia kills 15, injures dozens as rescuers recover last victims",
+      "published_at": "2026-04-28T00:53:04-04:00",
+      "section": "World",
+      "summary_auto": "Rescuers finished removing victims from a damaged commuter train car on Tuesday, confirming that the crash outside Indonesia's capital killed 15 people, all of whom were women.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.962,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9d2620136176a77daafe55f0d99307f8393fe84e",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/victoria-paul-hanlon-9.7178618?cmp=rss",
+      "title": "N.L. municipal candidate with criminal background vows to continue campaign",
+      "published_at": "2026-04-28T00:30:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A candidate in the upcoming special election in the Town of Victoria, N.L. says he's \"done nothing wrong\" and is vowing to continue his campaign, despite an extensive criminal history and an upcoming court date.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.562,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "16978b5ff106e05098430fbf78375e7207aaa790",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-protection-home-invasion-9.7168605?cmp=rss",
+      "title": "How some Toronto homeowners are protecting themselves amid rise of home invasions",
+      "published_at": "2026-04-28T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Iranian sources on Monday disclosed Tehran's latest proposal to bridge gaps with the U.S. over worldwide shipping woes resulting from the war started two months earlier, which would push wider talks about Iran's nuclear program until later.",
+      "summary_auto": "Security film, which strengthens window glass making it harder to break, is just one of a number of steps Toronto homeowners have been taking to make their houses more difficult to break into, following a rise in brazen home invasions in the last few years in the city.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.442,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2fdfb679e80d0df4ac130c772816872d5dc964be",
+      "url": "https://www.cbc.ca/news/health/medical-assistance-in-dying-mental-illness-9.7176814?cmp=rss",
+      "title": "Toronto woman who wants to die says federal MAID committee isn't listening",
+      "published_at": "2026-04-28T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Claire Elyse Brosseau wants to end her life, but under current Canadian legislation she’s not eligible for medical assistance in dying because she only suffers from mental illnesses. Next year, that’s supposed to change — though the federal government has already delayed twice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.922,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bf6174e91968fa770763699f47e13f483ddd5052",
+      "url": "https://www.cbc.ca/news/business/canada-sovereign-wealth-fund-explainer-9.7179217?cmp=rss",
+      "title": "Canada is getting a sovereign wealth fund. What are they and how might this one work?",
+      "published_at": "2026-04-28T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Sovereign wealth funds are usually started with extra money that governments then use to invest. But the Canada Strong Fund will differ from wealth funds in some other countries, and there are plenty of details that still need to be sorted out.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.918,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "056576fa45b7a3035a6b8abda33ea4a6b680ba0d",
+      "url": "https://www.cbc.ca/news/politics/liberals-promising-improved-bottom-line-in-today-s-spring-economic-update-9.7178551?cmp=rss",
+      "title": "Liberals promising improved bottom line in today's spring economic update",
+      "published_at": "2026-04-28T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The federal Liberals will table their spring economic update today, with Prime Minister Mark Carney hinting at a rosier bottom line with smaller-than-forecasted deficits.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b92f9707f9ecfd00de2e8bdfca90c4798e356314",
+      "url": "https://www.cbc.ca/radio/asithappens/amal-khalil-journalist-final-hours-lebanon-israel-airstrike-9.7179009?cmp=rss",
+      "title": "Colleagues describe Lebanese journalist Amal Khalil's final hours as Israeli bombs rained down",
+      "published_at": "2026-04-28T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "An Israeli airstrike killed Amal Khalil on Wednesday and injured her colleague in the south of Lebanon. The journalist's colleagues accuse Israel of targeting her deliberately and obstructing first responders from reaching her in time to save her life, which Israel denies.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.778,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5f535629ab5c9a038ba8aa8985ca0dca22d3f0b5",
-      "url": "https://www.cbc.ca/news/canada/toronto/fatal-fall-six-year-old-girl-toronto-9.7178276?cmp=rss",
-      "title": "Girl, 6, dead after falling from apartment tower bedroom, Toronto police say",
-      "published_at": "2026-04-27T04:54:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The girl fell from the window of an apartment building in North York Sunday evening, police say. They say they are investigating, but the fall does not appear suspicious.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.073,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "d6c32b4df1fb78da9bb3255fdfb918831976c38c",
-      "url": "https://www.cbc.ca/books/bookends/yesteryear-modern-tradwife-influencer-must-survive-in-the-1800s-9.7176244?cmp=rss",
-      "title": "In the novel Yesteryear, a modern tradwife influencer must survive in the 1800s",
-      "published_at": "2026-04-27T04:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The American author discussed Yesteryear on Bookends with Mattea Roach.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9ba22041a7896ee35f382635dc6e451de26419d0",
-      "url": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238?cmp=rss",
-      "title": "Carney announces creation of Canada's first national sovereign wealth fund",
-      "published_at": "2026-04-27T03:39:55-04:00",
+      "id": "1b292776bc286883f922c8f2cdb57dfab881fe11",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-shell-arc-resources-montney-alberta-9.7179152?cmp=rss",
+      "title": "Shell invests $22 billion in Canada's oilpatch and more deals could be coming",
+      "published_at": "2026-04-28T00:00:00-04:00",
       "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney has unveiled his plan to create Canada's first sovereign wealth fund.",
+      "summary_auto": "After selling off a large chunk of its Canadian assets nearly a decade ago, U.K.-based energy giant Shell is now expanding its operations in Alberta and British Columbia by acquiring Calgary-based ARC Resources for $22 billion.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c7094480918dbf97c15b41fa1e3c7e9c97a8d376",
-      "url": "https://www.cbc.ca/news/canada/north/banishment-nunavik-drug-trafficking-bootleggers-9.7176944?cmp=rss",
-      "title": "Nunavik leaders join other Indigenous communities eyeing banishment for bootleggers and drug traffickers",
-      "published_at": "2026-04-27T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Nunavik leaders are exploring the idea of banishment as a way to block drugs and alcohol entering their communities. 'We want to make it clear to everyone in Canada that we are welcoming, but we're not welcoming people that are there to destroy people's lives,' says the president of Makivvik.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.744,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "846b6d6e6e6123e18f0f566c06f7f4b72b9fa267",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/one-person-one-record-health-care-patients-iwk-michelle-thompson-9.7177720?cmp=rss",
-      "title": "Their infant son had to spend several days in the ICU. Then his medical records went missing",
-      "published_at": "2026-04-27T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Tegan Hutz has nothing but glowing things to say about the care her son received while he was at the IWK Health Centre in Halifax. She's frustrated, however, that records related to his care were missing for more than two months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "55c0b12c060f9d8f778b6936f34473f100a3f277",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-oyster-growers-diseases-mortality-msx-dermo-9.7176920?cmp=rss",
-      "title": "Oyster growers in P.E.I. seeing nearly 100% mortality rate as 2 diseases hurt industry",
-      "published_at": "2026-04-27T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Prince Edward Island's oyster growers have been hit hard by MSX and dermo, two diseases that are harmless to people but can be fatal to the mollusk. They say P.E.I. 's industry is being wiped out.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.768,
+        "sentiment": 0.421,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "07e5a54d89c027f0d0ce9ec155dfaffa7defe06d",
-      "url": "https://www.cbc.ca/news/business/fred-sharp-panama-papers-us-charges-9.7176288?cmp=rss",
-      "title": "Canadian 'mastermind' in Panama Papers is still a free man despite criminal charges",
-      "published_at": "2026-04-27T00:02:38-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b90ad0b3814f79f32938b4a45a4fe68d4d0d98e9",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-wti-iran-q1-earnings-oil-9.7176422?cmp=rss",
-      "title": "What will Canadian oil producers do with the latest price windfall?",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian oil producers will provide a first glimpse this week at how the spike in energy prices is boosting their bottom line and what they intend to do with the bumper profits.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b90ad0b3814f79f32938b4a45a4fe68d4d0d98e9",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-wti-iran-q1-earnings-oil-9.7176422?cmp=rss",
-      "title": "Oil producers to begin unveiling profits and spending plans",
-      "published_at": "2026-04-27T00:00:00-04:00",
+      "id": "a0b415513eaf9d2f5f42d5cb8f7605651dd6e9ba",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/goldeneyes-ranked-1st-in-pwhl-attendance-averaging-over-11-200-fans-per-game-in-their-inaugural-season-9.7179247?cmp=rss",
+      "title": "Vancouver Goldeneyes' debut season scores major victory with fans",
+      "published_at": "2026-04-27T19:42:38-04:00",
       "section": "Canada",
-      "summary_auto": "Canadian oil producers will provide a first glimpse this week at how the spike in energy prices is boosting their bottom line and what they intend to do with the bumper profits.",
+      "summary_auto": "They may not have made the playoffs but the Goldeneyes were first in one category: PWHL regular-season attendance.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ae7510681cf50dc4f2f4dbbab798bd6eafe536e1",
-      "url": "https://www.cbc.ca/news/politics/spring-fiscal-update-deficit-affordability-9.7178012?cmp=rss",
-      "title": "Lower-than-forecasted deficit, new affordability measures expected in spring fiscal update",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Finance experts predict Tuesday’s spring economic update will contain a number of new economic measures aimed at tackling affordability and the wider economic challenges of the country, and they expect the update will show a smaller-than-forecasted deficit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "40eb27e017ed1b4f1567d6606b8544edce05c9fe",
-      "url": "https://www.cbc.ca/radio/whitecoat/canada-hospital-marketing-9.7174917?cmp=rss",
-      "title": "Running a hospital is expensive. Expect to see more advertising from them",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "As people live longer and have more complex medical needs, hospitals are turning to bolder advertising and marketing to attract top-tier professionals and afford the latest equipment in diagnostics and treatment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "81b18bddfe9afe8786e9e100518d62052d4868b6",
-      "url": "https://www.cbc.ca/news/world/king-charles-united-states-state-visit-itinerary-9.7176348?cmp=rss",
-      "title": "How will King Charles’s state visit to the U.S. unfold?",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "King Charles's state visit to the United States includes high-profile formal events such as a state dinner and a speech to the U.S. Congress. There are also events in New York City and Virginia, where he and Queen Camilla will have a chance to focus on interests and causes they often devote time to — even as the trip garners attention for the broader circumstances surrounding it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6c77014c78e61b2ebb68868e13ee8aed6fe099e8",
-      "url": "https://www.cbc.ca/news/business/travel-u-s-canadians-domestic-overseas-9.7176323?cmp=rss",
-      "title": "Many Canadians have avoided the U.S. for over a year. Have we reached the point of no return?",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "The ongoing U.S. travel boycott is showing no signs of letting up. March marked the 14th consecutive month of steep declines, with Canadian return trips to the U.S. plummeting 32 per cent compared to pre-boycott March 2024. Canadians are still travelling, but more are opting for domestic and overseas trips.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.519,
+        "sentiment": 0.0,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "b39eccadc4833b118d3dc511018d4993b32b3b98",
-      "url": "https://www.cbc.ca/news/canada/hamilton/grant-avenue-studio-hamilton-9.7176900?cmp=rss",
-      "title": "Hamilton studio that recorded Gordon Lightfoot, Johnny Cash and many more celebrates 50 years of music",
-      "published_at": "2026-04-27T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Grant Avenue Studio was founded by legendary Canadian record producer and musician Daniel Lanois and partners in 1976, and has been helping make Canadian music history since then. Current owner Mike Bruce says the charm that brought Johnny Cash, Gordon Lightfoot and more to the studio lingers 50 years later.",
+      "id": "e10312cd191ecf41d3e90874e7251b24d29b581b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-wildlife-officers-abandoned-domestic-sheep-9.7179534?cmp=rss",
+      "title": "B.C. officers now allowed to kill abandoned domestic sheep to protect wild animals",
+      "published_at": "2026-04-27T18:23:47-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "In a statement, the province says it has changed how domestic sheep are classified under the Wildlife Act in order to prevent disease from being transmitted in what could be large-scale die-offs in wild herds.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.886,
+        "sentiment": -0.718,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b8c99ddc7ee74aa5851b0f7afc4f2f6d78b4dd48",
+      "url": "https://www.cbc.ca/news/world/white-house-correspondents-dinner-shooting-conspiracy-theories-9.7179424?cmp=rss",
+      "title": "Conspiracy theories abound in aftermath of White House correspondents' dinner shooting",
+      "published_at": "2026-04-27T18:16:19-04:00",
+      "section": "World",
+      "summary_auto": "A tidal wave of conspiracy theories hit social media as soon as news broke that shots were fired at the Washington Hilton hotel during the White House Correspondents' dinner Saturday. That was to be expected, but some say the dynamics are shifting, with theories coming from liberals and progressives as well as right-wing accounts that are critical of U.S. President Donald Trump.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.45,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "99771715a1c793d77d3ed89529ce4cb38f680c17",
-      "url": "https://www.cbc.ca/news/canada/windsor/teenager-death-9.7178142?cmp=rss",
-      "title": "18-year-old faces 1st-degree murder charge after boy, 16, stabbed to death in Windsor",
-      "published_at": "2026-04-26T19:10:42-04:00",
+      "id": "1f217fcdc5ad79a7959196c0272e963bd2dad433",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/governor-general-visits-tumbler-ridge-9.7179451?cmp=rss",
+      "title": "Governor General visits Tumbler Ridge to check on grieving community",
+      "published_at": "2026-04-27T18:16:11-04:00",
       "section": "Canada",
-      "summary_auto": "An 18-year-old man is facing first-degree murder charges in the fatal stabbing on a 16-year-old body in Windsor-Essex, police say.",
+      "summary_auto": "Gov. Gen. Mary Simon visited the northeast B.C. community of Tumbler Ridge on Monday as residents continue to grieve the aftermath of a mass shooting on Feb. 10 in which eight people were killed.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.971,
+        "sentiment": -0.886,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "c09733f69b587f574f7238044c067a8b95c382ec",
-      "url": "https://www.cbc.ca/player/play/9.7178126?cmp=rss",
-      "title": "#TheMoment hockey fans watched the playoffs in a Quebec cathedral",
-      "published_at": "2026-04-26T18:13:22-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thomas Hodgson, co-founder of La Cargaison, tells The National about the moment the non-profit multimedia organization hosted watch parties for the Stanley Cup playoffs in Saint-Jean-l'Évangéliste Cathedral in Saint-Jean-sur-Richelieu, Que.",
+      "id": "5f1765ae431f79349672df1fb3d3935c009ce569",
+      "url": "https://www.cbc.ca/news/canada/toronto/opp-fatal-motorcycle-crash-highway-401-cobourg-9.7179495?cmp=rss",
+      "title": "Ontario Provincial Police officer killed in motorcycle crash on Highway 401 in Cobourg, Ont.",
+      "published_at": "2026-04-27T16:58:46-04:00",
+      "section": "Canada",
+      "summary_auto": "An Ontario Provincial Police officer was killed in a single-vehicle motorcycle crash on Highway 401 in Cobourg, Ont., on Monday, the OPP says.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.402,
+        "sentiment": -0.937,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2a9b46767ce6c8157dcbabf8d1aae493bb1dcbe6",
+      "url": "https://www.cbc.ca/news/world/nathan-chasing-horse-life-sentence-sexual-assault-9.7179404?cmp=rss",
+      "title": "Dances with Wolves actor Nathan Chasing Horse handed life sentence for sexual assaults",
+      "published_at": "2026-04-27T16:40:53-04:00",
+      "section": "World",
+      "summary_auto": "A Nevada judge sentenced Dances With Wolves actor Nathan Chasing Horse on Monday to life in prison for sexually assaulting Indigenous women and girls.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c8a37cd6d10d29ca43cb31f6c646618434fbb6e6",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/majcher-foreign-influence-china-9.7179099?cmp=rss",
+      "title": "Ex-Mountie's lawyer claims no evidence showing he'd threatened B.C. fraudster on China's behalf",
+      "published_at": "2026-04-27T16:31:18-04:00",
+      "section": "Canada",
+      "summary_auto": "The Crown has failed to prove William Majcher was taking steps to threaten an alleged B.C.-based fraudster at the behest of the Chinese government, a lawyer for the former Mountie told the judge overseeing Majcher's foreign influence trial Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.952,
         "subjectivity_hint": "low"
       }
     }
