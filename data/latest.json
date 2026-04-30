@@ -1,18 +1,460 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-04-29T15:15:37.982381-04:00",
+  "generated_at": "2026-04-30T09:28:09.691415-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "b79f315044cab99282d268af5ee1e1c6f25dd522",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/buffalo-fans-sing-o-canada-9.7181810?cmp=rss",
-      "title": "Buffalo fans finish 'O Canada' after mic fails before Game 5 of Sabres-Bruins series",
-      "published_at": "2026-04-29T11:10:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Fans at KeyBank Center carried \"O Canada\" after a microphone failed before the Buffalo Sabres and Boston Bruins played Game 5 of their first-round playoff series Tuesday night.",
+      "id": "338fb7a32db7bca739405ef616423f88389e264f",
+      "url": "https://www.cbc.ca/news/world/iran-war-oil-price-markets-9.7182448?cmp=rss",
+      "title": "Oil prices rise amid new U.S. threat, few signs of breaking stalemate with Iran",
+      "published_at": "2026-04-30T03:27:08-04:00",
+      "section": "World",
+      "summary_auto": "The price of Brent crude oil briefly surged past $126 US a barrel early Thursday as stalled U.S.-Iran talks raised doubts over the reopening of the Strait of Hormuz and a permanent end to the Iran war.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.572,
+        "sentiment": -0.932,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "998af34856be992b5b10279ef43755831178fdd4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-iran-canada-vancouver-denial-entry-9.7181998?cmp=rss",
+      "title": "Iranian soccer delegates denied entry to Canada for Vancouver FIFA congress",
+      "published_at": "2026-04-30T02:58:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A delegation of Iranian football officials have been denied entry to Canada ahead of this week's FIFA conference, but Foreign Affairs Minister Anita Anand has suggested the refusal might have been unintentional.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d78d1662f94cc7fc354e34e18f1276812b78d953",
+      "url": "https://www.cbc.ca/news/canada/manitoba/radon-free-screening-kits-waitlist-9.7182361?cmp=rss",
+      "title": "As free radon testing kit program ends for the spring, 2.6K Winnipeggers are still waiting",
+      "published_at": "2026-04-30T02:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "The City of Winnipeg is winding down its library program to lend free radon testing kits to patrons, but more than 2,600 people are still waiting to get the device — some after months. \"It's frustrating,\" said Brian Itscovich, a Winnipeg resident who ordered the kit.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.141,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f18aaad02aa28c696cf0abda8372f35be9bcca8c",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/budget-economy-oil-9.7181989?cmp=rss",
+      "title": "Budget 2026 reveals how N.L.'s economy is driven by oil, mining and fishing",
+      "published_at": "2026-04-30T00:30:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Newfoundland and Labrador is once again forecasting a hefty budgetary shortfall, but is expected to lead the country by a wide margin in 2026 when it comes to GDP growth.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f012c78381ddab2c9abb62f0e9be4adda7c2c3b",
+      "url": "https://www.cbc.ca/news/canada/montreal/mafalda-coming-to-montreal-9.7179769?cmp=rss",
+      "title": "Why Mafalda, the beloved Argentine cartoon, is finally making waves in the English-speaking world",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite knowing international success, the legendary Argentine comic strip character has only recently broken into the English-speaking world, with a translation of cartoonist Quino’s work becoming available just last year. A Montreal art café owner is hoping an official statue in the city will help spread the Mafalda love.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.785,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "94036425109f73ac344e735844e5de3ac94dcfe9",
+      "url": "https://www.cbc.ca/news/canada/landline-retro-phones-trend-9.7179821?cmp=rss",
+      "title": "Your past is calling: Why 'retro' landline phones are trending with adults and kids alike",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It's trending with Gen Alpha as parents seek out an antidote to screen time, but the Tin Can is also just one of several landline brands surging in popularity as a growing number of consumers try to reduce their reliance on smartphones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.768,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "87cf85764331b75607ac3c7d4e032dd2712e1690",
+      "url": "https://www.cbc.ca/news/science/betting-climate-polymarket-kalshi-prediction-9.7181757?cmp=rss",
+      "title": "How multi-million dollar speculative betting could convert climate change skeptics",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An investigation over whether temperature sensors at the Paris airport were tampered with to manipulate winning bets online is putting a new focus on the growing popularity of climate-related wagers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c93a25c3ebcecb97536d39ca0b7fe425c71a1e93",
+      "url": "https://www.cbc.ca/news/politics/liberals-new-police-agency-financial-crime-9.7181929?cmp=rss",
+      "title": "Liberals are pitching a brand new police agency for financial crimes. How would that work?",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Liberal government is looking to set up a new federal law enforcement agency dedicated to financial crimes, a dramatic undertaking to shake up how money laundering and fraud is investigated are Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "db661e15aeaa5a3826e99215c2a525e685e52f03",
+      "url": "https://www.cbc.ca/news/canada/north/nunavut-sexual-assault-publication-bans-9.7182154?cmp=rss",
+      "title": "Women oppose publication bans in Nunavut sexual assault case",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three women who have reported allegations of historical sexual assault to the RCMP say they want to tell their stories publicly, using a 2023 amendment to the Criminal Code that makes it easier for complainants to waive a publication ban on their names and anything that would identify them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d6bfc2948bef47ed460fc9a5d60a8e99ef614633",
+      "url": "https://www.cbc.ca/news/canada/mexican-family-facing-separation-montreal-9.7181884?cmp=rss",
+      "title": "Montreal father faces deportation as immigration advocates decry more family separations",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A young Mexican family is scrambling to convince Canadian border services to give them more time to prove he faces threats to his life in Mexico. The father's deportation date is 10 days before he's eligible to make that case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "89473a6be9a780baab4e5c2324675a8e8ed3c1f2",
+      "url": "https://www.cbc.ca/news/world/trump-ballroom-explainer-9.7182171?cmp=rss",
+      "title": "Trump's controversial ballroom is getting a new push. How did we get here?",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "The Trump administration is ramping up its push for the president's proposed ballroom after last weekend's shooting at the White House correspondents' dinner, with top Republicans now arguing the event space is needed for security reasons.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c43469abb94fd6ba1fa40d6c02c4d140c24b9101",
+      "url": "https://www.cbc.ca/news/world/royal-fascinator-king-charles-state-visit-analysis-9.7182169?cmp=rss",
+      "title": "Will the visit by King Charles help mend fences between the U.K. and the U.S.?",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "King Charles's stateside visit this week was an effort to calm the roiling waters between the U.S. and the U.K. of late, and to remind U.S. President Donald Trump — and members of the American public — of the longstanding relationship between the two countries. The question, after the pomp and ceremony fades, is how long that good will can last.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "93740876435112509f6b84cc31002467611e5354",
+      "url": "https://www.cbc.ca/news/canada/bruce-nuclear-power-shad-sturgeon-lake-huron-reactor-limits-9.7179212?cmp=rss",
+      "title": "Lake Huron's 'fish city' is a sign of trouble at nuclear plant, says Ontario First Nation",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Saugeen Ojibway Nation is challenging the portrayal of footage of a 'fish city' in the warm waters near Bruce Nuclear Generating Station as a 'fish trap,' raising questions about ecological costs as the operator seeks to raise reactor limits.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "266b847d71a3cf958bac13c167fc9920701ad0aa",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/long-lake-58-drug-crisis-emergency-9.7181829?cmp=rss",
+      "title": "Southern Ontario drug traffickers prompt state of emergency in Long Lake #58 First Nation",
+      "published_at": "2026-04-30T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "As a state of emergency remains in place in Long Lake #58 First Nation over the toxic drug crisis, the northwestern Ontario community is creating new safety and wellness roles to help protect vulnerable members.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "66e64773e9b948b18a18ed6857397126e6fed9e7",
+      "url": "https://www.cbc.ca/news/world/bondi-beach-shooting-interim-report-9.7182399?cmp=rss",
+      "title": "Report into Bondi Beach mass shooting calls for increased security at Jewish public events, more gun reforms",
+      "published_at": "2026-04-29T18:53:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An interim report into last year's Bondi Beach mass shooting advises increased security around Jewish public events and further gun reforms among 14 initial recommendations, but found Australia's legal and regulatory frameworks did ‌not hinder security agencies in preventing or responding to the attack.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.129,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ce70b16eb0909f8fb86cfe45c440955704c5881",
+      "url": "https://www.cbc.ca/player/play/9.7182386?cmp=rss",
+      "title": "#TheMoment Buffalo Sabres fans sang O Canada after a mic failed",
+      "published_at": "2026-04-29T18:05:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Buffalo Sabres anthem singer Cami Clune tells The National about the moment hometown fans jumped in to sing the Canadian anthem after her microphone cut out at an NHL playoff game.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b9ecb6d040fa923ec3a509a05f54246043745a9a",
+      "url": "https://www.cbc.ca/news/canada/montreal/canadiens-lightning-game-5-9.7181303?cmp=rss",
+      "title": "Canadiens bring out Gallagher, defeat Lightning in Game 5 taking 3-2 series lead",
+      "published_at": "2026-04-29T17:48:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Alexandre Texier broke a tie just over a minute into the third period and the Montreal Canadiens beat the Tampa Bay Lightning 3-2 on Wednesday night to take a 3-2 lead in the first-round series.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "81ad4e44003db0b255aa1084ed9c3f2e93bd33ae",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/meteor-victoria-bc-9.7182279?cmp=rss",
+      "title": "Video captures apparent meteor lighting up the night sky on Vancouver Island",
+      "published_at": "2026-04-29T16:12:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A bright fireball was seen streaking across the night sky over Victoria on Vancouver Island on Tuesday night. The American Meteor Society said it has received over 100 reports about the fireball, stretching as far south as Oregon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2d382586f4ecad8f2c0e4f9497c6e08d8e54508b",
+      "url": "https://www.cbc.ca/news/world/powell-federal-reserve-chair-governor-9.7182262?cmp=rss",
+      "title": "Powell says he'll remain on U.S. Federal Reserve board, denying Trump a chance to name his own appointee",
+      "published_at": "2026-04-29T16:08:00-04:00",
+      "section": "World",
+      "summary_auto": "Jerome Powell said Wednesday he plans to remain on the board of the Federal Reserve after his term as chair ends next month \"for a period of time, to be determined,\" saying the \"unprecedented\" legal attacks by the Trump administration have put the independence of the nation's central bank at risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5400efd2d75fb6b872a68226e5c1e4a3aac41ea3",
+      "url": "https://www.cbc.ca/news/canada/montreal/amnesty-international-report-9.7182265?cmp=rss",
+      "title": "Amnesty International report warns of deepening Indigenous people's housing crisis",
+      "published_at": "2026-04-29T15:41:37-04:00",
+      "section": "Canada",
+      "summary_auto": "A new report by Amnesty International warns that overcrowded and unsafe housing in an Atikamekw community north of Montreal reflects a broader crisis putting Indigenous people's health, safety and rights at risk across Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c6c28e516b6cf6f8cabb8d8c7469298104531abf",
+      "url": "https://www.cbc.ca/news/politics/canada-host-new-defence-bank-9.7182264?cmp=rss",
+      "title": "Canada selected to headquarter new multinational defence bank, sources say",
+      "published_at": "2026-04-29T15:39:31-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has been selected to headquarter the multinational Defence, Security and Resilience Bank (DSRB), sources have told Radio-Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6db7fe5f41d60748d24ca958bf8c7418a95e0b11",
+      "url": "https://www.cbc.ca/news/politics/disability-tax-credit-reforms-9.7182065?cmp=rss",
+      "title": "Changes to disability tax credit broadly welcomed by opposition, advocates",
+      "published_at": "2026-04-29T15:29:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Liberal government's plan to make it easier for Canadians living with disabilities to apply for the disability tax credit is being welcomed by the opposition and advocates who say the proposed changes are long overdue, though some say they don't go far enough.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ce3a41d63fe059579479b9a390ac45f0c6b3fc4",
+      "url": "https://www.cbc.ca/news/entertainment/d4vd-celeste-rivas-hernandez-killing-9.7182165?cmp=rss",
+      "title": "Prosecution alleges singer D4vd killed 14-year-old girl to silence her",
+      "published_at": "2026-04-29T15:22:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Prosecutors said on Wednesday that singer D4vd killed 14-year-old Celeste Rivas Hernandez by stabbing her multiple times.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.922,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5e30a52f5b9ecb495a482249002172f631637ee3",
+      "url": "https://www.cbc.ca/sports/sport-organization-government-funding-april-2026-reaction-9.7182019?cmp=rss",
+      "title": "Athletes, sport organizations optimistic about new federal money to boost participation",
+      "published_at": "2026-04-29T14:55:38-04:00",
+      "section": "Canada",
+      "summary_auto": "Athletes and sport organizations are optimistic and awaiting more detail, after the federal government pledged more than $660 million directly to national sport organizations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fcd5450faadf73dbac89099e26772efb69078b1d",
+      "url": "https://www.cbc.ca/news/fifthestate/cricket-canada-dropped-from-jays-event-9.7181824?cmp=rss",
+      "title": "Toronto Blue Jays drop Cricket Canada from promotional day after fifth estate investigation",
+      "published_at": "2026-04-29T14:36:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Toronto Blue Jays say Cricket Canada is not involved in this year’s Cricket Day at the Park on May 23, though the team said the event will continue as scheduled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d5a53d0b268d6c9f750453b95ef6cc437616639e",
+      "url": "https://www.cbc.ca/news/canada/manitoba/anxiety-depression-substance-research-9.7181904?cmp=rss",
+      "title": "1 in 5 Manitobans sought care for anxiety, study finds — but researcher says that's likely an undercount",
+      "published_at": "2026-04-29T14:34:40-04:00",
+      "section": "Health",
+      "summary_auto": "A new study says about one in five Manitobans over the age of 15 sought health-care services for anxiety symptoms over a one-year period — but some say those numbers may be an undercount.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dcd331cc36d79b825ea2dd294ef4fc1e68450c90",
+      "url": "https://www.cbc.ca/news/world/israel-seizes-aid-ships-gaza-9.7182055?cmp=rss",
+      "title": "Israel intercepting aid ships headed for Gaza, army radio says",
+      "published_at": "2026-04-29T14:16:24-04:00",
+      "section": "World",
+      "summary_auto": "Israel has begun taking control of aid ships ‌bound for Gaza far from ​its shores, Israeli ​army radio cited an Israeli source ​as saying on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec9ceb74b4b5d6e53d7fa469aca8816a3be4ecaa",
+      "url": "https://www.cbc.ca/news/world/justice-department-roll-back-gun-control-9.7182038?cmp=rss",
+      "title": "U.S. Justice Department moves to roll back gun control measures 4 days after armed man stormed D.C. dinner",
+      "published_at": "2026-04-29T14:13:50-04:00",
+      "section": "World",
+      "summary_auto": "U.S. Justice Department officials moved Wednesday to roll back or modify a slate of gun regulations in a dramatic shift in firearm policy pushed by Second Amendment supporters in President Donald Trump's base.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9db904ab7bea8d0f49ed31c408d0214ecf532871",
+      "url": "https://www.cbc.ca/news/canada/tobacco-generation-smoking-ban-uk-canada-9.7180845?cmp=rss",
+      "title": "A 'smoke-free generation' tobacco ban is coming to the U.K. Could it also happen in Canada?",
+      "published_at": "2026-04-29T14:06:52-04:00",
+      "section": "Canada",
+      "summary_auto": "A new law in the United Kingdom banning the sale of tobacco products to future generations has been hailed as a landmark moment in the fight against nicotine addiction. The ban by birth date has given heart to campaigners and researchers in Canada, who see it as the ultimate goal — and a plausible one — in making the country nicotine-free.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "37d8392bc3c61f5f0b8118cf9afe3596e38950ed",
+      "url": "https://www.cbc.ca/news/world/cole-tomas-allen-court-case-new-filing-april-29-9.7181984?cmp=rss",
+      "title": "New court filing raises questions about who shot Secret Service officer at White House press gala",
+      "published_at": "2026-04-29T13:02:26-04:00",
+      "section": "World",
+      "summary_auto": "A U.S. government court filing on Wednesday raised questions about officials’ initial assertions that a gunman shot a Secret Service officer while allegedly attempting to assassinate President Donald Trump at the White House Correspondents' Association dinner.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ed1df434925d65f182f8e817f12e2147410b500",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dean-penney-trial-april-29-9.7181783?cmp=rss",
+      "title": "Forensic team found wife’s DNA in garage of N.L. man accused of her murder",
+      "published_at": "2026-04-29T12:27:16-04:00",
+      "section": "Canada",
+      "summary_auto": "A report from the RCMP written in the months following the examination of Dean Penney's St. Anthony, N.L., garage says that while there was no confirmation of signs of blood in the room, Jennifer Hillier-Penney's DNA was present.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b8b3d137f36f3cf3a091530ac9050a9b52884f68",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/13-kids-died-toxic-illegal-drugs-since-2019-child-advocate-9.7181401?cmp=rss",
+      "title": "13 kids under 5 died with toxic, illegal drugs in their system since 2019, Sask. child advocate says",
+      "published_at": "2026-04-29T11:45:23-04:00",
+      "section": "Canada",
+      "summary_auto": "The sudden increase in drug exposure cases among children is \"deeply troubling,\" says Saskatchewan's advocate for children and youth Lisa Broda.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "28210bd0d09c2ca96d4b2c1a9e9ddc08b20af8c0",
+      "url": "https://www.cbc.ca/news/world/comey-8647-trumo-shells-threat-indictment-9.7181694?cmp=rss",
+      "title": "Comey appears in court on '86 47' allegation that legal experts say could be tough to prove",
+      "published_at": "2026-04-29T11:19:38-04:00",
+      "section": "World",
+      "summary_auto": "Former FBI director James Comey made his first court appearance on Wednesday in a criminal case against him that legal experts say presents significant hurdles for the prosecution and will likely be a challenge for the U.S. Justice Department to win.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "42f6779b9b90f6d1a4273d2447e9931da6de2a7a",
+      "url": "https://www.cbc.ca/player/play/9.7181728?cmp=rss",
+      "title": "The facts about Carney and Brookfield Asset Management",
+      "published_at": "2026-04-29T11:15:43-04:00",
+      "section": "Canada",
+      "summary_auto": "What is Prime Minister Mark Carney's connection to Brookfield Asset Management — and is it a conflict of interest? Here are the facts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a7497f97b2824bc09c3b6565a9c7901202e653d7",
+      "url": "https://www.cbc.ca/news/canada/edmonton/dog-waste-abandoned-truck-edmonton-towing-9.7181367?cmp=rss",
+      "title": "Poop bags are being dumped on this truck. It can't be towed because impound lot is full",
+      "published_at": "2026-04-29T10:50:30-04:00",
+      "section": "Canada",
+      "summary_auto": "An abandoned vehicle in southwest Edmonton is creating a smelly situation for neighbours, and sparking a broader discussion about city parking enforcement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -30,406 +472,29 @@
       }
     },
     {
+      "id": "ed2801c9836f11525146ae894b3e9faa65897485",
+      "url": "https://www.cbc.ca/news/canada/windsor/steel-booze-canada-united-states-ambassador-9.7181646?cmp=rss",
+      "title": "Steel for booze? U.S. ambassador suggests tariff drop swap, Canadian mould maker says",
+      "published_at": "2026-04-29T10:38:32-04:00",
+      "section": "Canada",
+      "summary_auto": "Pete Hoekstra met with industry leaders and politicians in Windsor, Ont., last week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "9358ca041532688f9f580c4aa385919cb19d6e03",
       "url": "https://www.cbc.ca/news/canada/british-columbia/missing-hiker-s-body-found-squamish-shannon-falls-9.7181567?cmp=rss",
       "title": "Body of hiker missing since July found near Squamish, B.C.",
       "published_at": "2026-04-29T09:46:46-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Police said 20-year-old Alexander Nguyen was sightseeing with his parents in Shannon Falls Provincial Park on July 1, 2025, when he vanished.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c640eeee2e32cb5ca443b94a63355e051d8fe24",
-      "url": "https://www.cbc.ca/news/canada/edmonton/peacock-theft-9.7181557?cmp=rss",
-      "title": "Stolen peacocks safe at home after being discovered in rural Alberta ditch, says RCMP",
-      "published_at": "2026-04-29T09:45:24-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A pair of purloined peacocks are safe at home after being stolen in the night from the parking lot of a roadside hotel in central Alberta.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3550a6b2bab1ed2ae34f68c90d1d09a150c2fa1e",
-      "url": "https://www.cbc.ca/sports/hockey/canada-sweden-quarterfinal-recap-u18-mens-hockey-slovakia-9.7181637?cmp=rss",
-      "title": "Canada's bid for third straight world U18 men's hockey title ends in quarterfinal loss",
-      "published_at": "2026-04-29T09:39:57-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's quest for a third straight world under-18 men's hockey championship came to an end Wednesday with a 4-2 quarterfinal loss to Sweden in Trencin, Slovakia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "81e3d2f39df849597402c46bc27287e95d4ecdab",
-      "url": "https://www.cbc.ca/news/canada/toronto/federal-government-security-spending-world-cup-9.7181605?cmp=rss",
-      "title": "Federal government to spend up to $145M for security at World Cup events in Toronto, Vancouver",
-      "published_at": "2026-04-29T09:21:45-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government is allocating up to $145 million for security during the upcoming World Cup.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bbbec9c6df3bad15bc38fe020c75e6d6383dc32c",
-      "url": "https://www.cbc.ca/news/canada/calgary/john-ware-junior-high-archer-gregory-class-action-lawsuit-payouts-9.7181552?cmp=rss",
-      "title": "Former students abused at Calgary junior high to receive $24K to $422K each in lawsuit settlement",
-      "published_at": "2026-04-29T09:12:56-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Calgary judge has approved payouts for more than 50 students who were abused by two former teachers at a local junior high school as the final step in a class-action lawsuit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ab533e82989b908c46155d56404eb008ddf17861",
-      "url": "https://www.cbc.ca/news/science/santa-marta-talks-9.7181309?cmp=rss",
-      "title": "Right now, 50 countries  — including Canada — are talking about how to quit fossil fuels",
-      "published_at": "2026-04-29T08:10:00-04:00",
-      "section": "World",
-      "summary_auto": "High-level talks to accelerate the shift from fossil fuels got underway Tuesday in Colombia's Caribbean city of Santa Marta, where President Gustavo Petro warned the world could \"reach a point of no return\" without the Amazon's role in regulating the climate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0b303d67f0313c0d51617e8a67d078571b80b442",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/conservative-deridder-liberals-floor-crossing-9.7181289?cmp=rss",
-      "title": "Conservative MP in Kitchener, Ont., says Liberals tried to convince her to cross the floor",
-      "published_at": "2026-04-29T08:08:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Conservative MP Kelly DeRidder, who represents the Ontario riding of Kitchener Centre, says she got a phone call from a member of the Liberal Party who tried to convince her to cross the floor. In a video post on social media, she says she was told switching sides would give her a better chance at winning the next election. She says she declined their offer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.919,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "06af7e1099884e03b28f985e67e28730b00ac868",
-      "url": "https://www.cbc.ca/sports/commonwealthgames/glagow-commonwealth-games-medals-revealed-april-29-9.7181365?cmp=rss",
-      "title": "'Inclusive' medals revealed for Glasgow 2026 Commonwealth Games",
-      "published_at": "2026-04-29T08:06:59-04:00",
-      "section": "World",
-      "summary_auto": "The Glasgow 2026 Commonwealth Games prize medal was revealed on Wednesday, featuring a world-first inclusive design inspired by the city's iconic landmarks and coat of arms.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4d1649ffd7a1518634520859225ea4942e501c8a",
-      "url": "https://www.cbc.ca/news/entertainment/the-devil-wears-prada-2-review-9.7181003?cmp=rss",
-      "title": "Anne Hathaway, Meryl Streep go full Family Channel in The Devil Wears Prada 2",
-      "published_at": "2026-04-29T08:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On the surface at least, The Devil Wears Prada 2 is another cute and fun story about the heights of fashion — if not as clearly focused or iconic as the original.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.685,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98f90dd9329051bebdb35e76cca70f80b8f457c9",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-cop-at-centre-of-corruption-probe-denied-bail-again-9.7157718?cmp=rss",
-      "title": "Toronto cop at centre of corruption probe denied bail again",
-      "published_at": "2026-04-29T07:59:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Toronto police officer described as the “genesis” of a months-long corruption probe was denied bail again Wednesday morning in Toronto.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4b3fbf9360359945ab7995c67972b652cd1c6313",
-      "url": "https://www.cbc.ca/news/canada/hamilton/general-motors-st-catharines-9.7181478?cmp=rss",
-      "title": "General Motors says it will spend $691 million on St. Catharines, Ont., engine plant",
-      "published_at": "2026-04-29T07:59:04-04:00",
-      "section": "Business",
-      "summary_auto": "General Motors says it will spend $691 million on its St. Catharines Propulsion Plant to support production of its\nlatest V-8 engines for full-sized trucks and SUVs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "679dbc36c53750caf98cd9f4973aac0f34a3b9bd",
-      "url": "https://www.cbc.ca/news/world/london-police-stabbing-terrorist-9.7181357?cmp=rss",
-      "title": "Double stabbing of Jewish men in London was terrorism, police say",
-      "published_at": "2026-04-29T07:14:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Two Jewish men were stabbed and injured in a London street on Wednesday, in what police called an act of terrorism. Police arrested a 45-year-old man on suspicion of attempted murder in the city's latest antisemitic attack.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.982,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "17ebef14a5f740d1f7d9af1489d5baa1ce01c6c6",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/lela-evans-medical-delays-9.7181180?cmp=rss",
-      "title": "N.L. health minister suggests residents 'sue the government,' 'sue me' if medical transport delays persist",
-      "published_at": "2026-04-29T06:59:58-04:00",
-      "section": "Canada",
-      "summary_auto": "Newfoundland and Labrador's health minister says she can’t accept her position if things don't change, and suggesting people sue her own government in the face of medical transport delays in northern Labrador.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e3e646d22ea1fc2e6457a7350e8ceb3c0e6b0d21",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-b-c-mass-shooting-families-suing-openai-9.7181214?cmp=rss",
-      "title": "Families of Tumbler Ridge, B.C., mass shooting victims suing OpenAI in California",
-      "published_at": "2026-04-29T06:07:22-04:00",
-      "section": "Canada",
-      "summary_auto": "The families of the victims of one of the worst mass shootings in Canadian history are taking OpenAI to court in California \"to pursue landmark damage awards,\" according to firm Rice Parsons Leoni & Elliott.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "247a4415f467b062c03c8bc8818f5cca96ffdd84",
-      "url": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-april-2026-9.7181093?cmp=rss",
-      "title": "Bank of Canada holds key interest rate at 2.25%, warning future decisions are clouded by uncertainty",
-      "published_at": "2026-04-29T05:50:22-04:00",
-      "section": "Canada",
-      "summary_auto": "While high oil prices could lead the central bank to hike rates in the future, trade tensions with the U.S. might require rate cuts to support the economy, Bank of Canada Governor Tiff Macklem explained.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1a0a933fd1ab717dfd84654f8f236d4aa181de06",
-      "url": "https://www.cbc.ca/news/world/iran-hegseth-nuclear-war-cost-grossi-9.7181108?cmp=rss",
-      "title": "Iran war has cost U.S. an estimated $25B thus far, Pentagon official says",
-      "published_at": "2026-04-29T05:45:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Pentagon's chief financial officer said Wednesday to a congressional committee that the war with Iran has cost an estimated $25 billion US so far, as Defence Secretary Pete Hegseth gave public testimony for the first time since airstrikes were launched on Feb. 28.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.767,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a80ed429829e4507bbdb345cfb9ece89c6135150",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/complete-adrenaline-rush-woman-captures-video-of-polar-bear-wandering-around-st-anthony-9.7180803?cmp=rss",
-      "title": "'Complete adrenaline rush': Woman captures video of polar wandering around St. Anthony, N.L.",
-      "published_at": "2026-04-29T05:39:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A video of a polar bear wandering around a St. Anthony home has gone viral on social media. Kristie Hurley was hanging out in her parents' home on Sunday when she spotted the bear just about 50-feet away, wandering around the yard.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3e00b84042140e48f192da62e4273cb37fdca582",
-      "url": "https://www.cbc.ca/news/canada/edmonton/ahs-grande-prairie-surgeries-postponed-sterilization-9.7179563?cmp=rss",
-      "title": "Woman airlifted for gallbladder surgery after tool sterilization issues at northern Alberta hospital",
-      "published_at": "2026-04-29T04:21:40-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Some elective surgeries in Grande Prairie have been postponed because of issues with sterilizing surgical tools. Alberta Health Services says emergency surgeries are unaffected, but one patient told CBC News her procedure was impacted.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "14af77599f307e6988c21cabdcdfe28dd14ab98c",
-      "url": "https://www.cbc.ca/news/world/us-scotus-haiti-syria-migrants-9.7181026?cmp=rss",
-      "title": "Trump's move to deport Haitian, Syrian immigrants heard by Supreme Court, with possible wider implications",
-      "published_at": "2026-04-29T03:23:47-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. Supreme Court heard arguments Wednesday over the legality of a move by Donald Trump's administration to revoke temporary legal protections for hundreds of thousands of U.S. residents from two countries, part of the Republican president's ​mass deportation agenda.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dbd6cd6ee0d21358a381f458e79e7decfb04eb3a",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/christian-centre-academy-misconduct-professional-teachers-regulatory-board-9.7180196?cmp=rss",
-      "title": "No 'blanket immunity' for historical charges against former private Christian school teachers: Sask. regulator",
-      "published_at": "2026-04-29T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Two former teachers at a private Christian school tried to argue they have immunity from professional disciplinary proceedings because the regulatory board didn't exist at the time of the allegations. That argument failed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1b2789ea8c1deffa3a7d3fb9732bfd93629b7972",
-      "url": "https://www.cbc.ca/news/canada/windsor/local-bowling-girl-heads-to-nationals-9.7180294?cmp=rss",
-      "title": "How bowling helps this girl with cerebral palsy defy the odds",
-      "published_at": "2026-04-29T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "For Zoey Merkestyn, bowling has been therapeutic and a great way to live with her cerebral palsy. Now, she is heading to national tournaments to tell the world anything is possible, if you put your mind to it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c0acde0d11b67cd756109ed8375cd7467676bc05",
-      "url": "https://www.cbc.ca/news/canada/calgary/cbc-news-poll-alberta-affordability-9.7180193?cmp=rss",
-      "title": "60% of Albertans say it’s difficult to meet monthly expenses: CBC News poll suggests",
-      "published_at": "2026-04-29T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The number of poll respondents who say it is somewhat or very difficult to meet monthly expenses has increased eight per cent since last spring and is at the highest level since CBC News began asking this same question, eight years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.388,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c93f0702f2307daba4e8b7d28b985e3b246378b8",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-budget-focuses-on-affordability-and-spending-pledges-flags-ongoing-fiscal-woes-9.7180179?cmp=rss",
-      "title": "N.L. budget focuses on affordability and spending pledges, flags ongoing fiscal woes",
-      "published_at": "2026-04-29T00:30:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Newfoundland and Labrador’s new Progressive Conservative government has unveiled the fiscal plan for its first full year in office, following through on promises made during last fall’s election but revealing grim projections for the province’s finances in the near future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98b4fe1aa9dc9c20e4fd7f5febe631cdd722382f",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/james-poker-innu-inquiry-9.7179072?cmp=rss",
-      "title": "James Poker aged out of a treatment centre at 16. Nobody told his father",
-      "published_at": "2026-04-29T00:30:00-04:00",
-      "section": "Canada",
-      "summary_auto": "James Poker aged out of the system at 16 and was abruptly released from a treatment facility in Saskatchewan. His father had no idea until he saw him on the streets of their remote northern community of Natuashish.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1051626af8db833cb25ea870495a7e86f29da8ff",
-      "url": "https://www.cbc.ca/news/canada/montreal/vaillancourt-fountain-art-quebec-san-francisco-9.7180497?cmp=rss",
-      "title": "Advocates still trying to save Quebec artist's fountain in San Francisco as dismantling starts",
-      "published_at": "2026-04-29T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The dismantling of a 55-year-old controversial fountain in San Francisco is beginning this week, much to the dismay of supporters of its 96-year-old sculptor from Quebec and the structure's historical significance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d0c8da9ec1f0cf9bf5f277f6e5ca81b3d9fab597",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-sceptres-branding-coca-cola-coliseum-9.7180074?cmp=rss",
-      "title": "'They deserve their space': Toronto Sceptres fans push for logo, branding at team's home rink",
-      "published_at": "2026-04-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "After two years of playing games at Coca-Cola Coliseum, fans of the PWHL's Toronto Sceptres say it's about time the team is properly represented with branding inside their home rink.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b13bdadf4676f166b2c61d26b82d5971538b478e",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-preview-april-2026-semifinals-9.7180315?cmp=rss",
-      "title": "PWHL playoff preview: Who will capture the Walter Cup?",
-      "published_at": "2026-04-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Four teams will begin the battle for the PWHL's third championship on Thursday, when the Boston Fleet host Game 1 against the Ottawa Charge (7 p.m. ET). The Montreal Victoire will open its series against the reigning champions, the Minnesota Frost, on Saturday (2 p.m. ET).",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cfd7b22f7fa3cbca23f5eaeb370d425e9d6ef407",
-      "url": "https://www.cbc.ca/news/business/federal-economic-update-oil-prices-9.7180752?cmp=rss",
-      "title": "Higher oil prices set to give feds a 'windfall' in next budget",
-      "published_at": "2026-04-29T00:00:00-04:00",
-      "section": "Business",
-      "summary_auto": "Global energy markets continue to reel from the ongoing disruption in the Strait of Hormuz. The price of oil is sitting around $100 US a barrel, but Tuesday's spring economic update used much lower prices to build the budget.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "38abf519ae00071b9e88e5d2f66d6208f1858998",
-      "url": "https://www.cbc.ca/news/politics/mail-searches-seu-9.7180828?cmp=rss",
-      "title": "Government again seeks to make it possible to search, seize small mail",
-      "published_at": "2026-04-28T16:52:45-04:00",
-      "section": "Canada",
-      "summary_auto": "The Carney government plans to make legislative changes to allow law enforcement to search and seize Canadians’ mail. The proposed legislative change is buried in the 2026 spring economic update.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8d87ea9e103edebea405a413581d27f7790fbdb2",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-reaction-ottawa-fiscal-update-9.7180247?cmp=rss",
-      "title": "Ottawa tables fiscal update boosted by surging oil prices, while industry maintains cautious approach",
-      "published_at": "2026-04-28T16:35:59-04:00",
-      "section": "Canada",
-      "summary_auto": "A better-than-expected fiscal update from the federal government on Tuesday was partly thanks to recent surging oil prices. But whether more investment will be in the industry's future depends on the outcome of memorandum of understanding negotiations between Alberta and the feds, a local economist says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.33,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c8c4210f55bea6d54758bc58162afd6a4db69d84",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/tow-truck-driver-rescues-moose-trapped-in-ice-9.7180811?cmp=rss",
-      "title": "'I can't leave him': Sask. tow truck driver rescues moose trapped in ice",
-      "published_at": "2026-04-28T16:19:43-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Clint Gottinger, a tow truck driver in rural Saskatchewan, was heading out to work when he noticed a moose trapped in some ice.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.654,
-        "subjectivity_hint": "medium"
       }
     }
   ]
