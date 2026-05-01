@@ -1,6 +1,6 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-01T09:06:13.591596-04:00",
+  "generated_at": "2026-05-01T10:49:22.856800-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
@@ -13,6 +13,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.235,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "761403d877fc9e60530b9b735107742937abaa17",
+      "url": "https://www.cbc.ca/news/canada/toronto/scam-qr-codes-bike-share-parking-machines-9.7183271?cmp=rss",
+      "title": "Scam QR codes are showing up on Bike Share bicycles, parking machines. Here's what to look for",
+      "published_at": "2026-05-01T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A sneaky scam using false QR codes is targeting those using Bike Share bikes and parking machines in Mississauga.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8416cbb33f40cb8dcd9fb45a050869c297a2871d",
+      "url": "https://www.cbc.ca/news/canada/calgary/janet-brown-poll-mou-pipeline-confidence-9.7182177?cmp=rss",
+      "title": "Pipe dream? Majority polled in Alberta don’t see new pipeline becoming a reality",
+      "published_at": "2026-05-01T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite the fanfare that accompanied its signing, a majority polled by Janet Brown Opinion Research for CBC News are not confident the memorandum of understanding between Prime Minister Mark Carney and Premier Danielle Smith will actually result in a new pipeline.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.16,
         "subjectivity_hint": "low"
       }
     },
@@ -121,6 +147,19 @@
       }
     },
     {
+      "id": "f316b13714ecaeaae46ae5757ed84f099fd153f4",
+      "url": "https://www.cbc.ca/news/indigenous/first-nations-metis-distinctions-based-funding-9.7183268?cmp=rss",
+      "title": "First Nations, Métis leaders critical of lack of distinctions-based funding in spring update",
+      "published_at": "2026-05-01T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "First Nations and Métis leaders are criticizing the federal government's spring economic update for a lack of distinctions-based funding for Indigenous communities in its multi-billion \"Canada Strong\" plan.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1ae359a50577359ec26e0a09dc3362c03f2b0dd5",
       "url": "https://www.cbc.ca/news/health/artificial-intelligence-emergency-rooms-9.7181509?cmp=rss",
       "title": "Paging Dr. AI to the ER? Artificial intelligence shows promise in emergency room diagnosis",
@@ -199,15 +238,15 @@
       }
     },
     {
-      "id": "86c1a1aee91103ed450e4991052378250aac2fe3",
-      "url": "https://www.cbc.ca/news/politics/military-recruits-failure-defence-training-9.7183537?cmp=rss",
-      "title": "Leaked report shows basic training pass rate fell after military recruitment changes",
+      "id": "fb6686cee51d49e87dfaccf0e6d66e932c159c9a",
+      "url": "https://www.cbc.ca/news/politics/military-recruiting-defence-mobilization-9.7183405?cmp=rss",
+      "title": "Defence chief set to pitch ‘options’ for massive troop surge as military strains under its own limits",
       "published_at": "2026-04-30T15:31:07-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": -0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -247,6 +286,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "86c1a1aee91103ed450e4991052378250aac2fe3",
+      "url": "https://www.cbc.ca/news/politics/military-recruits-failure-defence-training-9.7183537?cmp=rss",
+      "title": "Leaked report shows basic training pass rate fell after military recruitment changes",
+      "published_at": "2026-04-30T14:17:18-04:00",
+      "section": "Canada",
+      "summary_auto": "A higher number of military recruits are failing to pass basic training since changes were implemented to boost enrolment, says a leaked report circulating within Canada's defence community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
         "subjectivity_hint": "low"
       }
     },
@@ -342,24 +394,11 @@
       }
     },
     {
-      "id": "067fb6632b9b70ad6fe3a88bc66e62e295ef50d8",
-      "url": "https://www.cbc.ca/news/business/trump-authorizes-canada-wyoming-pipeline-9.7183277?cmp=rss",
-      "title": "Trump signs order to revive parts of cancelled Keystone XL pipeline",
-      "published_at": "2026-04-30T12:33:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "59811444babcb1c79ba3dd522ad7da4ac5798d4b",
       "url": "https://www.cbc.ca/news/entertainment/banksy-statue-london-9.7183201?cmp=rss",
       "title": "New Banksy statue appears in London",
       "published_at": "2026-04-30T12:27:54-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "The anonymous street artist took credit on social media for a larger-than-life statue of a suited man walking off a plinth with a flag covering his face.",
       "bias_heuristic": {
         "article_type": "News",
@@ -409,19 +448,6 @@
     {
       "id": "66d6796911e3be99fddc4c74794e484e0df3e503",
       "url": "https://www.cbc.ca/news/canada/calgary/police-investigate-children-death-northwest-9.7183203?cmp=rss",
-      "title": "Police investigating after 2 children found dead in a vehicle in Calgary",
-      "published_at": "2026-04-30T11:08:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police say two children were found deceased in a vehicle in northwest Calgary. The deaths are considered suspicious, and the homicide unit is investigating.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "66d6796911e3be99fddc4c74794e484e0df3e503",
-      "url": "https://www.cbc.ca/news/canada/calgary/police-investigate-children-death-northwest-9.7183203?cmp=rss",
       "title": "Police investigating after 2 children found dead in northwest Calgary",
       "published_at": "2026-04-30T11:08:59-04:00",
       "section": "Canada",
@@ -442,71 +468,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dce08b85dc06fefb244aa9c092b391ec8485bcf3",
-      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-david-wallace-james-difiore-9.7183052?cmp=rss",
-      "title": "Podcasters accused of ‘harassment’ campaign against former AHS leaders want search order tossed",
-      "published_at": "2026-04-30T10:39:19-04:00",
-      "section": "Canada",
-      "summary_auto": "A lawyer for two podcasters asked a judge Wednesday to set aside a contempt citation and an “extraordinary” court order that was used to search their homes last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8f33fa649828ee816548057399c9768bfd05dd2",
-      "url": "https://www.cbc.ca/news/indigenous/itac-msbs-conference-funding-9.7182655?cmp=rss",
-      "title": "Indigenous Tourism Association of Canada 'cash flow' issues hurting small businesses owed money",
-      "published_at": "2026-04-30T10:28:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Carey Perkins is among several small business owners counting on funding through the Indigenous Tourism Association of Canada they have not received.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb510079564ec28713c618e910a19faa38c90f15",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-e-bikes-9.7182465?cmp=rss",
-      "title": "Want an EV for under $5,000? How about this option?",
-      "published_at": "2026-04-30T10:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In this issue of our environmental newsletter, we look at trends around a cheaper kind of electric vehicle: e-bikes; check out CBC's own e-bike fleet; and find out how laptops are getting recycled in Iqaluit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.168,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "06710b2d7f969a1144667c064b944a55579fed8b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/denise-ann-williams-missing-cape-breton-australia-hiker-9.7183046?cmp=rss",
-      "title": "RCMP identify Australian woman missing in Cape Breton Highlands National Park",
-      "published_at": "2026-04-30T09:57:46-04:00",
-      "section": "Canada",
-      "summary_auto": "Denise Ann Williams, 62, was last heard from April 15 when she indicated she was travelling to Chéticamp, N.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c3afc5bf1d98aaf8e600b24911a17a9a41488fe0",
-      "url": "https://www.cbc.ca/news/canada/edmonton/livestory/elections-alberta-electors-list-9.7182971?cmp=rss",
-      "title": "Alberta separatist group ordered to pull down list with millions of voters' personal information",
-      "published_at": "2026-04-30T09:15:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
