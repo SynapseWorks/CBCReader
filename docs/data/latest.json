@@ -1,18 +1,343 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-01T15:02:51.868613-04:00",
+  "generated_at": "2026-05-02T08:56:10.954352-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "b0b3ea40e8c6a9472daece797b9e5d0a882ed47c",
-      "url": "https://www.cbc.ca/radio/asithappens/government-watchdog-rise-increase-9.7183617?cmp=rss",
-      "title": "Public service watchdog calls for $14M budget increase amid 'steep' climb in complaints",
-      "published_at": "2026-05-01T09:48:04-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Public Sector Integrity Commissioner Harriet Solloway says the integrity and whistleblowing system will struggle to function without a funding boost.",
+      "id": "184d36c59bf60cd5d297d3ee4fb59e1cf1356fd8",
+      "url": "https://www.cbc.ca/news/world/israel-airstrikes-lebanon-ceasefire-9.7185537?cmp=rss",
+      "title": "Israeli airstrikes on southern Lebanon kill at least 7 despite ceasefire deal",
+      "published_at": "2026-05-02T04:39:09-04:00",
+      "section": "World",
+      "summary_auto": "Israeli airstrikes on southern Lebanon killed at least seven people and wounded others on Saturday despite a ceasefire between Israel and Hezbollah, officials said.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.062,
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1367e779ae51fde79fcac2a2efa647a517c46a5e",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tolls-us-sanctions-9.7185507?cmp=rss",
+      "title": "U.S. warns shipping firms they could face sanctions over paying Iran's Strait of Hormuz tolls",
+      "published_at": "2026-05-02T01:41:47-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Iran effectively closed the strait to normal traffic by attacking and threatening to attack ships after the U.S. and Israel launched a war on Feb. 28.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.886,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6dbcbf6b9a89da76ec612927b5e060e0a05093bf",
+      "url": "https://www.cbc.ca/news/world/spirit-airlines-ceasing-operations-9.7185446?cmp=rss",
+      "title": "Spirit Airlines shuts down, blames cost of fuel due to Middle East war",
+      "published_at": "2026-05-02T01:07:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef6214414055a6b1c43db79dabca50a33f64c0f1",
+      "url": "https://www.cbc.ca/news/canada/lottery-winnings-privacy-changes-ontario-bc-9.7185252?cmp=rss",
+      "title": "Who won the lottery? Why you may never know the full name of some jackpot winners going forward",
+      "published_at": "2026-05-02T00:01:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9e071ae652a7e86ac9d7b3bdf3010cfe56d3d249",
+      "url": "https://www.cbc.ca/news/science/ontario-invasive-lanternfly-spread-9.7183557?cmp=rss",
+      "title": "A destructive, invasive insect has turned up in Ontario. In the U.S., people are told to stomp it",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A recent spotted lanternfly discovery in St. Catharines, Ont., is renewing concern about the destructive insect reaching Canada from the United States. Experts say the invasive insect poses a serious threat to vineyards, fruit trees and hardwoods because it feeds on plant sap and can kill grapevines.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6a40a341674d988f0fac75582c5eac2e103473cc",
+      "url": "https://www.cbc.ca/news/canada/hamilton/nabil-askafe-parents-speak-out-9.7183725?cmp=rss",
+      "title": "'He was the first one to call me mom,' mother says of teen killed in Hamilton mall shooting",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nabil Askafe's mother and father sat down for an interview with CBC Hamilton this week, days after the 16-year-old was shot and killed at Jackson Square mall in Hamilton.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a27cf198bfb5cd353e1b768689b267cb338fa72c",
+      "url": "https://www.cbc.ca/news/canada/calgary/sauna-rave-calgary-toronto-9.7183746?cmp=rss",
+      "title": "Why saunas are becoming a hot new place to party",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Picture this: a DJ, a makeshift dance floor and drinks. Only it’s 8 p.m. on a Wednesday and there’s no alcohol — instead, there's a sauna.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0dfc2b0629fb612873d64265f0e9f50030645107",
+      "url": "https://www.cbc.ca/news/politics/public-backlash-president-iran-foot-ball-federation-granted-canadian-visa-9.7184902?cmp=rss",
+      "title": "Iranian soccer official says he's talking to authorities after former IRGC commander denied entry to Canada",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A senior Iranian soccer official says he’s been in contact with \"relevant authorities\" after Canada’s immigration minister confirmed the government revoked travel documents granted to  a former commander of Iran's Islamic Revolutionary Guards Corps to attend a FIFA meeting in Vancouver.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4c4b67973252be595ca140e185a4634cc3e2b619",
+      "url": "https://www.cbc.ca/news/world/women-journalists-online-violence-report-9.7183037?cmp=rss",
+      "title": "Online harassment against female journalists is a growing problem, UN report suggests",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A new UN report released Thursday puts numbers to what many female journalists already know: Online violence against women in the media is growing, becoming increasingly sophisticated, and is affecting female journalists both professionally and personally.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "36e4a7fdc62338dc1516b13be69f1e47f474d6dd",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track-world-athletics-relays-canada-2026-may-2-9.7182182?cmp=rss",
+      "title": "Canadian sprinters set world record at World Athletics Relays",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian 4x100-metre mixed relay team of Eliezer Adjibi, Marie-Éloise Leclair, Duan Asemota, and Audrey Leduc set a world record at the World Athletics Relays on Saturday in Gaborone, Botswana.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "de8038200f8c71a310763201eaf14e1942a5313a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-lawsuit-shooting-9.7184662?cmp=rss",
+      "title": "Why the families of Tumbler Ridge shooting victims may face 'difficult' issues with OpenAI lawsuits",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The families of victims of the Tumbler Ridge, B.C., school shooting who are suing OpenAI could face some significant legal hurdles in their attempt to hold the artificial intelligence company partially responsible for the attack.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "9e071ae652a7e86ac9d7b3bdf3010cfe56d3d249",
+      "url": "https://www.cbc.ca/news/science/ontario-invasive-lanternfly-spread-9.7183557?cmp=rss",
+      "title": "Invasive spotted lanternfly found in Ontario. U.S. officials say stomp it",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "A recent spotted lanternfly discovery in St. Catharines, Ont., is renewing concern about the destructive insect reaching Canada from the United States. Experts say the invasive insect poses a serious threat to vineyards, fruit trees and hardwoods because it feeds on plant sap and can kill grapevines.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4fc0006e1f9a3be4a3d5ac48a49703375cbf1efd",
+      "url": "https://www.cbc.ca/news/canada/toronto/raptors-win-cavaliers-game-6-9.7184767?cmp=rss",
+      "title": "Toronto Raptors force Game 7 after OT win against Cavaliers",
+      "published_at": "2026-05-01T18:47:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "RJ Barrett hit a late, high-bouncing game winner in overtime as the Toronto Raptors extended their season with a 112-110 win over the Cleveland Cavaliers in Friday's Game 6 at Scotiabank Arena.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "88b3be1c1917a6cb063960b571cd317e49c70b5c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/frog-lake-cree-language-app-9.7185348?cmp=rss",
+      "title": "These First Nations students are teaching themselves — and their peers — to speak Cree",
+      "published_at": "2026-05-01T18:03:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Vern Lewis is in his first year teaching Aboriginal studies at a Frog Lake First Nation high school, and he's putting his computer science skills to work by using technology to teach tradition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "73183a027c00f9f4ef8bb5799f4a072ad1047917",
+      "url": "https://www.cbc.ca/news/world/qatar-donated-747-trump-summer-readiness-9.7185378?cmp=rss",
+      "title": "Qatar-donated 747 ready for Trump's use as fill-in Air Force One this summer: USAF",
+      "published_at": "2026-05-01T17:30:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. Air Force has finished modifying and testing a Boeing 747 jet donated by Qatar and expects to have it ready for U.S. President Donald Trump to use this summer, the service announced late Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "154dd0c1b4e1199c336b5c672f50557e7de51cd7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vernon-restaurant-ai-robot-kitchen-9.7185000?cmp=rss",
+      "title": "A robot fried this rice? B.C. restaurant embraces AI-powered help in the kitchen",
+      "published_at": "2026-05-01T16:17:13-04:00",
+      "section": "Canada",
+      "summary_auto": "Royal Garden, Vernon's oldest Chinese restaurant, has just installed a pair of AI-powered machines that will be tasked with preparing stir fries, chow mein and chop suey dishes in just a couple of minutes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bee13f7d358ea7ca0cb2df6461d105595ea95624",
+      "url": "https://www.cbc.ca/news/world/us-troops-germany-withdraw-nato-trump-9.7185198?cmp=rss",
+      "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces",
+      "published_at": "2026-05-01T16:14:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d2c802effcbfa96195119d970898187a92fec23f",
+      "url": "https://www.cbc.ca/news/world/trump-pressure-cuba-sanctions-government-9.7185171?cmp=rss",
+      "title": "Trump signs executive order to broaden sanctions against Cuban government",
+      "published_at": "2026-05-01T15:10:00-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump signed an executive order on Friday ‌broadening U.S. sanctions against the Cuban government, two White House officials told Reuters, as he seeks to put more pressure on Havana after ousting Venezuela's leader.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.36,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c9ddb9233fd2c83fb6b05d8c55a82aa6e661fd61",
+      "url": "https://www.cbc.ca/news/canada/calgary/banff-rescues-spring-hiking-9.7184390?cmp=rss",
+      "title": "Deep snow triggers multiple rescues in Banff National Park",
+      "published_at": "2026-05-01T14:01:52-04:00",
+      "section": "Canada",
+      "summary_auto": "Parks Canada has carried out three rescues in Banff National Park in recent weeks, all linked to deep, lingering snow that’s obscuring trails and slowing hikers. Officials warn conditions will persist through May and are urging people to check the Parks Canada website for trail reports before heading out for a hike.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "322b82150f2eff6ce2083a240650d0a5dfe6ad5b",
+      "url": "https://www.cbc.ca/news/entertainment/spotify-verified-music-humans-ai-9.7184376?cmp=rss",
+      "title": "Spotify's new 'Verified' badge confirms musicians like Taylor Swift, Drake aren't AI",
+      "published_at": "2026-05-01T13:30:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "\"New Music Friday\" might look a little different when you open your Spotify app. The world's largest music streaming service has rolled out a new \"Verified by Spotify\" badge, in a bid to show which artists aren't AI.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "10aeef5a313c4ea18d36cbf98e998ea14960feb5",
+      "url": "https://www.cbc.ca/news/health/ozempic-semaglutide-generic-version-canada-9.7184915?cmp=rss",
+      "title": "Health Canada approves 2nd generic version of Ozempic — and it's Canadian",
+      "published_at": "2026-05-01T13:08:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Health Canada has approved the second generic version of brand-name Ozempic, this one manufactured by Canadian company Apotex.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "634557ace02df383fc93141d895f321b9af107d9",
+      "url": "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-war-powers-deadline-congress-9.7184875?cmp=rss",
+      "title": "Trump tells U.S. Congress that ceasefire 'terminated' Iran conflict, as war powers deadline arrives",
+      "published_at": "2026-05-01T12:38:36-04:00",
+      "section": "World",
+      "summary_auto": "In a letter to congressional leaders on Friday, U.S. President Donald Trump declared that a ceasefire had \"terminated\" hostilities against Iran, as he sought to bolster his argument that he does not need lawmakers' permission to continue the conflict.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8099fcac01b5eb46b818d2faaa2a88af99ff4b4d",
+      "url": "https://www.cbc.ca/news/canada/ottawa/how-alto-plans-to-buy-out-property-owners-for-its-high-speed-rail-plans-9.7184084?cmp=rss",
+      "title": "How a Crown corporation plans to buy out property owners for its high-speed rail plans",
+      "published_at": "2026-05-01T11:22:19-04:00",
+      "section": "Canada",
+      "summary_auto": "The Crown corporation behind Canada’s proposed high-speed rail line has released new details on how it plans to expropriate and compensate land owners to carry out the multibillion-dollar project.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d5d6119e31088a0cbeb7a1405deeb58f3d1c1b6f",
+      "url": "https://www.cbc.ca/news/entertainment/missing-oscar-pavel-talankin-found-9.7184674?cmp=rss",
+      "title": "Missing Oscar found after director forced to check it on a flight out of JFK",
+      "published_at": "2026-05-01T11:19:27-04:00",
+      "section": "Entertainment",
+      "summary_auto": "After being forced to check his Academy Award on a trans-Atlantic flight, recent winner Pavel Talankin's Oscar went missing before an airline tracked it down two days later.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fc2be3c1721f04f7e3b84e9c08017d858e5e4e65",
+      "url": "https://www.cbc.ca/news/canada/ottawa/kendrick-barling-air-force-major-pleads-guilty-smuggling-guns-9.7064476?cmp=rss",
+      "title": "Air force major and decorated marksman pleads guilty to illegally importing firearms",
+      "published_at": "2026-05-01T10:42:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An air force officer and decorated sharpshooter has pleaded guilty to illegally importing eight firearms after gun parts — some without serial numbers — were found stashed among his clothes and shoes when he moved back to Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b574b73d7027700c3045c295ba5c8461cf0eb60d",
+      "url": "https://www.cbc.ca/news/canada/north/behchoko-shelter-in-place-lockdown-9.7184623?cmp=rss",
+      "title": "RCMP end shelter-in-place order for Behchokǫ̀ and area",
+      "published_at": "2026-05-01T10:26:56-04:00",
+      "section": "Canada",
+      "summary_auto": "RCMP say several individuals are in custody following a police operation in the N.W.T. community that began early Friday afternoon and ended shortly after 8 p.m. RCMP say their investigation continues and residents can expect to see an increased police presence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -32,10 +357,10 @@
     {
       "id": "565c41d32c2602fa03f4d415e75e117826351adc",
       "url": "https://www.cbc.ca/news/canada/calgary/man-charged-first-degree-murder-children-death-northwest-9.7184460?cmp=rss",
-      "title": "Man charged with 1st-degree murder in deaths of 2 children found in northwest Calgary",
+      "title": "Calgary father charged with 1st-degree murder in deaths of 2 children",
       "published_at": "2026-05-01T09:17:18-04:00",
       "section": "Top Stories",
-      "summary_auto": "A man has been charged with two counts of first-degree murder in the deaths of two children found in a vehicle in northwest Calgary on Thursday.",
+      "summary_auto": "A father has been charged with two counts of first-degree murder in the deaths of two young children found in a vehicle in northwest Calgary on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.919,
@@ -47,7 +372,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/mandarin-cofounder-obit-9.7184468?cmp=rss",
       "title": "James Chiu, president and co-founder of iconic Mandarin restaurant chain, dead at 78",
       "published_at": "2026-05-01T09:13:20-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "James Chiu died on Wednesday just days after his 78th birthday after a battle with pulmonary fibrosis, his family said.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,285 +385,12 @@
       "url": "https://www.cbc.ca/news/world/al-mughayyir-teen-killed-9.7183341?cmp=rss",
       "title": "'I wanted to protect him': Mother mourns teen slain near school amid settler violence in West Bank",
       "published_at": "2026-05-01T09:07:44-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "More than a week after a shooting near a boys' school in a West Bank village left a teenage boy and a man in his 30s dead, the community remains on edge, and residents say they fear more violence at the hands of Israeli settlers and the military.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.957,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c6a18d5232af748cfffc71564ff6322f9aa6e000",
-      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-drone-9.7184356?cmp=rss",
-      "title": "4 killed in Israeli strikes in south Lebanon as Hezbollah drone wounds 2 Israeli soldiers",
-      "published_at": "2026-05-01T08:22:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Israel carried out several airstrikes in southern Lebanon on Friday, killing at least four people, while the militant Hezbollah group said it fired rockets and drones, including one that crashed in northern Israel and wounded two soldiers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4b3ac3a471cf6f60633aabf0c19c63bd51e91e47",
-      "url": "https://www.cbc.ca/news/politics/government-boosting-airline-fines-air-passenger-rights-9.7183609?cmp=rss",
-      "title": "Feds to quadruple max fine for airlines violating air passenger bill of rights to $1M",
-      "published_at": "2026-05-01T07:56:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fc85c25de9b48977404dccc4ed4f623ebd3f4ae6",
-      "url": "https://www.cbc.ca/news/canada/toronto/durham-police-highway-401-wrongway-crash-9.7183544?cmp=rss",
-      "title": "2 police officers to stand trial in highway crash east of Toronto that killed baby, grandparents",
-      "published_at": "2026-05-01T06:37:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Two Durham police officers will stand trial in connection with a multi-vehicle collision in April 2024 that killed four people — including two grandparents and their infant grandchild — after police chased a suspect driving the wrong way on Canada’s busiest highway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.961,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f95832ff5f969a4542ea66238edbaf38b830357",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-officers-manslaughter-deaths-trial-defence-9.7183935?cmp=rss",
-      "title": "Man accused in Edmonton police officers' deaths being scapegoated: defence",
-      "published_at": "2026-05-01T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Court of King's Bench Justice John Little heard closing arguments Thursday in the case against a 21-year-old man who faces more than a dozen charges from the shooting that claimed the lives of Const. Travis Jordan and Const. Brett Ryan.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.235,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "761403d877fc9e60530b9b735107742937abaa17",
-      "url": "https://www.cbc.ca/news/canada/toronto/scam-qr-codes-bike-share-parking-machines-9.7183271?cmp=rss",
-      "title": "Scam QR codes are showing up on Bike Share bicycles, parking machines. Here's what to look for",
-      "published_at": "2026-05-01T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A sneaky scam using false QR codes is targeting those using Bike Share bikes and parking machines in Mississauga.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8416cbb33f40cb8dcd9fb45a050869c297a2871d",
-      "url": "https://www.cbc.ca/news/canada/calgary/janet-brown-poll-mou-pipeline-confidence-9.7182177?cmp=rss",
-      "title": "Pipe dream? Majority polled in Alberta don’t see new pipeline becoming a reality",
-      "published_at": "2026-05-01T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite the fanfare that accompanied its signing, a majority polled by Janet Brown Opinion Research for CBC News are not confident the memorandum of understanding between Prime Minister Mark Carney and Premier Danielle Smith will actually result in a new pipeline.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.16,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d2d493ce2d7df0f2313765f985665681c4181c0",
-      "url": "https://www.cbc.ca/player/play/9.7183202?cmp=rss",
-      "title": "Would Manitoba's social media ban actually protect kids?",
-      "published_at": "2026-05-01T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Manitoba Premier Wab Kinew says he wants to ban social media and artificial intelligence chatbots for youth. But would this plan keep youth healthier and safer? CBC reporter Bryce Hoye investigates.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.512,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8416cbb33f40cb8dcd9fb45a050869c297a2871d",
-      "url": "https://www.cbc.ca/news/canada/calgary/janet-brown-poll-mou-pipeline-confidence-9.7182177?cmp=rss",
-      "title": "Will the MOU result in a pipeline from Alberta? Most polled don’t think so",
-      "published_at": "2026-05-01T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Despite the fanfare that accompanied its signing, a majority polled by Janet Brown Opinion Research for CBC News are not confident the memorandum of understanding between Prime Minister Mark Carney and Premier Danielle Smith will actually result in a new pipeline.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.388,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9e9417d3a6fc5c2b31933c7109d045c5a8ab9da4",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/jack-and-lilly-sullivan-missing-one-year-9.7182916?cmp=rss",
-      "title": "1 year later, few answers: the 'profoundly rare' disappearance of Lilly and Jack Sullivan",
-      "published_at": "2026-05-01T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "In a country where most missing children are found within days, Lilly and Jack Sullivan’s case stands out: two young siblings, disappearing at the same time in a way investigators still can’t explain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.36,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "09f0a4247bf642fb52bdfcc29b28b28cc7599f78",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/moltex-energy-canada-sale-9.7183180?cmp=rss",
-      "title": "N.B. nuclear company selling ‘distressed assets’ to B.C. buyer",
-      "published_at": "2026-05-01T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A company that was aiming to build its first small modular nuclear reactor in New Brunswick is putting some of its assets up for sale as its future in the province is increasingly in doubt.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "69224dc9962342ca96c22809c104a43354c53c10",
-      "url": "https://www.cbc.ca/news/world/australia-indigenous-girl-murdered-9.7183933?cmp=rss",
-      "title": "Protesters clash with police in Australia after suspected killer of Indigenous girl arrested",
-      "published_at": "2026-05-01T00:56:13-04:00",
-      "section": "World",
-      "summary_auto": "Hundreds of protesters clashed with Australian emergency services workers in a remote town following the arrest of a man suspected ‌of murdering a five-year-old Indigenous girl, police said on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.969,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4cb9e218fc8a0d783774f2826091cecce08971c8",
-      "url": "https://www.cbc.ca/news/world/supreme-court-voting-rights-act-trump-midterms-9.7183216?cmp=rss",
-      "title": "The U.S. Supreme Court's ruling on the Voting Rights Act could give Trump a lifeline",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The conservative majority on the U.S. Supreme Court has effectively neutralized a hugely significant piece of voting rights legislation designed to ensure African-American representation in Washington, and the resulting consequences could be wide-reaching and election-changing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.93,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "df077651f898b0742890946f15881f401b0f4a48",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-funding-disadvantaged-schools-9.7182760?cmp=rss",
-      "title": "How Quebec funds disadvantaged schools — and why some say it can hurt kids in need",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "For nearly 30 years, Quebec has used a system to determine which schools should get extra funding and help based on how disadvantaged they are compared to others. But critics say that system is flawed, outdated and can cause harm to young students.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c8ea5a39e32d0b2452be3e3c3547cd661a28a722",
-      "url": "https://www.cbc.ca/news/health/seasonal-allergy-survival-guide-9.7183179?cmp=rss",
-      "title": "How to survive if you’re suffering through Canada’s 'longer and more severe' allergy seasons",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Seasonal allergies are getting worse in Canada, with longer and stronger pollen seasons, largely thanks to climate change. Here's a primer on the hardest-hit cities, the latest science and what treatments can help you survive another allergen-filled spring and summer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.225,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c0adb7fc98b152e1fce99e1b1c6af39b55de97c",
-      "url": "https://www.cbc.ca/news/canada/home-affordability-income-9.7181279?cmp=rss",
-      "title": "Why a salary of $115K isn't enough to purchase a house in some parts of Canada",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Thirty years ago, it was normal for a grocery store produce manager or part-time nurse to find the five per cent downpayment needed to buy a home, says mortgage broker Ron Butler. Those days are gone. Now, someone earning $115,000 a year would have trouble buying a house in parts of Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f316b13714ecaeaae46ae5757ed84f099fd153f4",
-      "url": "https://www.cbc.ca/news/indigenous/first-nations-metis-distinctions-based-funding-9.7183268?cmp=rss",
-      "title": "First Nations, Métis leaders critical of lack of distinctions-based funding in spring update",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "First Nations and Métis leaders are criticizing the federal government's spring economic update for a lack of distinctions-based funding for Indigenous communities in its multi-billion \"Canada Strong\" plan.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1ae359a50577359ec26e0a09dc3362c03f2b0dd5",
-      "url": "https://www.cbc.ca/news/health/artificial-intelligence-emergency-rooms-9.7181509?cmp=rss",
-      "title": "Paging Dr. AI to the ER? Artificial intelligence shows promise in emergency room diagnosis",
-      "published_at": "2026-05-01T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "As hospitals increase their use of artificial intelligence to improve patient care, a U.S. study has found that an AI tool has proven effective at making emergency medical diagnoses — even better than actual doctors, in some cases.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2af94c62561d2e75e4271bf7e4e2881ece488df7",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/formal-offer-vancouver-whitecaps-las-vegas-9.7183721?cmp=rss",
-      "title": "Billionaire makes formal bid to relocate Vancouver Whitecaps to Las Vegas",
-      "published_at": "2026-04-30T16:24:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A spokesperson for billionaire Grant Gustavson confirmed to CBC News he is fronting an investment group's bid for the team, with the intention to move them to Las Vegas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4050c7e7bfde496e9f098c106b546cb9ea930281",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/wylie-vermette-dangerous-driving-death-june-2024-9.7183733?cmp=rss",
-      "title": "'Blatant recklessness': Saskatoon man faces jail time for fatal crash",
-      "published_at": "2026-04-30T15:53:59-04:00",
-      "section": "Canada",
-      "summary_auto": "Wylie Vermette, 25, pleaded guilty to dangerous driving causing the death of Natalie Gardipy in a crash that happened in Saskatoon on June 11, 2024. Lawyers recommended a sentence of two years in jail, but the judge said he needed some time to think about the case and will give his decision in June.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fb6686cee51d49e87dfaccf0e6d66e932c159c9a",
-      "url": "https://www.cbc.ca/news/politics/military-recruiting-defence-mobilization-9.7183405?cmp=rss",
-      "title": "Defence chief set to pitch ‘options’ for massive troop surge as military strains under its own limits",
-      "published_at": "2026-04-30T15:31:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "199a323c454a9596f12bfd83dd9405d2d15038f4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-congress-vancouver-palestinian-israeli-tensions-9.7183373?cmp=rss",
-      "title": "Palestinian-Israeli tensions take centre stage at 76th FIFA Congress in Vancouver",
-      "published_at": "2026-04-30T15:25:09-04:00",
-      "section": "World",
-      "summary_auto": "Palestinian Football Federation president Jibril Rajoub refused to shake hands with his Israeli counterpart on stage at the Vancouver Convention Centre in front of hundreds of international soccer representatives.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
       }
     }
   ]
