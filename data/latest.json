@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-02T08:56:10.954352-04:00",
+  "generated_at": "2026-05-02T10:41:18.279433-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "8dbe581849d3069b58602ea53d4974af42a44cd9",
+      "url": "https://www.cbc.ca/news/world/kherson-drone-strike-russia-ukraine-9.7185543?cmp=rss",
+      "title": "Drone kills 2 in Kherson minibus strike, as Russia claims front-line progress in Ukraine",
+      "published_at": "2026-05-02T04:48:50-04:00",
+      "section": "World",
+      "summary_auto": "Two people were killed after a Russian drone attack on a minibus in the southern Ukrainian city of Kherson, local officials said Saturday, in the latest barrage of civilian areas, a hallmark of Moscow's full-scale invasion of its neighbour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "184d36c59bf60cd5d297d3ee4fb59e1cf1356fd8",
       "url": "https://www.cbc.ca/news/world/israel-airstrikes-lebanon-ceasefire-9.7185537?cmp=rss",
@@ -19,10 +32,10 @@
     {
       "id": "1367e779ae51fde79fcac2a2efa647a517c46a5e",
       "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tolls-us-sanctions-9.7185507?cmp=rss",
-      "title": "U.S. warns shipping firms they could face sanctions over paying Iran's Strait of Hormuz tolls",
+      "title": "U.S. warns shipping firms could face sanctions over paying Iran's Strait of Hormuz tolls",
       "published_at": "2026-05-02T01:41:47-04:00",
       "section": "Top Stories",
-      "summary_auto": "Iran effectively closed the strait to normal traffic by attacking and threatening to attack ships after the U.S. and Israel launched a war on Feb. 28.",
+      "summary_auto": "Iran effectively closed the Strait of Hormuz to normal traffic by attacking and threatening to attack ships after the U.S. and Israel launched a war on Feb. 28.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.886,
@@ -69,6 +82,19 @@
       }
     },
     {
+      "id": "a27cf198bfb5cd353e1b768689b267cb338fa72c",
+      "url": "https://www.cbc.ca/news/canada/calgary/sauna-rave-calgary-toronto-9.7183746?cmp=rss",
+      "title": "Why saunas are becoming a hot new place to party",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Picture this: a DJ, a makeshift dance floor and drinks. Only it’s 8 p.m. on a Wednesday and there’s no alcohol — instead, there's a sauna.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "6a40a341674d988f0fac75582c5eac2e103473cc",
       "url": "https://www.cbc.ca/news/canada/hamilton/nabil-askafe-parents-speak-out-9.7183725?cmp=rss",
       "title": "'He was the first one to call me mom,' mother says of teen killed in Hamilton mall shooting",
@@ -82,15 +108,28 @@
       }
     },
     {
-      "id": "a27cf198bfb5cd353e1b768689b267cb338fa72c",
-      "url": "https://www.cbc.ca/news/canada/calgary/sauna-rave-calgary-toronto-9.7183746?cmp=rss",
-      "title": "Why saunas are becoming a hot new place to party",
+      "id": "b8c927322fdfa3b44ae6275de2536b68b2465ec6",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/jonathans-junction-ontario-oddities-map-highways-waterloo-student-9.7184759?cmp=rss",
+      "title": "This map tracks some of the strangest quirks in Ontario's highway network",
       "published_at": "2026-05-02T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Picture this: a DJ, a makeshift dance floor and drinks. Only it’s 8 p.m. on a Wednesday and there’s no alcohol — instead, there's a sauna.",
+      "summary_auto": "Jonathan Silverman, a first year civil engineering student at the University of Waterloo, has created an Ontario Oddities map that highlights weird things people might see on a road trip, including signs that are wrong, abandoned bridges and roadways or even submerged highways.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
+        "sentiment": -0.7,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "26706a0dcfd8826ee9ac883136248afd4c13d9aa",
+      "url": "https://www.cbc.ca/news/canada/toronto/cherry-blossoms-high-park-scroller-9.7184596?cmp=rss",
+      "title": "IN PHOTOS | Toronto's High Park cherry blossoms in peak bloom",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Every spring, tens of thousands of people flock to High Park in Toronto to catch a glimpse of one of the city’s most fleeting spectacles: the cherry blossom bloom.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -123,14 +162,27 @@
     {
       "id": "36e4a7fdc62338dc1516b13be69f1e47f474d6dd",
       "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track-world-athletics-relays-canada-2026-may-2-9.7182182?cmp=rss",
-      "title": "Canadian sprinters set world record at World Athletics Relays",
+      "title": "Canadian sprinters qualify 4 relay teams for 2027 world championships",
       "published_at": "2026-05-02T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The Canadian 4x100-metre mixed relay team of Eliezer Adjibi, Marie-Éloise Leclair, Duan Asemota, and Audrey Leduc set a world record at the World Athletics Relays on Saturday in Gaborone, Botswana.",
+      "summary_auto": "The Canadian 4x100-metre mixed relay team of Eliezer Adjibi, Marie-Éloise Leclair, Duan Asemota, and Audrey Leduc broke a world record at the World Athletics Relays on Saturday in Gaborone, Botswana.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.103,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b8c927322fdfa3b44ae6275de2536b68b2465ec6",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/jonathans-junction-ontario-oddities-map-highways-waterloo-student-9.7184759?cmp=rss",
+      "title": "Ontario map highlights highway oddities from submerged roads to abandoned bridges",
+      "published_at": "2026-05-02T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Jonathan Silverman, a first year civil engineering student at the University of Waterloo, has created an Ontario Oddities map that highlights weird things people might see on a road trip, including signs that are wrong, abandoned bridges and roadways or even submerged highways.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.832,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -169,32 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "88b3be1c1917a6cb063960b571cd317e49c70b5c",
-      "url": "https://www.cbc.ca/news/canada/edmonton/frog-lake-cree-language-app-9.7185348?cmp=rss",
-      "title": "These First Nations students are teaching themselves — and their peers — to speak Cree",
-      "published_at": "2026-05-01T18:03:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Vern Lewis is in his first year teaching Aboriginal studies at a Frog Lake First Nation high school, and he's putting his computer science skills to work by using technology to teach tradition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "73183a027c00f9f4ef8bb5799f4a072ad1047917",
-      "url": "https://www.cbc.ca/news/world/qatar-donated-747-trump-summer-readiness-9.7185378?cmp=rss",
-      "title": "Qatar-donated 747 ready for Trump's use as fill-in Air Force One this summer: USAF",
-      "published_at": "2026-05-01T17:30:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The U.S. Air Force has finished modifying and testing a Boeing 747 jet donated by Qatar and expects to have it ready for U.S. President Donald Trump to use this summer, the service announced late Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
         "subjectivity_hint": "low"
       }
     },
@@ -268,7 +294,7 @@
       "url": "https://www.cbc.ca/news/health/ozempic-semaglutide-generic-version-canada-9.7184915?cmp=rss",
       "title": "Health Canada approves 2nd generic version of Ozempic — and it's Canadian",
       "published_at": "2026-05-01T13:08:54-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Health Canada has approved the second generic version of brand-name Ozempic, this one manufactured by Canadian company Apotex.",
       "bias_heuristic": {
         "article_type": "News",
@@ -326,71 +352,6 @@
         "article_type": "News",
         "sentiment": -0.791,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b574b73d7027700c3045c295ba5c8461cf0eb60d",
-      "url": "https://www.cbc.ca/news/canada/north/behchoko-shelter-in-place-lockdown-9.7184623?cmp=rss",
-      "title": "RCMP end shelter-in-place order for Behchokǫ̀ and area",
-      "published_at": "2026-05-01T10:26:56-04:00",
-      "section": "Canada",
-      "summary_auto": "RCMP say several individuals are in custody following a police operation in the N.W.T. community that began early Friday afternoon and ended shortly after 8 p.m. RCMP say their investigation continues and residents can expect to see an increased police presence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d88b3ae48d2e76fa2f2f33033661bd6bc94504d1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/buyers-emerge-for-4-hudson-s-bay-stores-9.7184285?cmp=rss",
-      "title": "Buyers emerge for Hudson's Bay stores in downtown Vancouver, Calgary, Ottawa: court docs",
-      "published_at": "2026-05-01T09:32:26-04:00",
-      "section": "Business",
-      "summary_auto": "Buyers have been found for four properties that used to be home to Hudson's Bay department stores, including Vancouver's Granville Street location.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "565c41d32c2602fa03f4d415e75e117826351adc",
-      "url": "https://www.cbc.ca/news/canada/calgary/man-charged-first-degree-murder-children-death-northwest-9.7184460?cmp=rss",
-      "title": "Calgary father charged with 1st-degree murder in deaths of 2 children",
-      "published_at": "2026-05-01T09:17:18-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A father has been charged with two counts of first-degree murder in the deaths of two young children found in a vehicle in northwest Calgary on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a770b426576ec9af8c59909c09fd1f8d535da7a1",
-      "url": "https://www.cbc.ca/news/canada/toronto/mandarin-cofounder-obit-9.7184468?cmp=rss",
-      "title": "James Chiu, president and co-founder of iconic Mandarin restaurant chain, dead at 78",
-      "published_at": "2026-05-01T09:13:20-04:00",
-      "section": "Canada",
-      "summary_auto": "James Chiu died on Wednesday just days after his 78th birthday after a battle with pulmonary fibrosis, his family said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e19ee9558730558302ccba4c1b648badb77e1b23",
-      "url": "https://www.cbc.ca/news/world/al-mughayyir-teen-killed-9.7183341?cmp=rss",
-      "title": "'I wanted to protect him': Mother mourns teen slain near school amid settler violence in West Bank",
-      "published_at": "2026-05-01T09:07:44-04:00",
-      "section": "World",
-      "summary_auto": "More than a week after a shooting near a boys' school in a West Bank village left a teenage boy and a man in his 30s dead, the community remains on edge, and residents say they fear more violence at the hands of Israeli settlers and the military.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.957,
-        "subjectivity_hint": "medium"
       }
     }
   ]
