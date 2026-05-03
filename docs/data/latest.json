@@ -1,18 +1,31 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-03T08:56:21.461665-04:00",
+  "generated_at": "2026-05-03T10:42:55.507414-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "d0f63f9060b04b5f2f4fc6fe41647f312d6caf1d",
-      "url": "https://www.cbc.ca/player/play/9.7185772?cmp=rss",
-      "title": "Poilievre holds news conference about Liberals' fiscal approach",
-      "published_at": "2026-05-03T05:00:00-04:00",
+      "id": "e34af270ad4c43265453e9ca34cf3f2ce5d7d153",
+      "url": "https://www.cbc.ca/news/entertainment/shakira-brazil-free-beach-concert-2-million-attend-9.7185932?cmp=rss",
+      "title": "Shakira performs free concert to a crowd of 2 million on Brazil's Copacabana Beach",
+      "published_at": "2026-05-03T06:26:52-04:00",
       "section": "Top Stories",
-      "summary_auto": "Conservative Leader Pierre Poilievre holds a news conference in Toronto about the federal government’s spending.",
+      "summary_auto": "Colombian superstar Shakira gave a free concert on Copacabana Beach in Rio de Janeiro on Saturday night, an event that the city's mayor said drew two million people to one of the world's most iconic waterfronts.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "613acbeed07435ef719868e7e202e3c1a057f117",
+      "url": "https://www.cbc.ca/news/world/ukraine-hits-russian-port-3-tankers-9.7185903?cmp=rss",
+      "title": "Ukraine hits Russian oil-loading port, 'shadow fleet' tankers",
+      "published_at": "2026-05-03T04:59:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ukraine on Sunday launched a wave of strikes against Russian oil targets, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -30,6 +43,19 @@
       }
     },
     {
+      "id": "2f1aee1aa0900cb5f6cbdb0aea32edb7c7e0e7e5",
+      "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-fort-mcmurray-wildfire-anniversary-9.7185328?cmp=rss",
+      "title": "'Build from the ashes’: Fort McMurray reflects on how community has changed since 2016 wildfire",
+      "published_at": "2026-05-03T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It's been 10 years since more than 2,500 homes were destroyed in the 2016 Horse River Wildfire. The community has rebuilt and fire officials have invested millions of dollars into fire prevention and planning. Many residents are ready to move on, while others still feel they are in survival mode.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0c2d0b57d6759b808cec6be8609fd9731585ed4a",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pharmacy-ring-lost-and-found-9.7181997?cmp=rss",
       "title": "This N.L. pharmacist lost a ring 20 years ago. An Ontario man found it in a pair of jeans",
@@ -39,6 +65,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3c32b0b783125c5398ccc59f33d2aeb9388fdfc0",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/workplace-health-and-safety-funding-stagnant-as-calls-for-stronger-enforcement-continue-9.7183137?cmp=rss",
+      "title": "Workplace health and safety funding stagnant in N.L. as calls for stronger enforcement continue",
+      "published_at": "2026-05-03T00:30:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The Newfoundland and Labrador government has not added funds to its occupational health and safety division, in spite of calls from the provincial federation of labour to do so.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
         "subjectivity_hint": "low"
       }
     },
@@ -56,6 +95,32 @@
       }
     },
     {
+      "id": "e649309e21976a8a59bfcd413b118d99ba1fd40b",
+      "url": "https://www.cbc.ca/news/world/pompeii-graffiti-corridor-technology-9.7184868?cmp=rss",
+      "title": "In Pompeii, ancient graffiti depicting daily life is being revealed thanks to modern technology",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The walls of a corridor that once linked two theatres in the ancient Roman city of Pompeii hold hundreds of inscriptions made by residents before Mount Vesuvius erupted almost 2,000 years ago. An international research team is now using a very modern technique to bring them to life.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7b39828305110cd09a50092f7ab2c8db3944729f",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-father-depression-alcoholic-9.7147289?cmp=rss",
+      "title": "I didn't want to become my alcoholic father. I know, for better or worse, I never will be",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Fernanda Rodriguez got a shocking call from her father when she was just nine — a call that opened her eyes to the many challenges her father faced when it came to alcoholism and depression. As she grew older, she was able to see that he persevered through difficulties to be present for her as much as he could be.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.828,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "14a8bb74d8c9c3a042b3b7d65063ae52055dce9e",
       "url": "https://www.cbc.ca/news/science/artemis-moonshot-9.7184395?cmp=rss",
       "title": "NASA says it will put humans on the surface of the moon in 2028. How realistic is that?",
@@ -69,15 +134,15 @@
       }
     },
     {
-      "id": "e649309e21976a8a59bfcd413b118d99ba1fd40b",
-      "url": "https://www.cbc.ca/news/world/pompeii-graffiti-corridor-technology-9.7184868?cmp=rss",
-      "title": "In Pompeii, ancient graffiti depicting daily life is being revealed thanks to modern technology",
+      "id": "5fd0e824f4e54f90cd6ecebc4dc297bbb318607a",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track-world-athletics-relays-canada-2026-may-3-9.7182222?cmp=rss",
+      "title": "Canada's mixed 4x400m relay team qualifies for 2027 athletics worlds in national record time",
       "published_at": "2026-05-03T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The walls of a corridor that once linked two theatres in the ancient Roman city of Pompeii hold hundreds of inscriptions made by residents before Mount Vesuvius erupted almost 2,000 years ago. An international research team is now using a very modern technique to bring them to life.",
+      "summary_auto": "Canada was unable to successfully defend its mixed 4x100-metre title at World Athletics Relays on Sunday, placing second to the Jamaicans in 40.23 seconds. Jamaica lowered its world mark to 39.62. Watch final-day coverage from Gaborone, Botswana on CBCSports.ca and CBC Gem.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.44,
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -134,19 +199,6 @@
       }
     },
     {
-      "id": "7b39828305110cd09a50092f7ab2c8db3944729f",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-father-depression-alcoholic-9.7147289?cmp=rss",
-      "title": "I didn't want to become my alcoholic father. I know, for better or worse, I never will be",
-      "published_at": "2026-05-03T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Fernanda Rodriguez got a shocking call from her father when she was just nine — a call that opened her eyes to the many challenges her father faced when it came to alcoholism and depression. As she grew older, she was able to see that he persevered through difficulties to be present for her as much as he could be.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.828,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
       "id": "0cddcf047dcb1a86cf8939cff8480f0063bb8b64",
       "url": "https://www.cbc.ca/news/politics/politics-armenia-canada-ties-9.7185261?cmp=rss",
       "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus",
@@ -169,19 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e2b8b229d6ce1c7646bcfb14826443d05f5b00e",
-      "url": "https://www.cbc.ca/sports/kentucky-derby-2026-9.7185811?cmp=rss",
-      "title": "Cherie DeVaux becomes 1st female trainer to win Kentucky Derby as Golden Tempo takes 152nd edition",
-      "published_at": "2026-05-02T15:38:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Cherie DeVaux made history on Saturday as the first woman to train the winner of the Kentucky Derby, as Golden Tempo charged from the back of the pack and charged down the stretch to get to the finish line first in the biggest event in horse racing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
         "subjectivity_hint": "low"
       }
     },
