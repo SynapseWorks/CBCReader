@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-03T10:42:55.507414-04:00",
+  "generated_at": "2026-05-03T14:50:33.165107-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "0c5d481eeab1db1f6ae69ccdeff4643f51b20570",
+      "url": "https://www.cbc.ca/news/world/white-house-correspondents-dinner-suspect-secret-service-agent-buckshot-9.7186105?cmp=rss",
+      "title": "Agent at correspondents' dinner was hit by bullet from suspect's shotgun, prosecutors say",
+      "published_at": "2026-05-03T10:30:05-04:00",
+      "section": "World",
+      "summary_auto": "Authorities have determined that buckshot from the gun of the man charged with trying to storm the White House Correspondents' Association dinner in an attempt to kill U.S. President Donald Trump struck a Secret Service agent, according to the federal prosecutor overseeing the investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c4ed6271d896be6cc75830fa524f917452d1bcee",
+      "url": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss",
+      "title": "Cargo ship near Strait of Hormuz reports being attacked, as Iran makes new peace proposal",
+      "published_at": "2026-05-03T08:49:30-04:00",
+      "section": "World",
+      "summary_auto": "A cargo ship near the Strait of Hormuz has reported being attacked by multiple small craft, the British military's United Kingdom Maritime Trade Operations centre said Sunday, marking at least two dozen attacks in and around the strait since the Iran war began.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c423c3c2b9675fdde3626b471ae36fae4075a31",
+      "url": "https://www.cbc.ca/news/politics/poilievre-carney-alberta-pipeline-energy-trump-united-states-9.7185996?cmp=rss",
+      "title": "Poilievre argues Carney has 'wasted an entire year' on possible Alberta pipeline",
+      "published_at": "2026-05-03T07:42:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Conservative Leader Pierre Poilievre says the prime minister has \"wasted an entire year\" deliberating a potential new oil pipeline out of Alberta — criticism that comes after Mark Carney said a new pipeline is \"more probable than possible.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "993fc7c0cf48d766a7523da29788998519484432",
+      "url": "https://www.cbc.ca/news/canada/toronto/raptors-cavaliers-game-7-nba-playoffs-9.7185991?cmp=rss",
+      "title": "Raptors, Cavaliers get ready to face off in Game 7 showdown",
+      "published_at": "2026-05-03T07:26:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Raptors get ready to face the Cavaliers for the final time this season in Game 7 of the first round of NBA playoffs.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "88118e7f0e7c7646168befd200c61751560bbd4b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/summer-of-village-of-sandy-beach-wildfire-alert-2026-9.7186029?cmp=rss",
+      "title": "Wildfire destroys homes in Sandy Beach Summer Village, Alta., prompting local state of emergency",
+      "published_at": "2026-05-03T07:23:13-04:00",
+      "section": "Canada",
+      "summary_auto": "According to a social media update from Sturgeon County posted Saturday, the fire has \"consumed three homes and badly damaged another.\" Firefighting crews from multiple surrounding jurisdictions have been deployed to the scene.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "e34af270ad4c43265453e9ca34cf3f2ce5d7d153",
       "url": "https://www.cbc.ca/news/entertainment/shakira-brazil-free-beach-concert-2-million-attend-9.7185932?cmp=rss",
@@ -13,6 +78,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "349cd87e731e10185f3781fbe1b44b3ab854a33f",
+      "url": "https://www.cbc.ca/player/play/9.7185944?cmp=rss",
+      "title": "Press freedom is at a 25-year low, says Reporters Without Borders",
+      "published_at": "2026-05-03T05:52:27-04:00",
+      "section": "World",
+      "summary_auto": "Worldwide press freedom has fallen to its lowest level in 25 years, according to NGO Reporters Without Borders. For the first time since its World Press Freedom Index launched in 2002, more than half of the world’s countries fall into the 'difficult' or 'very serious' categories for press freedom.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.875,
         "subjectivity_hint": "low"
       }
     },
@@ -30,15 +108,15 @@
       }
     },
     {
-      "id": "2a4ded103a49e6997037c6fee4362664c51cec1b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/jack-and-lilly-sullivan-one-year-anniversary-rally-rcmp-stellarton-9.7185890?cmp=rss",
-      "title": "Rally held to demand answers about Jack and Lilly Sullivan disappearance in N.S.",
-      "published_at": "2026-05-03T03:05:31-04:00",
+      "id": "87c648584a1d180fdcdaaa4fa560d7a3433dc576",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-horses-wild-feral-9.7180959?cmp=rss",
+      "title": "Alberta government says wild horse population has reached 'unacceptable' levels, advocates disagree",
+      "published_at": "2026-05-03T04:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Under a cloudless sky in central Nova Scotia, about 50 people gathered outside an RCMP detachment Saturday to demand answers about the disappearance of two young children exactly one year ago.",
+      "summary_auto": "The abundance of what Alberta's government calls \"feral horses\" has reached \"unacceptable\" population levels, according to the province's horse management strategy. Results from the province's annual feral horse survey released in April found the highest free-roaming horse numbers ever counted along the eastern slopes of the Rocky Mountains.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.25,
+        "sentiment": -0.778,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +138,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pharmacy-ring-lost-and-found-9.7181997?cmp=rss",
       "title": "This N.L. pharmacist lost a ring 20 years ago. An Ontario man found it in a pair of jeans",
       "published_at": "2026-05-03T00:30:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "After finding a golden ring in a thrifted pair of jeans in Ontario, Dan Howard spent 15 years tracking down its bearer. The owner, pharmacist Bradley Buckle, turned out to be half the country away in St. John's.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,15 +160,15 @@
       }
     },
     {
-      "id": "9ff59824da845487bcc45dfca40151ad037ba32c",
-      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-birth-mother-9.7184333?cmp=rss",
-      "title": "Mother of boy who died in care of Ontario couple speaks for 1st time ahead of trial decision",
+      "id": "14a8bb74d8c9c3a042b3b7d65063ae52055dce9e",
+      "url": "https://www.cbc.ca/news/science/artemis-moonshot-9.7184395?cmp=rss",
+      "title": "NASA says it will put humans on the surface of the moon in 2028. How realistic is that?",
       "published_at": "2026-05-03T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "In 2021, a 12-year-old died while in the care of a Burlington, Ont., couple who are now charged with his murder. For the first time, the boy's mother is sharing her perspective with CBC Hamilton, saying she wants people to understand that her family is \"not just a case or story.\"",
+      "summary_auto": "The Artemis II lunar mission is over, and NASA is already looking ahead, planning to put astronauts on the surface of the moon by 2028. But there are a lot of hurdles that need to be cleared before that happens.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.67,
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -121,32 +199,6 @@
       }
     },
     {
-      "id": "14a8bb74d8c9c3a042b3b7d65063ae52055dce9e",
-      "url": "https://www.cbc.ca/news/science/artemis-moonshot-9.7184395?cmp=rss",
-      "title": "NASA says it will put humans on the surface of the moon in 2028. How realistic is that?",
-      "published_at": "2026-05-03T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Artemis II lunar mission is over, and NASA is already looking ahead, planning to put astronauts on the surface of the moon by 2028. But there are a lot of hurdles that need to be cleared before that happens.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5fd0e824f4e54f90cd6ecebc4dc297bbb318607a",
-      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track-world-athletics-relays-canada-2026-may-3-9.7182222?cmp=rss",
-      "title": "Canada's mixed 4x400m relay team qualifies for 2027 athletics worlds in national record time",
-      "published_at": "2026-05-03T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada was unable to successfully defend its mixed 4x100-metre title at World Athletics Relays on Sunday, placing second to the Jamaicans in 40.23 seconds. Jamaica lowered its world mark to 39.62. Watch final-day coverage from Gaborone, Botswana on CBCSports.ca and CBC Gem.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b3bee46884f3ab4957467d371a09e034bf97598c",
       "url": "https://www.cbc.ca/news/entertainment/met-gala-2026-9.7185020?cmp=rss",
       "title": "Jeff Bezos to Beyoncé: What to know ahead of the 2026 Met Gala",
@@ -160,6 +212,32 @@
       }
     },
     {
+      "id": "5fd0e824f4e54f90cd6ecebc4dc297bbb318607a",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track-world-athletics-relays-canada-2026-may-3-9.7182222?cmp=rss",
+      "title": "Jerome Blake injured, Canada places 7th in men's 100m final at World Athletics Relays",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jerome Blake of Kelowna, B.C., favoured his right leg while pulling up in the second leg of the men's 4x100-metre final, then hobbled to hand the baton to Brendon Rodney as Canada placed seventh in the eight-team field in 40.06 seconds on Sunday at the World Athletics Relays in Gaborone, Botswana.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5f5aa0aba0d3d0a5f9eac47b2cdcf6a6cc1eeda9",
+      "url": "https://www.cbc.ca/news/canada/ottawa/federal-co-working-sites-may-be-reallocated-to-meet-4-day-office-return-9.7184371?cmp=rss",
+      "title": "Federal co-working sites may be ‘reallocated’ to meet 4-day office return",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The federal government may tap into its shared workstations so that departments that are short on space can meet the goal of having unionized employees report to the office four days a week starting July 6.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "d3b960e3d516a6b0cb1de6d73111290f9e743ce1",
       "url": "https://www.cbc.ca/news/canada/calgary/bakx-heritage-trust-sovereign-wealth-carney-9.7184255?cmp=rss",
       "title": "Canada's new sovereign wealth fund: What Ottawa can learn from Alberta",
@@ -169,6 +247,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2dd9df93961ccc3f64a92955366520a8c807f12f",
+      "url": "https://www.cbc.ca/radio/thecurrent/mary-cain-running-memoir-9.7184657?cmp=rss",
+      "title": "Former teen track prodigy Mary Cain is exposing a culture of abuse that nearly destroyed her",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Former teen track prodigy, Mary Cain, delves into the years of psychological abuse and body shaming that forced her to leave the sport she loved.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.919,
         "subjectivity_hint": "low"
       }
     },
@@ -199,6 +290,19 @@
       }
     },
     {
+      "id": "9ff59824da845487bcc45dfca40151ad037ba32c",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-birth-mother-9.7184333?cmp=rss",
+      "title": "Mother of boy who died in care of Ontario couple speaks for 1st time ahead of trial decision",
+      "published_at": "2026-05-03T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "In 2021, a 12-year-old died while in the care of a Burlington, Ont., couple who are now charged with his murder. For the first time, the boy's mother is sharing her perspective with CBC Hamilton, saying she wants people to understand that her family is \"not just a case or story.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0cddcf047dcb1a86cf8939cff8480f0063bb8b64",
       "url": "https://www.cbc.ca/news/politics/politics-armenia-canada-ties-9.7185261?cmp=rss",
       "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus",
@@ -221,19 +325,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a046106fdbe486e38511343e72459a02331843dd",
-      "url": "https://www.cbc.ca/news/canada/canadians-detained-israel-flotilla-released-9.7185749?cmp=rss",
-      "title": "Two Canadians on aid boats intercepted by Israel have been released, organizers say",
-      "published_at": "2026-05-02T13:59:30-04:00",
-      "section": "Canada",
-      "summary_auto": "A spokesperson for a group trying to break the Israeli navy blockade of Gaza to deliver aid says two Canadians who were detained by Israel in the Mediterranean Sea have been released.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
         "subjectivity_hint": "low"
       }
     }
