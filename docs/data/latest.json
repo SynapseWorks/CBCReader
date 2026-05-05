@@ -1,18 +1,200 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-05T09:24:27.171004-04:00",
+  "generated_at": "2026-05-05T15:09:55.166993-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "ac6246c2c971ec7f52ba3654f543a2a73c5d8584",
-      "url": "https://www.cbc.ca/player/play/9.7187913?cmp=rss",
-      "title": "Carney expected to announce Canada’s next Governor General",
-      "published_at": "2026-05-05T06:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Watch CBC News special coverage as Prime Minister Mark Carney holds a news conference at the National Gallery of Canada. Sources say Carney is announcing Canada's next Governor General.",
+      "id": "2bcd6601f86660bc277f095ba75888e22ac30f2e",
+      "url": "https://www.cbc.ca/sports/tennis/sabalenka-boycott-call-for-increase-prize-money-share-9.7188563?cmp=rss",
+      "title": "Top-ranked Aryna Sabalenka calls for boycott if tennis players don't get bigger cut of Grand Slam revenues",
+      "published_at": "2026-05-05T11:01:30-04:00",
+      "section": "World",
+      "summary_auto": "Top-ranked Aryna Sabalenka believes tennis players should organize a boycott if they don't start receiving a bigger share of tournament revenues at the Grand Slams. The likes of Coco Gauff, Elena Rybakina and Jasmine Paolini are prepared to protest, too.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.402,
+        "sentiment": 0.672,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3b24f0a86045b812fc516375bed48c4372a858be",
+      "url": "https://www.cbc.ca/news/politics/former-governors-general-expense-account-9.7188412?cmp=rss",
+      "title": "Former governors general claimed $554K from expense account last year",
+      "published_at": "2026-05-05T10:31:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney says he will look into an expense program under which former governors general billed the government for more than half a million dollars last year. The program, which launched in 1979, has been shrouded in secrecy despite calls for greater transparency.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.156,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54f9052b39f83ec5b495ede62127ad6fcb3b2cb7",
+      "url": "https://www.cbc.ca/news/canada/mexican-father-deportation-stay-quebec-9.7188026?cmp=rss",
+      "title": "Judge grants stay of deportation to keep Mexican father with his young family in Montreal",
+      "published_at": "2026-05-05T10:29:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A 22-year-old Mexican man living in Montreal has been granted a last-minute stay of deportation after a Federal Court judge ruled his removal could cause serious harm to his young family. Immigration advocates are warning of rising removals and tougher enforcement in Quebec.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4761204ee9c37c5383d644a32b56b194755558d5",
+      "url": "https://www.cbc.ca/radio/quirks/salmon-cocaine-research-9.7184710?cmp=rss",
+      "title": "Researchers are giving salmon cocaine. Don't worry, it's for science",
+      "published_at": "2026-05-05T10:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "With cocaine and its metabolite, benzoylecgonine, being detected in waterways across the globe, Canadian researcher Erin McCallum and her team set out to understand the impact of these illicit drugs on fish in Sweden.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.587,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a4fc4647c23416b43f44675ccf8a830d3e60b339",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/rural-roads-paddockwood-carrot-river-armley-9.7188036?cmp=rss",
+      "title": "Hundreds of rural roads damaged, closed as spring flooding hits Sask.",
+      "published_at": "2026-05-05T09:52:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As spring flooding continues to flow over roads in much of Saskatchewan, some RMs say they're running out of barricades — and they're begging residents not to move the ones that are already in place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9d5e4f528e95443487b6769f81dc6bd0dae255b0",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/red-dress-day-jaime-black-morsette-9.7188396?cmp=rss",
+      "title": "Growth of Red Dress Day proof ‘our voices are very powerful,’ says project founder",
+      "published_at": "2026-05-05T09:47:14-04:00",
+      "section": "Canada",
+      "summary_auto": "May 5 marks Red Dress Day across Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "62ebc0bdcd5aa41c487140d192a06eef1c9e6ff0",
+      "url": "https://www.cbc.ca/news/canada/toronto/thorncliffe-highrises-fire-no-timeline-9.7188362?cmp=rss",
+      "title": "Crews still fighting 2nd fire at Toronto apartment buildings that previously burned for weeks",
+      "published_at": "2026-05-05T09:29:29-04:00",
+      "section": "Canada",
+      "summary_auto": "There's no timeline yet for when a fire between two Toronto highrise towers, burning the same way it did during a blaze that displaced hundreds of the buildings' residents a few months ago, will be put out, Toronto Fire Services (TFS) said on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e928f38b3bc175b2c85c4fa4a626fcf4a116d34c",
+      "url": "https://www.cbc.ca/news/entertainment/new-rolling-stones-album-foreign-tongues-9.7188335?cmp=rss",
+      "title": "A new Rolling Stones album — Foreign Tongues — is on the way",
+      "published_at": "2026-05-05T09:14:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Rolling Stones confirmed that they will release a new album, titled Foreign Tongues, on July 10. The album will feature a special appearance from late Stones drummer Charlie Watts from one of his final recording sessions before his death in 2021.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7de979bb9702b0aca4463de465f3a745fb818369",
+      "url": "https://www.cbc.ca/sports/basketball/canada-womens-basketball-history-canada-toronto-tempo-wnba-9.7188289?cmp=rss",
+      "title": "While Toronto Tempo are new to WNBA, women's basketball has long history in Canada",
+      "published_at": "2026-05-05T08:29:01-04:00",
+      "section": "Canada",
+      "summary_auto": "The WNBA, not surprisingly, chose Canada as the country to extend its footprint outside the United States for the first time. Canadian players have been playing in America for more than 30 years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.529,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4f70c977b73089feedb8d518e220eb5a20225bc",
+      "url": "https://www.cbc.ca/news/canada/toronto/brian-da-costa-bail-review-decision-9.7187004?cmp=rss",
+      "title": "$1.5M bail revoked for alleged drug trafficker accused of bribing Toronto cops",
+      "published_at": "2026-05-05T08:25:12-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An alleged drug trafficker accused of obtaining confidential information from a Toronto police officer, which investigators say was used in an unsuccessful conspiracy to kill a senior corrections officer, was back in custody Tuesday morning after his bail was revoked.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.932,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c35c2f203866539efe54bffc49afa3e6a01e5c1f",
+      "url": "https://www.cbc.ca/news/entertainment/tony-awards-nominations-9.7188061?cmp=rss",
+      "title": "The Lost Boys, Schmigadoon! each earn 12 Tony nominations",
+      "published_at": "2026-05-05T07:50:45-04:00",
+      "section": "Entertainment",
+      "summary_auto": "This year's Tony Award nominations also include the John Lithgow-led Giant for best new play nominee and Marla Mindelle as best actress for Titanique.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5246e47047d166df500c14c5e0fb1e03d8711eb8",
+      "url": "https://www.cbc.ca/news/business/us-twitter-elon-musk-sec-probe-resolved-9.7187904?cmp=rss",
+      "title": "Elon Musk to pay $1.5M fine to settle suit over delayed Twitter disclosures",
+      "published_at": "2026-05-05T06:02:45-04:00",
+      "section": "Business",
+      "summary_auto": "Elon Musk settled the U.S. Securities and Exchange Commission's civil lawsuit accusing the world's richest person of waiting too long in 2022 to disclose his initial purchases of Twitter, now known as X. A trust in Musk's name will pay a $1.5 million US fine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b0fb97dd6446549a8ab85420ccb0b176122d3f87",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-strikes-truce-9.7187926?cmp=rss",
+      "title": "Russian strikes kill 5 in Ukraine right before brief ceasefire takes hold",
+      "published_at": "2026-05-05T06:01:43-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russian drone and missile strikes targeting Ukraine’s power grid during the night killed at least five people and wounded 39 others, Ukrainian authorities said Tuesday, less than a day before Kyiv said it would enact a ceasefire and three days before Moscow promised its own truce.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.914,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "14852912f8762cca4219e96cb84c36652411e3e2",
+      "url": "https://www.cbc.ca/news/politics/louise-arbour-governor-general-9.7187976?cmp=rss",
+      "title": "Carney picks former Supreme Court justice Louise Arbour to be governor general",
+      "published_at": "2026-05-05T05:53:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6513d6e58b9c090cceb73157c79cb8b94476a825",
+      "url": "https://www.cbc.ca/news/canada/toronto/season-ticket-holders-resale-law-ontario-9.7187920?cmp=rss",
+      "title": "Season ticket holders frustrated by Ontario's new law capping resale prices",
+      "published_at": "2026-05-05T05:21:49-04:00",
+      "section": "Canada",
+      "summary_auto": "Ontario's move to capped the price of resale tickets is making it harder for some season seat holders to offset the cost by selling tickets to games they can't attend.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +216,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/gta-home-sales-rise-9.7187908?cmp=rss",
       "title": "Greater Toronto Area home sales up 7% in April as prices shrink: real estate board",
       "published_at": "2026-05-05T04:54:43-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Home sales in the Greater Toronto Area rose on a year-over-year basis for the second straight month in April, while average selling prices moved lower again.",
       "bias_heuristic": {
         "article_type": "News",
@@ -60,7 +242,7 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/livestory/cooney-hamber-trial-ontario-couple-ruling-9.7186765?cmp=rss",
       "title": "Ontario couple found guilty of boy’s murder, brother’s torture",
       "published_at": "2026-05-05T04:02:15-04:00",
-      "section": "Canada",
+      "section": "Health",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/saskatchewan/flooding-melt-snowpack-water-runoff-9.7187509?cmp=rss",
       "title": "Rapid melt of large snowpack the main culprit in Sask. flooding, experts say",
       "published_at": "2026-05-05T03:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The widespread flooding in Saskatchewan can mainly be attributed to rapid melting of a higher-than-average snowpack, experts say.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +294,7 @@
       "url": "https://www.cbc.ca/news/health/hantavirus-ship-cape-verde-9.7187830?cmp=rss",
       "title": "Plans underway to evacuate 2 passengers from cruise ship struck by hantavirus",
       "published_at": "2026-05-05T02:54:32-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Medical personnel will focus on evacuating two sick persons from a cruise ship hit by a fatal hantavirus outbreak, the World Health Organization said at a briefing on Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,7 +307,7 @@
       "url": "https://www.cbc.ca/radio/frontburner/is-doug-ford-in-trouble-9.7187428?cmp=rss",
       "title": "Is Doug Ford in trouble?",
       "published_at": "2026-05-05T02:00:00-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "From ‘Captain Canada’ to the ‘Gravy Plane’: Why Ontario Premier Doug Ford’s popularity has taken a major hit.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,24 +320,11 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/one-person-one-record-electronic-system-health-care-iwk-hospital-9.7186894?cmp=rss",
       "title": "N.S. family wants answers about baby's death before new medical records system rollout",
       "published_at": "2026-05-05T01:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Family says they are concerned the province is expanding a new electronic medical records system on Saturday to all hospitals in the Halifax area when they still don't know if it contributed to the death of their unborn baby.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f8463ffef086b6c4742a6839365b3f8e00f83025",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/gagetown-veteran-in-years-long-appeal-for-disability-benefits-9.7183043?cmp=rss",
-      "title": "Canadian veteran in a years-long appeal for disability benefits",
-      "published_at": "2026-05-05T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A former combat engineer with the Canadian Armed Forces said an appeal for benefits related to his epilepsy has now gone on for two years, while the seizures that began on base continue to take their toll.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -173,32 +342,6 @@
       }
     },
     {
-      "id": "232c04625a2819cbdbe64c97959aadb33b017294",
-      "url": "https://www.cbc.ca/news/world/scientology-speedrun-vancouver-la-trend-9.7187727?cmp=rss",
-      "title": "How the viral 'Scientology speedrun' trend got started and why young people keep doing it",
-      "published_at": "2026-05-05T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Like any online meme worth its weight in clicks, the Scientology speedrun trend doesn't make a lot of sense, at least on the surface. Teens rush Scientology sites for views, jokes and protest — but ex-members warn it can turn risky fast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "486aec925ae36efd4434cd909470d90a4bc1fd78",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-pressure-immigration-peq-9.7187284?cmp=rss",
-      "title": "Quebec faces pressure to act on promise to reopen fast-track immigration program",
-      "published_at": "2026-05-05T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jessica Prats came to Quebec from France with her husband and four children with hopes of building a life in Canada, but her plan was put on hold when the provincial government scrapped a fast-track immigration program.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.238,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "542a8d81b226f369dd54235296ddaed25aa66407",
       "url": "https://www.cbc.ca/news/canada/thunder-bay/opioid-use-disorder-guide-slfnha-9.7187386?cmp=rss",
       "title": "New opioid use disorder guide combines Western science and Indigenous knowledge",
@@ -208,6 +351,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "486aec925ae36efd4434cd909470d90a4bc1fd78",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-pressure-immigration-peq-9.7187284?cmp=rss",
+      "title": "Quebec faces pressure to act on promise to reopen fast-track immigration program",
+      "published_at": "2026-05-05T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Jessica Prats came to Quebec from France with her husband and four children with hopes of building a life in Canada, but her plan was put on hold when the provincial government scrapped a fast-track immigration program.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.238,
         "subjectivity_hint": "low"
       }
     },
@@ -242,7 +398,7 @@
       "url": "https://www.cbc.ca/news/world/china-fireworks-factory-explosion-9.7187767?cmp=rss",
       "title": "Explosion at a China fireworks factory kills at least 26, injures dozens more",
       "published_at": "2026-05-04T18:43:41-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "‌An explosion at a fireworks plant in a central Chinese province killed at least 26 people and injured 61 others, state media reported Tuesday, prompting the halting of all firework manufacturing near the site.",
       "bias_heuristic": {
         "article_type": "News",
@@ -251,24 +407,11 @@
       }
     },
     {
-      "id": "3b5461526d07e40a3dd3e1dc7d1ac956d26f4257",
-      "url": "https://www.cbc.ca/news/canada/edmonton/albert-voter-information-data-investigations-legislature-9.7187728?cmp=rss",
-      "title": "Alberta government keeping eye on investigations into voter info breach",
-      "published_at": "2026-05-04T17:33:40-04:00",
-      "section": "Canada",
-      "summary_auto": "Premier Danielle Smith’s appearance in the legislature on Monday marked the first time she addressed the voter database issue beyond a statement posted to social media on Friday. Smith was travelling out of province last week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e94945a7665bb796e6fc906fdcc0d37ea3f4e471",
       "url": "https://www.cbc.ca/news/canada/canada-census-2026-9.7187678?cmp=rss",
       "title": "Canada's latest census effort begins",
       "published_at": "2026-05-04T17:19:27-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "Canada has begun its latest census effort, as Ottawa seeks to build an updated picture of the country and its people.",
       "bias_heuristic": {
         "article_type": "News",
@@ -281,141 +424,11 @@
       "url": "https://www.cbc.ca/news/canada/calgary/egale-skipping-stone-court-challenge-9.7187629?cmp=rss",
       "title": "Alberta judge denies effort to amend court challenge against province's transgender law",
       "published_at": "2026-05-04T16:27:57-04:00",
-      "section": "Canada",
+      "section": "Health",
       "summary_auto": "Advocates in Alberta have lost a court battle in their fight against provincial restrictions on medical treatment for transgender youth.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d582aa3574506201bfc0aae2d3bb9e234951b213",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-tariff-relief-9.7187563?cmp=rss",
-      "title": "B.C. premier pushes back after softwood lumber left off list for tariff relief",
-      "published_at": "2026-05-04T15:56:14-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ottawa's decision not to include the softwood lumber among the industries that will benefit from $1 billion in tariff relief funding sparked frustration from B.C. Premier David Eby, who says softwood lumber in B.C. has been \"decimated\" by U.S. tariffs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9381c6f03d1ed4fb8ea184bd7e27f97b9ffb7a26",
-      "url": "https://www.cbc.ca/life/style/met-gala-2026-red-carpet-looks-9.7187132?cmp=rss",
-      "title": "Must-see looks from the 2026 Met Gala: Sabrina Carpenter, Connor Storrie and more",
-      "published_at": "2026-05-04T14:04:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The intersection of art and fashion is being celebrated at the annual Met Gala, a fundraiser for the Metropolitan Museum of Art's Costume Institute, where controversy is swirling over the event's partnership with Amazon billionaire Jeff Bezos and his wife, Lauren Sanchez Bezos. Here are some standout moments from fashion’s biggest night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "021287b2ec14b0e3c74f3747405e91f41f3021b7",
-      "url": "https://www.cbc.ca/player/play/9.7187429?cmp=rss",
-      "title": "Exposing 'faceless' YouTubers pushing Canada to join the U.S.",
-      "published_at": "2026-05-04T13:30:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Who is behind YouTube videos with millions of views saying parts of Canada should join the U.S.? CBC News’ visual investigations team finds the truth about YouTube channels with names like The Canadian Politician pushing Alberta separatism that a recent report says are full of misleading and false information. We go down the rabbit hole and uncover the web of hired actors and ‘faceless’ creators who live overseas that are publishing this content to make a profit.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "13b001209855037befb57630ad36f1f050163a44",
-      "url": "https://www.cbc.ca/news/entertainment/blake-lively-justin-baldoni-settlement-9.7187385?cmp=rss",
-      "title": "Blake Lively, Justin Baldoni end their It Ends With Us dispute in settlement",
-      "published_at": "2026-05-04T13:24:05-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Blake Lively and Justin Baldoni have agreed to end their legal battle over the acrimonious production of their 2024 film It Ends With Us.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d0609013df31a51573554bb55d17d866cc547389",
-      "url": "https://www.cbc.ca/news/world/leipzig-car-attack-9.7187158?cmp=rss",
-      "title": "2 dead, 3 seriously hurt after car plows into people in German city of Leipzig",
-      "published_at": "2026-05-04T12:03:01-04:00",
-      "section": "World",
-      "summary_auto": "A driver plowed into people in a busy shopping area in the centre of the German city of Leipzig on Monday afternoon, leaving two people dead, authorities said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cc9494af6e8aae8ded5f67a2cf418d9c36646df1",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-separatists-say-more-than-300k-have-signed-petition-9.7187218?cmp=rss",
-      "title": "Alberta separatist group says more than 300K have signed petition",
-      "published_at": "2026-05-04T11:57:51-04:00",
-      "section": "Canada",
-      "summary_auto": "The Stay Free Alberta petitioners say they have collected 301,620 signatures, well over the 178,000 threshold that can prompt the province to consider referendum question.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "246e0123924f6081351a5b22d026bb6bdefcb16b",
-      "url": "https://www.cbc.ca/news/health/suspected-hantavirus-outbreak-cruise-ship-9.7186704?cmp=rss",
-      "title": "WHO confirms hantavirus on cruise ship, evacuations planned for nearly 150 people — including 4 Canadians",
-      "published_at": "2026-05-04T11:37:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "65fa4d57b8dfc334e40a3b67ba8a49ef8c9e998c",
-      "url": "https://www.cbc.ca/news/world/giuliani-hospital-pneumonia-9.7187093?cmp=rss",
-      "title": "Rudy Giuliani breathing on his own again after being hospitalized with pneumonia",
-      "published_at": "2026-05-04T11:20:00-04:00",
-      "section": "World",
-      "summary_auto": "Former New York City mayor Rudy Giuliani is breathing on his own after being hospitalized with pneumonia and placed on a ventilator, his spokesperson said Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "345ee008bed5fa940149df98a99972d0d7d3b39d",
-      "url": "https://www.cbc.ca/news/health/hantavirus-rodent-outbreak-9.7186920?cmp=rss",
-      "title": "What is hantavirus? Everything you need to know",
-      "published_at": "2026-05-04T11:13:37-04:00",
-      "section": "Health",
-      "summary_auto": "A hantavirus outbreak aboard a luxury cruise ship is suspected in the deaths of three people and causing sickness in others. Here's what you need to know about the disease and how common it is in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "924160ba9a1e50d4da6b0c2feed086be14f5d080",
-      "url": "https://www.cbc.ca/news/politics/canada-next-governor-general-9.7187061?cmp=rss",
-      "title": "Carney to name Canada's next governor general on Tuesday: sources",
-      "published_at": "2026-05-04T10:27:59-04:00",
-      "section": "Canada",
-      "summary_auto": "The prime minister is set to name Canada’s next governor general on Tuesday, CBC News has learned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
