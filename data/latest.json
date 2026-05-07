@@ -1,19 +1,409 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-06T15:28:10.169283-04:00",
+  "generated_at": "2026-05-07T09:51:09.123761-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "6d8ae75d6f877a2f748c31e97a89594b46f15d4c",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-mother-not-criminally-responsible-infant-death-9.7190005?cmp=rss",
-      "title": "Toronto mother found not criminally responsible after infant son's 2024 death",
-      "published_at": "2026-05-06T10:59:17-04:00",
-      "section": "Canada",
-      "summary_auto": "A 30-year-old woman has been found not criminally responsible for the 2024 death of her infant son in midtown Toronto.",
+      "id": "06aea9c9858c012387eebb5e91c6e327525c23e0",
+      "url": "https://www.cbc.ca/news/world/australia-women-children-isis-syria-9.7190785?cmp=rss",
+      "title": "Australian women, children linked to ISIS return from Syria",
+      "published_at": "2026-05-07T04:13:36-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Airliners carrying 13 Australian women and children with alleged ties to the Islamic State group landed in on Thursday in their homeland, where the adults face potential criminal charges relating to their alleged time in the extremist organization's so-called caliphate, which spanned Syria and Iraq.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.894,
+        "sentiment": -0.67,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1ca78b991aededdb1098628d075bb104ae8f9f45",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/livestory/dean-penney-trial-9.7190805?cmp=rss",
+      "title": "N.L. man set to take stand in trial for 1st-degree murder of his estranged wife",
+      "published_at": "2026-05-07T04:00:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6239d0b896f9aeffec8ce9ea424962a3d9ea81d7",
+      "url": "https://www.cbc.ca/news/world/hantavirus-outbreak-cruise-ship-9.7190707?cmp=rss",
+      "title": "Contact tracing underway for dozens who got off cruise ship amid hantavirus outbreak",
+      "published_at": "2026-05-07T03:08:41-04:00",
+      "section": "Health",
+      "summary_auto": "Countries worldwide scrambled on Thursday to trace people who had left the ‌cruise ship hit by a deadly hantavirus outbreak before it was anchored off the coast of Cape Verde to prevent further spread of the disease, which has so far killed three people. Dozens disembarked in St. Helena before the outbreak was reported, it was learned on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.689,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e8bc2fa38f53989c58351cb2515624545d1dd1ba",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/dory-cook-homicide-murder-charge-9.7190548?cmp=rss",
+      "title": "'Very gentle soul': Family, friends devastated after Métis woman, 77, killed in Saskatoon",
+      "published_at": "2026-05-07T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "On a day dedicated to honouring missing and murdered Indigenous women and girls, family and friends of Dory Cook had very fresh grief in their hearts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.423,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a097a1dfa63aab6a65d5eb2f7e3362a3e9b51976",
+      "url": "https://www.cbc.ca/news/canada/calgary/immigration-poll-referendum-9.7190158?cmp=rss",
+      "title": "Poll finds many Albertans want province to have greater say in who immigrates",
+      "published_at": "2026-05-07T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Alberta Premier Danielle Smith plans to hold a referendum in October and ask several questions about immigration. To get an early sense of how Albertans are feeling, CBC News included two related questions in a poll by Janet Brown Opinion Research last month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "26dfe2de423dfb87d216d2dff5ac6279f8688f5b",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/johanna-sutcliffe-sudden-death-intellectual-disability-l-arche-9.7189724?cmp=rss",
+      "title": "In the days before she died, no one called for medical help. Her family wants change",
+      "published_at": "2026-05-07T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Johanna Sutcliffe's family is critical of the care she received in her final days, and they’re calling for systemic change to close what they see as a gap in provincial standards of care at special care homes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5cd9e9034b410adbe12cbd8f7089a1d04503480f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/arden-client-care-workers-9.7188081?cmp=rss",
+      "title": "N.S. care workers say company scrambling to replace staff as long-standing workers leave",
+      "published_at": "2026-05-07T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Workers at a private company the Nova Scotia government contracts to care for deeply vulnerable people say Arden Professional Client Care is scrambling to replace some of its most experienced staff.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5cd9e9034b410adbe12cbd8f7089a1d04503480f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/arden-client-care-workers-9.7188081?cmp=rss",
+      "title": "Care workers say company scrambling to replace staff as long-standing workers leave",
+      "published_at": "2026-05-07T01:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Workers at a private company the Nova Scotia government contracts to care for deeply vulnerable people say Arden Professional Client Care is scrambling to replace some of its most experienced staff.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e107925c3cbed683fc535001bb05c0589537eb34",
+      "url": "https://www.cbc.ca/news/politics/drones-attack-military-bases-legislation-9.7188515?cmp=rss",
+      "title": "The drone war comes home: Canada scrambles to shield military bases in legal grey zone",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s military is quietly deploying counter-drone defences at ports and air bases, racing to keep pace with lessons from Ukraine’s devastating strikes on Russian assets. The effort exposes a legal and operational grey zone — how to stop airborne threats over Canadian cities without disrupting civilian life or crossing regulatory lines.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "19716a9961f8da4305c207f026005782ed478505",
+      "url": "https://www.cbc.ca/news/canada/gen-z-digital-minimalism-9.7188431?cmp=rss",
+      "title": "These students are limiting their own smartphone, social media and tech use. Here's why",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Some young Canadians are getting more intentional with their technology use and opting for digital minimalism — a paring down of all-encompassing devices like smartphones — of their own volition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7e7bdd2f32eefb62a5d887df2042aa7b190d0a10",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-911-calls-sent-to-ontario-abitibi-death-9.7187492?cmp=rss",
+      "title": "Quebec family mourns after 911 calls for father's heart attack misrouted to Ontario",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A man in Quebec's Abitibi-Témiscamingue region is questioning if his father would still be alive if his family's 911 calls were properly transferred to Quebec, instead of landing in Ontario. By the time paramedics arrived, roughly 50 minutes had passed from the first 911 call.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ae81f12440fdfa71845e4c3d2d3c7ee99dc511d7",
+      "url": "https://www.cbc.ca/news/world/mexico-trade-mission-toronto-usmca-9.7190217?cmp=rss",
+      "title": "Mexico trade mission launches in Toronto as businesses seek to expand ties with Canada",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A major Mexican trade mission to Canada launched Thursday, involving over 200 Mexican businesses seeking to expand commercial links during the two-day, two-city encounter that will include high-level talks on the Canada-US-Mexico Agreement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a72abe4b454cd416af438c341bc94aa540462c52",
+      "url": "https://www.cbc.ca/news/canada/settlement-cra-account-hack-2020-federal-court-2026-9.7189102?cmp=rss",
+      "title": "Canadian government to pay $8.7M to settle data breach class-action involving CRA accounts",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The federal government will pay $8.7 million to settle a class-action lawsuit involving tens of thousands of Canadians whose sensitive information was compromised or stolen when hackers got into their accounts on government websites, including the Canada Revenue Agency (CRA) portal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "49cc5072c3b51edaa3cd90c7607dfb64045c5df4",
+      "url": "https://www.cbc.ca/news/canada/montreal/bill-79-five-years-indigenous-children-missing-quebec-9.7190006?cmp=rss",
+      "title": "5 years after Quebec law, 129 Indigenous families still need answers on missing children",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "According to a recent government report, 129 Indigenous families have started the process of searching for 221 missing children since the law, known as Bill 79, came into effect.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7a2d17a16ae297c42b5724afac03934bf69a183e",
+      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-disarm-9.7189327?cmp=rss",
+      "title": "Why disarming Hezbollah is about much more than guns and rockets",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Facing an existential breaking point, Lebanon’s government is attempting to disarm Hezbollah and assert state sovereignty following a fragile, often-violated April ceasefire with Israel. The path forward remains a dangerous gamble.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "157d4eaaac1fa58989dc337297b7cec3bb1b59bd",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-cas-9.7189944?cmp=rss",
+      "title": "Children's aid system faces heightened calls for change after Ontario couple's murder, torture convictions",
+      "published_at": "2026-05-07T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "The judge in the trial for an Ontario couple who'd been caring for two brothers was clear in laying blame: Becky Hamber and Brandy Cooney are the ones who committed murder and other crimes. He also noted that the Children's Aid Society (CAS) had \"zero to do\" with their guilt or innocence. Still, the case raises concerns about the child protection system and has showcased systemic issues that need to be addressed immediately, say advocates and other observers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "303ab7bb8b6996976e718c66536843672090e389",
+      "url": "https://www.cbc.ca/news/health/breast-implant-registry-health-canada-9.7190465?cmp=rss",
+      "title": "Advocates slam Health Canada's new voluntary breast implant registry, MP 'deeply disappointed'",
+      "published_at": "2026-05-06T18:08:25-04:00",
+      "section": "Canada",
+      "summary_auto": "Health Canada has launched a new voluntary registry that will allow patients and health-care professionals to receive direct alerts about breast implant recalls and safety issues, but some patient advocates and medical professionals say it doesn't go far enough.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.102,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9205f019efd18bb00195c67dea743c0eb34811ef",
+      "url": "https://www.cbc.ca/news/canada/toronto/fifa-fan-festival-tickets-sell-out-first-wave-9.7190634?cmp=rss",
+      "title": "1st wave of free FIFA Fan Festival tickets in Toronto snapped up in 4 hours",
+      "published_at": "2026-05-06T17:06:26-04:00",
+      "section": "Canada",
+      "summary_auto": "The first wave of free tickets to the FIFA Fan Festival in Toronto in June were snapped up on Wednesday within four hours of being made available online, an official says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2def216722104bf30e703c8de28d90faa7b6c6c6",
+      "url": "https://www.cbc.ca/player/play/9.7190611?cmp=rss",
+      "title": "Japan just invented a new word for ‘cruel heat’",
+      "published_at": "2026-05-06T16:42:34-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Temperatures in Japan have reached a breaking point, and the language is shifting to keep up. The Japan Meteorological Agency has introduced a new term for days exceeding 40 C: kokushobi, or \"cruelly hot day.\" In a culture with a deep relationship between seasons and language, CBC News's Johanna Wagstaffe explores how the arrival of this word is a sobering signal of climate change.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "67eaad0d41e01cf77d711a93f485a334037612ee",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-based-group-purchase-whitecaps-9.7190534?cmp=rss",
+      "title": "B.C.-based group planning bid for Vancouver Whitecaps, minister says",
+      "published_at": "2026-05-06T15:46:48-04:00",
+      "section": "Canada",
+      "summary_auto": "British Columbia Jobs Minister Ravi Kahlon says the provincial government has been approached by a local group that wants to buy the Vancouver Whitecaps.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "17cde5f3760c56c8d101a6b3fd4b2e0d1447be2e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/guy-felicella-return-proclamation-vancouver-ken-sim-ops-9.7190185?cmp=rss",
+      "title": "Advocate to return 'disingenuous' award after mayor's opposition to Vancouver overdose prevention site",
+      "published_at": "2026-05-06T15:34:59-04:00",
+      "section": "Canada",
+      "summary_auto": "A prominent harm reduction and recovery advocate says he's returning an honour bestowed upon him by Vancouver's mayor amid a political battle over a proposed overdose prevention site (OPS) in the city centre.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "86e0f16eeefdfbc4747332e3e479ab046b95c80c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/grey-whale-struck-by-sea-doo-in-vancouver-not-injured-9.7190422?cmp=rss",
+      "title": "Grey whale struck by Sea-Doo in Vancouver appears uninjured, 'acting normal,' says researcher",
+      "published_at": "2026-05-06T15:22:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Department of Fisheries and Oceans was able to assess the animal for injuries on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a82bcccad5aa19d73bfdffeb7ec418e9c6b28400",
+      "url": "https://www.cbc.ca/news/indigenous/carey-price-2nd-generation-cutoff-9.7189114?cmp=rss",
+      "title": "Former NHL goalie Carey Price among those calling for changes to Indian Act",
+      "published_at": "2026-05-06T14:19:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb6f6f9bb26e61bacaccf950c8f4d2fa2f0ded41",
+      "url": "https://www.cbc.ca/news/canada/calgary/domestic-violence-concerns-alberta-voter-list-9.7190212?cmp=rss",
+      "title": "Alberta voters list leak puts domestic violence victims on edge, organizations say",
+      "published_at": "2026-05-06T14:06:48-04:00",
+      "section": "Canada",
+      "summary_auto": "It's unknown how many people may have been able to access an online database with the personal information of millions of Albertans. The CEO of a domestic violence organization in Calgary calls the situation \"disturbing\" and says it puts victims at risk.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.962,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "63c2c4f36a8d6bce654415f099e49fa4220a079c",
+      "url": "https://www.cbc.ca/news/canada/calgary/kananaskis-country-grizzly-bear-warning-9.7190373?cmp=rss",
+      "title": "Hiker charged by grizzly bear near popular trail in Kananaskis Country",
+      "published_at": "2026-05-06T14:03:36-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "A hiker had a close call with a charging grizzly bear near the the popular hiking spot of Troll Falls in Kananaskis Country, according to a provincial warning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "62c15fc9b6e40aac94c78a25ee606045bf28251c",
+      "url": "https://www.cbc.ca/news/canada/montreal/carney-quebec-frechette-airasia-airbus-9.7189816?cmp=rss",
+      "title": "Airbus secures 150-plane order with AirAsia in multi-billion dollar boon for Quebec aviation",
+      "published_at": "2026-05-06T13:55:12-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f0dfb6bb15683fd7f380a7d6db1a2e188ddd193",
+      "url": "https://www.cbc.ca/news/science/anthropic-ai-deal-spacex-data-centres-9.7190201?cmp=rss",
+      "title": "Anthropic AI says deal struck to use SpaceX data centres",
+      "published_at": "2026-05-06T13:20:00-04:00",
+      "section": "World",
+      "summary_auto": "Anthropic on Wednesday said it reached a deal to tap the computing resources of Elon Musk's SpaceX, marking a détente with its one-time critic and ‌a boost for both companies in the high-stakes artificial intelligence race.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "664d9e11f54129e3f3cd00c15d7b6998ef267946",
+      "url": "https://www.cbc.ca/news/politics/carney-senate-appointment-process-committee-9.7190198?cmp=rss",
+      "title": "Carney to 'take into account' advice on Senate appointments from Trudeau-era committee",
+      "published_at": "2026-05-06T12:49:23-04:00",
+      "section": "Canada",
+      "summary_auto": "Prime Minister Mark Carney said Wednesday he will \"take into account\" the advice of an independent advisory body to fill a number of vacancies in the Senate — though he didn't say explicitly how that will impact his decisions on appointments.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "63d6f0e62273f1bd7db6423a8110f6443c64d93f",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-pharmacy-energy-drinks-9.7190175?cmp=rss",
+      "title": "Quebec pharmacy chain pulls energy drinks as pressure mounts on government for youth ban",
+      "published_at": "2026-05-06T12:42:28-04:00",
+      "section": "Health",
+      "summary_auto": "A Quebec City-based pharmacy chain says it will remove energy drinks from its store shelves amid growing calls for the Quebec government to ban the sale of the high-caffeine beverages to children.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "767317ab1724a23e72e37f988367e16eefe6c711",
+      "url": "https://www.cbc.ca/news/business/millennials-living-with-parents-statscan-9.7190099?cmp=rss",
+      "title": "Millennials more likely to live with their parents than past generations: StatsCan report",
+      "published_at": "2026-05-06T12:29:56-04:00",
+      "section": "Business",
+      "summary_auto": "Analysis of data from three census cycles showed that 16.3 per cent of millennials aged 25 to 39 were living with parents in 2021, whereas 8.2 per cent of baby boomers in 1991 were doing the same. But the high cost of housing wasn't entirely to blame, according to Statistics Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.433,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5dfd183ba66e445425b6b72951c95b9d20612ae8",
+      "url": "https://www.cbc.ca/news/business/honda-ev-plant-ontario-9.7190021?cmp=rss",
+      "title": "Honda more definitively halting $15B EV plant development in Ontario, according to reports",
+      "published_at": "2026-05-06T12:14:25-04:00",
+      "section": "Business",
+      "summary_auto": "Japanese news media reported that Honda Motor plans to indefinitely halt the development of its $15-billion electric vehicle complex in Canada, though Honda Canada said they had nothing to report at this time. Ottawa acknowledged automakers face \"significant challenges,\" but did not say whether the company had updated them on those plans.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.141,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -30,28 +420,15 @@
       }
     },
     {
-      "id": "a82bcccad5aa19d73bfdffeb7ec418e9c6b28400",
-      "url": "https://www.cbc.ca/news/indigenous/carey-price-2nd-generation-cutoff-9.7189114?cmp=rss",
-      "title": "Former NHL goalie Carey Price among those calling for changes to Indian Act",
-      "published_at": "2026-05-06T10:56:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "More witnesses weighed in Tuesday on legislation that would make changes to registration under the Indian Act, including eliminating the second-generation cut-off.",
+      "id": "632abcf851e6d49912f92a7a6f13da6d93be5b78",
+      "url": "https://www.cbc.ca/news/canada/north/alaska-landslide-set-off-cn-tower-sized-tsunami-last-year-and-a-warning-for-b-c-9.7189983?cmp=rss",
+      "title": "Alaska landslide set off CN Tower-sized tsunami last year — and a warning for B.C.",
+      "published_at": "2026-05-06T10:49:05-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "When millions of tonnes of rock fell one kilometre into an Alaskan fiord last year, it set off one of the largest tsunamis ever recorded, a monstrous 481-metre wave higher than the tallest viewing platform of the CN Tower, a new study shows.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ea5bf101099ba8cb518e7bcffef03fe0b75a2456",
-      "url": "https://www.cbc.ca/player/play/9.7189837?cmp=rss",
-      "title": "Carney makes aerospace announcement near Montreal",
-      "published_at": "2026-05-06T10:25:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney participates in an event announcing an aerospace investment in Mirabel, Que.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -60,362 +437,11 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-9.7189856?cmp=rss",
       "title": "Russia fires dozens of drones at Ukraine in 'obvious spurning' of ceasefire, says Zelenskyy",
       "published_at": "2026-05-06T10:13:32-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Russia fired dozens of drones at Ukraine in nighttime attacks, Ukrainian officials said Wednesday, disregarding a unilateral ceasefire announced by Kyiv that began at midnight.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "815b026648bb39ae819ff0416066001e29145244",
-      "url": "https://www.cbc.ca/news/canada/calgary/jordan-bonner-child-luring-exploitation-materials-charges-9.7189890?cmp=rss",
-      "title": "Calgary criminal defence lawyer charged with 9 offences, including child luring",
-      "published_at": "2026-05-06T09:59:40-04:00",
-      "section": "Canada",
-      "summary_auto": "Criminal defence lawyer Jordan Bonner has been charged with child luring and sexual exploitation offences, six months after he was charged with harassing a police officer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.949,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5dda074772cb1fcf46a3899c2ac87976832b4bdc",
-      "url": "https://www.cbc.ca/news/world/israel-beirut-suburbs-air-strike-ceasefire-lebanon-9.7189905?cmp=rss",
-      "title": "Israel strikes Beirut suburbs for 1st time since ceasefire was announced",
-      "published_at": "2026-05-06T09:50:36-04:00",
-      "section": "World",
-      "summary_auto": "Israel struck Beirut on Wednesday for the first time since agreeing to a ceasefire with Hezbollah last month, with Israel saying it targeted a commander of the militant group's elite Radwan force in the city's southern suburbs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cd25c994b69b33c9b251c7760a5aea58ca57697",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/fifa-vancouver-world-cup-prep-9.7189857?cmp=rss",
-      "title": "How will FIFA World Cup events affect Vancouver? Officials give update on impacts",
-      "published_at": "2026-05-06T09:24:22-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fab3539db68a9a0256ce5398bcf3529a184fac19",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/involuntary-addiction-treatment-now-legal-despite-medical-groups-warnings-9.7189731?cmp=rss",
-      "title": "Involuntary addiction treatment now legal in Sask. despite medical groups' warnings",
-      "published_at": "2026-05-06T09:04:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Compassionate Intervention Act is expected to come into force this fall after regulations are finalized. People forced into treatment will be taken to Saskatchewan Hospital, a psychiatric facility in North Battleford.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.379,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "12b1b64609364600148d00e66d209d874ef442d5",
-      "url": "https://www.cbc.ca/news/canada/montreal/michelin-guide-quebec-9.7189515?cmp=rss",
-      "title": "Michelin releases 2026 guide for Quebec, awards stars to 4 new restaurants",
-      "published_at": "2026-05-06T06:28:52-04:00",
-      "section": "Canada",
-      "summary_auto": "The second-ever Michelin guide for Quebec is out and four new restaurants have been awarded prestigious stars.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "730a69af893629d0828fd3e51b0e31d92ee3658e",
-      "url": "https://www.cbc.ca/news/entertainment/ted-turner-obituary-9.7189528?cmp=rss",
-      "title": "Ted Turner, founder of CNN, dead at 87",
-      "published_at": "2026-05-06T06:28:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ted Turner, ​the brash sportsman and entrepreneur whose ambition and instincts led to a media empire that included groundbreaking news network CNN, has died, CNN reported on Wednesday citing a press release from Turner Enterprises. He was 87.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2a12147ad72b5a4043e83fa8dbb84b5fdbc71004",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/richmond-teacher-freedom-convoy-presentation-9.7187794?cmp=rss",
-      "title": "Fired B.C. teacher wins job back after pro-Freedom Convoy presentation",
-      "published_at": "2026-05-06T06:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On Jan. 28, 2022, Richmond, B.C., teacher Nicole Kowal-Seafoot told a colleague before a presentation that, \"I might be losing my job today.\" More than four years after she did lose her job, for a presentation that was in favour of the self-styled \"Freedom Convoy,\" a labour arbitrator has ruled that the Richmond School District's decision was excessive.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "5f97854aca7c2158dba0d96b3851beececf00743",
-      "url": "https://www.cbc.ca/news/business/markets-may-6-9.7189370?cmp=rss",
-      "title": "Markets soar, oil prices plummet as hopes rise for U.S.-Iran peace",
-      "published_at": "2026-05-06T05:22:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Oil prices briefly fell under $100 US on Wednesday on hopes that Iran and the U.S. could make a peace deal, before rising a bit again. Wall Street and international markets all soared following the news.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.912,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "67bc36041ab5b4a90ce18b827e11a34e7bbbc823",
-      "url": "https://www.cbc.ca/news/world/us-dhs-aclu-lawsuit-canadian-john-doe-9.7187851?cmp=rss",
-      "title": "Canadian sues U.S. Homeland Security, which allegedly sought his Google data after critical social media posts",
-      "published_at": "2026-05-06T05:21:40-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Canadian is fighting back in U.S. federal court over what he says is an attempt by the Department of Homeland Security, through Google, to seek \"vast swaths of information\" about his personal life following social media posts critical of Donald Trump's administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "77c7b02c4bbc7321ec425e6b460f77bcb8bd58f5",
-      "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-highway-63-snowstorm-cost-9.7189147?cmp=rss",
-      "title": "Northern Alberta municipality wants province to cover cost of rescuing hundreds of drivers stranded on highway in snowstorm",
-      "published_at": "2026-05-06T04:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Mayor Sandy Bowman wants to bill Alberta after his municipality rescued hundreds of people stranded on Highway 63 during a recent snowstorm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c2c43abb5e0b8fba7637ff9018572c787a50abd4",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/flooding-farming-seeding-opposition-minister-9.7189143?cmp=rss",
-      "title": "Seeding delayed in parts of Saskatchewan due to flooding",
-      "published_at": "2026-05-06T03:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "John Zbitniff says this is the week he'd normally be out in his fields seeding. But not this year. His land in the RM of Good Lake in east-central Saskatchewan is covered in water.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c7c360029ff2cb788fd402b5a56b7cb00c865858",
-      "url": "https://www.cbc.ca/news/health/hondius-ship-hantavirus-andes-strain-9.7189281?cmp=rss",
-      "title": "WHO confirms Andes strain of hantavirus in cruise ship passengers, with 3 transferred from ship for treatment",
-      "published_at": "2026-05-06T02:45:35-04:00",
-      "section": "World",
-      "summary_auto": "Health authorities have identified the Andes strain of hantavirus, which can be transmitted from person to person in passengers who were on a cruise ship at the centre of a deadly outbreak of the rare infection, officials said Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e156e99193524a1fa566cad77228a4bc592618c5",
-      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-overdose-increase-9.7188097?cmp=rss",
-      "title": "Call for more addiction treatments in northern Ontario as overdose deaths reach 'unprecedented' level",
-      "published_at": "2026-05-06T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "More treatments for addictions are needed as northern Ontario communities face a spike in overdoses tied to an increasingly toxic drug supply, according to front-line workers, physicians and addiction experts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c9a0665a5d1a03459d9c945650d3e8a1f3114d8c",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/farmers-nova-scotia-irrigation-drought-9.7188440?cmp=rss",
-      "title": "Farm irrigation systems aren't cheap. For N.S. growers, going without could be costlier",
-      "published_at": "2026-05-06T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "After a harsh growing season in 2025 due to severe drought, more Nova Scotia farmers are investing in irrigation equipment to ensure their crops can survive extreme weather events.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1969cf8b828b4e9954c7b936c57c563fb2493631",
-      "url": "https://www.cbc.ca/news/canada/first-person-mom-group-9.7184941?cmp=rss",
-      "title": "I was struggling as a new mother. Finding my mom group made me realize I wasn't alone",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Emily Wagner was seven months pregnant when her husband fell off a ledge and sustained life-altering injuries. The cumulative trauma of his accident, combined with postpartum depression, left her feeling alone. What saved her was the community she found through her mom group.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.854,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "d83066da92b291d9acd0f1b2975746b7cd499dec",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-saq-alchohol-9.7184294?cmp=rss",
-      "title": "As drinking dries up, Quebec's liquor board faces criticism over efforts to boost sales",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "With the consumption of alcohol on a steady decline, the province’s state-run liquor retailer is making an aggressive attempt to make sure sales don’t dip. Public health experts question whether it's going too far.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11bc272c87a9bfbaac3730fc840a05d6d1a9f4ba",
-      "url": "https://www.cbc.ca/news/business/quick-service-restaurants-struggling-9.7188698?cmp=rss",
-      "title": "Quick-service restaurants are taking a bigger hit as Canadians feel crunched by the cost of living",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "While restaurants of all kinds are feeling pinched, quick-service restaurants are getting hit harder than higher-end ones, according to a report from Restaurants Canada. It's a signal of a K-shaped economy, where those with the most money can still shell out for a nice meal, but those with lower incomes have no option but to cut back.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e78aaf9b61fe1d99e1243b5dc4b760c5c342aaeb",
-      "url": "https://www.cbc.ca/news/politics/canada-to-pick-between-swedish-and-u-s-radar-planes-to-protect-skies-9.7178011?cmp=rss",
-      "title": "Canada to pick between Swedish and U.S. radar planes to protect its skies",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The government of Canada wants to quickly acquire half a dozen new \"flying radars\" — officially called Airborne Early Warning and Control (AEW&C) aircraft — at a cost of more than $5 billion.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "357c02f43184a5e477681dfde7a22d49db913756",
-      "url": "https://www.cbc.ca/news/world/mexico-u-s-sinaloa-extradition-9.7188877?cmp=rss",
-      "title": "Mexico moved extradition goalposts after U.S. indicted top politician over cartel ties: experts",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "The Claudia Sheinbaum administration's demand for \"irrefutable\" proof before handing over a top elected politician to the U.S. over alleged drug cartel dealings reveals how the Mexican government applies a double standard in its stated battle against organized crime, experts say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a56e8fd28811f8ffc0c34ceadaa15fc1fe793785",
-      "url": "https://www.cbc.ca/news/world/gaza-rats-tents-9.7188606?cmp=rss",
-      "title": "'The rats are like a storm': Palestinians seeking refuge in rubble struggle with rodent infestations",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Palestinians living in tents amid the rubble in the Gaza Strip and aid groups trying to help them say rodent infestations have left them suffering from diseases and unsure how to cope.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "42550e8958bb93b06e51e8c7bc460d5f15f7016e",
-      "url": "https://www.cbc.ca/news/politics/privacy-investigation-chatgpt-open-ai-9.7188538?cmp=rss",
-      "title": "OpenAI didn't respect Canadian privacy law when it trained ChatGPT: investigation",
-      "published_at": "2026-05-06T00:00:00-04:00",
-      "section": "Business",
-      "summary_auto": "OpenAI did not respect Canadian privacy laws when it trained its immensely popular ChatGPT tool, resulting in the collection and use of sensitive personal information, according to a joint investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.32,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "528965433687f37509e9cba220fe9bb058f61f99",
-      "url": "https://www.cbc.ca/news/business/telecommunications-workers-restrictions-artificial-intelligence-9.7189209?cmp=rss",
-      "title": "Telecom workers say AI being used to monitor employees, disguise accents of offshore agents",
-      "published_at": "2026-05-05T18:59:45-04:00",
-      "section": "Business",
-      "summary_auto": "Telecommunications workers are calling for government restrictions on the use of artificial intelligence in the sector, suggesting the technology is being used to monitor workers and disguise the accents of overseas call centre workers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "10c047e701a1b9fea369f0fa8bbf32479faafcfe",
-      "url": "https://www.cbc.ca/news/world/new-york-times-discrimination-lawsuit-9.7189123?cmp=rss",
-      "title": "U.S. rights group sues New York Times, claiming discrimination against a white man",
-      "published_at": "2026-05-05T17:57:04-04:00",
-      "section": "World",
-      "summary_auto": "A U.S. federal civil rights agency filed a discrimination lawsuit Tuesday against the New York Times, claiming that the news organization passed over a white male employee for a promotion in favour of a lesser qualified woman to meet its diversity goals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4623ea46467f862f88e471e751e574a3e271e17a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/maya-gebala-5th-surgery-update-9.7189117?cmp=rss",
-      "title": "Tumbler Ridge shooting survivor's 5th surgery 'a success,' father says",
-      "published_at": "2026-05-05T17:28:44-04:00",
-      "section": "Canada",
-      "summary_auto": "The father of Maya Gebala, the 12-year-old seriously injured during the mass shooting in Tumbler Ridge, B.C., says his daughter has undergone a successful cranioplasty.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a6f1066a2c5c9f7948be729157678428d6270e59",
-      "url": "https://www.cbc.ca/news/politics/canada-joining-eu-canada-eu-deepen-ties-9.7189064?cmp=rss",
-      "title": "Canada and Europe should get ‘creative’ in forging closer ties, EU ambassador says",
-      "published_at": "2026-05-05T16:37:15-04:00",
-      "section": "World",
-      "summary_auto": "The EU’s Ambassador to Canada, Geneviève Tuts, says the bloc is looking to \"elevate\" its relationship with this country and take it to the \"next level.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "50910d55c494f5097a6c892def5214d221acb58b",
-      "url": "https://www.cbc.ca/news/politics/nature-carney-government-accoutability-act-9.7188995?cmp=rss",
-      "title": "Carney government 'not working' to enshrine nature targets into law, junior nature minister says",
-      "published_at": "2026-05-05T16:04:54-04:00",
-      "section": "Canada",
-      "summary_auto": "Despite the Carney government's parliamentary majority, Canada's junior nature minister said she has no plans to back up recent commitments to protect Canada's waters and lands in legislation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "446b6f7fdd4ef08690cad975b630a41f65b6ba56",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-bc-hot-weather-records-9.7188997?cmp=rss",
-      "title": "Vancouver breaks temperature record last set in 1898 amid hot weather across B.C.",
-      "published_at": "2026-05-05T15:28:55-04:00",
-      "section": "Canada",
-      "summary_auto": "Environment Canada says Vancouver's high temperature on Monday reached 23.9 C, easily breaking the record of 22.2 C set in 1898.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     }
