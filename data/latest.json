@@ -1,18 +1,200 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-08T09:18:16.813347-04:00",
+  "generated_at": "2026-05-08T15:08:26.230939-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "d1ae57d3f3b26c8ac0b5068d092f29c5afc609c3",
-      "url": "https://www.cbc.ca/sports/soccer/alphonso-davies-injury-canada-soccer-may-8-9.7192349?cmp=rss",
-      "title": "Canada captain Alphonso Davies sustains hamstring injury weeks before World Cup",
-      "published_at": "2026-05-08T05:08:17-04:00",
+      "id": "34bfc04698cd4f31264dfa4dc92cac0eee1f1cf6",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-9.7193061?cmp=rss",
+      "title": "Russia, Ukraine agree to 3-day ceasefire and prisoner swap",
+      "published_at": "2026-05-08T10:45:10-04:00",
       "section": "Top Stories",
-      "summary_auto": "Canada men's soccer captain Alphonso Davies sustained a left hamstring injury in Bayern Munich's Champions League semifinal against Paris Saint-Germain, putting his availability for the upcoming World Cup in doubt.",
+      "summary_auto": "U.S. President Donald Trump said Friday that the leaders of Russia and Ukraine have agreed to his request for a three-day ceasefire and an exchange of prisoners, adding that such a halt to hostilities could be the \"beginning of the end\" of the long war between them.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.572,
+        "sentiment": -0.881,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5adc8254a5831beab7a01c1cd56f1442bd57b2f2",
+      "url": "https://www.cbc.ca/news/business/air-india-cancels-flights-canada-9.7193009?cmp=rss",
+      "title": "Air India cuts flights to Canada as jet fuel prices soar",
+      "published_at": "2026-05-08T10:14:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Air India has cut flight volumes for April and May, with plans for more schedule trims in June and July, according to an internal memo to staff. Its round-trip flights scheduled between Toronto and Delhi fell to 31 in May versus 48 in March, a 35 per cent decrease, according to aviation data tracker Cirium.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7c79fe0785b43d61421ec45811db33bf443beb04",
+      "url": "https://www.cbc.ca/news/politics/ottawa-proposes-suite-of-measures-to-streamline-project-approvals-complete-review-process-within-1-year-9.7192935?cmp=rss",
+      "title": "Ottawa proposes suite of measures to streamline project approvals, complete review process within 1 year",
+      "published_at": "2026-05-08T10:01:56-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government is proposing legislative changes to streamline the review process for major projects, including energy projects such as pipelines. The changes are aimed at completing these reviews within a year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.332,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "06a5b838b6e8174ad672c1b2825c8fb2568413bb",
+      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853?cmp=rss",
+      "title": "Israeli strikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "published_at": "2026-05-08T09:20:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli airstrikes on southern Lebanon killed at least five people Friday, while the Iran-backed Hezbollah militant group fired rockets on northern Israel without inflicting any casualties.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.946,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "95b7bbec3200c2eb149a56d6c5ce1dc9e93bd521",
+      "url": "https://www.cbc.ca/news/canada/manitoba/warehouse-one-jeans-retailer-winnipeg-insolvency-9.7192197?cmp=rss",
+      "title": "Winnipeg-based retailer to liquidate all Warehouse One, Bootlegger stores",
+      "published_at": "2026-05-08T08:57:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Winnipeg-based clothing retailer Warehouse One is moving to liquidate all of its 128 stores, including Bootlegger.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed3b30fb2965b75a930852ff20fd3afa6aabbc84",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-synagogue-shooting-9.7192796?cmp=rss",
+      "title": "3 people standing in front of North York synagogue shot at with replica firearm: police",
+      "published_at": "2026-05-08T08:53:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three people standing in front of a synagogue in North York Thursday night were shot at with a replica firearm in an incident that police say is being investigated as a hate-motivated offence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6aee0f554029aa383e5bdfa8418e0c228f1c531",
+      "url": "https://www.cbc.ca/news/politics/smith-alberta-mou-finalized-9.7192757?cmp=rss",
+      "title": "Danielle Smith says she hopes MOU can be finalized in 'next number of days'",
+      "published_at": "2026-05-08T08:32:41-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Alberta Premier Danielle Smith said Friday she hopes the memorandum of understanding between her province and the federal government can be completed soon because Albertans need to see that \"Canada can work.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5ab66135240223a9a6d009c275907de3f5d8c32a",
+      "url": "https://www.cbc.ca/news/canada/calgary/athana-mentzelopoulos-alleged-priviledged-records-9.7191958?cmp=rss",
+      "title": "After more than a year of litigation, former AHS CEO’s wrongful dismissal lawsuit has much to sort out",
+      "published_at": "2026-05-08T08:26:51-04:00",
+      "section": "Canada",
+      "summary_auto": "Civil cases, especially complex ones, can take years to weave through the legal system. But 14 months after Athana Mentzelopoulos launched her wrongful dismissal suit, many Albertans may wonder about the status of the high-profile case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.039,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b74435aa023265e00bf16ba103532f8aba76667b",
+      "url": "https://www.cbc.ca/news/health/hantavirus-contact-tracing-explained-9.7191411?cmp=rss",
+      "title": "Hantavirus isn't COVID-19. Here's why contact tracing after the MV Hondius outbreak is different",
+      "published_at": "2026-05-08T08:20:23-04:00",
+      "section": "Health",
+      "summary_auto": "Human-to-human transmission of the rodent-borne hantavirus may be quite rare, but a deadly outbreak that happened on board a cruise ship in the Atlantic Ocean now has health officials around the world — including here in Canada — monitoring for any potential spread.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cab94e1874015ef8425a78186a21fc2a8e1c11a8",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-federal-government-supports-oyster-industry-9.7192422?cmp=rss",
+      "title": "Seed imports, licence buyback program part of federal support for P.E.I.'s oyster industry",
+      "published_at": "2026-05-08T08:19:56-04:00",
+      "section": "Canada",
+      "summary_auto": "In a news release Friday, the federal government has announced a series of support measures for Prince Edward Island’s oyster industry.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c564f07a80a223416cab386f4389cd6394d32a09",
+      "url": "https://www.cbc.ca/news/canada/hamilton/smash-and-grab-robberies-9.7192541?cmp=rss",
+      "title": "2 youths among 8 charged in connection with smash-and-grab robberies in Ontario, police say",
+      "published_at": "2026-05-08T08:17:57-04:00",
+      "section": "Canada",
+      "summary_auto": "The Halton Regional Police Service has laid over 50 charges following several smash-and-grab robberies in Ontario between Jan. 25 and March 17, in what the deputy police chief is calling \"the first major crackdown\" on such thefts impacting businesses.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e59bf16574f6419b3c93237a88915c468465bcea",
+      "url": "https://www.cbc.ca/news/health/livestory/hantavirus-questions-answered-9.7192423?cmp=rss",
+      "title": "Canadian public health officials speaking now about hantavirus",
+      "published_at": "2026-05-08T08:05:39-04:00",
+      "section": "Health",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c66ff70fffc811e283867f164c5e1b6b1dce2f06",
+      "url": "https://www.cbc.ca/news/business/nintendo-switch-2-price-9.7192526?cmp=rss",
+      "title": "Nintendo hiking price for Switch 2 consoles",
+      "published_at": "2026-05-08T08:01:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Japanese video-game company behind the Super Mario and Pokemon franchises announced it's raising prices on the Nintendo Switch 2, citing challenging business conditions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "673285331af5673a1f9022ffcbd11300351c9711",
+      "url": "https://www.cbc.ca/sports/soccer/real-madrid-fine-9.7192693?cmp=rss",
+      "title": "Real Madrid fines Federico  Valverde, Aurelien Tchouameni more than $1.1M US for altercation",
+      "published_at": "2026-05-08T07:55:39-04:00",
+      "section": "World",
+      "summary_auto": "Real Madrid fined Federico Valverde and Aurelien Tchouameni half a million euros (the equivalent of $588,000 US) each on Friday for their altercation during practice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "be37f2f9ddccf8842ede6bbe1e8487b209c576d4",
+      "url": "https://www.cbc.ca/news/world/us-iran-war-hormuz-day-70-9.7192522?cmp=rss",
+      "title": "Flare-ups in fighting continue as U.S. expects response from Iran on proposal to end hostilities",
+      "published_at": "2026-05-08T07:37:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The United States said it expected a response from Iran to its latest proposal to end their war, even as American and Iranian ‌forces clashed again on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
         "subjectivity_hint": "low"
       }
     },
@@ -35,10 +217,10 @@
       "title": "Canada's economy dropped 18,000 jobs in April as unemployment rose to 6-month high",
       "published_at": "2026-05-08T04:59:11-04:00",
       "section": "Canada",
-      "summary_auto": "Canada's unemployment ‌rate rose to a six-month high in April to 6.9 per cent as the economy lost a net of 17,700 jobs in March, Statistics Canada data showed on Friday, indicating a continued weakness in the labour market, which has struggled in the ​face of U.S tariffs and trade uncertainty.",
+      "summary_auto": "April's loss means Canada has shed jobs in three of the fourth months so far this year, making for 112,000 jobs lost since January. The Statistics Canada data released on Friday indicates a continued weakness in the labour market, which has struggled in the ​face of U.S tariffs and trade uncertainty.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.929,
+        "sentiment": -0.92,
         "subjectivity_hint": "low"
       }
     },
@@ -47,12 +229,77 @@
       "url": "https://www.cbc.ca/news/canada/toronto/ontario-universities-canvas-breach-9.7192287?cmp=rss",
       "title": "U of T, OCAD amongst Ontario universities impacted by Canvas cyber breach",
       "published_at": "2026-05-08T04:57:31-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5dd80ac9d35a171f3072951c442f9763dc30a8b5",
+      "url": "https://www.cbc.ca/news/canada/montreal/emergency-room-habs-canadiens-9.7192284?cmp=rss",
+      "title": "Montreal ERs are getting some relief during Habs games in Stanley Cup playoffs",
+      "published_at": "2026-05-08T04:10:51-04:00",
+      "section": "Canada",
+      "summary_auto": "Hospital officials in the Montreal area say their emergency rooms generally saw dips in visits during playoff game nights.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0ee2fed5a33e5db67a83e945b07bd0cccb529edd",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-separatist-referendum-whats-next-9.7191815?cmp=rss",
+      "title": "Referendum bid by Alberta separatists stuck in legal limbo, even if petition has enough names",
+      "published_at": "2026-05-08T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A legal case brought by First Nations over treaty rights prompted a temporary injunction in April. What happens next?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "124926f0cbca24edf1f00dc9a1ff76423146e40f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/caregiving-in-canada-caregiver-report-2026-9.7190486?cmp=rss",
+      "title": "Caregivers in Canada are 'caught in a vicious cycle,' new report finds",
+      "published_at": "2026-05-08T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A new report from the Canadian Centre for Caregiving Excellence has found that caregivers are caught in a bind, having to work more to meet the financial demands of care — and simultaneously work less to meet the time demands of care.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77fea0ccdc9d876d45772e032f34e2e13d37f3cc",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/college-physicians-cancer-rolland-9.7191810?cmp=rss",
+      "title": "B.C. medical regulator heads to court to stop 'Cancer Guy' from dispensing medical advice",
+      "published_at": "2026-05-08T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The College of Physicians and Surgeons of B.C. is seeking a permanent injunction to prevent the founder of a popular online \"personalized cancer care and precision oncology service\" from assessing patients and dispensing medical advice.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "76f55c8bfeabbf07ba46fdbc15e53946daffa8d2",
+      "url": "https://www.cbc.ca/news/canada/manitoba/potash-mine-padcom-production-9.7191725?cmp=rss",
+      "title": "Manitoba's only potash mine nears commercial production after nearly 20 years of planning",
+      "published_at": "2026-05-08T02:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The only potash mine in Manitoba plans to begin commercial production next month after nearly two decades of development.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -82,54 +329,15 @@
       }
     },
     {
-      "id": "be182a85d240f546d3db765a5079a0dbde24ca7a",
-      "url": "https://www.cbc.ca/news/world/cartel-sinaloa-mexico-9.7192098?cmp=rss",
-      "title": "Probe alleging 'El Chapo' sons fed victims to tigers led to case against top Mexican politician: court docs",
-      "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "While the Mexican government insists it needs more proof before acting on a U.S. request to hand over the former governor of Sinaloa, court records suggest the case against Rubén Rocha stems from a sprawling investigation into the sons of former Sinaloa cartel boss Joaquín “El Chapo” Guzmán Loera.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b2b3ae927f1a7d5cc2e431595d830502aaca9217",
       "url": "https://www.cbc.ca/news/canada/call-centre-agent-telus-ai-copilot-9.7190675?cmp=rss",
-      "title": "As AI creeps into telecoms, call centre agents worry they'll be replaced",
+      "title": "'Will I have a job tomorrow?' Telus worker asks as AI tools spread",
       "published_at": "2026-05-08T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "Some call centre agents at a major Canadian telecom company say they fear for their jobs as AI takes an increasing presence in their workplace. A Telus employee in B.C. says a company requirement to use an AI \"co-pilot\" on phone calls, part of a suite of AI tools Telus uses internally, has her concerned she's training a system that will eventually take her job.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5bdcf142b6444a77df5a6adc69ac9f944e27e71d",
-      "url": "https://www.cbc.ca/news/politics/defence-equipment-military-politics-9.7191921?cmp=rss",
-      "title": "Ottawa to expand defence buying powers when national, economic security at stake",
-      "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Liberal government is preparing to give the new Defence Investment Agency broad authority to sidestep normal military procurement rules in cases tied to national and economic security. Proposed legislation would sharply expand exemptions for sole-source contracts while extending the agency’s influence into industrial policy, innovation and defence infrastructure.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.91,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ea0ae8a39a07a9d98706cb003771fbc87e85b503",
-      "url": "https://www.cbc.ca/news/entertainment/mortal-kombat-ii-review-9.7191940?cmp=rss",
-      "title": "Mortal Kombat II is brainless. That's why it works",
-      "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Mortal Kombat is back for another round. But is what is clearly little more than a fan-service action-vehicle actually somehow good? A little bit. Maybe. Sort of?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.83,
+        "sentiment": -0.494,
         "subjectivity_hint": "medium"
       }
     },
@@ -160,42 +368,29 @@
       }
     },
     {
+      "id": "b2b3ae927f1a7d5cc2e431595d830502aaca9217",
+      "url": "https://www.cbc.ca/news/canada/call-centre-agent-telus-ai-copilot-9.7190675?cmp=rss",
+      "title": "As AI creeps into telecoms, call centre agents worry they'll be replaced",
+      "published_at": "2026-05-08T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Some call centre agents at a major Canadian telecom company say they fear for their jobs as AI takes an increasing presence in their workplace. A Telus employee in B.C. says a company requirement to use an AI \"co-pilot\" on phone calls, part of a suite of AI tools Telus uses internally, has her concerned she's training a system that will eventually take her job.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1c2a844e67bb6aff6d56b21cadbd0919092c93cb",
       "url": "https://www.cbc.ca/news/investigates/live-nation-executive-exclusive-9.7191295?cmp=rss",
       "title": "Live Nation, Ticketmaster vow to fight breakup after monopoly verdict",
       "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Live Nation sat down with the CBC’s Dave Seglins in the company’s first feature interview since a U.S. federal jury verdict found the entertainment giant abused its monopoly and overcharged fans.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b39f8b185e7d0b9da7f5442ac6ae52604fd6f0e",
-      "url": "https://www.cbc.ca/news/world/venice-biennale-art-politics-9.7190425?cmp=rss",
-      "title": "Art and politics clash at Venice Biennale, as world conflicts upstage exhibition's opening",
-      "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As protests, resignations and threatened legal action linked to Russia and Israel dominate the headlines in the lead-up to the Venice Biennale, a major exhibit puts artists from Africa and its diaspora at the heart of the conversation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "39dbf75147f39809abd6959f0de54feec2faebca",
-      "url": "https://www.cbc.ca/news/politics/bill-c-11-military-sexual-misconduct-recommendation-9.7191845?cmp=rss",
-      "title": "Liberals restore bill containing incoming GG's recommendation for Canada's military",
-      "published_at": "2026-05-08T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "On the same day the prime minister named Louise Arbour as Canada's next governor general, the Liberals voted to restore proposed legislation that includes Arbour's recommendation to strip the Canadian military of its power to investigate and prosecute sexual offences. Critics say the move ignores survivors, and could even represent a conflict of interest.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -208,6 +403,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "be182a85d240f546d3db765a5079a0dbde24ca7a",
+      "url": "https://www.cbc.ca/news/world/cartel-sinaloa-mexico-9.7192098?cmp=rss",
+      "title": "Probe alleging 'El Chapo' sons fed victims to tigers led to case against top Mexican politician: court docs",
+      "published_at": "2026-05-08T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "While the Mexican government insists it needs more proof before acting on a U.S. request to hand over the former governor of Sinaloa, court records suggest the case against Rubén Rocha stems from a sprawling investigation into the sons of former Sinaloa cartel boss Joaquín “El Chapo” Guzmán Loera.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -238,42 +446,42 @@
       }
     },
     {
-      "id": "aa8d71a0ab411df24a475d43d2d7c26174ec842b",
-      "url": "https://www.cbc.ca/news/canada/ottawa/brockville-police-arrest-17-year-old-after-finding-3-people-dead-in-a-home-9.7192167?cmp=rss",
-      "title": "Brockville, Ont., police arrest 17-year-old after finding 3 people dead in a home",
+      "id": "6f050d7403b5aaa719e667a5a7641015ec5f57aa",
+      "url": "https://www.cbc.ca/player/play/9.7191965?cmp=rss",
+      "title": "Quebec ombudsman calls mistreatment of Innu inmate who died a ‘violation of human dignity’",
+      "published_at": "2026-05-08T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Philippe Pinette, a 40-year-old Innu man from Uashat, near Sept-Îles on Quebec's North Shore, died in hospital on Sept. 19, 2022, while under the care of the Quebec City detention centre. The province’s ombudsman pointed out multiple failures in the care provided.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea0ae8a39a07a9d98706cb003771fbc87e85b503",
+      "url": "https://www.cbc.ca/news/entertainment/mortal-kombat-ii-review-9.7191940?cmp=rss",
+      "title": "Mortal Kombat II is brainless. That's why it works",
+      "published_at": "2026-05-08T00:00:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Mortal Kombat is back for another round. But is what is clearly little more than a fan-service action-vehicle actually somehow good? A little bit. Maybe. Sort of?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.83,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1b349e4fbb9b3c66ea943cbcc70bb5032b68c219",
+      "url": "https://www.cbc.ca/news/canada/ottawa/teen-charged-with-murder-of-woman-2-daughters-in-brockville-9.7192167?cmp=rss",
+      "title": "Teen charged with murder of woman, 2 daughters in Brockville, Ont.",
       "published_at": "2026-05-07T18:33:43-04:00",
       "section": "Top Stories",
-      "summary_auto": "Police in Brockville, Ont., said a 17-year-old is in custody for three counts of first-degree murder after finding three people dead in a home Thursday.",
+      "summary_auto": "Police in Brockville, Ont., have charged a 17-year-old with first-degree murder after the bodies of a woman and her two young daughters were found inside a home in the eastern Ontario city on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.949,
+        "sentiment": -0.919,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "78b873f1510d868bed560ab00a13ee4ac4657ce5",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-minnesota-frost-game-3-recap-9.7192164?cmp=rss",
-      "title": "Montreal Victoire now 1 win away from Walter Cup Finals with Game 3 win over Frost",
-      "published_at": "2026-05-07T18:21:23-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Maggie Flaherty and Hayley Scamurra scored 24 seconds apart early in the second period, Ann-Renee Desbiens made 27 saves, and the Montreal Victoire beat the Minnesota Frost 2-1 on Thursday night in the PWHL playoffs.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e786497f8f63b4eb35b53a6276ee677c5e6ded57",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972?cmp=rss",
-      "title": "UBC, SFU among thousands of universities affected by cyber breach of learning software Canvas",
-      "published_at": "2026-05-07T16:08:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The University of British Columbia and Simon Fraser University, B.C. 's two biggest universities by student enrolment, say a cyber breach of the Canvas learning software could affect students' personal information.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -286,279 +494,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.153,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ea5e9eb901e28ec462f8351664ef056faba1cedc",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-losing-international-students-statscan-report-9.7191934?cmp=rss",
-      "title": "Ontario estimated to lose  more than a third of its international students following permit cap: StatsCan",
-      "published_at": "2026-05-07T15:33:24-04:00",
-      "section": "Canada",
-      "summary_auto": "Ontario is set to lose more than a third of its international student population following the federal government's  student permit cap , preliminary estimates from Statistics Canada show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5ffc70a589e529d8ef98850b53b35b834790d7cb",
-      "url": "https://www.cbc.ca/news/world/us-intercept-iran-attacks-strait-of-hormuz-9.7191876?cmp=rss",
-      "title": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
-      "published_at": "2026-05-07T14:55:00-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. military said it intercepted Iranian attacks Thursday on three Navy ships in the Strait of Hormuz and \"targeted Iranian military facilities responsible for attacking U.S. forces,\" highlighting the fragility of the month-old ceasefire between the two countries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "00866fb925685b3118731b7f1c9350b45a368a0e",
-      "url": "https://www.cbc.ca/news/world/ilhan-omar-sprayed-liquid-guilty-assault-9.7191738?cmp=rss",
-      "title": "Man who sprayed U.S. Rep. Ilhan Omar from syringe during town hall pleads guilty to assault",
-      "published_at": "2026-05-07T13:39:36-04:00",
-      "section": "World",
-      "summary_auto": "A man who sprayed vinegar at Democratic U.S. Rep. Ilhan Omar at a town hall meeting in Minneapolis earlier this year pleaded guilty to assault Thursday in federal court after reaching a deal with prosecutors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3eb6d3a5d6d44a183c6d4c7a7bc091a4efddf5fc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-to-tear-down-and-rebuild-tumbler-ridge-school-after-mass-shooting-9.7191596?cmp=rss",
-      "title": "Tumbler Ridge Secondary School to be torn down and rebuilt after mass shooting, province says",
-      "published_at": "2026-05-07T13:36:08-04:00",
-      "section": "Canada",
-      "summary_auto": "The province says larger, more modular classrooms will be built in Tumbler Ridge in the coming weeks to use while plans for a permanent high school replacement are underway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "70fb72fd22a889d8ef7f2c6762855a6cf426481a",
-      "url": "https://www.cbc.ca/news/entertainment/kodak-black-arrest-trafficking-charge-9.7191723?cmp=rss",
-      "title": "Rapper Kodak Black arrested in Florida on felony MDMA trafficking charge and pleads not guilty",
-      "published_at": "2026-05-07T13:36:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Kodak Black was arrested this week on a drug trafficking charge in central Florida in his latest run-in with law enforcement. The rapper, whose real name is Bill Kapri, entered a not guilty plea.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.722,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "19b2586f2f98b414aacfbd663ea9277daac498e0",
-      "url": "https://www.cbc.ca/news/world/trump-global-tariffs-trade-court-9.7191744?cmp=rss",
-      "title": "U.S. trade court rules in favour of plaintiffs who challenged Trump's global tariffs",
-      "published_at": "2026-05-07T13:26:51-04:00",
-      "section": "World",
-      "summary_auto": "A U.S. trade court dealt another blow to U.S. President Donald Trump's tariff strategy, ruling that his latest 10 per cent temporary global duties are unjustified under ‌a 1970s trade law, but blocked the levies for only two private importers and the state of Washington.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "89920fdf9613952353b99d1df49444ebef0875ac",
-      "url": "https://www.cbc.ca/news/business/bell-fires-employees-work-from-office-9.7191118?cmp=rss",
-      "title": "Bell fires employees it claims falsified attendance records, but some deny it",
-      "published_at": "2026-05-07T13:23:49-04:00",
-      "section": "Business",
-      "summary_auto": "In an internal note obtained by CBC News, Bell said it investigated and terminated an undisclosed number of employees for “misrepresenting their presence in the workplace.\" But several fired employees, and the lawyer representing them, say they believe the employees were actually fired for economic reasons, rather than misconduct.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.935,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "867708ebf70ff18739de4bf53e81212658969fe6",
-      "url": "https://www.cbc.ca/news/world/us-sanctions-cuba-sherritt-9.7191593?cmp=rss",
-      "title": "Toronto-based Sherritt pulls back from mining joint venture in Cuba amid expansion of U.S. sanctions",
-      "published_at": "2026-05-07T13:12:51-04:00",
-      "section": "World",
-      "summary_auto": "The United States on Thursday imposed ‌financial sanctions on a sprawling business conglomerate run by Cuba's military and a Cuban-Canadian mining joint venture, as the Trump administration ramps up pressure on the island's communist leaders by targeting sources of foreign investment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9bd1759386ab480a1c753eae95ee34be747221ce",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/yves-veggie-cuisine-returning-5-plant-based-products-9.7191700?cmp=rss",
-      "title": "Yves Veggie Cuisine making comeback with relaunch of 5 products",
-      "published_at": "2026-05-07T13:03:03-04:00",
-      "section": "Business",
-      "summary_auto": "Maple Leaf Foods Inc. says it's reviving five Yves products, including veggie deli sliced products and original and Mexican veggie ground round.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5fbe7c7d957ab77033d9c99a3de42e97636b764e",
-      "url": "https://www.cbc.ca/news/canada/london/justin-bourassa-inquest-day-4-9.7191357?cmp=rss",
-      "title": "London officer tells Ontario inquest the fatal police shooting of Sarnia tennis pro saved his life",
-      "published_at": "2026-05-07T12:58:26-04:00",
-      "section": "Canada",
-      "summary_auto": "London police Const. Ryan Hendrick tells an Ontario coroner's inquest that he thought he was going to die as Sarnia tennis player Justin Bourassa put him into a chokehold in 2021. Bourassa was fatally shot by another officer moments after the altercation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f61f2230dbf504f5e8c789f21bf0369b8c9a8a95",
-      "url": "https://www.cbc.ca/news/business/average-rent-falling-april-2026-9.7191662?cmp=rss",
-      "title": "Average rent across Canada fell by 5% in April, according to report",
-      "published_at": "2026-05-07T12:45:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Rents in Canada have fallen back to the same level they were at three years ago, according to the new report from Rentals.ca and Urbanation. But average rents are still 21.9 per cent higher than the pandemic-era low of April 2021.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f143b68c9a05181f3c3ec8dd455f2b0012185830",
-      "url": "https://www.cbc.ca/radio/asithappens/elmer-glue-kitten-9.7191582?cmp=rss",
-      "title": "Elmer the kitten is now thriving after he was found in a bucket of glue",
-      "published_at": "2026-05-07T12:14:05-04:00",
-      "section": "World",
-      "summary_auto": "When staff at the Humane Society of North Texas first saw the scared little kitten, shaking and covered in industrial-strength glue, they didn't know if he would survive the night. But after roughly 24 hours of care, the little creature was free.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f4744e0c81bef6ac59cbcb98c4dd46aed106ba07",
-      "url": "https://www.cbc.ca/news/canada/toronto/maggie-kay-kpop-demon-hunters-key-to-city-9.7191622?cmp=rss",
-      "title": "Maggie Kang, creator of KPop Demon Hunters, receives key to the city",
-      "published_at": "2026-05-07T12:12:03-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The creator of the Oscar-winning animated film KPop Demon Hunters now holds a key to the city of Toronto, where she grew up.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "80df5b495fc60b26b4cc0c55b833182b4bdbefc0",
-      "url": "https://www.cbc.ca/news/business/air-canada-jet-fuel-9.7191494?cmp=rss",
-      "title": "Air Canada cuts more flights due to soaring jet fuel prices",
-      "published_at": "2026-05-07T11:05:00-04:00",
-      "section": "Business",
-      "summary_auto": "Air travel continues to be impacted by soaring fuel prices. On Thursday, Air Canada confirmed that, due to the current high cost of jet fuel, it’s halting service earlier than planned on four seasonal flights to U.S. destinations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c410d9aa358edefea9ccb9b1a8c0b3b6d197c3c1",
-      "url": "https://www.cbc.ca/news/politics/cra-tax-account-breaches-9.7191512?cmp=rss",
-      "title": "Privacy watchdog finds thousands of tax account breaches, urges stronger protections",
-      "published_at": "2026-05-07T10:59:39-04:00",
-      "section": "Canada",
-      "summary_auto": "The federal privacy watchdog says there have been more than 42,000 breaches at the Canada Revenue Agency since 2020 as a result of people gaining unauthorized access to, or modifying, taxpayer information.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "42e8f096743d6adaf95d529547c6731b4681ab53",
-      "url": "https://www.cbc.ca/news/rubio-pope-leo-trump-9.7191341?cmp=rss",
-      "title": "In meeting with Pope Leo, Rubio tries to minimize Trump's attacks",
-      "published_at": "2026-05-07T10:34:09-04:00",
-      "section": "World",
-      "summary_auto": "U.S. Secretary of State Marco Rubio met Pope Leo at the Vatican on Thursday morning, in a visit that was officially about diplomacy but in reality was about cleaning up after President Donald Trump’s latest swipes at the first American pope.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.238,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9164d7e6856a3d35dfb6916b36ef7767d6bbabb2",
-      "url": "https://www.cbc.ca/news/canada/edmonton/centurion-project-alberta-voters-list-leak-9.7191390?cmp=rss",
-      "title": "Elections Alberta issues cease-and-desist letters over voter info breach, privacy commissioner launches probe",
-      "published_at": "2026-05-07T10:19:38-04:00",
-      "section": "Canada",
-      "summary_auto": "Cease-and-desist letters have been sent to more than 500 Albertans who accessed a searchable database containing the personal information of millions of voters, while a new investigation into the breach has been announced by Alberta's privacy commissioner.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06e41b7a765c98ff71db539b284ee18131cf7626",
-      "url": "https://www.cbc.ca/sports/olympics/olympics-ioc-belarus-support-lifting-ban-athletes-international-sports-9.7191383?cmp=rss",
-      "title": "International Olympic Committee supports lifting ban on Belarusian athletes in international sports",
-      "published_at": "2026-05-07T09:58:32-04:00",
-      "section": "World",
-      "summary_auto": "In a political shift Thursday, the International Olympic Committee said athletes from Belarus should once again compete with their full national identity and not be vetted for neutral status, even as the war in Ukraine continues.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7b9f251651c684d14e7d6fa9ccbee01d01fa4137",
-      "url": "https://www.cbc.ca/player/play/9.7191376?cmp=rss",
-      "title": "Fact check: Are wages rising faster than inflation?",
-      "published_at": "2026-05-07T09:58:08-04:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney has said wages are rising faster than inflation. CBC’s Fact Check team dives deeper into that claim",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c6eff72e8a60e3f9abf33b648810807e5d6370e3",
-      "url": "https://www.cbc.ca/news/canada/calgary/wider-mix-drugs-illicit-supply-9.7188808?cmp=rss",
-      "title": "Wider mix of substances being discovered in Calgary drug supply, agencies see overdose spike",
-      "published_at": "2026-05-07T09:38:53-04:00",
-      "section": "Canada",
-      "summary_auto": "In testing over the past three months, University of Calgary researchers have found a wider variety of substances mixed together in the city's illicit drugs, which comes as several front-line agencies are responding to an increase in drug poisonings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c1f81dc5b0e46cee311bbbe3ce4abdfb765ea1c7",
-      "url": "https://www.cbc.ca/news/politics/procurement-delays-putting-mounties-at-risk-says-union-9.6949235?cmp=rss",
-      "title": "Procurement delays putting Mounties at risk, says union",
-      "published_at": "2026-05-07T09:27:28-04:00",
-      "section": "Canada",
-      "summary_auto": "More than a decade after the intended lifespan of their pistols lapsed, Mounties across Canada are getting a new sidearm — but their union says the significant delay shows why the RCMP's procurement process needs to be overhauled.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
         "subjectivity_hint": "medium"
       }
     }
