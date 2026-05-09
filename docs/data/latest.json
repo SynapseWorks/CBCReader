@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-09T09:03:00.549676-04:00",
+  "generated_at": "2026-05-09T10:43:50.019120-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "bb6b850d25e201a3dce68ed4e7b86141720793d0",
+      "url": "https://www.cbc.ca/news/canada/canvas-cyber-attack-canadian-universities-9.7193648?cmp=rss",
+      "title": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know",
+      "published_at": "2026-05-09T05:13:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "84df99a087a11c634c5558364f77ab8aabaa88d6",
       "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-debut-9.7193912?cmp=rss",
@@ -14,6 +27,32 @@
         "article_type": "News",
         "sentiment": -0.021,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8b5beaea88754c7430124f20099a045a0ae11613",
+      "url": "https://www.cbc.ca/news/politics/military-police-watchdog-public-hearing-alleged-mishandling-suicide-case-9.7193432?cmp=rss",
+      "title": "Call transcripts shed light on military police's alleged mishandling of suicide",
+      "published_at": "2026-05-09T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It took more than six hours for military police to conduct a wellness check on an intelligence officer in Ottawa after his wife called them because she was concerned for his safety, according to newly disclosed evidence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f9fed570c3a0d4fe2b88a4921f0a1fea4c3a99e",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-jamaica-to-canada-to-saskatchewan-quiet-9.7144548?cmp=rss",
+      "title": "Busy city life ground us down. Our move to the prairies gave us the quiet we needed",
+      "published_at": "2026-05-09T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Shandean Reid and her husband worked hard to make a life as two young professionals, but her husband's constant work made it hard for him to spend time with their young daughter. A radical move from Jamaica to Canada, followed by settling in Saskatchewan, brought them the peace they were desperately searching for.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.141,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -43,19 +82,6 @@
       }
     },
     {
-      "id": "bb6b850d25e201a3dce68ed4e7b86141720793d0",
-      "url": "https://www.cbc.ca/news/canada/canvas-cyber-attack-canadian-universities-9.7193648?cmp=rss",
-      "title": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know",
-      "published_at": "2026-05-09T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thousands of schools around the globe, including in Canada, have been hit by a massive cybersecurity incident involving Canvas, an online learning-management system that connects millions of students with their instructors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "ae2e9d13f9055dc17ef67734671d62c3fdf0dd67",
       "url": "https://www.cbc.ca/news/politics/csis-director-says-alberta-referendum-vulnerable-to-foreign-interference-9.7193121?cmp=rss",
       "title": "CSIS director says Alberta referendum vulnerable to foreign interference",
@@ -78,6 +104,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9dbebdf31337c9bd3dc0671e490ab9d227487682",
+      "url": "https://www.cbc.ca/news/canada/hantavirus-canadian-survivor-9.7193684?cmp=rss",
+      "title": "B.C. man feels 'very fortunate' to be alive after nearly dying from hantavirus 3 years ago",
+      "published_at": "2026-05-09T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "The outbreak of hantavirus aboard a cruise ship in the Atlantic Ocean has brought up painful memories for a British Columbia man who nearly died from the rare virus three years ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.155,
         "subjectivity_hint": "low"
       }
     },
@@ -212,19 +251,6 @@
       }
     },
     {
-      "id": "2ead5c6b516cae4ca66da6791431c1034946c086",
-      "url": "https://www.cbc.ca/news/politics/ontario-first-nations-child-welfare-deal-funding-roll-out-9.7192941?cmp=rss",
-      "title": "Ottawa to begin $8.5B rollout for Ontario First Nations to reclaim child welfare",
-      "published_at": "2026-05-08T13:12:34-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Indigenous Services Minister Mandy Gull-Masty says $8.5 billion will begin flowing to Ontario First Nations on May 29 to reclaim their child welfare systems.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "1b349e4fbb9b3c66ea943cbcc70bb5032b68c219",
       "url": "https://www.cbc.ca/news/canada/ottawa/teen-charged-with-murder-of-woman-2-daughters-in-brockville-9.7192167?cmp=rss",
       "title": "Teen charged with murder of woman, 2 daughters in Brockville, Ont.",
@@ -339,32 +365,6 @@
         "article_type": "News",
         "sentiment": 0.402,
         "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "ff262943dcc74b424a4e0af7bd4584df153e63df",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/gorman-ipv-decision-rnc-investigating-9.7191213?cmp=rss",
-      "title": "For 2nd time, N.L. judge slams police handling of intimate partner violence cases",
-      "published_at": "2026-05-08T10:36:40-04:00",
-      "section": "Canada",
-      "summary_auto": "A Newfoundland and Labrador provincial court judge is once again taking police to task over failing to address intimate partner violence, and says the training the RNC receives when it comes to IPV cases \"needs to be reviewed.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06a5b838b6e8174ad672c1b2825c8fb2568413bb",
-      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853?cmp=rss",
-      "title": "Israeli strikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
-      "published_at": "2026-05-08T09:20:00-04:00",
-      "section": "World",
-      "summary_auto": "Israeli airstrikes on southern Lebanon killed at least five people Friday, while the Iran-backed Hezbollah militant group fired rockets on northern Israel without inflicting any casualties.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.946,
-        "subjectivity_hint": "low"
       }
     }
   ]
