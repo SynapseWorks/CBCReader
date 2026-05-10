@@ -1,6 +1,6 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-10T10:46:01.796399-04:00",
+  "generated_at": "2026-05-10T14:52:43.176253-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
@@ -19,13 +19,13 @@
     {
       "id": "4ca3c3bdfaad3642f0274f777eb856b4a1c0dad0",
       "url": "https://www.cbc.ca/news/world/iran-us-ceasefire-drone-attacks-9.7194290?cmp=rss",
-      "title": "Ceasefire with Iran tested as cargo ship catches fire and Kuwait, U.A.E. repel drone attacks",
+      "title": "Iran responds to ceasefire proposal as Kuwait, U.A.E. repel drone attacks",
       "published_at": "2026-05-10T04:51:58-04:00",
       "section": "Top Stories",
-      "summary_auto": "The shaky ceasefire in the Iran war was tested again on Sunday when a drone set a small fire on a ship off the coast of Qatar, while the United Arab Emirates and Kuwait reported separate drones entering their airspaces.",
+      "summary_auto": "Iran has sent its response to the latest U.S. ceasefire proposal to Pakistani mediators and wants negotiations to focus on permanently ending the war, Iran's state-run media said Sunday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.866,
+        "sentiment": -0.778,
         "subjectivity_hint": "low"
       }
     },
@@ -40,6 +40,19 @@
         "article_type": "News",
         "sentiment": 0.572,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1ce168e4a73cbe3b23f125699ea80f9ae1611b72",
+      "url": "https://www.cbc.ca/news/canada/first-person-infertility-mother-s-day-9.7184992?cmp=rss",
+      "title": "I had an unplanned baby at 17. I never expected to battle infertility in my 30s",
+      "published_at": "2026-05-10T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Lisa Richardson had an unplanned pregnancy in her teens and gave up that child for adoption. She always assumed that getting pregnant and becoming a mom would be easy when she was ready. But life took an unexpected turn.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.509,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -66,19 +79,6 @@
         "article_type": "News",
         "sentiment": -0.55,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1ce168e4a73cbe3b23f125699ea80f9ae1611b72",
-      "url": "https://www.cbc.ca/news/canada/first-person-infertility-mother-s-day-9.7184992?cmp=rss",
-      "title": "I had an unplanned baby at 17. I never expected to battle infertility in my 30s",
-      "published_at": "2026-05-10T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Lisa Richardson had an unplanned pregnancy in her teens and gave up that child for adoption. She always assumed that getting pregnant and becoming a mom would be easy when she was ready. But life took an unexpected turn.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.509,
-        "subjectivity_hint": "high"
       }
     },
     {
@@ -156,32 +156,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.844,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5dc9af7efa3116b695289a687f35562f8a6edb96",
-      "url": "https://www.cbc.ca/sports/soccer/toronto-fc-welcomes-inter-miami-at-new-look-bmo-field-in-dress-rehearsal-for-fifa-world-cup-9.7194094?cmp=rss",
-      "title": "Toronto FC welcomes Messi's Inter Miami at new-look BMO Field in World Cup dress rehearsal",
-      "published_at": "2026-05-09T11:49:22-04:00",
-      "section": "Canada",
-      "summary_auto": "An Inter Miami-Toronto FC match at the new-look BMO Field on Saturday provided a dress rehearsal for the FIFA World Cup next month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ab320eeac7c7c928849be7af0adac9b57340d73",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ernie-punch-mclean-crash-9.7193985?cmp=rss",
-      "title": "Hockey icon Ernie 'Punch' McLean killed in northern B.C. crash",
-      "published_at": "2026-05-09T11:47:40-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ernie 'Punch' McLean led the Western Hockey League (WHL) New Westminster Bruins to four consecutive Memorial Cup finals and two championships between 1975-1978, and coached more than 100 players who later skated in the NHL.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
         "subjectivity_hint": "low"
       }
     }
