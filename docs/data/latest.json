@@ -1,32 +1,188 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-15T09:51:54.656869-04:00",
+  "generated_at": "2026-05-15T15:22:23.539824-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "139863d325b0f2d2b7258df463bdb56495741c6f",
+      "url": "https://www.cbc.ca/news/health/hantavirus-ontario-testing-9.7201203?cmp=rss",
+      "title": "Ontario now testing 10 people for hantavirus who have been self-isolating",
+      "published_at": "2026-05-15T10:17:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario's Ministry of Health says it is now testing 10 asymptomatic people with connections to a hantavirus-stricken cruise, a shift from government remarks made earlier this week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b64aef2501be08a8fa4165bbf335fea43eee3c5b",
+      "url": "https://www.cbc.ca/news/entertainment/harvey-weinstein-rape-trial-mistrial-new-york-9.7201187?cmp=rss",
+      "title": "Judge declares a mistrial in Harvey Weinstein's rape retrial",
+      "published_at": "2026-05-15T09:35:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Harvey Weinstein's rape retrial in New York ended in a mistrial Friday after the jury deadlocked in the closely watched #MeToo-era case that another jury failed to decide last year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a89b6abc88aea00eb48c08f7c5d10751e456590",
+      "url": "https://www.cbc.ca/news/entertainment/drake-iceman-three-album-drop-9.7200990?cmp=rss",
+      "title": "'It's going to be a Drake summer': Reactions pour in on Iceman's triple-album drop",
+      "published_at": "2026-05-15T09:24:12-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Drake fans in Toronto and around the world were treated to not one but three \"frozen\" treats on Friday. The Toronto rapper delivered his highly anticipated album Iceman as promised at midnight — but then stunned fans by simultaneously dropping two additional albums, Habibti and Maid of Honour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.799,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "087e4def99e4888b680d84eacc2fafa82cd739be",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/police-vehicle-ramming-crash-vancouver-west-end-9.7200915?cmp=rss",
+      "title": "Senior in critical condition after alleged vehicle ramming in Vancouver's West End: police",
+      "published_at": "2026-05-15T09:18:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Vancouver Police Department (VPD) says a senior and two police officers are injured after a driver allegedly rammed several vehicles and drove along a sidewalk in the city's West End neighbourhood Friday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2e4ef36707464270e9f5d36c2cff39dc5db92e00",
+      "url": "https://www.cbc.ca/music/iceman-drake-takeways-new-album-9.7200095?cmp=rss",
+      "title": "Kendrick, Canada, extra albums and more: takeaways from Drake's Iceman",
+      "published_at": "2026-05-15T07:57:11-04:00",
+      "section": "Entertainment",
+      "summary_auto": "A breakdown of the standout moments from Drake's massive triple-album drop, from reigniting feuds to reuniting with allies.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "be6d36eb38cb1a9682aedfed6996de97b7027305",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/damage-debris-major-spring-storm-snow-wind-rain-dust-9.7200851?cmp=rss",
+      "title": "Damage, debris left in wake of major spring Saskatchewan storm",
+      "published_at": "2026-05-15T07:29:12-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A major weather event on Thursday in Saskatchewan included thunderstorms, dust storms and wind gusts reaching up to 115 km/h.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "be337cfbf4d3553e68eda2f736ee851e5b1eb53f",
+      "url": "https://www.cbc.ca/news/canada/manitoba/peter-nygaard-appeal-decision-9.7200880?cmp=rss",
+      "title": "Ontario court dismisses Peter Nygard's appeal of sexual assault convictions",
+      "published_at": "2026-05-15T07:11:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario's top court has dismissed an appeal filed by former fashion mogul Peter Nygard, upholding his sexual assault convictions and prison sentence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a828200f0056e488c559e1cf454b912404b0d63f",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-intimate-partner-violence-9.7197896?cmp=rss",
+      "title": "Supreme Court rules intimate partner violence can be basis for lawsuits",
+      "published_at": "2026-05-15T06:34:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65e468568b19eb3bf25cd6c95a6f81009aa9ea80",
+      "url": "https://www.cbc.ca/news/canada/us-lee-gilley-toronto-flight-italy-9.7199144?cmp=rss",
+      "title": "Italy caught a U.S. murder suspect on the run. Why did he slip past Canadian officials?",
+      "published_at": "2026-05-15T06:31:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Lee Gilley, accused of murdering his pregnant wife nearly two years ago in Houston, ditched his ankle monitor on May 1 and was in Milan just over two days later. But the majority of the remaining questions concerning his flight from justice involve how he was able to board an Air Canada plane to get to Italy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0657d689e0ac12b7e6d5f9c794293755e9c44d7c",
+      "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-sentencing-9.7199984?cmp=rss",
+      "title": "Ontario couple guilty of murdering boy, torturing brother in their care to be sentenced July 3",
+      "published_at": "2026-05-15T06:23:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Sentencing for a couple found guilty of murdering a 12-year-old and confining and assaulting his younger brother while they were in their care over a number of years will be held July 3 in Milton, Ont. The Superior Court judge released his decisions in the Brandy Cooney-Becky Hamber case earlier this month.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.919,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2239a0c84165c1f8d2b8ea2f0ec820d95f6318c3",
+      "url": "https://www.cbc.ca/news/canada/manitoba/wind-damage-storm-southern-manitoba-9.7200632?cmp=rss",
+      "title": "Fierce winds, dust storm cause chaos in southern Manitoba",
+      "published_at": "2026-05-15T06:08:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Hydro crews are dealing with dozens of power outages and people are picking up debris after severe winds on Thursday created havoc across southern Manitoba and reduced visibility in blowing dust.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f6e8c9c7bbb86db395879c57d8dfb58c2bb78550",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/yellow-legged-hornet-found-washington-state-9.7200333?cmp=rss",
+      "title": "B.C. gov't monitoring situation as yellow-legged hornet found at Washington state port",
+      "published_at": "2026-05-15T06:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The hornets, native to Asia, are considered an invasive species in Canada and the U.S. and can cause serious problems for honey bee populations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b095b9a9367cfa717c167fd360ec7abae16d735",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hydro-quebec-churchill-records-9.7200573?cmp=rss",
+      "title": "Hydro-Quebec fought to hide parts of 1960s records from N.L. government",
+      "published_at": "2026-05-15T05:09:39-04:00",
+      "section": "Canada",
+      "summary_auto": "Hydro-Quebec fought to hide decades-old correspondence about a proposed aluminum smelter, saying its details\ncould derail ongoing energy negotiations with Newfoundland and Labrador.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "c92a54f081c2d01ec3bcbb0ba402a6cabc88467c",
       "url": "https://www.cbc.ca/news/business/zwilling-kettle-recall-canada-9.7200686?cmp=rss",
       "title": "Zwilling Kettles recalled by Health Canada due to potential burn risk",
       "published_at": "2026-05-15T05:06:47-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "The kettle's handle can loosen or break off entirely during use, resulting in hot water spills and burns. Health Canada says affected consumers should stop using the kettles immediately and register for a refund.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9754b3aff8da392e54e7fc99d3855e2ef71ceaa2",
-      "url": "https://www.cbc.ca/player/play/9.7200631?cmp=rss",
-      "title": "WHO chief takes questions about hantavirus, global health issues",
-      "published_at": "2026-05-15T05:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "WHO Director-General Tedros Adhanom Ghebreyesus is providing an update Friday on hantavirus cases and global health issues.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -56,54 +212,28 @@
       }
     },
     {
-      "id": "55e92bad0bea4b955bd18a44fff922609982702c",
-      "url": "https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947?cmp=rss",
-      "title": "Why the U.S. is noticing this Canadian security bill",
-      "published_at": "2026-05-15T02:05:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "e13795c45df208687660f3dfc9c2b075f8ab8c20",
       "url": "https://www.cbc.ca/news/world/russia-ukraine-kyiv-strike-apartment-9.7200577?cmp=rss",
-      "title": "At least 24 killed, including 3 children, in Russian strike on Kyiv housing block",
+      "title": "Zelenskyy vows retribution after Russian strike on Kyiv housing block kills 24",
       "published_at": "2026-05-15T01:48:55-04:00",
       "section": "Top Stories",
-      "summary_auto": "Ukrainian President Volodymyr Zelenskyy called on Friday for Moscow to be punished after he laid red roses at the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people, including three children.",
+      "summary_auto": "Ukrainian President Volodymyr Zelenskyy promised retribution against Russia on Friday after laying red roses at the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people, including three children.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.951,
+        "sentiment": -0.886,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "458c10c8aba056d375ab2549e0c7a49a3858c635",
       "url": "https://www.cbc.ca/player/play/9.7199830?cmp=rss",
-      "title": "Halifax nurse works on the same floor where she was once a patient",
+      "title": "Halifax nurse marks fulfilment of lifelong dream",
       "published_at": "2026-05-15T01:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Tori Sabean spent years at the Halifax hospital after being diagnosed with leukemia as a child. Now she's working on the same floor where she was once a patient. The CBC's Carolyn Ray shares her story.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7d402ec18936981e74bf8529e2da64db3534bd4",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-alehouse-bouncers-physical-with-patrons-ryan-sawyer-death-9.7198228?cmp=rss",
-      "title": "Halifax Alehouse bouncers warned not to be physical with patrons before 2022 death",
-      "published_at": "2026-05-15T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Halifax Alehouse bouncers were told to refrain from being \"hands on\" before one of them killed a man on Christmas Eve 2022, according to documents obtained by CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
+        "sentiment": 0.494,
         "subjectivity_hint": "low"
       }
     },
@@ -117,19 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b97e72a00723a7e69badee99b66c36e479d04c35",
-      "url": "https://www.cbc.ca/news/world/mexico-gentrification-fifa-9.7200235?cmp=rss",
-      "title": "FIFA World Cup turns up gentrification pressures in Mexico City, say experts",
-      "published_at": "2026-05-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Experts say parts of Mexico City have faced increasing pressure from gentrification which gained momentum during the pandemic — as digital nomads flocked to the city — and this has accelerated as the FIFA World Cup looms in June.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -160,11 +277,50 @@
       }
     },
     {
+      "id": "b97e72a00723a7e69badee99b66c36e479d04c35",
+      "url": "https://www.cbc.ca/news/world/mexico-gentrification-fifa-9.7200235?cmp=rss",
+      "title": "FIFA World Cup turns up gentrification pressures in Mexico City, say experts",
+      "published_at": "2026-05-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Experts say parts of Mexico City have faced increasing pressure from gentrification which gained momentum during the pandemic — as digital nomads flocked to the city — and this has accelerated as the FIFA World Cup looms in June.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85d2f81842eccc260bc8e45cd9c6a517960a9a4a",
+      "url": "https://www.cbc.ca/news/canada/dunkin-donuts-vs-tim-hortons-canada-9.7200316?cmp=rss",
+      "title": "Will Canada embrace Dunkin'? Experts say the grip of Tim Hortons will be hard to shake",
+      "published_at": "2026-05-15T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "As U.S. café chain Dunkin' brews up a comeback north of the border, experts say they suspect the American brand will have a hard time luring Canadians away from the Tim Hortons menu they've come to know so well.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.088,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "55e92bad0bea4b955bd18a44fff922609982702c",
+      "url": "https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947?cmp=rss",
+      "title": "Why the U.S. is noticing this Canadian security bill",
+      "published_at": "2026-05-15T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A Liberal government bill that proposes giving police and spies easier access to information during investigations has fallen into the crosshairs of U.S. tech giants and two American congressional committees, threatening to become the latest irritant in the Canada-U.S. relationship.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "4a24dbd697e023e95cfd8684b68b6f21b3b69ce0",
       "url": "https://www.cbc.ca/news/canada/active-club-canada-us-fascist-9.7199601?cmp=rss",
       "title": "Canadian, U.S. fascist fight clubs joining forces south of the border, CBC investigation finds",
       "published_at": "2026-05-15T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Members of Canada's largest white nationalist group, Second Sons Canada, have met to train and network with a number of \"active clubs\" from the United States, and also met with active club movement founder Robert Rundo, who is currently on supervised release for violent offences.",
       "bias_heuristic": {
         "article_type": "News",
@@ -177,7 +333,7 @@
       "url": "https://www.cbc.ca/news/entertainment/eurovision-2026-grand-final-9.7200462?cmp=rss",
       "title": "Eurovision contestants set to compete in 2026 Grand Final — here's what to watch for",
       "published_at": "2026-05-15T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Eurovision — the global TV spectacle and music contest that helped launched ABBA and Céline Dion to superstardom — is expected to attract tens of millions of viewers for Saturday's Grand Final in Vienna, Austria, where 25 acts will compete. Expect polished pop, theatrical staging, a 50/50 jury‑and‑public vote likely to produce split results and at least one dominating performance.",
       "bias_heuristic": {
         "article_type": "News",
@@ -186,37 +342,11 @@
       }
     },
     {
-      "id": "c0b7bbf8ed36d872e657f1e8ae2a548e3cc1d62e",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/walter-cup-final-game1-analysis-2026-9.7200303?cmp=rss",
-      "title": "'Miracle in Laval': How the Montreal Victoire came back to win Game 1 of the Walter Cup final",
-      "published_at": "2026-05-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A goal off a player's head and a buzzer beater helped the Victoire take a 1-0 lead in the best-of-five series against the Ottawa Charge.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "85d2f81842eccc260bc8e45cd9c6a517960a9a4a",
-      "url": "https://www.cbc.ca/news/canada/dunkin-donuts-vs-tim-hortons-canada-9.7200316?cmp=rss",
-      "title": "Will Canada embrace Dunkin'? Experts say the grip of Tim Hortons will be hard to shake",
-      "published_at": "2026-05-15T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As U.S. café chain Dunkin' brews up a comeback north of the border, experts say they suspect the American brand will have a hard time luring Canadians away from the Tim Hortons menu they've come to know so well.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.088,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8bf94573f107e92253d0153cd70537e5252b03ae",
       "url": "https://www.cbc.ca/music/drake-iceman-livestream-cn-tower-9.7200317?cmp=rss",
       "title": "Drake 'froze' the CN Tower in honour of his new album, Iceman",
       "published_at": "2026-05-14T19:43:55-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Drake wants to \"freeze the world\" with his new album, and he started by icing over the CN Tower Thurdsay. The Toronto rapper turned the city into his personal release party to hype his much-anticipated ninth album.",
       "bias_heuristic": {
         "article_type": "News",
@@ -238,19 +368,6 @@
       }
     },
     {
-      "id": "58cfd7ea6905d910cd492b9b9de3d9e33e78bb3f",
-      "url": "https://www.cbc.ca/player/play/9.7200383?cmp=rss",
-      "title": "At Issue | Carney's energy-climate balancing act",
-      "published_at": "2026-05-14T16:14:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: Prime Minister Mark Carney juggles fighting climate change while pushing energy development — but is caucus with him? Plus, Danielle Smith's government vows to fight a court decision to throw out a petition for an Alberta separation referendum.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "d39930a2aa6d6222aee9501b6f5514f2b38fd915",
       "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-dust-storm-dirty-rain-9.7200249?cmp=rss",
       "title": "Wet weather mixes with dust storm, brings rare dirty rain to southern Manitoba",
@@ -260,188 +377,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bf92b7166a60c3a57ddcfcb2da61e94fff1c5ab0",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-census-statistics-canada-census-9.7200260?cmp=rss",
-      "title": "Sexual orientation question on 2026 census hailed by P.E.I. advocacy groups, could open doors to more funding",
-      "published_at": "2026-05-14T15:14:26-04:00",
-      "section": "Canada",
-      "summary_auto": "This year marks the first time that Statistics Canada has asked people for their sexual orientation when filling out the national census.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a17bb822861077d661c4292da1aaecbad1c3adce",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-fatal-dog-attack-trial-boy-father-9.7200278?cmp=rss",
-      "title": "Father of boy killed in Edmonton dog attack testifies at owner’s trial",
-      "published_at": "2026-05-14T15:05:56-04:00",
-      "section": "Canada",
-      "summary_auto": "The father of an 11-year-old boy who died following a dog attack two years ago testified Thursday at the trial of the owner charged in connection with the death.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.964,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8955f5e3c150f957d3c1b542454f0c31c7d9c917",
-      "url": "https://www.cbc.ca/news/world/cuba-cia-chief-trump-message-9.7200230?cmp=rss",
-      "title": "CIA chief meets Cuban officials to deliver message: Trump wants 'fundamental changes'",
-      "published_at": "2026-05-14T14:58:17-04:00",
-      "section": "World",
-      "summary_auto": "CIA director John Ratcliffe met with Cuban officials, including Raul Castro's grandson, during a high-level visit to the island Thursday, Cuban and U.S. officials said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06b92df86095065e458f4028a774ae5644803e43",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/mario-lemieux-greatest-player-canadian-junior-hockey-history-9.7200227?cmp=rss",
-      "title": "Mario Lemieux named greatest player in Canadian junior hockey history",
-      "published_at": "2026-05-14T14:26:34-04:00",
-      "section": "Canada",
-      "summary_auto": "Mario Lemieux was ranked the greatest player in major junior hockey history as the Canadian Hockey League unveiled its all-time Top 50 list Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.881,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9fc7423bd4d2358aa8c28c401c0537f96ffabd1a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mayor-ken-sim-sean-orr-investigation-code-of-conduct-9.7200206?cmp=rss",
-      "title": "Vancouver mayor 'objectively harassed' city councillor, breached code of conduct, investigation finds",
-      "published_at": "2026-05-14T14:24:12-04:00",
-      "section": "Canada",
-      "summary_auto": "An investigation into Vancouver Mayor Ken Sim's behaviour has found that he breached the city's code of conduct and misused his influence to personally attack Coun. Sean Orr shortly after Orr was elected in 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e0cea3d37fab15675d9b1449650e434aa019fa6e",
-      "url": "https://www.cbc.ca/news/world/kash-patel-hawaii-vip-snorkel-pearl-harbour-9.7199941?cmp=rss",
-      "title": "Emails show Kash Patel took 'VIP snorkel' at USS Arizona, a Pearl Harbor military cemetery",
-      "published_at": "2026-05-14T13:40:00-04:00",
-      "section": "World",
-      "summary_auto": "When Kash Patel visited Hawaii last summer, the FBI took pains to note the director was not on vacation, highlighting his walking tour of the bureau's Honolulu field office and meetings with local law enforcement.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.303,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "903e7badb6d885f78ff17ce7316547efdc6b4372",
-      "url": "https://www.cbc.ca/news/world/cuba-grid-partial-collapse-fuel-needs-9.7200022?cmp=rss",
-      "title": "Cuba suffers partial grid failure hours after minister reveals country out of fuel oil, diesel",
-      "published_at": "2026-05-14T12:33:21-04:00",
-      "section": "World",
-      "summary_auto": "Cuba's electrical grid suffered a partial collapse early on Thursday morning, the country's grid operator UNE said, snuffing out power across eastern Cuba and testing the patience of Cubans already exhausted ‌from seemingly interminable blackouts amid a U.S. fuel blockade.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "be7735c9f0d62954faa9188b82b2aa6334e17c4e",
-      "url": "https://www.cbc.ca/news/canada/toronto/lawsuit-doug-ford-al-quds-day-9.7199927?cmp=rss",
-      "title": "Organizers of Toronto Al-Quds Day rally sue Ford for defamation",
-      "published_at": "2026-05-14T11:53:48-04:00",
-      "section": "Canada",
-      "summary_auto": "The organizers behind Toronto’s annual Al-Quds Day rally are suing Premier Doug Ford for defamation, alleging that commentary he made about the rally was motivated by “malice” and displays racism.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c7fcf037a234ea04620a8bd3340d5cad095ba2d1",
-      "url": "https://www.cbc.ca/news/world/israel-attacks-paramedics-killed-south-lebanon-9.7199598?cmp=rss",
-      "title": "Israeli attacks on medics in southern Lebanon part of 'alarming pattern,' says MSF",
-      "published_at": "2026-05-14T11:39:32-04:00",
-      "section": "World",
-      "summary_auto": "International organization Doctors Without Borders says a Tuesday drone strike that killed two paramedics and injured another in southern Lebanon is part of an \"alarming pattern\" of Israeli attacks targeting first responders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.938,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a4313c6a2497e528cac475e1812ac0108ff6c4fa",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/opioid-death-rates-northern-ontario-9.7199688?cmp=rss",
-      "title": "Province sees big drop in opioid-related death rates as northern Ontario maintains highest numbers",
-      "published_at": "2026-05-14T11:36:08-04:00",
-      "section": "Canada",
-      "summary_auto": "Opioid-related death rates have dropped by more than 50 per cent in Ontario since 2021, according to the latest report from the Office of the Chief Coroner. Still, northern Ontario has consistently seen the highest rates in the province as advocates and health-care experts report increasingly toxic drugs in street supplies. Province sees big drop in opioid-related death rates as northern Ontario maintains highest numbers",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.942,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6ebd7710768b67c60ca167125fea879d57de77cd",
-      "url": "https://www.cbc.ca/sports/soccer/whitecaps-sale-vancouver-bc-government-first-nations-major-league-soccer-9.7199913?cmp=rss",
-      "title": "City of Vancouver, B.C. government, First Nations in push to keep Whitecaps in city 'for generations'",
-      "published_at": "2026-05-14T11:21:23-04:00",
-      "section": "Canada",
-      "summary_auto": "A meeting aimed at finding solutions to keep the Whitecaps in Vancouver has resulted in a new co-operation between multiple levels of government.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f8205da3bc6b020c47bd359c86f33fa8ed29178a",
-      "url": "https://www.cbc.ca/news/canada/montreal/us-attorney-office-new-hampshire-firearms-trafficking-9.7199770?cmp=rss",
-      "title": "International trafficking ring allegedly smuggled dozens of guns into Canada: U.S. authorities",
-      "published_at": "2026-05-14T10:42:33-04:00",
-      "section": "Canada",
-      "summary_auto": "The U.S. Attorney’s Office for the District of New Hampshire says it has dismantled an international trafficking ring that allegedly smuggled dozens of firearms from New Hampshire into Canada via Indigenous reserves. According to the office, several of the illegal weapons were later recovered at violent crime scenes linked to Canadian organized crime.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.97,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d2e1e7b0cc14157b4a4c6a20ac2aeb6ce8ee37dd",
-      "url": "https://www.cbc.ca/news/canada/montreal/artemis-ii-crew-canadian-space-agency-headquarters-quebec-9.7199752?cmp=rss",
-      "title": "Artemis II crew gets hero's welcome at Canadian Space Agency in Quebec",
-      "published_at": "2026-05-14T10:08:45-04:00",
-      "section": "Canada",
-      "summary_auto": "Canadian astronaut Jeremy Hansen and the rest of the Artemis II crew have received a hero's welcome at Canadian Space Agency headquarters after their journey to the far side of the moon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4ccedd3c8fd1bb490804742b395a463226721616",
-      "url": "https://www.cbc.ca/news/climate/what-on-earth-used-evs-9.7198365?cmp=rss",
-      "title": "Want to buy a used EV? Here’s what to look out for",
-      "published_at": "2026-05-14T10:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In this issue of our environmental newsletter, we get some tips on what to look for when shopping for a used EV; are reminded that it's time to harvest and eat an \"aggressive\" but delicious invasive species; and learn how teens are raising awareness about extreme weather and wildfires in their northern Alberta community.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.71,
         "subjectivity_hint": "medium"
       }
     }
