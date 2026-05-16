@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-16T10:50:30.925055-04:00",
+  "generated_at": "2026-05-16T14:55:54.212464-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "4c2d2d8871e7659254387d7db7d6289130a8f9f6",
+      "url": "https://www.cbc.ca/news/canada/ottawa/microgreens-sold-in-ontario-quebec-recalled-due-to-possible-e-coli-contamination-9.7202446?cmp=rss",
+      "title": "Microgreens sold in Ontario, Quebec recalled due to possible E. coli contamination",
+      "published_at": "2026-05-16T10:25:38-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Several types of organic microgreens sold in Ontario and Quebec under the Farm Boy and Kyan Culture brands have been recalled due to potential E. coli contamination, the Canadian Food Inspection Agency says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ba4b096970552877611cd789edc6b27c7a3e7e7a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-update-hantavirus-update-bonnie-henry-may-16-9.7202396?cmp=rss",
+      "title": "Canadian in isolation tests presumptively positive for hantavirus, B.C.'s top doctor says",
+      "published_at": "2026-05-16T09:34:18-04:00",
+      "section": "Canada",
+      "summary_auto": "A Canadian isolating in B.C. has presumptively tested positive for hantavirus after leaving the cruise ship affected by an outbreak of the Andes strain in recent weeks, B.C. 's top doctor said Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "22a5d9c3fb65230caa619e1712caece9b62eb846",
+      "url": "https://www.cbc.ca/news/world/isis-second-in-command-killed-9.7202351?cmp=rss",
+      "title": "ISIS second-in-command killed by U.S. and Nigerian forces, presidents say",
+      "published_at": "2026-05-16T08:44:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Abu-Bilal al-Minuki, the second-in-command ‌of ISIS globally, has been killed in an operation conducted by U.S. and Nigerian forces in the northeast of the African country, U.S. President Donald Trump and his counterpart in Nigeria, Bola Ahmed Tinubu, said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8527a94e1db2f0408c6f669f7fca6f9278a29334",
+      "url": "https://www.cbc.ca/player/play/9.7202353?cmp=rss",
+      "title": "Thousands join rival ‘Unite the Kingdom’ and pro-Palestine protests in London",
+      "published_at": "2026-05-16T08:06:38-04:00",
+      "section": "World",
+      "summary_auto": "Tens of thousands of protesters attended rival marches in London — the 'Unite the Kingdom' rally, organized by far-right figure Tommy Robinson, and a pro-Palestinian demonstration marking 78 years since the Nakba. More than 4,000 police officers were deployed to prevent confrontations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2730e88f487c1754ec45483d6a19bb482f6b05ad",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/paul-boutilier-nova-scotia-hockey-curling-stanley-cup-9.7202283?cmp=rss",
+      "title": "Paul Boutilier, Stanley Cup champ and former curling executive, remembered for his humility",
+      "published_at": "2026-05-16T07:44:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Nova Scotian who won a Stanley Cup and a World Junior Hockey Championship — and later worked as a university professor and curling executive — is being remembered for his humility. Paul (Boots) Boutilier was 63.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.866,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "091612ba0211e9bd65d3858c5e753115a604489e",
+      "url": "https://www.cbc.ca/news/world/humpback-whale-released-found-dead-denmark-9.7202341?cmp=rss",
+      "title": "Humpback whale released after spectacular rescue effort found dead off Denmark",
+      "published_at": "2026-05-16T07:43:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A humpback whale found dead this week off a Danish island has been identified as the animal released two weeks ago in a spectacular and controversial rescue effort after repeatedly becoming stranded off Germany's Baltic Sea coast, Danish authorities said Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "3643e2d88d89407c5a3a0df39537ea4aa77e8269",
       "url": "https://www.cbc.ca/news/canada/montreal/montreal-canadiens-habs-buffalo-sabres-game-6-9.7202277?cmp=rss",
@@ -21,7 +99,7 @@
       "url": "https://www.cbc.ca/news/world/congo-ebola-outbreak-9.7202245?cmp=rss",
       "title": "At least 80 deaths reported as Congo grapples with new Ebola outbreak",
       "published_at": "2026-05-16T04:18:02-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "At least 80 deaths have been reported in Congo's new Ebola disease outbreak in the eastern Ituri province, authorities said, as health workers raced Saturday to intensify screening and contact tracing to contain the disease.",
       "bias_heuristic": {
         "article_type": "News",
@@ -32,13 +110,13 @@
     {
       "id": "01d68f9a18c5885b3694fd212008465fd4ca755c",
       "url": "https://www.cbc.ca/news/world/hamas-chief-gaza-israel-9.7202240?cmp=rss",
-      "title": "Israel's military says Hamas commander killed in airstrike on Gaza",
+      "title": "Israel kills Hamas military wing leader in strike on Gaza",
       "published_at": "2026-05-16T04:14:05-04:00",
       "section": "Top Stories",
-      "summary_auto": "Israel's military on Saturday said it had killed the chief of Hamas's military wing in an airstrike on Gaza the previous day, the most senior Hamas official killed by Israel since an October U.S.-backed ceasefire agreement that was meant to halt fighting.",
+      "summary_auto": "An Israeli airstrike on Gaza killed the chief of Hamas's military wing, the most senior official from the Palestinian militant group killed by Israel since an October U.S.-backed ceasefire agreement that was meant to halt fighting.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.93,
+        "sentiment": -0.923,
         "subjectivity_hint": "low"
       }
     },
@@ -56,32 +134,6 @@
       }
     },
     {
-      "id": "40cee500ebc4ef36ecc4e75f32c47841424fd576",
-      "url": "https://www.cbc.ca/news/canada/toronto/patients-advocates-say-colorectal-cancer-screening-age-should-be-lower-9.7196877?cmp=rss",
-      "title": "Ontario has lowered its colorectal cancer screening age to 45. But should it be lower?",
-      "published_at": "2026-05-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ontario has lowered the screening age for colon cancer to 45 years old from 50. But patients and advocates say with the rising number of cases in young people, the age should be even lower.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "08b9bac4987cd4fc49a929e8f96f937d9819980f",
-      "url": "https://www.cbc.ca/news/world/cuba-us-pressure-cia-trump-9.7201396?cmp=rss",
-      "title": "By sending CIA chief to Cuba, Trump signals diplomacy on his terms",
-      "published_at": "2026-05-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump's maximum pressure campaign on Cuba now includes overtly dispatching a spy chief to Havana to ensure that his demands are clear.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b49dec9b860e6f61894c0c9f686dfb7e9361b16d",
       "url": "https://www.cbc.ca/news/canada/first-person-gen-z-karen-jessica-9.7201804?cmp=rss",
       "title": "Gen Z has dubbed Jessica the new Karen. Here are my thoughts as a Karen",
@@ -91,6 +143,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "08b9bac4987cd4fc49a929e8f96f937d9819980f",
+      "url": "https://www.cbc.ca/news/world/cuba-us-pressure-cia-trump-9.7201396?cmp=rss",
+      "title": "In spies he trusts? In Cuba, Trump looks again to CIA chief, rather than a diplomat, to deliver a message",
+      "published_at": "2026-05-16T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump's maximum pressure campaign on Cuba now includes overtly dispatching a spy chief to Havana to ensure that his demands are clear.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.727,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "40cee500ebc4ef36ecc4e75f32c47841424fd576",
+      "url": "https://www.cbc.ca/news/canada/toronto/patients-advocates-say-colorectal-cancer-screening-age-should-be-lower-9.7196877?cmp=rss",
+      "title": "Ontario should lower colon cancer screening age even further, say patients and advocates",
+      "published_at": "2026-05-16T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario has lowered the screening age for colon cancer to 45 years old from 50. But patients and advocates say with the rising number of cases in young people, the age should be even lower.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
         "subjectivity_hint": "medium"
       }
     },
@@ -134,19 +212,6 @@
       }
     },
     {
-      "id": "08b9bac4987cd4fc49a929e8f96f937d9819980f",
-      "url": "https://www.cbc.ca/news/world/cuba-us-pressure-cia-trump-9.7201396?cmp=rss",
-      "title": "In spies he trusts? In Cuba, Trump looks again to CIA chief, rather than a diplomat, to deliver a message",
-      "published_at": "2026-05-16T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump's maximum pressure campaign on Cuba now includes overtly dispatching a spy chief to Havana to ensure that his demands are clear.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "909e73b7114279099e91e74c0f07983725a00951",
       "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-negotiations-trump-windsor-detroit-9.7201921?cmp=rss",
       "title": "White House points to 'longstanding unfair trade practices' when asked about Gordie Howe bridge opening",
@@ -169,123 +234,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e7fab9945bc8ab2d7c35c68551e33023f7fb6c8",
-      "url": "https://www.cbc.ca/player/play/9.7201327?cmp=rss",
-      "title": "Does Canada have a personal bankruptcy problem? | About That",
-      "published_at": "2026-05-15T14:52:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In the first three months of the year, Canadian consumer insolvencies shot up to levels seen during the 2009 recession. Andrew Chang puts this data into perspective and examines what may be driving the trend. CORRECTION (May 15, 2026): An earlier version of this video included an incorrect title for Doug Hoyes. It has been replaced. (Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a0b4f5272026b7ad7381163aaa1d60f4a8fec434",
-      "url": "https://www.cbc.ca/news/politics/order-of-canada-terminations-9.7201491?cmp=rss",
-      "title": "Governor general strips 2 Order of Canada appointees of their honours",
-      "published_at": "2026-05-15T14:34:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b02b7904a866c8b843ec4ee90bba93d7e15dc8c",
-      "url": "https://www.cbc.ca/news/canada/kars4kids-ad-banned-false-advertising-9.7201634?cmp=rss",
-      "title": "Earworm Kars4Kids ad banned in California. Here's why",
-      "published_at": "2026-05-15T14:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A long-running charity ad campaign familiar to Canadians for its catchy Kars4Kids jingle will no longer play in California after a court found it violates false advertising laws.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.774,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d0399dfcf920448a9cccbaf2166613cf46452178",
-      "url": "https://www.cbc.ca/news/indigenous/itac-itbc-indigenous-tourism-9.7201224?cmp=rss",
-      "title": "3 regional Indigenous tourism boards separate from ITAC amid ongoing financial concerns",
-      "published_at": "2026-05-15T13:10:40-04:00",
-      "section": "Canada",
-      "summary_auto": "Three Indigenous tourism organizations say they are withdrawing support from the Indigenous Tourism Association of Canada over concerns about \"financial mismanagement and lack of transparency in fund allocation\" over several years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9dc344462200d52a97ee280d4973caffcc07839c",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/rebecca-leslie-ottawa-charge-feature-may-2026-9.7201337?cmp=rss",
-      "title": "Home cooking: Inside Rebecca Leslie's rise with her hometown Ottawa Charge",
-      "published_at": "2026-05-15T12:04:12-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Leslie scored twice for the Charge in a 3-2 loss to the Montreal Victoire in Game 1 of the Walter Cup final. It was her latest feat in a career year for the 30-year-old from Ottawa.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f0162102286093dd69c176aa6973a494a29bed81",
-      "url": "https://www.cbc.ca/radio/asithappens/the-caribou-trail-game-newfoundland-soldiers-9.7201281?cmp=rss",
-      "title": "New game tells the story of the Newfoundland soldiers who fought a brutal WW I campaign",
-      "published_at": "2026-05-15T11:57:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Caribou Trail, from Montreal indie studios Unreliable Narrators and Manavoid, tells the story of the Royal Newfoundland Regiment's role in the brutal, and unsuccessful, Gallipoli campaign.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "650cdc78b34d2a41b071c1ac357c1c89a22b1f23",
-      "url": "https://www.cbc.ca/news/world/israel-lebanon-ceasefire-9.7201450?cmp=rss",
-      "title": "Israel and Lebanon agree to 45-day ceasefire extension: U.S. State Department",
-      "published_at": "2026-05-15T11:25:00-04:00",
-      "section": "World",
-      "summary_auto": "Israel and Lebanon have agreed to a 45-day extension of their ceasefire after another round of talks in Washington, the U.S. State Department said Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7329280c71706ec6e7299d0e5e5c4c4885c429f7",
-      "url": "https://www.cbc.ca/news/canada/toronto/ryan-wedding-charges-9.7201413?cmp=rss",
-      "title": "Ontario man charged in Ryan Wedding case to stay behind bars after losing bail review",
-      "published_at": "2026-05-15T11:14:37-04:00",
-      "section": "Canada",
-      "summary_auto": "A man accused of serving as the \"de facto bank\" for a violent criminal enterprise allegedly helmed by former Olympic snowboarder Ryan Wedding will stay behind bars after Ontario's highest court upheld a decision to deny him bail.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5a2a939d090521f28013057d9e23f1fa68f30528",
-      "url": "https://www.cbc.ca/news/world/trump-xi-china-summit-analysis-9.7201162?cmp=rss",
-      "title": "Trump claims 'fantastic trade deals' with China. What really happened?",
-      "published_at": "2026-05-15T11:12:04-04:00",
-      "section": "World",
-      "summary_auto": "Although the much-hyped summit between the presidents of China and the U.S. ended with smiles and handshakes between the leaders of the two superpowers, the two-day meeting in Beijing appeared from the outside to be far heavier on ceremony than on specifics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
         "subjectivity_hint": "low"
       }
     }
