@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-16T09:08:28.007061-04:00",
+  "generated_at": "2026-05-16T10:50:30.925055-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3643e2d88d89407c5a3a0df39537ea4aa77e8269",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-canadiens-habs-buffalo-sabres-game-6-9.7202277?cmp=rss",
+      "title": "Canadiens could advance to Eastern Conference final with a Game 6 win over Sabres tonight",
+      "published_at": "2026-05-16T04:53:55-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Series winner will face the Carolina Hurricanes in the Eastern Conference final.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "db82079b881bdba25653ed03f3a2d13305b2b62e",
       "url": "https://www.cbc.ca/news/world/congo-ebola-outbreak-9.7202245?cmp=rss",
@@ -56,19 +69,6 @@
       }
     },
     {
-      "id": "af5e58bb7f80624f774e53c8b073a15e1b9a01fb",
-      "url": "https://www.cbc.ca/news/politics/manitoba-social-media-ban-youtube-ai-chatbots-federal-government-9.7201648?cmp=rss",
-      "title": "Manitoba's social media ban could bar teachers using YouTube in the classroom, says Kinew",
-      "published_at": "2026-05-16T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Manitoba Premier Wab Kinew says his province's ban on social media and AI chatbots for kids will likely bar teachers using YouTube in the classroom — a move that comes as the federal government continues to deliberate over whether to enact its own restrictions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "08b9bac4987cd4fc49a929e8f96f937d9819980f",
       "url": "https://www.cbc.ca/news/world/cuba-us-pressure-cia-trump-9.7201396?cmp=rss",
       "title": "By sending CIA chief to Cuba, Trump signals diplomacy on his terms",
@@ -79,6 +79,32 @@
         "article_type": "News",
         "sentiment": 0.459,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b49dec9b860e6f61894c0c9f686dfb7e9361b16d",
+      "url": "https://www.cbc.ca/news/canada/first-person-gen-z-karen-jessica-9.7201804?cmp=rss",
+      "title": "Gen Z has dubbed Jessica the new Karen. Here are my thoughts as a Karen",
+      "published_at": "2026-05-16T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The name Karen has become synonymous with rude and racist behaviour, unreasonable expectations and undue entitlement. But for Karen Scanlan, it’s just her name.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "af5e58bb7f80624f774e53c8b073a15e1b9a01fb",
+      "url": "https://www.cbc.ca/news/politics/manitoba-social-media-ban-youtube-ai-chatbots-federal-government-9.7201648?cmp=rss",
+      "title": "Manitoba's social media ban could bar teachers using YouTube in the classroom, says Kinew",
+      "published_at": "2026-05-16T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Manitoba Premier Wab Kinew says his province's ban on social media and AI chatbots for kids will likely bar teachers using YouTube in the classroom — a move that comes as the federal government continues to deliberate over whether to enact its own restrictions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -199,19 +225,6 @@
       }
     },
     {
-      "id": "44726f8f31d45e87d2f87a36dfb7bb2f4c366553",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-may-long-weekend-weather-warning-9.7201543?cmp=rss",
-      "title": "Wild Sask. May long weekend comes with snow, ice, floods and fire bans",
-      "published_at": "2026-05-15T12:41:31-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Saskatchewan’s first long weekend of camping, golf and summer is here, but it doesn't feel that way. A severe spring storm slammed the province this week, bringing winds that topped 100 km/h, alongside flooding and flurries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "9dc344462200d52a97ee280d4973caffcc07839c",
       "url": "https://www.cbc.ca/sports/hockey/pwhl/rebecca-leslie-ottawa-charge-feature-may-2026-9.7201337?cmp=rss",
       "title": "Home cooking: Inside Rebecca Leslie's rise with her hometown Ottawa Charge",
@@ -229,7 +242,7 @@
       "url": "https://www.cbc.ca/radio/asithappens/the-caribou-trail-game-newfoundland-soldiers-9.7201281?cmp=rss",
       "title": "New game tells the story of the Newfoundland soldiers who fought a brutal WW I campaign",
       "published_at": "2026-05-15T11:57:13-04:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "The Caribou Trail, from Montreal indie studios Unreliable Narrators and Manavoid, tells the story of the Royal Newfoundland Regiment's role in the brutal, and unsuccessful, Gallipoli campaign.",
       "bias_heuristic": {
         "article_type": "News",
@@ -268,89 +281,11 @@
       "url": "https://www.cbc.ca/news/world/trump-xi-china-summit-analysis-9.7201162?cmp=rss",
       "title": "Trump claims 'fantastic trade deals' with China. What really happened?",
       "published_at": "2026-05-15T11:12:04-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Although the much-hyped summit between the presidents of China and the U.S. ended with smiles and handshakes between the leaders of the two superpowers, the two-day meeting in Beijing appeared from the outside to be far heavier on ceremony than on specifics.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "139863d325b0f2d2b7258df463bdb56495741c6f",
-      "url": "https://www.cbc.ca/news/health/hantavirus-ontario-testing-9.7201203?cmp=rss",
-      "title": "Ontario now testing 10 people for hantavirus who have been self-isolating",
-      "published_at": "2026-05-15T10:17:16-04:00",
-      "section": "Canada",
-      "summary_auto": "Ontario's Ministry of Health says it is now testing 10 asymptomatic people with connections to a hantavirus-stricken cruise, a shift from government remarks made earlier this week.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b999ca1a3e950f39622d1852306a7b4903192fb9",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-wildfire-clearwater-county-9.7201064?cmp=rss",
-      "title": "Wildfire in Alberta's west country rages on, campers evacuated from backcountry",
-      "published_at": "2026-05-15T10:11:12-04:00",
-      "section": "Canada",
-      "summary_auto": "A wildfire continues to rage through a vast expanse of Alberta’s foothills Friday and emergency officials are urging backcountry users to keep their distance from the front lines.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b64aef2501be08a8fa4165bbf335fea43eee3c5b",
-      "url": "https://www.cbc.ca/news/entertainment/harvey-weinstein-rape-trial-mistrial-new-york-9.7201187?cmp=rss",
-      "title": "Judge declares a mistrial in Harvey Weinstein's rape retrial",
-      "published_at": "2026-05-15T09:35:03-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Harvey Weinstein's rape retrial in New York ended in a mistrial Friday after the jury deadlocked in the closely watched #MeToo-era case that another jury failed to decide last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.929,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a89b6abc88aea00eb48c08f7c5d10751e456590",
-      "url": "https://www.cbc.ca/news/entertainment/drake-iceman-three-album-drop-9.7200990?cmp=rss",
-      "title": "'It's going to be a Drake summer': Reactions pour in on Iceman's triple-album drop",
-      "published_at": "2026-05-15T09:24:12-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Drake fans in Toronto and around the world were treated to not one but three \"frozen\" treats on Friday. The Toronto rapper delivered his highly anticipated album Iceman as promised at midnight — but then stunned fans by simultaneously dropping two additional albums, Habibti and Maid of Honour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.799,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "087e4def99e4888b680d84eacc2fafa82cd739be",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/police-vehicle-ramming-crash-vancouver-west-end-9.7200915?cmp=rss",
-      "title": "Senior in critical condition after alleged vehicle ramming in Vancouver's West End: police",
-      "published_at": "2026-05-15T09:18:16-04:00",
-      "section": "Canada",
-      "summary_auto": "The Vancouver Police Department (VPD) says a senior and two police officers are injured after a driver allegedly rammed several vehicles and drove along a sidewalk in the city's West End neighbourhood Friday morning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0714fd8923178b8243cd3f2c22a5c936a078c86f",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/manon-rheaume-gm-pwhl-detroit-9.7201138?cmp=rss",
-      "title": "Manon Rhéaume, pioneering goalie in women's hockey, named 1st GM of PWHL Detroit",
-      "published_at": "2026-05-15T09:13:59-04:00",
-      "section": "Canada",
-      "summary_auto": "Rhéaume spent the past four years working in hockey operations with the NHL's LA Kings. In 1992, she became the first female goaltender to play in an NHL pre-season game.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     }
