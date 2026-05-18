@@ -1,145 +1,93 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-17T14:59:13.559594-04:00",
+  "generated_at": "2026-05-18T15:29:10.578396-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "b868761db23998023e1ff65d88f209536cedd9f7",
-      "url": "https://www.cbc.ca/news/canada/canadian-hantavirus-case-confirmed-phac-9.7202841?cmp=rss",
-      "title": "National lab confirms hantavirus case for Canadian cruise passenger isolating in B.C.",
-      "published_at": "2026-05-17T08:03:36-04:00",
+      "id": "166eb464798708944a83d6e88c4885f2b3775e26",
+      "url": "https://www.cbc.ca/news/world/greenland-prime-minister-meeting-trump-envoy-9.7203400?cmp=rss",
+      "title": "Greenland's self-determination is non-negotiable, PM tells Trump envoy",
+      "published_at": "2026-05-18T11:25:50-04:00",
+      "section": "World",
+      "summary_auto": "Greenland's Prime Minister Jens-Frederik Nielsen said Monday that he had a respectful and positive meeting with U.S. President Donald Trump 's special envoy to the Arctic territory, but that he made it clear that the Greenlandic people continue to insist on self-determination.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.82,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b040e1c69c069e4c44bf581c366f3666dec2eb0",
+      "url": "https://www.cbc.ca/news/canada/manitoba/u-s-liquor-ban-sale-manitoba-9.7203360?cmp=rss",
+      "title": "Manitoba selling off shelved U.S. booze that's set to expire in fall",
+      "published_at": "2026-05-18T11:16:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "There weren't any lineups but there were mile-long smiles from Winnipeggers who took advantage of another sale of U.S. booze at Manitoba Liquor Marts on Monday — the first time the province has offered it up since December.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.768,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8d2969ce76d0629b9c107a9760a534cc5fe1c193",
+      "url": "https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382?cmp=rss",
+      "title": "One American tests positive for Ebola virus amid outbreak in Congo and Uganda",
+      "published_at": "2026-05-18T10:34:46-04:00",
+      "section": "World",
+      "summary_auto": "The U.S. Centers for Disease Control and ‌Prevention confirmed on Monday that ​one American has tested ​positive for Ebola as part ​of their work in the Democratic ‌Republic of Congo.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f07610db8999f86c97c70231316331f5eb0c18a9",
+      "url": "https://www.cbc.ca/news/world/openai-elon-musk-lawsuit-verdict-9.7203353?cmp=rss",
+      "title": "California jury in Elon Musk lawsuit unanimously sides with OpenAI",
+      "published_at": "2026-05-18T10:06:04-04:00",
+      "section": "World",
+      "summary_auto": "A U.S. jury on Monday ruled against Elon Musk in his lawsuit against OpenAI, finding the artificial intelligence company not liable to the world's richest person for having ‌allegedly strayed from its original mission to benefit humanity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.84,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b70f85f4deef785aa3b7785560abc4e6ffb1e9be",
+      "url": "https://www.cbc.ca/sports/hockey/canada-denmark-men-hockey-world-championship-may-18-9.7203348?cmp=rss",
+      "title": "Canada captures 3rd straight win at men’s hockey worlds with 5-1 victory over Denmark",
+      "published_at": "2026-05-18T09:49:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Porter Martone had a goal and an assist, Sidney Crosby had four assists and Canada defeated Denmark 5-1 for its third straight win at the men's hockey world championship on Monday in Fribourg, Switzerland.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd10a69aacf4deb1dd2a4c7ecd79782e8dbc4fad",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-charge-eager-to-play-on-home-ice-in-decisive-game-3-9.7203310?cmp=rss",
+      "title": "Ottawa Charge staying confident ahead of must-win Game 3 on home ice",
+      "published_at": "2026-05-18T09:39:22-04:00",
       "section": "Canada",
-      "summary_auto": "Canada's public health agency confirmed a positive case of hantavirus in a Canadian isolating in British Columbia after leaving the cruise ship affected by a deadly outbreak.",
+      "summary_auto": "The Walter Cup final is headed to the Canadian Tire Centre on Monday night as the Ottawa Charge battle the Montreal Victoire in a must-win Game 3.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b28f9b9c73b5d7258df29ab3414d0176560531e8",
-      "url": "https://www.cbc.ca/news/canada/toronto/animal-cruelty-kittens-cats-peel-police-9.7202843?cmp=rss",
-      "title": "Man charged after dozens of kittens rescued in animal cruelty investigation in Mississauga, Ont.",
-      "published_at": "2026-05-17T07:55:15-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police rescued 57 kittens and eight cats, as well as charged a 38-year-old man with 134 counts for causing unnecessary animal suffering after an investigation into alleged animal cruelty.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b20018dd62cc71b1158fbfc4db276c5948240b13",
-      "url": "https://www.cbc.ca/news/world/ukraine-drone-strikes-russia-9.7202833?cmp=rss",
-      "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4, wounding 12 others",
-      "published_at": "2026-05-17T07:53:30-04:00",
-      "section": "Top Stories",
-      "summary_auto": "One of Ukraine's largest drone strikes on Russia killed at least four people, including three near Moscow, and wounded a dozen others, local authorities said Sunday. Debris fell on Russia's largest airport without causing damage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.906,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a4ad4213d245cf519d69fcda5c0e5f2a8565e7b6",
-      "url": "https://www.cbc.ca/news/world/uae-drone-strike-nuclear-power-plant-9.7202750?cmp=rss",
-      "title": "U.A.E. reports drone strike at nuclear power plant as Iran war deadlock endures",
-      "published_at": "2026-05-17T06:02:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A drone strike caused a fire at a nuclear power plant in the United Arab Emirates, officials in Abu Dhabi said on Sunday, at a time when progress appears to have stalled in efforts to end the U.S.-Israeli  war with Iran  and restart shipping in the Gulf.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4a24dbd697e023e95cfd8684b68b6f21b3b69ce0",
-      "url": "https://www.cbc.ca/news/canada/active-club-canada-us-fascist-9.7199601?cmp=rss",
-      "title": "Canadian, U.S. fascist fight clubs joining forces south of the border, CBC investigation finds",
-      "published_at": "2026-05-17T05:36:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5fbbedfdafbc8d0dee851a0edb387757ea30ba70",
-      "url": "https://www.cbc.ca/news/canada/manitoba/womens-prisons-shortage-rehabilitation-9.7201669?cmp=rss",
-      "title": "Canada's lack of women's prisons makes rehabilitation harder, experts say. What's the answer?",
-      "published_at": "2026-05-17T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Experts say the lack of women's prisons in Canada hurts rehabilitation chances for the women sent to prison across the country every year, posing a challenge for both the inmates and the broader society they'll eventually return to.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4e91880f78bb7115f11e24b4e0f176da29aac86",
-      "url": "https://www.cbc.ca/news/canada/north/birdwatching-yukon-disabilities-9.7198409?cmp=rss",
-      "title": "This blind Yukon birder learned to use his ears — now hearing loss means every spring is quieter",
-      "published_at": "2026-05-17T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "76-year-old Brian Lendrum, who is blind, spent decades learning to locate and identify birds by sound. But now, he says, as he ages his hearing is “just very, very gradually going down every year.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.519,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a0b7bcce0dd111ef187cbb791c335eb0c6ba2d3b",
-      "url": "https://www.cbc.ca/news/canada/sudbury/northern-ontario-transmission-lines-environment-9.7183141?cmp=rss",
-      "title": "What about endangered turtles? As Ontario fast-tracks transmission line, environmental questions emerge",
-      "published_at": "2026-05-17T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Ontario's plans to fast-track a major new transmission line between Barrie and Sudbury is raising eyebrows about the possible impact on the environment. Advocates are questioning how the project — a 500-kilovolt line by Hydro One — could affect wetlands, lakes, wildlife habitat and species at risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
+        "sentiment": 0.153,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "96b9eb3356b0a81709d7e912d7d35b7a01dae3ab",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-dubai-to-canada-peace-in-nature-9.7195177?cmp=rss",
-      "title": "Moving to Canada was an unpleasant shock. Then I experienced my first snowfall",
-      "published_at": "2026-05-17T00:00:00-04:00",
+      "id": "71ffd795028fdc2d4d8581e5dab339a2984b19f9",
+      "url": "https://www.cbc.ca/sports/olympics/summer/gymnastics/world-gymnastics-lifts-restrictions-russian-belarussian-athletes-9.7203327?cmp=rss",
+      "title": "World Gymnastics lifts all restrictions on Russian, Belarusian athletes",
+      "published_at": "2026-05-18T09:32:27-04:00",
       "section": "Top Stories",
-      "summary_auto": "Moving to Canada is a dream for many in Dubai, writes Sidra Mundia, but the challenges of living in Regina came as a rude shock. Her first snowfall brought a reset.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c1b09e43f58b64ee82fc268dac3c0e81bcc4f035",
-      "url": "https://www.cbc.ca/news/canada/montreal/benabed-restaurant-auberge-michelin-9.7200526?cmp=rss",
-      "title": "A restaurant in a village of 1,500 is getting major recognition in Quebec — and Canada",
-      "published_at": "2026-05-17T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "This month, the quiet but powerful reputation of Auberge Saint-Mathieu was echoed by some of the industry's biggest distinctions, including the Michelin guide.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a6a973cd729b9d36d40047308f3b2ab3e673a3dd",
-      "url": "https://www.cbc.ca/news/world/catherine-princess-of-wales-trip-italy-king-charles-agenda-9.7201122?cmp=rss",
-      "title": "Princess of Wales steps out on world stage — and sends signals for Royal Family — in solo sojourn to Italy",
-      "published_at": "2026-05-17T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A two-day solo trip to Italy by the Princess of Wales sent signals both for Catherine herself and her role within the Royal Family on the world stage.",
+      "summary_auto": "World Gymnastics has lifted all restrictions on Russian and Belarusian athletes, allowing them to return to international competitions ‌under their national flags with immediate effect, it said on Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -147,119 +95,288 @@
       }
     },
     {
-      "id": "e8e904ee63a40bebcb43c3e2783f6b477ec21f1d",
-      "url": "https://www.cbc.ca/news/canada/ottawa/kingston-doctor-ohip-clawback-denied-9.7200994?cmp=rss",
-      "title": "Court won't hear case against Kingston doctor ordered to pay back $600k for COVID vaccines",
-      "published_at": "2026-05-17T00:00:00-04:00",
+      "id": "3ea7e6874781e76ad87e3b5332b4522895b8e704",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/short-term-rentals-cash-not-worth-it-9.7203328?cmp=rss",
+      "title": "Thinking of renting out your home short-term for World Cup? Experts say the extra cash isn't always worth it",
+      "published_at": "2026-05-18T09:31:15-04:00",
       "section": "Top Stories",
-      "summary_auto": "Dr. Elaine Ma, the Kingston, Ont., physician who organized dozens of vaccine clinics early in the COVID-19 pandemic — and who was ordered to pay back hundreds of thousands of dollars in fees for those services — says she's feeling somewhat relieved after the latest turn in her legal ordeal.",
+      "summary_auto": "Short-term rentals should be considered a formal business, financial planner Kelly Ho said, not a casual arrangement. This is not the same as family staying overnight.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.363,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "adbcd9380ecd71a27200ac86bdf4737f6d36cf2b",
-      "url": "https://www.cbc.ca/radio/thecurrent/voice-mail-vinyl-records-9.7199495?cmp=rss",
-      "title": "Voice notes on vinyl records? It used to be all the rage",
-      "published_at": "2026-05-17T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thomas Levin has amassed a large collection of \"voice letters\" from the 1930s through to the 1960s. Using public booths, people could record messages on to a vinyl record, and dispatch them in the mail.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
+        "sentiment": -0.309,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "92d78fa5fa664479eeba1c5b14c769958fa445ed",
-      "url": "https://www.cbc.ca/news/canada/toronto/fifa-world-cup-copyright-rules-what-you-need-to-know-9.7201350?cmp=rss",
-      "title": "Marketing your bar for the World Cup? FIFA’s strict trademark rules could land you a cease and desist",
-      "published_at": "2026-05-17T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "To get a sense of what the rules around FIFA branding are, CBC News went through its publicly shared intellectual property guidelines and its hosting addendum with the city.",
+      "id": "323407bb0cc725bcf4a813db1ddde7e8f212844d",
+      "url": "https://www.cbc.ca/news/health/missteps-congo-ebola-outbreak-9.7203245?cmp=rss",
+      "title": "Challenges and missteps early in Congo's Ebola outbreak likely delayed detection, sources say",
+      "published_at": "2026-05-18T08:32:29-04:00",
+      "section": "World",
+      "summary_auto": "Burial rituals allowed the virus to spread before alarms were raised, while testing missteps delayed detection, according to sources. Experts say delays could hurt efforts to stem the spread of the deadly illness, which has been declared a public health emergency of international concern.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.691,
+        "sentiment": -0.906,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "6bb682d2ae5581bc2d15c9f1da5a41aeb16c13ce",
-      "url": "https://www.cbc.ca/sports/basketball/nba/drake-sports-references-iceman-triple-album-9.7202500?cmp=rss",
-      "title": "From LeBron to DeRozan: Breaking down the sports references on Drake's new triple album",
-      "published_at": "2026-05-17T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "No musical artist, past or present, has immersed themselves in the culture and subeconomy of sport more than Canada’s very own Aubrey “Drake” Graham — and the infatuation is mutual.",
+      "id": "859a4c6813a5d20a81d36db0e8d73f93a33f3362",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/uber-lobbying-halifax-9.7203239?cmp=rss",
+      "title": "Documents reveal Uber's behind-the-scenes lobbying in Halifax",
+      "published_at": "2026-05-18T08:00:52-04:00",
+      "section": "Canada",
+      "summary_auto": "Halifax Mayor Andy Fillmore delayed a vote on stricter regulations just one day after meeting with an Uber lobbyist, and his approved motion for a review committee used language nearly identical to Uber's official statements.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.153,
+        "sentiment": 0.153,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "db82079b881bdba25653ed03f3a2d13305b2b62e",
-      "url": "https://www.cbc.ca/news/world/congo-ebola-outbreak-9.7202245?cmp=rss",
-      "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
-      "published_at": "2026-05-16T23:05:14-04:00",
+      "id": "fec19e016875ddc7d35aa4ae39ef0337f74f3f25",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-officers-charged-spain-9.7203242?cmp=rss",
+      "title": "Toronto police officers charged in Spain with ‘serious’ allegations",
+      "published_at": "2026-05-18T07:56:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three Toronto police officers were charged while on vacation in Barcelona, a Toronto Police Service spokesperson said. Toronto police did not provide details about the allegations, saying only that they are serious.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fec19e016875ddc7d35aa4ae39ef0337f74f3f25",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-police-officers-charged-spain-9.7203242?cmp=rss",
+      "title": "3 off-duty Toronto police officers charged in Spain with ‘serious’ allegations",
+      "published_at": "2026-05-18T07:56:39-04:00",
+      "section": "Canada",
+      "summary_auto": "Three Toronto police officers were charged while on vacation in Barcelona, a Toronto Police Service spokesperson said. Toronto police did not provide details about the allegations, saying only that they are serious.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a219413ce9fc1625406c505deee908f298402d3",
+      "url": "https://www.cbc.ca/news/canada/edmonton/cris-derksen-obit-9.7203220?cmp=rss",
+      "title": "Renowned Cree cellist and composer Cris Derksen remembered as trailblazer, innovator",
+      "published_at": "2026-05-18T07:56:29-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Cris Derksen, 45, died in a highway crash in northern Alberta. Reports from friends and family say Derksen was fatally injured Friday driving home after attending the funeral of their father in Tallcree First Nation, near Fort Vermilion, Alta.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1044ba29c8190c43eb2f766d19d6bfdb91df1aae",
+      "url": "https://www.cbc.ca/player/play/9.7203218?cmp=rss",
+      "title": "Habs and Victoire playing on the same day turns Montreal into playoff hockey heaven",
+      "published_at": "2026-05-18T07:36:55-04:00",
+      "section": "Canada",
+      "summary_auto": "What is Montreal like when the Canadiens and the Victoire are both in town for pivotal playoff matchups? CBC's Melinda Dalton went to both games to capture the city's hockey passion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46eeacc9964c892a5595c7c5b2bed31aa4920a11",
+      "url": "https://www.cbc.ca/news/canada/calgary/destination-stewardship-bow-valley-human-use-management-9.7201849?cmp=rss",
+      "title": "The Rockies have a people problem. Here's one potential solution",
+      "published_at": "2026-05-18T05:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A plan known as \"destination stewardship\" is aiming to improve managing human use in the Bow Valley. It would formalize communication between all levels of government and different agencies in the region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "af9431a83630c954c9b19fe736ac5472f6480b53",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mansion-owners-neighbours-hedge-removal-9.7202192?cmp=rss",
+      "title": "Vancouver mansion owners sue neighbours over hedge removal",
+      "published_at": "2026-05-18T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A lawyer who isn't involved in the case said he would prefer to see neighbours speak to each other over trees and hedges, rather than drag each other to court.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "039c97ac6e56d59365d758547b2a966f1e10bf32",
+      "url": "https://www.cbc.ca/news/canada/edmonton/rural-alberta-theatres-closing-independent-non-profit-model-9.7201657?cmp=rss",
+      "title": "The survival of small town cinemas: Some Alberta screens go dark while others reinvent the reel",
+      "published_at": "2026-05-18T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "For more than a century, movies have remained a popular pastime across the country. But as technology evolves and economies change, how are small-time theatres keeping up? And what's at stake if another rural Alberta town loses its downtown anchor?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.342,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b0c03ed136b730f18db237185416007032e84ca",
+      "url": "https://www.cbc.ca/news/canada/calgary/drumheller-bus-bat-rabies-treatment-9.7202467?cmp=rss",
+      "title": "Alberta students being treated for rabies exposure after bat encounter on school bus",
+      "published_at": "2026-05-18T04:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A school bus ride in Drumheller took an unexpected turn when a bat turned out to be on board. At least three students on the bus are being treated for rabies exposure after making direct contact with the bat last week, according to two parents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d95e3f780caa01a16cfc7b5045a8d65d257ba2ab",
+      "url": "https://www.cbc.ca/news/world/narges-mohammadi-nobel-laureate-iran-9.7203152?cmp=rss",
+      "title": "Iranian Nobel laureate Narges Mohammadi sent home after discharge from hospital",
+      "published_at": "2026-05-18T03:43:49-04:00",
+      "section": "World",
+      "summary_auto": "Iranian Nobel Peace Prize winner Narges Mohammadi has been discharged from a cardiac care unit and sent home, weeks after being transferred from prison to hospital following a suspected heart attack, a foundation run by her family said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5239e63c9bd23634ed036f87601c5ad7c56c2c85",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-medical-association-oversight-dual-practice-model-9.7201295?cmp=rss",
+      "title": "Doctors call for strong oversight as Alberta works toward public-private practice model",
+      "published_at": "2026-05-18T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Alberta Medical Association is calling on the provincial government to adopt dozens of safeguards as the province crafts regulations designed to allow physicians to practise in both the public and private systems.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5239e63c9bd23634ed036f87601c5ad7c56c2c85",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-medical-association-oversight-dual-practice-model-9.7201295?cmp=rss",
+      "title": "Doctors call for strong oversight, workforce protections as Alberta works towards dual practice model",
+      "published_at": "2026-05-18T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "The Alberta Medical Association is calling on the provincial government to adopt dozens of safeguards as the province crafts regulations designed to allow physicians to practise in both the public and private systems.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85fd1747891f0bf6afb03ee202dd32acdbf84c46",
+      "url": "https://www.cbc.ca/news/world/shakira-tax-fraud-spain-9.7203139?cmp=rss",
+      "title": "Pop singer Shakira acquitted by Spanish court of tax fraud",
+      "published_at": "2026-05-18T02:41:46-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Spanish court acquitted Colombian singer Shakira in a tax fraud case, ordering the government to return some $87 million Cdn in fines and interest, according to a court document. Tax officials say they're appealing the decision and no payment will be made until there's a final ruling.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "adb859202646888157337ced779e37d09a20f285",
+      "url": "https://www.cbc.ca/news/world/israel-vessels-flotilla-gaza-blockade-9.7203134?cmp=rss",
+      "title": "Canadians among activists detained on Gaza flotilla after Israeli interception",
+      "published_at": "2026-05-18T01:30:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Israel's navy intercepted an activist flotilla in waters off Cyprus on Monday, halting the group's latest effort to challenge a blockade of Gaza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d855eec842b7440035fb1a114024c641b79bdc13",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-bretoner-ethnicity-2026-long-form-census-9.7200468?cmp=rss",
+      "title": "How 'Cape Bretoner' became an ethnicity option on the census",
+      "published_at": "2026-05-18T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Statistics Canada says 13,065 people reported an ethnic origin of “Cape Bretoner” on the last census, either alone or in combination with other ethnicities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "97bacc528f7a6fbd52318a22bd9003cd27e06012",
+      "url": "https://www.cbc.ca/news/world/hantavirus-cruise-ship-netherlands-9.7203130?cmp=rss",
+      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection",
+      "published_at": "2026-05-18T00:50:15-04:00",
+      "section": "World",
+      "summary_auto": "The MV Hondius was still carrying 25 crew members and two medical personnel as it reached Europe's largest port on Monday morning, after its passengers disembarked on the Spanish island of Tenerife last week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c12ff1b6af210c3519d908dceca9baad33d95496",
+      "url": "https://www.cbc.ca/news/world/u-s-military-weapons-shortage-9.7199419?cmp=rss",
+      "title": "Is the U.S. military running out of weapons?",
+      "published_at": "2026-05-18T00:00:00-04:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.382,
+        "sentiment": -0.44,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "0b2bcea75d299df6ac0a440a771c704b337b510a",
-      "url": "https://www.cbc.ca/news/canada/montreal/habs-sabres-game-6-9.7202448?cmp=rss",
-      "title": "Sabres quiet Bell Centre crowd with 7 unanswered, beat Habs to force Game 7",
-      "published_at": "2026-05-16T18:57:21-04:00",
+      "id": "b4f34c047301558c23f3914f39d38fc3e10d0656",
+      "url": "https://www.cbc.ca/radio/acl-tears-girls-women-athletes-9.7200045?cmp=rss",
+      "title": "Girls and young women are more likely to tear their ACLs. Here’s why — and how to prevent it",
+      "published_at": "2026-05-18T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The Buffalo Sabres roared back from a two-goal deficit with seven unanswered goals to defeat the Montreal Canadiens 8-3 at the Bell Centre on Saturday, forcing a Game 7. The winner on Monday will face the Carolina Hurricanes in the Eastern Conference final.",
+      "summary_auto": "Female athletes are more likely than their male counterparts to tear their anterior cruciate ligaments — and may be less likely to return to sport afterward. The injury is devastating, but strength and agility training can reduce the risk.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "74f19dbec59d0341c2172ddcef090487d54d1b99",
-      "url": "https://www.cbc.ca/player/play/9.7202589?cmp=rss",
-      "title": "Montreal Victoire on cusp of 1st Walter Cup after win against Ottawa Charge",
-      "published_at": "2026-05-16T15:34:23-04:00",
-      "section": "Canada",
-      "summary_auto": "The Victoire are edging closer to bringing home the Walter Cup following another hard-fought overtime win in Laval on Saturday. Montreal leads the Ottawa Charge 2-0 in their best-of-five series.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bcf0a80f31cd9d35516dc667ee991b65582f61af",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-logging-caribou-habitat-9.7202598?cmp=rss",
-      "title": "B.C. approved logging in threatened caribou habitat despite provincial recommendation against it",
-      "published_at": "2026-05-16T15:07:52-04:00",
-      "section": "Canada",
-      "summary_auto": "B.C. 's Ministry of Water, Land and Resource Stewardship warned that proposed logging near Quesnel Lake would harm threatened southern mountain caribou habitat. But the Ministry of Forests approved logging in the area anyway, drawing criticism from residents and conservation groups.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.619,
+        "sentiment": -0.214,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "4850af850a71fece4c5ae10c80e9a0d4661a59ab",
-      "url": "https://www.cbc.ca/news/entertainment/bulgaria-wins-eurovision-song-contest-bangaranga-9.7202599?cmp=rss",
-      "title": "Bulgaria wins its 1st Eurovision final over Israel in politically clouded song contest",
-      "published_at": "2026-05-16T15:06:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Bulgaria has won the 70th Eurovision song contest with singer Dara's party anthem Bangaranga, beating 24 other competitors during Saturday's grand final in Vienna. Israeli's Noam Bettan came in second after the contest faced protests against the country's participation.",
+      "id": "8ec9db07e9cdc557dbda116404016f4cc3f4a004",
+      "url": "https://www.cbc.ca/news/world/elon-musk-sam-altman-openai-closing-arguments-9.7203001?cmp=rss",
+      "title": "Jury set to deliberate in Musk's lawsuit against OpenAI",
+      "published_at": "2026-05-18T00:00:00-04:00",
+      "section": "Business",
+      "summary_auto": "Elon Musk, the world's richest person, has accused OpenAI CEO Sam Altman of \"stealing\" a \"charity\" and is calling for his ouster from the company's leadership. A parade of wealthy Silicon Valley figures have taken the witness stand over the past several weeks, while protesters outside the courthouse took aim at both sides.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.84,
+        "sentiment": -0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1dde5175dd3889d14f425001c19643d23fbea485",
+      "url": "https://www.cbc.ca/news/world/air-show-us-navy-jets-collision-9.7203078?cmp=rss",
+      "title": "4 crew members ejected safely after 2 U.S. navy jets crash during air show",
+      "published_at": "2026-05-17T17:15:34-04:00",
+      "section": "World",
+      "summary_auto": "The collision involved two U.S. Navy EA18-G Growlers from the Electronic Attack Squadron 129 in Whidbey Island, Washington, said Cmdr. Amelia Umayam, spokesperson for Naval Air Forces, U.S. Pacific Fleet.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     }
