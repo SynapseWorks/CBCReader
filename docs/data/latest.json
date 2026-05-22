@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-22T10:25:36.848727-04:00",
+  "generated_at": "2026-05-22T15:26:25.979228-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "afc4f3e563f0ccad251ea3e560c6092620eee73c",
+      "url": "https://www.cbc.ca/news/world/jan-6-compensation-anti-weaponization-fund-trump-9.7209041?cmp=rss",
+      "title": "Hundreds of Jan. 6 defendants prepare to seek compensation from Trump’s Anti-Weaponization Fund",
+      "published_at": "2026-05-22T10:40:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Hundreds of people prosecuted for crimes related to the Jan. 6 assault on the U.S. Capitol in 2021 plan to seek compensation from the U.S. government once a new taxpayer-funded anti-weaponization program is up and running.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "72e9e6fc5548daf7ff6de17671161bf9357e1f36",
+      "url": "https://www.cbc.ca/news/world/russia-luhansk-attack-putin-9.7208752?cmp=rss",
+      "title": "Putin vows revenge after Ukraine attack kills at least 6, wounds dozens at student dorm",
+      "published_at": "2026-05-22T09:20:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russian President Vladimir Putin on Friday ordered his military ‌to prepare options to retaliate against Ukraine after he accused Kyiv of carrying out a deadly drone attack on a student dorm that he said killed six and wounded dozens of young people, with 15 still unaccounted for.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.963,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "046d26cee7354e2566a9d95711a55e3a4af4b657",
+      "url": "https://www.cbc.ca/news/entertainment/cbs-newsradio-ends-9.7206462?cmp=rss",
+      "title": "CBS News Radio signs off after nearly a century on air",
+      "published_at": "2026-05-22T08:50:23-04:00",
+      "section": "Top Stories",
+      "summary_auto": "CBS News will shutter its venerable CBS News Radio service on Friday evening.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0868c65d352087ff0c199b4631d77b2fdc96d3ed",
+      "url": "https://www.cbc.ca/news/business/shein-buys-everlane-9.7208759?cmp=rss",
+      "title": "Fast-fashion brand Shein buys eco-conscious Everlane",
+      "published_at": "2026-05-22T08:34:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Reports of the sale made waves online this week among fans of Everlane, who saw the sale to Shein as a reversal of the brand's commitment to climate goals and ethical manufacturing. Everlane CEO Alfred Chang said in a statement his company would remain independent and committed to sustainability and quality.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0374456d4c51fab6dd42eff40975a68b74c86e19",
+      "url": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488?cmp=rss",
+      "title": "No Ebola cases in Canada and no new hantavirus cases, chief public health officer says",
+      "published_at": "2026-05-22T08:30:51-04:00",
+      "section": "Health",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79b41e045aac44b7d7810568e8de8fcd6ad47d53",
+      "url": "https://www.cbc.ca/news/world/us-charlie-kirk-critics-settlements-9.7208437?cmp=rss",
+      "title": "U.S. states paying to compensate people fired, jailed for negative Charlie Kirk posts",
+      "published_at": "2026-05-22T08:16:24-04:00",
+      "section": "World",
+      "summary_auto": "The zeal of some Republican officials and activists to punish those who made disparaging comments about Charlie Kirk after his September killing is coming back to haunt them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.976,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "87aa6cf34d66535fe9e921c6d08bf0fef3ad60db",
       "url": "https://www.cbc.ca/news/world/anita-anand-canadians-flotilla-israel-abuse-9.7208369?cmp=rss",
@@ -56,6 +134,19 @@
       }
     },
     {
+      "id": "cabf550f2c71e39fbb1b0aa241d1494ce4593b40",
+      "url": "https://www.cbc.ca/player/play/9.7207468?cmp=rss",
+      "title": "How this artist is turning stars of The Real Housewives into royalty",
+      "published_at": "2026-05-22T01:00:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Abby Spooner recently won an award at NSCAD University in Halifax for her crochet artwork of NeNe Leakes from The Real Housewives of Atlanta. It's part of a series called Cohen's Crown Jewels, depicting the reality show stars as famous figures. The CBC's Meig Campbell reports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "be7e7facada61368c8c0ef5f493b824770f3b1fd",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-patient-results-2026-9.7207068?cmp=rss",
       "title": "N.L. doctors fear app lets patients see 'catastrophic' medical results without support",
@@ -69,28 +160,15 @@
       }
     },
     {
-      "id": "66b211b2fca46d0bd44bb5996e8bc3e28176584f",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mha-post-shit-knocking-9.7207548?cmp=rss",
-      "title": "N.L. politician says he mistakenly shared post that calls for opponents to get a 'shit knocking'",
-      "published_at": "2026-05-22T00:30:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A government MHA from Labrador says he shared a crude anti-Liberal Facebook post on Tuesday night \"by accident,\" but says he laughed at the suggestion that Liberal MHAs \"deserve a shit knocking\" for supporting the shaky Churchill Falls MOU.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fcbd33aaff3659fbfe6c8506b5d2e5ac0cd7d081",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-strippers-f1-strike-9.7208008?cmp=rss",
-      "title": "As Montreal strippers prepare to strike during F1, not all dancers on board with demands",
+      "id": "095ff2782e9252aefbaa97ba8d0eb5c2a4d3c6b5",
+      "url": "https://www.cbc.ca/news/canada/calgary/sidhu-beef-cattle-steak-bbq-9.7207342?cmp=rss",
+      "title": "Grilling pains: Why your BBQ may cost more this summer",
       "published_at": "2026-05-22T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A planned strike by Montreal strippers during Formula One weekend is exposing divisions within the city’s sex work industry. While organizers are calling for employee status, some dancers argue formal employment could increase discrimination, reduce flexibility and create new risks.",
+      "summary_auto": "Driving the increase in prices, industry experts say, is cattle supply, which remains tight after a series of droughts. But in spite of that, consumer appetite remains strong, with overall demand for beef at record levels.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.202,
+        "sentiment": -0.285,
         "subjectivity_hint": "medium"
       }
     },
@@ -108,6 +186,19 @@
       }
     },
     {
+      "id": "fcbd33aaff3659fbfe6c8506b5d2e5ac0cd7d081",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-strippers-f1-strike-9.7208008?cmp=rss",
+      "title": "As Montreal strippers prepare to strike during F1, not all dancers on board with demands",
+      "published_at": "2026-05-22T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A planned strike by Montreal strippers during Formula One weekend is exposing divisions within the city’s sex work industry. While organizers are calling for employee status, some dancers argue formal employment could increase discrimination, reduce flexibility and create new risks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "0d49a182f4354807e335cd8789c99be7209d0802",
       "url": "https://www.cbc.ca/news/world/ukraine-battlefield-russia-drones-9.7207690?cmp=rss",
       "title": "Ukraine makes some battlefield gains, but 'grey zone' along front is getting bigger",
@@ -118,19 +209,6 @@
         "article_type": "News",
         "sentiment": 0.026,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "095ff2782e9252aefbaa97ba8d0eb5c2a4d3c6b5",
-      "url": "https://www.cbc.ca/news/canada/calgary/sidhu-beef-cattle-steak-bbq-9.7207342?cmp=rss",
-      "title": "Grilling pains: Why your BBQ may cost more this summer",
-      "published_at": "2026-05-22T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Driving the increase in prices, industry experts say, is cattle supply, which remains tight after a series of droughts. But in spite of that, consumer appetite remains strong, with overall demand for beef at record levels.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.285,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -152,7 +230,7 @@
       "title": "To card or not to card? Downtown Hamilton library ends restricting entry pilot aimed at curbing drug use and disruption",
       "published_at": "2026-05-22T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "After two months, the Hamilton Central library branch is no longer restricting entry to people with library cards or special passes. The pilot was intended to prevent drug use in the space and the library has said it will present its findings to its board on June 18.",
+      "summary_auto": "After two months, the Hamilton Central library branch is no longer restricting entry to people with library cards or special passes. The pilot was intended to prevent drug use in the space, and the library has said it will present its findings to its board on June 18.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.322,
@@ -199,275 +277,15 @@
       }
     },
     {
-      "id": "3cc060b3c3e293ed5f5bbad8d2f4ee828ca1e2cd",
-      "url": "https://www.cbc.ca/news/canada/montreal/habs-hurricanes-game-one-ecf-9.7206759?cmp=rss",
-      "title": "Canadiens dominate Hurricanes in Game 1 of East final",
-      "published_at": "2026-05-21T18:48:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Montreal takes a 1-0 lead in the best-of-seven Eastern Conference final with the road victory after coming off back-to-back seven-game series wins over Tampa Bay and Buffalo. The Canadiens had also swept the regular-season series against the 'Canes 3-0.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "eac20973aaf8a14866afe56dca476050a504035e",
       "url": "https://www.cbc.ca/news/states-ask-for-ticketmaster-livenation-breakup-9.7208100?cmp=rss",
-      "title": "Ticketmaster, Live Nation should break up, say 33 U.S. states",
+      "title": "Live Nation-Ticketmaster seeks new trial as 33 U.S. states demand a 'breakup'",
       "published_at": "2026-05-21T15:38:49-04:00",
       "section": "Top Stories",
-      "summary_auto": "Ticketmaster and its parent company Live Nation are facing formal motions in a U.S. court officially calling for their breakup.",
+      "summary_auto": "Ticketmaster and its parent company, Live Nation, are duelling in a U.S. court over formal motions calling for their breakup.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5575922a361f86b7a9f3569fbe5fd8d9d9667758",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/missing-man-kelsey-anderson-9.7207931?cmp=rss",
-      "title": "Members of several First Nations searching for missing man in Thunder Bay, Ont.",
-      "published_at": "2026-05-21T15:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Destiny Rae says she’s not leaving Thunder Bay, Ont., until she finds her partner, Kelsey Anderson, who was last seen in the northwestern Ontario city nearly two weeks ago. Anderson was last seen May 9 at Old Navy at the Thunder Centre shopping area and has not been heard from since. His disappearance comes just weeks after 23-year-old Ashlynn Bottle and 25-year-old Nodin Skunk of Mishkeegogamang First Nation were reported missing in Thunder Bay.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d996f448a8b41efe57c6a0bed2064aacdcf1cf02",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-mass-shooting-rcmp-guns-9.7207560?cmp=rss",
-      "title": "Advocacy groups calling on RCMP to release more information on guns used in Tumbler Ridge mass shooting",
-      "published_at": "2026-05-21T14:58:02-04:00",
-      "section": "Canada",
-      "summary_auto": "Gun control advocacy groups renewed their calls this week for the RCMP to release more information about the firearms used in the Tumbler Ridge, B.C., mass shooting that left eight people dead in February. PolySeSouvient and Danforth Families for Safe Communities say it's been 100 days since the tragedy, with important questions remaining unanswered, including the types of gun used and how the shooter obtained them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0357c18e17cd4e867219fce30372c09b0cb235e7",
-      "url": "https://www.cbc.ca/news/business/intuit-layoffs-2026-9.7207948?cmp=rss",
-      "title": "Intuit lays off 17% of its global workforce",
-      "published_at": "2026-05-21T14:54:47-04:00",
-      "section": "Business",
-      "summary_auto": "Intuit has laid off  17 per cent of its full-time workforce — or about 3,000 roles worldwide — as it plans to streamline the business and focus on key areas, including AI.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "14b33510cd3aea33f951063f35483968268fa4df",
-      "url": "https://www.cbc.ca/news/world/democrats-dnc-election-post-mortem-9.7207890?cmp=rss",
-      "title": "Democrats' autopsy of 2024 U.S. election blames Harris and 'identity politics' for loss",
-      "published_at": "2026-05-21T14:48:23-04:00",
-      "section": "World",
-      "summary_auto": "Kamala Harris \"wrote off rural America\" during the 2024 presidential campaign and failed to attack Donald Trump with sufficient \"negative firepower,\" according to a long-awaited post-election autopsy released Thursday by the Democratic National Committee (DNC) that did little to quell Democrats' concerns about the direction of their party.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0e286236d924a7962520fba8763eb1c85a5cb84b",
-      "url": "https://www.cbc.ca/player/play/9.7207994?cmp=rss",
-      "title": "Carleton University researchers design earthquake simulator to test building preparedness",
-      "published_at": "2026-05-21T14:33:10-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Researchers at Carleton University have designed a tool that simulates earthquakes to test how well buildings withstand some of history's notable quakes. CBC's Stu Mills has more on what the engineering professors discovered.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5b193c21edec93b58b23abcc3978d174b2fd37d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/homicide-unit-takes-over-missing-person-case-9.7207944?cmp=rss",
-      "title": "Missing B.C. actor believed to be victim of homicide: police",
-      "published_at": "2026-05-21T14:28:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Stewart McLean was last seen at his residence in Lions Bay on May 15.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "60cf3c1af7e908de63b3a93546afcbf74f231c4a",
-      "url": "https://www.cbc.ca/sports/nascar-kyle-busch-obit-9.7207986?cmp=rss",
-      "title": "2-time NASCAR champion Kyle Busch dead at 41",
-      "published_at": "2026-05-21T14:19:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kyle Busch, a two-time Cup Series champion who won more races than anyone across NASCAR's three national series, has died at 41.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e5fa5962a852a10b20db8e047a348bcd652aeb8e",
-      "url": "https://www.cbc.ca/news/canada/ottawa/opp-charges-ottawa-man-following-international-cybercrime-investigation-9.7207909?cmp=rss",
-      "title": "Canadian, U.S. authorities charge Ottawa man in cybercrime operation that infected millions of devices",
-      "published_at": "2026-05-21T14:09:07-04:00",
-      "section": "Canada",
-      "summary_auto": "An international effort to take down a far-reaching cybercrime operation has led to the arrest of an Ottawa man who now faces charges in both Canada and the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9cd0e6af5f1fc55ff36980a8b1cf843b0ba1e0fe",
-      "url": "https://www.cbc.ca/radio/asithappens/snuffleupagus-fish-9.7207623?cmp=rss",
-      "title": "Snuffleupagus, a newly described species, is an adorable little predator",
-      "published_at": "2026-05-21T13:01:14-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "S. snuffleupagus, a newly described species of fish, is named after the beloved Sesame Street character, Mr. Snuffleupagus, to which it bears an \"uncanny\" resemblance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "634b1ed3bbfbbe68ae1b811d91915edadf4a2217",
-      "url": "https://www.cbc.ca/news/world/us-threats-trump-rubio-cuba-9.7207647?cmp=rss",
-      "title": "Trump maintains pressure on Cuba as Rubio says diplomacy unlikely to resolve issues",
-      "published_at": "2026-05-21T12:29:13-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump and America's top diplomat on Thursday again raised the spectre of U.S. military intervention in Cuba, a renewed threat that takes on greater weight a day after the administration announced criminal charges against the island's former leader, Raúl Castro.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c974ee7f76c987907788d57ba9a7b200a5f9c3f",
-      "url": "https://www.cbc.ca/news/business/wealthsimple-launching-kids-businesses-9.7207296?cmp=rss",
-      "title": "Wealthsimple wants to expand its banking to kids and businesses",
-      "published_at": "2026-05-21T12:20:00-04:00",
-      "section": "Business",
-      "summary_auto": "Canadian fintech company Wealthsimple is expanding its offerings for Canadian families, including accounts for children and teenagers, in a push to offer wider services to both consumers and businesses.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "514d29b0c5f03ce415ca3560fecb9c9ea5a712f5",
-      "url": "https://www.cbc.ca/news/world/honduras-shootings-attack-9.7207766?cmp=rss",
-      "title": "Gunmen kill at least 25 in separate attacks in Honduras, police say",
-      "published_at": "2026-05-21T12:13:54-04:00",
-      "section": "World",
-      "summary_auto": "Gunmen opened fire in two separate attacks Thursday on the Honduran coast, killing at least 25 people, including six police officers, police said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.954,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cafed521cd2b70e3077680112e30ded325aac5b1",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/johnny-pauls-obit-9.7207242?cmp=rss",
-      "title": "Johnny Pauls, a WW II veteran from N.L., has died. He was 102",
-      "published_at": "2026-05-21T12:11:19-04:00",
-      "section": "Canada",
-      "summary_auto": "Johnny Pauls, a veteran of the Second World War from Newfoundland and Labrador, has died.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9c43600a3d41dc0f153767ee01f8ad83f837c1db",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-man-guilty-unprecedented-voyeurism-9.7207581?cmp=rss",
-      "title": "Police in B.C. say 652 victims in Canada's 'most prolific case of voyeurism ever prosecuted'",
-      "published_at": "2026-05-21T11:56:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Vancouver Island man pleaded guilty to what police are calling the \"most prolific case of voyeurism ever prosecuted in Canada.\" The Saanich Police Department said investigators identified at least 652 women and girls as victims.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5eeb7304627223c42bd97aca33a357549482be6d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/site-c-john-horgan-dam-dreamer-lake-9.7206180?cmp=rss",
-      "title": "B.C. names Site C dam after late premier John Horgan",
-      "published_at": "2026-05-21T11:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The province announced Thursday the dam on the Peace River near Fort St. John is being named the John Horgan Dam and Generating Station.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dcefecde8ff8d51a5c9a93a466b9f736695fbeb2",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/jeffery-sloka-two-additional-sexual-assault-charges-9.7207215?cmp=rss",
-      "title": "Former Kitchener, Ont., neurologist faces 2 new sex assault charges after acquittal on previous counts",
-      "published_at": "2026-05-21T10:50:34-04:00",
-      "section": "Canada",
-      "summary_auto": "Former Kitchener, Ont., neurologist Jeffrey Sloka is facing two new sexual assault charges, weeks after a judge found him not guilty of 48 previous counts. Crown prosecutors are appealing those acquittals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.858,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a4cad84e3dc0a89bb85e92bfb7262e40c5e53b53",
-      "url": "https://www.cbc.ca/news/entertainment/disneyland-lawsuit-facial-recognition-9.7207439?cmp=rss",
-      "title": "Disney sued over new facial recognition technology at Disneyland entrances",
-      "published_at": "2026-05-21T10:46:45-04:00",
-      "section": "World",
-      "summary_auto": "The Walt Disney Company is facing a class-action lawsuit over a recently introduced use of facial recognition technology at its Disneyland theme park entrances.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1259d66f73877a19fa52576e7b3e35c574804c7e",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-victoire-walter-cup-9.7207535?cmp=rss",
-      "title": "Fans welcome Montreal Victoire home after historic Walter Cup win",
-      "published_at": "2026-05-21T10:44:18-04:00",
-      "section": "Canada",
-      "summary_auto": "The Montreal Victoire were met with chants and cheers from fans as the team arrived in Verdun following their victory in Ottawa.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a4d8e403cab2741c8243ec4aed3fb5b202d58040",
-      "url": "https://www.cbc.ca/news/business/hyundai-elantra-hybrid-recall-canada-9.7207510?cmp=rss",
-      "title": "Hyundai recalls some Elantra Hybrid vehicles over possible overheating, fire risk",
-      "published_at": "2026-05-21T10:31:17-04:00",
-      "section": "Business",
-      "summary_auto": "Recall applies to 6,082 Canadian vehicles, according to Hyundai. No fires, incidents, injuries or fatalities have been reported in Canada related to the issue.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
+        "sentiment": -0.128,
         "subjectivity_hint": "low"
       }
     }
