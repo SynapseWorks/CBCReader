@@ -1,6 +1,6 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-23T09:10:52.864686-04:00",
+  "generated_at": "2026-05-23T10:55:34.419672-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
@@ -13,6 +13,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.979,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "34fa1c61cfd122310b10c857f4b4e449c4887919",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/john-horgan-site-c-dam-dreamer-lake-reaction-9.7208548?cmp=rss",
+      "title": "Site C dam naming met with disbelief in northeast B.C.",
+      "published_at": "2026-05-23T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In a small log cabin along what used to be the Peace River in northeastern B.C., Ken Boon has amassed a half century's worth of memorabilia from protests to stop the controversial Site C dam.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "efcc9537aafc27d9e4bd1acd948201af2494e443",
+      "url": "https://www.cbc.ca/news/climate/climate-change-predictions-trump-9.7207370?cmp=rss",
+      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working",
+      "published_at": "2026-05-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Surely you've heard of RCP 8.5? Maybe not. But it's been in the spotlight since U.S. President Donald Trump who stirred up a conversation about a projection of future climate change that's rarely mentioned by name.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.192,
         "subjectivity_hint": "low"
       }
     },
@@ -39,19 +65,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "efcc9537aafc27d9e4bd1acd948201af2494e443",
-      "url": "https://www.cbc.ca/news/climate/climate-change-predictions-trump-9.7207370?cmp=rss",
-      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Surely you've heard of RCP 8.5? Maybe not. But it's been in the spotlight since U.S. President Donald Trump who stirred up a conversation about a projection of future climate change that's rarely mentioned by name.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.192,
         "subjectivity_hint": "low"
       }
     },
@@ -351,32 +364,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "afc4f3e563f0ccad251ea3e560c6092620eee73c",
-      "url": "https://www.cbc.ca/news/world/jan-6-compensation-anti-weaponization-fund-trump-9.7209041?cmp=rss",
-      "title": "Hundreds of Jan. 6 defendants prepare to seek compensation from Trump’s Anti-Weaponization Fund",
-      "published_at": "2026-05-22T10:40:37-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds of people prosecuted for crimes related to the Jan. 6 assault on the U.S. Capitol in 2021 plan to seek compensation from the U.S. government once a new taxpayer-funded anti-weaponization program is up and running.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "72e9e6fc5548daf7ff6de17671161bf9357e1f36",
-      "url": "https://www.cbc.ca/news/world/russia-luhansk-attack-putin-9.7208752?cmp=rss",
-      "title": "Putin vows revenge after Ukraine attack kills at least 6, wounds dozens at student dorm",
-      "published_at": "2026-05-22T09:20:17-04:00",
-      "section": "World",
-      "summary_auto": "Russian President Vladimir Putin on Friday ordered his military ‌to prepare options to retaliate against Ukraine after he accused Kyiv of carrying out a deadly drone attack on a student dorm that he said killed six and wounded dozens of young people, with 15 still unaccounted for.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.963,
         "subjectivity_hint": "low"
       }
     }
