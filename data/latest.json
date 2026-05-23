@@ -1,8 +1,47 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-23T10:55:34.419672-04:00",
+  "generated_at": "2026-05-23T15:00:56.704126-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "efcc9537aafc27d9e4bd1acd948201af2494e443",
+      "url": "https://www.cbc.ca/news/climate/climate-change-predictions-trump-9.7207370?cmp=rss",
+      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working",
+      "published_at": "2026-05-23T08:45:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.628,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff0a10003ccb9d9336f7de803c1447e626ae2e9b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/rock-ridge-wildfire-9.7210004?cmp=rss",
+      "title": "Brush fire breaks out in Maple Ridge, B.C., forest",
+      "published_at": "2026-05-23T08:20:09-04:00",
+      "section": "Canada",
+      "summary_auto": "The Maple Ridge fire chief is asking people to avoid the area as crews work to put out the fire.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb8dee1116cdf3f6b0a8bdb84eb805a476f0d066",
+      "url": "https://www.cbc.ca/news/world/ebola-tent-fire-congo-9.7210001?cmp=rss",
+      "title": "Ebola treatment tent set ablaze again in Congo, with 18 suspected cases leaving",
+      "published_at": "2026-05-23T08:13:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ebola treatment tent was set on fire, leading 18 patients who are suspected of having Ebola to leave — one day after a tent in another community was burned down. The concerning outbreak is gripping East Africa.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "490e2b474862839442c781679738ac98ab819949",
       "url": "https://www.cbc.ca/news/entertainment/rob-base-obit-9.7209933?cmp=rss",
@@ -13,6 +52,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.979,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "061fd71f623797997871e7b4e85f618373bb50fe",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/john-gay-marathon-debut-ottawa-injuries-linkletter-9.7208732?cmp=rss",
+      "title": "Canada's John Gay set for debut marathon in Ottawa after serious injuries nearly forced him to retire",
+      "published_at": "2026-05-23T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "John Gay, a 2021 Canadian Olympian in the steeplechase, will toe the line for his debut marathon Sunday in Ottawa, something he and those close to him never dreamed possible as recently as a year ago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -30,15 +82,41 @@
       }
     },
     {
-      "id": "efcc9537aafc27d9e4bd1acd948201af2494e443",
-      "url": "https://www.cbc.ca/news/climate/climate-change-predictions-trump-9.7207370?cmp=rss",
-      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working",
+      "id": "25dd09e9edf15252bcf2e63bf8accdc4b185a86a",
+      "url": "https://www.cbc.ca/radio/ideas/yellow-light-timing-red-light-cam-9.7207266?cmp=rss",
+      "title": "You got a ticket for running a red. Here's why that yellow light might have seemed short",
       "published_at": "2026-05-23T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Surely you've heard of RCP 8.5? Maybe not. But it's been in the spotlight since U.S. President Donald Trump who stirred up a conversation about a projection of future climate change that's rarely mentioned by name.",
+      "summary_auto": "The engineers behind those yellow lights — including the ones that seem painfully short — say a lot of science goes into how traffic lights are programmed. But they also account for the different ways drivers respond at intersections.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.192,
+        "sentiment": -0.296,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2d580d39584069ce4d2529015e38f15047364518",
+      "url": "https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716?cmp=rss",
+      "title": "Kevin O'Leary wants to build an AI data centre in Alberta. His Utah project is facing a backlash",
+      "published_at": "2026-05-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Celebrity investor Kevin O'Leary wants to bankroll an AI data centre in rural Utah he says would be nearly identical to his proposed $70-billion, 7.5-gigawatt AI data centre campus in northern Alberta. But the Utah project has already been met with fierce opposition from some in the community who are worried about the potential environmental impacts.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "2d825c6d4c93fa7364d8a49e95d7964e17cd9094",
+      "url": "https://www.cbc.ca/news/politics/canada-labour-code-consultations-right-to-strike-9.7209196?cmp=rss",
+      "title": "Unions warn Carney government is considering sweeping changes to labour law — including the right to strike",
+      "published_at": "2026-05-23T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ottawa is currently consulting on potential changes to the legislation that protects more than a million Canadian workers in federally regulated industries — a process the jobs minister says is needed as Canada faces \"immense stress.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -66,19 +144,6 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d580d39584069ce4d2529015e38f15047364518",
-      "url": "https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716?cmp=rss",
-      "title": "Kevin O'Leary's Utah AI plan shows the high cost of the data centre boom",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Celebrity investor Kevin O'Leary wants to bankroll an AI data centre in rural Utah he says would be nearly identical to his proposed $70-billion, 7.5-gigawatt AI data centre campus in northern Alberta. But the Utah project has already been met with fierce opposition from some in the community who are worried about the potential environmental impacts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -177,7 +242,7 @@
       "url": "https://www.cbc.ca/news/world/staten-island-shipyard-explosion-9.7209770?cmp=rss",
       "title": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured",
       "published_at": "2026-05-22T17:17:10-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "An explosion at a dry dock in New York City's Staten Island killed one person and injured 36 others on ‌Friday, as the blast occurred while firefighters were on the scene responding to a fire and attempting to ​rescue two people who were trapped, ​officials said.",
       "bias_heuristic": {
         "article_type": "News",
@@ -199,24 +264,11 @@
       }
     },
     {
-      "id": "dacc0ecb134a85213e089505ec4d99d492a8a8cc",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/east-rendonda-island-wildfire-appeal-loss-9.7209654?cmp=rss",
-      "title": "U.S. man loses appeal of $2.35M fine for starting wildfire in B.C.",
-      "published_at": "2026-05-22T17:08:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S. man whom investigators found likely started a wildfire in a sensitive ecological reserve in B.C. 's Sea-to-Sky region in 2018 has lost an appeal of a $2.35 million fine.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "a20b16f76c2dcd94abff3456e4fe87bb26a33f2e",
       "url": "https://www.cbc.ca/news/entertainment/colbert-finale-analysis-9.7209259?cmp=rss",
       "title": "Colbert's farewell played it safe with warm, star-studded goodbye and no political bite",
       "published_at": "2026-05-22T16:50:07-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "After CBS announced The Late Show's cancellation last year, Stephen Colbert warned viewers that \"the gloves are off\" — freeing the comedian to get political without consequence. But what unfolded on Thursday night seemed carefully calculated to comfort rather than confront.",
       "bias_heuristic": {
         "article_type": "News",
@@ -234,136 +286,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8e1c59e36b7f2d222581221db86aebc0b65fbabf",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-dog-attack-trial-verdict-9.7209541?cmp=rss",
-      "title": "Edmonton dog owner found guilty in fatal dog attack that killed 11-year-old boy",
-      "published_at": "2026-05-22T14:59:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An Edmonton judge has found a dog owner guilty of criminal negligence causing death after a fatal dog attack killed an 11-year-old boy in 2024.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.988,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6311dc2e761f82662ed7ff1a9b015f31311334ea",
-      "url": "https://www.cbc.ca/sports/kyle-busch-death-follow-up-911-call-nascar-9.7209600?cmp=rss",
-      "title": "911 audio reveals NASCAR's Kyle Busch was short of breath, coughing up blood day before death",
-      "published_at": "2026-05-22T14:47:45-04:00",
-      "section": "World",
-      "summary_auto": "NASCAR driver Kyle Busch experienced shortness of breath, felt he was overheating and was coughing up blood the day before his death, according to a 911 call obtained Friday by The Associated Press.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b07cdaaf5aadfbe6924a0b2b58c94328e391a7fa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-nurses-union-tentative-agreement-9.7209507?cmp=rss",
-      "title": "Job action averted as B.C. nurses reach tentative deal with province",
-      "published_at": "2026-05-22T14:15:22-04:00",
-      "section": "Canada",
-      "summary_auto": "British Columbia's nurses won't be taking job action, after reaching a tentative deal on a new collective agreement on Friday. It comes after members of the B.C. Nurses' Union voted 98.2 per cent in favour to give leadership a strike mandate earlier this month amid stalled contract talks. The union's last agreement expired in March 2025.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "18ce3b66d6507fdbcc36a0bc80c7e5e0332ea6ff",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/premier-doug-ford-comment-kitchener-encampment-ruling-9.7208836?cmp=rss",
-      "title": "Ontario Premier Doug Ford slams 'ridiculous' court ruling that bars clearing an encampment",
-      "published_at": "2026-05-22T14:06:29-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7d86e4977d1e6f2c6ffcf4931df86d236e34d60a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/stewart-mclean-homicide-unit-remains-9.7209461?cmp=rss",
-      "title": "Remains of missing B.C. actor Stewart McLean found, homicide investigation continues",
-      "published_at": "2026-05-22T13:49:24-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Stewart McLean was last seen at his residence in Lions Bay on May 15.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9551545e9e6f89712c971375cc22be5e3aac2bb1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/mia-yaltwa-halidzogm-hoon-protection-area-central-coast-9.7209294?cmp=rss",
-      "title": "New protected marine reserve, larger than P.E.I., to be established on B.C.'s Central Coast",
-      "published_at": "2026-05-22T12:47:10-04:00",
-      "section": "Canada",
-      "summary_auto": "The reserve is within the Great Bear Sea, a diverse marine ecosystem that covers more than half of B.C. 's coast and includes glass sponge reefs, salmon, killer whales and migrating humpbacks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7fa755ebc5a72adc0435c89fbf7fd3a328b59fa0",
-      "url": "https://www.cbc.ca/news/world/cuba-protest-raul-castro-indictment-9.7209262?cmp=rss",
-      "title": "Thousands protest Raúl Castro indictment outside U.S. Embassy in Havana",
-      "published_at": "2026-05-22T12:40:00-04:00",
-      "section": "World",
-      "summary_auto": "Thousands of Cubans gathered on Friday before the U.S. embassy in Havana to protest a U.S. decision to indict ‌former president Raúl Castro over the downing of two civilian airplanes 30 years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "54e2beb3e4a4f26cccc2eb0c0d53acbbc4ad71b0",
-      "url": "https://www.cbc.ca/news/world/tulsi-gabbard-resigns-us-dni-9.7209098?cmp=rss",
-      "title": "Tulsi Gabbard steps down as U.S. intel chief, citing husband's cancer diagnosis",
-      "published_at": "2026-05-22T12:05:06-04:00",
-      "section": "World",
-      "summary_auto": "Tulsi Gabbard resigned as U.S. President Donald Trump's director of national intelligence on Friday, saying she needed to step away as her husband battles cancer. She is the fourth cabinet official to depart during Trump's second term, all of them women.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.883,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f97b203d9b3db3f968217a344af5fcc158a4d3e2",
-      "url": "https://www.cbc.ca/news/world/ebola-survivor-addresses-unrest-9.7208998?cmp=rss",
-      "title": "Ebola survivor calls for compassion as fear, unrest spread during outbreak",
-      "published_at": "2026-05-22T11:53:58-04:00",
-      "section": "World",
-      "summary_auto": "Dr. Kent Brantly became critically ill with Ebola while on medical mission work during the 2014 outbreak. The U.S. physician survived, and is now watching with concern at the speed and spread of the current outbreak — which has no approved treatments or vaccines available.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.12,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "976ba2ba2c5f17ed881ec0e5801a55821303e31a",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/3-fatalities-boat-capsize-bc-savary-island-9.7209137?cmp=rss",
-      "title": "3 dead after boat capsizes off Savary Island in B.C.: RCMP",
-      "published_at": "2026-05-22T11:15:33-04:00",
-      "section": "Canada",
-      "summary_auto": "Powell River RCMP say three men are dead and two have survived after a boat capsized about 500 to 1,000 metres off the shore of Savary Island Thursday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
         "subjectivity_hint": "low"
       }
     }
