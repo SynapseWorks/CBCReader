@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-24T09:10:53.422782-04:00",
+  "generated_at": "2026-05-24T10:57:29.886538-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "771e2ac28a68d80281017e9e6bc012a46cf402b5",
+      "url": "https://www.cbc.ca/news/world/details-emerge-us-deal-with-iran-9.7210359?cmp=rss",
+      "title": "Details of potential U.S.-Iran deal begin to emerge after Trump announces progress",
+      "published_at": "2026-05-24T05:08:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The potential deal will include Iran’s commitment that it won’t pursue a nuclear weapon, and Tehran agreed to give up its stockpile of highly enriched uranium, according to two regional officials.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d30e1fec4956fb22bfa5101e737d564647e43b11",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/volunteer-firefighter-death-annapolis-wildfire-9.7210367?cmp=rss",
+      "title": "Volunteer firefighter dies while battling wildfire in Nova Scotia",
+      "published_at": "2026-05-24T05:08:05-04:00",
+      "section": "Canada",
+      "summary_auto": "A volunteer firefighter with the Bridgetown Volunteer Fire Department died Thursday evening while fighting a wildfire in Moschelle, Annapolis County.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d6d16a97f56f595722a0ac502391339eb89507d2",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/are-homeless-people-being-bused-vancouver-prince-george-world-cup-9.7209758?cmp=rss",
+      "title": "Vancouver isn’t shipping unhoused people to Prince George for World Cup, officials say. But rumours persist",
+      "published_at": "2026-05-24T05:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The belief that unhoused people are being paid and provided buses to travel from Vancouver to other communities across British Columbia ahead of the World Cup has taken such a hold in Prince George that the city and multiple councillors have officially come forward to dispel the rumour.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b94a6efbbba2d6ca991adbfebc7ee34b8444bd75",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dean-penney-verdict-9.7206875?cmp=rss",
+      "title": "Dean Penney found guilty of murdering his estranged wife",
+      "published_at": "2026-05-24T04:44:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A 12-person jury has found Dean Penney guilty of first-degree murder in relation to the disappearance of his estranged wife, Jennifer Hillier-Penney, in 2016.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5743f3bb33e696e617a09e88a4ec8acfff95bd4",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-avian-flu-outbreaks-bird-9.7207997?cmp=rss",
+      "title": "Here's how Alberta zoos are protecting birds from avian flu",
+      "published_at": "2026-05-24T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Zoos and wildlife facilities in Alberta are taking steps to protect their birds from avian flu. Outbreaks on commercial poultry operations in Alberta have been detected east of Edmonton and near Ribstone Creek in east-central Alberta on May 11, and northeast of Drumheller on May 16.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "8d5daf6cd415377b4c54e18c356b5ac054bb2b93",
       "url": "https://www.cbc.ca/news/world/russia-kyiv-missile-drone-attack-9.7210312?cmp=rss",
@@ -56,19 +121,6 @@
       }
     },
     {
-      "id": "f36b5db8b7e65e18e883c3f52aba96348f001e5d",
-      "url": "https://www.cbc.ca/news/politics/mary-simon-french-louise-arbour-indigenous-languages-9.7210109?cmp=rss",
-      "title": "Outgoing Gov. Gen. says criticisms levelled against her French abilities were unfair",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Outgoing Gov. Gen. Mary Simon says the criticisms levelled against her over her ability to speak French were \"unfair\" and it ultimately did not impede her connecting with Canadians while in the role.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "dc029926c1df4a79ec8aea4b64c2c1c863335ad5",
       "url": "https://www.cbc.ca/news/science/whaling-logbook-bowhead-populations-9.7208739?cmp=rss",
       "title": "What centuries-old whaler logs can tell us about why bowheads struggle today",
@@ -79,6 +131,19 @@
         "article_type": "News",
         "sentiment": 0.718,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "600abaeb932f1988291534145674611b940bdb50",
+      "url": "https://www.cbc.ca/news/canada/lapu-lapu-donations-analysis-9.7207684?cmp=rss",
+      "title": "Over $5M in donations flowed in after the Lapu-Lapu Day attack. Here's where it went",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Several charities and 29 GoFundMe campaigns raised more than $5.5 million for those affected by the Lapu-Lapu Day Festival attack. As some survivors criticize a lack of consultation and ongoing support, one charity expert says direct cash transfers to victims is a proven strategy to maximize impact after a tragedy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,6 +160,19 @@
       }
     },
     {
+      "id": "f36b5db8b7e65e18e883c3f52aba96348f001e5d",
+      "url": "https://www.cbc.ca/news/politics/mary-simon-french-louise-arbour-indigenous-languages-9.7210109?cmp=rss",
+      "title": "Outgoing Gov. Gen. says criticisms levelled against her French abilities were unfair",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Outgoing Gov. Gen. Mary Simon says the criticisms levelled against her over her ability to speak French were \"unfair\" and it ultimately did not impede her connecting with Canadians while in the role.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "962a07425f061b1eb79447d217e4a6823c51b233",
       "url": "https://www.cbc.ca/news/politics/pierre-poilievre-netflix-tax-crtc-9.7210101?cmp=rss",
       "title": "Poilievre comes out swinging against CRTC's 'Netflix tax,' says it could derail U.S. trade talks",
@@ -105,6 +183,19 @@
         "article_type": "News",
         "sentiment": -0.542,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a26f076c96b0d485df9e4733c7619fb6bfd0e5f1",
+      "url": "https://www.cbc.ca/news/canada/ottawa/woodchips-on-trails-reduce-tick-populations-ottawa-researchers-find-9.7206851?cmp=rss",
+      "title": "Woodchips on trails reduce tick populations, Ottawa researchers find",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A study published this month by researchers at the University of Ottawa has found that applying woodchips to some trails significantly reduced local tick populations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -130,19 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f447bbe387e431a7e5bc62f8f2c2e6f4b466ebe",
-      "url": "https://www.cbc.ca/news/canada/montreal/hurricanes-canadiens-game-two-9.7209935?cmp=rss",
-      "title": "Habs lose Game 2 in OT to Hurricanes, East final series now tied 1-1",
-      "published_at": "2026-05-23T17:57:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Montreal Canadiens dropped Game 2 of the Eastern Conference final Saturday night, falling 3-2 in overtime to the Carolina Hurricanes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -216,7 +294,7 @@
       "url": "https://www.cbc.ca/news/world/strait-hormuz-iran-trump-deal-9.7210138?cmp=rss",
       "title": "Deal with Iran to reopen Strait of Hormuz 'largely negotiated,' Trump says",
       "published_at": "2026-05-23T13:06:18-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Announcing progress on social media, Trump said final aspects and details of the deal are being discussed and will be announced \"shortly.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -227,7 +305,7 @@
     {
       "id": "0f02b0502f05282cdf5d9ecf5b49bada7195311f",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/missing-newborn-baby-in-halifax-9.7210113?cmp=rss",
-      "title": "Search underway for missing newborn in Halifax",
+      "title": "Search stretches into second day for missing newborn in Halifax",
       "published_at": "2026-05-23T12:23:05-04:00",
       "section": "Top Stories",
       "summary_auto": "Halifax Regional Police say a search is underway in the Clayton Park area of Halifax for a missing newborn. Four people are in custody undergoing questioning related to the matter.",
@@ -247,32 +325,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bbcb6782e3d0023e86345a77a345e35d6afe92e3",
-      "url": "https://www.cbc.ca/news/canada/toronto/bruno-mars-saturday-concert-rescheduled-9.7210062?cmp=rss",
-      "title": "Bruno Mars concert in Toronto cancelled on Saturday due to poor weather: Rogers Stadium",
-      "published_at": "2026-05-23T10:02:54-04:00",
-      "section": "Canada",
-      "summary_auto": "The first in a series of Bruno Mars concerts to held in Toronto has been cancelled, according to Rogers Stadium.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "094f66fefc03d5829a43f39f8caebb1287a6e082",
-      "url": "https://www.cbc.ca/sports/kyle-busch-cause-of-death-9.7210043?cmp=rss",
-      "title": "NASCAR's Kyle Busch died after severe pneumonia progressed into sepsis, his family says",
-      "published_at": "2026-05-23T09:36:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications, according to a statement released by his family.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
         "subjectivity_hint": "low"
       }
     }
