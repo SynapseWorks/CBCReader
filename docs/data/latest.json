@@ -1,223 +1,67 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-23T15:00:56.704126-04:00",
+  "generated_at": "2026-05-24T09:10:53.422782-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "efcc9537aafc27d9e4bd1acd948201af2494e443",
-      "url": "https://www.cbc.ca/news/climate/climate-change-predictions-trump-9.7207370?cmp=rss",
-      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working",
-      "published_at": "2026-05-23T08:45:50-04:00",
+      "id": "8d5daf6cd415377b4c54e18c356b5ac054bb2b93",
+      "url": "https://www.cbc.ca/news/world/russia-kyiv-missile-drone-attack-9.7210312?cmp=rss",
+      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "published_at": "2026-05-24T01:46:11-04:00",
       "section": "Top Stories",
-      "summary_auto": "",
+      "summary_auto": "Russia first used the multiple-warhead Oreshnik on the Ukrainian city of Dnipro in November 2024. It was used a second time in January in the western Lviv region.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.628,
+        "sentiment": -0.477,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "ff0a10003ccb9d9336f7de803c1447e626ae2e9b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/rock-ridge-wildfire-9.7210004?cmp=rss",
-      "title": "Brush fire breaks out in Maple Ridge, B.C., forest",
-      "published_at": "2026-05-23T08:20:09-04:00",
-      "section": "Canada",
-      "summary_auto": "The Maple Ridge fire chief is asking people to avoid the area as crews work to put out the fire.",
+      "id": "263757fd11e3b15cde397828112bbdcc81b3778d",
+      "url": "https://www.cbc.ca/news/world/philippines-building-collapse-9.7210319?cmp=rss",
+      "title": "Building under construction in the Philippines collapses, with 24 surviving and 21 missing",
+      "published_at": "2026-05-24T01:27:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rescuers including firefighters, police and disaster-response teams used their hands and sniffer dogs in a dangerous scramble to search for the trapped survivors.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.813,
+        "sentiment": -0.827,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "cb8dee1116cdf3f6b0a8bdb84eb805a476f0d066",
-      "url": "https://www.cbc.ca/news/world/ebola-tent-fire-congo-9.7210001?cmp=rss",
-      "title": "Ebola treatment tent set ablaze again in Congo, with 18 suspected cases leaving",
-      "published_at": "2026-05-23T08:13:04-04:00",
+      "id": "8a272c3190499e18a16feb9ec9503f52a7ba8137",
+      "url": "https://www.cbc.ca/news/world/china-mine-blast-rescue-9.7210316?cmp=rss",
+      "title": "Rescuers race to find survivors after deadly Chinese coal mine blast",
+      "published_at": "2026-05-24T01:20:16-04:00",
       "section": "Top Stories",
-      "summary_auto": "An Ebola treatment tent was set on fire, leading 18 patients who are suspected of having Ebola to leave — one day after a tent in another community was burned down. The concerning outbreak is gripping East Africa.",
+      "summary_auto": "Chinese President Xi Jinping called for a thorough investigation and accountability of those responsible, after the deadly gas explosion happened Friday evening at the Liushenyu coal mine in the province of Shanxi.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "490e2b474862839442c781679738ac98ab819949",
-      "url": "https://www.cbc.ca/news/entertainment/rob-base-obit-9.7209933?cmp=rss",
-      "title": "It Takes Two rapper Rob Base, who helped bring hip-hop to the mainstream, dead at 59",
-      "published_at": "2026-05-23T04:40:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rob Base, rapper and one half of the Harlem hip-hop duo Rob Base & DJ E-Z Rock, has died after a battle with cancer at age 59.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.979,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "061fd71f623797997871e7b4e85f618373bb50fe",
-      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/john-gay-marathon-debut-ottawa-injuries-linkletter-9.7208732?cmp=rss",
-      "title": "Canada's John Gay set for debut marathon in Ottawa after serious injuries nearly forced him to retire",
-      "published_at": "2026-05-23T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "John Gay, a 2021 Canadian Olympian in the steeplechase, will toe the line for his debut marathon Sunday in Ottawa, something he and those close to him never dreamed possible as recently as a year ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "34fa1c61cfd122310b10c857f4b4e449c4887919",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/john-horgan-site-c-dam-dreamer-lake-reaction-9.7208548?cmp=rss",
-      "title": "Site C dam naming met with disbelief in northeast B.C.",
-      "published_at": "2026-05-23T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In a small log cabin along what used to be the Peace River in northeastern B.C., Ken Boon has amassed a half century's worth of memorabilia from protests to stop the controversial Site C dam.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "25dd09e9edf15252bcf2e63bf8accdc4b185a86a",
-      "url": "https://www.cbc.ca/radio/ideas/yellow-light-timing-red-light-cam-9.7207266?cmp=rss",
-      "title": "You got a ticket for running a red. Here's why that yellow light might have seemed short",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The engineers behind those yellow lights — including the ones that seem painfully short — say a lot of science goes into how traffic lights are programmed. But they also account for the different ways drivers respond at intersections.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": 0.318,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "2d580d39584069ce4d2529015e38f15047364518",
-      "url": "https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716?cmp=rss",
-      "title": "Kevin O'Leary wants to build an AI data centre in Alberta. His Utah project is facing a backlash",
-      "published_at": "2026-05-23T00:00:00-04:00",
+      "id": "c515470e073135a7b5a890142f324a2cc5a1c67c",
+      "url": "https://www.cbc.ca/news/world/pakistan-train-bombing-9.7210317?cmp=rss",
+      "title": "Suicide bombing near a railway track in southwest Pakistan kills at least 23 people",
+      "published_at": "2026-05-24T01:15:50-04:00",
       "section": "Top Stories",
-      "summary_auto": "Celebrity investor Kevin O'Leary wants to bankroll an AI data centre in rural Utah he says would be nearly identical to his proposed $70-billion, 7.5-gigawatt AI data centre campus in northern Alberta. But the Utah project has already been met with fierce opposition from some in the community who are worried about the potential environmental impacts.",
+      "summary_auto": "The attack happened in an area where security forces are usually stationed, badly damaging several nearby buildings and smashing vehicles parked along the road, according to witnesses and images circulating on social media.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2d825c6d4c93fa7364d8a49e95d7964e17cd9094",
-      "url": "https://www.cbc.ca/news/politics/canada-labour-code-consultations-right-to-strike-9.7209196?cmp=rss",
-      "title": "Unions warn Carney government is considering sweeping changes to labour law — including the right to strike",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ottawa is currently consulting on potential changes to the legislation that protects more than a million Canadian workers in federally regulated industries — a process the jobs minister says is needed as Canada faces \"immense stress.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
+        "sentiment": -0.944,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "c0d9cb4cdd0ada4d42ae6b4091bbd9c16e5bb587",
-      "url": "https://www.cbc.ca/news/canada/pizza-hut-retro-classic-9.7205748?cmp=rss",
-      "title": "The Pizza Huts from your childhood are making a comeback. Here's why nostalgia sells",
-      "published_at": "2026-05-23T00:00:00-04:00",
+      "id": "f36b5db8b7e65e18e883c3f52aba96348f001e5d",
+      "url": "https://www.cbc.ca/news/politics/mary-simon-french-louise-arbour-indigenous-languages-9.7210109?cmp=rss",
+      "title": "Outgoing Gov. Gen. says criticisms levelled against her French abilities were unfair",
+      "published_at": "2026-05-24T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A Pizza Hut franchisee in the U.S. is betting big on nostalgia, bringing back its '90s decor, Pac-Man and salad bars.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7cafdbb076039d79785f2d10bc2ed5f631fceb9b",
-      "url": "https://www.cbc.ca/news/entertainment/steroid-olympics-enhanced-games-9.7207902?cmp=rss",
-      "title": "Your guide to the inaugural 'Steroid Olympics'",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Two decorated Canadian athletes are among those competing at this weekend's inaugural Enhanced Games — which is either the future of sport or its downfall, depending on who you ask.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35ea0bfa9ebc071f6eb11a4c84d344b1f5eb8401",
-      "url": "https://www.cbc.ca/news/world/trump-peace-plan-gaza-israel-9.7208889?cmp=rss",
-      "title": "As Gaza endures a ceasefire in name only, Trump's Board of Peace unable to make inroads",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump’s plan to rebuild Gaza is under growing strain as violence persists — more than 800 Palestinians have been killed since the ceasefire began — and his Board of Peace blames Hamas’s refusal to disarm for stalling progress.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "35ea0bfa9ebc071f6eb11a4c84d344b1f5eb8401",
-      "url": "https://www.cbc.ca/news/world/trump-peace-plan-gaza-israel-9.7208889?cmp=rss",
-      "title": "Trump's Board of Peace struggles to progress beyond far-from-perfect ceasefire in Gaza",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump’s plan to rebuild Gaza is under growing strain as violence persists — more than 800 Palestinians have been killed since the ceasefire began — and his Board of Peace blames Hamas’s refusal to disarm for stalling progress.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d580d39584069ce4d2529015e38f15047364518",
-      "url": "https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716?cmp=rss",
-      "title": "Kevin O'Leary wants to build a massive AI data centre in Utah. Some residents aren't happy",
-      "published_at": "2026-05-23T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Celebrity investor Kevin O'Leary wants to bankroll an AI data centre in rural Utah he says would be nearly identical to his proposed $70-billion, 7.5-gigawatt AI data centre campus in northern Alberta. But the Utah project has already been met with fierce opposition from some in the community who are worried about the potential environmental impacts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7de363be0b1d1f7a6191f73c6c4bc2d5c0ede130",
-      "url": "https://www.cbc.ca/news/world/gas-explosion-china-9.7209899?cmp=rss",
-      "title": "Death toll from gas explosion at coal mine in China jumps to 90",
-      "published_at": "2026-05-22T22:04:46-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Chinese President Xi Jinping called for ​authorities to \"spare no effort\" in treating the injured and conducting search-and-rescue ‌operations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "feb04cdb2090a1de7c65fb167c32b18e53d127a7",
-      "url": "https://www.cbc.ca/news/canada/manitoba/ndp-estimates-behaviour-kinew-wiebe-9.7209704?cmp=rss",
-      "title": "Laughing, barking, waiting 30 minutes to answer: Manitoba NDP's conduct at committees questioned",
-      "published_at": "2026-05-22T18:43:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Manitoba government's behaviour at legislative committee meetings is under criticism after the premier laughed and made barking noises at the Tory leader and the justice minister took 30 minutes to respond to a question from an Independent MLA.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "971ea793e7a0aaa5ebede321521326f50511a9ff",
-      "url": "https://www.cbc.ca/news/world/california-chemical-tank-garden-grove-evacuation-9.7209858?cmp=rss",
-      "title": "40,000 people under evacuation orders in California amid chemical tank leak",
-      "published_at": "2026-05-22T18:37:57-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Authorities in Southern California on Friday were racing to figure out how to prevent the explosion of a storage tank that has been leaking a hazardous chemical used to make plastic parts, as some 40,000 people were under evacuation orders in the area.",
+      "summary_auto": "Outgoing Gov. Gen. Mary Simon says the criticisms levelled against her over her ability to speak French were \"unfair\" and it ultimately did not impede her connecting with Canadians while in the role.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.318,
@@ -225,67 +69,210 @@
       }
     },
     {
-      "id": "feb83115969d3b776a435ee4ce8c420cdbef8b61",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/woman-kamloops-north-thompson-river-identified-9.7209801?cmp=rss",
-      "title": "Woman presumed drowned in Kamloops, B.C., river identified as Kenyan immigrant",
-      "published_at": "2026-05-22T17:37:25-04:00",
+      "id": "dc029926c1df4a79ec8aea4b64c2c1c863335ad5",
+      "url": "https://www.cbc.ca/news/science/whaling-logbook-bowhead-populations-9.7208739?cmp=rss",
+      "title": "What centuries-old whaler logs can tell us about why bowheads struggle today",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Tens of thousands of old logbooks from the 18th and 19th centuries reveal the scope and scale of how industrial whaling nearly wiped out bowhead whales. But they also show why some modern-day populations are surviving better than others.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "03ec285816a4bbea5b38ff88a72e368e1ccd727c",
+      "url": "https://www.cbc.ca/news/science/e-bike-battery-lockers-9.7208829?cmp=rss",
+      "title": "E-bike battery fires are a hazard across Canada. These companies are pitching solutions",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Fires and explosions from lithium batteries for e-bikes have led to millions in damage and even deaths across Canada. Fire chiefs have voiced concerns and e-bikes face bans in some buildings and transit. Two companies say they have a safer solution, with added benefits for e-bike riders.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "962a07425f061b1eb79447d217e4a6823c51b233",
+      "url": "https://www.cbc.ca/news/politics/pierre-poilievre-netflix-tax-crtc-9.7210101?cmp=rss",
+      "title": "Poilievre comes out swinging against CRTC's 'Netflix tax,' says it could derail U.S. trade talks",
+      "published_at": "2026-05-24T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Conservative Leader Pierre Poilievre is demanding Prime Minister Mark Carney step in and overrule the Canadian Radio-television and Telecommunications Commission (CRTC) as it forces mostly American web giants pay more to fund homegrown programming.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5dd37e50fef915922b8171519f5f8f9ebae11785",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/protest-against-ai-data-centres-in-vancouver-9.7210309?cmp=rss",
+      "title": "Protesters rally against planned AI data centres in Vancouver",
+      "published_at": "2026-05-23T20:20:11-04:00",
       "section": "Canada",
-      "summary_auto": "A friend has identified the 24-year-old woman who is presumed drowned in a Kamloops, B.C., river after her car entered it last Sunday. Benina Jepkoech, who was originally from Kenya, arrived in B.C. last year.",
+      "summary_auto": "Hundreds of people marched through Vancouver on Saturday to protest two planned AI data centres in the city, raising concerns about the amount of water and energy such facilities can use as the region faces tighter water restrictions.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.681,
+        "sentiment": -0.202,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "039ddee09e8aacd661fe74ca2ad34294bf57dd17",
-      "url": "https://www.cbc.ca/news/world/staten-island-shipyard-explosion-9.7209770?cmp=rss",
-      "title": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured",
-      "published_at": "2026-05-22T17:17:10-04:00",
-      "section": "World",
-      "summary_auto": "An explosion at a dry dock in New York City's Staten Island killed one person and injured 36 others on ‌Friday, as the blast occurred while firefighters were on the scene responding to a fire and attempting to ​rescue two people who were trapped, ​officials said.",
+      "id": "0d7d162555fc9d378c1c35c283a36793693d1aad",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-stage-3-water-restrictions-9.7210283?cmp=rss",
+      "title": "Metro Vancouver warns Stage 3 water restrictions likely to begin in June",
+      "published_at": "2026-05-23T18:00:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Metro Vancouver Regional District is asking residents to cut back on outdoor water use as the region prepares for the likely move to Stage 3 water restrictions sometime in June.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.964,
+        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "08fa7edd15c8ffd8f6d3cc0d7800f1b2a6154889",
-      "url": "https://www.cbc.ca/news/world/trump-immigration-green-card-changes-9.7209784?cmp=rss",
-      "title": "Trump administration tells green card applicants to apply from abroad",
-      "published_at": "2026-05-22T17:10:00-04:00",
-      "section": "World",
-      "summary_auto": "Foreigners in the U.S. who want a  green card will need to leave and apply in their home country, the  Trump administration announced Friday, in a surprise change to a longstanding policy that sowed confusion and concern among aid groups, immigration lawyers and immigrants.",
+      "id": "6f447bbe387e431a7e5bc62f8f2c2e6f4b466ebe",
+      "url": "https://www.cbc.ca/news/canada/montreal/hurricanes-canadiens-game-two-9.7209935?cmp=rss",
+      "title": "Habs lose Game 2 in OT to Hurricanes, East final series now tied 1-1",
+      "published_at": "2026-05-23T17:57:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Montreal Canadiens dropped Game 2 of the Eastern Conference final Saturday night, falling 3-2 in overtime to the Carolina Hurricanes.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "a20b16f76c2dcd94abff3456e4fe87bb26a33f2e",
-      "url": "https://www.cbc.ca/news/entertainment/colbert-finale-analysis-9.7209259?cmp=rss",
-      "title": "Colbert's farewell played it safe with warm, star-studded goodbye and no political bite",
-      "published_at": "2026-05-22T16:50:07-04:00",
-      "section": "Entertainment",
-      "summary_auto": "After CBS announced The Late Show's cancellation last year, Stephen Colbert warned viewers that \"the gloves are off\" — freeing the comedian to get political without consequence. But what unfolded on Thursday night seemed carefully calculated to comfort rather than confront.",
+      "id": "0059dd59f0491ab9cd7d456f514d720287d5d087",
+      "url": "https://www.cbc.ca/news/world/white-house-gunshots-9.7210213?cmp=rss",
+      "title": "Suspected gunman fatally shot by Secret Service near the White House, authorities say",
+      "published_at": "2026-05-23T14:59:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A person who approached a White House security checkpoint and began firing at officers has died, according to federal officials. A bystander was also shot and injured at the scene.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.775,
+        "sentiment": -0.908,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "e81dda6cf193907783ee8379f7db42a0d31c0c69",
-      "url": "https://www.cbc.ca/radio/asithappens/yves-sakila-protests-9.7209389?cmp=rss",
-      "title": "Yves Sakila's death is being called Ireland's 'George Floyd moment'",
-      "published_at": "2026-05-22T15:16:08-04:00",
-      "section": "World",
-      "summary_auto": "Yves Sakila, a 35-year-old Congolese-born man, died last Friday after he was restrained outside a department store in Dublin, Ireland, by security guards.",
+      "id": "cb8db450f30cedc321d8e9bf60940def1437ba00",
+      "url": "https://www.cbc.ca/news/entertainment/fjord-palme-d-or-cannes-9.7210185?cmp=rss",
+      "title": "Political polarization drama Fjord wins Palme d'Or at Cannes",
+      "published_at": "2026-05-23T14:33:24-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Cristian Mungiu's Norway-set drama about political polarization, Fjord, has won the Palme d'Or, handing the Cannes Film Festival's top honour for the second time to Mungiu, the Romanian director of 4 Months, 3 Weeks and 2 Days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "831ac68a2eefb93c6d4d7007ce1fb21f8370774d",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dean-penney-trial-day-3-deliberations-no-verdict-9.7210162?cmp=rss",
+      "title": "Jury finishes 3rd full day of deliberations with no verdict in Dean Penney murder trial",
+      "published_at": "2026-05-23T14:18:45-04:00",
+      "section": "Canada",
+      "summary_auto": "The jury is still out in Dean Penney's first-degree murder trial, after a full day of deliberations on Saturday with no verdict.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df94401bc9be72a189711648995521433b7e2be7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/canadians-gaza-flotillas-9.7210154?cmp=rss",
+      "title": "Some Canadians from Gaza flotilla returning home after detainment by Israeli forces",
+      "published_at": "2026-05-23T14:03:08-04:00",
+      "section": "Canada",
+      "summary_auto": "Some of the Canadians who were part of a flotilla attempting to break Israel's naval blockade of Gaza are set to return to Canada this weekend. The Canadians were detained by Israeli forces last week and reportedly abused in custody before being sent to Turkey.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2b150a5769ff0668ec0fd41ea453f91edde6eb0",
+      "url": "https://www.cbc.ca/news/world/chemical-tank-overheat-offensive-9.7210073?cmp=rss",
+      "title": "California governor declares state of emergency due to overheating chemical tank",
+      "published_at": "2026-05-23T13:36:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4c7304d23589b5d627fd1464db5e768aa2d71b5a",
+      "url": "https://www.cbc.ca/news/world/strait-hormuz-iran-trump-deal-9.7210138?cmp=rss",
+      "title": "Deal with Iran to reopen Strait of Hormuz 'largely negotiated,' Trump says",
+      "published_at": "2026-05-23T13:06:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Announcing progress on social media, Trump said final aspects and details of the deal are being discussed and will be announced \"shortly.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f02b0502f05282cdf5d9ecf5b49bada7195311f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/missing-newborn-baby-in-halifax-9.7210113?cmp=rss",
+      "title": "Search underway for missing newborn in Halifax",
+      "published_at": "2026-05-23T12:23:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Halifax Regional Police say a search is underway in the Clayton Park area of Halifax for a missing newborn. Four people are in custody undergoing questioning related to the matter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e56a32dcfee501dbd1c5988379bb16d18e8b3f22",
+      "url": "https://www.cbc.ca/news/politics/south-korean-hanwha-submarine-contract-9.7210058?cmp=rss",
+      "title": "South Korea's Hanwha showcases submarine as Ottawa mulls multibillion-dollar contract",
+      "published_at": "2026-05-23T11:38:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The South Korean submarine ROKS Dosan Ahn Chang-ho arrived off the B.C. coast on Saturday in a flashy showcase of Hanwha Ocean’s bid to secure Canada’s multibillion-dollar submarine contract.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bbcb6782e3d0023e86345a77a345e35d6afe92e3",
+      "url": "https://www.cbc.ca/news/canada/toronto/bruno-mars-saturday-concert-rescheduled-9.7210062?cmp=rss",
+      "title": "Bruno Mars concert in Toronto cancelled on Saturday due to poor weather: Rogers Stadium",
+      "published_at": "2026-05-23T10:02:54-04:00",
+      "section": "Canada",
+      "summary_auto": "The first in a series of Bruno Mars concerts to held in Toronto has been cancelled, according to Rogers Stadium.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.727,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "094f66fefc03d5829a43f39f8caebb1287a6e082",
+      "url": "https://www.cbc.ca/sports/kyle-busch-cause-of-death-9.7210043?cmp=rss",
+      "title": "NASCAR's Kyle Busch died after severe pneumonia progressed into sepsis, his family says",
+      "published_at": "2026-05-23T09:36:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications, according to a statement released by his family.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
         "subjectivity_hint": "low"
       }
     }
