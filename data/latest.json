@@ -1,19 +1,110 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-25T08:57:08.172828-04:00",
+  "generated_at": "2026-05-25T15:20:30.582031-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "d0b375c097987f79dd64cd21519bea335e763acf",
+      "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446?cmp=rss",
+      "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
+      "published_at": "2026-05-25T10:50:00-04:00",
+      "section": "World",
+      "summary_auto": "A Spanish national in quarantine ‌in a Madrid military hospital, and who is among those evacuated from a cruise ​ship earlier this month, has ​tested positive of hantavirus, Spain's Health Ministry said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd751117d1ba81f48c7417171f6bac531fc668be",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/2-nova-scotia-youth-hockey-players-accused-of-sexual-assault-plead-not-guilty-9.7211357?cmp=rss",
+      "title": "2 Nova Scotia youth hockey players accused of sexual assault plead not guilty",
+      "published_at": "2026-05-25T10:05:29-04:00",
+      "section": "Canada",
+      "summary_auto": "The case involving two young hockey players accused of sexual assaulting a youth during a private team event last year has been adjourned until June.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.847,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb65cd90eb75065404b7b6470e733b815edbbb3e",
+      "url": "https://www.cbc.ca/news/indigenous/ppt-tribunal-residential-schools-9.7201758?cmp=rss",
+      "title": "International tribunal begins investigation into missing Indigenous children and unmarked burials",
+      "published_at": "2026-05-25T09:40:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Permanent People's Tribunal will examine evidence regarding Canada's responsibility for the residential schools system and the human rights violations associated with it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "13fd08474cd289823ca83643a1720d13b5334527",
       "url": "https://www.cbc.ca/player/play/9.7210700?cmp=rss",
       "title": "Montrealers mark 150th anniversary of Mount Royal Park",
-      "published_at": "2026-05-25T04:51:36-04:00",
+      "published_at": "2026-05-25T08:07:35-04:00",
       "section": "Canada",
       "summary_auto": "It’s been a gathering place for generations of Montrealers, and it’s celebrating a milestone birthday. Mount Royal Park — a green landmark that’s synonymous with the city — is turning 150 years old.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.612,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38322265b77076326f8f570d8e3ce83bf63a242a",
+      "url": "https://www.cbc.ca/news/world/california-tank-explosion-risk-9.7211157?cmp=rss",
+      "title": "California chemicals tank no longer an explosion risk, say fire officials",
+      "published_at": "2026-05-25T07:45:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Firefighters contending with an overheating tank of hazardous chemicals in Southern California on Monday said an overnight operation had eliminated the possibility of the tank exploding.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "11e5d46870c622f04f6733a0c7bc0c39d7754cd7",
+      "url": "https://www.cbc.ca/news/politics/feds-lease-new-firefighting-aircraft-9.7211065?cmp=rss",
+      "title": "Feds lease 10 new firefighting aircraft as wildfire season gets underway",
+      "published_at": "2026-05-25T07:32:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Firefighting agencies across Canada have 10 new aircraft they can use as the 2026 wildfire season gets underway.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b99a483526caec45c8869558bd25e72d5ff955d",
+      "url": "https://www.cbc.ca/news/world/nicola-sturgeon-husband-9.7210989?cmp=rss",
+      "title": "Ex-Scottish leader's former husband admits embezzling party funds for lavish lifestyle",
+      "published_at": "2026-05-25T07:29:42-04:00",
+      "section": "World",
+      "summary_auto": "The estranged husband of former Scottish leader Nicola Sturgeon pleaded guilty Monday to embezzling more than 400,000 pounds ($746,000 Cdn) from the Scottish National Party to fund a lavish lifestyle when he was its chief executive.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d27d0e02643d28fb206d8176e9b78bae27e75633",
+      "url": "https://www.cbc.ca/sports/soccer/canada-soccer-camp-roster-chris-jones-may-25-9.7210920?cmp=rss",
+      "title": "Canada's head coach loads up on defender invites to FIFA World Cup camp as Alfonso Davies's injury status uncertain",
+      "published_at": "2026-05-25T06:00:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "“I think Alphonso will play in the World Cup,” Canada coach Jesse Marsch said. “I don’t think he’ll be ready for June 12” — referring to Canada’s opening game against Bosnia and Herzegovina in Toronto — \"but we’ll see.”",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.039,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -26,6 +117,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "68a499d029cd455f72b93cc3be6df95599d824f5",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/quadra-island-family-doctor-shortage-9.7209334?cmp=rss",
+      "title": "B.C. island turns to recruiter as doctor's retirement puts clinic in jeopardy",
+      "published_at": "2026-05-25T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Residents of Quadra Island, B.C., are scrambling to fundraise a recruitment drive, amid fear they could lose a crucial medical services if they can't replace a retiring doctor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
         "subjectivity_hint": "medium"
       }
     },
@@ -56,29 +160,29 @@
       }
     },
     {
-      "id": "d85839c29d53c2c1a4252676ae7fd09781910413",
-      "url": "https://www.cbc.ca/radio/frontburner/will-the-u-s-invade-cuba-9.7210507?cmp=rss",
-      "title": "Will the U.S. invade Cuba?",
-      "published_at": "2026-05-25T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Following the indictment of former Cuban president Raúl Castro, is the U.S. preparing for a Venezuela-style invasion?",
+      "id": "b765256e7cde3e95d9ef1556486308bb682cf118",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-teacher-megan-wotherspoon-running-length-of-province-9.7208640?cmp=rss",
+      "title": "Sask. teacher begins 1,500 km journey in memory of mom who died at 38",
+      "published_at": "2026-05-25T03:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Saskatoon teacher Megan Wotherspoon is running 60 kilometres a day for 30 days in her mom's memory. She'll traverse the province in a north-to-south run from Stony Rapids, Sask., down to the U.S. border.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.557,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "e990f19c0e63bc2a511e74182eec66ceb6e2ae5b",
       "url": "https://www.cbc.ca/news/world/iran-u-s-ceasefire-deal-9.7210824?cmp=rss",
-      "title": "Iran and U.S. play down hopes for imminent breakthrough in war",
+      "title": "Trump demands Arab countries sign Abraham Accords with Israel as part of deal to end Iran war",
       "published_at": "2026-05-25T01:55:01-04:00",
       "section": "World",
-      "summary_auto": "Iran and the United States played down hopes for an imminent breakthrough in the three-month-old war on Monday, with U.S. Secretary of State Marco Rubio saying there will either be a good agreement or Washington would deal with the country in \"another way.\"",
+      "summary_auto": "Iran and the United States played down hopes for an imminent breakthrough in the three-month-old war on Monday, while President Donald Trump called on several countries to join the U.S.-led Abraham Accords as part of ​an effort to reach a deal with Iran.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.859,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -160,37 +264,11 @@
       }
     },
     {
-      "id": "5a9e69b0d36f64ba9433535c5ce7d65c7b02b2da",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-activists-return-home-after-detention-over-gaza-bound-aid-flotilla-9.7210763?cmp=rss",
-      "title": "3 flotilla activists detained in Israel arrive back in Vancouver",
-      "published_at": "2026-05-24T18:04:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Three activists whose Gaza-bound aid flotilla was intercepted in international waters by Israeli forces have returned home to Vancouver, with one of them saying they went through four days of continuous beatings and torture.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5d07cff652d95e2236a53ac1ac980c4b6c886550",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-fake-letter-9.7210650?cmp=rss",
-      "title": "First Nation warns of fake letter ordering B.C. homeowners to vacate property",
-      "published_at": "2026-05-24T17:44:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Sḵwx̱wú7mesh Úxwumixw (Squamish Nation) is condemning a fake letter that’s circulating among Britannia Beach residents, which claims the nation was asserting Indigenous title over their property and ordering them to leave.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "24f31ecbb9c2a358a5151373bd3b18326dad9e8c",
       "url": "https://www.cbc.ca/news/canada/toronto/erskine-smith-nomination-appeal-dismissed-9.7210754?cmp=rss",
       "title": "Erskine-Smith nomination appeal dismissed by Ontario Liberal Party panel",
       "published_at": "2026-05-24T17:41:53-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A complaint alleging voting irregularities during a tense Ontario Liberal nomination meeting in Scarborough has been dismissed by a party arbitration committee.",
       "bias_heuristic": {
         "article_type": "News",
@@ -209,84 +287,6 @@
         "article_type": "News",
         "sentiment": -0.92,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "974cf6b60c5c4dc306ae64c75454b63c754caf4b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/mantario-trail-manitoba-hiking-trail-9.7210692?cmp=rss",
-      "title": "Mantario Trail expected to reopen in late June after 'remarkable' progress in restoration: Manitoba Parks",
-      "published_at": "2026-05-24T15:08:11-04:00",
-      "section": "Canada",
-      "summary_auto": "A hiking trail in Manitoba's Whiteshell Provincial Park that closed and has been undergoing repairs after it was scorched in last year's wildfires is now expected to re-open in June.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "01b26f4117b3433ca6e721b12457b52f2878adb6",
-      "url": "https://www.cbc.ca/sports/formula-one-canadian-grand-prix-recap-9.7210665?cmp=rss",
-      "title": "Kimi Antonelli claims Canadian Grand Prix for 4th straight F1 win",
-      "published_at": "2026-05-24T14:03:22-04:00",
-      "section": "World",
-      "summary_auto": "Formula One leader Kimi Antonelli charged to victory in a wild Canadian Grand Prix on Sunday, claiming his fourth-straight race win after teammate George Russell exited due to engine failure.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa5870a47192508d04d876434c761ad0bc393182",
-      "url": "https://www.cbc.ca/news/canada/manitoba/lake-st-martin-access-road-interlake-first-nations-9.7210126?cmp=rss",
-      "title": "Interlake First Nations say Manitoba didn't consult them before blocking access to traditional hunting lands",
-      "published_at": "2026-05-24T13:48:17-04:00",
-      "section": "Canada",
-      "summary_auto": "A provincial gravel blockade along an access road east of Lake St. Martin tumbled earlier this week, as a group of First Nations in Manitoba's Interlake region gathered to remove it and get answers about why it was put there in the first place.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1cc8ccc037a8390aa1467553768c7b4652449de9",
-      "url": "https://www.cbc.ca/news/canada/montreal/gatineau-slush-puppie-centre-canadiens-ottawa-9.7210205?cmp=rss",
-      "title": "Gatineau, Que. group launches petition after NHL blocks organizers from hosting Habs watch party",
-      "published_at": "2026-05-24T13:47:05-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A Gatineau group has launched a petition after the NHL wouldn’t let the Canadiens game be broadcast at the Slush Puppie Centre in Gatineau because the arena overlaps with the Ottawa Senators’ territory.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "131445151b58596e33c54660829d26c1dcfc4943",
-      "url": "https://www.cbc.ca/news/world/overheated-chemical-tank-california-crack-evacuations-9.7210539?cmp=rss",
-      "title": "California officials say potential crack on overheated chemical tank could lower risk",
-      "published_at": "2026-05-24T10:23:41-04:00",
-      "section": "World",
-      "summary_auto": "Orange County Fire Authority Capt. Wayhowe Huang said officials will be continuing to evaluate the tank on Sunday after emergency crews spotted the potential crack overnight. As of Sunday morning, he said it does not appear that any of the highly volatile chemicals in the tank have leaked.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.852,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2c171a5bf0f97354b80a5d22f7bcb5cdb0a68200",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-heart-transplant-boy-welcomed-home-9.7210485?cmp=rss",
-      "title": "'We got to the finish line': 9-year-old P.E.I. boy enjoys homecoming after heart transplant",
-      "published_at": "2026-05-24T09:12:23-04:00",
-      "section": "Canada",
-      "summary_auto": "Nine-year-old Maverick Bishop returned home on Saturday after spending 20 months in Toronto waiting for, then recovering from, a heart transplant.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.914,
-        "subjectivity_hint": "medium"
       }
     }
   ]
