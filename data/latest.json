@@ -1,18 +1,278 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-24T15:08:03.649808-04:00",
+  "generated_at": "2026-05-25T08:57:08.172828-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "131445151b58596e33c54660829d26c1dcfc4943",
-      "url": "https://www.cbc.ca/news/world/overheated-chemical-tank-california-crack-evacuations-9.7210539?cmp=rss",
-      "title": "Overheated chemical tank may have cracked, California officials say",
-      "published_at": "2026-05-24T10:23:41-04:00",
-      "section": "World",
-      "summary_auto": "Orange County Fire Authority Capt. Wayhowe Huang said officials will be continuing to evaluate the tank Sunday after emergency crews spotted the potential crack overnight. As of Sunday morning, he said it does not appear that any of the highly volatile chemicals in the tank have leaked.",
+      "id": "13fd08474cd289823ca83643a1720d13b5334527",
+      "url": "https://www.cbc.ca/player/play/9.7210700?cmp=rss",
+      "title": "Montrealers mark 150th anniversary of Mount Royal Park",
+      "published_at": "2026-05-25T04:51:36-04:00",
+      "section": "Canada",
+      "summary_auto": "It’s been a gathering place for generations of Montrealers, and it’s celebrating a milestone birthday. Mount Royal Park — a green landmark that’s synonymous with the city — is turning 150 years old.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.718,
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1054374c5172865e4956d8b00645d201baf1d952",
+      "url": "https://www.cbc.ca/news/canada/calgary/ogden-block-calgary-laundry-china-9.7210225?cmp=rss",
+      "title": "113-year-old Calgary building up for donation as city looks to preserve history of former Chinese laundry",
+      "published_at": "2026-05-25T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Once destined for demolition, a historic building in southeast Calgary could soon find a new home. The City of Calgary says it is willing to donate the 113-year-old Ogden Block building, once home to a Chinese laundry and boarding house, to \"a qualified party able to relocate the building\" to make way for construction of the Green Line.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3d7a8062cf1ffa9a81208ba3fba28813ca85bf43",
+      "url": "https://www.cbc.ca/news/canada/toronto/caroline-mulroney-stepping-down-9.7210868?cmp=rss",
+      "title": "Caroline Mulroney resigning from Ford government's cabinet, Ontario legislature",
+      "published_at": "2026-05-25T03:54:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Mulroney was elected in 2018 as part of Premier Doug Ford's first government and has served in a number of cabinet portfolios, including her current roles as Treasury Board president and francophone minister. In a letter Monday announcing her decision, she cited a desire to start a new chapter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d8509ae1539072e5094abb228223a019d1723f34",
+      "url": "https://www.cbc.ca/news/world/pope-leo-magnifica-humanitas-encylical-9.7210842?cmp=rss",
+      "title": "Pope Leo warns that AI challenges must be confronted with regulation, transparency in his 1st encyclical",
+      "published_at": "2026-05-25T03:23:36-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pope Leo urged governments to slow down the development of AI systems in the first enyclical of his papacy, warning that they spread misinformation, prioritize conflict and risk leading the world down a path of unending war.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d85839c29d53c2c1a4252676ae7fd09781910413",
+      "url": "https://www.cbc.ca/radio/frontburner/will-the-u-s-invade-cuba-9.7210507?cmp=rss",
+      "title": "Will the U.S. invade Cuba?",
+      "published_at": "2026-05-25T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Following the indictment of former Cuban president Raúl Castro, is the U.S. preparing for a Venezuela-style invasion?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e990f19c0e63bc2a511e74182eec66ceb6e2ae5b",
+      "url": "https://www.cbc.ca/news/world/iran-u-s-ceasefire-deal-9.7210824?cmp=rss",
+      "title": "Iran and U.S. play down hopes for imminent breakthrough in war",
+      "published_at": "2026-05-25T01:55:01-04:00",
+      "section": "World",
+      "summary_auto": "Iran and the United States played down hopes for an imminent breakthrough in the three-month-old war on Monday, with U.S. Secretary of State Marco Rubio saying there will either be a good agreement or Washington would deal with the country in \"another way.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.859,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "11d2ee3812614f7d96335cc1ce74d1ecf2ae31b7",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/upper-clements-park-visit-development-proposals-9.7203162?cmp=rss",
+      "title": "We visited Nova Scotia’s only abandoned theme park to find out what’s still standing",
+      "published_at": "2026-05-25T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Municipality of the County of Annapolis, which owns the former Upper Clements Park land, is hoping it will finally find a developer for the site with an upcoming request for development proposals. The land has sat empty since 2019, when the park closed after 30 years in operation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dc6e4a3cfead9f658951d896f4da294a204a4bad",
+      "url": "https://www.cbc.ca/news/gopublic/paralegal-court-alberta-legal-civil-consumer-protections-regulation-9.7206200?cmp=rss",
+      "title": "This Calgary woman won a $13K settlement — but says her paralegal kept the money",
+      "published_at": "2026-05-25T00:01:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.329,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ea3c0807f1c74dde1afb2046bc66736a30f3272",
+      "url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss",
+      "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
+      "published_at": "2026-05-25T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "While Prime Minister Benjamin Netanyahu has been focussed on “total victory” for Israel since the Hamas-led attack on the country on Oct. 7, 2023, his own victory in a coming national election is far from certain.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "56028ad0dcd21f2b68fab139b780234f6d2790fc",
+      "url": "https://www.cbc.ca/news/investigates/ticket-scalping-price-cap-legislation-9.7207082?cmp=rss",
+      "title": "Can banning scalpers fix the ticketing industry?",
+      "published_at": "2026-05-25T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A growing chorus of artists, music industry managers and politicians is calling for new laws to ban pro scalpers from reselling sports and concert tickets online at huge markups.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f02b0502f05282cdf5d9ecf5b49bada7195311f",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/missing-newborn-baby-in-halifax-9.7210113?cmp=rss",
+      "title": "2 people face charges after newborn found dead in wooded area near Halifax",
+      "published_at": "2026-05-24T18:28:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c301ccbf7cb55cd8c23445c30be039f6d55e6aae",
+      "url": "https://www.cbc.ca/player/play/9.7210769?cmp=rss",
+      "title": "#TheMoment students raced concrete canoes",
+      "published_at": "2026-05-24T18:18:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Students on Toronto Metropolitan University's concrete canoe team tell The National about the moment they made and raced a concrete canoe against other teams across Canada in Moncton, N.B.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a9e69b0d36f64ba9433535c5ce7d65c7b02b2da",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-activists-return-home-after-detention-over-gaza-bound-aid-flotilla-9.7210763?cmp=rss",
+      "title": "3 flotilla activists detained in Israel arrive back in Vancouver",
+      "published_at": "2026-05-24T18:04:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Three activists whose Gaza-bound aid flotilla was intercepted in international waters by Israeli forces have returned home to Vancouver, with one of them saying they went through four days of continuous beatings and torture.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5d07cff652d95e2236a53ac1ac980c4b6c886550",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-fake-letter-9.7210650?cmp=rss",
+      "title": "First Nation warns of fake letter ordering B.C. homeowners to vacate property",
+      "published_at": "2026-05-24T17:44:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Sḵwx̱wú7mesh Úxwumixw (Squamish Nation) is condemning a fake letter that’s circulating among Britannia Beach residents, which claims the nation was asserting Indigenous title over their property and ordering them to leave.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24f31ecbb9c2a358a5151373bd3b18326dad9e8c",
+      "url": "https://www.cbc.ca/news/canada/toronto/erskine-smith-nomination-appeal-dismissed-9.7210754?cmp=rss",
+      "title": "Erskine-Smith nomination appeal dismissed by Ontario Liberal Party panel",
+      "published_at": "2026-05-24T17:41:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A complaint alleging voting irregularities during a tense Ontario Liberal nomination meeting in Scarborough has been dismissed by a party arbitration committee.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "48f59c23c4436e5b5ba2631e65e9945882eb1bd1",
+      "url": "https://www.cbc.ca/news/world/congo-battling-ebola-outbreak-9.7210698?cmp=rss",
+      "title": "Congo's Ebola outbreak complicated by aid cuts, armed rebels and anger",
+      "published_at": "2026-05-24T15:35:23-04:00",
+      "section": "World",
+      "summary_auto": "Arson attacks on Ebola treatment centres in the Democratic Republic of Congo underscore the serious challenges authorities face — including a backlash in local communities — as they try to stem an outbreak of the infectious disease that has been declared a global health emergency. On Sunday, Congolese authorities said suspected cases have now passed 900 in the east of the country, mainly in Ituri province, where the ongoing outbreak is centred.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "974cf6b60c5c4dc306ae64c75454b63c754caf4b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/mantario-trail-manitoba-hiking-trail-9.7210692?cmp=rss",
+      "title": "Mantario Trail expected to reopen in late June after 'remarkable' progress in restoration: Manitoba Parks",
+      "published_at": "2026-05-24T15:08:11-04:00",
+      "section": "Canada",
+      "summary_auto": "A hiking trail in Manitoba's Whiteshell Provincial Park that closed and has been undergoing repairs after it was scorched in last year's wildfires is now expected to re-open in June.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "01b26f4117b3433ca6e721b12457b52f2878adb6",
+      "url": "https://www.cbc.ca/sports/formula-one-canadian-grand-prix-recap-9.7210665?cmp=rss",
+      "title": "Kimi Antonelli claims Canadian Grand Prix for 4th straight F1 win",
+      "published_at": "2026-05-24T14:03:22-04:00",
+      "section": "World",
+      "summary_auto": "Formula One leader Kimi Antonelli charged to victory in a wild Canadian Grand Prix on Sunday, claiming his fourth-straight race win after teammate George Russell exited due to engine failure.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fa5870a47192508d04d876434c761ad0bc393182",
+      "url": "https://www.cbc.ca/news/canada/manitoba/lake-st-martin-access-road-interlake-first-nations-9.7210126?cmp=rss",
+      "title": "Interlake First Nations say Manitoba didn't consult them before blocking access to traditional hunting lands",
+      "published_at": "2026-05-24T13:48:17-04:00",
+      "section": "Canada",
+      "summary_auto": "A provincial gravel blockade along an access road east of Lake St. Martin tumbled earlier this week, as a group of First Nations in Manitoba's Interlake region gathered to remove it and get answers about why it was put there in the first place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1cc8ccc037a8390aa1467553768c7b4652449de9",
+      "url": "https://www.cbc.ca/news/canada/montreal/gatineau-slush-puppie-centre-canadiens-ottawa-9.7210205?cmp=rss",
+      "title": "Gatineau, Que. group launches petition after NHL blocks organizers from hosting Habs watch party",
+      "published_at": "2026-05-24T13:47:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Gatineau group has launched a petition after the NHL wouldn’t let the Canadiens game be broadcast at the Slush Puppie Centre in Gatineau because the arena overlaps with the Ottawa Senators’ territory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "131445151b58596e33c54660829d26c1dcfc4943",
+      "url": "https://www.cbc.ca/news/world/overheated-chemical-tank-california-crack-evacuations-9.7210539?cmp=rss",
+      "title": "California officials say potential crack on overheated chemical tank could lower risk",
+      "published_at": "2026-05-24T10:23:41-04:00",
+      "section": "World",
+      "summary_auto": "Orange County Fire Authority Capt. Wayhowe Huang said officials will be continuing to evaluate the tank on Sunday after emergency crews spotted the potential crack overnight. As of Sunday morning, he said it does not appear that any of the highly volatile chemicals in the tank have leaked.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.852,
         "subjectivity_hint": "medium"
       }
     },
@@ -27,279 +287,6 @@
         "article_type": "News",
         "sentiment": 0.914,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e0b330f77493eabecd1c1b8fa178b6692ee51c53",
-      "url": "https://www.cbc.ca/sports/canadian-f1-great-gilles-villeneuve-helmet-sells-for-record-9.7210498?cmp=rss",
-      "title": "Helmet worn by Canadian F1 great Gilles Villeneuve sells for record $1.25M US",
-      "published_at": "2026-05-24T08:49:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Gilles Villeneuve's helmet from his final Formula One race in 1982 has sold for a record $1.25 million US, according to a motorsports memorabilia collector.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7d919c47366b4641d896858a0046e6c21d3b937c",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/bridgetown-bell-customer-no-wifi-9.7210467?cmp=rss",
-      "title": "Bridgetown, N.S. street stung by internet outage that's lasted more than a week",
-      "published_at": "2026-05-24T08:43:47-04:00",
-      "section": "Canada",
-      "summary_auto": "Some Bell Canada customers in Bridgetown, N.S., have been without internet service since May 14 despite repeated calls for the service to be reconnected.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fcad8b18e810a4644f69b5c94134fd91f24040fe",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/best-places-to-camp-in-b-c-according-to-parks-polls-9.7207717?cmp=rss",
-      "title": "Camping in B.C. this summer? Here are the places visitors have liked ... and haven't",
-      "published_at": "2026-05-24T06:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "CBC News requested visitor satisfaction surveys and crunched the numbers on what people like and don’t like about every B.C. Parks campground to help campers, and potential campers, know before they go.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "771e2ac28a68d80281017e9e6bc012a46cf402b5",
-      "url": "https://www.cbc.ca/news/world/details-emerge-us-deal-with-iran-9.7210359?cmp=rss",
-      "title": "Details emerge about potential Iran deal as Trump says not to rush",
-      "published_at": "2026-05-24T05:08:59-04:00",
-      "section": "World",
-      "summary_auto": "The potential deal will include Iran's commitment that it won’t pursue a nuclear weapon, and Tehran agreed to give up its stockpile of highly enriched uranium, according to two regional officials.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d30e1fec4956fb22bfa5101e737d564647e43b11",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/volunteer-firefighter-death-annapolis-wildfire-9.7210367?cmp=rss",
-      "title": "Volunteer firefighter dies while battling wildfire in Nova Scotia",
-      "published_at": "2026-05-24T05:08:05-04:00",
-      "section": "Canada",
-      "summary_auto": "A volunteer firefighter with the Bridgetown Volunteer Fire Department died Thursday evening while fighting a wildfire in Moschelle, Annapolis County.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6d16a97f56f595722a0ac502391339eb89507d2",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/are-homeless-people-being-bused-vancouver-prince-george-world-cup-9.7209758?cmp=rss",
-      "title": "Vancouver isn’t shipping unhoused people to Prince George for World Cup, officials say. But rumours persist",
-      "published_at": "2026-05-24T05:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The belief that unhoused people are being paid and provided buses to travel from Vancouver to other communities across British Columbia ahead of the World Cup has taken such a hold in Prince George that the city and multiple councillors have officially come forward to dispel the rumour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b94a6efbbba2d6ca991adbfebc7ee34b8444bd75",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dean-penney-verdict-9.7206875?cmp=rss",
-      "title": "Dean Penney found guilty of murdering his estranged wife",
-      "published_at": "2026-05-24T04:44:49-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A 12-person jury has found Dean Penney guilty of first-degree murder in relation to the disappearance of his estranged wife, Jennifer Hillier-Penney, in 2016.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.939,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5743f3bb33e696e617a09e88a4ec8acfff95bd4",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-avian-flu-outbreaks-bird-9.7207997?cmp=rss",
-      "title": "Here's how Alberta zoos are protecting birds from avian flu",
-      "published_at": "2026-05-24T03:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Zoos and wildlife facilities in Alberta are taking steps to protect their birds from avian flu. Outbreaks on commercial poultry operations in Alberta have been detected east of Edmonton and near Ribstone Creek in east-central Alberta on May 11, and northeast of Drumheller on May 16.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8d5daf6cd415377b4c54e18c356b5ac054bb2b93",
-      "url": "https://www.cbc.ca/news/world/russia-kyiv-missile-drone-attack-9.7210312?cmp=rss",
-      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
-      "published_at": "2026-05-24T01:46:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Russia first used the multiple-warhead Oreshnik on the Ukrainian city of Dnipro in November 2024. It was used a second time in January in the western Lviv region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "263757fd11e3b15cde397828112bbdcc81b3778d",
-      "url": "https://www.cbc.ca/news/world/philippines-building-collapse-9.7210319?cmp=rss",
-      "title": "Building under construction in the Philippines collapses, with 24 surviving and 21 missing",
-      "published_at": "2026-05-24T01:27:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rescuers including firefighters, police and disaster-response teams used their hands and sniffer dogs in a dangerous scramble to search for the trapped survivors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8a272c3190499e18a16feb9ec9503f52a7ba8137",
-      "url": "https://www.cbc.ca/news/world/china-mine-blast-rescue-9.7210316?cmp=rss",
-      "title": "Rescuers race to find survivors after deadly Chinese coal mine blast",
-      "published_at": "2026-05-24T01:20:16-04:00",
-      "section": "World",
-      "summary_auto": "Chinese President Xi Jinping called for a thorough investigation and accountability of those responsible, after the deadly gas explosion happened Friday evening at the Liushenyu coal mine in the province of Shanxi.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c515470e073135a7b5a890142f324a2cc5a1c67c",
-      "url": "https://www.cbc.ca/news/world/pakistan-train-bombing-9.7210317?cmp=rss",
-      "title": "Suicide bombing near a railway track in southwest Pakistan kills at least 23 people",
-      "published_at": "2026-05-24T01:15:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The attack happened in an area where security forces are usually stationed, badly damaging several nearby buildings and smashing vehicles parked along the road, according to witnesses and images circulating on social media.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.944,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9d0970926c4b593aeb86e6e052b4909001c36af1",
-      "url": "https://www.cbc.ca/radio/quirks/infrasound-paranormal-9.7209127?cmp=rss",
-      "title": "Do old buildings give you the creeps? New research could explain haunted feelings",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Rodney Schmaltz, a psychology professor at MacEwan University in Edmonton, is interested in why some people believe in the paranormal. He and his colleagues studied the effect of infrasound on the body and mind.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "600abaeb932f1988291534145674611b940bdb50",
-      "url": "https://www.cbc.ca/news/canada/lapu-lapu-donations-analysis-9.7207684?cmp=rss",
-      "title": "Over $5M in donations flowed in after the Lapu-Lapu Day attack. Here's where it went",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Several charities and 29 GoFundMe campaigns raised more than $5.5 million for those affected by the Lapu-Lapu Day Festival attack. As some survivors criticize a lack of consultation and ongoing support, one charity expert says direct cash transfers to victims is a proven strategy to maximize impact after a tragedy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dc029926c1df4a79ec8aea4b64c2c1c863335ad5",
-      "url": "https://www.cbc.ca/news/science/whaling-logbook-bowhead-populations-9.7208739?cmp=rss",
-      "title": "What centuries-old whaler logs can tell us about why bowheads struggle today",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Tens of thousands of old logbooks from the 18th and 19th centuries reveal the scope and scale of how industrial whaling nearly wiped out bowhead whales. But they also show why some modern-day populations are surviving better than others.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "03ec285816a4bbea5b38ff88a72e368e1ccd727c",
-      "url": "https://www.cbc.ca/news/science/e-bike-battery-lockers-9.7208829?cmp=rss",
-      "title": "E-bike battery fires are a hazard across Canada. These companies are pitching solutions",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Fires and explosions from lithium batteries for e-bikes have led to millions in damage and even deaths across Canada. Fire chiefs have voiced concerns and e-bikes face bans in some buildings and transit. Two companies say they have a safer solution, with added benefits for e-bike riders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f36b5db8b7e65e18e883c3f52aba96348f001e5d",
-      "url": "https://www.cbc.ca/news/politics/mary-simon-french-louise-arbour-indigenous-languages-9.7210109?cmp=rss",
-      "title": "Outgoing Gov. Gen. says criticisms levelled against her French abilities were unfair",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Outgoing Gov. Gen. Mary Simon says the criticisms levelled against her over her ability to speak French were \"unfair\" and it ultimately did not impede her connecting with Canadians while in the role.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "962a07425f061b1eb79447d217e4a6823c51b233",
-      "url": "https://www.cbc.ca/news/politics/pierre-poilievre-netflix-tax-crtc-9.7210101?cmp=rss",
-      "title": "Poilievre comes out swinging against CRTC's 'Netflix tax,' says it could lead to U.S. retaliation",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Conservative Leader Pierre Poilievre is demanding Prime Minister Mark Carney step in and overrule the Canadian Radio-television and Telecommunications Commission (CRTC) as it forces mostly American web giants pay more to fund homegrown programming.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a26f076c96b0d485df9e4733c7619fb6bfd0e5f1",
-      "url": "https://www.cbc.ca/news/canada/ottawa/woodchips-on-trails-reduce-tick-populations-ottawa-researchers-find-9.7206851?cmp=rss",
-      "title": "Woodchips on trails reduce tick populations, Ottawa researchers find",
-      "published_at": "2026-05-24T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "A study published this month by researchers at the University of Ottawa has found that applying woodchips to some trails significantly reduced local tick populations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5dd37e50fef915922b8171519f5f8f9ebae11785",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/protest-against-ai-data-centres-in-vancouver-9.7210309?cmp=rss",
-      "title": "Protesters rally against planned AI data centres in Vancouver",
-      "published_at": "2026-05-23T20:20:11-04:00",
-      "section": "Canada",
-      "summary_auto": "Hundreds of people marched through Vancouver on Saturday to protest two planned AI data centres in the city, raising concerns about the amount of water and energy such facilities can use as the region faces tighter water restrictions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71839a66d2f26b157b8d1b736efd88b515785a8c",
-      "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-sandy-brondello-process-9.7210293?cmp=rss",
-      "title": "With Toronto Tempo’s latest loss, head coach Brondello reiterates process still a journey not a sprint",
-      "published_at": "2026-05-23T18:29:30-04:00",
-      "section": "Canada",
-      "summary_auto": "Toronto Tempo head coach Sandy Brondello has consistently walked the line between publicly demanding excellence from her team and acknowledging the reality that they are a first-year franchise in a very competitive league.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.439,
-        "subjectivity_hint": "low"
       }
     }
   ]
