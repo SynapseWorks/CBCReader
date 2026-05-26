@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-26T10:53:29.652761-04:00",
+  "generated_at": "2026-05-26T14:20:26.485518-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5c73539e74adff9e18215796f553ccc6567c4d7e",
+      "url": "https://www.cbc.ca/news/world/western-europe-heat-wave-temperature-records-u-k-france-9.7212529?cmp=rss",
+      "title": "Temperature records fall as Western Europe swelters under intense heat wave",
+      "published_at": "2026-05-26T10:00:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.K. has smashed a century-old temperature record for the second time in 24 hours as a spring heat wave continued to scorch parts of Western Europe, triggering government warnings about risks to life.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5d65d276ec740112eb67341494dc0469a2792193",
+      "url": "https://www.cbc.ca/player/play/9.7212409?cmp=rss",
+      "title": "NASA makes moon base announcement",
+      "published_at": "2026-05-26T10:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "NASA officials, including administrator Jared Isaacman and the head of the moon base program, are expected to speak Tuesday about plans for a sustained presence on the moon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "058e90d702fdc1dcfcd83c1d0734a62de241794c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/thind-developer-contract-presale-court-9.7207908?cmp=rss",
+      "title": "Dozens of pre-sale purchasers in troubled B.C. Lower Mainland condo tower claim contracts invalid",
+      "published_at": "2026-05-26T08:42:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5de0b873b63c47074656a0d972642207dffb92f8",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/columbia-valley-lakes-study-boating-debate-9.7211982?cmp=rss",
+      "title": "ʔAkisq̓nuk First Nation launches study into 2 East Kootenay lakes amid boating debate",
+      "published_at": "2026-05-26T07:38:58-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "ʔAkisq̓nuk First Nation is launching a series of scientific and economic studies on Lake Windermere and Columbia Lake as part of a broader water stewardship plan that has sparked debate over recreational boating in the area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5b52a4643d9bcb0571228b793f29acb0c649aad",
+      "url": "https://www.cbc.ca/sports/olympics/winter/hockey/ryan-kingsbury-out-national-womens-team-canada-9.7212325?cmp=rss",
+      "title": "Gina Kingsbury, Troy Ryan won't return to lead Canadian women's hockey team",
+      "published_at": "2026-05-26T07:10:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian women's hockey team will have a new general manager and head coach leading the team into the next Olympic cycle. GM Gina Kingsbury and head coach Troy Ryan won't return to their roles, Hockey Canada announced on Tuesday. Both were on contracts set to expire this year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "7068075c307e6dfe2b9cce4a9a64764822a42c32",
       "url": "https://www.cbc.ca/news/world/hajj-prayers-heat-9.7212279?cmp=rss",
@@ -13,6 +78,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "82971bc25da903baf3da790e11f8ed53fdb6078d",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-killings-gun-manslaughter-trial-9.7212272?cmp=rss",
+      "title": "Man who sold gun used to kill Edmonton police officers found guilty of manslaughter",
+      "published_at": "2026-05-26T06:30:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Edmonton man who supplied a teen with a semi-automatic rifle later used to kill two police officers has been found guilty of manslaughter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.955,
         "subjectivity_hint": "low"
       }
     },
@@ -39,19 +117,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "058e90d702fdc1dcfcd83c1d0734a62de241794c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/thind-developer-contract-presale-court-9.7207908?cmp=rss",
-      "title": "Dozens of pre-sale purchasers in troubled Lower Mainland condo tower claim contracts invalid",
-      "published_at": "2026-05-26T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In a unique case set against the backdrop of the struggling Lower Mainland condo market, purchasers of pre-sale units in Burnaby's Eclipse condo tower claim they wouldn't have entered into deals had they known the reality of the embattled developer's finances.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.848,
         "subjectivity_hint": "low"
       }
     },
@@ -97,14 +162,14 @@
     {
       "id": "682861beb18f62ed65fff1d8e39caabad84310f8",
       "url": "https://www.cbc.ca/news/world/lebanon-israel-strike-hezbollah-9.7212091?cmp=rss",
-      "title": "Israeli strike on village in eastern Lebanon kills 12, as troops try to push farther north",
+      "title": "Israel expands ground operation beyond 'yellow line' in south Lebanon as clashes intensify",
       "published_at": "2026-05-26T00:58:47-04:00",
       "section": "Top Stories",
-      "summary_auto": "Israel's military clashed with the Iranian-backed Hezbollah militant group Tuesday along a strategic river in Lebanon as Israeli troops tried to push farther north, just three days before Lebanese and Israeli military delegations are set to meet for direct talks in Washington.",
+      "summary_auto": "Israel is \"deepening its operations in Lebanon,\" Prime Minister Benjamin Netanyahu said on Tuesday, while it remained unclear if a potential ceasefire deal with Iran would bring the fighting between Israel and Hezbollah to a halt.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -117,6 +182,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0fd75d10813305ffe2b79c851a921b4af28f98d3",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-mine-arcelormittal-fine-9.7208362?cmp=rss",
+      "title": "Mining giant polluted Quebec waters for over a decade before $100M fine. What took so long?",
+      "published_at": "2026-05-26T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A $100-million fine against a global mining giant for contaminating water in Quebec's Côte-Nord marks the highest-ever infraction of its kind, but experts say the settlement with the federal government also shows the immense challenges in regulating the country's mining sector.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.351,
         "subjectivity_hint": "low"
       }
     },
@@ -160,37 +238,11 @@
       }
     },
     {
-      "id": "7bdff8fb2b62bf45e6172ff3c7352aff19423335",
-      "url": "https://www.cbc.ca/news/canada/canada-soccer-charlotte-training-9.7211986?cmp=rss",
-      "title": "Canada's World Cup team is training in the U.S. Why?",
-      "published_at": "2026-05-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Charlotte, N.C., is playing host to the Canadian men's national soccer team's training camp this week ahead of the World Cup. Canada Soccer says the players will benefit from training in high heat and humidity, while spending time in an “isolated environment” to focus on preparations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cb69541af95001fe8c1fcc2749dea17fc2a0ffb4",
-      "url": "https://www.cbc.ca/news/politics/rcmp-intimate-relationship-informant-9.7211299?cmp=rss",
-      "title": "RCMP investigator should lose job for having an intimate relationship with informant: ruling",
-      "published_at": "2026-05-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A lead RCMP investigator who had a secret, intimate relationship with their confidential informant risked \"the integrity of an active criminal investigation\" and needed to be let go, according to a recently published conduct board decision.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "143cbec59126035cd836a9622410de0f29a110a6",
       "url": "https://www.cbc.ca/news/canada/b-c-ontario-world-cup-last-call-extension-9.7212035?cmp=rss",
       "title": "B.C. won't extend last call for World Cup games as Ontario did — and it's all about time zones",
       "published_at": "2026-05-26T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Two Canadian provinces — British Columbia and Ontario — are hosting FIFA World Cup games next month, but only one will allow you to buy booze until 4 a.m. during the tournament. Those keeping an eye on the moves say it likely has more to do with time zones than permissiveness.",
       "bias_heuristic": {
         "article_type": "News",
@@ -221,6 +273,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.252,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7bdff8fb2b62bf45e6172ff3c7352aff19423335",
+      "url": "https://www.cbc.ca/news/canada/canada-soccer-charlotte-training-9.7211986?cmp=rss",
+      "title": "Canada's World Cup team is training in the U.S. Why?",
+      "published_at": "2026-05-26T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Charlotte, N.C., is playing host to the Canadian men's national soccer team's training camp this week ahead of the World Cup. Canada Soccer says the players will benefit from training in high heat and humidity, while spending time in an “isolated environment” to focus on preparations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
         "subjectivity_hint": "low"
       }
     },
@@ -313,149 +378,6 @@
         "article_type": "News",
         "sentiment": -0.887,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "63210de9bc89dde20be0d5f07a8b05cad84991c4",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/indigenous-woman-health-pregnancy-preeclampsia-death-9.7211641?cmp=rss",
-      "title": "Family seeks answers after Indigenous mother dies in delivery room at Saskatoon hospital",
-      "published_at": "2026-05-25T14:20:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Family and friends of Jaali Sutherland-Weenie are calling for accountability from the health-care system after the young Indigenous woman died in hospital following a severe pregnancy complication.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8b1ff7ddced5701d2e446446bcc3f4976eaa2373",
-      "url": "https://www.cbc.ca/news/canada/north/more-money-for-health-community-infrastructure-in-nunavut-s-3-7b-budget-9.7211588?cmp=rss",
-      "title": "Largest budget tabled in Nunavut's history promises more money for health, community infrastructure",
-      "published_at": "2026-05-25T13:54:01-04:00",
-      "section": "Canada",
-      "summary_auto": "Nunavut Premier and Finance Minister John Main tabled the largest budget in the territory's history Monday with major increases to spending on health, housing and social services.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "874e13a204d034970e996795cbad51555975d6f8",
-      "url": "https://www.cbc.ca/news/entertainment/new-world-record-for-slinky-stairs-9.7211529?cmp=rss",
-      "title": "A new Slinky is in the world record books. This Connecticut family made it happen",
-      "published_at": "2026-05-25T13:17:35-04:00",
-      "section": "World",
-      "summary_auto": "It turns out everyone’s favourite childhood toy is actually a record-breaking stair master — and not the type we collectively dread seeing at the gym. According to Guinness World Records, the record for the most stairs descended by a Slinky has been shattered, at 53.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fb701ba95bc761d349b4d3d38801a48c30e00ebd",
-      "url": "https://www.cbc.ca/news/science/heat-wave-prairies-9.7211409?cmp=rss",
-      "title": "The first significant heat wave of the year is expected to descend across the southern Prairies this week",
-      "published_at": "2026-05-25T12:55:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "It's about to get very hot across a large swath of Canada. The first long stretch of heat is expected across southern Alberta, Saskatchewan and Manitoba this week where temperatures could reach higher than 32 C over several days.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d12d8c5cb38ff7dd3cfed46c899d19f017922e6b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/report-marine-location-markers-ordnance-14-wing-greenwood-9.7211313?cmp=rss",
-      "title": "Found a metal tube on the beach? It could still explode, warns N.S. military base",
-      "published_at": "2026-05-25T12:35:15-04:00",
-      "section": "Canada",
-      "summary_auto": "A beach cleanup crew recently found marine location markers that had washed up in Advocate Harbour, N.S. The Canadian Forces base in Greenwood says while these items may appear old, inactive or harmless, they can still post a serious danger.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d12d8c5cb38ff7dd3cfed46c899d19f017922e6b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/report-marine-location-markers-ordnance-14-wing-greenwood-9.7211313?cmp=rss",
-      "title": "Washed-up ordnance could still explode, should be reported, warns CFB Greenwood",
-      "published_at": "2026-05-25T12:35:15-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A beach cleanup crew recently found marine location markers that had washed up in Advocate Harbour, N.S. The Canadian Forces base in Greenwood says while these items may appear old, inactive or harmless, they can still post a serious danger.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "03ccea9617907767b1643d609164a4805f107de0",
-      "url": "https://www.cbc.ca/player/play/9.7211619?cmp=rss",
-      "title": "Captain Alphonso Davies likely won't play in Canada's World Cup opener: coach",
-      "published_at": "2026-05-25T12:34:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Captain Alphonso Davies will likely miss Canada's first game of the FIFA World Cup as he works his way back from a hamstring injury, head coach Jesse Marsch told reporters Monday. Marsch said he expects Davies to play in the tournament, but he likely won't be ready for the opener against Bosnia-Herzegovina in Toronto on June 12.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.57,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "853ec186cece2e6b83bebe1d66cd4d736161facf",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/spanish-banks-drowning-victim-woman-photo-vpd-reappeal-9.7211474?cmp=rss",
-      "title": "Police hope pollen analysis will help crack cold case of woman found dead in Vancouver's English Bay",
-      "published_at": "2026-05-25T12:31:05-04:00",
-      "section": "Canada",
-      "summary_auto": "A forensic analysis of pollen samples taken from the woman's sweater indicate she may have spent her final days in the Seattle or Portland area.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8e5eeda633e14bb0802ce7e70f52a7fbd3118888",
-      "url": "https://www.cbc.ca/news/business/tim-hortons-hiring-spree-9.7211494?cmp=rss",
-      "title": "Tim Hortons commits to hiring 10,000 local employees, scaling back on temporary foreign workers",
-      "published_at": "2026-05-25T12:09:32-04:00",
-      "section": "Canada",
-      "summary_auto": "The hiring spree comes as the coffee chain said Friday that 80 new store locations would be added across Canada this year — and as American chain Dunkin' plans a re-entrance into the Canadian market. Tim Hortons says the moves are part of a wider long-term investment, but a marketing expert says leaning into Canadian connection would be a smart move.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c7c5718559d6981fc3553cbae996da9329812b44",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/man-woman-to-remain-in-custody-after-deceased-infant-found-in-wooded-area-9.7211336?cmp=rss",
-      "title": "Man, woman to remain in custody after infant found dead in wooded area outside Halifax",
-      "published_at": "2026-05-25T11:25:10-04:00",
-      "section": "Canada",
-      "summary_auto": "Two people charged after a newborn baby was found in a wooded area outside Halifax will stay in custody until their next court appearance, as the infant’s mother remained in hospital Monday in critical condition.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8636a9d5e5436bdf23a24dea5cb684a9f0bada00",
-      "url": "https://www.cbc.ca/news/world/ukraine-museums-cultural-institutions-russia-attacks-9.7210980?cmp=rss",
-      "title": "Ukraine's cultural, historical institutions heavily damaged in mass-scale Russian attack",
-      "published_at": "2026-05-25T11:25:00-04:00",
-      "section": "World",
-      "summary_auto": "Russia's sweeping barrage of missiles and drones on Ukraine over the weekend damaged some of the nation's most significant cultural institutions, in what officials condemned as a deliberate assault on Ukraine's history.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "medium"
       }
     }
   ]
