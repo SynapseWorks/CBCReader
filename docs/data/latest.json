@@ -1,18 +1,330 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-29T14:28:11.022832-04:00",
+  "generated_at": "2026-05-30T09:14:11.783188-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "f2ab941ac873067734d6f813760596e26f34c826",
-      "url": "https://www.cbc.ca/player/play/9.7216901?cmp=rss",
-      "title": "B.C. officials reveal estimated total costs of hosting FIFA World Cup",
-      "published_at": "2026-05-29T10:29:00-04:00",
+      "id": "243fc9f77c4c988868dc19e306b49c4371c85b1c",
+      "url": "https://www.cbc.ca/news/entertainment/kanye-west-travis-scott-italy-9.7217845?cmp=rss",
+      "title": "Italy bans Kanye West, Travis Scott concerts over security concerns",
+      "published_at": "2026-05-30T02:48:39-04:00",
       "section": "Top Stories",
-      "summary_auto": "B.C. 's ministers of sport and economic growth give an update on the cost and revenue projections of hosting the FIFA World Cup in Vancouver.",
+      "summary_auto": "Italy has banned two concerts involving American rappers Kanye West and Travis Scott that were due to take place in July in the northern city of Reggio Emilia, authorities said on Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5253ece7aaee50e3727a6b6c4d184265257b86b0",
+      "url": "https://www.cbc.ca/news/world/laos-cave-rescue-9.7217843?cmp=rss",
+      "title": "Rescuers free 4 men trapped in flooded cave in Laos, search for 2 still missing",
+      "published_at": "2026-05-30T02:28:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rescuers in Laos said Saturday they have safely evacuated four villagers trapped in a flooded cave for 10 days. One person was safely released a day earlier.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f1f63cb77d2ca7012f2400253d7db64322d118f5",
+      "url": "https://www.cbc.ca/news/world/trump-health-memo-9.7217836?cmp=rss",
+      "title": "Trump remains in excellent health despite leg swelling, hand bruising, White House memo says",
+      "published_at": "2026-05-30T01:31:48-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump, who turns 80 in June and is the oldest person to assume the presidency, frequently casts himself as more energetic and fitter than Joe Biden, his Democratic predecessor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.644,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c9de1fe71717fd1e6724c30aadaf8cbb37b9f888",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/clinton-ellison-portapique-mass-shooting-9.7216296?cmp=rss",
+      "title": "'He was a changed person': Clinton Ellison, survivor of N.S. mass shooting, dead at 52",
+      "published_at": "2026-05-30T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ellison's family says his mental health never recovered after witnessing the 2020 tragedy, which claimed the life of his brother.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f806cd1f78eea2db1933f5be0acb6576bb3936df",
+      "url": "https://www.cbc.ca/news/canada/tomato-prices-trump-9.7216440?cmp=rss",
+      "title": "Did Trump take tomato? Here's what's behind the latest grocery price sticker shock",
+      "published_at": "2026-05-30T00:01:09-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85b04ad520ef72ddc7a8249dee2c47ad5ba04b5e",
+      "url": "https://www.cbc.ca/news/politics/canadian-citizenship-ancestry-american-9.7216737?cmp=rss",
+      "title": "Thousands are now Canadians under new citizenship law. Half of them are Americans",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of people around the world have received Canadian citizenship certificates as a result of a change late last year to federal law. Half of them Americans.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec9bb4d51fa5b0934e0c810ecd12e602458fd897",
+      "url": "https://www.cbc.ca/radio/whatonearth/loop-plastics-packaging-returnable-9.7207827?cmp=rss",
+      "title": "Loop's reusable packaging revolution failed in Canada. Here's why it's thriving in 500 French grocery stores",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Seven years ago, Tom Szaky got some of the world’s biggest corporations to invest in returnable containers, but the pilots shuttered everywhere but France. Could what he's learned there allow for a Canadian comeback?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ba17fd655a45d940aa64aa5bb2adddf3b6fa9934",
+      "url": "https://www.cbc.ca/news/canada/china-canada-tourism-trump-trade-9.7216946?cmp=rss",
+      "title": "Chinese tourists are choosing Canada — again",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The \"people-to-people\" ties between Canada and China are seeing a surge as geopolitical relations between the two countries warm up. As China lifts restrictions on group tours to Canada and Canada is increasing flights to China, tourism between the two countries is up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9c569e824f009de7be8af3f302b2dff59943abfd",
+      "url": "https://www.cbc.ca/news/world/donald-trump-health-physical-mental-80-birthday-9.7215101?cmp=rss",
+      "title": "Donald Trump turns 80 soon. Questions about his health aren't going away",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump celebrates his 80th birthday in June, and will do so amid questions about whether his physical health and mental sharpness are on the decline. A memo from his physician that was released by the White House on Friday says Trump ‌remains in excellent health.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dfc0f7031a42c650285369c821353965ed2f1544",
+      "url": "https://www.cbc.ca/news/politics/carney-climate-trudeau-mckenna-guilbeault-wilkinson-9.7217187?cmp=rss",
+      "title": "Trudeau's climate policy architects gather as Carney changes course",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Former Prime Minister Justin Trudeau and his former climate change cabinet ministers — Catherine McKenna, Jonathan Wilkinson and Steven Guilbeault — on Wednesday were at the Rideau Club, a private social club near Parliament Hill.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "92fe40e41e301e42b80281bcc786df897309dc24",
+      "url": "https://www.cbc.ca/news/politics/submarines-defence-navy-germany-canada-norway-9.7217410?cmp=rss",
+      "title": "All for one: Norway, Germany pitch Canada on shared submarine fleet",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Germany and Norway are intensifying their bid for Canada’s submarine contract, pitching the Type 212CD as part of a shared NATO fleet. The allies have even surrendered production slots to accelerate delivery, highlighting a growing effort to counter South Korea's advantage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a741a76e309b50d39f9a0869295a6bef2a6f4e95",
+      "url": "https://www.cbc.ca/news/canada/manitoba/wildfires-tree-planting-canada-9.7215528?cmp=rss",
+      "title": "Wildfires are destroying trees faster than we are replacing them",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Canada is losing trees faster than nature can grow them or people can plant them. A northern Manitoba tree-planting program is trying to replace trees destroyed by wildfires, but the cancellation of the federal Two Billion Trees Program is making that more challenging.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.433,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "96dfe8eb2ca4a88a5fa10d2150435073d94e2c5a",
+      "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-conference-finals-watch-parties-9.7216208?cmp=rss",
+      "title": "A look back on the Habs' playoff run — and how it energized the city",
+      "published_at": "2026-05-29T19:11:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Montreal Canadiens' Stanley Cup dream is over — for now. But here's a look at how this playoff run took Habs fever to a level unseen in recent years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.392,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "04ebb06c8b07e35a434be7a511a167204db4add3",
+      "url": "https://www.cbc.ca/news/canada/montreal/habs-hurricanes-game-five-9.7216562?cmp=rss",
+      "title": "Canadiens eliminated from playoffs after blowout loss to Hurricanes",
+      "published_at": "2026-05-29T18:45:42-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Hurricanes won the best-of-seven series 4-1 with four straight victories. They will be heading to the Stanley Cup final for the first time since 2006.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1f71ac37c969fc11ad1b0dbfa41cc2b14f1abeb",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/canada-soccer-world-cup-team-roster-chris-jones-may-29-9.7217118?cmp=rss",
+      "title": "Ailing Davies, Shaffelburg part of 26-man team as Canada's World Cup roster revealed",
+      "published_at": "2026-05-29T15:48:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada coach Jesse Marsch revealed his roster for the men's World Cup on Friday, with ailing 'Maritime Messi' Jacob Shaffelburg a surprise inclusion over Daniel Jebbison.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "68c3559f279aacd895192a38bd89b5647e045922",
+      "url": "https://www.cbc.ca/news/canada/montreal/permanent-peoples-tribunal-interim-statement-9.7217256?cmp=rss",
+      "title": "Canada continuing genocide against Indigenous Peoples, international tribunal finds",
+      "published_at": "2026-05-29T15:02:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An international tribunal has ruled that the Government of Canada’s current policies constitute an ongoing genocide against Indigenous Peoples, following a grueling week of hearings on intergenerational trauma.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd2a403f169622b94cd897bfa7c822dacb6339ca",
+      "url": "https://www.cbc.ca/radio/asithappens/alina-fernandez-9.7217239?cmp=rss",
+      "title": "Fidel Castro's anti-communist daughter hopes the U.S. will bring regime change to Cuba",
+      "published_at": "2026-05-29T13:27:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "While thousands of Cubans have been marching in the streets to oppose the U.S. indictment of their former president Raúl Castro, a literal daughter of the revolution is singing a different tune.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3b62eac509c7b776936e8208168b4fddb7c84c8e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-gang-letter-extortions-police-9.7215960?cmp=rss",
+      "title": "Bishnoi gang sent letter to B.C. police force claiming 1,000 foot soldiers ready to carry out extortions",
+      "published_at": "2026-05-29T13:07:17-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1caf39b836b32ccca395dd3926732c510487a1e0",
+      "url": "https://www.cbc.ca/news/business/canada-post-q1-loss-2026-9.7216987?cmp=rss",
+      "title": "Canada Post records Q1 loss of $205 million amid major restructuring",
+      "published_at": "2026-05-29T12:26:31-04:00",
+      "section": "Business",
+      "summary_auto": "The loss comes amid an ongoing labour dispute with workers that the Crown corporation attributed in part to the downturn in its parcel business.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.762,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5a4efbd4a57299e476cca2a247e67f121b1fe2b",
+      "url": "https://www.cbc.ca/news/world/trump-kennedy-center-judge-blocks-closure-9.7217145?cmp=rss",
+      "title": "Federal judge blocks closure of Kennedy Center, says Trump name must be dropped",
+      "published_at": "2026-05-29T12:20:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A U.S. federal judge ruled Friday that U.S. President Donald Trump's name was illegally added to the Kennedy Center and blocked the administration from closing the cultural and arts venue for major renovations — the latest legal setback for Trump's efforts to leave his personal mark on the landscape of the nation's capital.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "71c18fa45ba89f91b52e5037ac88da60297bdf5a",
+      "url": "https://www.cbc.ca/news/politics/carney-pope-leo-ai-encyclical-fears-war-vatican-9.7217138?cmp=rss",
+      "title": "Carney, Pope Leo discuss responsible AI after pontiff warns world to slow development",
+      "published_at": "2026-05-29T12:04:20-04:00",
+      "section": "World",
+      "summary_auto": "Prime Minister Mark Carney spoke with Pope Leo about artificial intelligence and the \"imperative that AI must serve humanity\" — a conversation that comes days after the Pope urged governments to slow down the development of AI systems.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e17e4c4ad76dad7b9363b86659b60697d571fb13",
+      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-models-brampton-plant-funding-dodge-chrysler-windsor-9.7216648?cmp=rss",
+      "title": "Stellantis is launching 11 new North American models. Could they be built in Canada?",
+      "published_at": "2026-05-29T11:48:40-04:00",
+      "section": "Canada",
+      "summary_auto": "Global automaker Stellantis' recently revealed plans to launch 11 new vehicle models in North America \"produces opportunities\" for those models to be built in Ontario, the head of the company's Canadian division says.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "20a6951c25dfc7378b9c82e4e4b62cae03f32efa",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stephenville-explosive-disposed-9.7216528?cmp=rss",
+      "title": "Mayor questions why police brought suspected WW II-era explosive to Stephenville, N.L.",
+      "published_at": "2026-05-29T11:36:05-04:00",
+      "section": "Canada",
+      "summary_auto": "Stephenville Mayor Bob Byrnes says it's \"concerning\" the RCMP brought the explosive to a residential neighbourhood, sparking distress in the community. Military experts agree: it was the wrong decision.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c5678f948738fcee16a3812f5698b2c27cd09645",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-canada-jordan-framework-9.7216945?cmp=rss",
+      "title": "Supreme Court clarifies trial time limits to avoid having charges dropped over delays",
+      "published_at": "2026-05-29T10:57:02-04:00",
+      "section": "Canada",
+      "summary_auto": "The Supreme Court of Canada dismissed two challenges to the Jordan framework on Friday, ruling that the time limits put on criminal trials before charges be thrown out of court are justified under Section 11(b) of the Charter.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bb873df8c37c95d91d42638ed73491197bdfbcaf",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-major-incident-st-matthews-9.7216959?cmp=rss",
+      "title": "'Exchange of gunfire' after man took 3 hostages in Winnipeg home, police say",
+      "published_at": "2026-05-29T10:38:19-04:00",
+      "section": "Canada",
+      "summary_auto": "Winnipeg police say a man took three teens hostage inside a St. James home on Friday, leading to an 'exchange of gunfire' as officials tried to arrest him.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +333,7 @@
       "url": "https://www.cbc.ca/news/world/us-minn-ice-agent-arrested-texas-9.7216735?cmp=rss",
       "title": "ICE agent who faces charges in Minnesota shooting arrested in Texas",
       "published_at": "2026-05-29T10:08:13-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The top prosecutor from Minnesota's Hennepin County announced the arrest Friday of an ICE officer charged for shooting a Venezuela-born man in January at the height of a deadly immigration blitz launched by the Donald Trump administration.",
       "bias_heuristic": {
         "article_type": "News",
@@ -30,470 +342,15 @@
       }
     },
     {
-      "id": "fa29cc5c6230cba12be242028ad7b45bc623db8d",
-      "url": "https://www.cbc.ca/news/canada/calgary/south-bow-calgary-keystone-xl-pipeline-contracts-signed-9.7216750?cmp=rss",
-      "title": "South Bow targets 2027 decision on Keystone XL partial revival",
-      "published_at": "2026-05-29T09:30:41-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's South Bow will decide whether to proceed with its proposed partial revival of the Keystone XL oil pipeline by mid-2027, the company said on Friday, as it announced it has secured the shipper commitments it was seeking ​to advance the project.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4486fa92547ac9677167d8b20d56b3c8e4611ef1",
-      "url": "https://www.cbc.ca/news/politics/victoria-cross-military-canada-defence-9.7216784?cmp=rss",
-      "title": "Ottawa orders fresh look at Afghanistan heroism cases, opens door to Victoria Cross review",
-      "published_at": "2026-05-29T08:55:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government will create an independent military honours review board to reassess Afghanistan-era bravery cases, including whether Pte. Jess Larochelle merited the country's highest battlefield decoration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.925,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d8113418f1984fe6d404264f105843d62e1677b",
-      "url": "https://www.cbc.ca/news/climate/england-drought-9.7216712?cmp=rss",
-      "title": "Record-breaking heat and dry spring leave parts of England without water",
-      "published_at": "2026-05-29T08:54:29-04:00",
-      "section": "World",
-      "summary_auto": "Thousands of households in southeast England were left without water or facing low pressure during a ‌record-breaking heat wave this week, as high demand followed a dry spring to expose the failings in Britain's aging infrastructure.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de49a2db2b5bbffda7246ae7ef2c273101ae13d3",
-      "url": "https://www.cbc.ca/news/world/israel-lebanon-litani-river-9.7216696?cmp=rss",
-      "title": "Israeli PM says Lebanon ground offensive has expanded past key river",
-      "published_at": "2026-05-29T08:15:23-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Israeli forces have advanced to positions north of Lebanon's Litani River, Prime Minister Benjamin Netanyahu said on Friday, as Israel escalates attacks against Hezbollah militants after warning thousands more Lebanese to flee their villages.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad94885731b68ded6c41718c9219785964502aa4",
-      "url": "https://www.cbc.ca/news/canada/toronto/livestory/kenneth-law-hearing-plea-9.7211269?cmp=rss",
-      "title": "Poison seller Kenneth Law pleads guilty to abetting Ontario suicides, won’t be prosecuted for deaths in U.K.",
-      "published_at": "2026-05-29T08:00:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "46c63d2aa5be853068a05b09d554d0d2dc8b20a7",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-water-advisory-9.7216502?cmp=rss",
-      "title": "Montreal urges 1.2 million residents to limit water use, warns of summer shortage",
-      "published_at": "2026-05-29T06:13:18-04:00",
+      "id": "1baa04d8704d50f7b0937a3395579082a1cb48d9",
+      "url": "https://www.cbc.ca/news/canada/calgary/banff-calgary-rain-flooding-weekend-9.7216840?cmp=rss",
+      "title": "Banff, Calgary urge caution along Bow River as water levels rise",
+      "published_at": "2026-05-29T09:53:39-04:00",
       "section": "Canada",
-      "summary_auto": "Montreal is asking people to reduce water use in a major way. Officials said new restrictive measures are necessary as it carries out repairs on a key water main.",
+      "summary_auto": "It is set to be a wet weekend across southern Alberta, with warnings about high water levels in the Bow River and the potential for flooding in Banff National Park.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8fc244288d7dc521a3b4dbaba24ae789c57f9352",
-      "url": "https://www.cbc.ca/player/play/9.7216409?cmp=rss",
-      "title": "Why was Gatineau's Habs watch party called offside?",
-      "published_at": "2026-05-29T05:48:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Organizers had to cancel a watch party at Gatineau's Slush Puppie Centre where Montreal Canadiens fans had hoped to watch a broadcast of the team competing against the Carolina Hurricanes in the NHL's Eastern Conference final. The controversy made it all the way to Parliament Hill. CBC's Matthew Kupfer explains.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad94885731b68ded6c41718c9219785964502aa4",
-      "url": "https://www.cbc.ca/news/canada/toronto/livestory/kenneth-law-hearing-plea-9.7211269?cmp=rss",
-      "title": "Poison seller Kenneth Law pleads guilty to abetting Ontario suicides, won't be prosecuted for deaths in U.K.",
-      "published_at": "2026-05-29T05:31:39-04:00",
-      "section": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.627,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "32a62999ac4e6f2be758f7cfcf3e739a73e61576",
-      "url": "https://www.cbc.ca/player/play/9.7216395?cmp=rss",
-      "title": "WHO chief arrives in Congo, says Ebola outbreak 'can be stopped'",
-      "published_at": "2026-05-29T05:15:00-04:00",
-      "section": "Health",
-      "summary_auto": "Dr. Tedros Adhanom Ghebreyesus, director-general of the World Health Organization, is in the Democratic Republic of Congo, he says, to show that communities affected by the Ebola outbreak 'are not alone,' and to ensure they have all they need to stop the spread.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.093,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3f7ecd31a172e26bd821ad5494328328ba921a12",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/beatrice-penashue-alleged-murder-9.7216293?cmp=rss",
-      "title": "Family 'devastated' by loss of Sheshatshiu, N.L., woman allegedly killed by partner",
-      "published_at": "2026-05-29T05:01:16-04:00",
-      "section": "Canada",
-      "summary_auto": "Beatrice Penashue has been identified as the woman who was killed in Sheshatshiu this week, in an alleged murder by her partner.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.968,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8ec034fc4adc24b64f49419d30e2205efe7aae4f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ksi-lisims-greenhouse-gas-emissions-9.7215921?cmp=rss",
-      "title": "Ksi Lisims project would increase B.C.’s greenhouse gas emissions, calculations show",
-      "published_at": "2026-05-29T05:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Ksi Lisims LNG project, from which liquefied natural gas would be sold to a German utility under a deal announced Wednesday, would increase B.C. 's annual greenhouse gas emissions by between six and eight per cent, according to calculations by CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "f6131417b546198a7923c4b1d0187bfde63ce2e1",
-      "url": "https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352?cmp=rss",
-      "title": "Canada slipped into a technical recession on an annualized basis as economic growth stalled in 1st quarter",
-      "published_at": "2026-05-29T04:49:15-04:00",
-      "section": "Business",
-      "summary_auto": "Canada's economy ‌contracted in the first quarter of the year on an annualized basis by a slim margin, Statistics Canada data showed on Friday, making it two consecutive quarters of annualized decline, which some would call a technical recession.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3b62eac509c7b776936e8208168b4fddb7c84c8e",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-gang-letter-extortions-police-9.7215960?cmp=rss",
-      "title": "Bishnoi gang sent letter to B.C. police force claiming 1,000 foot soldiers ready to carry out extortions",
-      "published_at": "2026-05-29T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Lawrence Bishnoi gang purportedly wrote police in Abbotsford, B.C., directly last summer claiming more than 1,000 foot soldiers were ready to carry out extortions, according to a police witness who testified at an immigration hearing Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2bbaea3be8e4ebb598b4a67490bdaf298500bd1e",
-      "url": "https://www.cbc.ca/news/canada/montreal/canadiens-hurricanes-game-5-setup-9.7216294?cmp=rss",
-      "title": "Habs prepare for Game 5 down 3-1 to dominant Hurricanes",
-      "published_at": "2026-05-29T02:53:45-04:00",
-      "section": "Canada",
-      "summary_auto": "The Montreal Canadiens are fighting for their playoff lives tonight as they take on the Carolina Hurricanes in Game 5 of the NHL's Eastern Conference final.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "50081798a67fcf1411784ef85b496ce20bffa0b9",
-      "url": "https://www.cbc.ca/news/canada/windsor/india-canada-trade-talks-amid-us-tariff-uncertainty-9.7215412?cmp=rss",
-      "title": "Canadian manufacturer pivots to 'huge' market in India as the 2 countries try to strike trade deal",
-      "published_at": "2026-05-29T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "As India and Canada work toward a free trade deal, a Windsor, Ont., business that manufactures coatings for the automotive rubber industry is also eyeing the Indian market amid uncertainty linked to U.S. tariffs. “We need to be there,\" says the president of G. Bareich Import-Export Inc.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7c16b7bccb77803dafc39a2ee4c8080d1e691953",
-      "url": "https://www.cbc.ca/news/world/blue-origin-new-glenn-explosion-9.7216231?cmp=rss",
-      "title": "Blue Origin's New Glenn rocket explodes on launchpad at Cape Canaveral",
-      "published_at": "2026-05-29T01:52:56-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An uncrewed Blue Origin New Glenn rocket exploded on a Florida launchpad during a test on Thursday, in a major setback for Jeff Bezos’ space venture as it seeks to narrow the gap with Elon Musk's IPO-bound SpaceX.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a60c8b7e9c0fdb67d1b6d0e5ee73230d27cab033",
-      "url": "https://www.cbc.ca/news/world/drone-romania-russia-9.7216264?cmp=rss",
-      "title": "NATO member Romania says Russian drone hit apartment building, injuring 2",
-      "published_at": "2026-05-29T00:56:01-04:00",
-      "section": "Top Stories",
-      "summary_auto": "NATO member Romania said on Friday that a drone injured two people in a southeastern city during an overnight Russian attack on neighbouring Ukraine, the first time in the war that a drone had hit a densely populated area in Romania and caused injuries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.866,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "96edb6b5d254b58d0e696597cc7a3d0b58502041",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/madd-trial-delays-9.7211277?cmp=rss",
-      "title": "MADD says N.L. impaired driving cases being dropped after trial delays 'not surprising'",
-      "published_at": "2026-05-29T00:30:00-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC News has identified four impaired driving cases within the last 18 months that ended due to R v. Jordan — a 2016 Supreme Court of Canada decision that ensures an accused person has the right to be tried in a timely manner.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.15,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "40098f670c84e14f01735769a0b65e8b5c55c7cb",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/ai-deepfakes-charges-9.7215992?cmp=rss",
-      "title": "AI deepfakes of dozens of Canadian women in violent and sexual images shared online",
-      "published_at": "2026-05-29T00:01:48-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "23d3bd6a6b797983b95addd6bdcadede6d4c9268",
-      "url": "https://www.cbc.ca/player/play/9.7213804?cmp=rss",
-      "title": "What does hockey fandom look like in North Carolina?",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Unlike Habs fans in Montreal — whose fandom is visibly widespread — Carolina Hurricanes fans, known as Caniacs, are a bit harder to spot in downtown Raleigh, N.C. In the parking lot of the Lenovo Center in the city's outskirts, it's a different story.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6dcbe8e797b7c1e64971f10dd679df41ba4b2fa7",
-      "url": "https://www.cbc.ca/news/health/generic-ozempic-canada-semaglutide-9.7215850?cmp=rss",
-      "title": "Generic Ozempic is now about $100 a month across the country. Canadians are taking note",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Highly anticipated generic versions — which arrived at some pharmacies, including select Rexall and Shoppers Drug Mart locations across Canada last week — are being hailed as a gamer-changer. According to pharmacies, generics have slashed the price to roughly $100 a month, which they expect will quickly drive up demand.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7a7c0c5d425d2a5a9b5e262270a584a98f2e6ecd",
-      "url": "https://www.cbc.ca/news/canada/toronto/fifa-unsold-expensive-tickets-toronto-9.7215170?cmp=rss",
-      "title": "World Cup matches in Toronto still aren't sold out. But fans are facing high costs",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The World Cup is one of the most popular sporting events on the planet, but the demand hasn't been enough to sell out any of the six matches Toronto is hosting, with thousands of tickets still available for high prices.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.525,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "46ea128afb485863e8d65c9b9596ebb97f6c4409",
-      "url": "https://www.cbc.ca/news/canada/windsor/satans-choice-recruitment-windsor-arrest-9.7215014?cmp=rss",
-      "title": "Satan's Choice in new era of 'rapid recruitment' in Ontario, police say after Windsor-area arrest",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A new era of the Satan's Choice outlaw motorcycle gang is picking up steam across Ontario as numbers grow, say police, adding that membership is fluid and hard to monitor.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "502a2ead516b6306cf2c395c6a7248ad2670bfe7",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/vickers-manor-thunder-bay-9.7214873?cmp=rss",
-      "title": "Tenants on edge over dozens of fire code violations, unpaid bills at Thunder Bay, Ont., seniors' building",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Residents of a seniors’ building in Thunder Bay, Ont., are weighing their options as their landlord faces unpaid utility bills and dozens of fire code violations. Formerly called McKellar Place, Vickers Manor, which is on sale for $18.9 million, is a privately owned six-storey building for those able to live independently. Here's why tenants are concerned about their future.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4b40eb70c4ffbf911d455fec22beefdcda517bbb",
-      "url": "https://www.cbc.ca/news/canada/world-cup-fifa-travel-canada-visa-9.7215744?cmp=rss",
-      "title": "Got a World Cup ticket? Canadian officials warn: 'It's not a ticket into the country'",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "In just a few short weeks, Canada expects several thousand fervent soccer fans will arrive at our border. But the Canada Border Services Agency (CBSA) has a warning for fans. A coveted ticket may get you into the soccer stadium, but you have to get into Canada first.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.412,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "319cf5712aa75595111a5f7e84a84b84ff58d341",
-      "url": "https://www.cbc.ca/news/world/bondi-doj-congressional-hearing-epstein-files-9.7216109?cmp=rss",
-      "title": "Trump’s former attorney general questioned about Epstein Files",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Donald Trump's former attorney general Pam Bondi is appearing before the U.S. House oversight committee today — behind closed doors and not under oath — for a hearing about the Justice Department's handling of the Jeffrey Epstein case.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa50cac3333d445d1e5412950c271d925172291b",
-      "url": "https://www.cbc.ca/news/canada/hamilton/air-pollution-and-cognition-9.7215486?cmp=rss",
-      "title": "Not just bad for your lungs; air pollution damages your brain, McMaster University researchers say",
-      "published_at": "2026-05-29T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A study out of Hamilton's McMaster University looked at how exposure to common air pollutants affected the performance of about 7,000 Canadians on tests of brain health.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.166,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c0f6223e6e78af7b10613ea846870f4b6e6cdef5",
-      "url": "https://www.cbc.ca/news/world/scripps-spelling-bee-winner-9.7216212?cmp=rss",
-      "title": "14-year-old Californian wins Scripps National Spelling Bee in lightning-round tiebreaker",
-      "published_at": "2026-05-28T18:58:20-04:00",
-      "section": "World",
-      "summary_auto": "Shrey Parikh, a 14-year-old from California, won a tense tiebreaker to take the title at this year's Scripps National Spelling Bee, becoming the best young speller in the English language.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.881,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "924e8980f0914f1847b37f371f8c5561f7441ad0",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-missing-persons-cases-tensions-9.7216082?cmp=rss",
-      "title": "First Nations say they're being disrespected as tension rises with Thunder Bay police over missing persons",
-      "published_at": "2026-05-28T18:02:34-04:00",
-      "section": "Canada",
-      "summary_auto": "Tensions are rising between First Nation leaders and police in Thunder Bay, Ont., following several recent high-profile missing persons cases in the city. Indigenous leaders say the role of searchers from their communities is being disregarded, while the local police chief has warned against the spread of \"inaccurate or incomplete information.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.934,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "29e33cdc8309905a37bab168bad4534952f28a66",
-      "url": "https://www.cbc.ca/news/marketplace/dr-martin-jugenburg-dr-6ix-class-action-penalty-21-million-9.7216120?cmp=rss",
-      "title": "Plastic surgeon ordered to pay $22.5M for filming patients with cameras inside Toronto clinic",
-      "published_at": "2026-05-28T17:40:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03109adad0edcf87cfc466a8f71fd78192da0d08",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/grey-whale-death-toll-in-b-c-rises-to-8-in-2026-9.7216089?cmp=rss",
-      "title": "8 grey whales have been found dead in B.C. this year",
-      "published_at": "2026-05-28T17:03:52-04:00",
-      "section": "Canada",
-      "summary_auto": "Researchers believe the whales are starving to death as they migrate back north to their northern feeding grounds.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.896,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "89af1b47eab4d578402a1182664dce059302293b",
-      "url": "https://www.cbc.ca/news/world/un-sexual-violence-in-conflict-report-russia-israel-9.7216105?cmp=rss",
-      "title": "Israeli and Russian forces added to UN's annual blacklist documenting sexual violence in conflict",
-      "published_at": "2026-05-28T17:02:43-04:00",
-      "section": "World",
-      "summary_auto": "An annual United Nations report documenting sexual violence in conflicts worldwide has included Israeli forces for the first time since the review began more than 15 years ago for their treatment of Palestinian detainees. Israel denies the accusations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.937,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ca5ebd7e30556a41b54698c402b0ad896fe29b57",
-      "url": "https://www.cbc.ca/news/world/washington-state-chemical-tank-rupture-remains-found-9.7216081?cmp=rss",
-      "title": "Crews recover bodies of 6 workers in wake of Washington state chemical-tank rupture",
-      "published_at": "2026-05-28T16:44:54-04:00",
-      "section": "World",
-      "summary_auto": "Crews have recovered six of nine workers missing and presumed to be dead after a chemical tank rupture in Washington state, officials said Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9926428ab696d8318e29216347c207d5e98f6c4a",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-wildfire-barrhead-county-may-9.7216045?cmp=rss",
-      "title": "Central Alberta wildfire spurs evacuation order for part of County of Barrhead",
-      "published_at": "2026-05-28T15:18:50-04:00",
-      "section": "Canada",
-      "summary_auto": "A wildfire burning in County of Barrhead, northwest of Edmonton, triggered an evacuation order for some parts of the municipality on Thursday afternoon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f706ad2274cb957fd10945b587f011f100ab2f7",
-      "url": "https://www.cbc.ca/player/play/9.7216018?cmp=rss",
-      "title": "Lab meat: Will Canada get left behind?",
-      "published_at": "2026-05-28T15:07:38-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Cultivated meat — real protein grown directly from animal cells — is officially moving out of the lab and into commercial production. While U.S. producers are scaling up, Canada is on a much more cautious timeline. CBC News’ Johanna Wagstaffe looks into the science behind cellular agriculture and the regulatory framework that novel foods must navigate before hitting Canadian shelves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.155,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "c0ae7ceafe2cef05a0b92f4877e468d8d0292b1b",
-      "url": "https://www.cbc.ca/news/world/israel-military-gaza-control-netanyahu-9.7215899?cmp=rss",
-      "title": "Israeli PM says he's directed military to take more of Gaza under its control",
-      "published_at": "2026-05-28T15:00:44-04:00",
-      "section": "World",
-      "summary_auto": "Israeli Prime Minister Benjamin Netanyahu said on Thursday he had directed Israel's military to take more of Gaza, initially by seizing ‌70 per cent of the Palestinian territory, where the population is already penned into a tiny strip of land along the coast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.296,
         "subjectivity_hint": "low"
       }
     }
