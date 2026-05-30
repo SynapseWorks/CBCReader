@@ -1,14 +1,66 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-30T09:14:11.783188-04:00",
+  "generated_at": "2026-05-30T15:03:45.256433-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3bbb114faeb31b0e0cb08de5a981ea48908206e0",
+      "url": "https://www.cbc.ca/news/world/who-chief-ebola-outbreak-eastern-congo-tedros-adhanom-ghebreyesus-9.7218009?cmp=rss",
+      "title": "World Health Organization chief visits epicentre of Ebola outbreak in eastern Congo",
+      "published_at": "2026-05-30T09:58:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "WHO director general Tedros Adhanom Ghebreyesus stressed the importance of building community trust and ensuring safe burials to prevent the spread of the disease, and he urged countries to reconsider travel bans and border closures, saying they \"discourage transparency.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "02899ce530e92246b4cb67e38400f6c0fbbcf8c6",
+      "url": "https://www.cbc.ca/news/entertainment/trump-may-cancel-america-250-concerts-give-speech-himself-9.7217985?cmp=rss",
+      "title": "Trump may cancel 250th U.S. anniversary concerts after artists drop out, give speech instead",
+      "published_at": "2026-05-30T09:28:06-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump said on Saturday he's considering cancelling ‌a series of concerts commemorating the country's 250th anniversary after ​a number of artists ​dropped out, and he may give a speech instead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "359056b32746191baa32f956f9d71e59ace8e384",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/eric-thibault-trial-intimidation-lobster-dealer-9.7217870?cmp=rss",
+      "title": "‘You really want to go to war with us?’: Lobster dealer's intimidation trial hears evidence",
+      "published_at": "2026-05-30T06:09:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The trial of lobster dealer Eric David Thibault, 66, in provincial court in Digby, N.S., heard a short recording of a confrontation in November 2024 involving another dealer, Geoffrey Jobert.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a818d45a12c9133a9160f085e65f4edb7fb29771",
+      "url": "https://www.cbc.ca/news/canada/montreal/livestory/montreal-victoire-celebrate-walter-cup-championship-live-9.7217719?cmp=rss",
+      "title": "Montreal Victoire, fans celebrate Walter Cup championship by belting out Céline Dion tune",
+      "published_at": "2026-05-30T06:06:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.765,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "243fc9f77c4c988868dc19e306b49c4371c85b1c",
       "url": "https://www.cbc.ca/news/entertainment/kanye-west-travis-scott-italy-9.7217845?cmp=rss",
       "title": "Italy bans Kanye West, Travis Scott concerts over security concerns",
       "published_at": "2026-05-30T02:48:39-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Italy has banned two concerts involving American rappers Kanye West and Travis Scott that were due to take place in July in the northern city of Reggio Emilia, authorities said on Saturday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -56,6 +108,19 @@
       }
     },
     {
+      "id": "9a72ef1b4d2d5094db0e151e46a80d3937e06210",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/moncton-geese-eggs-9.7214611?cmp=rss",
+      "title": "Moncton's quest for success reining in Canada geese leads to goose eggs",
+      "published_at": "2026-05-30T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "After trying everything from remote-controlled hazing vehicles to strobing sleep-deprivation devices, a Moncton official says the city has finally landed on something that is working to control the population of Canada geese in Centennial Park.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "f806cd1f78eea2db1933f5be0acb6576bb3936df",
       "url": "https://www.cbc.ca/news/canada/tomato-prices-trump-9.7216440?cmp=rss",
       "title": "Did Trump take tomato? Here's what's behind the latest grocery price sticker shock",
@@ -69,15 +134,28 @@
       }
     },
     {
-      "id": "85b04ad520ef72ddc7a8249dee2c47ad5ba04b5e",
-      "url": "https://www.cbc.ca/news/politics/canadian-citizenship-ancestry-american-9.7216737?cmp=rss",
-      "title": "Thousands are now Canadians under new citizenship law. Half of them are Americans",
+      "id": "e49be79ae721fd75e6c6bf29e45948b46c56c465",
+      "url": "https://www.cbc.ca/news/canada/apprenticeships-skills-canada-competition-9.7214363?cmp=rss",
+      "title": "These young people see bright future in trades but say stigma among obstacles in their way",
       "published_at": "2026-05-30T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Thousands of people around the world have received Canadian citizenship certificates as a result of a change late last year to federal law. Half of them Americans.",
+      "summary_auto": "Amid rising apprenticeship registrations and new funding to recruit more tradespeople, there's been an uptick of interest in skilled trades. Yet the path isn't always straightforward. Experts buoyed by the current spotlight want sound decision-making to turn young Canadians' curiosity into careers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b91ce6ea3add47146062e75f6407dab70ee1974",
+      "url": "https://www.cbc.ca/news/world/cuba-us-enduring-spying-tensions-9.7211772?cmp=rss",
+      "title": "Spy vs. spy: A look at how some of Havana and Washington's most noteworthy agents operated",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. demands that Cuba close its Russian and Chinese spy outposts have come as the Trump administration exerts maximum pressure on the island with an energy blockade and widening sanctions. Here's a look at how some of the most noteworthy agents from both counties managed to operate under the radar — until they were caught.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
         "subjectivity_hint": "low"
       }
     },
@@ -95,16 +173,29 @@
       }
     },
     {
-      "id": "ba17fd655a45d940aa64aa5bb2adddf3b6fa9934",
-      "url": "https://www.cbc.ca/news/canada/china-canada-tourism-trump-trade-9.7216946?cmp=rss",
-      "title": "Chinese tourists are choosing Canada — again",
+      "id": "1df64366434d5df46a1321876d1861281e4f48c4",
+      "url": "https://www.cbc.ca/news/entertainment/007-first-light-james-bond-review-9.7216950?cmp=rss",
+      "title": "007 First Light is the first big Bond game in years — and the best since GoldenEye",
       "published_at": "2026-05-30T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The \"people-to-people\" ties between Canada and China are seeing a surge as geopolitical relations between the two countries warm up. As China lifts restrictions on group tours to Canada and Canada is increasing flights to China, tourism between the two countries is up.",
+      "summary_auto": "Fans still waiting for James Bond to enter the post-Daniel Craig era could do much worse than this new video game, which is arguably the best Bond game since 1997's GoldenEye.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
+        "sentiment": 0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "034835719439d491644b96437706bf5271d7f3b0",
+      "url": "https://www.cbc.ca/news/canada/first-person-teacher-fatigue-9.7213133?cmp=rss",
+      "title": "There’s tired — and then there’s teacher tired. That's me, but it's so worth it",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Cassandra Blain is an elementary school teacher. After years working with tweens, she's developed a deep appreciation for the strange, funny and exhausting realities of classroom life.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.635,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -118,6 +209,19 @@
         "article_type": "News",
         "sentiment": 0.813,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ba17fd655a45d940aa64aa5bb2adddf3b6fa9934",
+      "url": "https://www.cbc.ca/news/canada/china-canada-tourism-trump-trade-9.7216946?cmp=rss",
+      "title": "Chinese tourists are choosing Canada — again",
+      "published_at": "2026-05-30T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The \"people-to-people\" ties between Canada and China are seeing a surge as geopolitical relations between the two countries warm up. As China lifts restrictions on group tours to Canada and Canada is increasing flights to China, tourism between the two countries is up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -151,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/wildfires-tree-planting-canada-9.7215528?cmp=rss",
       "title": "Wildfires are destroying trees faster than we are replacing them",
       "published_at": "2026-05-30T00:00:00-04:00",
-      "section": "Technology & Science",
+      "section": "Canada",
       "summary_auto": "Canada is losing trees faster than nature can grow them or people can plant them. A northern Manitoba tree-planting program is trying to replace trees destroyed by wildfires, but the cancellation of the federal Two Billion Trees Program is making that more challenging.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,197 +264,15 @@
       }
     },
     {
-      "id": "96dfe8eb2ca4a88a5fa10d2150435073d94e2c5a",
-      "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-conference-finals-watch-parties-9.7216208?cmp=rss",
-      "title": "A look back on the Habs' playoff run — and how it energized the city",
-      "published_at": "2026-05-29T19:11:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Montreal Canadiens' Stanley Cup dream is over — for now. But here's a look at how this playoff run took Habs fever to a level unseen in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.392,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "04ebb06c8b07e35a434be7a511a167204db4add3",
-      "url": "https://www.cbc.ca/news/canada/montreal/habs-hurricanes-game-five-9.7216562?cmp=rss",
-      "title": "Canadiens eliminated from playoffs after blowout loss to Hurricanes",
-      "published_at": "2026-05-29T18:45:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Hurricanes won the best-of-seven series 4-1 with four straight victories. They will be heading to the Stanley Cup final for the first time since 2006.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a1f71ac37c969fc11ad1b0dbfa41cc2b14f1abeb",
-      "url": "https://www.cbc.ca/sports/soccer/worldcup/canada-soccer-world-cup-team-roster-chris-jones-may-29-9.7217118?cmp=rss",
-      "title": "Ailing Davies, Shaffelburg part of 26-man team as Canada's World Cup roster revealed",
-      "published_at": "2026-05-29T15:48:59-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada coach Jesse Marsch revealed his roster for the men's World Cup on Friday, with ailing 'Maritime Messi' Jacob Shaffelburg a surprise inclusion over Daniel Jebbison.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "68c3559f279aacd895192a38bd89b5647e045922",
-      "url": "https://www.cbc.ca/news/canada/montreal/permanent-peoples-tribunal-interim-statement-9.7217256?cmp=rss",
-      "title": "Canada continuing genocide against Indigenous Peoples, international tribunal finds",
-      "published_at": "2026-05-29T15:02:03-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An international tribunal has ruled that the Government of Canada’s current policies constitute an ongoing genocide against Indigenous Peoples, following a grueling week of hearings on intergenerational trauma.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bd2a403f169622b94cd897bfa7c822dacb6339ca",
-      "url": "https://www.cbc.ca/radio/asithappens/alina-fernandez-9.7217239?cmp=rss",
-      "title": "Fidel Castro's anti-communist daughter hopes the U.S. will bring regime change to Cuba",
-      "published_at": "2026-05-29T13:27:26-04:00",
-      "section": "Top Stories",
-      "summary_auto": "While thousands of Cubans have been marching in the streets to oppose the U.S. indictment of their former president Raúl Castro, a literal daughter of the revolution is singing a different tune.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b62eac509c7b776936e8208168b4fddb7c84c8e",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-gang-letter-extortions-police-9.7215960?cmp=rss",
-      "title": "Bishnoi gang sent letter to B.C. police force claiming 1,000 foot soldiers ready to carry out extortions",
-      "published_at": "2026-05-29T13:07:17-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1caf39b836b32ccca395dd3926732c510487a1e0",
-      "url": "https://www.cbc.ca/news/business/canada-post-q1-loss-2026-9.7216987?cmp=rss",
-      "title": "Canada Post records Q1 loss of $205 million amid major restructuring",
-      "published_at": "2026-05-29T12:26:31-04:00",
-      "section": "Business",
-      "summary_auto": "The loss comes amid an ongoing labour dispute with workers that the Crown corporation attributed in part to the downturn in its parcel business.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.762,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a5a4efbd4a57299e476cca2a247e67f121b1fe2b",
-      "url": "https://www.cbc.ca/news/world/trump-kennedy-center-judge-blocks-closure-9.7217145?cmp=rss",
-      "title": "Federal judge blocks closure of Kennedy Center, says Trump name must be dropped",
-      "published_at": "2026-05-29T12:20:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A U.S. federal judge ruled Friday that U.S. President Donald Trump's name was illegally added to the Kennedy Center and blocked the administration from closing the cultural and arts venue for major renovations — the latest legal setback for Trump's efforts to leave his personal mark on the landscape of the nation's capital.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "71c18fa45ba89f91b52e5037ac88da60297bdf5a",
-      "url": "https://www.cbc.ca/news/politics/carney-pope-leo-ai-encyclical-fears-war-vatican-9.7217138?cmp=rss",
-      "title": "Carney, Pope Leo discuss responsible AI after pontiff warns world to slow development",
-      "published_at": "2026-05-29T12:04:20-04:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney spoke with Pope Leo about artificial intelligence and the \"imperative that AI must serve humanity\" — a conversation that comes days after the Pope urged governments to slow down the development of AI systems.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e17e4c4ad76dad7b9363b86659b60697d571fb13",
-      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-models-brampton-plant-funding-dodge-chrysler-windsor-9.7216648?cmp=rss",
-      "title": "Stellantis is launching 11 new North American models. Could they be built in Canada?",
-      "published_at": "2026-05-29T11:48:40-04:00",
+      "id": "85b04ad520ef72ddc7a8249dee2c47ad5ba04b5e",
+      "url": "https://www.cbc.ca/news/politics/canadian-citizenship-ancestry-american-9.7216737?cmp=rss",
+      "title": "Thousands are now Canadians under new citizenship law. Half of them are Americans",
+      "published_at": "2026-05-30T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Global automaker Stellantis' recently revealed plans to launch 11 new vehicle models in North America \"produces opportunities\" for those models to be built in Ontario, the head of the company's Canadian division says.",
+      "summary_auto": "Thousands of people around the world have received Canadian citizenship certificates as a result of a change late last year to federal law. Half of them Americans.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "20a6951c25dfc7378b9c82e4e4b62cae03f32efa",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stephenville-explosive-disposed-9.7216528?cmp=rss",
-      "title": "Mayor questions why police brought suspected WW II-era explosive to Stephenville, N.L.",
-      "published_at": "2026-05-29T11:36:05-04:00",
-      "section": "Canada",
-      "summary_auto": "Stephenville Mayor Bob Byrnes says it's \"concerning\" the RCMP brought the explosive to a residential neighbourhood, sparking distress in the community. Military experts agree: it was the wrong decision.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5678f948738fcee16a3812f5698b2c27cd09645",
-      "url": "https://www.cbc.ca/news/politics/supreme-court-canada-jordan-framework-9.7216945?cmp=rss",
-      "title": "Supreme Court clarifies trial time limits to avoid having charges dropped over delays",
-      "published_at": "2026-05-29T10:57:02-04:00",
-      "section": "Canada",
-      "summary_auto": "The Supreme Court of Canada dismissed two challenges to the Jordan framework on Friday, ruling that the time limits put on criminal trials before charges be thrown out of court are justified under Section 11(b) of the Charter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb873df8c37c95d91d42638ed73491197bdfbcaf",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-major-incident-st-matthews-9.7216959?cmp=rss",
-      "title": "'Exchange of gunfire' after man took 3 hostages in Winnipeg home, police say",
-      "published_at": "2026-05-29T10:38:19-04:00",
-      "section": "Canada",
-      "summary_auto": "Winnipeg police say a man took three teens hostage inside a St. James home on Friday, leading to an 'exchange of gunfire' as officials tried to arrest him.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2baae450c923bd55a840b591fa770bccaf069505",
-      "url": "https://www.cbc.ca/news/world/us-minn-ice-agent-arrested-texas-9.7216735?cmp=rss",
-      "title": "ICE agent who faces charges in Minnesota shooting arrested in Texas",
-      "published_at": "2026-05-29T10:08:13-04:00",
-      "section": "World",
-      "summary_auto": "The top prosecutor from Minnesota's Hennepin County announced the arrest Friday of an ICE officer charged for shooting a Venezuela-born man in January at the height of a deadly immigration blitz launched by the Donald Trump administration.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1baa04d8704d50f7b0937a3395579082a1cb48d9",
-      "url": "https://www.cbc.ca/news/canada/calgary/banff-calgary-rain-flooding-weekend-9.7216840?cmp=rss",
-      "title": "Banff, Calgary urge caution along Bow River as water levels rise",
-      "published_at": "2026-05-29T09:53:39-04:00",
-      "section": "Canada",
-      "summary_auto": "It is set to be a wet weekend across southern Alberta, with warnings about high water levels in the Bow River and the potential for flooding in Banff National Park.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
