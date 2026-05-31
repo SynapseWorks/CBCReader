@@ -1,8 +1,86 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-05-31T09:23:26.728236-04:00",
+  "generated_at": "2026-05-31T15:06:34.577249-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "6d964568db77e455dcd3676ce4b557d3cf0b5dd6",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-cigarettes-drugstores-pharmacies-9.7214176?cmp=rss",
+      "title": "Why is B.C. the last province in Canada to allow cigarette sales in drugstores?",
+      "published_at": "2026-05-31T06:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The question prompted a testy exchange in the B.C. Legislature earlier this week, spurred on by the advocacy of Sidney, B.C., anti-smoking advocate Leo Levasseur.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5688285cb6badaa7f16d8aa233aef0e9477dd140",
+      "url": "https://www.cbc.ca/news/world/israel-captures-strategic-lebanon-castle-9.7218332?cmp=rss",
+      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in a quarter-century",
+      "published_at": "2026-05-31T05:45:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Israeli troops have captured a strategic mountain topped with a Crusader-built castle in southern Lebanon in the deepest incursion into the country in more than a quarter-century, the military said Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2710b854c5be12cb548f5a358301fbe0f8caf7ad",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-chinese-community-asian-heritage-month-9.7215352?cmp=rss",
+      "title": "Why Hamilton never had a Chinatown — and how its Chinese community survived",
+      "published_at": "2026-05-31T05:16:37-04:00",
+      "section": "Canada",
+      "summary_auto": "As Asian Heritage Month shines a spotlight on the stories of Asian Canadians, CBC Hamilton spoke to members of Hamilton's Chinese community, who say despite the city not having its own Chinatown, there is a sense of community that captures the essence of what Chinatowns are all about.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b9b58f124b888fa3b38b352b6a530e9ddbe1fa1c",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/claude-lemieux-brain-donated-boston-university-cte-center-9.7218330?cmp=rss",
+      "title": "Claude Lemieux's brain will be donated to Boston University's CTE Center, his family says",
+      "published_at": "2026-05-31T04:48:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Claude Lemieux's brain is being donated to the Boston University CTE Center to research the long-term effects of repetitive brain injuries, his family said Saturday in a statement released by daughter Claudia Lemieux Bishop.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "13eea7278a4b72e952ff37973ea3a5961ea09fc8",
+      "url": "https://www.cbc.ca/news/canada/calgary/forest-tent-caterpillar-moth-larvae-9.7218166?cmp=rss",
+      "title": "Forest tent caterpillars feast in Calgary as outbreak spikes population across Alberta",
+      "published_at": "2026-05-31T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Municipalities and experts are advising Albertans of soaring caterpillar populations this spring. Clusters of forest tent caterpillars are frequently seen on trees across North America, particularly during what entomologists refer to as cyclical outbreaks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fa3be0e871f08d104da6770642a90a5614c519a1",
+      "url": "https://www.cbc.ca/news/canada/manitoba/rural-health-care-training-medical-students-9.7217673?cmp=rss",
+      "title": "Future doctors get chance to train in rural Manitoba health facilities",
+      "published_at": "2026-05-31T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A doctor in a small Manitoba town says getting future physicians to choose rural medicine should start in their first year of medical school.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "50e2113f3b48e662dd59dc0db14053629f30c7d1",
       "url": "https://www.cbc.ca/news/world/washington-state-chemical-accident-9.7218298?cmp=rss",
@@ -22,10 +100,36 @@
       "title": "France detains hundreds of rioters after PSG wins Champions League",
       "published_at": "2026-05-31T01:11:46-04:00",
       "section": "Top Stories",
-      "summary_auto": "Fans began celebrating in Paris after the final whistle Saturday evening in Budapest, Hungary, where Paris Saint-Germain won by beating Arsenal on penalties in a dramatic final.",
+      "summary_auto": "French police detained 780 people involved in violent clashes in Paris and other French cities that erupted Saturday night after Paris Saint-Germain won the Champions League title.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.91,
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38ae946b5468b52f4249c7629314435434674ab0",
+      "url": "https://www.cbc.ca/news/canada/london/how-a-97-year-old-letter-found-in-a-london-ont-home-reached-its-author-s-family-9.7216039?cmp=rss",
+      "title": "How a 97-year-old letter found in a London, Ont., home reached its author's family",
+      "published_at": "2026-05-31T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A London, Ont., woman shares the journey of returning an old letter she found in her house through the help of social media and a local genealogist. CBC News spoke to her and the author's descendants to learn how this mystery was solved.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ff2ac16c5e5ca7dee74b86be8c9a6613a6ddefd",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/bill-reid-dog-salmon-lego-recreation-9.7216122?cmp=rss",
+      "title": "N.B. student recreates 'iconic' Bill Reid print with thousands of Legos",
+      "published_at": "2026-05-31T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Saint Andrews high school student has recreated a popular Haida art piece with 15,000 pieces of Lego with hopes of working for the Danish toy giant after graduation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
         "subjectivity_hint": "low"
       }
     },
@@ -82,16 +186,16 @@
       }
     },
     {
-      "id": "b5552c098a250956ac0264fc9cbd68e072774060",
-      "url": "https://www.cbc.ca/radio/sunday/maryam-shojaei-soccer-ban-iran-9.7216522?cmp=rss",
-      "title": "Her brother led Iran to 3 World Cups. Yet she — and 41 million other women — couldn't see him play",
+      "id": "0db1619965e6009e450837c3643f50753a2b4b7e",
+      "url": "https://www.cbc.ca/radio/unreserved/country-music-indigenous-communities-9.7215383?cmp=rss",
+      "title": "Love for country music runs deep in Indigenous communities. Here's why",
       "published_at": "2026-05-31T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "For years, Maryam Shojaei could only dream of watching her brother play soccer inside Tehran’s Azadi Stadium as he led the Iranian national team to repeated victories. But since she was one of the country's 41 million million, she was banned. Then, she fought back.",
+      "summary_auto": "The popularity of country music within Indigenous communities is longstanding because of its storied approach and connection to the past.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.741,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.807,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -108,16 +212,16 @@
       }
     },
     {
-      "id": "68e897018318483984ad22b3db446234ae7f6795",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/dennis-hull-obit-9.7218251?cmp=rss",
-      "title": "Dennis Hull, former NHL star who helped Canada win '72 Summit Series, dead at 81",
-      "published_at": "2026-05-30T18:00:33-04:00",
+      "id": "b5552c098a250956ac0264fc9cbd68e072774060",
+      "url": "https://www.cbc.ca/radio/sunday/maryam-shojaei-soccer-ban-iran-9.7216522?cmp=rss",
+      "title": "Her brother was a soccer superstar. She fought Iran's clerical law to watch him play",
+      "published_at": "2026-05-31T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Dennis Hull, the two-way NHL forward who starred alongside superstar older brother Bobby Hull with Chicago and helped Canada win the 1972 Summit Series, died Friday night, according to brother Garry. He was 81.",
+      "summary_auto": "For years, Maryam Shojaei could only dream of watching her brother play soccer inside Tehran’s Azadi Stadium as he led the Iranian national team to repeated victories. But since she was one of the country's 41 million million, she was banned. Then, she fought back.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
+        "sentiment": -0.691,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -143,58 +247,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.946,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "01edd8d2cccf4ea4d3295922a7b12f59b6ae0471",
-      "url": "https://www.cbc.ca/news/canada/calgary/horse-foal-shot-kananaskis-9.7218056?cmp=rss",
-      "title": "RCMP in Alberta investigating shooting of baby horse in Kananaskis",
-      "published_at": "2026-05-30T12:23:24-04:00",
-      "section": "Canada",
-      "summary_auto": "The shooting of a horse foal along a popular road in Kananaskis Country is being investigated by RCMP and condemned by Alberta wild horse advocates.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8de569823970c78105b2c4c23bf3014f41abe801",
-      "url": "https://www.cbc.ca/news/canada/ottawa/power-outages-strong-winds-9.7218020?cmp=rss",
-      "title": "Communities in eastern Ontario, western Quebec lose power following strong winds Friday night",
-      "published_at": "2026-05-30T11:24:45-04:00",
-      "section": "Canada",
-      "summary_auto": "Crews have been working throughout Saturday to restore power to communities across eastern Ontario and western Quebec following strong winds the night before.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ad13c25dfb09645b078b44f32f790a288cc7fa49",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/flood-warnings-bc-9.7217997?cmp=rss",
-      "title": "Flood warnings, evacuation alerts due to snowmelt in southeastern B.C.",
-      "published_at": "2026-05-30T11:05:15-04:00",
-      "section": "Canada",
-      "summary_auto": "Flood alerts remain in place for much of B.C. 's Southern Interior, with over 150 properties under evacuation alert as a result.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "02899ce530e92246b4cb67e38400f6c0fbbcf8c6",
-      "url": "https://www.cbc.ca/news/entertainment/trump-may-cancel-america-250-concerts-give-speech-himself-9.7217985?cmp=rss",
-      "title": "Trump may cancel 250th U.S. anniversary concerts after artists drop out, give speech instead",
-      "published_at": "2026-05-30T09:28:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "U.S. President Donald Trump said on Saturday he's considering cancelling ‌a series of concerts commemorating the country's 250th anniversary after ​a number of artists ​dropped out, and he may give a speech instead.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
         "subjectivity_hint": "medium"
       }
     }
