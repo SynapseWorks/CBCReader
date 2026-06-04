@@ -1,83 +1,434 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-03T15:43:28.928266-04:00",
+  "generated_at": "2026-06-04T08:40:16.650885-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "451353888bc1ce52a2486a4ccea2be0b2fc55aa3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mayor-ken-sim-no-sanctions-9.7222049?cmp=rss",
-      "title": "Vancouver council votes not to sanction mayor after investigation found he harassed councillor",
-      "published_at": "2026-06-03T11:29:31-04:00",
+      "id": "3ec0b289989a6f0aa77db9968e88efea21482341",
+      "url": "https://www.cbc.ca/news/entertainment/france-obit-satrapi-9.7223037?cmp=rss",
+      "title": "French-Iranian director and author Marjane Satrapi dead at 56",
+      "published_at": "2026-06-04T04:26:29-04:00",
       "section": "Top Stories",
-      "summary_auto": "All six of Ken Sim's ABC party members voted on Tuesday against acting on the findings of the Integrity Commissioner's investigation into Sim's actions against Councillor Sean Orr. The other four councillors, including Orr, voted for sanctioning Sim,",
+      "summary_auto": "Acclaimed Iranian-French cartoonist and filmmaker Marjane Satrapi, a prominent advocate for women's rights, has died at 56. French President Emmanuel Macron is among those paying tribute to the artist.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.202,
+        "sentiment": -0.765,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "8bce7502c221bbcf7a7f7e558fda90cb10d4872a",
-      "url": "https://www.cbc.ca/player/play/9.7222278?cmp=rss",
-      "title": "Smith says she asked Carney to 'work with me' to lower Alberta's separatist sentiment",
-      "published_at": "2026-06-03T11:08:28-04:00",
+      "id": "dad1260a37fd3bc37a96dfa8ddbd36b358e44706",
+      "url": "https://www.cbc.ca/news/world/everest-guide-dawa-sherpa-found-alive-9.7223012?cmp=rss",
+      "title": "Missing Everest guide found alive crawling to base camp after family had started funeral arrangements",
+      "published_at": "2026-06-04T02:44:27-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Sherpa guide was found crawling to base camp on Mount Everest a week after he went missing and was reunited with his family after they'd given up hope he would return.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dad1260a37fd3bc37a96dfa8ddbd36b358e44706",
+      "url": "https://www.cbc.ca/news/world/everest-guide-dawa-sherpa-found-alive-9.7223012?cmp=rss",
+      "title": "Missing Mount Everest guide Dawa Sherpa found alive after crawling back to base camp",
+      "published_at": "2026-06-04T02:44:27-04:00",
+      "section": "World",
+      "summary_auto": "A Sherpa guide was found crawling to base camp on Mount Everest a week after he went missing and was reunited with his family after they'd given up hope he would return.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6aae1fb450dc191ca0e6d34c9722a1b860dd12b1",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-ceasefire-challenges-9.7223002?cmp=rss",
+      "title": "Israel strikes Lebanon as U.S.-brokered ceasefire yet to take hold, according to Lebanese president",
+      "published_at": "2026-06-04T02:29:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Lebanon's president has said ‌a U.S.-brokered ceasefire that the country and Israel agreed to the previous evening could come into force within ​24 hours, according to local media, but militant group Hezbollah has not signed on as Israel's military vows to continue striking the south of Lebanon.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b0e6b8a6caa26ea0b105a52e35ebf270d6643b03",
+      "url": "https://www.cbc.ca/news/world/todd-blanche-us-attorney-general-nominee-9.7222887?cmp=rss",
+      "title": "Trump says he's nominating Todd Blanche to serve as U.S. attorney general",
+      "published_at": "2026-06-04T01:03:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. President Donald Trump said Wednesday that he will nominate  Todd Blanche to serve as attorney general, tapping his former personal lawyer who has aggressively pursued the Republican president's agenda while leading the Justice Department in an acting role",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0ad4162b23073ffb476f3922cb54afcd797eaab9",
+      "url": "https://www.cbc.ca/news/politics/carney-smith-mou-deal-climate-emissions-9.7222715?cmp=rss",
+      "title": "Will the Alberta-Canada carbon pricing deal work? A new analysis is skeptical",
+      "published_at": "2026-06-04T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A new analysis shows the Carney government's pipeline deal could lead Canada further from its climate targets, even with an agreement on carbon pricing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "95439eea521270693d88d451cae2c42b91086a79",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-removes-short-story-containing-n-word-from-online-high-school-course-9.7218782?cmp=rss",
+      "title": "N.S. removes short story containing N-word from online high school course",
+      "published_at": "2026-06-04T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nova Scotia’s Education Department has removed a short story from an online Grade 12 English course after a parent raised concerns and CBC News inquired about the text's repeated use of a racist term for Black people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c32fcc13a52a9ca08d2ba908e518482ab9534763",
+      "url": "https://www.cbc.ca/news/canada/manitoba/carter-hart-stanley-cup-off-ice-controversy-9.7222463?cmp=rss",
+      "title": "1 year after acquittal in Hockey Canada sexual assault trial, Carter Hart could win Stanley Cup",
+      "published_at": "2026-06-04T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As the Vegas Golden Knights advance in the Stanley Cup Final, at the centre of their championship run is Canadian goaltender Carter Hart — whose journey has been highly successful on ice and deeply controversial off it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dd8e74f1d7b46956edd7a74ed1391ce7e110e744",
+      "url": "https://www.cbc.ca/news/entertainment/youtuber-horror-hollywood-9.7222173?cmp=rss",
+      "title": "Hollywood's latest fixation? The young YouTubers behind box-office hits like Backrooms and Obsession",
+      "published_at": "2026-06-04T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Summer movie season is normally a battle of Hollywood heavyweights — but this year, two of the hottest tickets at the box office come from young YouTubers who brought their built-in audiences with them to the big screen. Industry watchers say their success could influence what projects get made in the future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "588975747e8c11ef0ddc6b218f0e6fc9ba207b15",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/ai-artificial-intelligence-deepfakes-violence-9.7222648?cmp=rss",
+      "title": "Her husband is accused in an AI deepfake investigation. She’s filing for divorce",
+      "published_at": "2026-06-04T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Alberta Premier Danielle Smith said she told Prime Minister Mark Carney 'we have a very serious problem' with her province's separatist movement during Carney's early days in office. 'There were legitimate issues in Alberta that caused people to lose hope in Canada,' Smith said. 'The prime minister and I together decided that we were going to work to address them.'",
+      "summary_auto": "The wife of a man accused in an AI deepfake investigation is speaking out to express support for the alleged victims, to call for stronger laws to deal with the kind of behaviour of which her husband stands accused, and to start a conversation about support available for people in her position, who are not formally victims of alleged crimes, but remain deeply affected.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.678,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "814ad8625a8375ffcc3a5a3cef70d44f1f80a240",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-nation-leaders-speak-about-pelican-narrows-shooting-and-violence-in-northern-sask-9.7221877?cmp=rss",
-      "title": "First Nation leaders speak about Pelican Narrows shooting, violence in northern Sask.",
-      "published_at": "2026-06-03T11:06:43-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Pelican Narrows declared a state of emergency in 2024 amid ongoing violence and has since enacted a series of measures aimed at reducing crime.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.936,
+        "sentiment": -0.204,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "bedc9821ce6aa59e2e7beea2f9a7b0add5cbb3b5",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/child-care-spaces-nova-scotia-daycare-waitlist-9.7222144?cmp=rss",
-      "title": "N.S. to create centralized daycare waitlist to streamline search for child care",
-      "published_at": "2026-06-03T11:01:02-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A long-awaited centralized daycare waitlist will make it easier for families to find suitable child care in Nova Scotia, officials with the Education Department said Wednesday. The province is in the early stages of building a new online portal set to launch in 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.883,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1b4caf74fe4da4d525af2f9ad8b1eff39a3c7dd",
-      "url": "https://www.cbc.ca/news/canada/edmonton/ochiese-first-nation-road-fatality-safety-clearwater-county-9.7221363?cmp=rss",
-      "title": "Chief says fatal crash highlights 20-year fight to pave road to First Nation in central Alberta",
-      "published_at": "2026-06-03T10:38:13-04:00",
+      "id": "8a490b0fb3f54c398831d3a64735828318454970",
+      "url": "https://www.cbc.ca/news/business/bakx-york-ai-data-centres-alberta-solomon-9.7222388?cmp=rss",
+      "title": "Supersized data centres are coming to Canada. One province is at the epicentre",
+      "published_at": "2026-06-04T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "People who regularly travel on O’Chiese Road are exposed to a higher level of risk for road injuries, according to a 2025 report commissioned by the O'Chiese First Nation.",
+      "summary_auto": "A new national AI strategy by the federal government this week comes at a time when the country is confronting a wave of new high-powered data centres, while public sentiment could be souring on the impacts of the new technology.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.881,
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f5c17a07084bb97779f29307b94248508b9a561d",
+      "url": "https://www.cbc.ca/news/business/higher-oil-gas-prices-industry-analysts-9.7222066?cmp=rss",
+      "title": "Higher oil and gas prices coming soon, industry and analysts warn",
+      "published_at": "2026-06-04T00:00:00-04:00",
+      "section": "Business",
+      "summary_auto": "Energy executives and analysts are warning that oil and gas prices will likely rise significantly as the Strait of Hormuz remains closed and stubborn demand burns through strategic reserves.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "e18b303f05e6def5e25a3fb1314e6c35fbbdb069",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-drivers-license-health-number-9.7222143?cmp=rss",
-      "title": "Alberta to eliminate paper health cards, introduce integrated driver licences July 2",
-      "published_at": "2026-06-03T09:55:46-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta will start to roll out new drivers licences starting July 2 that will include an individual’s health card number, finally eliminating the paper cards that have been the bane of Albertans for decades.",
+      "id": "bf01102d0edfdc1ae16eecdb60f798e44b5728f0",
+      "url": "https://www.cbc.ca/news/business/jet-fuel-shortage-still-taking-off-9.7222849?cmp=rss",
+      "title": "Jet fuel shortage? Don't worry about it, say major airlines",
+      "published_at": "2026-06-04T00:00:00-04:00",
+      "section": "Business",
+      "summary_auto": "More than six weeks after international warnings that Europe could run out of jet fuel, at least two major global carriers are saying it's safe to book a summer holiday to Europe because they don't expect the expensive commodity to run out during the busy travel season.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": 0.587,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b77b796cfc224cb00a2aa9f84f3ac8bf07062070",
+      "url": "https://www.cbc.ca/player/play/9.7222926?cmp=rss",
+      "title": "#TheMoment the biggest ever Canadian flag on a mountaintop was unfurled",
+      "published_at": "2026-06-03T18:04:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Grouse Mountain's Adam Rootman tells The National about the moment his team broke the world record for 'largest flag unfurled on a mountaintop' on the ski hill in North Vancouver, B.C., as neighbouring Vancouver prepares for the FIFA World Cup.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65d478fc4d36d4f754219220fa630feee543e56b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/forestry-crisis-trump-federal-report-9.7222792?cmp=rss",
+      "title": "Canada's forestry crisis should be blamed on homegrown problems, not Trump, federal report says",
+      "published_at": "2026-06-03T16:44:28-04:00",
+      "section": "Canada",
+      "summary_auto": "The report says obstacles include unstable access to affordable fibre, excessive regulations, persistent underinvestment in manufacturing, weak capacity to innovate, and inadequate domestic demand for wood-based products.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.951,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8e9886d4a415e88de960da737b9683dc1a98b798",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/dead-grey-whales-starving-9.7222760?cmp=rss",
+      "title": "Emaciated grey whales washing up on B.C. beaches 'canary in coal mine,' researcher warns",
+      "published_at": "2026-06-03T16:28:45-04:00",
+      "section": "Canada",
+      "summary_auto": "Two more grey whales have washed up in B.C., with researchers and experts both warning the province is on pace for a record breaking year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.275,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "388a09938a8d0dfa7321753e159525071cc6a6da",
+      "url": "https://www.cbc.ca/news/canada/manitoba/starbuck-tornado-warning-9.7222826?cmp=rss",
+      "title": "Tornado warnings again pop up around southern Manitoba",
+      "published_at": "2026-06-03T16:21:54-04:00",
+      "section": "Canada",
+      "summary_auto": "People in southern Manitoba were subjected to another evening of tornado warnings on Wednesday, one day after three twisters touched down in the region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "32b27d6005c477764957eee0e19ca5a81c377044",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-spinal-injury-charity-raffle-scrapped-9.7222748?cmp=rss",
+      "title": "B.C. charity scraps World Cup ticket raffle after letter from FIFA lawyers",
+      "published_at": "2026-06-03T15:34:47-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A B.C. non-profit that supports people with spinal injuries was forced to cancel a raffle for a pair of World Cup tickets after receiving a nine-page letter from FIFA's lawyers, accusing it of trademark infringement and ticket rule violations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f2b94a1c4452b17518ce69e59fb26a1d33d5229",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/another-rockfall-at-whistler-peak-9.7222577?cmp=rss",
+      "title": "‘I heard it before I saw it’: Witness watches rockfall at Whistler Peak",
+      "published_at": "2026-06-03T15:23:20-04:00",
+      "section": "Canada",
+      "summary_auto": "The area where the rockfall occurred, at Whistler Peak on Whistler Blackcomb, was closed and no one was injured.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4fa078a2b75e40790b88a4d6f66a77b8dcd3c12f",
+      "url": "https://www.cbc.ca/news/canada/gst-rebate-top-up-payments-coming-9.7222566?cmp=rss",
+      "title": "Government to begin paying out one-time GST credit top-up for eligible Canadians",
+      "published_at": "2026-06-03T15:15:51-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Liberal government's one-time GST rebate top-up, announced earlier this year, is set to begin landing in some Canadians' banks accounts starting on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f7d9d81722d9ea24204c2e3e801e5da418d9afc2",
+      "url": "https://www.cbc.ca/news/world/melia-hotel-chain-cuba-9.7222609?cmp=rss",
+      "title": "Cuba's battered tourism sector takes another hit as Spain's Meliá hotel chain shutters some locations",
+      "published_at": "2026-06-03T15:15:00-04:00",
+      "section": "World",
+      "summary_auto": "Spanish hotel chain Meliá has joined a growing list of companies with a long-standing presence in Cuba that are withdrawing or limiting their operations on the island after the U.S. announced new sanctions while upholding an oil embargo.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2d72d4ba9cf0a5bba924d55a81bcdc004b718ff3",
+      "url": "https://www.cbc.ca/radio/asithappens/brooklyn-rivera-9.7222336?cmp=rss",
+      "title": "A renowned Indigenous activist has died in Nicaraguan detention. His loved ones want answers",
+      "published_at": "2026-06-03T13:29:53-04:00",
+      "section": "World",
+      "summary_auto": "For three years after Nicaraguan Indigenous leader Brooklyn Rivera was arrested, his friends and family were kept in the dark about his whereabouts and wellbeing. Then, on Sunday, they learned he has died.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df1671b257b19fdb45458805b1030b1986194f74",
+      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-fleece-sold-out-9.7222446?cmp=rss",
+      "title": "Want the Heated Rivalry Team Canada fleece? Well, it's already sold out",
+      "published_at": "2026-06-03T13:19:15-04:00",
+      "section": "Canada",
+      "summary_auto": "Miss out snagging the Shane Hollander Team Canada fleece? You aren't alone. Within 10 minutes of its Tuesday 12 p.m. launch, the hotly anticipated fleece completely sold out, according to Canadian apparel brand Province of Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f5426e228e33b4ccef5c3dd5ce0846d5bead162",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/senior-death-many-saw-coming-9.7221571?cmp=rss",
+      "title": "A woman died after wandering from home 12 times. N.B. seniors advocate says many 'saw it coming'",
+      "published_at": "2026-06-03T12:45:02-04:00",
+      "section": "Canada",
+      "summary_auto": "A woman with worsening dementia was left in a home for a year after Social Development found it would not meet her safety needs, New Brunswick's seniors advocate says.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.837,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "75e262793f2fd2a9867b4db731d5b73e2369acc1",
+      "url": "https://www.cbc.ca/radio/quirks/diet-immune-system-9.7221119?cmp=rss",
+      "title": "Fighting a cold? A meal gives your immune cells an immediate boost",
+      "published_at": "2026-06-03T12:33:24-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "Experiments in humans and mice suggest that certain white blood cells, known as T-cells, may respond to infections more effectively after a meal. The research calls into question the notion of \"starve a fever, feed a cold.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.585,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a1167fcd9c1b6d3bea23d4393adda3803687f5fb",
+      "url": "https://www.cbc.ca/news/canada/edmonton/albertans-artificial-intelligence-financial-advice-9.7222319?cmp=rss",
+      "title": "Albertans most likely in Canada to get financial advice from AI, social media, poll shows",
+      "published_at": "2026-06-03T12:30:51-04:00",
+      "section": "Canada",
+      "summary_auto": "Survey suggests 21 per cent of surveyed respondents in Alberta used models like ChatGPT, Gemini, Claude to get financial guidance. Experts say online sources are a good learning tool but warn they can have risks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.141,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "69cafeba9b9b51111685ed40e473edf02a4e9f36",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-bestselling-novel-netflix-9.7222347?cmp=rss",
+      "title": "Spicy romance novel adaptation to be filmed in P.E.I. with $5M from province",
+      "published_at": "2026-06-03T12:21:32-04:00",
+      "section": "Canada",
+      "summary_auto": "The largest production ever to come to Prince Edward Island will begin this summer.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6d756279612a5b5ccfbd6f5846e7211a19879bfc",
+      "url": "https://www.cbc.ca/news/world/britain-murder-henry-nowak-debate-race-9.7222123?cmp=rss",
+      "title": "How Britain’s far right hijacked the murder of Henry Nowak",
+      "published_at": "2026-06-03T12:18:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The brutal murder of 18-year-old student Henry Nowak in southern England has ignited another volatile debate in the U.K. over race and what’s been described as “white grievance.” Despite pleas from Nowak's grieving family to prevent his death from sparking racial division, prominent far-right and populist figures have tried to exploit the tragedy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.978,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e7ee68a563c116c9af50e4107c1f8ca0108c600",
+      "url": "https://www.cbc.ca/news/politics/mary-simon-departure-9.7222362?cmp=rss",
+      "title": "Mary Simon says serving as Governor General was the 'honour of a lifetime'",
+      "published_at": "2026-06-03T12:10:53-04:00",
+      "section": "Canada",
+      "summary_auto": "It was the \"honour of a lifetime\" to serve as the representative of the Crown in Canada for the past five years, outgoing Gov. Gen. Mary Simon said in a speech to parliamentarians on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8212e4f9170b22216d6f84ac566d5ca9ee59c956",
+      "url": "https://www.cbc.ca/news/canada/manitoba/unpaid-wages-migrant-workers-labour-board-9.7222220?cmp=rss",
+      "title": "Owners ordered to pay $100K in wages say they didn't know foreign workers were employed at their hotel",
+      "published_at": "2026-06-03T12:03:14-04:00",
+      "section": "Canada",
+      "summary_auto": "The owners of a hotel chain who are appealing orders to pay more than $100,000 in owed wages to three foreign workers say they weren't even aware two of the workers were employed at one of the company's Manitoba hotels.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24a83640737ce8c6b6117e3125fd60b3b58338bc",
+      "url": "https://www.cbc.ca/news/canada/calgary/okotoks-child-sexual-exploitation-9.7222357?cmp=rss",
+      "title": "Alberta man charged after more than 500,000 child sexual exploitation photos, videos seized",
+      "published_at": "2026-06-03T12:02:56-04:00",
+      "section": "Canada",
+      "summary_auto": "A man from Okotoks, Alta., faces criminal charges after police say they found more than half a million child sexual exploitation photos and videos in his possession. It's one of the largest collections the Alberta child exploitation unit has ever encountered.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a01b3a73bc4a3b19d8759804b7a143447af5784",
+      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-roundup-expansion-signings-2026-renata-fast-9.7222337?cmp=rss",
+      "title": "Alternate captain Renata Fast re-signs with Toronto Sceptres",
+      "published_at": "2026-06-03T11:50:58-04:00",
+      "section": "Canada",
+      "summary_auto": "PWHL teams could each protect three players from signing with expansion teams. New teams in Hamilton, Detroit, Las Vegas and San Jose will debut next season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3419539bcd07c779a7132a4889146217b55bec8d",
+      "url": "https://www.cbc.ca/news/politics/governor-general-designate-louise-arbour-meets-king-charles-9.7222241?cmp=rss",
+      "title": "Governor General-designate Louise Arbour meets King Charles ahead of swearing-in",
+      "published_at": "2026-06-03T10:55:04-04:00",
+      "section": "Canada",
+      "summary_auto": "King Charles received Louise Arbour at Buckingham Palace in London on Wednesday, before the former justice of the Supreme Court of Canada is sworn in as Governor General next week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
         "subjectivity_hint": "low"
       }
     },
@@ -86,7 +437,7 @@
       "url": "https://www.cbc.ca/news/entertainment/musiqueplus-relaunch-tiktok-9.7221972?cmp=rss",
       "title": "Nostalgia alert: MusiquePlus is relaunching on TikTok",
       "published_at": "2026-06-03T09:45:25-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Long before your feed told you what to listen to, Quebec culture had a different tastemaker: MusiquePlus. Well, music fans can rejoice now that the TV channel that helped launch the careers of many Quebec stars is being revived as a new kind of influencer on TikTok.",
       "bias_heuristic": {
         "article_type": "News",
@@ -99,7 +450,7 @@
       "url": "https://www.cbc.ca/news/world/italy-migrant-killings-9.7222037?cmp=rss",
       "title": "4 migrant farm workers in Italy burned to death in car, according to survivor, police",
       "published_at": "2026-06-03T09:30:46-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Four migrants working as fruit pickers in slave-like conditions in southern Italy have been burned to death. The murder case is prompting fresh national soul searching over the exploitation of farm workers.",
       "bias_heuristic": {
         "article_type": "News",
@@ -108,16 +459,16 @@
       }
     },
     {
-      "id": "8a36e949dc60378b04c559f86910237576985a97",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/marine-atlantic-is-a-lifeline-for-these-communities-how-could-a-strike-affect-them-9.7222042?cmp=rss",
-      "title": "Marine Atlantic is a ‘lifeline’ for these N.L. communities. How would a strike affect them?",
-      "published_at": "2026-06-03T09:20:36-04:00",
+      "id": "c7ebbfb64bdbc9d1c4922a7890c9a583bd891ddc",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/canada-soccer-world-cup-alphonso-davies-training-9.7222106?cmp=rss",
+      "title": "'Anything is possible': Alphonso Davies refuses to rule himself out of Canada's World Cup opener",
+      "published_at": "2026-06-03T09:25:49-04:00",
       "section": "Canada",
-      "summary_auto": "Newfoundland’s Port of Argentia is a tourism hub with booming Marine Atlantic ferry bookings but a looming strike means the terminal could soon go quiet — and that has people worried.",
+      "summary_auto": "Canada captain Alphonso Davies trained on his own Wednesday as the men's national team continued preparations for the FIFA World Cup.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.676,
-        "subjectivity_hint": "medium"
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -138,350 +489,12 @@
       "url": "https://www.cbc.ca/news/entertainment/south-park-trump-new-season-9.7221941?cmp=rss",
       "title": "South Park creators remain defiant, promise more Trump takedowns in new season",
       "published_at": "2026-06-03T09:02:35-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "South Park creators Matt Stone and Trey Parker say they aren’t backing down from satirizing U.S. President Trump in the show’s upcoming season — even if, as they say, the latest group trying to censor them now “has a military.”",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.361,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b4ca2ba94001c5d7b978ac6e1e15e74e5d2cf9a",
-      "url": "https://www.cbc.ca/sports/olympics/summer/u-sports-to-introduce-women-s-flag-football-as-pilot-sport-9.7221886?cmp=rss",
-      "title": "U Sports to introduce women's flag football as a pilot sport",
-      "published_at": "2026-06-03T07:30:30-04:00",
-      "section": "Canada",
-      "summary_auto": "Canadian university sport will introduce women's flag football as a pilot sport. U Sports and Football Canada will collaborate on flag\nfootball's introduction and execution for the 2027-28 season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7010a2f734ce471368a5fe830e4b75871a91a44f",
-      "url": "https://www.cbc.ca/news/politics/government-crtc-review-online-streaming-9.7221787?cmp=rss",
-      "title": "Ottawa says CRTC's new cash requirements from streamers risk price hikes for Canadians",
-      "published_at": "2026-06-03T07:00:59-04:00",
-      "section": "Business",
-      "summary_auto": "The federal government will direct its broadcast and telecommunications regulator to revisit a recent decision to triple the funds that streaming services like Netflix must contribute to Canadian content.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "cc36c5618c1c8b549064c669ed06782dcf1eebaa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ferries-fuel-surcharge-mid-june-9.7221466?cmp=rss",
-      "title": "B.C. Ferries adding 5% fuel surcharge starting in mid-June",
-      "published_at": "2026-06-03T07:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "B.C. Ferries says the elevated price of fuel, driven by the U.S.-Israel war on Iran and the closure of the Strait of Hormuz, has meant it has had to absorb rising costs in recent months.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "447767b1b745c9f498c05a88386003ae45d80d9a",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-forced-labour-9.7221762?cmp=rss",
-      "title": "Carney says latest Trump tariffs 'not a surprise' after U.S. promises new 10% levy on Canada",
-      "published_at": "2026-06-03T06:42:38-04:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney says he isn't surprised by the Trump administration's plan to slap import levies on goods allegedly made with forced labour.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.314,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7308ebff2507c0ce8305fa400e825ac65c1c0595",
-      "url": "https://www.cbc.ca/sports/tennis/french-open-june-3-sabalenka-auger-aliassime-9.7221577?cmp=rss",
-      "title": "Canada’s Felix Auger-Aliassime eliminated from French Open",
-      "published_at": "2026-06-03T06:26:06-04:00",
-      "section": "Canada",
-      "summary_auto": "Felix Auger-Aliassime’s run at the French Open ended on Wednesday in Paris after dropping a 6-4, 4-6, 4-6, 4-6 quarterfinal match to Italian Flavio Cobolli.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6331c9a4ba914f905cdeed0e23153fd15ed713f7",
-      "url": "https://www.cbc.ca/news/entertainment/obit-singer-peabo-bryson-9.7221524?cmp=rss",
-      "title": "Céline Dion pays tribute to duet partner Peabo Bryson after R&B singer's death at 75",
-      "published_at": "2026-06-03T04:06:15-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Grammy-winning R&B singer Peabo Bryson, the voice behind Disney film duets Beauty and the Beast with Céline Dion and Aladdin's A Whole New World with Regina Belle, has died. He was 75.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d0d0370c51ca1e45376f004c2aabcf03f002187",
-      "url": "https://www.cbc.ca/player/play/9.7221552?cmp=rss",
-      "title": "Protests erupt in U.K. after video released showing arrest of dying teen",
-      "published_at": "2026-06-03T04:01:13-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Hundreds gathered in Southampton, U.K., on Tuesday to protest over the death of 18-year-old student Henry Nowak. Police handcuffed Nowak after an incident where he was stabbed. His killer falsely accused him of a racist attack.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.977,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8fdabbcb250c3001f50eb742bb0d1fc9e1abc070",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/community-seeking-answers-voyeur-9.7220518?cmp=rss",
-      "title": "Public left wondering if they could be among 652 victims of Saanich, B.C., voyeur",
-      "published_at": "2026-06-03T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The community of Saanich, B.C., has been told a man spent six years secretly filming hundreds of women and girls in public spaces and the private of their homes — but the vast majority of victims may still not know it happened to them.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "53bfbb07aaec418aff1aa0cfc8dbea9619ad86af",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-hospital-er-triage-liaison-doctors-review-deaths-9.7221063?cmp=rss",
-      "title": "Still no triage liaison physicians in Alberta ERs, 4 months after province's pledge",
-      "published_at": "2026-06-03T04:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "More than four months after pledging that emergency physicians would soon begin roles monitoring waiting room patients, the Alberta government’s promised triage liaison physicians aren’t yet on the job.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f75e41671fe138cb8b5dfd76cf26bb9b5aa93eda",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-corner-stores-development-struggle-9.7220749?cmp=rss",
-      "title": "Are corner stores a thing of the past for Calgary — or is a renaissance around the corner?",
-      "published_at": "2026-06-03T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "For kids, they represent independence — the freedom of a first dollar spent. For adults, a fail-safe for the forgetful, where last-minute ingredients save a recipe. It feels like these shops are always there when needed, but the reality is that corner stores are disappearing from major cities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "13c75318d50ff8913f066031e095af3d0513901f",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/cornwall-alternative-school-graduation-grade-12-9.7220545?cmp=rss",
-      "title": "Regina alternative school graduates 1st class of Grade 12 students in its 53-year history",
-      "published_at": "2026-06-03T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "When Asia Mills-Daniels receives her Grade 12 diploma this month she will be the first member of her family to graduate high school and a member of her high school’s first ever Grade 12 graduating class.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5b755e6af52e3402a3d78900d8129fbfbf4d13da",
-      "url": "https://www.cbc.ca/news/canada/windsor/zellers-relaunch-ontario-9.7221519?cmp=rss",
-      "title": "Zellers plays with toys, food as retailer's relaunch reaches Ontario",
-      "published_at": "2026-06-03T02:44:28-04:00",
-      "section": "Canada",
-      "summary_auto": "A new discount storefront is set to open near Toronto's Yorkdale Mall on June 18th, and another at Windsor's Tecumseh Mall in July.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "309891902bc384b7e777d7023dac1bc9e0796e31",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/iwk-health-centre-radiologists-diagnostic-imaging-9.7219463?cmp=rss",
-      "title": "IWK leans on Nova Scotia Health for radiology help amid shortage",
-      "published_at": "2026-06-03T01:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "The IWK Health Centre is leaning on colleagues at Nova Scotia Health as the Halifax hospital contends with an ongoing shortage of radiologists and works through the result of a workplace assessment in an effort to “rebuild” its diagnostic imaging department.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "558e4519aef111a24a44e7e4a82e3eb5fee7c5de",
-      "url": "https://www.cbc.ca/news/world/us-israel-iran-war-day-96-9.7221492?cmp=rss",
-      "title": "Iranian drone attack on Kuwait's airport kills 1, wounds dozens",
-      "published_at": "2026-06-03T00:56:03-04:00",
-      "section": "World",
-      "summary_auto": "Gulf hostilities flared again Wednesday as Iranian attacks on Kuwait damaged its airport and injured dozens while the U.S. military carried out strikes near the Strait of Hormuz, with ‌diplomacy to halt the war showing little sign of progress.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.969,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6a205e681fc007ba28ab5f66c022875208d0189",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/sheshatshiu-hart-9.7220268?cmp=rss",
-      "title": "Sheshatshiu Innu First Nation Chief 'not giving up' on Labrador community mourning death of young woman",
-      "published_at": "2026-06-03T00:30:00-04:00",
-      "section": "Canada",
-      "summary_auto": "As a central Labrador community mourns the death of a young woman, Sheshatshiu Innu First Nation Chief Eugene Hart's message is clear: he’ll walk with the people of the town every step of the way to enact change.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "347a04365500d569dacd056fba0e4b6aaccbfe2c",
-      "url": "https://www.cbc.ca/news/world/ai-agents-tech-company-layoffs-9.7221069?cmp=rss",
-      "title": "AI agents lag far behind human workers. Why are tech companies laying off the humans?",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "AI-related layoffs are in full swing as tech companies invest in artificial intelligence agents they say will take over tasks traditionally done by humans. But a major AI infrastructure and software company says the agents fail to produce professionally acceptable work more than 19 times out of 20, and some analysts say the technology is overhyped and being using as an excuse for laying off workers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9627dde31652010489a0ea33a2949684bb2a981e",
-      "url": "https://www.cbc.ca/news/canada/toronto/e-learning-requirements-not-met-ontario-9.7219729?cmp=rss",
-      "title": "Most of Ontario's 2024 high school grads didn't complete e-learning requirement, data shows",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The vast majority of Ontario’s 2023-2024 graduating class did not complete the Ford government’s mandatory e-learning requirements, data from the province's Ministry of Education reveals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a6a148d52c46e304e77002ef3c93ae742afdcf36",
-      "url": "https://www.cbc.ca/news/business/technical-recession-gdp-explainer-9.7220764?cmp=rss",
-      "title": "What Canadians need to know about a 'technical recession'",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "While the term technical recession may have some usefulness as a political tool, does it actually have economic significance? CBC News looked into the definition of a technical recession, how it differs from a regular recession and whether Canadians need to be concerned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1b6409597f523ecd007b493dfc59a6943f1c25ab",
-      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-belugas-rescue-spain-9.7220888?cmp=rss",
-      "title": "Canada endorses plan to send remaining Marineland belugas to Spain, across U.S.",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Department of Fisheries and Oceans Canada has endorsed a rescue plan that would see all of Marineland's remaining beluga whales split up and sent to Oceanogràfic València in Spain or one of four U.S. locations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "03a90941810c2f54935a71f2aeba70d7bf7f8b38",
-      "url": "https://www.cbc.ca/news/canada/world-cup-norad-no-fly-zones-9.7220813?cmp=rss",
-      "title": "Above World Cup venues, fighter jets will be on patrol",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Fighter jets will be on patrol over Vancouver and Toronto over the next several weeks, protecting World Cup match venues and fan festivals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f0751e50e1d5ecb4aecce74a25bffc3680bc396",
-      "url": "https://www.cbc.ca/news/world/erin-brockovich-ai-data-centres-website-9.7221109?cmp=rss",
-      "title": "She famously battled a gas company and won millions in settlements. Now, Erin Brockovich is taking on AI",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Erin Brockovich, the renowned consumer advocate and environmental activist who inspired an Oscar-winning movie staring Julia Roberts, is now setting her sights on AI data centres with a new website that maps their growth across the U.S. and asks residents to report their concerns.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f83e2b412ea1392bc76fa81ce309b3b6a2f739e4",
-      "url": "https://www.cbc.ca/news/canada/windsor/sail-drones-us-coast-guard-9.7220369?cmp=rss",
-      "title": "U.S. Coast Guard launches new sail drones on Lake Erie for first time",
-      "published_at": "2026-06-03T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Two bright orange autonomous sail drones are floating in Lake Erie right now, part of a new U.S. Coast Guard program.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "209132fd43dbd6ee8e02e3945933f7a404228dfd",
-      "url": "https://www.cbc.ca/news/world/scott-pelley-fired-60-minutes-9.7221435?cmp=rss",
-      "title": "CBS News fires veteran 60 Minutes correspondent Scott Pelley after clash with new leadership",
-      "published_at": "2026-06-02T18:29:59-04:00",
-      "section": "World",
-      "summary_auto": "CBS News has confirmed it fired veteran 60 Minutes correspondent Scott Pelley in the wake of a publicly disclosed clash with new executive producer Nick Bilton.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2b0265169dd05419ce0e8393bfb73aca8726ede2",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/west-moberly-first-nations-opposed-to-alberta-pipeline-9.7220910?cmp=rss",
-      "title": "First Nation in B.C. opposed to potential Alberta oil pipeline routes, says chief",
-      "published_at": "2026-06-02T17:46:17-04:00",
-      "section": "Canada",
-      "summary_auto": "West Moberly First Nations Chief Roland Willson says his community is opposed to the three oil pipeline routes being considered by the Alberta government that would run through northern B.C., with the routes recently  mapped in documents obtained  by CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "600077538dba527434a012de3c247e53baf9850b",
-      "url": "https://www.cbc.ca/player/play/9.7221382?cmp=rss",
-      "title": "2 missing miners face ‘horrendous’ conditions, says Laos cave rescuer | Hanomansing Tonight",
-      "published_at": "2026-06-02T16:31:29-04:00",
-      "section": "World",
-      "summary_auto": "The search continues for two miners who remain trapped in a flooded cave in Laos. Rescuer Josh Richards talks about the tight, claustrophobic conditions they are dealing with.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "164194480d56745c3e752bdd83910c56d595447f",
-      "url": "https://www.cbc.ca/news/world/trump-lawsuit-settlement-irs-weaponization-fund-9.7221324?cmp=rss",
-      "title": "Trump administration is scrapping $1.8B US fund meant to compensate president's allies",
-      "published_at": "2026-06-02T15:57:45-04:00",
-      "section": "World",
-      "summary_auto": "The Trump administration is scrapping plans to create a $1.8 billion US fund meant to compensate allies of the Republican president, the Justice Department's top official said Tuesday in retreating from a program that faced setbacks in the courts and a fierce political backlash that had threatened to stall key elements of the White House agenda",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "medium"
       }
     }
   ]
