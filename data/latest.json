@@ -1,18 +1,278 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-05T08:32:11.697393-04:00",
+  "generated_at": "2026-06-05T15:45:46.893019-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "cce45b2c151eb405f92b2f6ecb1bbd70bcef1339",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/cliff-fletcher-obit-june-5-9.7225339?cmp=rss",
+      "title": "Former Flames, Leafs GM Cliff Fletcher dead at 90",
+      "published_at": "2026-06-05T11:26:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Former NHL general manager Cliff Fletcher, who led\nthe Calgary Flames to the 1989 Stanley Cup title and helped turn the\nToronto Maple Leafs into a contender in the 1990s, has died at 90.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df975f99256cfe82c1674cff8e61340c94ebed8f",
+      "url": "https://www.cbc.ca/sports/womens-sports-are-lucrative-but-when-will-pay-catch-up-with-performance-9.7225213?cmp=rss",
+      "title": "Women’s sports are lucrative, but when will pay catch up with performance?",
+      "published_at": "2026-06-05T11:07:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It’s no longer news that women’s sports is becoming an increasingly lucrative industry. There is more investment, better coverage, and bigger audiences than ever before. As a result, players' unions across the board are pushing for higher pay, as well as improved benefits and working conditions. But when will their paycheques catch up with their skill?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f4d322934b34c11207c5a8bd0b953d2f3ba16f82",
+      "url": "https://www.cbc.ca/news/business/sunwing-cuba-indefinitely-cancelled-9.7225255?cmp=rss",
+      "title": "Sunwing Vacations indefinitely cancels all operations to Cuba",
+      "published_at": "2026-06-05T10:55:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The move comes after Sunwing Vacations Group first cancelled Cuba operations from June to October, saying service would resume in the fall.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3a382acd5577277c609a408b9e9f83be13bac239",
+      "url": "https://www.cbc.ca/news/entertainment/big-brother-canada-revival-9.7224978?cmp=rss",
+      "title": "3rd time's a charm? Big Brother Canada set for TV return",
+      "published_at": "2026-06-05T10:42:37-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Get ready for a new round of evictions: Big Brother Canada is back for a third time, with a new run slated to debut on CTV and Crave.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "15d3cef3f224eb9182100f04ae092815b461365d",
+      "url": "https://www.cbc.ca/news/entertainment/top-gun-maverick-actor-james-handy-killed-in-stabbing-girlfriend-s-son-arrested-l-a-police-say-9.7225112?cmp=rss",
+      "title": "Top Gun: Maverick actor James Handy killed in stabbing, girlfriend's son arrested, L.A. police say",
+      "published_at": "2026-06-05T10:34:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "American actor James Handy, known for supporting roles in blockbusters Jumanji and Top Gun: Maverick, has died in a stabbing, and his girlfriend's son has been arrested, Los Angeles police say.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.927,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f792c6f07f9856134d77ef314fccb59cd4efde3",
+      "url": "https://www.cbc.ca/news/canada/toronto/osap-growth-mostly-from-career-college-students-9.7225149?cmp=rss",
+      "title": "Ontario spent $465M more on OSAP last year. 95% of that went to private career college students, docs show",
+      "published_at": "2026-06-05T10:26:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "When Ontario Premier Doug Ford's government drastically cut student assistance grants earlier this year, it cited \"unsustainable\" costs, but new figures show nearly all of the recent growth was among career college students. Opposition critics say that points to a problem of the government's own making, and the solution did not have to penalize students at universities and publicly funded colleges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dec837cd9ca177f3288581cd3357cecc9a64c1dc",
+      "url": "https://www.cbc.ca/news/canada/toronto/durham-police-criminal-tourism-investigation-9.7224954?cmp=rss",
+      "title": "Durham police say 'criminal tourism' widespread in GTA as 46 arrested in investigation",
+      "published_at": "2026-06-05T08:41:10-04:00",
+      "section": "Canada",
+      "summary_auto": "Durham police said Friday that a co-ordinated investigation has linked over 200 incidents and $2.6 million in financial losses to \"criminal tourism,\" where suspects legally visit Canada with the intent to commit profit-driven crimes before leaving the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c1e7c0cda0cd5ebd3a4cf9578285bbd3c27d5b00",
+      "url": "https://www.cbc.ca/news/business/canada-no-recession-cd-howe-call-9.7224560?cmp=rss",
+      "title": "Too soon to declare a recession, says Canada's unofficial authority on calling them",
+      "published_at": "2026-06-05T08:31:46-04:00",
+      "section": "Business",
+      "summary_auto": "The C.D. Howe Institute's Business Cycle Council, which is traditionally viewed as the arbiter for calling a recession in Canada, says it does not accept two consecutive quarters of GDP contraction as the definition of a technical recession.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.851,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "27810776fa75938c80d13c7588e3902067956683",
+      "url": "https://www.cbc.ca/news/entertainment/obit-anthony-head-9.7224986?cmp=rss",
+      "title": "British actor Anthony Head, Giles in TV's Buffy the Vampire Slayer, dead at 72",
+      "published_at": "2026-06-05T08:19:30-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Anthony Head, the suave, smooth-voiced British actor known for roles in TV's Buffy the Vampire Slayer and Ted Lasso, has died, his family said Friday. He was 72.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb7d0c6ec7c2c8dd098623cd96bbcd8e6b5a73ea",
+      "url": "https://www.cbc.ca/news/entertainment/freedom-250-concerts-trump-cancels-9.7224779?cmp=rss",
+      "title": "Trump cancels Freedom 250 concerts, announces rally making himself the main attraction",
+      "published_at": "2026-06-05T07:38:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "President Donald Trump has cancelled the Freedom 250 concerts that were set to mark the U.S.'s anniversary this summer at the National Mall in Washington, D.C., after many of the original artists dropped out. He now promises to hold “the Greatest Rally, EVER!\" according to his Truth Social account.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.965,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fec5c6c504f0696df75402d7693eaf5d71d675c4",
+      "url": "https://www.cbc.ca/news/canada/windsor/moroun-concrete-ctc-hercules-windsor-sandwich-detroit-business-9.7224089?cmp=rss",
+      "title": "Michigan family behind the Ambassador Bridge expanding controversial concrete empire to Canada",
+      "published_at": "2026-06-05T06:38:14-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The wealthy family behind the Ambassador Bridge linking Ontario and Michigan is planning to expand its controversial concrete empire across the border to Canada, records show.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "106dbe3fb1ff66d1d5ce47b440b05f02c5387b16",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/tammy-goforth-day-parole-second-degree-murder-9.7224654?cmp=rss",
+      "title": "Saskatchewan woman who starved girl to death and harmed sister granted day parole",
+      "published_at": "2026-06-05T06:34:59-04:00",
+      "section": "Canada",
+      "summary_auto": "A Saskatchewan woman found guilty of starving to death a young girl in her care and abusing the child's sister has been granted day parole.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.951,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9ea206dec969286342f9749a522c450aa1850657",
+      "url": "https://www.cbc.ca/news/world/in-photos-see-the-white-house-s-ufc-arena-9.7223828?cmp=rss",
+      "title": "IN PHOTOS | See the White House's UFC arena",
+      "published_at": "2026-06-05T06:17:09-04:00",
+      "section": "World",
+      "summary_auto": "See the Octagon, the iconic eight-sided fenced cage where mixed martial arts fighters compete and other infrastructure being built for UFC Freedom 250 on the South Lawn of the White House to mark U.S. President Donald Trump's 80th birthday and the 250th anniversary of the United States.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "368719bf66217c3c9dd18f914aa79be60b7ba4df",
+      "url": "https://www.cbc.ca/news/world/nasa-astronauts-shelter-international-space-station-9.7224720?cmp=rss",
+      "title": "NASA reverses evacuation alert for astronauts aboard International Space Station",
+      "published_at": "2026-06-05T06:09:32-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A worsening air leak aboard the International Space Station (ISS) prompted five astronauts to take shelter and prepare for evacuation for roughly two hours on Friday as Russia attempted to fix a crack on its portion of the orbital laboratory, NASA said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ca92b2a29d3902dc9def78a0ddf96f54d721b899",
+      "url": "https://www.cbc.ca/news/canada/london/livestory/sharif-rahman-death-resolution-hearing-owen-sound-evans-9.7223615?cmp=rss",
+      "title": "Man who killed Ontario restaurant owner apologizes to family, city after pleading guilty to manslaughter",
+      "published_at": "2026-06-05T06:00:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed1bf16b16fd2048892a62146975f136d24b3927",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-energy-drinks-teens-9.7224511?cmp=rss",
+      "title": "Quebec tables bill cracking down on sale of energy drinks for teens",
+      "published_at": "2026-06-05T05:45:15-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The legislation would ban the sale of energy drinks to those under 16. The mother of a boy who died at age 15 after drinking a can of Red Bull while on ADHD medication said it was \"the right thing to do.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "836da0fff4120ca6f14334f25cf5596f66220ca8",
+      "url": "https://www.cbc.ca/news/canada/montreal/synagogue-hit-westmount-9.7224619?cmp=rss",
+      "title": "'Time for action,' says rabbi after attempted arson at Montreal synagogue",
+      "published_at": "2026-06-05T05:42:24-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Montreal police are investigating an attempted arson at Temple Emanu-El-Beth Sholom, a synagogue in Westmount. Following this latest incident, the synagogue's rabbi sent an email to members to highlight the importance of fighting antisemitism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "519a2fbc410f4464a0799f6ce4ee5340ff8c14ca",
+      "url": "https://www.cbc.ca/news/canada/toronto/deepak-paradkar-bail-9.7224600?cmp=rss",
+      "title": "Lawyer accused in Ryan Wedding case to stay out on bail after court dismisses review",
+      "published_at": "2026-06-05T05:19:51-04:00",
+      "section": "Canada",
+      "summary_auto": "A Toronto-area lawyer accused of advising the murder of a federal witness in an alleged international drug smuggling ring will stay out on bail after Ontario's top court rejected the Crown's bid to overturn his release.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75a153633cc7eca9efac5e572fcfe0e5db4e2463",
+      "url": "https://www.cbc.ca/news/business/canada-jobs-may-2026-9.7224553?cmp=rss",
+      "title": "Canadian economy adds 88,000 jobs in May, helping offset job losses so far this year",
+      "published_at": "2026-06-05T04:56:27-04:00",
+      "section": "Business",
+      "summary_auto": "The increase in jobs was driven by a growth in full-time roles, with the construction, information and culture, and transportation sectors leading the way. May's job additions are the first significant employment gain since November 2025, Statistics Canada said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "9ec49a9dc58293433b220a9f386d02e0b3a9f635",
       "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenksyy-putin-letter-9.7224495?cmp=rss",
-      "title": "Kremlin confirms Putin aware of Ukraine president's open letter calling for face-to-face talks",
+      "title": "Putin cites 'rude remarks' in rejecting Zelenskyy's open letter request to meet for war talks",
       "published_at": "2026-06-05T04:04:43-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Russian President Vladimir Putin has been informed ‌about an open letter from Ukrainian President ​Volodymyr Zelenskyy, Kremlin spokesperson Dmitry Peskov said Friday, according ​to state news agency TASS.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6d9cf8b709b7516f0d434c3ab60aba29f60a8d2d",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/david-faucher-wanted-9.7224532?cmp=rss",
+      "title": "Canada-wide warrant issued for man accused of 1st degree murder of Labrador man",
+      "published_at": "2026-06-05T03:41:51-04:00",
+      "section": "Canada",
+      "summary_auto": "A man from Sherbrooke, Que., has been charged with first-degree murder in connection to the 2023 killing of Franz Drosch of Happy Valley-Goose Bay.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.934,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +281,7 @@
       "url": "https://www.cbc.ca/news/world/us-senate-security-legislation-9.7224482?cmp=rss",
       "title": "Senate passes bill for more ICE funding after all-night session, attempts to limit Trump settlement fund fail",
       "published_at": "2026-06-05T03:23:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. Senate handed President Donald Trump a victory early Friday morning, passing a bill that would provide the Department of Homeland Security with an additional $70 billion US for immigration ‌enforcement and sending it to the House of Representatives for final consideration.",
       "bias_heuristic": {
         "article_type": "News",
@@ -34,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/saskatchewan/ryan-james-roach-saskatoon-ordered-for-extradition-to-us-from-canada-crypto-mining-hacking-9.7224246?cmp=rss",
       "title": "Sask. man ordered for extradition to U.S. over university hacking for crypto mining",
       "published_at": "2026-06-05T03:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A King’s Bench judge ordered Ryan James Roach’s extradition to the United States on May 7. He faces charges related to hacking into American university supercomputers to mine cryptocurrency.",
       "bias_heuristic": {
         "article_type": "News",
@@ -47,7 +307,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/class-action-settlement-solitary-confinement-9.7224032?cmp=rss",
       "title": "Manitoba judge approves $129M settlement for solitary confinement class action",
       "published_at": "2026-06-05T02:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A Manitoba judge has approved what a class-action administrator says is a $129-million settlement agreement in a lawsuit that alleged the province's use of segregation in provincial jails for adults and youth was negligent and breached Charter rights.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,7 +333,7 @@
       "url": "https://www.cbc.ca/news/world/australian-cockroach-bug-bust-9.7224475?cmp=rss",
       "title": "Over 100,000 illegal cockroaches confiscated in Australia bug bust",
       "published_at": "2026-06-05T00:57:16-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Australia has strict biosecurity controls at its borders to protect its agriculture and horticulture sectors and native wildlife from pest infestations. Those smuggling in undeclared or illegal animal, insect or plant material can be fined thousands of dollars.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +346,7 @@
       "url": "https://www.cbc.ca/news/world/xi-jinping-north-korea-visit-9.7224477?cmp=rss",
       "title": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
       "published_at": "2026-06-05T00:56:17-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The announcement of the trip came a day after North Korea unveiled a new facility to produce the material for nuclear bombs.",
       "bias_heuristic": {
         "article_type": "News",
@@ -113,11 +373,24 @@
       "title": "Why Republicans are questioning the masculinity of Texas Democratic Senate contender James Talarico",
       "published_at": "2026-06-05T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Republicans have launched a series of attacks and personal insults against Texas Democratic Senate contender James Talarico,  hoping these tactics might prove effective against the Texas politician they see as a real threat in the Senate race in the mid-term elections, analysts say.",
+      "summary_auto": "Republicans have launched a series of attacks and personal insults against Texas Democratic Senate contender James Talarico,  hoping the tactics might prove effective against the politician they see as a real threat in the Senate race in the mid-term elections, analysts say.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "12d4e44505ed7a8f7784423568ad743d2291b6f1",
+      "url": "https://www.cbc.ca/news/canada/montreal/water-shortage-watermain-montreal-advisory-9.7223848?cmp=rss",
+      "title": "What Montreal's water restrictions reveal about our aging pipes — and our habits",
+      "published_at": "2026-06-05T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Montreal’s call for residents to reduce water consumption this summer has raised questions about the state of the city’s water infrastructure. Experts say the need for emergency repairs is not unusual in a system as old and extensive as Montreal’s, and that the current work is a sign the city identified a problem before a more disruptive failure could occur.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -136,39 +409,13 @@
     {
       "id": "a3c53a2dba0291e90f442e39aec6703887ffe555",
       "url": "https://www.cbc.ca/news/canada/british-columbia/dog-rollover-crash-survive-kelowna-9.7224450?cmp=rss",
-      "title": "‘We need one more miracle’: Kelowna dog safe at home after surviving, running away from rollover crash",
+      "title": "Kelowna dog safe at home after surviving, running away from rollover crash",
       "published_at": "2026-06-04T20:22:27-04:00",
       "section": "Canada",
       "summary_auto": "Four days after a collision on Highway 33, and after an extensive search involving volunteers, a mini Australian shepherd was reunited with its owner near Kelowna.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.026,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8c35e7b185e863c66b110173be9d8752f5e87ab3",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/stanley-cup-final-game-2-recap-knights-hurricanes-9.7224442?cmp=rss",
-      "title": "Rally in Raleigh: Hurricanes win Game 2 in OT, even Stanley Cup final series with Golden Knights",
-      "published_at": "2026-06-04T19:43:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Seth Jarvis scored on a power play in overtime after Carolina erased a deficit in regulation only to gave up a late tying goal, and the Hurricanes beat the Vegas Golden Knights 4-3 in Game 2 of the Stanley Cup Final on Thursday night to even the series.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51006eca344f2bb13f6c5b36d94674d8a5e51698",
-      "url": "https://www.cbc.ca/player/play/9.7224430?cmp=rss",
-      "title": "#TheMoment students invented a wearable tail to help Parkinson's patients",
-      "published_at": "2026-06-04T18:09:34-04:00",
-      "section": "Top Stories",
-      "summary_auto": "High school students Allen Guo-Lu and Lutong Shi tell The National about the moment they developed 'wearable tail' technology to help people with Parkinson’s disease maintain their balance.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
         "subjectivity_hint": "low"
       }
     },
@@ -195,240 +442,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.251,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f3675dea5c95be7e1bee131b6cac3d754a88a955",
-      "url": "https://www.cbc.ca/player/play/9.7224271?cmp=rss",
-      "title": "At Issue | Carney fends off recession accusations",
-      "published_at": "2026-06-04T15:55:54-04:00",
-      "section": "Top Stories",
-      "summary_auto": "At Issue this week: Mark Carney fends off accusations of driving Canada into a recession. What ordering the CRTC to back down over its 'Netflix tax' means for U.S. trade negotiations. And the simmering Liberal tensions over Mark Carney's leadership style.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "07baedd7e16ba63c308296815fbc3f851c66ce73",
-      "url": "https://www.cbc.ca/news/politics/carney-anti-hate-advisory-council-9.7224194?cmp=rss",
-      "title": "Black advocates call out Carney government for excluding them from diversity council",
-      "published_at": "2026-06-04T15:06:33-04:00",
-      "section": "Canada",
-      "summary_auto": "Advocates for Black Canadians say the Carney government is reinforcing the barriers they face by launching an inclusivity council that does not include any Black people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fdb7067757aa88864297a09f5df1ed1343a3f32",
-      "url": "https://www.cbc.ca/news/entertainment/love-island-no-longer-free-to-stream-canada-9.7224069?cmp=rss",
-      "title": "Sorry Canada, you can't watch Love Island USA for free anymore",
-      "published_at": "2026-06-04T14:53:57-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The latest bombshell to enter the villa isn’t in Fiji. It's in Canada. Season 8 of Love Island USA premiered this week, back with a fresh cast of singles set to bring the heat and the drama fans love. But Canadians hoping to stream it all for free are out of luck. Now, they’ll need a Crave subscription.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.957,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dfe3ee2e7dd9ee5f3f3058fdf5547b865ca08bc4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/heiltsuk-nation-oil-spill-settlement-9.7224076?cmp=rss",
-      "title": "Heiltsuk Nation reaches $12.2M settlement with company involved in 2016 tugboat fuel spill",
-      "published_at": "2026-06-04T14:33:11-04:00",
-      "section": "Canada",
-      "summary_auto": "The Haíɫzaqv (Heiltsuk) Nation says it has completed the first part of a multi part settlement after a tugboat ran aground in its territory, spilling thousands of litres of fuel into its waters.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7ec59b4ee9bd96f5340019c31c95660c08478cab",
-      "url": "https://www.cbc.ca/news/entertainment/hasbro-ai-characters-9.7223872?cmp=rss",
-      "title": "Hasbro releases AI versions of its iconic characters, including Transformers",
-      "published_at": "2026-06-04T14:31:59-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Optimus Prime and Megatron just became robots in more than one sense. That's because Hasbro, the American toy and games giant, released artificial intelligence versions of 12 popular characters — a move experts say could bring potential risks to kids along with the fun.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.796,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "806a9b8816e75a2291c517165a388629dc250425",
-      "url": "https://www.cbc.ca/player/play/9.7224019?cmp=rss",
-      "title": "Cross-border tunnel drug bust | About That",
-      "published_at": "2026-06-04T13:13:19-04:00",
-      "section": "World",
-      "summary_auto": "Andrew Chang breaks down the U.S. Department of Homeland Security's investigation of a nearly 2,000-foot-long tunnel — complete with ventilation, lighting and an electric rail system — which allegedly carried millions of dollars' worth of drugs from Tijuana, Mexico, to a San Diego, Calif., Buy4Less storefront. (Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f3d6f490d6b5d8511900d0c3ac8d81262c5385f1",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-2026-cfl-season-preview-9.7223982?cmp=rss",
-      "title": "The CFL kicks off a new season — and a new era",
-      "published_at": "2026-06-04T13:04:18-04:00",
-      "section": "Canada",
-      "summary_auto": "As the 2026 regular season gets underway, CBC Sports' daily newsletter looks at the changes that second-year commissioner Stewart Johnston has brought to the CFL.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b5e8a4bcd2e4f1b37c2922715990b95395cabfee",
-      "url": "https://www.cbc.ca/news/world/elijah-mcclain-paramedics-homicide-conviction-overturned-9.7223898?cmp=rss",
-      "title": "Colorado court overturns homicide convictions of 2 paramedics in death of Black man pinned by police",
-      "published_at": "2026-06-04T12:59:06-04:00",
-      "section": "World",
-      "summary_auto": "A Colorado court reversed homicide convictions against two paramedics on Thursday in the ketamine overdose death of Elijah McClain after the Black man was pinned down by police in 2019.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "03cdd9f964ecf4f007932097b1451eecc687d45c",
-      "url": "https://www.cbc.ca/news/canada/ottawa/child-critically-injured-balcony-fall-9.7223976?cmp=rss",
-      "title": "Child in Ottawa critically injured in balcony fall",
-      "published_at": "2026-06-04T12:52:18-04:00",
-      "section": "Canada",
-      "summary_auto": "Ottawa police say a young child is in critical condition after falling from a fourth-floor balcony Wednesday, calling it the third such incident in the city in the past month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "579f7d4211b50fa0c6ea79ba231501387709759b",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/brayden-bushby-day-parole-extension-9.7223730?cmp=rss",
-      "title": "Man convicted of manslaughter in death of Barbara Kentner in Thunder Bay, Ont., gets day parole extension",
-      "published_at": "2026-06-04T12:30:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The man convicted of manslaughter in the 2017 death of Barbara Kentner in Thunder Bay, Ont., has been granted three more months of day parole in a community-based residential facility. The Parole Board of Canada made the decision Tuesday, according to documents obtained by CBC News. Here's what we know about the conditions to which Brayden Bushby is subject.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e606ce6b98ce9d71c34aa84d73d3628ca35148c5",
-      "url": "https://www.cbc.ca/news/world/epstein-committee-interview-kellen-9.7223371?cmp=rss",
-      "title": "House committee asks U.S. DOJ to examine sexual abuse allegations made by ex-Epstein assistant",
-      "published_at": "2026-06-04T12:19:21-04:00",
-      "section": "World",
-      "summary_auto": "The chair of the congressional committee which has spent months interviewing witnesses about Jeffrey Epstein and Ghislaine Maxwell said Thursday it was advising the Justice Department to examine allegations concerning two men accused of sexual abuse by Sarah Kellen, a former Epstein assistant.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7d4037879f626a488f9a150a6043ac1d871c4f12",
-      "url": "https://www.cbc.ca/news/entertainment/shania-twain-biopic-9.7223555?cmp=rss",
-      "title": "Let's go girls! Shania Twain biopic in the works at Sony Pictures",
-      "published_at": "2026-06-04T10:24:15-04:00",
-      "section": "Entertainment",
-      "summary_auto": "It's true, Twainiacs. The country-pop icon's life story is reportedly headed for the big screen, with a biopic adaptation in the works for Sony Pictures co-produced by the five-time Grammy winner herself.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "078e21da26d74819fbad7793ecd7a01d4e5fb96e",
-      "url": "https://www.cbc.ca/news/canada/windsor/cargill-agricultural-giant-urban-rural-ontario-sarnia-housing-divide-9.7223584?cmp=rss",
-      "title": "Agricultural giant at centre of urban-rural housing divide in Ontario border city",
-      "published_at": "2026-06-04T09:55:32-04:00",
-      "section": "Canada",
-      "summary_auto": "Cargill is trying to block townhomes and an apartment complex from being built in Sarnia by using the province's Minister's Zoning Order for the opposite reason it was originally intended.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1bc987ff1b3f9a5808c475067ca4e47d4e4036b5",
-      "url": "https://www.cbc.ca/news/canada/toronto/fifa-ban-water-bottles-9.7223610?cmp=rss",
-      "title": "FIFA no longer letting fans bring refillable water bottles into World Cup stadiums",
-      "published_at": "2026-06-04T09:47:09-04:00",
-      "section": "World",
-      "summary_auto": "While ticket prices are sky-high and matches are scheduled in the heat of summer, FIFA says it decided to prohibit fans from bringing their own water bottles into stadiums “to prohibit bottles to prevent risk and injury to players and attendees.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "369dae1c18f728c37032b1ee56e3436de27fdee4",
-      "url": "https://www.cbc.ca/news/entertainment/rogen-hobo-revival-9.7223538?cmp=rss",
-      "title": "Seth Rogen, Evan Goldberg vow big adventures to come with Littlest Hobo revival",
-      "published_at": "2026-06-04T09:26:22-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Canadian friends Seth Rogen and Evan Goldberg are leaning into nostalgia, reimagining Cancon classic The Littlest Hobo for new audiences. The project is set to be an hour-long, live-action scripted drama.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3121124411c9c91fa62a816f6aa1851eb88a7f92",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-data-centre-slate-9.7223450?cmp=rss",
-      "title": "After hundreds protest Hamilton data centre proposal, committee denies Steelport planning application",
-      "published_at": "2026-06-04T08:59:23-04:00",
-      "section": "Canada",
-      "summary_auto": "Hamilton’s Committee of Adjustment denied an application from Slate Asset Management to split up an industrial lot. The company has said it is considering building a data centre on part of it. Hundreds of people came to Hamilton city hall on Thursday to oppose the application.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "48ded18a1126d9551a64a0894f4622e352b606a4",
-      "url": "https://www.cbc.ca/news/science/northern-lights-9.7223336?cmp=rss",
-      "title": "Strong display of the northern lights is possible across Canada tonight",
-      "published_at": "2026-06-04T08:56:31-04:00",
-      "section": "Canada",
-      "summary_auto": "Canadians could be in for another beautiful display of the northern lights tonight, as the sun unleashed several fast-moving particles in the Earth's direction over the past couple of days.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9d54f1cae3dd35aa064a85ba19a9da3d34309f3f",
-      "url": "https://www.cbc.ca/news/canada/windsor/trade-tariffs-heating-cooling-costs-9.7223049?cmp=rss",
-      "title": "Trade war taxes are turning up the heat on Canadian AC customers ahead of summer",
-      "published_at": "2026-06-04T08:56:06-04:00",
-      "section": "Canada",
-      "summary_auto": "Furnaces, central air conditioners and standard storage water heaters are being hardest hit, according to industry officials, because they’re constructed primarily of metal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     }
