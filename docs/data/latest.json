@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-06T09:18:14.321659-04:00",
+  "generated_at": "2026-06-06T15:10:36.275731-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5c927c2a74e67a77a21ab0ef773a41f6548d5160",
+      "url": "https://www.cbc.ca/player/play/9.7226236?cmp=rss",
+      "title": "U.K. government responds after JD Vance’s remarks on Henry Nowak and immigration",
+      "published_at": "2026-06-06T09:41:34-04:00",
+      "section": "World",
+      "summary_auto": "Downing Street issued a statement pushing back after U.S. Vice-President JD Vance linked the death of 18-year-old Henry Nowak to immigration and what he characterized as civilizational decline in Europe.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd509ea5f88f34447a93408a8490d79a5ad6819b",
+      "url": "https://www.cbc.ca/news/politics/f-35-gripen-saab-lockheed-martin-canadian-armed-forces-9.7225549?cmp=rss",
+      "title": "Ottawa's mixed fleet of F-35s and Gripens could total more than 100 aircraft, sources say",
+      "published_at": "2026-06-06T09:33:58-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "777028fffd271dcc66d696674b80be7c2a4c0cb6",
+      "url": "https://www.cbc.ca/sports/tennis/womens-final-french-open-june-6-9.7226108?cmp=rss",
+      "title": "Mirra Andreeva wins French Open to claim 1st Grand Slam title",
+      "published_at": "2026-06-06T06:57:44-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Russian teenager Mirra Andreeva claimed her first Grand Slam tennis title by beating Poland's Maja Chwalińska on Saturday in the French Open women's singles final.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8070e6212f69734ff3b342ff9339696422c397ad",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/trip-on-labrador-island-link-briefly-left-thousands-without-electricity-across-newfoundland-9.7226153?cmp=rss",
+      "title": "Trip on Labrador Island Link briefly left thousands without electricity across Newfoundland",
+      "published_at": "2026-06-06T06:33:57-04:00",
+      "section": "Canada",
+      "summary_auto": "Thousands of customers experienced electricity losses across the island late Saturday morning as Newfoundland Power reported multiple unplanned power outages due to a trip on the Labrador Island Link.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9908264035627616f5072a8011719aa97c434c66",
+      "url": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112?cmp=rss",
+      "title": "New exchange of fire between U.S. and Iran in Gulf tests fragile ceasefire",
+      "published_at": "2026-06-06T05:32:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Bahrain's government said on Saturday that Iran fired ballistic missiles and drones toward it and Kuwait, as the Iran war escalates.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "a7e15c0b9fd814c3d1fce5b98094f83b4be0b04f",
       "url": "https://www.cbc.ca/news/world/israeli-airstrike-southern-lebanon-9.7226084?cmp=rss",
@@ -19,13 +84,26 @@
     {
       "id": "da3f0a3da63448be8c48ffc14959b3a6563bcfc1",
       "url": "https://www.cbc.ca/news/world/israeli-palestinian-infant-killed-9.7226079?cmp=rss",
-      "title": "Israeli forces kill Palestinian infant in occupied West Bank, health officials say",
+      "title": "Palestinian baby killed, parents hurt in Israeli shooting in West Bank, Palestinian health officials say",
       "published_at": "2026-06-06T04:27:17-04:00",
       "section": "Top Stories",
-      "summary_auto": "The official Palestinian news agency WAFA said the infant was critically wounded after being struck in the jaw by the same bullet that injured his mother.",
+      "summary_auto": "Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old Palestinian baby and wounding his parents, the Palestinian Health Ministry said. The Israeli military said soldiers shot at a vehicle perceived to be accelerating toward them, and an initial inquiry found occupants were uninvolved civilians.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.856,
+        "sentiment": -0.948,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b50669db2d1369649106d20bdeabb1877a6083d3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/victoria-tunnel-hudson-bay-9.7225586?cmp=rss",
+      "title": "Artifacts of Victoria's past discovered by crews in sealed compartment beneath street",
+      "published_at": "2026-06-06T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The old stone wall tucked underneath Wharf Street in Victoria is one of the oldest pieces of the city's colonial past. It contains some forgotten artifacts recently unearthed by a restoration crew.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
         "subjectivity_hint": "low"
       }
     },
@@ -43,28 +121,41 @@
       }
     },
     {
-      "id": "fd509ea5f88f34447a93408a8490d79a5ad6819b",
-      "url": "https://www.cbc.ca/news/politics/f-35-gripen-saab-lockheed-martin-canadian-armed-forces-9.7225549?cmp=rss",
-      "title": "Ottawa's mixed fleet of F-35s and Gripens could total more than 100 aircraft, sources say",
+      "id": "9d073779c15194c2bf6ad425f23803dce5272d28",
+      "url": "https://www.cbc.ca/news/politics/mary-simon-mark-carney-alberta-unity-canada-9.7225389?cmp=rss",
+      "title": "Outgoing Gov. Gen. says she questioned completing full term due to age, job demands",
       "published_at": "2026-06-06T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "The federal government would still be looking at a fleet of 72 to 88 U.S.-made F-35s, even if it moves forward with Saab's Gripen, sources tell CBC News. Several sources said Ottawa is exploring a purchase of 72 Gripens, which would create up to 9,000 jobs and would be the largest industrial project in Canada.",
+      "summary_auto": "Outgoing Gov. Gen. Mary Simon says she wondered halfway through her five-year mandate whether she'd be able to complete the full term due to her age and the demands associated with the position.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.273,
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b5ee6eb9bcf378209e2d8be92c8030b8ed6dd4dd",
+      "url": "https://www.cbc.ca/news/canada/first-person-hockey-in-korea-9.7223785?cmp=rss",
+      "title": "I want my son to feel Canadian even though we live in Korea. So I took up hockey at 40",
+      "published_at": "2026-06-06T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Graham Nichols is a Canadian who lives in South Korea. When his son was born, he wanted to reconnect with his Canadian roots and hockey seemed an obvious answer. The only wrinkle: he'd never played hockey before.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.187,
         "subjectivity_hint": "high"
       }
     },
     {
-      "id": "9794d9667dce4cc0eca547ee96300779470fc6f4",
-      "url": "https://www.cbc.ca/news/world/hot-sauce-shortage-scotch-bonnet-9.7221843?cmp=rss",
-      "title": "Jamaican Scotch bonnet prices soar amid shortage, putting the squeeze on hot sauce",
+      "id": "eb93c3bc4119db6b88eb645c3c9482934771e1fa",
+      "url": "https://www.cbc.ca/news/health/null-findings-second-opinion-9.7223993?cmp=rss",
+      "title": "Medical misinformation on Tylenol in pregnancy spreads faster than safety studies",
       "published_at": "2026-06-06T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Jamaican Scotch bonnet peppers are the latest food to be hit by a shortage. The spicy peppers are a key ingredient in Jamaican jerk seasoning and many hot sauces.",
+      "summary_auto": "A new Canadian practice paper says the latest, highest-quality evidence is reassuring for pregnant people who need acetaminophen. The episode is a high-profile example of why so-called null findings — studies that find no link or no difference — matter.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.66,
+        "sentiment": 0.457,
         "subjectivity_hint": "low"
       }
     },
@@ -95,16 +186,16 @@
       }
     },
     {
-      "id": "8fc89a92b38f7819d2f8847c287a028da82450c0",
-      "url": "https://www.cbc.ca/news/world/armenia-election-russia-vs-europe-9.7225272?cmp=rss",
-      "title": "As Armenia heads to the polls, Russia warns against electing 'pro-European forces'",
+      "id": "9794d9667dce4cc0eca547ee96300779470fc6f4",
+      "url": "https://www.cbc.ca/news/world/hot-sauce-shortage-scotch-bonnet-9.7221843?cmp=rss",
+      "title": "Jamaican Scotch bonnet prices soar amid shortage, putting the squeeze on hot sauce",
       "published_at": "2026-06-06T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Thousands of people gathered in Armenia’s capital this week to decry the alleged traitorous path plotted by their current government, waving flags and warning that a vote to re-elect would mean \"living here with Azerbaijanis\" — the country’s longtime rival, with whom the present administration has reached a tenuous peace. But a larger shadow looms over the upcoming vote: a historic break in the country's relations with Russia.",
+      "summary_auto": "Jamaican Scotch bonnet peppers are the latest food to be hit by a shortage. The spicy peppers are a key ingredient in Jamaican jerk seasoning and many hot sauces.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.09,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -112,12 +203,25 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/local-mosque-leader-urges-muslim-families-to-avoid-burials-at-thorold-ont-cemetery-9.7224975?cmp=rss",
       "title": "Local mosque leader urges Muslim families to avoid burials at Thorold, Ont., cemetery",
       "published_at": "2026-06-06T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Muslim families are being encouraged to not bury their loved ones at a cemetery in Thorold, Ont., by a leader in their community who says the city's steps to accommodate Muslim burial practices don't go far enough. Thorold politicians tweaked the city's cemetery policy on June 2 so that burial plots within an existing, open area of the cemetery can be orientated to face the holy city of Mecca as Muslim faith requires.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.012,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8fc89a92b38f7819d2f8847c287a028da82450c0",
+      "url": "https://www.cbc.ca/news/world/armenia-election-russia-vs-europe-9.7225272?cmp=rss",
+      "title": "As Armenia heads to the polls, Russia warns against electing 'pro-European forces'",
+      "published_at": "2026-06-06T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "Thousands of people gathered in Armenia’s capital this week to decry the alleged traitorous path plotted by their current government, waving flags and warning that a vote to re-elect would mean \"living here with Azerbaijanis\" — the country’s longtime rival, with whom the present administration has reached a tenuous peace. But a larger shadow looms over the upcoming vote: a historic break in the country's relations with Russia.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.09,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -134,16 +238,16 @@
       }
     },
     {
-      "id": "eb93c3bc4119db6b88eb645c3c9482934771e1fa",
-      "url": "https://www.cbc.ca/news/health/null-findings-second-opinion-9.7223993?cmp=rss",
-      "title": "Medical misinformation on Tylenol in pregnancy spreads faster than safety studies",
+      "id": "0310696b0bb164c6c08f4122612276b7769a6915",
+      "url": "https://www.cbc.ca/radio/costofliving/job-hugging-market-9.7223514?cmp=rss",
+      "title": "Want to switch jobs but can't let go? You might be a job hugger",
       "published_at": "2026-06-06T00:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "A new Canadian practice paper says the latest, highest-quality evidence is reassuring for pregnant people who need acetaminophen. The episode is a high-profile example of why so-called null findings — studies that find no link or no difference — matter.",
+      "section": "Business",
+      "summary_auto": "If you're too scared to leave an unfulfilling job you're not alone. Canadian employment data and the anecdotes of post-pandemic hires echo that sentiment, so much so that it’s spawned a new term: job hugging, the phenomenon where you hold tight to your position even if you’re unhappy.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.457,
-        "subjectivity_hint": "low"
+        "sentiment": 0.131,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -156,19 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.572,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "96f8b55efa65cd4d1e489c616a586c1f3debf6d5",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/e-comm-strike-notice-72-hours-9.7226039?cmp=rss",
-      "title": "B.C. 911 call-takers could take job action after issuing 72-hour strike notice",
-      "published_at": "2026-06-05T19:12:24-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The union representing 911 call-takers across B.C. has issued 72-hour strike notice, saying they have been unable to reach a deal with their employer, and they would be in a legal position to strike on Monday afternoon.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
         "subjectivity_hint": "medium"
       }
     },
@@ -212,19 +303,6 @@
       }
     },
     {
-      "id": "003e611ddf6c35830825d448ef5baab984b4f842",
-      "url": "https://www.cbc.ca/news/canada/cricket-world-cup-king-city-spectators-banned-9.7225774?cmp=rss",
-      "title": "Cricket World Cup qualifying matches near Toronto closed to spectators due to security concerns",
-      "published_at": "2026-06-05T16:53:20-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Spectators will be banned from Canada’s upcoming Cricket World Cup qualifying matches beginning Saturday after one of the teams involved in the international three-team series expressed security concerns, the fifth estate has learned.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "4733024e28fa4425536087efe93038b4e064eccb",
       "url": "https://www.cbc.ca/news/canada/edmonton/federation-canadian-municipalities-defence-task-force-9.7225527?cmp=rss",
       "title": "Federation of Canadian Municipalities launches new defence task force",
@@ -242,7 +320,7 @@
       "url": "https://www.cbc.ca/news/world/us-military-iran-drones-strait-of-hormuz-9.7225829?cmp=rss",
       "title": "U.S. strikes Iranian radar sites after shooting down Iran-launched drones",
       "published_at": "2026-06-05T15:30:00-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. forces struck Iranian coastal radar sites on Saturday after shooting down drones launched by Iran ‌toward the Strait of Hormuz, the U.S. military said, in the latest escalation complicating efforts to end the war between the two countries.",
       "bias_heuristic": {
         "article_type": "News",
@@ -260,162 +338,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f5206bdbdeffe6edd5be4d929024272d1971182b",
-      "url": "https://www.cbc.ca/news/world/60-minutes-shakeup-9.7225732?cmp=rss",
-      "title": "Remaining 60 Minutes stars say they're staying at CBS show... for now",
-      "published_at": "2026-06-05T15:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Saying 'We don't want to see 60 Minutes die,' the three remaining correspondents at the turmoil-plagued CBS\nNews show have decided to stay for the meantime.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.628,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1c0882d913847d072c268f138b30f6159ee065d8",
-      "url": "https://www.cbc.ca/news/politics/canada-temporary-us-livestock-ban-screwworm-9.7225687?cmp=rss",
-      "title": "CFIA announces temporary ban of Texas livestock to prevent spread of screwworm",
-      "published_at": "2026-06-05T14:27:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Canadian Food Inspection Agency announced Friday that it would temporarily restrict livestock from entering Canada from affected parts of the United States, after screwworm, a flesh-eating parasite, was confirmed on a farm in Texas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.691,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d8e5c9638e0a7df1d33d5f20a295bbdfc6a18ee0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/greg-martel-ponzi-arrest-9.7225496?cmp=rss",
-      "title": "B.C. Ponzi schemer Greg Martel arrested in Georgia",
-      "published_at": "2026-06-05T14:07:10-04:00",
-      "section": "Canada",
-      "summary_auto": "Martel's fake investment scheme brought in $301 million from 1,700 investors",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.735,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "779c34271a1ff72558d3ee29fa3ac3908c5abba7",
-      "url": "https://www.cbc.ca/news/world/iran-world-cup-players-us-visas-9.7225599?cmp=rss",
-      "title": "Iran's soccer players issued visas to play World Cup matches in U.S., official says",
-      "published_at": "2026-06-05T14:00:00-04:00",
-      "section": "World",
-      "summary_auto": "Iran's World Cup soccer players have been granted visas to enter the United States, a White House official told Reuters on Friday, just 10 days before their first match in Los Angeles amid a conflict between the two ​countries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1f1f62c69421f9d99d154fc9878caa143c04793b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/adventurers-journey-across-atlantic-ocean-in-balloon-9.7225205?cmp=rss",
-      "title": "Adventurers start journey across Atlantic Ocean in hydrogen balloon",
-      "published_at": "2026-06-05T13:08:59-04:00",
-      "section": "World",
-      "summary_auto": "The balloon and its three pilots are on a big mission to cross the Atlantic Ocean, landing somewhere in Europe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "58a3c847536456751c272b0996bee3e20d14a2fb",
-      "url": "https://www.cbc.ca/radio/asithappens/scientist-with-huntington-s-gene-dedicates-life-to-curing-fatal-disease-he-ll-one-day-develop-9.7225211?cmp=rss",
-      "title": "Scientist with Huntington's gene dedicates life to curing fatal disease he'll one day develop",
-      "published_at": "2026-06-05T13:02:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jeff Carroll, a scientist who carries the mutant gene for Huntington's disease, is now part of a global initiative to advance treatment for neurodegenerative diseases.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.542,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "154f7c8f0ce5c97b1b399e6c899253d65c3ed147",
-      "url": "https://www.cbc.ca/player/play/9.7225400?cmp=rss",
-      "title": "He-Man returns to the big screen. Did Masters of the Universe get it right?",
-      "published_at": "2026-06-05T12:04:24-04:00",
-      "section": "Entertainment",
-      "summary_auto": "The beloved '80s cartoon hero He-Man returns in the live-action Masters of the Universe, starring Nicholas Galitzine, Jared Leto, Alison Brie and Idris Elba. The CBC's Eli Glasner says the big-screen adaptation didn’t quite capture what made the original franchise a classic.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.848,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3e703e54943e1265e71b9673bc0388178e75597c",
-      "url": "https://www.cbc.ca/news/canada/calgary/frances-widdowson-mount-royal-university-appeal-alrb-9.7225282?cmp=rss",
-      "title": "Calgary university seeks appeal as Frances Widdowson eyes reinstatement",
-      "published_at": "2026-06-05T12:02:29-04:00",
-      "section": "Canada",
-      "summary_auto": "Calgary’s Mount Royal University is seeking to appeal a recent decision from the Alberta Labour Relations Board tied to the termination and potential reinstatement of a former tenured professor. Frances Widdowson, an academic known for her controversial views on Canada's residential school system, was fired from the university in 2021.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f4d322934b34c11207c5a8bd0b953d2f3ba16f82",
-      "url": "https://www.cbc.ca/news/business/sunwing-cuba-indefinitely-cancelled-9.7225255?cmp=rss",
-      "title": "Sunwing Vacations indefinitely cancels all operations to Cuba",
-      "published_at": "2026-06-05T10:55:00-04:00",
-      "section": "Business",
-      "summary_auto": "The move comes after Sunwing Vacations Group first cancelled Cuba operations from June to October, saying service would resume in the fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3a382acd5577277c609a408b9e9f83be13bac239",
-      "url": "https://www.cbc.ca/news/entertainment/big-brother-canada-revival-9.7224978?cmp=rss",
-      "title": "3rd time's a charm? Big Brother Canada set for TV return",
-      "published_at": "2026-06-05T10:42:37-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Get ready for a new round of evictions: Big Brother Canada is back for a third time, with a new run slated to debut on CTV and Crave.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "15d3cef3f224eb9182100f04ae092815b461365d",
-      "url": "https://www.cbc.ca/news/entertainment/top-gun-maverick-actor-james-handy-killed-in-stabbing-girlfriend-s-son-arrested-l-a-police-say-9.7225112?cmp=rss",
-      "title": "Top Gun: Maverick actor James Handy killed in stabbing, girlfriend's son arrested, L.A. police say",
-      "published_at": "2026-06-05T10:34:10-04:00",
-      "section": "Entertainment",
-      "summary_auto": "American actor James Handy, known for supporting roles in blockbusters Jumanji and Top Gun: Maverick, has died in a stabbing, and his girlfriend's son has been arrested, Los Angeles police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9f792c6f07f9856134d77ef314fccb59cd4efde3",
-      "url": "https://www.cbc.ca/news/canada/toronto/osap-growth-mostly-from-career-college-students-9.7225149?cmp=rss",
-      "title": "Ontario spent $465M more on OSAP last year. 95% of that went to private career college students, docs show",
-      "published_at": "2026-06-05T10:26:28-04:00",
-      "section": "Canada",
-      "summary_auto": "When Ontario Premier Doug Ford's government drastically cut student assistance grants earlier this year, it cited \"unsustainable\" costs, but new figures show nearly all of the recent growth was among career college students. Opposition critics say that points to a problem of the government's own making, and the solution did not have to penalize students at universities and publicly funded colleges.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.026,
         "subjectivity_hint": "low"
       }
     }
