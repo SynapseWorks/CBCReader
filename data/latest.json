@@ -1,18 +1,122 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-07T09:28:39.515950-04:00",
+  "generated_at": "2026-06-07T15:12:08.610418-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "84c3ab63034dfb20fdfba3361c52622d153eb62f",
+      "url": "https://www.cbc.ca/news/world/lawsuit-ufc-trump-white-house-birthday-9.7226723?cmp=rss",
+      "title": "2 Virginia residents sue to stop UFC fight at White House for Trump's 80th birthday",
+      "published_at": "2026-06-07T10:35:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A U.S. federal lawsuit seeks to halt the upcoming UFC fight card on the White House South Lawn in a mixed martial arts show timed for President Donald Trump's 80th birthday and part of the celebration of the nation's 250th anniversary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37dd14bff87ac7b0ee8f65670c932fd24716feba",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/mcdavid-ted-lindsay-award-2026-9.7226659?cmp=rss",
+      "title": "Oilers' superstar captain Connor McDavid wins 5th Ted Lindsay Award, tying Gretzky",
+      "published_at": "2026-06-07T08:09:36-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Edmonton Oilers superstar captain Connor McDavid has been named the winner of the Ted Lindsay Award for a\nrecord-tying fifth time.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.938,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db7361dec1aa19fc49dce598ae1c8d0a674d7561",
+      "url": "https://www.cbc.ca/news/world/israel-strike-beirut-suburb-ceasefire-9.7226621?cmp=rss",
+      "title": "Israel hits Beirut's southern suburbs for first time since ceasefire with Hezbollah",
+      "published_at": "2026-06-07T07:36:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Israeli military has struck Hezbollah infrastructure in the southern suburbs of the Lebanese capital Beirut, known as Dahiyeh, the first strike on the militant group's stronghold since an April 16 ceasefire was brokered.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "98793bb96af951d247a99b46aaebaf7aa853bf37",
+      "url": "https://www.cbc.ca/news/canada/toronto/ont-kawartha-lakes-fatal-collision-9.7226625?cmp=rss",
+      "title": "3 dead after car and 4 motorcycles crash in Kawartha Lakes, Ont., police say",
+      "published_at": "2026-06-07T07:10:26-04:00",
+      "section": "Canada",
+      "summary_auto": "Provincial police say they are investigating after three people were killed and others were injured in a multi-vehicle collision in Kawartha Lakes, Ont.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1f5422ed649a14f896fe56529473089a086caf95",
+      "url": "https://www.cbc.ca/news/canada/toronto/walk-for-israel-toronto-9.7226553?cmp=rss",
+      "title": "Tens of thousands take part in Israel solidarity walk amid tight security, Toronto police arrest 4",
+      "published_at": "2026-06-07T06:25:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Tens of thousands of people took part in an annual fundraising walk for Israel in Toronto on Sunday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "384d2afa008f76e8450a73ee2a7ef28f1414532c",
+      "url": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565?cmp=rss",
+      "title": "Gunman kills one, wounds five in drive-by attacks in Israel near West Bank border",
+      "published_at": "2026-06-07T06:13:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "9bbc6fd2eceff3883f0efb9e66784816417fc22e",
       "url": "https://www.cbc.ca/news/world/russian-drone-chornobyl-9.7226511?cmp=rss",
-      "title": "Russian drone hit nuclear-fuel storage facility near Chornobyl, Ukraine says",
+      "title": "Russian drone hit nuclear fuel storage facility near Chornobyl, Ukraine says",
       "published_at": "2026-06-07T04:55:49-04:00",
       "section": "Top Stories",
       "summary_auto": "A Russian drone struck a storage facility for spent nuclear fuel near Ukraine's disused Chornobyl power ‌plant, Ukrainian officials said on Sunday, adding that radiation levels at the site remained stable. Russia has not publicly commented on the alleged attack on the facility.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7726f94738cf3f6d9d85fce8d75949da08881ab6",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-student-loan-university-college-9.7226332?cmp=rss",
+      "title": "Alberta students say changes to provincial loan program create 'financial barrier'",
+      "published_at": "2026-06-07T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Students' union representatives say recent changes to Alberta's student loan program could present a \"financial barrier\" for many in the province. The province says it is working to modernize the process and keep education affordable and accessible.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "45c1483cfd42c2fe4600fa381b62e215c10416a9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fifa-world-cup-benefits-vancouver-bc-9.7225612?cmp=rss",
+      "title": "B.C. government modelling predicts hosting FIFA will produce lasting benefits. History tells a different story",
+      "published_at": "2026-06-07T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "The B.C. government predicts Vancouver’s seven FIFA World Cup matches will benefit the province’s economy years into the future, but experts and previous research on the impact of large sports events suggest there’s little evidence that’s the case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -45,7 +149,7 @@
     {
       "id": "a241c7a8f4f859b03e8c25ca25ace10f848d824f",
       "url": "https://www.cbc.ca/sports/hockey/nhl/stanley-cup-final-game-3-recap-hurricanes-golden-knights-9.7226105?cmp=rss",
-      "title": "Golden Knights beat Hurricanes 5-4 in double OT to take a 2-1 lead in the Stanley Cup Final",
+      "title": "Golden Knights beat Hurricanes 5-4 in double OT to take a 2-1 lead in the Stanley Cup final",
       "published_at": "2026-06-07T01:28:10-04:00",
       "section": "Top Stories",
       "summary_auto": "Shea Theodore scored at 5:38 of the second overtime, avoiding what could have been a potentially devastating loss for the Golden Knights after they blew a four-goal lead.",
@@ -53,19 +157,6 @@
         "article_type": "News",
         "sentiment": -0.84,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "32911e32a7c261e87c21aa355fd8f6980fe64068",
-      "url": "https://www.cbc.ca/radio/whatonearth/fifa-world-cup-aramco-9.7224085?cmp=rss",
-      "title": "The FIFA World Cup is brought to you by Saudi oil. These fans and players want to stop it",
-      "published_at": "2026-06-07T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Environmental advocates, doctors, and even players themselves demanding FIFA to cut ties with the fossil fuel industry, which they say is adversely impacting players' health, and threatening the future of the sport itself.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.844,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -82,6 +173,19 @@
       }
     },
     {
+      "id": "32911e32a7c261e87c21aa355fd8f6980fe64068",
+      "url": "https://www.cbc.ca/radio/whatonearth/fifa-world-cup-aramco-9.7224085?cmp=rss",
+      "title": "The FIFA World Cup is brought to you by Saudi oil. These fans and players want to stop it",
+      "published_at": "2026-06-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Environmental advocates, doctors, and even players themselves demanding FIFA to cut ties with the fossil fuel industry, which they say is adversely impacting players' health, and threatening the future of the sport itself.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "e4adb74d00e90a355efa5d854d2bc7bcb13b7783",
       "url": "https://www.cbc.ca/news/business/ai-clothing-design-9.7219397?cmp=rss",
       "title": "Designers are experimenting with AI to make clothes and footwear more interactive",
@@ -95,11 +199,24 @@
       }
     },
     {
+      "id": "9054f5a6988c2d3aa96e916f2511c5036a7cf1a5",
+      "url": "https://www.cbc.ca/radio/quirks/pigeon-fly-navigation-science-discovery-liver-9.7224081?cmp=rss",
+      "title": "Can a pigeon's liver really help it navigate long distances? New research suggests it could",
+      "published_at": "2026-06-07T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "From wartime messages to love letters, pigeons have carried our mail for centuries. A new study suggests the secret to how they find their way might be hiding in an unexpected place: the liver.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "dbe1b0e77d1f93927bb26014cc7facecac0765ca",
       "url": "https://www.cbc.ca/news/world/missing-u-s-tourist-found-dead-japan-9.7226428?cmp=rss",
       "title": "Missing U.S. tourist found dead in Japan, mother says",
       "published_at": "2026-06-06T15:56:17-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "An American student who disappeared while on a family vacation in Japan was found dead outside Kyoto, ‌his mother wrote in a Facebook post on Saturday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -108,68 +225,16 @@
       }
     },
     {
-      "id": "41783ecc7cd015523d29337cfa408d0b42bb3e91",
-      "url": "https://www.cbc.ca/news/world/north-korea-nuclear-9.7226405?cmp=rss",
-      "title": "Pyongyang reaffirms North Korea's nuclear status ahead of visit by China's Xi",
-      "published_at": "2026-06-06T15:23:44-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kim Yo-jong, the sister of North Korean leader Kim Jong-un, said North ‌Korea will never back down on its status as a nuclear-armed state, warning it won't tolerate any ​threats, state media agency KCNA ​said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b98ae6ce24737fcbe9d9f720db16d58074860b69",
       "url": "https://www.cbc.ca/news/world/toledo-ohio-festival-shooting-9.7226411?cmp=rss",
       "title": "At least 12 shot near festival in Toledo, Ohio, police searching for suspects",
       "published_at": "2026-06-06T15:14:21-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Two of the at least 12 wounded in a shooting near a Toledo festival were in critical condition Saturday, Deputy Police Chief Joe Heffernan said, adding it appeared at least two people were firing weapons and \"probably shooting at each other.\"",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.382,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e8d782bc10995bb6fb4f21fc4a2c63d39bdfe256",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/canada-post-stamp-little-sister-s-bookstore-9.7226204?cmp=rss",
-      "title": "Vancouver bookstore that put its stamp on 2SLGBTQ+ history honoured by Canada Post",
-      "published_at": "2026-06-06T14:35:27-04:00",
-      "section": "Canada",
-      "summary_auto": "An iconic Vancouver bookstore that won a landmark legal battle for 2SLGBTQ+ rights in Canada is being honoured with a new stamp from Canada Post.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.852,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5c927c2a74e67a77a21ab0ef773a41f6548d5160",
-      "url": "https://www.cbc.ca/player/play/9.7226236?cmp=rss",
-      "title": "U.K. government responds after JD Vance’s remarks on Henry Nowak and immigration",
-      "published_at": "2026-06-06T09:41:34-04:00",
-      "section": "World",
-      "summary_auto": "Downing Street issued a statement pushing back after U.S. Vice-President JD Vance linked the death of 18-year-old Henry Nowak to immigration and what he characterized as civilizational decline in Europe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd509ea5f88f34447a93408a8490d79a5ad6819b",
-      "url": "https://www.cbc.ca/news/politics/f-35-gripen-saab-lockheed-martin-canadian-armed-forces-9.7225549?cmp=rss",
-      "title": "Ottawa's mixed fleet of F-35s and Gripens could total more than 100 aircraft, sources say",
-      "published_at": "2026-06-06T09:33:58-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
       }
     }
   ]
