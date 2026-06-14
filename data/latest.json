@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-14T09:48:41.238683-04:00",
+  "generated_at": "2026-06-14T15:16:18.791006-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "bb150e204020acf3a919e728e5acbd7f89ec4135",
+      "url": "https://www.cbc.ca/news/world/helicopter-collision-brazil-9.7235062?cmp=rss",
+      "title": "6 people killed after helicopters collide in Brazil",
+      "published_at": "2026-06-14T10:30:03-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Two helicopters collided over Rio de Janeiro on Sunday morning and crashed in the city's western zone, killing all six people aboard, firefighters said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d128b6a2b71d202f3c0d6bee314bac26ccb08044",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-cyle-larin-horse-woodbine-june-14-9.7235013?cmp=rss",
+      "title": "Canada's Cyle Larin finds relaxation — and a competitive comparison — at the horse-racing track he grew up at",
+      "published_at": "2026-06-14T09:07:43-04:00",
+      "section": "Canada",
+      "summary_auto": "x",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b7c10ed30e561a357b19ff35fda73cb2008a64f7",
+      "url": "https://www.cbc.ca/news/world/mayhem-euphoria-new-york-city-knicks-win-9.7234950?cmp=rss",
+      "title": "Mayhem mars Knicks euphoria as New York City celebrates first NBA championship in 53 years",
+      "published_at": "2026-06-14T07:15:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It was bedlam on Broadway as the New York Knicks won their first NBA championship in 53 years on Saturday night, with exuberant celebrations marred by mayhem and violence, including a shooting in Times Square.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1ef07b0e41b73a89e67d1fbf1f22d4bda7efc094",
+      "url": "https://www.cbc.ca/news/world/palestinian-death-toll-gaza-tops-73000-9.7234942?cmp=rss",
+      "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
+      "published_at": "2026-06-14T07:09:57-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The Palestinian death toll from the Israel-Hamas war has surpassed 73,000, Gaza's Health Ministry said Sunday, despite a fragile ceasefire that has been described as stalled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.914,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c579bdc03126d50b5482f1e2c3249eba55d40711",
+      "url": "https://www.cbc.ca/news/world/g7-protests-geneva-9.7234925?cmp=rss",
+      "title": "Thousands gather in Geneva to protest G7 as Trump, other leaders hold summit in nearby France",
+      "published_at": "2026-06-14T06:32:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of demonstrators converged Sunday to show their discontent against the G7 group of countries, with U.S. President Donald Trump and counterparts set to hold a summit starting a day later in nearby France.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "1f40d48d5bcf608e25adb2a073a972b0237a083e",
       "url": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841?cmp=rss",
@@ -19,13 +84,13 @@
     {
       "id": "0e427ef7915e4cf7a7238c2a00f6d1ff59ba6b12",
       "url": "https://www.cbc.ca/news/world/israeli-military-strikes-beirut-suburb-anticipated-us-iran-deal-9.7234856?cmp=rss",
-      "title": "Israeli military strikes Beirut suburbs ahead of anticipated U.S.-Iran deal",
+      "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
       "published_at": "2026-06-14T04:18:06-04:00",
       "section": "Top Stories",
       "summary_auto": "The Israeli military said it launched strikes on Beirut on Sunday targeting Hezbollah infrastructure, despite ongoing efforts to negotiate an end to the U.S.-Iran war. Smoke could be seen rising over the Lebanese capital.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.813,
+        "sentiment": -0.886,
         "subjectivity_hint": "medium"
       }
     },
@@ -56,6 +121,19 @@
       }
     },
     {
+      "id": "a5ee6b6aedb14846b5cc14b07553c79e1580f01e",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-sexual-assault-reporting-trial-9.7207279?cmp=rss",
+      "title": "It took courage to report my sexual assault. 608 days later, everything fell apart",
+      "published_at": "2026-06-14T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Serra Al-Katib was reluctant to report a sexual assault to police, but when she heard about another victim, she decided to come forward. She didn't realize how much the process would cost her.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.705,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "15dfa7581928a375fc094bcd288e9382d3b54d13",
       "url": "https://www.cbc.ca/news/canada/calgary/calgary-washington-research-rat-rodent-weed-9.7234652?cmp=rss",
       "title": "Stoned rats get the munchies. Here's what that means for people with eating disorders, appetite loss",
@@ -69,11 +147,24 @@
       }
     },
     {
+      "id": "4c96708bae82607d705bc4e4f0d7dd2d0efcacd9",
+      "url": "https://www.cbc.ca/news/canada/sudbury/elder-tfai-timiskaming-forest-9.7108419?cmp=rss",
+      "title": "Forestry consortium, First Nation family heading to listening circle amid more possible Ontario court action",
+      "published_at": "2026-06-14T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A forestry consortium that was granted an interlocutory injunction halting a blockade by a family from Matachewan First Nation, allowing it to complete tree-harvesting work in northern Ontario, will sit down in a listening circle with them in a case that may see further court action. \"We’re not against forestry per se, but we want to be able to tell [the consortium] how we believe that needs to be looked after,\" says Dorothy Larkman.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.238,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "c462700f0ba61acd7c37eace98c0e3f48e62aa0d",
       "url": "https://www.cbc.ca/news/canada/calgary/padel-sport-growing-popularity-9.7232679?cmp=rss",
       "title": "First pickleball, now padel: Why ‘social’ sports are growing in popularity",
       "published_at": "2026-06-14T02:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "While the Mexican sport padel has exploded in popularity in other parts of the world, it has struggled to gain traction in Canada — until within just the last five years. Now, it’s seeing more demand than Canada’s courts can handle.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,6 +186,19 @@
       }
     },
     {
+      "id": "e00c97a791c39d8280672febde51040dfd1336a6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/hmcs-fraser-hms-crescent-hmcs-margaree-dunkirk-france-evacuation-second-world-war-9.7233979?cmp=rss",
+      "title": "Canada's newest destroyer carries on legacy of warship lost in 1940 tragedy",
+      "published_at": "2026-06-14T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The first of Canada's new River-class destroyers will be named HMCS Fraser. In 1940, a previous HMCS Fraser aided in evacuating British and other Allied forces from the French coast, and later became the first Royal Canadian Navy ship to sink during the Second World War.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.956,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "4b8e6959322998124bf7c0aaa5e1d4e52556bee7",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/cross-country-hike-1921-jennie-frank-dill-9.7233793?cmp=rss",
       "title": "Wolves, winter and frostbite: Why 2 Nova Scotians walked to Vancouver in 1921",
@@ -104,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e00c97a791c39d8280672febde51040dfd1336a6",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/hmcs-fraser-hms-crescent-hmcs-margaree-dunkirk-france-evacuation-second-world-war-9.7233979?cmp=rss",
-      "title": "Canada's newest destroyer carries on legacy of warship lost in 1940 tragedy",
-      "published_at": "2026-06-14T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The first of Canada's new River-class destroyers will be named HMCS Fraser. In 1940, a previous HMCS Fraser aided in evacuating British and other Allied forces from the French coast, and later became the first Royal Canadian Navy ship to sink during the Second World War.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.956,
         "subjectivity_hint": "low"
       }
     },
@@ -188,32 +279,6 @@
     {
       "id": "2e1f003e907ef4dd2b8611c6aefa6c7737ed3014",
       "url": "https://www.cbc.ca/news/canada/toronto/ford-cusma-trump-talks-9.7233192?cmp=rss",
-      "title": "As CUSMA talks loom, Ontario premier appears to be dropping his more aggressive anti-Trump rhetoric",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.42,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e7627628bad2d6c0a037f43b304fcb3227faec0",
-      "url": "https://www.cbc.ca/news/world/royal-leases-rent-first-nations-leaders-governor-general-buckingham-palace-9.7233432?cmp=rss",
-      "title": "How much rent should a royal pay?",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A report from Britain's National Audit Office revealed Andrew Mountbatten-Windsor had been receiving rental income and that King Charles has been paying the rent — set at less than market value — for his nieces Princesses Beatrice and Eugenie. There are no suggestions of illegality here, but for the House of Windsor, the public financial scrutiny highlights the challenge the monarchy faces in staying relevant and relatable.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.056,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2e1f003e907ef4dd2b8611c6aefa6c7737ed3014",
-      "url": "https://www.cbc.ca/news/canada/toronto/ford-cusma-trump-talks-9.7233192?cmp=rss",
       "title": "A more conciliatory Ford says 'I love the U.S.' as trade talks loom",
       "published_at": "2026-06-14T00:00:00-04:00",
       "section": "Canada",
@@ -221,6 +286,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1e7627628bad2d6c0a037f43b304fcb3227faec0",
+      "url": "https://www.cbc.ca/news/world/royal-leases-rent-first-nations-leaders-governor-general-buckingham-palace-9.7233432?cmp=rss",
+      "title": "How much rent should a royal pay?",
+      "published_at": "2026-06-14T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "A report from Britain's National Audit Office revealed Andrew Mountbatten-Windsor had been receiving rental income and that King Charles has been paying the rent — set at less than market value — for his nieces Princesses Beatrice and Eugenie. There are no suggestions of illegality here, but for the House of Windsor, the public financial scrutiny highlights the challenge the monarchy faces in staying relevant and relatable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.056,
         "subjectivity_hint": "medium"
       }
     },
@@ -235,84 +313,6 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e295dc07d5383aa6df057d0af4c2788929ae0235",
-      "url": "https://www.cbc.ca/sports/basketball/nba/2026-nba-finals-game-5-knicks-spurs-9.7234498?cmp=rss",
-      "title": "'Surreal': New York Knicks win NBA championship for first time in 53 years",
-      "published_at": "2026-06-13T19:48:10-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Jalen Brunson and the Comeback Knicks did it again. And now they're the Champion Knicks. For the first time in 53 years, New York rules the NBA. Brunson scored 45 points, including 13 straight for New York in the fourth quarter, and the Knicks beat the San Antonio Spurs 94-90 in Game 5 of the NBA Finals on Saturday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.91,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c0afa86e0048d708ed1930fa319c25e323d1f81c",
-      "url": "https://www.cbc.ca/sports/basketball/nba/james-harden-arrested-9.7234686?cmp=rss",
-      "title": "NBA star James Harden arrested in Houston for unlawfully carrying weapon in motor vehicle",
-      "published_at": "2026-06-13T13:45:45-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Cleveland Cavaliers player James Harden was arrested on Saturday in Houston on a misdemeanor charge of unlawful carrying of a weapon in a motor vehicle, according to the Harris County District Clerk's Office.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "45624bd0c2d987310fac2d62e102eb7926a9888f",
-      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-qatar-switzerland-june-13-9.7234503?cmp=rss",
-      "title": "Boualem Khoukhi's goal on header in stoppage time earns Qatar 1-1 World Cup draw with Switzerland",
-      "published_at": "2026-06-13T13:34:35-04:00",
-      "section": "World",
-      "summary_auto": "Boualem Khoukhi scored an equalizing goal on a header in the fourth minute of stoppage time, and Qatar spoiled a dominant day by Switzerland in a 1-1 draw Saturday in Group B of the World Cup.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9382c76d28714baeef27c1355edb1fbdb1a9b89a",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/sue-open-ai-suicide-chat-gpt-9.7234630?cmp=rss",
-      "title": "New Brunswick woman sues OpenAI, alleging ChatGPT led to daughter's death",
-      "published_at": "2026-06-13T12:14:13-04:00",
-      "section": "Canada",
-      "summary_auto": "Alice Carrier died by suicide last year. Her mother says OpenAI failed to implement necessary safeguards despite knowing about the state of her daughter's mental health and even reinforced harmful views.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.931,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "590e95991eb5891d17ae2d04f1bf4a02656d989c",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/moncton-overdoses-medetomidine-9.7234603?cmp=rss",
-      "title": "'We’ve never seen a spike like this': Veterinary tranquillizer suspected in Moncton, N.B., overdose surge",
-      "published_at": "2026-06-13T10:54:24-04:00",
-      "section": "Canada",
-      "summary_auto": "First responders and front-line workers in the Greater Moncton area are battling an unprecedented, two-week surge in overdoses driven by a suspected contaminant in the local drug supply.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ee7955f7a2f6fbd669491681626e91196c060af8",
-      "url": "https://www.cbc.ca/news/world/northern-ireland-riot-9.7234611?cmp=rss",
-      "title": "Thousands rally in Northern Ireland to condemn anti-immigration rioting",
-      "published_at": "2026-06-13T10:11:40-04:00",
-      "section": "World",
-      "summary_auto": "Thousands of demonstrators gathered in Belfast on Saturday to denounce anti-immigrant rioters who set fire to homes and cars earlier in the week after a brutal stabbing blamed on an asylum seeker.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.927,
-        "subjectivity_hint": "low"
       }
     }
   ]
