@@ -1,223 +1,483 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-14T15:16:18.791006-04:00",
+  "generated_at": "2026-06-15T15:40:38.379186-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "bb150e204020acf3a919e728e5acbd7f89ec4135",
-      "url": "https://www.cbc.ca/news/world/helicopter-collision-brazil-9.7235062?cmp=rss",
-      "title": "6 people killed after helicopters collide in Brazil",
-      "published_at": "2026-06-14T10:30:03-04:00",
+      "id": "a7ff6e94361304a35add883ee8a8f03be054805b",
+      "url": "https://www.cbc.ca/news/entertainment/love-island-usa-death-executive-producer-9.7235993?cmp=rss",
+      "title": "Love Island USA's executive producer James Barker has died in Fiji",
+      "published_at": "2026-06-15T11:35:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Two helicopters collided over Rio de Janeiro on Sunday morning and crashed in the city's western zone, killing all six people aboard, firefighters said.",
+      "summary_auto": "James Barker, the executive producer of wildly popular television show Love Island USA, has died in Fiji.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.878,
+        "sentiment": 0.612,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "d128b6a2b71d202f3c0d6bee314bac26ccb08044",
-      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-cyle-larin-horse-woodbine-june-14-9.7235013?cmp=rss",
-      "title": "Canada's Cyle Larin finds relaxation — and a competitive comparison — at the horse-racing track he grew up at",
-      "published_at": "2026-06-14T09:07:43-04:00",
-      "section": "Canada",
-      "summary_auto": "x",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b7c10ed30e561a357b19ff35fda73cb2008a64f7",
-      "url": "https://www.cbc.ca/news/world/mayhem-euphoria-new-york-city-knicks-win-9.7234950?cmp=rss",
-      "title": "Mayhem mars Knicks euphoria as New York City celebrates first NBA championship in 53 years",
-      "published_at": "2026-06-14T07:15:19-04:00",
+      "id": "530bb264bb13767b77160bdf81c91a78db723237",
+      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-donald-trump-trade-threats-9.7236037?cmp=rss",
+      "title": "Canada can achieve 'win-win' with U.S. if we don't 'panic and freak out' over trade threats: Smith",
+      "published_at": "2026-06-15T11:30:03-04:00",
       "section": "Top Stories",
-      "summary_auto": "It was bedlam on Broadway as the New York Knicks won their first NBA championship in 53 years on Saturday night, with exuberant celebrations marred by mayhem and violence, including a shooting in Times Square.",
+      "summary_auto": "Alberta Premier Danielle Smith says the art of dealing with U.S. President Donald Trump is to stop panicking every time a new tariff is threatened.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.953,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1ef07b0e41b73a89e67d1fbf1f22d4bda7efc094",
-      "url": "https://www.cbc.ca/news/world/palestinian-death-toll-gaza-tops-73000-9.7234942?cmp=rss",
-      "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
-      "published_at": "2026-06-14T07:09:57-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Palestinian death toll from the Israel-Hamas war has surpassed 73,000, Gaza's Health Ministry said Sunday, despite a fragile ceasefire that has been described as stalled.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.914,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c579bdc03126d50b5482f1e2c3249eba55d40711",
-      "url": "https://www.cbc.ca/news/world/g7-protests-geneva-9.7234925?cmp=rss",
-      "title": "Thousands gather in Geneva to protest G7 as Trump, other leaders hold summit in nearby France",
-      "published_at": "2026-06-14T06:32:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Thousands of demonstrators converged Sunday to show their discontent against the G7 group of countries, with U.S. President Donald Trump and counterparts set to hold a summit starting a day later in nearby France.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1f40d48d5bcf608e25adb2a073a972b0237a083e",
-      "url": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841?cmp=rss",
-      "title": "British forces intercept Russian shadow fleet tanker in the Channel",
-      "published_at": "2026-06-14T04:22:35-04:00",
-      "section": "Top Stories",
-      "summary_auto": "British armed forces intercepted a sanctioned Russian shadow fleet oil tanker in the English Channel on Sunday, leading for the first time an operation to disrupt the oil revenue ​that helps fund Russia's war in Ukraine.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0e427ef7915e4cf7a7238c2a00f6d1ff59ba6b12",
-      "url": "https://www.cbc.ca/news/world/israeli-military-strikes-beirut-suburb-anticipated-us-iran-deal-9.7234856?cmp=rss",
-      "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
-      "published_at": "2026-06-14T04:18:06-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Israeli military said it launched strikes on Beirut on Sunday targeting Hezbollah infrastructure, despite ongoing efforts to negotiate an end to the U.S.-Iran war. Smoke could be seen rising over the Lebanese capital.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
+        "sentiment": -0.7,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "23ac4e9c39d72fc8b046baf49592a4e6ab1f91c0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/yota-kano-race-to-alaska-prince-rupert-kitkatla-9.7229220?cmp=rss",
-      "title": "He’s paddled 60 km to work on B.C.’s North Coast. This week, he’ll try to kayak from Washington to Alaska",
-      "published_at": "2026-06-14T04:00:00-04:00",
+      "id": "95b0f9bf0b2812f21b446e8b090f3be686dedf40",
+      "url": "https://www.cbc.ca/news/entertainment/tyra-banks-sues-netflix-alleging-defamation-9.7235633?cmp=rss",
+      "title": "Tyra Banks sues Netflix over America's Next Top Model documentary, alleging defamation",
+      "published_at": "2026-06-15T11:25:32-04:00",
       "section": "Top Stories",
-      "summary_auto": "Prince Rupert's Yota Kano is competing in the Race to Alaska, a more than 1,200-metre race from Port Townsend, Wash., to Ketchikan, Alaska.",
+      "summary_auto": "Tyra Banks has filed a defamation lawsuit against Netflix and the directors of its docuseries Reality Check: Inside America's Next Top Model, alleging that the producers stripped down hours of interview footage to construct a false narrative.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": 0.178,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "96b1cc540d78662d4b115c29dd84d3a33a9fa7d8",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/canada-history-webb-sask-rail-crew-bus-crash-1980-memorial-9.7233647?cmp=rss",
-      "title": "New memorial marks one of Canada's deadliest — but less known — highway accidents",
-      "published_at": "2026-06-14T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A new plaque on a roadside monument west of Swift Current, Sask. details a fiery three-vehicle accident that left 22 young men dead and eight injured on May 28, 1980. The men came from out of province to work on Canadian Pacific Railway’s “Prairie Steel Gang” track crew.",
+      "id": "826cb9704e2f4138da2f50af5a6e922508052d92",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-nord-police-community-leaders-9.7235903?cmp=rss",
+      "title": "As racism allegations surface, Montréal-Nord community leaders ask police: What now?",
+      "published_at": "2026-06-15T11:05:11-04:00",
+      "section": "Canada",
+      "summary_auto": "People working with Montréal-Nord's youth say there is a pressing \"urgency to act\" following a police racism scandal in the borough. They are demanding a meeting with the police chief.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.961,
+        "sentiment": -0.919,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4e5375841e53053fcebf8e7c9473d72c31a8f90a",
+      "url": "https://www.cbc.ca/news/world/gavin-newsom-doj-investigation-9.7236041?cmp=rss",
+      "title": "Gavin Newsom says Trump directed U.S. Justice Department to investigate him",
+      "published_at": "2026-06-15T11:04:22-04:00",
+      "section": "Top Stories",
+      "summary_auto": "California Governor Gavin Newsom on Monday accused U.S. President Donald Trump of directing the Justice Department to investigate him and his wife.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1c58360a9ee2ecc5da14e8128114e0f003330ed3",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/canada-cracking-down-on-asylum-claims-from-st-pierre-miquelon-ferry-to-n-l-9.7235986?cmp=rss",
+      "title": "Canada cracking down on asylum claims from St-Pierre-Miquelon ferry to N.L.",
+      "published_at": "2026-06-15T10:30:26-04:00",
+      "section": "Canada",
+      "summary_auto": "The federal government says it is cracking down on what it calls a \"low volume\" of asylum claims made by foreigners arriving in Newfoundland and Labrador from a nearby territory of France.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "36dcca745745dd486aed951f95cbec82481b73fd",
+      "url": "https://www.cbc.ca/radio/asithappens/nintendo-entertainment-system-games-ranking-9.7235830?cmp=rss",
+      "title": "Which 8-bit Nintendo games are worth playing today? This critic is playing all 751 of them to find out",
+      "published_at": "2026-06-15T10:30:05-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jeff Gerstmann is nearly finished playing and ranking every game released in North America for the Nintendo Entertainment System — all 751 of them.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "77cba0ffde03f6feb72728511dd4a901c2f0145b",
+      "url": "https://www.cbc.ca/news/politics/deaths-drop-latest-opioid-data-health-canada-9.7235894?cmp=rss",
+      "title": "Opioid deaths dropped 23% in 2025 — bringing 'cautious optimism' from Canada's top doctor",
+      "published_at": "2026-06-15T10:11:25-04:00",
+      "section": "Health",
+      "summary_auto": "Opioid overdose deaths across Canada dropped by nearly a quarter last year compared to 2024, with health officials hailing the data as a sign that the federal government's drug policy is working.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ad96563a307986541e4d8fd3ab22a9a22ec5b462",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/cabo-verde-spain-world-cup-recap-june-15-9.7235907?cmp=rss",
+      "title": "World Cup contender Spain and Cape Verde play to surprising scoreless draw",
+      "published_at": "2026-06-15T10:08:57-04:00",
+      "section": "World",
+      "summary_auto": "An impressive performance by 40-year-old goalkeeper Vozinha helped Cape Verde play Spain, one of the favourites to win the World Cup, to a 0-0 draw on Monday. The first scoreless match is the biggest shock of the tournament so far.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b9efcc991fbdfbe060e7949fe336725028ed7c3e",
+      "url": "https://www.cbc.ca/news/indigenous/tyler-evans-knotts-flute-costs-9.7233764?cmp=rss",
+      "title": "Anishinaabe flutist faces financial barriers over new instrument",
+      "published_at": "2026-06-15T09:49:32-04:00",
+      "section": "Canada",
+      "summary_auto": "Tyler Evans-Knott, a 25-year-old flutist from Curve Lake First Nation, was recently accepted into McGill University’s Schulich School of Music, but had to decline the offer since he needs but can't yet afford a new instrument.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.141,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3d289b400c6b268437803b3673cd71f30272abf",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-connections-stanley-cup-nhl-9.7235478?cmp=rss",
+      "title": "'Greatest moment of my life': Winnipeg's Seth Jarvis gets his name on Stanley Cup",
+      "published_at": "2026-06-15T09:36:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "a5ee6b6aedb14846b5cc14b07553c79e1580f01e",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-sexual-assault-reporting-trial-9.7207279?cmp=rss",
-      "title": "It took courage to report my sexual assault. 608 days later, everything fell apart",
-      "published_at": "2026-06-14T03:00:00-04:00",
+      "id": "133a70822b4f6c0f743be1333914f52b8535a68a",
+      "url": "https://www.cbc.ca/news/world/santo-domingo-nightclub-roof-collapse-9.7235829?cmp=rss",
+      "title": "Owners of Santo Domingo nightclub to stand trial over roof collapse that killed 236",
+      "published_at": "2026-06-15T09:24:15-04:00",
       "section": "Top Stories",
-      "summary_auto": "Serra Al-Katib was reluctant to report a sexual assault to police, but when she heard about another victim, she decided to come forward. She didn't realize how much the process would cost her.",
+      "summary_auto": "The sibling owners of the Santo Domingo nightclub where a roof collapse killed 236 people and injured more than 100 last year will stand trial for involuntary manslaughter, a judge ruled Monday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.705,
+        "sentiment": -0.959,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1e06cf4300c4a9382acd8b895396558371de1961",
+      "url": "https://www.cbc.ca/news/canada/london/london-fitness-centre-mall-car-crash-charges-9.7235850?cmp=rss",
+      "title": "Woman charged after car crashed into fitness studio in London, Ont., mall, injuring 7",
+      "published_at": "2026-06-15T08:57:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A London, Ont., woman faces multiple criminal negligence causing bodily harm charges after a vehicle crashed into a GoodLife Fitness centre at Sherwood Forest Mall in the city's north end.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b2c220c263d1be7c4b86b1814ae1f347aff1ee7",
+      "url": "https://www.cbc.ca/news/business/armstrong-oil-trump-strait-of-hormuz-9.7235613?cmp=rss",
+      "title": "What it will take to restore global energy flow — and bring down gas prices",
+      "published_at": "2026-06-15T08:17:11-04:00",
+      "section": "Business",
+      "summary_auto": "U.S. President Donald Trump says \"let the oil flow.\" But actually getting global oil markets back to anything close to normal will take time, money and pose an immense logistical challenge.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b13449316e06fcc0c3226bcf20d142c1338e9836",
+      "url": "https://www.cbc.ca/news/canada/hamilton/frid-street-data-centre-9.7235088?cmp=rss",
+      "title": "Building cleaner AI data centres better than not building at all, CEO behind Hamilton proposal says",
+      "published_at": "2026-06-15T06:24:26-04:00",
+      "section": "Canada",
+      "summary_auto": "The head of an Ontario tech company proposing an AI data centre for the old Hamilton Spectator building on Frid Street says he understands people's concerns about such facilities and wants to build them better.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ce07c7c0dda0aed46a20d87c06f1199c34b3ca6",
+      "url": "https://www.cbc.ca/news/canada/toronto/funeral-fallen-opp-officer-9.7235534?cmp=rss",
+      "title": "Funeral for OPP officer killed in northern Ontario set for Thursday",
+      "published_at": "2026-06-15T06:03:56-04:00",
+      "section": "Canada",
+      "summary_auto": "The funeral for Ontario Provincial Police Const. Tarun Bali, who was killed last week, has been scheduled. Bali, 29, was struck by a vehicle in a northern Ontario town as officers carried out an investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.943,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9b50d634e74e47b120b832e58447e3d52bb1ea39",
+      "url": "https://www.cbc.ca/news/business/fox-roku-deal-9.7235461?cmp=rss",
+      "title": "Fox agrees to buy streaming pioneer Roku for $22B US",
+      "published_at": "2026-06-15T05:41:35-04:00",
+      "section": "World",
+      "summary_auto": "The deal gives Fox access to more than 100 million households already using Roku, and will help the traditional TV giant push further into the world of streaming.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.542,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "15dfa7581928a375fc094bcd288e9382d3b54d13",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-washington-research-rat-rodent-weed-9.7234652?cmp=rss",
-      "title": "Stoned rats get the munchies. Here's what that means for people with eating disorders, appetite loss",
-      "published_at": "2026-06-14T03:00:00-04:00",
+      "id": "d89cbcd73780598f3f839ceff3f09120683e6abf",
+      "url": "https://www.cbc.ca/news/canada/montreal/station-39-montreal-nord-investigation-dagher-9.7235372?cmp=rss",
+      "title": "Calls grow for independent investigation into alleged racism at Montréal-Nord police station",
+      "published_at": "2026-06-15T05:17:32-04:00",
       "section": "Top Stories",
-      "summary_auto": "It turns out stoned rats get the munchies too. New research from the University of Calgary and Washington State University digs into the effects of cannabis on rats and humans, particularly when it comes to appetite.",
+      "summary_auto": "Quebec's Domestic Security Minister Ian Lafrenière is appointing an independent observer to follow the investigation by Montreal police into a group of officers accused of racial profiling and discrimination during interventions in Montréal-Nord.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "4c96708bae82607d705bc4e4f0d7dd2d0efcacd9",
-      "url": "https://www.cbc.ca/news/canada/sudbury/elder-tfai-timiskaming-forest-9.7108419?cmp=rss",
-      "title": "Forestry consortium, First Nation family heading to listening circle amid more possible Ontario court action",
-      "published_at": "2026-06-14T02:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A forestry consortium that was granted an interlocutory injunction halting a blockade by a family from Matachewan First Nation, allowing it to complete tree-harvesting work in northern Ontario, will sit down in a listening circle with them in a case that may see further court action. \"We’re not against forestry per se, but we want to be able to tell [the consortium] how we believe that needs to be looked after,\" says Dorothy Larkman.",
+      "id": "7f879d211f8d5b14aa655dff8845c1f2730a0051",
+      "url": "https://www.cbc.ca/news/business/stock-oil-markets-june-15-9.7235409?cmp=rss",
+      "title": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war",
+      "published_at": "2026-06-15T04:50:18-04:00",
+      "section": "World",
+      "summary_auto": "Oil prices fell more than $4 US a barrel on news of a deal to end the fighting, as world markets responded positively to the developments. The S&P 500, Dow Jones Industrial Average and Nasdaq Composite all rose in early trading on Monday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.238,
-        "subjectivity_hint": "high"
+        "sentiment": -0.612,
+        "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "c462700f0ba61acd7c37eace98c0e3f48e62aa0d",
-      "url": "https://www.cbc.ca/news/canada/calgary/padel-sport-growing-popularity-9.7232679?cmp=rss",
-      "title": "First pickleball, now padel: Why ‘social’ sports are growing in popularity",
-      "published_at": "2026-06-14T02:00:00-04:00",
+      "id": "c5e04c405b95ce2f2979d27ffbe0bf4de0524e3e",
+      "url": "https://www.cbc.ca/news/world/uk-social-media-proposed-legislation-9.7235381?cmp=rss",
+      "title": "Britain to introduce legislation to ban under-16s on social media, Starmer says",
+      "published_at": "2026-06-15T04:19:03-04:00",
+      "section": "World",
+      "summary_auto": "Britain will ban children under 16 from using a range of social media apps including Snapchat, TikTok and YouTube to protect young people from harmful content and excessive screen time, Prime Minister Keir Starmer said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a801d8adb392d9e969c4f1fc18f23d27a06f0c7a",
+      "url": "https://www.cbc.ca/news/world/lebanon-israel-iran-united-states-peace-deal-9.7235389?cmp=rss",
+      "title": "Lebanon fighting eases after U.S.-Iran deal but displaced warned not to rush home",
+      "published_at": "2026-06-15T04:01:25-04:00",
+      "section": "World",
+      "summary_auto": "Fighting in southern Lebanon abated on Monday after the announcement of a U.S.-Iran deal to end the wider conflict, but local authorities warned displaced people not to rush home and Israel said it would not withdraw its troops from the area.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.891,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e1d44ea8429bf3caad2830202d2f4e10dd62792c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/linden-alberta-ambulance-calls-9.7234439?cmp=rss",
+      "title": "This Alberta village has an ambulance, but it's out of town 96% of the time",
+      "published_at": "2026-06-15T04:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "According to recent data from Emergency Health Services Alberta, the Village of Linden's ambulance has responded 11 calls within its coverage zone and 292 outside of it so far this year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4e9522ef44671bd0af338c05e8f7603b8603662e",
+      "url": "https://www.cbc.ca/news/business/chinese-electric-vehicles-ev-canada-trade-2026-9.7229044?cmp=rss",
+      "title": "For Chinese automakers, markets like Canada are more important than ever",
+      "published_at": "2026-06-15T03:43:34-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.556,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c159d4e74c9982e5144c363dad081d2a2b81cb9b",
+      "url": "https://www.cbc.ca/news/canada/toronto/officer-injured-struck-alleged-stolen-vehicle-9.7235387?cmp=rss",
+      "title": "12-year-old driving stolen car charged after striking officer in Toronto's east end: police",
+      "published_at": "2026-06-15T03:34:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A 12-year-old boy has been hospitalized and is facing charges, the Special Investigations Unit says, after he was shot at by police while driving an allegedly stolen vehicle in East York early Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7269dfb4bc37f52af8907fcb3ac3801aa79f9579",
+      "url": "https://www.cbc.ca/news/canada/edmonton/treaty-6-canoe-trip-9.7233538?cmp=rss",
+      "title": "These teens retraced a 150-year-old river route to commemorate Treaty 6",
+      "published_at": "2026-06-15T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "2026 marks 150 years since the signing of Treaty 6 — and students with the Lloydminster Public School Division are marking it in a big way: by retracing the route taken by First Nations and Canadian Crown dignitaries who entered the agreement in 1876.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "92dab7ca8bb727da29f6fa2ad0adf3e3837bc403",
+      "url": "https://www.cbc.ca/news/world/norway-royals-borg-hoiby-sentencing-9.7235354?cmp=rss",
+      "title": "Norway crown princess's son sentenced to 4 years in prison after rape conviction",
+      "published_at": "2026-06-15T02:23:44-04:00",
+      "section": "World",
+      "summary_auto": "Marius Borg Høiby, the eldest son of Norway's Crown Princess Mette-Marit, was sentenced to four years in prison Monday after being convicted of rape.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "216a3f5e75d11a6d307a7336081374ccd5aec7bc",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-colon-cancer-screening-9.7233567?cmp=rss",
+      "title": "His colon cancer was originally misdiagnosed. Now he's encouraging screening as Ontario boosts capacity",
+      "published_at": "2026-06-15T02:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Starting next month, Ontarians who are 45 years old will be eligible for colorectal cancer screening. Some patients and advocates question whether the province is ready for the additional pressure on the system, but Ontario says it's boosting capacity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2337cb0f8fab004b7bf7d3c26d946168c58954e4",
+      "url": "https://www.cbc.ca/news/canada/manitoba/digital-patient-records-hospitals-march-2027-9.7233423?cmp=rss",
+      "title": "Manitoba will have electronic patient records that can be shared between hospitals by next spring",
+      "published_at": "2026-06-15T02:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Every Manitoba hospital will soon begin building electronic records that will mean a patient's care history follows them from one hospital to another.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7f278502b03fe7e6509cb234d56f6cf7cc43ee51",
+      "url": "https://www.cbc.ca/news/world/kyiv-cathedral-russian-missile-kharkiv-9.7235337?cmp=rss",
+      "title": "Russian attacks kill 11 across Ukraine, set centuries-old religious site in Kyiv ablaze",
+      "published_at": "2026-06-15T01:52:21-04:00",
+      "section": "World",
+      "summary_auto": "Russia fired hundreds of drones and dozens of missiles at Ukraine's biggest cities in a nighttime bombardment that killed at least 11 people and set fire to a renowned religious site, Ukrainian President Volodymyr Zelenskyy and other officials said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.959,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "07bbb8b9d648f47edc88d9496d969660e6f22a32",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/rental-market-numbers-halifax-9.7231602?cmp=rss",
+      "title": "Why Halifax is one of the toughest markets for renters, by the numbers",
+      "published_at": "2026-06-15T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Rents have been increasing at a faster pace in Halifax than in other large Canadian cities, putting pressure on affordability, says the\nCanada Mortgage and Housing Corporation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "62f990dd2c48add0605f7e77754767e9e469f7df",
+      "url": "https://www.cbc.ca/radio/thecurrent/st-marys-newfoundland-fish-sauce-plant-cleanup-9.7229988?cmp=rss",
+      "title": "How do you get rid of 110 vats of smelly fish sauce? This Newfoundland town is finally getting an answer",
+      "published_at": "2026-06-15T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It’ll take about 200 trips with a standard-sized dump truck to put an end to a stinky problem that has plagued the town of St. Mary’s, N.L., for the past 25 years.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f2654d6855f49c5c31c484bff0814b5248a1958",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-police-have-a-sexual-misconduct-problem-a-decade-of-fixes-have-largely-failed-9.7214201?cmp=rss",
+      "title": "Ottawa police have a sexual misconduct problem. A decade of fixes have largely failed",
+      "published_at": "2026-06-15T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "While the Mexican sport padel has exploded in popularity in other parts of the world, it has struggled to gain traction in Canada — until within just the last five years. Now, it’s seeing more demand than Canada’s courts can handle.",
+      "summary_auto": "After 10 years of assessments, recommendations, promises and millions of dollars spent by the Ottawa Police Service to end sexual violence and harassment among its ranks, some current and former employees of the force tell CBC News they don't think meaningful change is coming.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.797,
+        "sentiment": -0.918,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "464d568443016f79c65aa9983bb2554ddf7c2be0",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/socceroos-score-in-over-turkey-vancouver-world-cup-9.7234817?cmp=rss",
-      "title": "Socceroos score big over Turkey in Vancouver's 2026 World Cup hosting debut",
-      "published_at": "2026-06-14T01:25:32-04:00",
+      "id": "df3781507dd0c269aa4720679d356a826775c84b",
+      "url": "https://www.cbc.ca/news/health/tbi-trauma-care-research-9.7233453?cmp=rss",
+      "title": "Women with traumatic brain injury 26 per cent less likely to receive trauma care than men, Ontario study finds",
+      "published_at": "2026-06-15T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Australia win Group D match with great goalkeeping and a stout defence.",
+      "summary_auto": "New Ontario research shows women with traumatic brain injuries are far less likely to be admitted for trauma care than men, raising questions over why patients with similar, life-altering injuries may be receiving less-specialized treatment.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.875,
-        "subjectivity_hint": "low"
+        "sentiment": -0.84,
+        "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "e00c97a791c39d8280672febde51040dfd1336a6",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/hmcs-fraser-hms-crescent-hmcs-margaree-dunkirk-france-evacuation-second-world-war-9.7233979?cmp=rss",
-      "title": "Canada's newest destroyer carries on legacy of warship lost in 1940 tragedy",
-      "published_at": "2026-06-14T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The first of Canada's new River-class destroyers will be named HMCS Fraser. In 1940, a previous HMCS Fraser aided in evacuating British and other Allied forces from the French coast, and later became the first Royal Canadian Navy ship to sink during the Second World War.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.956,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4b8e6959322998124bf7c0aaa5e1d4e52556bee7",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/cross-country-hike-1921-jennie-frank-dill-9.7233793?cmp=rss",
-      "title": "Wolves, winter and frostbite: Why 2 Nova Scotians walked to Vancouver in 1921",
-      "published_at": "2026-06-14T01:00:00-04:00",
+      "id": "a6fc5ac2350963bb2d5e94506dbdf32e86b20720",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-international-bridge-9.7233814?cmp=rss",
+      "title": "Meet the 6-year-old waiting to cross the Gordie Howe bridge after years of watching it be built",
+      "published_at": "2026-06-15T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "Just over a century ago, Jennie Dill was one of the most famous women in Canada. She had just done something no woman had ever done before. She walked across the country.",
+      "summary_auto": "Since Lucas Legare was two years old, he's been watching history in the making with nearly weekly visits to the Gordie Howe International Bridge — an example of the building anticipation for the bridge's opening.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": 0.103,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "8fa775b701dc0a7efcf2232721067e3ccb1e39e8",
-      "url": "https://www.cbc.ca/news/canada/montreal/shawinigan-white-nationalists-racism-quebec-politics-9.7221133?cmp=rss",
-      "title": "Why some say Quebec politicians helped fuel the racism they unanimously denounced",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "In a rare move, four provincial parties denounced a gathering in Shawinigan, Que., captured in a photo, during which more than a dozen masked  white nationalists  held a banner that read, “I remember a white Quebec.” But some observers say the province's climate in recent decades has helped fuel this type of behaviour.",
+      "id": "40c6aaf82befd68006051b8f8a06c9e9d57bcb16",
+      "url": "https://www.cbc.ca/news/world/world-cup-iran-los-angeles-9.7235050?cmp=rss",
+      "title": "War, sports collide as Iran's World Cup kicks off in Los Angeles",
+      "published_at": "2026-06-15T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "A divisive collision of geopolitics and sports is playing out in a community with emotional ties to two countries at war, setting the stage for drama and protest that will go beyond the pitch.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fe68dd4ad748875ca964c3c6531a9a1996384575",
+      "url": "https://www.cbc.ca/news/canada/ottawa/crohns-music-career-creator-network-ottawa-9.7195667?cmp=rss",
+      "title": "Guitars, medication and heating pads: How these musicians manage chronic illness on the road",
+      "published_at": "2026-06-15T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "After her music blew up during lockdown, Canadian indie musician Hannah Judge, a.k.a. fanclubwallet, says it's been challenging to navigate a music career and touring while managing the symptoms of Crohn's disease. She explores how she and other musicians do it in a short documentary for CBC Ottawa’s Creator Network.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dab631fbba0c334b55a6f8a7a164c94f1bfa28a0",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-agreement-mou-9.7235197?cmp=rss",
+      "title": "Iran, U.S. have a deal of sorts. What happens next?",
+      "published_at": "2026-06-14T17:40:54-04:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump and senior Iranian officials say they have reached a memorandum of understanding to bring an end to the war pitting the United States and Israel against Iran. Here's what we know about the deal so far.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.178,
@@ -225,94 +485,16 @@
       }
     },
     {
-      "id": "d3568cdb545f0712d2d399847aabefc120d53c1d",
-      "url": "https://www.cbc.ca/news/politics/david-eby-ai-chatbots-online-harms-social-media-susan-holy-mandatory-reporting-9.7234588?cmp=rss",
-      "title": "Ottawa's online harms bill 'a miss' when it comes to regulating AI chatbots: B.C. premier",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "B.C. Premier David Eby says the federal government's newly introduced online harms bill \"is a miss\" when it comes to addressing AI chatbots because it doesn't require tech companies to report users' concerning interactions to police.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6de14c5eb77341bf73355d935be53130417beccd",
-      "url": "https://www.cbc.ca/radio/whatonearth/backcountry-avalanche-risk-9.7232009?cmp=rss",
-      "title": "B.C. woman who survived avalanche says it was like 'being hit by a truck'",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Hannah Hughes was backcountry skiing in Norway when she looked up to see a wall of snow barreling towards her. She now faces a long recovery from her injuries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4bd5d36197499baef808718cace8237fb6fd3618",
-      "url": "https://www.cbc.ca/news/science/iss-leaks-9.7231829?cmp=rss",
-      "title": "The International Space Station is showing its age",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The International Space Station had a proposed lifespan of 15 years, but it has far exceeded that, and it's starting to show its age. Is it time to deorbit it?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cdb7c5b247ec957fe01e0b51aa02c942f6b7ee65",
-      "url": "https://www.cbc.ca/news/politics/province-territory-legislature-sitting-9.7233632?cmp=rss",
-      "title": "Just how many days do provincial politicians spend legislating? We did the math",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Some politicians say the number of days spent in the legislature doesn't matter too much, because the most important work is done in their constituency offices. Others say less time in legislatures allows provincial and territorial governments to avoid accountability and pass flawed legislation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.455,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2e1f003e907ef4dd2b8611c6aefa6c7737ed3014",
-      "url": "https://www.cbc.ca/news/canada/toronto/ford-cusma-trump-talks-9.7233192?cmp=rss",
-      "title": "A more conciliatory Ford says 'I love the U.S.' as trade talks loom",
-      "published_at": "2026-06-14T00:00:00-04:00",
+      "id": "6fa64f7cd5152af3deecfc4ce130939a679651de",
+      "url": "https://www.cbc.ca/news/canada/calgary/taber-cory-morgan-billboard-alberta-separation-9.7235184?cmp=rss",
+      "title": "Pro-separation billboard still up after removal deadline from Alberta town passes",
+      "published_at": "2026-06-14T16:16:12-04:00",
       "section": "Canada",
-      "summary_auto": "Doug Ford appears to be throttling back on aggressive anti-Trump rhetoric with key trade talks looming with the U.S., stepping up a charm offensive aimed at politicians and lobby groups in the mercurial president’s orbit.",
+      "summary_auto": "Cory Morgan says the sign he paid for is still standing in Taber, Alta., in defiance of a letter he says the town sent earlier this month to the private owner of the billboard demanding the message be removed by Saturday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1e7627628bad2d6c0a037f43b304fcb3227faec0",
-      "url": "https://www.cbc.ca/news/world/royal-leases-rent-first-nations-leaders-governor-general-buckingham-palace-9.7233432?cmp=rss",
-      "title": "How much rent should a royal pay?",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "A report from Britain's National Audit Office revealed Andrew Mountbatten-Windsor had been receiving rental income and that King Charles has been paying the rent — set at less than market value — for his nieces Princesses Beatrice and Eugenie. There are no suggestions of illegality here, but for the House of Windsor, the public financial scrutiny highlights the challenge the monarchy faces in staying relevant and relatable.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.056,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4bd5d36197499baef808718cace8237fb6fd3618",
-      "url": "https://www.cbc.ca/news/science/iss-leaks-9.7231829?cmp=rss",
-      "title": "The International Space Station is old and leaky. Should it be decommissioned sooner rather than later?",
-      "published_at": "2026-06-14T00:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "The International Space Station had a proposed lifespan of 15 years, but it has far exceeded that, and it's starting to show its age. Is it time to deorbit it?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
       }
     }
   ]
