@@ -1,275 +1,80 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-18T08:47:36.443927-04:00",
+  "generated_at": "2026-06-19T09:30:31.908925-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "92b1e966587f8cfa9d0b98a1a24ca8b8a223182f",
-      "url": "https://www.cbc.ca/news/business/prediction-markets-wealthsimple-9.7239575?cmp=rss",
-      "title": "Hot bet summer? Soon Canadians will be able to trade on prediction markets",
-      "published_at": "2026-06-18T04:37:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian retail investors will be able to access prediction markets through a Canadian company this summer, after the platforms had been banned for years. Prediction markets are experiencing explosive growth, and seen as both a financial vehicle and as gambling.",
+      "id": "9b28fb926fc2a4bb6ac877cf5c9c94ba3dc8b83c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/naloxone-bc-overdose-9.7239347?cmp=rss",
+      "title": "Access to free naloxone in B.C. preventing 4 out of 5 potentially fatal overdoses, report finds",
+      "published_at": "2026-06-19T05:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Thousands of people have died due to the toxic drug crisis in the decade since B.C. declared it a public health emergency. But a new study shows that many more could have died if not for the province's harm reduction efforts.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3b18c1b964d6c1948b54be8fe65d61b619630912",
-      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tankers-pass-iran-israel-strikes-lebanon-9.7239768?cmp=rss",
-      "title": "Tankers cross Strait of Hormuz after Iran deal signed, while Israel strikes Lebanon",
-      "published_at": "2026-06-18T04:12:49-04:00",
-      "section": "World",
-      "summary_auto": "Three Saudi-flagged supertankers carrying six million barrels of crude sailed through the Strait of Hormuz on Thursday, hours after U.S. President Donald Trump signed a deal with Iran to end the war that has disrupted global energy supplies.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.84,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3bec5718c6679828a19539bf6159f46200831472",
-      "url": "https://www.cbc.ca/news/world/church-england-apology-adoptions-9.7239734?cmp=rss",
-      "title": "Church of England apologizes for its role in decades of forced adoptions",
-      "published_at": "2026-06-18T03:30:07-04:00",
-      "section": "World",
-      "summary_auto": "The Church of England apologized Thursday for its role in forced adoptions as recent as the mid-1970s, acknowledging the painful experiences of many unmarried women at so-called mother and baby homes in the United Kingdom that were affiliated with the church.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bb3975950c13334e9bb85aba950eaa5addd818d2",
-      "url": "https://www.cbc.ca/news/canada/saskatoon/youth-school-shooting-threats-peace-bond-9.7239441?cmp=rss",
-      "title": "Terrorism peace bond imposed on youth who planned school violence in Saskatoon",
-      "published_at": "2026-06-18T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A 14-year-old who was making plans to carry out a school shooting in Saskatoon will be under a terrorism peace bond for the next year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "169a5a5be0fea04e43be368192f8268b292f003f",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-fscd-waitlist-disabilities-9.7236261?cmp=rss",
-      "title": "An estimated 20,000 Alberta kids face waiting years to get therapy for disabilities",
-      "published_at": "2026-06-18T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An estimated 20,000 children are stuck on Alberta’s Family Support for Children with Disabilities (FSCD) waiting list, facing years of delays to get speech, behavioural and other treatment or therapy for autism and various disabilities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "99177a2d3288a1bdb8131577e673387b5becb3c7",
-      "url": "https://www.cbc.ca/news/world/drone-attack-moscow-refinery-9.7239717?cmp=rss",
-      "title": "Ukraine hits Moscow oil refinery again, part of massive drone wave inside Russia",
-      "published_at": "2026-06-18T02:25:11-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Ukraine hit a Moscow oil refinery for a second time in a week and disrupted commercial flights at Moscow airports in one of its biggest drone attacks since Russia's invasion more than four years ago, Russian officials said Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dd016d39ae541982be06cd90dbeb0c04a57ccafc",
-      "url": "https://www.cbc.ca/news/canada/sudbury/ai-data-centre-withdrawn-armour-township-9.7239102?cmp=rss",
-      "title": "Developer withdraws plans to build northern Ontario AI data centre over public opposition",
-      "published_at": "2026-06-18T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "A developer has withdrawn its plans to build a two-megawatt artificial intelligence (AI) data centre in Armour Township, Ont., due to public opposition to the project.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "dce3217d90db7f2d356ba8f4a5487460c83a57e7",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/amoc-shutdown-atlantic-ocean-east-coast-9.7199856?cmp=rss",
-      "title": "Why scientists are concerned about the AMOC, and how it could impact the East Coast",
-      "published_at": "2026-06-18T01:00:00-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "New research shows that the important AMOC is already slowing down and bringing it closer to a tipping point and eventual shutdown. The impacts would be significant for Atlantic Canada and the planet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "ebe2270331266ab0d446cf6f1704e3843dfe439e",
-      "url": "https://www.cbc.ca/news/business/blue-dot-fever-concert-ticket-prices-ticketmaster-9.7238314?cmp=rss",
-      "title": "Some artists feeling 'blue dot fever,' fans say, as high ticket prices make concertgoers more selective",
-      "published_at": "2026-06-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The name \"blue dot fever\" comes from the blue dots on Ticketmaster's website, indicating unsold seats. Some fans say they're going to fewer shows because of the high price tag.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "df82cfa955c47d116aea6bfe9822ce2004b6de54",
-      "url": "https://www.cbc.ca/news/world/london-beavers-9.7238399?cmp=rss",
-      "title": "Leave it to the beavers: How the industrious mammals are helping to stop a London tube station from flooding",
-      "published_at": "2026-06-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A family of beavers that came to London in 2023 is thriving in west London, and preventing flooding by doing what they do best — building dams.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bedb7d225b2f1110ba0e73c5948f74fe04af9c15",
-      "url": "https://www.cbc.ca/radio/sunday/gagetown-60-agent-orange-9.7238622?cmp=rss",
-      "title": "60 years ago, Agent Orange was sprayed at CFB Gagetown. Vets want to know: are toxins still in the soil?",
-      "published_at": "2026-06-18T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Sixty years after Agent Orange got sprayed at CFB Gagetown, veterans, military family members and some U.S. lawmakers are still raising concerns these herbicides could linger in the soil. They are calling for more testing as Canada redevelops the base.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": -0.951,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "9aa8f5a96a8e4b40441bae2fc86891b2fb1966dd",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-legislature-sitting-day-number-9.7238790?cmp=rss",
-      "title": "Ontario's legislature is set for its shortest sitting in decades. Here's what it means for the Ford government",
-      "published_at": "2026-06-18T00:00:00-04:00",
+      "id": "85cb3babd10ec55b810384025889b2325154a21a",
+      "url": "https://www.cbc.ca/news/canada/toronto/livestory/frank-stronach-sexual-assault-trial-9.7072022?cmp=rss",
+      "title": "Canadian businessman Frank Stronach found guilty of sexual assault, indecent assault",
+      "published_at": "2026-06-19T04:36:36-04:00",
       "section": "Top Stories",
-      "summary_auto": "Premier Doug Ford’s government is on pace to sit for the fewest days of any Ontario government over the past five decades in a year when voters aren’t headed to the polls. And experts warn the decision to shorten the calendar at Queen’s Park comes with its strategic benefits — and pitfalls — for the Tories as the legislature settles into a 21-week break.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.296,
+        "sentiment": -0.886,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "a575d36339d8ef4590144802be28e4eb47c4c092",
-      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-transmission-lines-new-york-9.7238106?cmp=rss",
-      "title": "Hydro-Québec powers up New York exports amid tightening energy reserves",
-      "published_at": "2026-06-18T00:00:00-04:00",
+      "id": "6d419afb5b98edaa173f40853ac9bc01a682e201",
+      "url": "https://www.cbc.ca/news/canada/montreal/public-inquiry-racism-premier-quebec-9.7241360?cmp=rss",
+      "title": "Pressure grows on Quebec premier to hold inquiry into racism within Montreal police",
+      "published_at": "2026-06-19T03:39:38-04:00",
       "section": "Top Stories",
-      "summary_auto": "Hydro-Québec has begun exporting electricity to New York City under a long-term contract that critics say comes at an awkward time, as Quebec grapples with growing demand at home and lower-than-usual reservoir levels.",
+      "summary_auto": "A  coalition of groups have sent a letter to Premier Christine Fréchette, reiterating the call for the province to hold a public inquiry into racism and racial profiling within Montreal police. This demand is in connection with the allegations of racism that led to the police force investigating 16 officers at a police station in the city's Montréal-Nord borough.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.128,
+        "sentiment": -0.944,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "b421cfa6a53d4301b9281b8d8fd3405dc0cd4347",
-      "url": "https://www.cbc.ca/news/canada/nhl-cbc-rogers-money-9.7238778?cmp=rss",
-      "title": "NHL fans will now have to pay to watch games on Sportsnet. What that means for Rogers — and CBC",
-      "published_at": "2026-06-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The National Hockey League season came to a close this month and with it came the end of an era as longtime partners Rogers and CBC were unable to come to a new agreement for NHL broadcasts. So Canadian fans will only be able to watch games in Canada if they pay for a Sportsnet cable or streaming subscription.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "492b427dc298a89c53befef8be0c5d44fe287613",
-      "url": "https://www.cbc.ca/news/canada/federal-court-challenge-safe-third-country-agreement-safety-valves-9.7238902?cmp=rss",
-      "title": "Federal Court challenge says Canada failing to protect refugees turned back to U.S.",
-      "published_at": "2026-06-18T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Advocates say Ottawa is ignoring safeguards required by a 2023 Supreme Court ruling, leaving asylum seekers vulnerable to detention and deportation after being denied entry at the border.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c561beecfc0452165a6999771d51d16928e1b13e",
-      "url": "https://www.cbc.ca/news/world/central-park-carriage-horse-passenger-killed-9.7239643?cmp=rss",
-      "title": "Teen dies after being thrown from horse-drawn carriage in New York's Central Park",
-      "published_at": "2026-06-17T18:39:41-04:00",
+      "id": "edd149c402f69449fd1201ec03bc8f49b241c0f2",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/stolen-car-dog-inside-new-glasgow-9.7240227?cmp=rss",
+      "title": "This couple’s car was stolen with their dog inside. They took matters into their own hands",
+      "published_at": "2026-06-19T01:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "A teenager thrown to the ground Wednesday when a Central Park carriage horse bolted away from its driver has died, according to police.",
+      "summary_auto": "Maggi MacDonald and Peter LeBlanc had just spotted their stolen vehicle driving right in front of them and prayed their dog Tim was still inside. What happened next was a dramatic roadside showdown as MacDonald and LeBlanc confronted three people in an attempt to recover their car — and their dog.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.557,
+        "sentiment": -0.796,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "4c9b01fe24c3b2b77134b1b871e0f1e5f95e77f2",
-      "url": "https://www.cbc.ca/news/canada/calgary/rcmp-corruption-allegations-calgary-city-hall-warrants-cell-phones-gondek-chu-phones-court-9.7239284?cmp=rss",
-      "title": "Ex-Calgary councillor directed use of personal phone over freedom of information concerns: docs",
-      "published_at": "2026-06-17T15:23:43-04:00",
-      "section": "Canada",
-      "summary_auto": "While investigating allegations of corruption at Calgary city hall, police say they uncovered text messages sent by former councillor Sean Chu to a man now accused of offering money for council votes in which Chu said to “keep conversations to his personal phone” because his work phone was “subject to Freedom of Information” disclosure.",
+      "id": "1f8d04b3d2609d1880e9104b9b06a44d0bb1eb85",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-scallops-price-availability-menu-change-summer-2026-9.7240529?cmp=rss",
+      "title": "Scallop scarcity: Some P.E.I. restaurants removing the dish from menus as prices soar",
+      "published_at": "2026-06-19T01:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Pan-seared scallops have been a top-selling menu item at New Glasgow Lobster Suppers — second only to lobster.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.802,
-        "subjectivity_hint": "low"
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "7f06ceac67899b416b155442fa0270e73f54ae55",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/retail-online-sales-non-prescription-hearing-aids-9.7239403?cmp=rss",
-      "title": "B.C. allows retail and online sales of non-prescription hearing aids",
-      "published_at": "2026-06-17T14:38:36-04:00",
-      "section": "Canada",
-      "summary_auto": "The provincial government says in a statement that adults with mild to moderate hearing loss can now buy over-the-counter hearing aids without a prescription.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7e93f3c79f9f4eaf4f65098cc702ce3474db3e1",
-      "url": "https://www.cbc.ca/player/play/9.7239351?cmp=rss",
-      "title": "Remember the heat dome? It changed everything",
-      "published_at": "2026-06-17T14:23:53-04:00",
-      "section": "Canada",
-      "summary_auto": "Five years after the historic heat dome over British Columbia, CBC’s Johanna Wagstaffe checks in on the ecosystems that were pushed past their breaking point. From the intertidal zones of the Strait of Georgia to the forest canopy, the latest data reveals a reshuffling of nature’s \"winners and losers.\" While some species are locked in a slow-motion collapse, others are showing surprising resilience, providing a critical blueprint for who survives the next extreme heat event.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f396230b2f0b6d0b4189f4752bbd1b8f03afc22d",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-max-scherzer-back-spasms-9.7239350?cmp=rss",
-      "title": "Blue Jays place Max Scherzer on the 10-day injured list with back spasms",
-      "published_at": "2026-06-17T14:06:10-04:00",
-      "section": "Canada",
-      "summary_auto": "Max Scherzer is back on the injured list. The Toronto Blue Jays placed the three-time Cy Young winner on the 10-day injured list on Wednesday with back spasms. The move came hours before Scherzer was scheduled to start against the Boston Red Sox.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bf4e6961b95bd166f71f6da56c6715065727939e",
-      "url": "https://www.cbc.ca/player/play/9.7239240?cmp=rss",
-      "title": "Fact check: Is this Iranian soccer player real or AI?",
-      "published_at": "2026-06-17T13:46:54-04:00",
-      "section": "World",
-      "summary_auto": "This image circulated during the Iran-New Zealand FIFA World Cup match, but is it real? CBC’s Fact Check team breaks down how to tell.",
+      "id": "15b8830f6af447ade66a7c637d8fc3fac926e43d",
+      "url": "https://www.cbc.ca/news/canada/canadian-sniper-rifles-openly-flaunted-in-yemen-sudan-libya-despite-arms-sanctions-9.7239775?cmp=rss",
+      "title": "Canadian sniper rifles openly flaunted in Yemen, Sudan, Libya — which are all under arms sanctions",
+      "published_at": "2026-06-19T00:05:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -277,155 +82,77 @@
       }
     },
     {
-      "id": "7d31b9958a7390d64f96bdb921dab8adfbe4b08f",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-draft-picks-2026-9.7238967?cmp=rss",
-      "title": "Vancouver Goldeneyes pick American defender Caroline Harvey with 1st pick of 2026 PWHL Draft",
-      "published_at": "2026-06-17T13:22:08-04:00",
-      "section": "Canada",
-      "summary_auto": "Generational American defender Caroline Harvey is a member of the Vancouver Goldeneyes. The 23-year-old was selected first overall by Vancouver at the 2026 PWHL Draft in Detroit on Wednesday night.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9be212e0dedd94c646ee357b8479a334d2b8affa",
-      "url": "https://www.cbc.ca/news/world/palestinians-killed-gaza-ceasefire-9.7239188?cmp=rss",
-      "title": "More than 1,000 Palestinians killed since Israel-Hamas ceasefire, says Gaza Health Ministry",
-      "published_at": "2026-06-17T13:19:09-04:00",
-      "section": "World",
-      "summary_auto": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since Israel and Hamas reached a ceasefire last October, the Gaza Health Ministry said Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "de3a1bdca663c9db384a60403004d9f32e91db42",
-      "url": "https://www.cbc.ca/news/politics/nato-spending-defence-canada-us-criticism-9.7239006?cmp=rss",
-      "title": "NATO wants 'credible' spending plans from members at next month's summit",
-      "published_at": "2026-06-17T12:53:41-04:00",
-      "section": "World",
-      "summary_auto": "NATO Secretary General Mark Rutte says member nations must arrive at next month's summit with credible plans to meet the alliance's new five per cent defence spending benchmark. The demand intensifies pressure on Canada, which has faced sharp criticism from Pentagon officials over the absence of a detailed roadmap for future military spending.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2d8a446c15547395ef77ee11e7b5fb6099756a0d",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-energy-rebate-9.7239145?cmp=rss",
-      "title": "Alberta will pay $100 energy rebate to about 3.4 million residents",
-      "published_at": "2026-06-17T12:44:45-04:00",
+      "id": "71b7595bea9a2f4fcc910e0a3f07678a6afa3c80",
+      "url": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
+      "title": "Carney government passes law allowing authorization of banned pesticides",
+      "published_at": "2026-06-19T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Twenty years after then-premier Ralph Klein gave every  Albertan a $400 cheque, the current Alberta government is giving each eligible resident a one-time payment of $100.",
+      "summary_auto": "The federal government has brought in major changes to how pesticides are regulated in Canada, granting cabinet the power to authorize the use of pesticides — even ones that Health Canada has deemed unsafe.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.477,
+        "sentiment": -0.178,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "a68f7d45ec99bf0c6468dc454279f3a2f6ab8413",
-      "url": "https://www.cbc.ca/player/play/9.7239161?cmp=rss",
-      "title": "Why some homeowners are falling into a mortgage payment trap they can't escape | About That",
-      "published_at": "2026-06-17T12:39:42-04:00",
-      "section": "Canada",
-      "summary_auto": "Many Canadian homeowners took advantage of historically low mortgage rates during the pandemic to lock in for five-year terms. Andrew Chang explains the perfect storm happening now as these terms come up for renewal at much higher rates at the same time as a depressed housing market. (Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
+      "id": "6f2a4a61a074e0c15a1fe34fbcda11a36bc6cc2c",
+      "url": "https://www.cbc.ca/news/world/trump-iran-deal-obama-9.7239879?cmp=rss",
+      "title": "Trump routinely trashes the Obama-era Iran nuclear agreement. How is his deal different?",
+      "published_at": "2026-06-19T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The memorandum of understanding signed by U.S. President Donald Trump on Wednesday to end the war on Iran has sparked comparisons to the 2015 deal signed by the Obama administration and other nations.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.158,
+        "sentiment": -0.178,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "69f22e32d3b7b0031fb91bc78709b34f2e0c9566",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/human-trafficking-experts-rcmp-investigation-9.7239017?cmp=rss",
-      "title": "'This is happening every day': Experts raise alarm after recent human trafficking arrests in Sask.",
-      "published_at": "2026-06-17T12:24:05-04:00",
-      "section": "Canada",
-      "summary_auto": "Two men tied to a trucking business in the RM of Edenwold are facing human trafficking charges after a months-long RCMP investigation. Expert are speaking out about the need for education about labour trafficking and how to spot red flags.",
+      "id": "0ca6ae31fb0bd608e845e73fddf1aff62424d6b9",
+      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sexual-assault-trial-9.7237045?cmp=rss",
+      "title": "Frank Stronach could learn fate in sexual assault trial on Friday",
+      "published_at": "2026-06-19T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An Ontario judge could render her decision Friday on whether Frank Stronach is guilty of any of the sexual assault charges against him, four months after the Canadian businessman went on trial in a Toronto courtroom.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "189f6ceb7179e452463430f55e97fb7e8889789b",
-      "url": "https://www.cbc.ca/news/health/maid-mental-disorder-committee-report-government-9.7238589?cmp=rss",
-      "title": "Canadian government should 'indefinitely exclude' people with mental illness from MAID, committee recommends",
-      "published_at": "2026-06-17T12:16:31-04:00",
-      "section": "Canada",
-      "summary_auto": "A special parliamentary committee is recommending that the federal government \"indefinitely exclude\" people whose sole underlying condition is a mental illness from applying for medical assistance in dying (MAID).",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
+        "sentiment": -0.91,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "536ce7365f0680fd1c565dbee12c445b6fab5034",
-      "url": "https://www.cbc.ca/news/canada/montreal/islamic-cultural-centre-vandalism-9.7239021?cmp=rss",
-      "title": "Worry, hurt after mosque vandalized in Trois-Rivières, Que.",
-      "published_at": "2026-06-17T12:09:31-04:00",
+      "id": "62b8b3071fe1c4c901c920e4a09ba73e50ca07fd",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-fifa-fan-fest-9.7240359?cmp=rss",
+      "title": "Celebrations. Lineups. Ticket struggles. Is the FIFA Fan Festival worth it?",
+      "published_at": "2026-06-19T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "For some, the fan fest is nothing but joy. It's a special celebration that Toronto has the opportunity to host, bringing together global food, fandom and music. But other fans say the event has its issues.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.739,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e1c51b5acd739e21f0de38f75adf259d9c231bc0",
+      "url": "https://www.cbc.ca/news/canada/resale-websites-cancel-tickets-world-cup-springsteen-9.7239938?cmp=rss",
+      "title": "Ticket resale sites for World Cup, concerts face surge of complaints, demands for refunds",
+      "published_at": "2026-06-19T00:00:00-04:00",
       "section": "Canada",
-      "summary_auto": "The windows of the Mauricie Islamic Cultural Centre were smashed in an act of vandalism early Wednesday morning in Trois-Rivières, Que.",
+      "summary_auto": "After weeks of calls, emails and chats with virtual assistants, Kelly Mongillo of Barrie, Ont., ended up becoming another disenchanted fan facing the perils of buying tickets to high-demand events from resale sites.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.743,
+        "sentiment": -0.103,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "55127d491d41128cb318d16df416577f4904d62e",
-      "url": "https://www.cbc.ca/news/canada/toronto/boy-twelve-charged-attempted-murder-officer-struck-east-york-9.7239028?cmp=rss",
-      "title": "Boy 12, charged with attempted murder of Toronto police officer, 2 other boys also charged",
-      "published_at": "2026-06-17T12:05:12-04:00",
-      "section": "Canada",
-      "summary_auto": "A 12-year-old boy has been charged with attempted murder after he allegedly struck a Toronto police officer while driving a stolen vehicle in the city's east end Sunday night, police say.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.958,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "df0f45529f50acd0ee08580eef32e4ab1aca42e5",
-      "url": "https://www.cbc.ca/news/world/trump-clayton-dni-chief-nomination-delay-9.7238983?cmp=rss",
-      "title": "Trump says he'll delay nomination for Clayton to be his next intel chief",
-      "published_at": "2026-06-17T11:55:00-04:00",
-      "section": "World",
-      "summary_auto": "U.S. President  Donald Trump on Wednesday derailed the confirmation process of his own nominee to head the nation's intelligence agencies, an extraordinary move that upended Senate efforts to renew a crucial surveillance program that expired last week and fuelled fresh tensions with fellow Republicans on Capitol Hill.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d15be06f95a17ef14fd82ee583c7c42056b3a47b",
-      "url": "https://www.cbc.ca/news/business/us-interest-rate-decision-june-2026-9.7238969?cmp=rss",
-      "title": "U.S. Federal Reserve leaves interest rate unchanged, but some policymakers expect hike this year",
-      "published_at": "2026-06-17T11:32:36-04:00",
-      "section": "World",
-      "summary_auto": "The Federal Reserve held interest rates steady on Wednesday, but policymakers ‌expect a hike in borrowing costs later this year amid growing concerns about inflation lodged above the U.S. central bank's two per cent target.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.793,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fa7184c1f0de95fa96ac0f41a99a5b52bf9a7bd1",
-      "url": "https://www.cbc.ca/news/entertainment/obama-center-grand-opening-9.7238835?cmp=rss",
-      "title": "Stevie Wonder, Bruce Springsteen among star-studded list performing at Obama centre's opening",
-      "published_at": "2026-06-17T10:26:53-04:00",
-      "section": "World",
-      "summary_auto": "Christina Aguilera, Stevie Wonder, Jennifer Hudson, John Legend, U2's Bono and the Edge, Eddie Vedder and Bruce Springsteen are among the musicians scheduled to take the stage celebrating the opening of the Obama Presidential Center’s Grand Opening Ceremony in Chicago's South Side.",
+      "id": "1a7664dba3d5e79a9ad1a2bc3cae057b690899c6",
+      "url": "https://www.cbc.ca/player/play/9.7241215?cmp=rss",
+      "title": "Swimbappé the goldfish predicts Canada's 1st FIFA World Cup win | The Moment",
+      "published_at": "2026-06-18T18:22:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Tim Glenn, a creative director at OneMethod, tells The National about the moment their goldfish Swimbappé predicted Canada's first-ever FIFA World Cup victory over Qatar.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.772,
@@ -433,54 +160,223 @@
       }
     },
     {
-      "id": "82f49c251ed8934b212eb88eeb01eb7d805aa435",
-      "url": "https://www.cbc.ca/news/science/plague-9.7238600?cmp=rss",
-      "title": "Earliest outbreak of the plague killed hunter-gatherer kids 5,500 years ago",
-      "published_at": "2026-06-17T10:08:20-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "Scientists have solved a mystery that puzzled them for decades: Why were so many dead children buried by hunter-gatherers in Russia 5,500 years ago? It turns out they were killed by the earliest known outbreak of the plague, revealing new insights about the disease.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.935,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "69a4c989a17796a28d01b22dffc81c590a9e2565",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-bars-world-cup-9.7238795?cmp=rss",
-      "title": "Vancouver bar nearly drank dry by FIFA fans as World Cup brings surge in business to Granville Street",
-      "published_at": "2026-06-17T10:08:09-04:00",
+      "id": "4659c07e560c2764fdb9dccec2d6aa858b640a00",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-world-cup-qatar-chris-jones-june-18-9.7239744?cmp=rss",
+      "title": "Injury to Ismaël Koné in victory over Qatar dampens Canadian men's joy of historic 1st World Cup win",
+      "published_at": "2026-06-18T16:17:05-04:00",
       "section": "Top Stories",
-      "summary_auto": "Vancouver bars are rushing beer and staff to the front line of the World Cup's war on thirst.",
+      "summary_auto": "A game that had the Canadian crowd roaring fell suddenly silent when the key midfielder shattered his leg.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.599,
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "3a196b44d6e92481e60b06a39b9f277e3e3ca793",
-      "url": "https://www.cbc.ca/news/politics/canada-energy-supplier-strait-hormuz-9.7238708?cmp=rss",
-      "title": "G7 backs Canada as major global energy supplier to lessen reliance on Strait of Hormuz",
-      "published_at": "2026-06-17T09:26:43-04:00",
-      "section": "World",
-      "summary_auto": "Canada is poised to become a key and reliable supplier of energy to the G7 after leaders meeting in France embraced this country's potential to deliver \"significant additional capacity\" to global markets to reduce dependence on oil and gas coming through the Strait of Hormuz.",
+      "id": "2157a8b86a1005ca01d5ad16a37ca21d5901bf74",
+      "url": "https://www.cbc.ca/player/play/9.7241057?cmp=rss",
+      "title": "At Issue | Carney's G7 hits and misses",
+      "published_at": "2026-06-18T15:48:13-04:00",
+      "section": "Top Stories",
+      "summary_auto": "At Issue this week: Mark Carney's mixed-bag G7 trip wins big interest in Canadian oil, and another snub from Donald Trump. Analyzing the big challenges facing the Liberals in the fall. And the Conservatives call out Carney for skipping Question Period.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.725,
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "229c9dbb28a8a9eb5b6dc94399c5f09a49d88507",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-universities-report-labour-force-grads-9.7240932?cmp=rss",
+      "title": "Over 1 million university grads needed to fill labour market needs, Ontario universities report projects",
+      "published_at": "2026-06-18T15:01:11-04:00",
+      "section": "Top Stories",
+      "summary_auto": "More than one million university graduates will be needed to fill labour market needs over the next decade, with the highest demand coming from science, technology, engineering and mathematics (STEM) fields, a report from the Council of Ontario Universities projects.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "35f56c22cecf994e17403e192caa505a5a5891ab",
+      "url": "https://www.cbc.ca/news/canada/calgary/bruce-mcallister-alberta-first-nations-social-media-9.7240914?cmp=rss",
+      "title": "Senior aide of Alberta premier says First Nations should focus on own problems, not accuse premier of treason",
+      "published_at": "2026-06-18T14:54:34-04:00",
+      "section": "Canada",
+      "summary_auto": "The executive director of Premier Danielle Smith's office says that instead of criticizing her, First Nations chiefs should fix their own communities, describing them as entrenched in poverty, drugs and violence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.931,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "6377061d9c319f6a599cb451e91b96ed6aad596c",
-      "url": "https://www.cbc.ca/news/entertainment/tom-holland-confirms-he-married-zendaya-9.7238710?cmp=rss",
-      "title": "Tom Holland confirms he and Zendaya are married",
-      "published_at": "2026-06-17T08:54:25-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Tom Holland has apparently confirmed that he and his longtime love Zendaya have tied the knot, ending months of speculation triggered by Zendaya's stylist.",
+      "id": "074e18b3e015babd4c948540316147dc23d9a404",
+      "url": "https://www.cbc.ca/news/politics/grassy-narrows-carney-must-apologize-9.7240863?cmp=rss",
+      "title": "Grassy Narrows demands apology from Carney, action on mercury poisoning",
+      "published_at": "2026-06-18T14:38:50-04:00",
+      "section": "Canada",
+      "summary_auto": "A Grassy Narrows First Nation woman who suffers from mercury poisoning is adamant that Prime Minister Mark Carney must apologize for saying he could \"outlast\" her during a March protest.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.637,
+        "sentiment": -0.902,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5ea473ca366540249d13b643adc71ba7ed1f5f8c",
+      "url": "https://www.cbc.ca/news/business/canada-post-cupw-sign-collective-agreement-9.7240959?cmp=rss",
+      "title": "Canada Post, CUPW sign collective agreements, ending years of heated negotiations",
+      "published_at": "2026-06-18T14:35:00-04:00",
+      "section": "Business",
+      "summary_auto": "Canada Post said Thursday it has officially signed its new collective agreements with the Canadian Union of Postal Workers (CUPW), ending years of tense negotiations and strikes amid questions about the Crown corporation's future.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8b12e595f59ec72fa8516b705e05313712a52f9b",
+      "url": "https://www.cbc.ca/news/world/paint-peeling-trump-lincoln-reflecting-pool-9.7240827?cmp=rss",
+      "title": "Paint already peeling after Trump-ordered spruce-up of Lincoln Memorial Reflecting Pool",
+      "published_at": "2026-06-18T14:05:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The paint on Washington's newly renovated Lincoln Memorial Reflecting ‌Pool on Thursday was peeling away from the bottom and into the algae-tinted water, less than two weeks after U.S. President Donald Trump announced the job's completion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74227c41fa8db95d8f01e633abb04c619b7aa990",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/grassy-narrows-mercury-9.7240823?cmp=rss",
+      "title": "Grassy Narrows residents demand Carney apologize for comments made about protest",
+      "published_at": "2026-06-18T14:05:00-04:00",
+      "section": "Canada",
+      "summary_auto": "A Grassy Narrows First Nation woman who suffers from mercury poisoning is insisting that Prime Minister Mark Carney apologize for saying he could \"outlast\" her during a March protest.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9785b5deb0c47fbd32edfdc0978d520c80ed0d55",
+      "url": "https://www.cbc.ca/news/canada/calgary/medicine-hat-drowning-kati-smythe-cody-edwards-9.7240551?cmp=rss",
+      "title": "Medicine Hatters coming to grips with death on field trip",
+      "published_at": "2026-06-18T12:35:16-04:00",
+      "section": "Canada",
+      "summary_auto": "Parents, teachers and city staff are expressing grief and anxiety after an 11-year-old boy died in a suspected drowning during a field trip to a city-run swim lake this week. Fundraising is underway and emotional support is being offered.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "03d6258d6351ef3aa2487342014758ff5723a4ed",
+      "url": "https://www.cbc.ca/news/canada/windsor/billet-parents-behind-taylor-halls-stanley-cup-dream-9.7239913?cmp=rss",
+      "title": "‘Complete magic’: Taylor Hall’s former Windsor billet parents witness his 1st Stanley Cup win",
+      "published_at": "2026-06-18T12:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "When Carolina Hurricanes left winger Taylor Hall lifted the Stanley Cup on Sunday night in Las Vegas, in the stands cheered on his Windsor billet parents.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e978417727942ef16ba9cce94ed86c8a789bfc3f",
+      "url": "https://www.cbc.ca/news/business/bell-cohere-ai-infrastructure-deal-9.7240577?cmp=rss",
+      "title": "Bell and Canadian AI firm Cohere sign deal to operate models using Bell infrastructure",
+      "published_at": "2026-06-18T11:50:00-04:00",
+      "section": "Business",
+      "summary_auto": "Under the agreement, Bell will provide data centre capacity at its facility in Merritt, B.C, while two other companies will provide hardware and cloud-layer capabilities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a0c19c795d693908ee9b10a970c9962ee39afb5",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/doug-ford-thunder-bay-jail-comments-9.7240485?cmp=rss",
+      "title": "'When people commit crimes, they shouldn't be in this fancy-dancey jail,' Ontario premier says of new facility",
+      "published_at": "2026-06-18T11:48:41-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford faces criticism for comparing the planned Thunder Bay Correctional Centre to a Four Seasons Hotel. His comments come after the inquest for Kevin Mamakwa, who died in the old jail in 2020. He was the nephew of Kiiwetinoong MPP Sol Mamakwa, who said the premier's comments expose \"the real Doug Ford.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd5e30a289884dcba8d678fab47dc7e0ef708da0",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/carney-tumbler-ridge-health-care-centre-9.7010777?cmp=rss",
+      "title": "Carney announces $200M for new school, updated health centre in Tumbler Ridge, B.C.",
+      "published_at": "2026-06-18T11:15:43-04:00",
+      "section": "Canada",
+      "summary_auto": "Carney says $100 million will come from the province, and $100 million from feds. He also announced other major infrastructure projects in B.C., including $50 million for coastal communities such as Prince Rupert and Terrace.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "989d4ce4c901b6f692feb8643f3fa708b48cf474",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-separation-court-jeff-rath-danielle-smith-9.7240418?cmp=rss",
+      "title": "Alberta judge reserves decision on whether to set aside ruling that threw out separatist petition",
+      "published_at": "2026-06-18T10:39:03-04:00",
+      "section": "Canada",
+      "summary_auto": "The ruling last month found that the Stay Free Alberta petition shouldn't have been issued and that Premier Danielle Smith's government neglected its duty to consult First Nations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ee23c64e7492d1dec1e4ea5beba4a87465327687",
+      "url": "https://www.cbc.ca/news/climate/what-on-earth-gaza-rubble-bricks-9.7240259?cmp=rss",
+      "title": "Gaza sisters recycle war rubble into bricks",
+      "published_at": "2026-06-18T10:31:54-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In this issue of our environmental newsletter, we learn how two young innovators are recycling war rubble into something to build back with; see how fungi help restore ecosystems after a wildfire; and hear why young people are suing the federal government over its approach to climate change.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a9d53222e64877754b010a81183a300e26924fe1",
+      "url": "https://www.cbc.ca/news/entertainment/lil-nas-x-video-mental-health-9.7240296?cmp=rss",
+      "title": "Lil Nas X gives update on mental health and new music: 'I'm just ... smelling the roses'",
+      "published_at": "2026-06-18T09:52:30-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Following an event last summer in which the musician was charged with attacking Los Angeles police officers, pop star Lil Nas X took to Instagram on Wednesday to share information on his bipolar disorder diagnosis and experience in rehab.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "d0917e26fbef2fe0f0757ef5a0d07794f0717ff0",
+      "url": "https://www.cbc.ca/news/canada/canadian-killed-south-africa-park-9.7240391?cmp=rss",
+      "title": "Canadian shot and killed in apparent accident in South Africa's Kruger National Park",
+      "published_at": "2026-06-18T09:37:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Canadian tourist has been shot and killed at the Kruger National Park in South Africa, according to officials there.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.92,
         "subjectivity_hint": "low"
       }
     }
