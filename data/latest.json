@@ -1,14 +1,79 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-20T09:47:42.231120-04:00",
+  "generated_at": "2026-06-20T15:15:08.120974-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "eb28a6880a67208d08dd1e2c70065c65538ed9ec",
+      "url": "https://www.cbc.ca/news/world/meloni-trump-popularity-9.7243162?cmp=rss",
+      "title": "Italy's PM Meloni fires back, tells Trump to worry about his own popularity",
+      "published_at": "2026-06-20T09:25:26-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Italian Prime Minister Giorgia Meloni told U.S. President Donald Trump on Saturday to look after his own popularity after he accused his NATO ally of trying to boost her domestic ratings by repairing ties with Washington.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c7323173d3b9f542daf5744720358f0e1ea6aff5",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-saw-creek-wildfire-evacuations-9.7243091?cmp=rss",
+      "title": "Dozens of homes evacuated as out-of-control wildfire threatens Lytton, B.C.",
+      "published_at": "2026-06-20T09:23:18-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "990bcdb36ce25f4b5027730cdb6acf9fc766320b",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-world-cup-june-20-9.7243150?cmp=rss",
+      "title": "'We just have to push': Canada in position to win FIFA World Cup group",
+      "published_at": "2026-06-20T08:41:53-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An emotional 6-0 drubbing of Qatar on Thursday vastly improved Canada's chance of not only advancing to the tournament's knockout stage but winning Group B.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.871,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b29c1cb1c14e1873b438025c1939911e1689731b",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/mapleton-crash-fatal-9.7243094?cmp=rss",
+      "title": "6th person dead in hospital after fatal collision in Mapleton, Ont., police say",
+      "published_at": "2026-06-20T06:44:52-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A sixth person is dead after a fatal two vehicle collision in Mapleton, Ont. last week, said Ontario Provincial Police.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.967,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b3f534e6297805012797021982735acace689e3b",
+      "url": "https://www.cbc.ca/news/science/peatlands-methane-seismic-lines-oil-alberta-climate-9.7240770?cmp=rss",
+      "title": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study",
+      "published_at": "2026-06-20T06:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Thousands of paths, known as seismic lines, carved into Canada's boreal peatlands for oil and gas exploration could be speeding up climate change, suggests a study from University of Waterloo researchers. In Alberta's boreal peatlands alone, these paths, found in B.C. and Saskatchewan as well, are long enough to wrap around the Earth nine times.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "73d2c3152a1136f41215dd20be472afab76e3765",
       "url": "https://www.cbc.ca/news/world/train-crash-bedford-9.7243040?cmp=rss",
       "title": "9 people remain in critical condition after fatal train collision in U.K.",
       "published_at": "2026-06-20T05:16:59-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Nine people remain in a critical condition following a train crash on Friday near Bedford, about 100 kilometres north of London, in which the driver of one of the services was killed.",
       "bias_heuristic": {
         "article_type": "News",
@@ -19,27 +84,53 @@
     {
       "id": "12f062b1945b437f1b7aa8981476f002abb48c6a",
       "url": "https://www.cbc.ca/news/world/bolivia-declares-emergency-9.7242996?cmp=rss",
-      "title": "Bolivia's president declares emergency over blockade crisis, paving way to deploy military",
+      "title": "Bolivia's president declares state of emergency to break protest gridlock",
       "published_at": "2026-06-20T02:28:19-04:00",
       "section": "Top Stories",
-      "summary_auto": "Bolivia’s crisis intensified on Saturday as President Rodrigo Paz declared a state of emergency, enabling wider military deployment to clear blockades and restore order after protests brought the economy to ​a halt over the past 50 days.",
+      "summary_auto": "Bolivian authorities began clearing road blockades on Saturday after President Rodrigo Paz declared a state of emergency, enabling wider military deployment in his effort to restore order amid protests that have brought the economy to a halt over the past 50 days.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.888,
+        "sentiment": -0.71,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "a01faca6e5c024a2ead00fc539c84e9052475696",
-      "url": "https://www.cbc.ca/news/world/israeli-strikes-south-lebanon-despite-ceasefire-9.7242995?cmp=rss",
-      "title": "Iran closes Strait of Hormuz, citing U.S., Israel ceasefire violations",
-      "published_at": "2026-06-20T02:22:49-04:00",
+      "id": "dcac435bee1bfc52b8a4c598fa964bf14cee8170",
+      "url": "https://www.cbc.ca/news/canada/north/nunavik-tuberculosis-crisis-alukivik-health-9.7240741?cmp=rss",
+      "title": "Nunavik saw a record number of tuberculosis cases in 2025. This year isn’t looking any better",
+      "published_at": "2026-06-20T02:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Iran's top joint military command, Khatam al-Anbiya Central ‌Headquarters, said on Saturday that the ​Strait of Hormuz ​would be closed to vessel ​traffic, citing alleged violations of a ‌ceasefire agreement by the U.S. and Israel.",
+      "summary_auto": "More than half of Nunavik's communities are struggling with a tuberculosis outbreak. The total number of cases in the region has grown annually for the past five years.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.421,
+        "sentiment": 0.248,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b30cc0b86069bde0c5ad4e6c53ccaced9b4320dd",
+      "url": "https://www.cbc.ca/news/world/five-eyes-russia-confrontation-ukraine-kerbaj-9.7227502?cmp=rss",
+      "title": "The day the Five Eyes showed up to confront Russia about its plan to attack Ukraine",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It has been revealed that a group of Five Eyes officials delivered a dramatic and potentially unprecedented in-person warning to a Kremlin official about the consequences Moscow would face for attacking Ukraine, days before the start of its full-scale invasion.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "65c8f6c5e9401d08bad8fb672f0f0956eb86dc51",
+      "url": "https://www.cbc.ca/news/canada/manitoba/west-nile-deaths-9.7240740?cmp=rss",
+      "title": "It started with chills. Weeks later, he was gone",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Imagine working 36 years for your retirement, only for it to be cut short by a mosquito infected with West Nile virus. That is the tragic reality for an Ontario family speaking out, hoping to save lives as summer mosquito season gets underway.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -53,19 +144,6 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9d75391731d399f6333df23ea82559d3d1dac50b",
-      "url": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
-      "title": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
-      "published_at": "2026-06-20T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "As the U.S. claims its crackdown on drug trafficking at the border with Mexico is triggering more criminal activity from Canada, fentanyl czar Kevin Brosseau is pushing back — saying the numbers \"really haven't borne that out.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.571,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -95,15 +173,15 @@
       }
     },
     {
-      "id": "65c8f6c5e9401d08bad8fb672f0f0956eb86dc51",
-      "url": "https://www.cbc.ca/news/canada/manitoba/west-nile-deaths-9.7240740?cmp=rss",
-      "title": "It started with chills. Weeks later, he was gone",
+      "id": "9d75391731d399f6333df23ea82559d3d1dac50b",
+      "url": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
+      "title": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
       "published_at": "2026-06-20T00:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "Imagine working 36 years for your retirement, only for it to be cut short by a mosquito infected with West Nile virus. That is the tragic reality for an Ontario family speaking out, hoping to save lives as summer mosquito season gets underway.",
+      "summary_auto": "As the U.S. claims its crackdown on drug trafficking at the border with Mexico is triggering more criminal activity from Canada, fentanyl czar Kevin Brosseau is pushing back — saying the numbers \"really haven't borne that out.\"",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": -0.571,
         "subjectivity_hint": "low"
       }
     },
@@ -134,11 +212,24 @@
       }
     },
     {
+      "id": "47df2a1dc0fd478eda0c624fbef64a604d94bf94",
+      "url": "https://www.cbc.ca/news/canada/is-canada-social-media-ban-constitutional-9.7239452?cmp=rss",
+      "title": "Is Canada's teen social media ban constitutional? It's complicated",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Legal experts say the federal social media ban for kids leaves many questions unanswered — including whether it violates the Charter of Rights and Freedoms. Lawyers and law professors are raising flags about gaps in Bill C-34, the Safe Social Media Act, that could leave Canada open to legal challenges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "674aada04dbd3881266760f65c6ca984040a4e5b",
       "url": "https://www.cbc.ca/news/canada/hamilton/rembrandt-painting-hamilton-curator-netherlands-9.7242332?cmp=rss",
       "title": "How an Ontario man helped discover a lost Rembrandt, thought to be fake, but worth millions",
       "published_at": "2026-06-20T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Jonathan Bikker, a curator at the Rijksmuseum in Amsterdam, led the effort to authenticate Vision of Zacharias in the Temple, a painting that had been dismissed by scholars in the 1960s and largely disappeared from public view.",
       "bias_heuristic": {
         "article_type": "News",
@@ -177,76 +268,11 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160?cmp=rss",
       "title": "How to move a beluga across the world",
       "published_at": "2026-06-19T21:00:00-04:00",
-      "section": "Technology & Science",
+      "section": "Top Stories",
       "summary_auto": "How does one transport an aquatic animal that can grow up to 4.5 metres and weigh up to 1,900 kilograms? Here’s a step-by-step guide.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7765a626c6ee07dcd55fb274d2c0fe16807e8c80",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-wildfire-evacuation-alert-9.7242975?cmp=rss",
-      "title": "Out-of-control wildfire near Lytton, B.C., prompts evacuation orders, Highway 1 closure",
-      "published_at": "2026-06-19T20:18:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An out-of-control wildfire south of the village of Lytton, B.C., triggered evacuation orders and alerts late Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b88d12ad5a7ee42b31c16593a906f190f274363c",
-      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/kate-douglass-swimming-world-record-50-metre-freestyle-9.7242947?cmp=rss",
-      "title": "American swimmer Kate Douglass breaks women's 50m freestyle world record",
-      "published_at": "2026-06-19T18:30:40-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Kate Douglass broke the world record in the women's 50-metre freestyle at the TYR Pro Swim Series meet Friday night in Indianapolis.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71b7595bea9a2f4fcc910e0a3f07678a6afa3c80",
-      "url": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
-      "title": "Carney government passes law allowing authorization of banned pesticides",
-      "published_at": "2026-06-19T18:26:28-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fcfeebb172ffe7d68a3e17715d66277db641df1e",
-      "url": "https://www.cbc.ca/news/world/australia-confirms-h5n1-bird-flu-case-9.7242903?cmp=rss",
-      "title": "Australia confirms 1st mainland case of H5N1 bird flu",
-      "published_at": "2026-06-19T17:48:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Australia will do all it can to curb any spread of H5N1 bird flu, Prime Minister Anthony Albanese said on Saturday, as the  first mainland ‌infection was confirmed in a seabird a day after being detected in a remote southwestern region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f1bed89e9c3dc303403c966ccca0648badf05db",
-      "url": "https://www.cbc.ca/news/canada/toronto/canadian-iranians-respond-peace-deal-9.7242902?cmp=rss",
-      "title": "Canadian-Iranians respond to the U.S.-Iran peace deal with mixed reaction",
-      "published_at": "2026-06-19T17:45:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Members of the Iranian diaspora in Toronto have mixed reactions to the U.S.-Iran peace deal, with some expressing relief that ordinary citizens will no longer live under active bombardment, but also skepticism that the new agreement will hold the Iranian government accountable.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
         "subjectivity_hint": "low"
       }
     },
@@ -290,168 +316,12 @@
       }
     },
     {
-      "id": "151d4d5f8a7792e2993bb062f2aedd284bad7fda",
-      "url": "https://www.cbc.ca/news/world/world-cup-bars-beer-9.7241692?cmp=rss",
-      "title": "Are thirsty soccer fans drinking all the beer in World Cup host cities?",
-      "published_at": "2026-06-19T16:20:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "3a45223f522a41148abb91c8505e9bb140ba84b9",
       "url": "https://www.cbc.ca/news/canada/british-columbia/komoks-treaty-pierre-poilievre-9.7242721?cmp=rss",
       "title": "K'omoks First Nation chief pushes back on Poilievre's opposition to treaty",
       "published_at": "2026-06-19T15:44:59-04:00",
       "section": "Canada",
       "summary_auto": "Federal Conservative Leader Pierre Poilievre announced Friday that he and other Conservative party MPs will oppose the ratification of the K'omoks First Nation's treaty.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "bdf117e866aa6d16edd54582753546b50ffadde3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-nurses-tentative-deal-rejected-9.7242673?cmp=rss",
-      "title": "B.C. nurses reject tentative deal with province",
-      "published_at": "2026-06-19T14:37:53-04:00",
-      "section": "Canada",
-      "summary_auto": "Members of the B.C. Nurses' Union have voted to reject a tentative agreement with the province on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b186ff5925320d3240c6f09a9923cd9e95decf1",
-      "url": "https://www.cbc.ca/news/entertainment/james-burrows-dies-friends-cheers-9.7242358?cmp=rss",
-      "title": "TV legend James Burrows, co-creator of Cheers and director for hit show Will & Grace, dies at 85",
-      "published_at": "2026-06-19T14:21:10-04:00",
-      "section": "Entertainment",
-      "summary_auto": "Celebrated televisions director and producer James Burrows, who was behind the hit show Cheers and directed thousands of episodes of hit shows like Friends and Will & Grace, has died at the age of 85.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.948,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b52db9989c07440b11425430251310a35c09030b",
-      "url": "https://www.cbc.ca/news/canada/manitoba/provincial-court-reconciliation-judge-9.7242404?cmp=rss",
-      "title": "Manitoba appoints 1st associate chief judge of reconciliation",
-      "published_at": "2026-06-19T12:53:57-04:00",
-      "section": "Canada",
-      "summary_auto": "A Manitoba provincial court judge is helping the court chart a new path forward as the province's first associate chief judge of reconciliation — a role she says she believes is the first of its kind in Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "51de0fb4c1640124e9b6973349c3e9e5c3fbf04c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-water-whale-population-9.7241981?cmp=rss",
-      "title": "'This is our Serengeti': New study says more whales showing up in Vancouver waters",
-      "published_at": "2026-06-19T12:19:55-04:00",
-      "section": "Canada",
-      "summary_auto": "A  new study  says West Coast transient killer whales, also known as Bigg's killer whales, are now being seen in the inside waters of Vancouver Island for about 250 days a year on average.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.863,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "13186ff1f589481cafb57b9ae9e5f089d5f61789",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/rabid-bat-sask-daycare-school-division-delay-telling-parents-9.7242258?cmp=rss",
-      "title": "Rabid bat found at Sask. daycare; school division apologizes for delay in telling parents",
-      "published_at": "2026-06-19T11:50:25-04:00",
-      "section": "Canada",
-      "summary_auto": "Children at a daycare in Spiritwood have been offered rabies treatment after a bat found inside the centre tested positive for the virus.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e3bd1c394256fa066759007e73e6ab5a34d14dc9",
-      "url": "https://www.cbc.ca/news/politics/ottawa-adding-5-4-b-for-childcare-9.7242200?cmp=rss",
-      "title": "Ottawa adding $5.4B for child care to sustain national program over next 2 years",
-      "published_at": "2026-06-19T11:11:54-04:00",
-      "section": "Canada",
-      "summary_auto": "The federal government is giving provinces and territories an additional $5.4 billion over two years for the national $10-a-day child-care program to help with \"cost pressures,\" Canada's families minister says.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f3c7c835dda39ef268c61f3da25ecbfd29534a9e",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-energy-9.7139109?cmp=rss",
-      "title": "Ukraine keeps striking Russian refineries and supply routes. How close is the country to an energy crisis?",
-      "published_at": "2026-06-19T10:44:39-04:00",
-      "section": "World",
-      "summary_auto": "Experts say Russia's energy industry is under increasing pressure as Ukraine tilts the war closer to the country that has been waging it, through a combination of long- and middle-range strikes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "434382a67704240a46095142ff5438dbd30abbde",
-      "url": "https://www.cbc.ca/news/business/toys-r-us-owner-rebranding-9.7242041?cmp=rss",
-      "title": "Owner of beleaguered Toys 'R' Us Canada floats rebrand in court files",
-      "published_at": "2026-06-19T10:38:56-04:00",
-      "section": "Business",
-      "summary_auto": "The owner of Toys \"R\" Us Canada is trying to buy some of the retailer's assets so it can keep the chain going or rebrand the beleaguered business that has been in creditor protection since February.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2a93fdb766fe6cca6c4c2021289fc8e6c6083979",
-      "url": "https://www.cbc.ca/news/world/london-train-collision-police-fire-rescue-responding-bedford-9.7242125?cmp=rss",
-      "title": "Driver dead, nearly 90 other people injured after passenger trains collide north of London",
-      "published_at": "2026-06-19T10:12:21-04:00",
-      "section": "World",
-      "summary_auto": "Two trains collided north of London on Friday, killing a driver and seriously injuring dozens of people on board.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.925,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c884b089eac0188c18ea873744dad62c97cc3547",
-      "url": "https://www.cbc.ca/news/entertainment/jelly-roll-bunnie-xo-divorce-9.7241938?cmp=rss",
-      "title": "Jelly Roll and Bunnie Xo break silence about divorce",
-      "published_at": "2026-06-19T10:10:19-04:00",
-      "section": "Entertainment",
-      "summary_auto": "American country star Jelly Roll and podcaster Bunnie Xo are breaking their silence following the  news earlier this week  of their divorce.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "305d181afd4de5ba7cfab938ed8b23e7d8749ca6",
-      "url": "https://www.cbc.ca/news/politics/canada-imposes-tariffs-canned-vegetables-9.7242029?cmp=rss",
-      "title": "Canada imposes 10% global tariff on canned vegetables — excluding U.S., Mexico",
-      "published_at": "2026-06-19T09:57:27-04:00",
-      "section": "Business",
-      "summary_auto": "Canada announced a 10 per cent tariff on imports of canned vegetables ‌on Friday, saying the measure, which excludes the United States, was aimed at addressing challenges facing its domestic ​producers.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
