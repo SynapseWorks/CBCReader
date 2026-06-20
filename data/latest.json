@@ -1,14 +1,391 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-19T15:40:07.478560-04:00",
+  "generated_at": "2026-06-20T09:47:42.231120-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "73d2c3152a1136f41215dd20be472afab76e3765",
+      "url": "https://www.cbc.ca/news/world/train-crash-bedford-9.7243040?cmp=rss",
+      "title": "9 people remain in critical condition after fatal train collision in U.K.",
+      "published_at": "2026-06-20T05:16:59-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Nine people remain in a critical condition following a train crash on Friday near Bedford, about 100 kilometres north of London, in which the driver of one of the services was killed.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.95,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "12f062b1945b437f1b7aa8981476f002abb48c6a",
+      "url": "https://www.cbc.ca/news/world/bolivia-declares-emergency-9.7242996?cmp=rss",
+      "title": "Bolivia's president declares emergency over blockade crisis, paving way to deploy military",
+      "published_at": "2026-06-20T02:28:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Bolivia’s crisis intensified on Saturday as President Rodrigo Paz declared a state of emergency, enabling wider military deployment to clear blockades and restore order after protests brought the economy to ​a halt over the past 50 days.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a01faca6e5c024a2ead00fc539c84e9052475696",
+      "url": "https://www.cbc.ca/news/world/israeli-strikes-south-lebanon-despite-ceasefire-9.7242995?cmp=rss",
+      "title": "Iran closes Strait of Hormuz, citing U.S., Israel ceasefire violations",
+      "published_at": "2026-06-20T02:22:49-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Iran's top joint military command, Khatam al-Anbiya Central ‌Headquarters, said on Saturday that the ​Strait of Hormuz ​would be closed to vessel ​traffic, citing alleged violations of a ‌ceasefire agreement by the U.S. and Israel.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6ac360c1cc0259f03b0854a020c7f8a893b85b6b",
+      "url": "https://www.cbc.ca/news/health/glp1-health-benefits-cancer-prevention-second-opinion-9.7241872?cmp=rss",
+      "title": "Should everyone be on GLP-1s? What science actually tells us (and doesn't) about the broader health benefits",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The laundry list of possible health benefits from GLP-1 drugs seems to get longer by the day, from cancer prevention to combating addiction. But while there’s no question these medications show immense promise beyond their use for diabetes and weight loss, science is still catching up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9d75391731d399f6333df23ea82559d3d1dac50b",
+      "url": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
+      "title": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As the U.S. claims its crackdown on drug trafficking at the border with Mexico is triggering more criminal activity from Canada, fentanyl czar Kevin Brosseau is pushing back — saying the numbers \"really haven't borne that out.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.571,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9728349f9dd68204eb3920e3cb88a16e2518044c",
+      "url": "https://www.cbc.ca/news/canada/modern-weddings-unique-different-2026-9.7235866?cmp=rss",
+      "title": "The 2026 wedding trend: being yourself",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "For many young couples, the modern wedding has become an immersive experience through which their guests — and social media followers — can get a look into the unique tastes and personalities of the betrothed. When traditions are followed, they may be adapted to feel truer to the newlyweds.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ed46e95f2096d975dee2d10b0e87388bfc9f8b50",
+      "url": "https://www.cbc.ca/news/world/iran-women-hijab-dress-code-protests-9.7241566?cmp=rss",
+      "title": "After deadly protests, more Iranian women choosing to defy hijab law despite the dangers",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Many women in Iran are defying the country's strict dress code by refusing to wear headscarves while out and about. Though several women told CBC News they still fear the authoritarian regime, others say deadly protests in January taught them they have nothing left to lose.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.588,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "65c8f6c5e9401d08bad8fb672f0f0956eb86dc51",
+      "url": "https://www.cbc.ca/news/canada/manitoba/west-nile-deaths-9.7240740?cmp=rss",
+      "title": "It started with chills. Weeks later, he was gone",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Imagine working 36 years for your retirement, only for it to be cut short by a mosquito infected with West Nile virus. That is the tragic reality for an Ontario family speaking out, hoping to save lives as summer mosquito season gets underway.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38aa282cad6c3a462080cecdde0db9a9c02d1165",
+      "url": "https://www.cbc.ca/news/politics/climate-accountability-legal-challenge-carney-analysis-9.7242378?cmp=rss",
+      "title": "A legal challenge opens a new front in the debate over Carney's climate agenda",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Speaking at Trinity College in Ireland last weekend, Mark Carney recalled that Edmund Burke, the 18th-century politician and philosopher and an alumnus of Trinity, had once described society as a partnership between those who are living, those who are dead and those who are yet to be born.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "89b9d5166b5097d28def16e49b393ed972cbc3d7",
+      "url": "https://www.cbc.ca/news/world-cup-final-halftime-show-9.7237762?cmp=rss",
+      "title": "There's backlash against the World Cup final's halftime show. Is it attacking tradition or just a good show?",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The 2026 FIFA World Cup final will feature a halftime show for the first time. It has ruffled the feathers of some soccer fanatics, who see the move as a \"Yankeefication\" of the Beautiful Game.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "674aada04dbd3881266760f65c6ca984040a4e5b",
+      "url": "https://www.cbc.ca/news/canada/hamilton/rembrandt-painting-hamilton-curator-netherlands-9.7242332?cmp=rss",
+      "title": "How an Ontario man helped discover a lost Rembrandt, thought to be fake, but worth millions",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Jonathan Bikker, a curator at the Rijksmuseum in Amsterdam, led the effort to authenticate Vision of Zacharias in the Temple, a painting that had been dismissed by scholars in the 1960s and largely disappeared from public view.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ac360c1cc0259f03b0854a020c7f8a893b85b6b",
+      "url": "https://www.cbc.ca/news/health/glp1-health-benefits-cancer-prevention-second-opinion-9.7241872?cmp=rss",
+      "title": "Should everyone be on GLP-1s? What the science really tells us about cancer prevention and other benefits",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "The laundry list of possible health benefits from GLP-1 drugs seems to get longer by the day, from cancer prevention to combating addiction. But while there’s no question these medications show immense promise beyond their use for diabetes and weight loss, science is still catching up.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1848d0a1dc398053e7ec52b2ba5921e83252acae",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-person-canes-disability-9.7233572?cmp=rss",
+      "title": "I always thought canes were fabulous — that is, until I needed one",
+      "published_at": "2026-06-20T00:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Ev Bishop couldn't help but feel offended when people would notice her limping or struggling to move with her bad knee. But she couldn't accept that she had a disability, or might need a cane, until a visit from friends opened her eyes to how she was limiting herself.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "04e74c4c241eaa6ce89cb44b4e4b5af9c0b7f343",
+      "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160?cmp=rss",
+      "title": "How to move a beluga across the world",
+      "published_at": "2026-06-19T21:00:00-04:00",
+      "section": "Technology & Science",
+      "summary_auto": "How does one transport an aquatic animal that can grow up to 4.5 metres and weigh up to 1,900 kilograms? Here’s a step-by-step guide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7765a626c6ee07dcd55fb274d2c0fe16807e8c80",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-wildfire-evacuation-alert-9.7242975?cmp=rss",
+      "title": "Out-of-control wildfire near Lytton, B.C., prompts evacuation orders, Highway 1 closure",
+      "published_at": "2026-06-19T20:18:50-04:00",
+      "section": "Top Stories",
+      "summary_auto": "An out-of-control wildfire south of the village of Lytton, B.C., triggered evacuation orders and alerts late Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b88d12ad5a7ee42b31c16593a906f190f274363c",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/kate-douglass-swimming-world-record-50-metre-freestyle-9.7242947?cmp=rss",
+      "title": "American swimmer Kate Douglass breaks women's 50m freestyle world record",
+      "published_at": "2026-06-19T18:30:40-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Kate Douglass broke the world record in the women's 50-metre freestyle at the TYR Pro Swim Series meet Friday night in Indianapolis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "71b7595bea9a2f4fcc910e0a3f07678a6afa3c80",
+      "url": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
+      "title": "Carney government passes law allowing authorization of banned pesticides",
+      "published_at": "2026-06-19T18:26:28-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fcfeebb172ffe7d68a3e17715d66277db641df1e",
+      "url": "https://www.cbc.ca/news/world/australia-confirms-h5n1-bird-flu-case-9.7242903?cmp=rss",
+      "title": "Australia confirms 1st mainland case of H5N1 bird flu",
+      "published_at": "2026-06-19T17:48:47-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Australia will do all it can to curb any spread of H5N1 bird flu, Prime Minister Anthony Albanese said on Saturday, as the  first mainland ‌infection was confirmed in a seabird a day after being detected in a remote southwestern region.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5f1bed89e9c3dc303403c966ccca0648badf05db",
+      "url": "https://www.cbc.ca/news/canada/toronto/canadian-iranians-respond-peace-deal-9.7242902?cmp=rss",
+      "title": "Canadian-Iranians respond to the U.S.-Iran peace deal with mixed reaction",
+      "published_at": "2026-06-19T17:45:07-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Members of the Iranian diaspora in Toronto have mixed reactions to the U.S.-Iran peace deal, with some expressing relief that ordinary citizens will no longer live under active bombardment, but also skepticism that the new agreement will hold the Iranian government accountable.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "afacba795cfe1ee9a1df12f6964ab9c594aac5ea",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/critics-slam-government-plan-to-bail-out-sagging-condo-sector-9.7242851?cmp=rss",
+      "title": "Critics slam government plan to 'bail out' sagging condo sector in B.C.",
+      "published_at": "2026-06-19T17:32:44-04:00",
+      "section": "Canada",
+      "summary_auto": "A plan by the B.C. government and Ottawa to buy thousands of vacant condo units and turn them into affordable housing is drawing criticism. Some call it a \"bail out\" for developers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec750bd751742eb0d44387c93ca21e57d6ea21b1",
+      "url": "https://www.cbc.ca/sports/soccer/new-stadium-need-vancouver-whitecaps-don-garber-mls-9.7242892?cmp=rss",
+      "title": "New stadium needed to keep Whitecaps in Vancouver, says MLS commissioner",
+      "published_at": "2026-06-19T17:28:18-04:00",
+      "section": "Canada",
+      "summary_auto": "Major League Soccer commissioner Don Garber said before the United States beat Australia at the World Cup on Friday that the Vancouver Whitecaps need to have a new stadium deal in order to keep the club in Vancouver.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4eed11430226abd512aacf98841b8f1e83e8abb3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/west-kelowna-wildfire-kalamoir-park-9.7242823?cmp=rss",
+      "title": "Wildfire that prompted evacuations in West Kelowna was caused by prohibited campfire, officials say",
+      "published_at": "2026-06-19T16:35:53-04:00",
+      "section": "Canada",
+      "summary_auto": "Officials have determined that a wildfire that prompted evacuation orders in West Kelowna, B.C., earlier this week was caused by a prohibited campfire inside a regional park.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "151d4d5f8a7792e2993bb062f2aedd284bad7fda",
+      "url": "https://www.cbc.ca/news/world/world-cup-bars-beer-9.7241692?cmp=rss",
+      "title": "Are thirsty soccer fans drinking all the beer in World Cup host cities?",
+      "published_at": "2026-06-19T16:20:21-04:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3a45223f522a41148abb91c8505e9bb140ba84b9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/komoks-treaty-pierre-poilievre-9.7242721?cmp=rss",
+      "title": "K'omoks First Nation chief pushes back on Poilievre's opposition to treaty",
+      "published_at": "2026-06-19T15:44:59-04:00",
+      "section": "Canada",
+      "summary_auto": "Federal Conservative Leader Pierre Poilievre announced Friday that he and other Conservative party MPs will oppose the ratification of the K'omoks First Nation's treaty.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bdf117e866aa6d16edd54582753546b50ffadde3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-nurses-tentative-deal-rejected-9.7242673?cmp=rss",
+      "title": "B.C. nurses reject tentative deal with province",
+      "published_at": "2026-06-19T14:37:53-04:00",
+      "section": "Canada",
+      "summary_auto": "Members of the B.C. Nurses' Union have voted to reject a tentative agreement with the province on Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0b186ff5925320d3240c6f09a9923cd9e95decf1",
+      "url": "https://www.cbc.ca/news/entertainment/james-burrows-dies-friends-cheers-9.7242358?cmp=rss",
+      "title": "TV legend James Burrows, co-creator of Cheers and director for hit show Will & Grace, dies at 85",
+      "published_at": "2026-06-19T14:21:10-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Celebrated televisions director and producer James Burrows, who was behind the hit show Cheers and directed thousands of episodes of hit shows like Friends and Will & Grace, has died at the age of 85.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.948,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b52db9989c07440b11425430251310a35c09030b",
+      "url": "https://www.cbc.ca/news/canada/manitoba/provincial-court-reconciliation-judge-9.7242404?cmp=rss",
+      "title": "Manitoba appoints 1st associate chief judge of reconciliation",
+      "published_at": "2026-06-19T12:53:57-04:00",
+      "section": "Canada",
+      "summary_auto": "A Manitoba provincial court judge is helping the court chart a new path forward as the province's first associate chief judge of reconciliation — a role she says she believes is the first of its kind in Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "51de0fb4c1640124e9b6973349c3e9e5c3fbf04c",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-water-whale-population-9.7241981?cmp=rss",
+      "title": "'This is our Serengeti': New study says more whales showing up in Vancouver waters",
+      "published_at": "2026-06-19T12:19:55-04:00",
+      "section": "Canada",
+      "summary_auto": "A  new study  says West Coast transient killer whales, also known as Bigg's killer whales, are now being seen in the inside waters of Vancouver Island for about 250 days a year on average.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "13186ff1f589481cafb57b9ae9e5f089d5f61789",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/rabid-bat-sask-daycare-school-division-delay-telling-parents-9.7242258?cmp=rss",
+      "title": "Rabid bat found at Sask. daycare; school division apologizes for delay in telling parents",
+      "published_at": "2026-06-19T11:50:25-04:00",
+      "section": "Canada",
+      "summary_auto": "Children at a daycare in Spiritwood have been offered rabies treatment after a bat found inside the centre tested positive for the virus.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "e3bd1c394256fa066759007e73e6ab5a34d14dc9",
       "url": "https://www.cbc.ca/news/politics/ottawa-adding-5-4-b-for-childcare-9.7242200?cmp=rss",
       "title": "Ottawa adding $5.4B for child care to sustain national program over next 2 years",
       "published_at": "2026-06-19T11:11:54-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The federal government is giving provinces and territories an additional $5.4 billion over two years for the national $10-a-day child-care program to help with \"cost pressures,\" Canada's families minister says.",
       "bias_heuristic": {
         "article_type": "News",
@@ -21,7 +398,7 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-energy-9.7139109?cmp=rss",
       "title": "Ukraine keeps striking Russian refineries and supply routes. How close is the country to an energy crisis?",
       "published_at": "2026-06-19T10:44:39-04:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Experts say Russia's energy industry is under increasing pressure as Ukraine tilts the war closer to the country that has been waging it, through a combination of long- and middle-range strikes.",
       "bias_heuristic": {
         "article_type": "News",
@@ -34,7 +411,7 @@
       "url": "https://www.cbc.ca/news/business/toys-r-us-owner-rebranding-9.7242041?cmp=rss",
       "title": "Owner of beleaguered Toys 'R' Us Canada floats rebrand in court files",
       "published_at": "2026-06-19T10:38:56-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "The owner of Toys \"R\" Us Canada is trying to buy some of the retailer's assets so it can keep the chain going or rebrand the beleaguered business that has been in creditor protection since February.",
       "bias_heuristic": {
         "article_type": "News",
@@ -45,13 +422,13 @@
     {
       "id": "2a93fdb766fe6cca6c4c2021289fc8e6c6083979",
       "url": "https://www.cbc.ca/news/world/london-train-collision-police-fire-rescue-responding-bedford-9.7242125?cmp=rss",
-      "title": "British police responding after trains reportedly collide north of London",
+      "title": "Driver dead, nearly 90 other people injured after passenger trains collide north of London",
       "published_at": "2026-06-19T10:12:21-04:00",
-      "section": "Top Stories",
-      "summary_auto": "British police said Friday they were responding to a report of a collision between two trains in the Bedford area north of London.",
+      "section": "World",
+      "summary_auto": "Two trains collided north of London on Friday, killing a driver and seriously injuring dozens of people on board.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.421,
+        "sentiment": -0.925,
         "subjectivity_hint": "low"
       }
     },
@@ -60,7 +437,7 @@
       "url": "https://www.cbc.ca/news/entertainment/jelly-roll-bunnie-xo-divorce-9.7241938?cmp=rss",
       "title": "Jelly Roll and Bunnie Xo break silence about divorce",
       "published_at": "2026-06-19T10:10:19-04:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "American country star Jelly Roll and podcaster Bunnie Xo are breaking their silence following the  news earlier this week  of their divorce.",
       "bias_heuristic": {
         "article_type": "News",
@@ -73,349 +450,11 @@
       "url": "https://www.cbc.ca/news/politics/canada-imposes-tariffs-canned-vegetables-9.7242029?cmp=rss",
       "title": "Canada imposes 10% global tariff on canned vegetables — excluding U.S., Mexico",
       "published_at": "2026-06-19T09:57:27-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Canada announced a 10 per cent tariff on imports of canned vegetables ‌on Friday, saying the measure, which excludes the United States, was aimed at addressing challenges facing its domestic ​producers.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "06cbeabb5fd240e1af92334ae24009929723441a",
-      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-world-cup-ismael-kone-surgery-june19-9.7242014?cmp=rss",
-      "title": "Canada midfielder Ismaël Koné undergoes surgery to repair broken leg",
-      "published_at": "2026-06-19T09:40:39-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Midfielder Ismael Kone has undergone successful surgery to repair a broken leg suffered in Canada's 6-0 win over Qatar at the World Cup.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b3a635b9909a2ed8cc342c2215ccfc2b6bc633ee",
-      "url": "https://www.cbc.ca/news/canada/toronto/accused-toronto-cop-shooting-appears-hospital-9.7242000?cmp=rss",
-      "title": "19-year-old accused of killing Toronto police officer appears in court from hospital bed",
-      "published_at": "2026-06-19T09:27:42-04:00",
-      "section": "Top Stories",
-      "summary_auto": "A 19-year-old charged with first-degree murder in connection with the death of a Toronto police officer last week made his first appearance in court Friday from his hospital bed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.952,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1b8ef1308f615805a2dae7ccdbb557020d06e9d",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/funeral-five-children-killed-mapleton-township-saturday-9.7241774?cmp=rss",
-      "title": "Funeral for 5 children in Elmira, Ont.-area crash is Saturday. These are the siblings who'll be honoured",
-      "published_at": "2026-06-19T08:49:25-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The five children killed June 12 in a two-vehicle collision in Ontario's Mapleton Township will be honoured Saturday at their funeral. Three other members of the Doerksen family and a couple were also injured.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.875,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1b8ef1308f615805a2dae7ccdbb557020d06e9d",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/funeral-five-children-killed-mapleton-township-saturday-9.7241774?cmp=rss",
-      "title": "Funeral for 5 children in Elmira, Ont.-area crash that injured 5 other family members is Saturday",
-      "published_at": "2026-06-19T08:49:25-04:00",
-      "section": "Canada",
-      "summary_auto": "The five children killed June 12 in a two-vehicle collision in Ontario's Mapleton Township will be honoured Saturday at their funeral. Three other members of the Doerksen family and a couple were also injured.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.942,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "48e6dafda027572b43b34f5bc9ede2ac07d22b98",
-      "url": "https://www.cbc.ca/news/entertainment/tay-keith-dead-at-29-9.7241823?cmp=rss",
-      "title": "Music producer Tay Keith, who worked with Drake and Travis Scott, dead at 29",
-      "published_at": "2026-06-19T08:29:47-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police in Nashville say 29-year-old Tay Keith was found dead in his Nashville apartment Thursday by officers performing a welfare check. A cause of death has not been identified, but foul play is not suspected, and an autopsy will be conducted.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.392,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "11fcbb47a13cda60ccab0f9b72a4eb7ddc70a4e4",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-government-innu-exhibit-9.7241833?cmp=rss",
-      "title": "N.L. Indigenous Relations Minister acknowledges 'distrust,' but does not address Innu history timeline",
-      "published_at": "2026-06-19T08:21:02-04:00",
-      "section": "Canada",
-      "summary_auto": "Newfoundland and Labrador Indigenous Relations and Reconciliation Minister Lela Evans said while she was \"sorry for the impact\" the cancellation of the exhibit has had, she did not address any of the claims that Innu leaders said were the actual basis for the the event not going ahead — which was the provincial government limiting their history to 300 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.329,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6d419afb5b98edaa173f40853ac9bc01a682e201",
-      "url": "https://www.cbc.ca/news/canada/montreal/public-inquiry-racism-premier-quebec-9.7241360?cmp=rss",
-      "title": "Montreal mayor says husband, who is Black, was stopped last year 'at least 5 or 6 times — for nothing'",
-      "published_at": "2026-06-19T07:53:04-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98876034cf3e90a1e0171b33032dc1e4462f2b57",
-      "url": "https://www.cbc.ca/news/canada/calgary/fagundes-elansin-rcmp-alberta-ontario-9.7240690?cmp=rss",
-      "title": "Alberta fugitives arrested in Ontario in $5M scam investigation",
-      "published_at": "2026-06-19T07:47:57-04:00",
-      "section": "Canada",
-      "summary_auto": "Two Alberta fugitives wanted on Canada-wide warrants for allegedly misappropriating nearly $5 million in investors’ funds between January 2019 and December 2020 have been arrested in Ontario.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c3230790af6783237d241285f3dbe37162d0cf22",
-      "url": "https://www.cbc.ca/news/canada/manitoba/jonathan-toews-retire-nhl-9.7241559?cmp=rss",
-      "title": "Jonathan Toews calls it a career, retires after 16 NHL seasons",
-      "published_at": "2026-06-19T07:30:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Winnipeg's Jonathan Toews, who played for his hometown team last season, announced his retirement Friday after 16 seasons.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6c0d6f8df15f9021935bc08e8053caebd5fcd1fe",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/fishing-rescue-digby-bay-of-fundy-9.7241710?cmp=rss",
-      "title": "4 fishermen rescued after boat catches fire in Bay of Fundy",
-      "published_at": "2026-06-19T07:27:33-04:00",
-      "section": "Top Stories",
-      "summary_auto": "All four people onboard a Digby, N.S., fishing vessel that caught fire on Thursday were rescued safely after being brought to shore by a nearby boat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9e30b7d41a4802ecc3c34d143b5835e851812cd",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-banishment-court-9.7241620?cmp=rss",
-      "title": "N.L. judge imposing banishment in IPV case signals ‘frustration’ with system, says advocate",
-      "published_at": "2026-06-19T07:00:32-04:00",
-      "section": "Canada",
-      "summary_auto": "An advocate is applauding a provincial court judge banishing a man with a history of intimate partner violence from entering two communities on Newfoundland's west coast — but only time will tell if it works.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4fcdee532c856b5eeb0932c16809307ddfc5a93b",
-      "url": "https://www.cbc.ca/news/world/us-strike-boat-pacific-9.7241346?cmp=rss",
-      "title": "U.S. kills 3 people on alleged drug-carrying boat, as senators demand to see unedited video of strikes",
-      "published_at": "2026-06-19T06:35:51-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. military attacked a boat accused of smuggling drugs in the eastern Pacific Ocean on Thursday, killing three people, as Donald Trump's administration wages its ongoing campaign against alleged traffickers in Latin America, which has now killed well over 200 people.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.971,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9b28fb926fc2a4bb6ac877cf5c9c94ba3dc8b83c",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/naloxone-bc-overdose-9.7239347?cmp=rss",
-      "title": "Access to free naloxone in B.C. preventing 4 out of 5 potentially fatal overdoses, report finds",
-      "published_at": "2026-06-19T05:00:00-04:00",
-      "section": "Health",
-      "summary_auto": "Thousands of people have died due to the toxic drug crisis in the decade since B.C. declared it a public health emergency. But a new study shows that many more could have died if not for the province's harm reduction efforts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.951,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "85cb3babd10ec55b810384025889b2325154a21a",
-      "url": "https://www.cbc.ca/news/canada/toronto/livestory/frank-stronach-sexual-assault-trial-9.7072022?cmp=rss",
-      "title": "Canadian businessman Frank Stronach found guilty of sexual assault, indecent assault",
-      "published_at": "2026-06-19T04:36:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b96aae79bf671a6e90fff00020a446f56a3138d1",
-      "url": "https://www.cbc.ca/news/canada/calgary/fscd-alberta-waitlist-families-9.7235664?cmp=rss",
-      "title": "Families crumble, debts build, kids go without therapy. Stories from Alberta’s waitlist for disability support",
-      "published_at": "2026-06-19T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An estimated 20,000 Alberta kids are on a waitlist for the Family Support for Children with Disabilities program. In the meantime, parents are losing their jobs or are unable to find work because children are being banned from daycare. They are taking on debt to fund therapy. They report stress to the point of burnout.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8f578b05810134bc8287823685fd2da37554e084",
-      "url": "https://www.cbc.ca/news/canada/manitoba/plasma-donors-serious-adverse-reactions-9.7241064?cmp=rss",
-      "title": "Nearly all serious adverse reactions among plasma donors in past decade involved for-profit sites, data shows",
-      "published_at": "2026-06-19T02:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Data obtained by CBC News reveals multiple people were left in life-threatening condition, hospitalized or requiring other medical intervention after donating plasma over the past decade.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "edd149c402f69449fd1201ec03bc8f49b241c0f2",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/stolen-car-dog-inside-new-glasgow-9.7240227?cmp=rss",
-      "title": "This couple’s car was stolen with their dog inside. They took matters into their own hands",
-      "published_at": "2026-06-19T01:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Maggi MacDonald and Peter LeBlanc had just spotted their stolen vehicle driving right in front of them and prayed their dog Tim was still inside. What happened next was a dramatic roadside showdown as MacDonald and LeBlanc confronted three people in an attempt to recover their car — and their dog.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.796,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1f8d04b3d2609d1880e9104b9b06a44d0bb1eb85",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-scallops-price-availability-menu-change-summer-2026-9.7240529?cmp=rss",
-      "title": "Scallop scarcity: Some P.E.I. restaurants removing the dish from menus as prices soar",
-      "published_at": "2026-06-19T01:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "Pan-seared scallops have been a top-selling menu item at New Glasgow Lobster Suppers — second only to lobster.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "15b8830f6af447ade66a7c637d8fc3fac926e43d",
-      "url": "https://www.cbc.ca/news/canada/canadian-sniper-rifles-openly-flaunted-in-yemen-sudan-libya-despite-arms-sanctions-9.7239775?cmp=rss",
-      "title": "Canadian sniper rifles openly flaunted in Yemen, Sudan, Libya — which are all under arms sanctions",
-      "published_at": "2026-06-19T00:05:50-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "71b7595bea9a2f4fcc910e0a3f07678a6afa3c80",
-      "url": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
-      "title": "Carney government passes law allowing authorization of banned pesticides",
-      "published_at": "2026-06-19T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government has brought in major changes to how pesticides are regulated in Canada, granting cabinet the power to authorize the use of pesticides — even ones that Health Canada has deemed unsafe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1c51b5acd739e21f0de38f75adf259d9c231bc0",
-      "url": "https://www.cbc.ca/news/canada/resale-websites-cancel-tickets-world-cup-springsteen-9.7239938?cmp=rss",
-      "title": "Ticket resale sites for World Cup, concerts face surge of complaints, demands for refunds",
-      "published_at": "2026-06-19T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "After weeks of calls, emails and chats with virtual assistants, Kelly Mongillo of Barrie, Ont., ended up becoming another disenchanted fan facing the perils of buying tickets to high-demand events from resale sites.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "62b8b3071fe1c4c901c920e4a09ba73e50ca07fd",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-fifa-fan-fest-9.7240359?cmp=rss",
-      "title": "Celebrations. Lineups. Ticket struggles. Is the FIFA Fan Festival worth it?",
-      "published_at": "2026-06-19T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "For some, the fan fest is nothing but joy. It's a special celebration that Toronto has the opportunity to host, bringing together global food, fandom and music. But other fans say the event has its issues.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.739,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0ca6ae31fb0bd608e845e73fddf1aff62424d6b9",
-      "url": "https://www.cbc.ca/news/canada/toronto/frank-stronach-sexual-assault-trial-9.7237045?cmp=rss",
-      "title": "Frank Stronach could learn fate in sexual assault trial on Friday",
-      "published_at": "2026-06-19T00:00:00-04:00",
-      "section": "Canada",
-      "summary_auto": "An Ontario judge could render her decision Friday on whether Frank Stronach is guilty of any of the sexual assault charges against him, four months after the Canadian businessman went on trial in a Toronto courtroom.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.91,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "6f2a4a61a074e0c15a1fe34fbcda11a36bc6cc2c",
-      "url": "https://www.cbc.ca/news/world/trump-iran-deal-obama-9.7239879?cmp=rss",
-      "title": "Trump routinely trashes the Obama-era Iran nuclear agreement. How is his deal different?",
-      "published_at": "2026-06-19T00:00:00-04:00",
-      "section": "World",
-      "summary_auto": "The memorandum of understanding signed by U.S. President Donald Trump on Wednesday to end the war on Iran has sparked comparisons to the 2015 deal signed by the Obama administration and other nations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f56b2b3e49feda23914c0aec9f833a9a5a614942",
-      "url": "https://www.cbc.ca/news/world/burnham-makerfield-byelection-victory-pressure-starmer-9.7241239?cmp=rss",
-      "title": "Labour's Andy Burnham wins byelection, setting up showdown with Keir Starmer to lead Britain",
-      "published_at": "2026-06-18T20:01:47-04:00",
-      "section": "World",
-      "summary_auto": "Andy Burnham, the current mayor of Greater Manchester, has won a special election for a seat in Parliament that puts him in a position to challenge embattled British Prime Minister Keir Starmer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5f532cc902693001b763e7b34f64d840e37a160",
-      "url": "https://www.cbc.ca/news/world/mangione-defence-state-murder-trial-9.7241203?cmp=rss",
-      "title": "Luigi Mangione won't assert a psychiatric defence in state trial, after all, his lawyers say",
-      "published_at": "2026-06-18T18:30:00-04:00",
-      "section": "World",
-      "summary_auto": "In a stunning reversal, Luigi Mangione's lawyers told a judge Thursday that he will no longer be asserting a psychiatric defence at his state murder trial in the killing of UnitedHealthcare CEO Brian Thompson.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
         "subjectivity_hint": "low"
       }
     }
