@@ -1,27 +1,196 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-26T10:10:49.931305-04:00",
+  "generated_at": "2026-06-26T15:39:22.662422-04:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "f9b5ce0f2b119beb9f3d340f7765789a934d3717",
+      "url": "https://www.cbc.ca/news/entertainment/mels-photochemical-closure-9.7250269?cmp=rss",
+      "title": "Montreal film production lab to shut down, sparking calls from filmmakers for it to be saved",
+      "published_at": "2026-06-26T10:38:45-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A Quebec facility that houses one of North America's only laboratories capable of developing film for professional productions is being shuttered, with the owner citing declining investment in local audiovisual productions as a factor.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a56a82a0f55f7ea3ede7a2bf8207f17ba2a317d1",
+      "url": "https://www.cbc.ca/news/canada/edmonton/central-alberta-rain-warning-9.7250440?cmp=rss",
+      "title": "Edmonton, central Alberta expected to get drenched with up to 70 mm of rain",
+      "published_at": "2026-06-26T10:37:58-04:00",
+      "section": "Canada",
+      "summary_auto": "After weeks of water-logged weather, communities in the Edmonton region and across central Alberta are again bracing for another severe rainstorm.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1e31e76a889c6133c4b0ac6ae684c65f04cacac",
+      "url": "https://www.cbc.ca/news/entertainment/drake-janice-stfu-song-apology-party-9.7250398?cmp=rss",
+      "title": "Calling all Janices! Drake wants to apologize by throwing you a party",
+      "published_at": "2026-06-26T10:31:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "If your name is Janice and you feel personally victimized by Drake’s song Janice STFU, you're in luck — provided you can show government-issued ID. Rumour has it, the Toronto-born rapper is ready to make amends with all Janices by throwing them an exclusive Janices-only apology party.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.859,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "94b9b9779d233bcd66da4191cc1f9d90940eec18",
+      "url": "https://www.cbc.ca/news/canada/hamilton/daniel-senecal-pleads-guilty-9.7249986?cmp=rss",
+      "title": "Registered sex offender pleads guilty to sexual assault of 3-year-old in Welland, Ont., other charges",
+      "published_at": "2026-06-26T10:12:23-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Daniel Senecal was arrested on Aug. 31, 2025, after police were called to a home in Welland, Ont., for a \"medical assistance call involving a child.\" The 26-year-old pleaded guilty this week in St. Catharines court to multiple charges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e9d6e4a6d4f1d0b90e945eb06b008cc8086ff2ac",
+      "url": "https://www.cbc.ca/news/canada/edmonton/sherritt-fort-sask-refinery-9.7250254?cmp=rss",
+      "title": "Sherritt shutting down Alberta refinery as feed from Moa mine in Cuba runs out",
+      "published_at": "2026-06-26T08:49:20-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Sherritt International Corp. is shutting down operations at its refinery in Fort Saskatchewan, Alta., after running out of the feed inventory it receives from its Moa mine in Cuba.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e9d6e4a6d4f1d0b90e945eb06b008cc8086ff2ac",
+      "url": "https://www.cbc.ca/news/canada/edmonton/sherritt-fort-sask-refinery-9.7250254?cmp=rss",
+      "title": "Sherritt shutting down Fort Saskatchewan, Alta., refinery as feed from Moa mine in Cuba runs out",
+      "published_at": "2026-06-26T08:49:20-04:00",
+      "section": "Canada",
+      "summary_auto": "Sherritt International Corp. is shutting down operations at its refinery in Fort Saskatchewan, Alta., after running out of the feed inventory it receives from its Moa mine in Cuba.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6332186cb506517d1ca482c4bf8f7eb5b05a33ed",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-drug-use-9.7249930?cmp=rss",
+      "title": "10-day crackdown targets open drug use but not about 'criminalizing addiction': Winnipeg police",
+      "published_at": "2026-06-26T08:30:19-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Winnipeg police say they have had more than 100 \"interactions\" and made two dozen arrests since the service ramped up patrolling in areas of the city affected by open drug use and trafficking earlier this week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.696,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "67dea8deee1923be69e54d7ab389652fb85583bb",
+      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-leaflets-9.7250186?cmp=rss",
+      "title": "Israel, Lebanon sign framework agreement with U.S. in 'first step' toward peace, Rubio says",
+      "published_at": "2026-06-26T08:11:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. Secretary of State Marco Rubio along with Israel and Lebanon's ambassadors announced a framework agreement Friday that was described as a first step toward peace following months of conflict between Israel and the Lebanese militant group Hezbollah.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8604734e27fbc64aaf6944beae2737dfed8ec366",
+      "url": "https://www.cbc.ca/news/entertainment/love-island-alannah-keyser-removed-racial-slur-posts-9.7250161?cmp=rss",
+      "title": "Love Island USA axes another contestant for using racial slur in resurfaced video post",
+      "published_at": "2026-06-26T07:52:48-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Alannah Keyser, 21, has now become the second contestant to be removed from the current season of  Love Island USA  for using a racial slur in a resurfaced video online. The removal comes less than a week after the college student, who hails from Miami, entered as a bombshell during the Casa Amor episodes in the Peacock reality dating series.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "03234de47944cca7ab054692d7ec8dcf6569f9a7",
+      "url": "https://www.cbc.ca/news/canada/montreal/boivin-arrest-spain-9.7250142?cmp=rss",
+      "title": "Canada's most wanted fugitive, a Quebecer, arrested in Spain",
+      "published_at": "2026-06-26T07:49:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "All Boivin, considered the most wanted fugitive in Canada, has been arrested in Spain, according to Radio-Canada sources.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6b2fde8a13f461dfde89c44818dc8389b5b75857",
+      "url": "https://www.cbc.ca/news/canada/manitoba/small-plane-emergency-landing-highway-manitoba-9.7250041?cmp=rss",
+      "title": "Small plane makes emergency landing on highway in western Manitoba",
+      "published_at": "2026-06-26T07:26:01-04:00",
+      "section": "Top Stories",
+      "summary_auto": "A pilot landed on a rural Manitoba highway Thursday night after issuing an alert to emergency officials.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "df5fbdcbca7f5d294a63430f5d07ecd95c28aa97",
+      "url": "https://www.cbc.ca/news/world/john-bolton-plea-classified-information-9.7249765?cmp=rss",
+      "title": "John Bolton, former Trump adviser, pleads guilty to 1 count of illegally retaining classified info",
+      "published_at": "2026-06-26T07:06:08-04:00",
+      "section": "Top Stories",
+      "summary_auto": "John Bolton, national security adviser during Donald Trump's first presidential administration, pleaded guilty on Friday to illegally retaining classified information, sealing a deal with federal prosecutors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1eeb7ff5e83c6edaf67232b26372750b7b411e85",
       "url": "https://www.cbc.ca/news/world/germany-sentencing-2024-magdeburg-christmas-attack-9.7249810?cmp=rss",
-      "title": "Driver in Christmas vehicle attack in Germany that killed 6 people sentenced to life in person",
+      "title": "Driver in Christmas vehicle attack in Germany that killed 6 people sentenced to life in prison",
       "published_at": "2026-06-26T05:22:39-04:00",
       "section": "World",
       "summary_auto": "A Saudi doctor was sentenced to life in prison in Germany on ‌Friday for killing six people and injuring hundreds, after he rammed a rented BMW into crowds at a historic market in the eastern city of Magdeburg days before Christmas in 2024.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.948,
+        "sentiment": -0.963,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7bfd0f86c51b074146f9b446844c8cf3abf17d08",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stacey-lynn-corey-kenny-9.7249748?cmp=rss",
+      "title": "Loss of N.L. teen, father killed in moose crash 'deeply felt'",
+      "published_at": "2026-06-26T05:08:16-04:00",
+      "section": "Canada",
+      "summary_auto": "A community on the southern shore of the Avalon Peninsula is putting out hockey jerseys and gear in remembrance of a young woman and her father who were killed earlier this week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.932,
         "subjectivity_hint": "low"
       }
     },
     {
       "id": "7262ea9f4a75e4cb0e3949c7c1ed120ba76107cf",
       "url": "https://www.cbc.ca/news/business/rbc-fined-credit-card-statements-9.7249811?cmp=rss",
-      "title": "RBC fined $4.25 million over incorrect credit card statements",
+      "title": "RBC fined $4.25M over incorrect credit card statements",
       "published_at": "2026-06-26T05:04:49-04:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Between 2001 and 2024, the FCAC says RBC failed to transfer credits from deactivated credit card accounts to customers' new ones. This resulted in incorrect monthly credit card statements.",
       "bias_heuristic": {
         "article_type": "News",
@@ -43,19 +212,6 @@
       }
     },
     {
-      "id": "3d6ecc75e8257da17691438d793c528ae801fb13",
-      "url": "https://www.cbc.ca/news/world/europe-heat-wave-omega-alcohol-ban-pride-parade-france-9.7249778?cmp=rss",
-      "title": "Europe on high alert as killer heat spreads, prompting alcohol ban and Pride parade delay in France",
-      "published_at": "2026-06-26T04:12:23-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Health authorities across Europe were on high alert on Friday as a killer heat wave progressed across the continent, prompting alcohol bans and festival cancellations in France and cracking road surfaces open in Germany.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b4c2567b3e34a9ce5e8dd444203639d9b28adf2b",
       "url": "https://www.cbc.ca/news/politics/order-of-canada-appointees-2026-9.7249169?cmp=rss",
       "title": "Christine Sinclair, Michael J. Fox promoted to Order of Canada's highest level",
@@ -65,19 +221,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2119ccf6d1b039806ccb9d114d4377748bea9506",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-appeal-court-sanctions-william-makis-9.7248632?cmp=rss",
-      "title": "Former Alberta doctor again ordered to stop ‘cancer coaching’ as appeal bid rejected",
-      "published_at": "2026-06-26T04:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta’s highest court has barred a former Edmonton physician from launching an appeal against court-ordered sanctions that prohibit him from practising medicine or implying he’s licensed to care for any patient in the province.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -105,19 +248,6 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "08d6a2b253d4210d202270b4c6a5e920c8034071",
-      "url": "https://www.cbc.ca/news/canada/north/mckenna-nhl-draft-whitehorse-yukon-indigenous-9.7249311?cmp=rss",
-      "title": "Maple Leafs or not, Yukon's Gavin McKenna set to make hockey history in NHL draft",
-      "published_at": "2026-06-26T03:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "McKenna is projected to be the first overall selection at this year's draft, which happens on Friday. That means the 18-year-old  could be headed to Toronto.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -151,7 +281,7 @@
       "url": "https://www.cbc.ca/news/canada/teens-violent-gory-content-social-9.7244772?cmp=rss",
       "title": "We know violent and gory videos exist online. Teens are seeing more of them than you'd think",
       "published_at": "2026-06-26T02:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "School fights. The Charlie Kirk killing. Violent encounters with police. A new survey of more than 1,000 teens across Canada offers a glimpse into the violent content they say they're seeing online — largely without seeking it out — and what young people want done about it.",
       "bias_heuristic": {
         "article_type": "News",
@@ -162,13 +292,13 @@
     {
       "id": "92863f9af96148785e9929ae744e4bb42881ec5b",
       "url": "https://www.cbc.ca/news/canada/manitoba/cihi-data-knee-replacement-9.7249388?cmp=rss",
-      "title": "3 in 10 knee replacement surgeries in Manitoba met Canada's wait-time benchmark in 2025, data shows",
+      "title": "Manitoba wait times for knee replacement surgery 2nd worst in country in 2025, data says",
       "published_at": "2026-06-26T02:00:00-04:00",
       "section": "Health",
       "summary_auto": "Manitobans are facing long waits for knee replacement surgeries, as new data shows only about three in 10 procedures completed last year were done within Canada's six-month benchmark.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -199,37 +329,11 @@
       }
     },
     {
-      "id": "00cdcb08491bfc8a549f101bce0a052a65f685e6",
-      "url": "https://www.cbc.ca/news/world/pride-match-iran-egypt-world-cup-9.7247001?cmp=rss",
-      "title": "Iran and Egypt will headline Seattle's 'Pride Match.' Here's why that's controversial",
-      "published_at": "2026-06-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Iran and Egypt's FIFA World Cup game on Friday is being marketed as the 'Pride Match' by Seattle organizers. It's not a decision made by FIFA, but that hasn't stopped a wave of controversy from clouding the buildup to the pivotal group-stage game.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "13fd2091d80608586e25eb9882890e15820a80a4",
-      "url": "https://www.cbc.ca/news/entertainment/supergirl-review-9.7249461?cmp=rss",
-      "title": "Supergirl is almost impressively boring. Almost.",
-      "published_at": "2026-06-26T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Written by first-time screenwriter Ana Nogueira and directed by action-newbie Craig Gillespie, it is frankly a shock how directionless this follow-up to the DCU's 2025 eclectically energetic Superman is.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.247,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "32f89b23c73908706a1928bc2df683e3517f9c36",
       "url": "https://www.cbc.ca/news/politics/power-lines-interties-tim-hodgson-9.7249567?cmp=rss",
       "title": "Energy minister to name 5 priority power-line projects for federal backing today",
       "published_at": "2026-06-26T00:00:00-04:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The federal government is expected to announce on Friday that it will prioritize infrastructure upgrades that allow provinces to share excess electricity more cheaply and easily.",
       "bias_heuristic": {
         "article_type": "News",
@@ -264,9 +368,22 @@
       }
     },
     {
+      "id": "13fd2091d80608586e25eb9882890e15820a80a4",
+      "url": "https://www.cbc.ca/news/entertainment/supergirl-review-9.7249461?cmp=rss",
+      "title": "Supergirl is almost impressively boring. Almost.",
+      "published_at": "2026-06-26T00:00:00-04:00",
+      "section": "Entertainment",
+      "summary_auto": "Written by first-time screenwriter Ana Nogueira and directed by action-newbie Craig Gillespie, it is frankly a shock how directionless this follow-up to the DCU's 2025 eclectically energetic Superman is.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.247,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "4f655e83e233937e733ac32e932b61be6f82db1a",
       "url": "https://www.cbc.ca/news/investigates/north-fraser-pretrial-centre-ex-correctional-officer-charged-9.7248897?cmp=rss",
-      "title": "B.C. police issue arrest warrant for former provincial correctional officer charged with breach of trust",
+      "title": "Arrest warrant issued for former B.C. correctional officer charged with breach of trust",
       "published_at": "2026-06-25T19:12:33-04:00",
       "section": "Top Stories",
       "summary_auto": "",
@@ -295,192 +412,10 @@
       "title": "Heated Rivalry musical parody heads home to Canada, first stop: Toronto",
       "published_at": "2026-06-25T16:10:20-04:00",
       "section": "Entertainment",
-      "summary_auto": "Heated Rivalry: The Unauthorized Musical Parody is heading to Toronto for a limited run starting July 9, debuting just after Pride and during Fringe. Canadian director-producer Alan Kliffer says the show’s off-Broadway success started as a fandom-inspired idea to turn the hit Canadian TV series' romance into a musical parody. He hopes Toronto keeps the momentum going toward a full-scale Canadian production.",
+      "summary_auto": "Heated Rivalry: The Unauthorized Musical Parody is heading to Toronto for a limited run starting July 9, debuting just after Pride. Canadian director-producer Alan Kliffer says the show’s off-Broadway success started as a fandom-inspired idea to turn the hit Canadian TV series' romance into a musical parody. He hopes Toronto keeps the momentum going toward a full-scale Canadian production.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.856,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ef8c08d3b7b08c3774a9d2d039cdefd265a3aece",
-      "url": "https://www.cbc.ca/news/politics/carney-24-sussex-fundraising-campaign-9.7248816?cmp=rss",
-      "title": "Carney announces fundraising campaign, design competition to restore 24 Sussex: source",
-      "published_at": "2026-06-25T15:23:27-04:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9182e7963391a51db00ed99a54626a8761398e43",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-shooting-ideological-violence-9.7249396?cmp=rss",
-      "title": "Montreal shooting leads to national security investigation on ideological violence",
-      "published_at": "2026-06-25T14:31:20-04:00",
-      "section": "Canada",
-      "summary_auto": "A specialized national security unit within the RCMP has opened an investigation into ideologically motivated violent extremism after Monday's midday shooting in Montreal that left three people dead, including a police officer and a bystander.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f3fadef785dbfa5c991f3d7c2bc997ee3dd796e8",
-      "url": "https://www.cbc.ca/news/canada/calgary/extortion-arrests-calgary-9.7248895?cmp=rss",
-      "title": "16 arrested in Calgary probe into South Asian extortion; all but one are out on bail",
-      "published_at": "2026-06-25T14:20:14-04:00",
-      "section": "Canada",
-      "summary_auto": "Calgary police say they are making progress in tackling extortion against members of the city's South Asian community. But they say they need the public's help and released mugshots of most of the suspects in an attempt to get it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.403,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b587f63ca4cda1c953b0df3f71853121663405b8",
-      "url": "https://www.cbc.ca/news/canada/montreal/venezuela-earthquakes-montreal-9.7248637?cmp=rss",
-      "title": "Venezuelan Montrealers anxiously await news of loved ones after deadly earthquakes",
-      "published_at": "2026-06-25T13:43:52-04:00",
-      "section": "Canada",
-      "summary_auto": "Montrealers of Venezuelan descent are living in uncertainty after two earthquakes struck north central Venezuela on Wednesday afternoon. The earthquakes, one a magnitude of 7.2 and the other 7.5, struck just one minute apart, causing widespread devastation and triggering the collapse of several buildings in the capital Caracas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0d1ec727d5a9c8f6bbe70b0af8532dec3c6a9f16",
-      "url": "https://www.cbc.ca/news/politics/carney-iran-embassy-canada-9.7249275?cmp=rss",
-      "title": "Canada 'at a disadvantage' in Iran but no plan to open embassy, Carney says",
-      "published_at": "2026-06-25T13:41:04-04:00",
-      "section": "World",
-      "summary_auto": "Canada is \"at a disadvantage\" in countries like Iran where it lacks a diplomatic presence, but his government is not looking to re-establish relations with Tehran, Prime Minister Mark Carney said on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.631,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3bc232e26959c901c9072e9294a7916af0e29b20",
-      "url": "https://www.cbc.ca/news/canada/calgary/e-scooter-injury-hospitalization-9.7248942?cmp=rss",
-      "title": "E-scooter injuries can be deadly, debilitating — and they're on the rise, Alberta doctors warn",
-      "published_at": "2026-06-25T13:26:56-04:00",
-      "section": "Health",
-      "summary_auto": "The number of Albertans visiting emergency rooms and urgent care centres due to electric scooter incidents is growing steadily, with children’s hospitals seeing the sharpest increases.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "05b713f22e3111ce45bde1b119a991909e212a46",
-      "url": "https://www.cbc.ca/news/world/king-charles-buckingham-palace-renovation-9.7249298?cmp=rss",
-      "title": "King Charles won't live in Buckingham Palace after completion of £369M renovation",
-      "published_at": "2026-06-25T13:24:49-04:00",
-      "section": "World",
-      "summary_auto": "Charles III will not live at Buckingham Palace after the completion of a 10-year, 369-million-pound ($692 million Cdn) refurbishment program as the monarchy seeks to increase public access to the historic building that has been the centre of royal life for almost 200 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "45455798d3fc50fd0408b51d8b59c9635ff28a85",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/scooter-bank-robber-dawson-creek-9.7249083?cmp=rss",
-      "title": "Scooter-riding bank robber evades police in back-to-back stickups in Dawson Creek, B.C.",
-      "published_at": "2026-06-25T12:27:09-04:00",
-      "section": "Canada",
-      "summary_auto": "RCMP say although the two robberies took place four days and 170 metres apart, it is not clear if they are connected or if there are two scooter-riding bank robbers at large.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.699,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a8e504b4ca693f26752f7dde13520ab7c9f9dc3f",
-      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-world-cup-2026-world-cup-canada-9.7249204?cmp=rss",
-      "title": "Did Canada luck out with its World Cup playoff matchup?",
-      "published_at": "2026-06-25T12:24:07-04:00",
-      "section": "Canada",
-      "summary_auto": "CBC Sports' daily newsletter assesses Canada's chances against South Africa in the World Cup knockout stage this Sunday at 3 p.m. ET.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "99ba16bd074577a8dba2de6d1bcca6699224a03c",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/quebec-physicians-recruited-nb-healthcare-9.7249117?cmp=rss",
-      "title": "47 Quebec physicians recruited to N.B. health-care system since October",
-      "published_at": "2026-06-25T12:14:43-04:00",
-      "section": "Health",
-      "summary_auto": "New Brunswick has granted 47 licenses to Quebec physicians since October 2025 after doctors were at odds with the Quebec provincial government. Vitalité Health Network confirmed it received 19 of those physicians, with nine already beginning the job.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a6083048c1399e8589816eb7be8b7c45c636827",
-      "url": "https://www.cbc.ca/news/world/hormuz-strait-evacuation-ships-paused-attack-9.7249091?cmp=rss",
-      "title": "Ship evacuation in Strait of Hormuz paused following attack on cargo vessel",
-      "published_at": "2026-06-25T11:43:00-04:00",
-      "section": "World",
-      "summary_auto": "The UN International Maritime Organization (IMO) paused its program to shepherd ships and seafarers through the Strait of ‌Hormuz on Thursday after a cargo ship reported a suspected attack, reigniting fears over a preliminary deal to end the Iran war.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.93,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f7f9515d974728c31fe68d629ee5e5be2590bdfb",
-      "url": "https://www.cbc.ca/news/canada/edmonton/joseph-kidd-charged-sex-crimes-grande-prairie-rcmp-9.7249109?cmp=rss",
-      "title": "Alberta man charged with sex crimes involving minors while out on bail",
-      "published_at": "2026-06-25T11:39:26-04:00",
-      "section": "Canada",
-      "summary_auto": "Grande Prairie RCMP urges potential victims to come forward as Joseph Kidd has received numerous charges relating to sexual offences. Police have identified four alleged victims so far, ranging from 12 to 18 years old.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.836,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d1c86f8f60f0862bcfae788cfda8e233946aba1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/place-glacier-lake-outburst-9.7236492?cmp=rss",
-      "title": "Residents northwest of Pemberton, B.C., ordered to leave as glacial lake threatens to burst",
-      "published_at": "2026-06-25T10:28:25-04:00",
-      "section": "Canada",
-      "summary_auto": "Residents of a small community northeast of Pemberton, B.C., have been ordered to leave immediately due to the imminent risk of flooding from a nearby glacial lake.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d46e27d00799dccbc9bd918d13ea36d0cb62de00",
-      "url": "https://www.cbc.ca/news/politics/trump-carney-nato-defence-iran-9.7248910?cmp=rss",
-      "title": "Carney says he talked about Iran, NATO in wide-ranging security call with Trump",
-      "published_at": "2026-06-25T10:17:35-04:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney says a lengthy conversation with U.S. President Donald Trump went well beyond NATO, covering Iran, Middle East security, Arctic defence and Canada's military spending plans. Carney also predicted Canada will hit four per cent of GDP spent on defence by 2029, ahead of NATO's planned review.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.772,
         "subjectivity_hint": "low"
       }
     }
