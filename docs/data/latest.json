@@ -1,8 +1,60 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-27T09:19:35.215049-04:00",
+  "generated_at": "2026-06-27T15:10:14.295202-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7580ae6877adfd074c55da5ecbc3499ac8c896d4",
+      "url": "https://www.cbc.ca/news/canada/north/nwt-wildfires-9.7251520?cmp=rss",
+      "title": "62 fires currently burning in the Northwest Territories, evacuation alert remains in place for Fort Simpson",
+      "published_at": "2026-06-27T10:16:53-04:00",
+      "section": "Canada",
+      "summary_auto": "\"Thousands of lightning strikes\" mean a very busy weekend, says N.W.T. fire. Fort Simpson fire remains main concern, as well as fire near the Alberta border that threatens the highway. High heat and the risk of dry lightning continues for the area around Wood Buffalo National Park, Fort Smith and in the Sahtú and Dehcho.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ac78cc2fe8306b5a84103972ddd139594c6f6ea",
+      "url": "https://www.cbc.ca/news/world/europe-heatwave-2026-temperature-records-broken-9.7251458?cmp=rss",
+      "title": "Heat wave in Europe shatters records in Denmark, Switzerland and Czech Republic",
+      "published_at": "2026-06-27T08:26:16-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Temperatures hit record highs from Switzerland to the Czech Republic and Denmark on Saturday, as a heat wave that baked western European countries this week moves to central and eastern parts of the continent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a0bc37051743b658556083784e7858d1593ce30",
+      "url": "https://www.cbc.ca/news/canada/north/yukon-fans-celebrate-hometown-star-gavin-mckenna-s-draft-to-the-maple-leafs-9.7251221?cmp=rss",
+      "title": "Yukon fans celebrate hometown star Gavin McKenna's draft to the Maple Leafs",
+      "published_at": "2026-06-27T06:13:35-04:00",
+      "section": "Top Stories",
+      "summary_auto": "For Yukon hockey fans, it was like a dream come true on Friday when hometown hero Gavin McKenna was the first overall pick in the NHL draft.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.927,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "555c7def3d6962ab4d109f8a648364f9765a42cd",
+      "url": "https://www.cbc.ca/news/world/united-states-anthropic-artificial-intelligence-mythos-ai-9.7251397?cmp=rss",
+      "title": "Trump administration allows Anthropic to release Mythos AI to 'trusted' U.S. organizations",
+      "published_at": "2026-06-27T06:02:04-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Anthropic said on Friday that the U.S. government has allowed it to release its powerful Claude Mythos 5 artificial intelligence model to some \"trusted\" U.S. organizations, partially reversing an order two weeks ago to suspend access over national security risks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.878,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "3ead820e05e89754a730113a0d48d70392edc729",
       "url": "https://www.cbc.ca/news/canada/british-columbia/2021-bc-heat-dome-look-back-five-years-later-9.7246604?cmp=rss",
@@ -19,39 +71,52 @@
     {
       "id": "e0522cfba110659d6bab93545672553f61579937",
       "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
-      "title": "Iran says it struck U.S.-linked targets as Bahrain reports drone attack",
+      "title": "2nd ship struck in Strait of Hormuz as attacks between Iran and U.S. escalate",
       "published_at": "2026-06-27T04:25:43-04:00",
       "section": "Top Stories",
-      "summary_auto": "Iran said it struck targets linked to U.S. forces on Saturday in response to American airstrikes on its southern coast, as each side continued to accuse the other of violating last week's agreement meant to end the four-month-old war.",
+      "summary_auto": "A tanker reported being struck by a projectile in the Strait of Hormuz on Saturday, Britain's maritime security agency said, after the United States and Iran each launched strikes in the worst escalation since they signed their interim peace deal.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.902,
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "d86414007150d704894e3f3db8040dfc585adcbd",
-      "url": "https://www.cbc.ca/news/canada/police-keep-warning-parents-about-roblox-so-why-isn-t-it-in-the-social-media-bill-9.7249973?cmp=rss",
-      "title": "Police keep warning parents about Roblox. So why isn't it in the social media bill?",
-      "published_at": "2026-06-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Police in Canada keep warning parents about the dangers of gaming and messaging platforms like Discord and Roblox. But neither will be covered by the government’s proposed Safe Social Media Act. Even supporters of the legislation say it's an alarming omission.",
+      "id": "655dd6ad07283d61c43b34f07b23d94105a5dd54",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/a-summer-of-unsettled-weather-expected-across-the-prairies-9.7251128?cmp=rss",
+      "title": "Summer of unsettled weather expected across the Prairies",
+      "published_at": "2026-06-27T04:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "It's been a cooler start to summer in the southern Prairies, all due to multiple low pressure systems hovering over the region this month. It's also the cause of unsettled weather, which continues into July.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.519,
+        "sentiment": -0.784,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "c1238b4852069a221990a83991c39d0edefed8f2",
-      "url": "https://www.cbc.ca/news/world/moscow-drones-putin-public-support-down-expert-analysis-9.7249291?cmp=rss",
-      "title": "Some Russians are turning on Putin as drones hit Moscow. Does it matter?",
-      "published_at": "2026-06-27T00:00:00-04:00",
+      "id": "f15fb140a9acabe63b553b9b1e0cdabd467cfe9a",
+      "url": "https://www.cbc.ca/news/canada/london/how-to-combat-mosquitoes-9.7248419?cmp=rss",
+      "title": "Why do mosquitoes seem to love some people more? An expert explains",
+      "published_at": "2026-06-27T01:00:00-04:00",
       "section": "Top Stories",
-      "summary_auto": "After the largest Ukrainian drone offensive on the Russian capital and other strikes on energy infrastructure, confidence in Putin's leadership has seemed to waver among civilians and prominent nationalists alike. But analysts are skeptical whether it is enough to turn the tide.",
+      "summary_auto": "Mosquito season is in full swing, and it comes with plenty of advice about how to avoid getting bitten. London Morning host Andrew Brown spoke with Nusha Keyghobadi, a biology professor at Western University who studies mosquitoes, about why they bite, what attracts them and the best ways to keep them away.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e8ad8cb839d5bedaf8f43bf17b78774258a53a69",
+      "url": "https://www.cbc.ca/news/entertainment/theatre-etiquette-is-changing-9.7246366?cmp=rss",
+      "title": "Time to clutch your pearls: Theatre etiquette is changing",
+      "published_at": "2026-06-27T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As audiences evolve, theatres are making changes to meet them where they are at, whether that means allowing some noise from the crowd, letting people come and go as they please, or even being a little more understanding of cellphone use.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -69,19 +134,6 @@
       }
     },
     {
-      "id": "106229fd36c866b8da854e56cc640df3c10e298b",
-      "url": "https://www.cbc.ca/news/politics/airforce-helicopters-griffon-upgrade-suspended-9.7250616?cmp=rss",
-      "title": "Canada puts $800M Griffon helicopter upgrade on hold over technical 'complexity'",
-      "published_at": "2026-06-27T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The federal government has suspended the Royal Canadian Air Force's $800-million Griffon helicopter life-extension program amid technical problems and growing concerns over cost and complexity. The pause raises fresh questions about whether all 82 aircraft will be upgraded as Ottawa weighs an $18-billion replacement program and mounting NATO commitments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "73b63974c390b4c9acaf1b4b443e0c0019b7c038",
       "url": "https://www.cbc.ca/news/canada/montreal/rachelle-wrathmall-quebec-cold-case-arrest-rafiou-sow-guinea-9.7250521?cmp=rss",
       "title": "Nearly 20 years after her murder in Quebec, an arrest in Guinea gives her loved ones hope",
@@ -91,6 +143,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "600464bd51cc30f05e30c419ec70b5d05474e645",
+      "url": "https://www.cbc.ca/news/politics/u-s-ambassador-canada-alberta-separatism-referendum-white-house-9.7250683?cmp=rss",
+      "title": "Former envoy to U.S. doesn't think 'serious Americans' will get involved in Alta. separatism",
+      "published_at": "2026-06-27T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "As Alberta pushes ahead with a fall referendum to decide whether an actual referendum on separating from Canada is worth the effort, Canada's former U.S. ambassador says she doesn't think \"serious Americans\" will get involved in the debate.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.328,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "106229fd36c866b8da854e56cc640df3c10e298b",
+      "url": "https://www.cbc.ca/news/politics/airforce-helicopters-griffon-upgrade-suspended-9.7250616?cmp=rss",
+      "title": "Canada puts $800M Griffon helicopter upgrade on hold over technical 'complexity'",
+      "published_at": "2026-06-27T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government has suspended the Royal Canadian Air Force's $800-million Griffon helicopter life-extension program amid technical problems and growing concerns over cost and complexity. The pause raises fresh questions about whether all 82 aircraft will be upgraded as Ottawa weighs an $18-billion replacement program and mounting NATO commitments.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -121,28 +199,41 @@
       }
     },
     {
+      "id": "d86414007150d704894e3f3db8040dfc585adcbd",
+      "url": "https://www.cbc.ca/news/canada/police-keep-warning-parents-about-roblox-so-why-isn-t-it-in-the-social-media-bill-9.7249973?cmp=rss",
+      "title": "Police keep warning parents about Roblox. So why isn't it in the social media bill?",
+      "published_at": "2026-06-27T00:00:00-04:00",
+      "section": "Canada",
+      "summary_auto": "Police in Canada keep warning parents about the dangers of gaming and messaging platforms like Discord and Roblox. But neither will be covered by the government’s proposed Safe Social Media Act. Even supporters of the legislation say it's an alarming omission.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.519,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c1238b4852069a221990a83991c39d0edefed8f2",
+      "url": "https://www.cbc.ca/news/world/moscow-drones-putin-public-support-down-expert-analysis-9.7249291?cmp=rss",
+      "title": "Some Russians are turning on Putin as drones hit Moscow. Does it matter?",
+      "published_at": "2026-06-27T00:00:00-04:00",
+      "section": "World",
+      "summary_auto": "After the largest Ukrainian drone offensive on the Russian capital and other strikes on energy infrastructure, confidence in Putin's leadership has seemed to waver among civilians and prominent nationalists alike. But analysts are skeptical whether it is enough to turn the tide.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "f5c2dd1d98320a9c88b1f1feaca2b8da96ba58d3",
       "url": "https://www.cbc.ca/news/world/venezuela-earthquake-on-the-ground-9.7251179?cmp=rss",
       "title": "Venezuelans on the front line of earthquake relief: 'It's all improvisation'",
       "published_at": "2026-06-27T00:00:00-04:00",
       "section": "World",
-      "summary_auto": "As the official death toll continues to rise following Wednesday's earthquakes, Venezuelans say the civilian population has shouldered the brunt of the rescue and recovery work.",
+      "summary_auto": "As the official death toll rose to 1,430 on Saturday, Venezuelans say the civilian population has shouldered the brunt of the rescue and recovery work.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e8ad8cb839d5bedaf8f43bf17b78774258a53a69",
-      "url": "https://www.cbc.ca/news/entertainment/theatre-etiquette-is-changing-9.7246366?cmp=rss",
-      "title": "Time to clutch your pearls: Theatre etiquette is changing",
-      "published_at": "2026-06-27T00:00:00-04:00",
-      "section": "Entertainment",
-      "summary_auto": "As audiences evolve, theatres are making changes to meet them where they are at, whether that means allowing some noise from the crowd, letting people come and go as they please, or even being a little more understanding of cellphone use.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -169,214 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1859ada75cf0c6c0f0e4716e4404a3cf10de3f22",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-draft-gavin-mckenna-9.7250250?cmp=rss",
-      "title": "Maple Leafs make forward Gavin McKenna first pick of NHL draft",
-      "published_at": "2026-06-26T15:18:51-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The Toronto Maple Leafs drafted slick Whitehorse-born winger Gavin McKenna with the No. 1 pick on Friday night in Buffalo, N.Y.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "70ed380dbb88f3eee881eb643466fd5150745b3f",
-      "url": "https://www.cbc.ca/news/politics/black-council-member-added-9.7250993?cmp=rss",
-      "title": "Ottawa adds retired judge Corrine Sparks to diversity council after pushback over membership",
-      "published_at": "2026-06-26T15:05:16-04:00",
-      "section": "Top Stories",
-      "summary_auto": "The first Nova Scotian of African descent to be appointed to the province's judiciary, now retired, is joining the federal government's newly formed Advisory Council on Rights, Equality and Inclusion, after scathing criticism directed at Ottawa for its initial omission of a Black representative.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c568bd1a53d9f02c7327a7159fc4d42712275dfb",
-      "url": "https://www.cbc.ca/news/world/harvey-weinstein-california-appeals-court-upholds-conviction-2022-resentencing-9.7251018?cmp=rss",
-      "title": "California appeals court upholds Weinstein's rape conviction, orders resentencing",
-      "published_at": "2026-06-26T14:27:36-04:00",
-      "section": "Top Stories",
-      "summary_auto": "An appeals court on Friday upheld Harvey Weinstein's 2022 rape and sexual assault conviction in California, but ordered his trial judge to resentence him.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.859,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5dbf5ee1ee3952dd49a7cc39dffa634d5769db90",
-      "url": "https://www.cbc.ca/news/investigates/bc-stubhub-investigation-world-cup-resale-tickets-9.7250888?cmp=rss",
-      "title": "B.C. launches probe into StubHub over World Cup resale ticket fiasco",
-      "published_at": "2026-06-26T14:20:07-04:00",
-      "section": "Top Stories",
-      "summary_auto": "British Columbia's attorney general announced an inquiry into online ticketing site StubHub, days after a CBC News investigation that revealed a mass failure by the ticket reseller platform and cancellation of thousands of FIFA World Cup tickets in Vancouver, Toronto and host cities across North America.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c94e0cc41ce9334876b93784b9285f2b4cfeece0",
-      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-canada-south-africa-preview-june26-9.7250885?cmp=rss",
-      "title": "Canada hopes to avoid slow start in World Cup knockout match against South Africa",
-      "published_at": "2026-06-26T13:28:29-04:00",
-      "section": "Canada",
-      "summary_auto": "Forward Tani Oluwaseyi knows Canada can't afford another slow start when it faces South Africa on Sunday in a FIFA World Cup knockout match in Los Angeles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2463ccc83fe7e757fab9c58554589aa69324ed0f",
-      "url": "https://www.cbc.ca/news/canada/manitoba/palestinian-nakba-exhibit-preview-cmhr-9.7250587?cmp=rss",
-      "title": "Here's a look at the controversial Palestinian exhibit unveiled at Winnipeg's human rights museum",
-      "published_at": "2026-06-26T12:49:40-04:00",
-      "section": "Canada",
-      "summary_auto": "After four years of development, a new exhibit focused on displaced Palestinians has been unveiled at the Canadian Museum for Human Rights in Winnipeg.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c097e237f027d59a9a0df52df6920661bc43051",
-      "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
-      "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
-      "published_at": "2026-06-26T12:35:00-04:00",
-      "section": "World",
-      "summary_auto": "The U.S. struck Iran on Friday to respond to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries to begin working to end their months-long war and reopen the pivotal waterway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.902,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "84afd0f6c2a5a2a558705444f2f4293c809bf421",
-      "url": "https://www.cbc.ca/news/business/openai-restricted-release-chatgpt-5-6-sol-9.7250706?cmp=rss",
-      "title": "OpenAI restricts release of newest ChatGPT model to Trump-approved group during testing period",
-      "published_at": "2026-06-26T12:20:51-04:00",
-      "section": "World",
-      "summary_auto": "OpenAI says its new AI product, called GPT-5.6 Sol, will only be initially available to a \"small group of trusted partners\" approved by the Trump administration. The move comes after OpenAI's rival, Anthropic, took two of its models offline shortly after release to comply with a Trump directive.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a26fd93939322a427a1c4df6e79a4e74e4541619",
-      "url": "https://www.cbc.ca/news/business/flying-tiger-canada-expansion-9.7250646?cmp=rss",
-      "title": "Home goods store Flying Tiger lands in Canada, where competition awaits",
-      "published_at": "2026-06-26T11:55:00-04:00",
-      "section": "Canada",
-      "summary_auto": "The Danish brand that sells all-things cheap and cute, like dish towels in fruit motifs, animal-shaped erasers and jewelry boxes resembling fancy sofas for low prices, opened its first Canadian store at Toronto's Eaton Centre on Friday. Experts say the brand will face competition from the likes of Miniso and Daiso — Asian entrants which also came to the Canadian market in recent years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6f86e6fe3642db4f461f9cb8c6fd39cb54566b87",
-      "url": "https://www.cbc.ca/news/canada/toronto/gtha-fifa-hotel-bookings-down-9.7250687?cmp=rss",
-      "title": "Toronto hotels emptier during first 2 weeks of World Cup than same time last year: industry group",
-      "published_at": "2026-06-26T11:41:18-04:00",
-      "section": "Canada",
-      "summary_auto": "An organization representing Toronto hotels says demand for accommodations in the city is down as more rooms stood empty during the first two weeks of the World Cup than in the same time last year.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.505,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "58b0b5ce81709718ac2b33145fcad8c40eac39e6",
-      "url": "https://www.cbc.ca/radio/asithappens/new-spider-builds-trap-launching-prey-9.7250490?cmp=rss",
-      "title": "The 'ballista spider' builds a trap to catapult unsuspecting prey into its web",
-      "published_at": "2026-06-26T11:19:58-04:00",
-      "section": "Technology & Science",
-      "summary_auto": "A recently discovered spider species in Australia’s tropical rainforests has stunned researchers with a hunting technique that launches prey through the air using a spring-loaded silk trap.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.612,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e3e0dd52932800d0459c0dded11240710d3abd89",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/ex-husband-guilty-in-death-of-tatjana-stefanski-9.7250541?cmp=rss",
-      "title": "Ex-husband found guilty of murdering Tatjana Stefanski in B.C. Interior",
-      "published_at": "2026-06-26T11:01:24-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Vitali Stefanski has been found guilty of second-degree murder in the 2024 death of his ex-wife, Tatjana Stefanski.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.961,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f9b5ce0f2b119beb9f3d340f7765789a934d3717",
-      "url": "https://www.cbc.ca/news/entertainment/mels-photochemical-closure-9.7250269?cmp=rss",
-      "title": "Montreal film production lab to shut down, sparking calls from filmmakers for it to be saved",
-      "published_at": "2026-06-26T10:38:45-04:00",
-      "section": "Entertainment",
-      "summary_auto": "A Quebec facility that houses one of North America's only laboratories capable of developing film for professional productions is being shuttered, with the owner citing declining investment in local audiovisual productions as a factor.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.66,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a56a82a0f55f7ea3ede7a2bf8207f17ba2a317d1",
-      "url": "https://www.cbc.ca/news/canada/edmonton/central-alberta-rain-warning-9.7250440?cmp=rss",
-      "title": "Edmonton, central Alberta expected to get drenched with up to 70 mm of rain",
-      "published_at": "2026-06-26T10:37:58-04:00",
-      "section": "Canada",
-      "summary_auto": "After weeks of water-logged weather, communities in the Edmonton region and across central Alberta are again bracing for another severe rainstorm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a1e31e76a889c6133c4b0ac6ae684c65f04cacac",
-      "url": "https://www.cbc.ca/news/entertainment/drake-janice-stfu-song-apology-party-9.7250398?cmp=rss",
-      "title": "Is your name Janice? Drake would like to apologize for his song Janice STFU with a very exclusive party",
-      "published_at": "2026-06-26T10:31:19-04:00",
-      "section": "Top Stories",
-      "summary_auto": "If your name is Janice and you feel personally victimized by Drake’s song Janice STFU, you're in luck — provided you can show government-issued ID. Representatives for the Canadian rapper confirmed he plans to make amends by throwing exclusive Janices-only apology parties in multiple cities, including Toronto.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.883,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "94b9b9779d233bcd66da4191cc1f9d90940eec18",
-      "url": "https://www.cbc.ca/news/canada/hamilton/daniel-senecal-pleads-guilty-9.7249986?cmp=rss",
-      "title": "Registered sex offender pleads guilty to sexual assault of 3-year-old in Welland, Ont., other charges",
-      "published_at": "2026-06-26T10:12:23-04:00",
-      "section": "Canada",
-      "summary_auto": "Daniel Senecal was arrested on Aug. 31, 2025, after police were called to a home in Welland, Ont., for a \"medical assistance call involving a child.\" The 26-year-old pleaded guilty this week in St. Catharines court to multiple charges.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.953,
         "subjectivity_hint": "low"
       }
     }
