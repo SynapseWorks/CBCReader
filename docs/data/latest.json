@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-06-28T09:23:46.399559-04:00",
+  "generated_at": "2026-06-28T15:09:29.724147-04:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5f9d145d61d4226fa2bebd3f692f8aa7f3fa539d",
+      "url": "https://www.cbc.ca/news/world/france-deaths-heat-wave-9.7251959?cmp=rss",
+      "title": "France reports 1,000 additional deaths as extreme heat shatters European records",
+      "published_at": "2026-06-28T10:18:10-04:00",
+      "section": "Top Stories",
+      "summary_auto": "France saw around 1,000 additional deaths last week at the height of its record-smashing heat wave, the country's public health agency said Sunday, as the head of the World Health Organization (WHO) warned that Europe is now the fastest-warming continent and needs to do more to protect its citizens.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.197,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c576a01fcc6c27ef78fe6f9e11cfb591b098098e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/poilievre-parliament-condo-bailout-9.7251901?cmp=rss",
+      "title": "Poilievre asks Parliament to probe B.C. 'condo bailout,' says it's blocking 'a price correction'",
+      "published_at": "2026-06-28T08:07:48-04:00",
+      "section": "Top Stories",
+      "summary_auto": "In a letter to the House ethics committee, Poilievre says a program to possibly help finance the purchase of 2,200 vacant condos amounts to a \"condo bailout\" for developers, bankers and investors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "45a90e5d126968c9412acd465d5a9bb40bb50dd5",
+      "url": "https://www.cbc.ca/news/world/france-parachutist-plane-crash-9.7251836?cmp=rss",
+      "title": "Skydiving plane crashes in France, killing 11 people, officials say",
+      "published_at": "2026-06-28T07:10:39-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The plane belonged to a parachutist school. The pilot and all 10 passengers — five students and five instructors — died in the accident, the prefecture said.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7145075d844ac7bc9a2abc70ce23a9146de81dfd",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/guidance-substance-use-schools-9.7251217?cmp=rss",
+      "title": "New guidance recommends starting substance use education in kindergarten",
+      "published_at": "2026-06-28T05:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A new framework to develop guidelines around substance use in schools recommends beginning prevention and education efforts efforts as early as kindergarten.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8133012d83748d35a37b813c448a174076e56586",
+      "url": "https://www.cbc.ca/sports/golf/brooke-henderson-womens-pga-championship-9.7251756?cmp=rss",
+      "title": "Brooke Henderson 1 shot back of lead entering final round of Women's PGA Championship",
+      "published_at": "2026-06-28T04:33:22-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Haeran Ryu shot a 4-under 68 on Saturday to take a one-shot lead over Canadian Brooke Henderson after three rounds of the Women's PGA Championship. The 28-year-old from Smiths Falls, Ont., shot a 3-under 69 at Hazeltine in Chaska, Min.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "cf68f0ade9ec289eed9dcd0ef50c09642960383c",
       "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-june-28-2026-9.7250507?cmp=rss",
@@ -13,6 +78,45 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3d754eda66a96b1d15ba1a00f2b2b96c59d64c52",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/kelan-henderson-maidstone-rcmp-wellness-check-9.7248936?cmp=rss",
+      "title": "Crown stays charge against Sask. Mountie who didn’t respond to wellness check",
+      "published_at": "2026-06-28T03:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "Lyle Cisna lay on the floor of his home near Maidstone, Sask., for hours, bleeding from a head wound. The RCMP received a call asking for someone to check on him, but an officer didn't respond until more than 10 hours later. Cisna died the next day.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.606,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4ef2887978d8ebdb646fb92912936e298d1f3ed3",
+      "url": "https://www.cbc.ca/news/canada/manitoba/fighting-hiv-stigma-indigenous-9.7251086?cmp=rss",
+      "title": "Community, culture the answer to combat HIV stigma: Indigenous people",
+      "published_at": "2026-06-28T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "Manitoba and Saskatchewan are home to some of the highest rates of new HIV infections in Canada, and the numbers show Indigenous peoples are disproportionately affected.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f3f8dfba6df2994289e7c872e90f1b579924af1b",
+      "url": "https://www.cbc.ca/news/canada/sudbury/sports-psychologist-marathon-long-covid-9.7247416?cmp=rss",
+      "title": "Laurentian University sports psychology professor completes marathon after long COVID diagnosis",
+      "published_at": "2026-06-28T03:00:00-04:00",
+      "section": "Health",
+      "summary_auto": "A Laurentian University sports psychologist took to long-distance running to help recover from long COVID.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
@@ -30,6 +134,19 @@
       }
     },
     {
+      "id": "e4cdcdfc61480d990c29b486dd13c0dc04985714",
+      "url": "https://www.cbc.ca/news/canada/first-person-special-mom-group-9.7249546?cmp=rss",
+      "title": "My son and his friends have graduated. What remains is our special mom group",
+      "published_at": "2026-06-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "The graduation video was supposed to mark the end of an era for Sonja Arsenault's son and his friends. Turns out it was also marking the beginning of a new era of friendship for their moms.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.896,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "e3eeebbf2832a4193f858e5e9132b4097eef8a9a",
       "url": "https://www.cbc.ca/news/world/royal-finances-prince-george-school-eton-9.7250451?cmp=rss",
       "title": "King Charles reveals his income tax for the 1st time, but questions remain over royal finances",
@@ -40,6 +157,19 @@
         "article_type": "News",
         "sentiment": 0.612,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ffeaac6c8f00b5013ca8f6a4a69f126999ca114f",
+      "url": "https://www.cbc.ca/news/canada/north/endangered-whooping-cranes-nesting-wood-buffalo-wildfire-9.7249572?cmp=rss",
+      "title": "Wildfire near endangered whooping crane nests sparks scientific opportunity",
+      "published_at": "2026-06-28T00:00:00-04:00",
+      "section": "Top Stories",
+      "summary_auto": "It's too soon to say what the long-term impacts of earlier wildfires might be on the world’s only natural wild migratory whooping crane flock. But scientists could be a step closer to finding out after a wildfire in Wood Buffalo National Park came near a handful of the endangered species' nests.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.392,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -65,19 +195,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.747,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ff6c5bef4f354b796f0a6b49c680d78315c02ceb",
-      "url": "https://www.cbc.ca/news/politics/why-is-it-easier-to-ditch-prime-minister-u-k-than-canada-9.7250694?cmp=rss",
-      "title": "Why is it so much easier to ditch a prime minister in the U.K. than in Canada?",
-      "published_at": "2026-06-28T00:00:00-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite having nearly identical parliamentary systems, Canada has avoided the kind of prime ministerial parade that has befallen the U.K. in the past decade. Political watchers point to the Brexit vote as the key moment that led to half a dozen leaders occupying 10 Downing Street in the 10 years since, but there are underlying factors that make it easier for U.K. MPs to ditch a leader than their Canadian counterparts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.617,
         "subjectivity_hint": "low"
       }
     },
@@ -143,45 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "44f9abb594c0bc74dc19143a1fd0278799cd76fa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/venezuela-earthquake-burnaby-sar-9.7251604?cmp=rss",
-      "title": "Burnaby, B.C., search and rescue team on way to Venezuela after deadly earthquakes",
-      "published_at": "2026-06-27T13:57:09-04:00",
-      "section": "Top Stories",
-      "summary_auto": "Seven search and rescue volunteers from Burnaby are on their way to Venezuela Saturday to help out with rescue efforts following devastating earthquakes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "624cd48536963ea65b9194881ca719fd1f85ac61",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/canadian-army-holds-sunset-ceremony-to-deactivate-5th-division-9.7251549?cmp=rss",
-      "title": "Canadian Army holds sunset ceremony to deactivate 5th Division",
-      "published_at": "2026-06-27T12:33:20-04:00",
-      "section": "Canada",
-      "summary_auto": "The 5th Division of Canadian Army is transitioning with new structure and missions. A ceremony was held on Saturday in Halifax to commemorate its accomplishments in the Atlantic region.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7580ae6877adfd074c55da5ecbc3499ac8c896d4",
-      "url": "https://www.cbc.ca/news/canada/north/nwt-wildfires-9.7251520?cmp=rss",
-      "title": "66 fires currently burning in the Northwest Territories, evacuation alert remains in place for Fort Simpson",
-      "published_at": "2026-06-27T10:16:53-04:00",
-      "section": "Top Stories",
-      "summary_auto": "\"Thousands of lightning strikes\" mean a very busy weekend, says N.W.T. fire. Fort Simpson fire remains main concern, as well as fire near the Alberta border that threatens the highway. High heat and the risk of dry lightning continues for the area around Wood Buffalo National Park, Fort Smith and in the Sahtú and Dehcho.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.844,
         "subjectivity_hint": "low"
       }
     }
