@@ -1,18 +1,174 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-10T12:21:33.728101-05:00",
+  "generated_at": "2026-11-10T14:32:49.903624-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "fab8ef14bf87842c98b7b5c141394476aec49efc",
-      "url": "https://www.cbc.ca/news/canada/manitoba/connor-hellebuyck-return-to-winnipeg-9.7416133?cmp=rss",
-      "title": "Connor Hellebuyck speaks to media in 1st return to Winnipeg since forcing trade from Jets",
-      "published_at": "2026-11-10T09:51:55-05:00",
+      "id": "aa93eab8ef6aa5c57b066d86d017650e0c36f1c5",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-reserves-decision-on-firearms-ban-9.7416672?cmp=rss",
+      "title": "Supreme Court reserves decision on whether federal firearms ban should stand",
+      "published_at": "2026-11-10T14:13:36-05:00",
       "section": "Top Stories",
-      "summary_auto": "Connor Hellebuyck will face the media — but not his former teammates or Jets fans — when he returns to Winnipeg for the first time since his trade to the New Jersey Devils.",
+      "summary_auto": "The question of whether the federal government had the authority to ban hundreds of makes and models of firearms is now in the hands of the country's top court after it heard arguments from gun advocates and government lawyers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.723,
+        "sentiment": -0.765,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a7933b1f93d351dc78560de192258161e79be3b0",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ovechkin-responds-to-planned-protest-in-ottawa-over-his-support-for-putin-9.7416605?cmp=rss",
+      "title": "Ovechkin responds to planned protest in Ottawa over his support for Putin",
+      "published_at": "2026-11-10T14:00:56-05:00",
+      "section": "Canada",
+      "summary_auto": "\"I'm not there, I'm not sitting there, I'm not making any decisions,\" the NHL star told reporters before his team's game against the Ottawa Senators on Tuesday. \"As athletes ... we just want to play and that's it.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "44232eb9d6854fea8c33567e83172da78ee49036",
+      "url": "https://www.cbc.ca/news/politics/carney-china-ambassador-picked-9.7416678?cmp=rss",
+      "title": "Carney selects new ambassador to China, plans to announce 'in very short order'",
+      "published_at": "2026-11-10T13:59:45-05:00",
+      "section": "World",
+      "summary_auto": "Canadians will know the name of their new ambassador to China \"in very short order,\" said Prime Minister Mark Carney on Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5447323f440110fd598acfef3ed0bbb34bc8fa5e",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/grizzly-bear-bella-coola-attack-update-9.7416743?cmp=rss",
+      "title": "4 grizzly bears found responsible for killing mother and daughter in B.C.",
+      "published_at": "2026-11-10T13:43:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The B.C. Conservation Officer Service says four grizzly bears have been destroyed in connection with an attack near Bella Coola that left a mother and daughter dead.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "73520f9137ed500eb51f1e6373531e4f37a81b1a",
+      "url": "https://www.cbc.ca/news/entertainment/david-williams-accused-9.7416549?cmp=rss",
+      "title": "David Walliams, U.K. comedian and author, accused of preying on teenage girls",
+      "published_at": "2026-11-10T13:19:11-05:00",
+      "section": "Top Stories",
+      "summary_auto": "British comedian and author David Walliams has been accused by multiple women of using his celebrity status to prey on them at a young age, often for sex, according to a three-year investigation by the Guardian and ITV News. Walliams has denied the allegations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c9def2d32d9249a00164622bf93ede2584124492",
+      "url": "https://www.cbc.ca/news/politics/arctic-drilling-consultation-mark-carney-canada-9.7416538?cmp=rss",
+      "title": "Ottawa consulting on future of Arctic offshore oil and gas drilling ban, Carney says",
+      "published_at": "2026-11-10T12:52:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The federal government says it is building up the \"capacity\" for northern communities to consult on the future of Canada's moratorium on oil and gas drilling in the Arctic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "61f423b5635ccb3874dcb00480a831d2a6e388f7",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/national-indigenous-veterans-day-ceremony-thunder-bay-9.7416473?cmp=rss",
+      "title": "National Indigenous Veterans Day event in Thunder Bay, Ont., recognizes military contributions, sacrifices",
+      "published_at": "2026-11-10T12:50:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Some 50 elders and community representatives gathered in the Agora on Monday in Thunder Bay, Ont., for the National Indigenous Veterans Day Ceremony by Lakehead University’s Office of Indigenous Initiatives. Established in 1994, the day is recognized across Canada on Nov. 8 to commemorate the military contributions and sacrifices of First Nations, Inuit and Métis people, and acknowledges the historical injustices many of these veterans faced during and after their service.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1df80f5938afe9213ea26b7ab3c48829ff3332a3",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/jon-the-editor-josh-johnson-viral-comedy-9.7416381?cmp=rss",
+      "title": "'The editor's here!': CBC journalist stars in viral video with American stand-up Josh Johnson",
+      "published_at": "2026-11-10T12:15:53-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to talk cats, disappearing islands and journalism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.659,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3fc570423ed37848a350cce56c53d481dba01029",
+      "url": "https://www.cbc.ca/news/politics/stellantis-poilievre-joly-job-fire-9.7416427?cmp=rss",
+      "title": "Stellantis auto plant closure in Brampton a 'betrayal' to all Canadians, Carney says",
+      "published_at": "2026-11-10T12:02:56-05:00",
+      "section": "Business",
+      "summary_auto": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country and all Canadians.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "682bac1252082fb484d35392f9a5065a676ba0f6",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/missing-boaters-rescued-9.7416146?cmp=rss",
+      "title": "Missing boaters sheltered in abandoned Labrador cabin, burned hill-top fire to get rescued, says son",
+      "published_at": "2026-11-10T11:38:44-05:00",
+      "section": "Canada",
+      "summary_auto": "A multi-day search for two missing boaters ended in tears of joy this weekend, after Julius Lampe and Ephriam Merkuratsuk survived a weekend against the Labrador elements.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed1dbeb44874c641d269e59ab7882f3da674eb29",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-wakeham-barbour-9.7414598?cmp=rss",
+      "title": "N.L. premier sidesteps question about minister's claim that media 'twists' stories",
+      "published_at": "2026-11-10T10:48:30-05:00",
+      "section": "Canada",
+      "summary_auto": "Newfoundland and Labrador Premier Tony Wakeham says he values the media but is stopping short of saying whether he\nstands by claims made by a minister who said the media twists stories.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.013,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "709da103037dac15061b63275bf8a0f728690175",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-qualifying-standards-2028-olympics-los-angeles-9.7416313?cmp=rss",
+      "title": "World Athletics raises qualifying standards for 2028 LA Olympics, gets tough on endurance events",
+      "published_at": "2026-11-10T10:43:31-05:00",
+      "section": "World",
+      "summary_auto": "Athletes chasing ​qualification for the Los Angeles 2028 Olympics will face much tougher entry standards than for Paris two years ago, with World Athletics on Tuesday tightening benchmarks across track events while increasing reliance on world rankings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fab8ef14bf87842c98b7b5c141394476aec49efc",
+      "url": "https://www.cbc.ca/news/canada/manitoba/connor-hellebuyck-return-to-winnipeg-9.7416133?cmp=rss",
+      "title": "Connor Hellebuyck tells media online death threats, family played roles in trade demand",
+      "published_at": "2026-11-10T09:51:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Connor Hellebuyck says online death threats and his family were major factors in his Winnipeg trade demand.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.919,
         "subjectivity_hint": "low"
       }
     },
@@ -21,7 +177,7 @@
       "url": "https://www.cbc.ca/news/business/nvidia-jensen-huang-lawsuit-spying-9.7416186?cmp=rss",
       "title": "Nvidia and CEO Jensen Huang face lawsuit over handling of ties to alleged Chinese spy",
       "published_at": "2026-11-10T09:51:36-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The lawsuit filed in San Jose, Calif., on Monday accuses the CEO and his company of misleading shareholders by concealing the relationship with a woman accused of feeding information to Bejing, and not disclosing that the matter raised national security concerns ‌that threatened Nvidia's reputation and business prospects.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +242,7 @@
       "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
       "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
       "published_at": "2026-11-10T08:09:06-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,29 +251,29 @@
       }
     },
     {
+      "id": "3507118a4eb3054bb318e97a8ca5b3a2692cda14",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/zero-till-farming-improved-soil-9.7412769?cmp=rss",
+      "title": "Zero-till farming has improved Sask. soil. Producers believe more can be done",
+      "published_at": "2026-11-10T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A recent study found that the move to zero-till farming has increased soil organic matter by 41 percent over the past three decades. Some producers are calling for more action.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b96316488b76346d3d48ccb6275eb6e9a0d60852",
       "url": "https://www.cbc.ca/news/canada/british-columbia/southwest-bc-fall-storm-nov-9-9.7415915?cmp=rss",
       "title": "More than 250 mm of rain forecast for some B.C. areas as storm makes landfall",
       "published_at": "2026-11-10T06:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The B.C. River Forecast Centre has issued flood watches for the South Coast, Vancouver Island and river basins in the Central Coast and Fraser Valley.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "15206edb89319c32748f69b04d343154e751bbb9",
-      "url": "https://www.cbc.ca/radio/frontburner/ukrainian-conscription-in-the-crosshairs-9.7415842?cmp=rss",
-      "title": "Ukrainian conscription in the crosshairs",
-      "published_at": "2026-11-10T06:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A riot outside Kyiv may have been sparked by false claims — but it is highlighting tensions over Ukraine’s forced conscription methods.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.871,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -130,19 +286,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a841efc68d4e1d843eae90164fb17e1234ae2fa4",
-      "url": "https://www.cbc.ca/news/canada/manitoba/headstones-war-veterans-last-post-fund-9.7410497?cmp=rss",
-      "title": "Manitoba volunteers search for unmarked veterans' graves to make sure all get proper headstones",
-      "published_at": "2026-11-10T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Brandon's George MacKay volunteers with the Last Post Fund, a non-profit that works to add headstones to the graves of veterans buried without one. \"You can't just let them be on their own,\" says MacKay. \"They got to be recognized.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -162,14 +305,40 @@
     {
       "id": "774f8871f139e27aba1f09ff998a53c38a9b423c",
       "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014?cmp=rss",
-      "title": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi",
+      "title": "Russia, Ukraine engage in 4-hour session on first day of U.S.-mediated talks in Abu Dhabi",
       "published_at": "2026-11-10T04:57:22-05:00",
       "section": "Top Stories",
       "summary_auto": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made another push to end the war that followed  Moscow's all-out invasion of its neighbour nearly five years ago.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.178,
+        "sentiment": 0.477,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ec2696f8157e1ba812d4d0bd979c4aeaf2c505be",
+      "url": "https://www.cbc.ca/news/world/trump-will-hold-off-on-fresh-iran-strikes-9.7416010?cmp=rss",
+      "title": "Trump says he will hold off on fresh Iran strikes for now",
+      "published_at": "2026-11-10T04:55:37-05:00",
+      "section": "World",
+      "summary_auto": "U.S. President Donald Trump said on Monday he plans to hold off on new military strikes against Iran for the time being after appeals from countries in the region, including from Qatar's prime minister in White House talks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e91313d072cd070413289a7f1f59c5f5f0cf8265",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/confronting-crisis-sarah-pomeroy-9.7413264?cmp=rss",
+      "title": "For this couple, staying away from drugs meant getting away from N.L.",
+      "published_at": "2026-11-10T04:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Sarah Pomeroy keeps a list of people she’s lost to drug use. It’s running past three pages now, and she believes her name would have made it if she hadn’t moved out of St. John’s.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -186,15 +355,15 @@
       }
     },
     {
-      "id": "81fbdaa6cbd7c2d449b0d66737aad4b64d3e110d",
-      "url": "https://www.cbc.ca/news/world/trump-tariffs-war-iran-immigration-9.7415288?cmp=rss",
-      "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
-      "published_at": "2026-11-10T04:00:00-05:00",
+      "id": "a392a15d2967116cef09389905d21e410e0ccbf2",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/japanese-canadian-legion-revival-bc-9.7415415?cmp=rss",
+      "title": "Descendants say reviving Japanese Canadian veterans' Legion rights historical wrong",
+      "published_at": "2026-11-10T04:01:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "After his party's calamitous loss in the midterms, a looming question is whether U.S. President Donald Trump will shift course on any of his three biggest initiatives since returning to the White House: tariffs, the war with Iran and immigration enforcement.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.891,
+        "sentiment": -0.477,
         "subjectivity_hint": "low"
       }
     },
@@ -212,19 +381,6 @@
       }
     },
     {
-      "id": "f62be7615995a1f4e0a02f5f881bc28d22cdf3db",
-      "url": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss",
-      "title": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
-      "published_at": "2026-11-10T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being paid.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "47aae783f110dea25695a4304d88b34186fa7ffe",
       "url": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss",
       "title": "Why health care for Canadian women veterans is falling short",
@@ -234,6 +390,32 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "81fbdaa6cbd7c2d449b0d66737aad4b64d3e110d",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-war-iran-immigration-9.7415288?cmp=rss",
+      "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
+      "published_at": "2026-11-10T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After his party's calamitous loss in the midterms, a looming question is whether U.S. President Donald Trump will shift course on any of his three biggest initiatives since returning to the White House: tariffs, the war with Iran and immigration enforcement.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.891,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f62be7615995a1f4e0a02f5f881bc28d22cdf3db",
+      "url": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss",
+      "title": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
+      "published_at": "2026-11-10T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being paid.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -260,19 +442,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "eddca7bf0296d451d19b9d7343dd4dd3f75b4135",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/chase-de-balinhard-inquest-9.7415605?cmp=rss",
-      "title": "Mother testifies police killing of autistic son in Surrey, B.C., left her 'broken'",
-      "published_at": "2026-11-09T19:41:57-05:00",
-      "section": "Canada",
-      "summary_auto": "At the coroner's inquest into the death of Chase de Balinhard, mother Crystal de Balinhard described the day he was been killed.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.951,
         "subjectivity_hint": "low"
       }
     },
@@ -316,19 +485,6 @@
       }
     },
     {
-      "id": "61a172436a4f8dc2946b2c3688186a60183159cb",
-      "url": "https://www.cbc.ca/sports/playground-to-podium-summit-ottawa-day1-9.7415767?cmp=rss",
-      "title": "‘A lot of different ideas’: Canada’s sport leaders meet in Ottawa to discuss next steps",
-      "published_at": "2026-11-09T18:53:30-05:00",
-      "section": "Canada",
-      "summary_auto": "The Playground to Podium Summit began Monday at the National Arts Centre in Ottawa, bringing together around 400 of Canada's pre-eminent sports leaders with the intention of charting a new path forward for an industry that was in desperate need of a refresh.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "36c374a248eb9351b0d6e38dd5219e5e58fdd1c1",
       "url": "https://www.cbc.ca/news/business/nvidia-survive-without-jensen-huang-ceo-9.7415544?cmp=rss",
       "title": "Could Nvidia survive without its ultra-powerful CEO, Jensen Huang?",
@@ -339,19 +495,6 @@
         "article_type": "News",
         "sentiment": 0.377,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "93016afc623dcf45c9c080d09a5b2e5f48358ac1",
-      "url": "https://www.cbc.ca/player/play/9.7415541?cmp=rss",
-      "title": "Canadian astronaut Joshua Kutryk does a Q&A (and a backflip) from space",
-      "published_at": "2026-11-09T17:27:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Canadian astronaut Joshua Kutryk answered questions from students in St. John's and showed off life in zero gravity from aboard the International Space Station on Monday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -385,21 +528,8 @@
       "url": "https://www.cbc.ca/radio/asithappens/right-whale-surprise-baby-9.7415456?cmp=rss",
       "title": "A surprise baby right whale spotted near Quebec is bringing 'a lot of hope' for the species",
       "published_at": "2026-11-09T16:50:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Scientists were shocked and delighted to discover a previously unaccounted for baby right whale swimming alongside its mama off the coast of Quebec.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "58bfad73e9018121a9e8c50e31a2d98ef663b37e",
-      "url": "https://www.cbc.ca/news/politics/temporary-foreign-worker-program-9.7415498?cmp=rss",
-      "title": "Ottawa doubles maximum time employer can hire low-wage temporary foreign workers",
-      "published_at": "2026-11-09T16:42:38-05:00",
       "section": "Canada",
-      "summary_auto": "The government said restrictions on hiring temporary foreign workers in cities with unemployment rates above six per cent will remain in place. But Ottawa is adding early childhood educators to the list of professions exempted from those restrictions, which already includes certain jobs in health care, construction and food processing.",
+      "summary_auto": "Scientists were shocked and delighted to discover a previously unaccounted for baby right whale swimming alongside its mama off the coast of Quebec.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.718,
@@ -416,19 +546,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.724,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "192fe344c232a8a857c008a55fb3074aa010aceb",
-      "url": "https://www.cbc.ca/news/canada/calgary/citizenship-fraud-canadian-passport-jefferson-zormelo-sentence-9.7415395?cmp=rss",
-      "title": "Man who used fraudulent passport to get in and out of Canada 16 times handed 2-year sentence",
-      "published_at": "2026-11-09T16:26:43-05:00",
-      "section": "Canada",
-      "summary_auto": "A Ghanaian man who used a fraudulent Canadian passport to leave and re-enter the country 16 times has been sentenced to two years in prison for citizenship fraud.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
         "subjectivity_hint": "low"
       }
     },
@@ -450,24 +567,11 @@
       "url": "https://www.cbc.ca/news/canada/toronto/stellantis-brampton-plant-9.7415345?cmp=rss",
       "title": "Roshel to buy Stellantis assembly plant in Brampton for undisclosed amount, automaker says",
       "published_at": "2026-11-09T16:11:14-05:00",
-      "section": "Canada",
+      "section": "Business",
       "summary_auto": "Canadian armoured vehicle maker Roshel Inc. will buy the Stellantis assembly plant in Brampton, Ont., the automaker announced Monday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c24616ae6f358c21939552621901896a12135dd0",
-      "url": "https://www.cbc.ca/news/world/weiheng-zeng-not-guilty-plea-9.7415449?cmp=rss",
-      "title": "Ontario university student pleads not guilty in U.S. court amid Chinese 'espionage' probe",
-      "published_at": "2026-11-09T16:06:27-05:00",
-      "section": "Canada",
-      "summary_auto": "An Ontario university student has pleaded not guilty in a U.S. federal court in a case a prosecutor described as involving \"espionage-type activities.\" Weiheng (Billy) Zeng is charged with making false statements following an FBI counter-intelligence investigation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.434,
         "subjectivity_hint": "low"
       }
     },
@@ -502,7 +606,7 @@
       "url": "https://www.cbc.ca/news/entertainment/arnold-schwarzenegger-son-baena-bodybuilding-9.7415339?cmp=rss",
       "title": "Like father, like son: Arnold Schwarzenegger’s son muscles into top 5 at bodybuilding competition",
       "published_at": "2026-11-09T15:19:36-05:00",
-      "section": "World",
+      "section": "Entertainment",
       "summary_auto": "More than 60 years after Arnold Schwarzenegger first flexed his stuff on a bodybuilding stage, his youngest son is continuing the dynasty of muscle, scoring in the top five during his professional debut over the weekend.",
       "bias_heuristic": {
         "article_type": "News",
@@ -515,89 +619,11 @@
       "url": "https://www.cbc.ca/news/business/real-time-rail-canada-9.7415380?cmp=rss",
       "title": "Payments Canada launches long-delayed instant payments system",
       "published_at": "2026-11-09T15:12:24-05:00",
-      "section": "Canada",
+      "section": "Business",
       "summary_auto": "Payments Canada says it has launched its real-time rail national payment system, which is expected to speed day-to-day payments for Canadian businesses and consumers.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1b3561ba1ce66531776a716049f2176e37490821",
-      "url": "https://www.cbc.ca/news/entertainment/skims-advent-calendar-backlash-9.7414783?cmp=rss",
-      "title": "$276 for hair ties? Skims offers advent calendar refunds after online backlash",
-      "published_at": "2026-11-09T14:23:00-05:00",
-      "section": "World",
-      "summary_auto": "After intense customer backlash, Kim Kardashian's apparel brand Skims is offering refunds to anyone who purchased its 2026 accessories advent calendar, which costs $276 and was advertised as \"12 fun days of surprises.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b5798796c942786efc3069b79af41d651cd6ef02",
-      "url": "https://www.cbc.ca/news/canada/toronto/honda-alliston-plant-hybrid-production-9.7415303?cmp=rss",
-      "title": "Honda Canada announces plans to retool Alliston, Ont., plant for hybrid production",
-      "published_at": "2026-11-09T14:13:29-05:00",
-      "section": "Business",
-      "summary_auto": "Honda Canada says it will retool its manufacturing facilities in Alliston, Ont., to expand production of hybrid-electric and gasoline-powered vehicles. The Japanese automaker announced Monday it is partnering with the federal and provincial governments to fund plant upgrades, including the reintroduction of engine manufacturing, with an initial $166-million investment.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8d8871f428d4d8870b86648ef2b16a8e86dc2052",
-      "url": "https://www.cbc.ca/news/entertainment/skydance-james-gunn-peter-safran-9.7415294?cmp=rss",
-      "title": "James Gunn, Peter Safran out of DC Studios as Skydance shakeup continues",
-      "published_at": "2026-11-09T14:07:53-05:00",
-      "section": "World",
-      "summary_auto": "Skydance Motion Picture Group announced Monday that James Gunn and Peter Safran are stepping down as co-chief executives after four years leading DC Studios.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "014a6e20038014616b7877f0a4aab2946b6725af",
-      "url": "https://www.cbc.ca/news/entertainment/heated-rivalry-more-seasons-movie-9.7414961?cmp=rss",
-      "title": "Heated Rivalry could be getting 2 more seasons and a movie, sources say",
-      "published_at": "2026-11-09T13:52:47-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Deadline has reported the cast and crew of Heated Rivalry are currently filming not one but two new seasons, and a movie could be scheduled for theatrical release in December 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e2b6e53072c1ca8730237c13ac38679c66e5756c",
-      "url": "https://www.cbc.ca/news/politics/karen-karniol-tambour-sovereign-wealth-fund-9.7415155?cmp=rss",
-      "title": "Top U.S. hedge fund executive named CEO of Canada's new sovereign wealth fund",
-      "published_at": "2026-11-09T12:59:39-05:00",
-      "section": "Business",
-      "summary_auto": "A top executive at one of the world's largest hedge funds is leaving her job in the U.S. to become the CEO of one of the Carney government's hallmark projects.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4dabdb8678a578e2b795e94ff33be9a8a7b8e79f",
-      "url": "https://www.cbc.ca/sports/soccer/mls/lionel-messi-golden-boot-repeat-winner-mls-soccer-9.7415186?cmp=rss",
-      "title": "Lionel Messi achieves MLS first, winning Golden Boot for second straight season",
-      "published_at": "2026-11-09T12:57:51-05:00",
-      "section": "World",
-      "summary_auto": "Lionel Messi has been awarded the 2026 MLS Golden Boot, becoming the first player in league history to win the award in consecutive seasons.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.936,
         "subjectivity_hint": "low"
       }
     }
