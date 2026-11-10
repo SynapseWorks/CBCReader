@@ -27,35 +27,35 @@ allowed_hours:
 sections:
   top_stories:
     name: Top Stories
-    url: http://rss.cbc.ca/lineup/topstories.xml
+    url: https://rss.cbc.ca/lineup/topstories.xml
     max_items: 50
   canada:
     name: Canada
-    url: http://rss.cbc.ca/lineup/canada.xml
+    url: https://rss.cbc.ca/lineup/canada.xml
     max_items: 50
   world:
     name: World
-    url: http://rss.cbc.ca/lineup/world.xml
+    url: https://rss.cbc.ca/lineup/world.xml
     max_items: 50
   business:
     name: Business
-    url: http://rss.cbc.ca/lineup/business.xml
+    url: https://rss.cbc.ca/lineup/business.xml
     max_items: 50
   technology_science:
     name: Technology & Science
-    url: http://rss.cbc.ca/lineup/technology.xml
+    url: https://rss.cbc.ca/lineup/technology.xml
     max_items: 50
   health:
     name: Health
-    url: http://rss.cbc.ca/lineup/health.xml
+    url: https://rss.cbc.ca/lineup/health.xml
     max_items: 50
   entertainment:
     name: Entertainment
-    url: http://rss.cbc.ca/lineup/arts.xml
+    url: https://rss.cbc.ca/lineup/arts.xml
     max_items: 5
   opinion:
     name: Opinion
-    url: http://rss.cbc.ca/lineup/opinion.xml
+    url: https://rss.cbc.ca/lineup/opinion.xml
     max_items: 5
 
 # Set this to true to allow the scraper to fetch the full article
