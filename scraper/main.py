@@ -131,11 +131,16 @@ def scrape_section(
 
     raw = fetch_feed_bytes(session, url, timeout=20)
     feed = feedparser.parse(raw)
+    if getattr(feed, "bozo", False):
+        logger.warning("Feed parse warning for %s: %s", name, getattr(feed, "bozo_exception", "unknown"))
+    logger.info("Feed %s: %d entries, %d bytes", name, len(feed.entries), len(raw))
 
     items = []
     tz_name = config.get("timezone", "UTC")
     window_start = now - timedelta(hours=config.get("window_hours", 24))
 
+    skipped_missing_date = 0
+    skipped_stale = 0
     for entry in getattr(feed, "entries", []):
         # Publication date
         pub_str = None
@@ -144,14 +149,17 @@ def scrape_section(
                 pub_str = entry[key]
                 break
         if not pub_str:
+            skipped_missing_date += 1
             continue
 
         published_at = parse_date(pub_str, tz_name)
         if not published_at:
+            skipped_missing_date += 1
             continue
 
         dt = datetime.fromisoformat(published_at)
         if dt < window_start:
+            skipped_stale += 1
             continue
 
         url_entry = entry.get("link")
@@ -177,6 +185,7 @@ def scrape_section(
             }
         )
 
+    logger.info("Section %s: accepted=%d, missing/invalid dates=%d, outside window=%d", name, len(items), skipped_missing_date, skipped_stale)
     items.sort(key=lambda x: x["published_at"], reverse=True)
     return items[:max_items]
 
@@ -249,6 +258,11 @@ def main() -> None:
         if counts[sec] < cap:
             final_items.append(it)
             counts[sec] += 1
+
+    # Preserve the last published snapshot if collection fails across every feed.
+    if not final_items:
+        logger.error("Zero usable CBC articles across all feeds; refusing to overwrite published news.")
+        raise RuntimeError("CBC scraper returned no articles. Previous news data preserved.")
 
     # Write to ../data/latest.json relative to scraper directory
     output = {
