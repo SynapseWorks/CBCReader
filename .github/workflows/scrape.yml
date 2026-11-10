@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 */2 * * *'  # every 2 hours (UTC)
   workflow_dispatch: {}
+  push:
+    paths:
+      - 'scraper/**'
+      - '.github/workflows/scrape.yml'
 
 permissions:
   contents: write
@@ -32,7 +36,7 @@ jobs:
           pip install -r scraper/requirements.txt
 
       - name: Run scraper (time-gated in code)
-        run: python scraper/main.py
+        run: python scraper/main.py ${{ github.event_name == 'schedule' && '' || '--force' }}
         # For a one-off test, you can temporarily force:
         # run: python scraper/main.py --force
 
@@ -42,12 +46,10 @@ jobs:
           ls -la docs/data || true
           git status --porcelain -- data/latest.json docs/data/latest.json || true
 
-      - name: Configure Git author & pull latest (rebase)
+      - name: Configure Git author
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git pull --rebase origin main || true
 
       - name: Commit & push updated JSON only if changed
         run: |
