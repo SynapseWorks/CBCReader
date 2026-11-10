@@ -22,6 +22,11 @@
       }
       const data = await resp.json();
       items = data.items || [];
+      if (items.length === 0) {
+        const stamp = data.generated_at ? new Date(data.generated_at).toLocaleString() : 'unknown';
+        newsList.textContent = `The news feed currently has no articles. Last generated: ${stamp}. Please check back after the next update.`;
+        return;
+      }
       populateSections();
       renderList();
     } catch (err) {
