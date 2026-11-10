@@ -76,7 +76,7 @@ def parse_date(date_str: str, timezone: str) -> Optional[str]:
         be parsed.
     """
     try:
-        dt = date_parser.parse(date_str)
+        dt = date_parser.parse(date_str, tzinfos={"EST": -5 * 3600, "EDT": -4 * 3600})
         if not dt.tzinfo:
             dt = dt.replace(tzinfo=tz.tzutc())
         local_tz = tz.gettz(timezone)
