@@ -1,18 +1,330 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-11T03:43:24.561049-05:00",
+  "generated_at": "2026-11-11T12:37:19.931716-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "a4bab704bf2e3b9fefb328b8ce13c170a574cf11",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/amy-hamm-supreme-court-hearing-9.7417263?cmp=rss",
-      "title": "Fired nurse raises question of trans discrimination versus sex-based rights at appeal hearing",
-      "published_at": "2026-11-10T22:45:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Amy Hamm is a former B.C. nurse who was fired after a discipline panel found comments she made while off-duty were discriminatory against transgender people.",
+      "id": "9b2b52ea28a617eda0f9594efa2dc28ff5aa90ea",
+      "url": "https://www.cbc.ca/player/play/9.7418079?cmp=rss",
+      "title": "Spaniards shut down country over high housing prices",
+      "published_at": "2026-11-11T12:17:19-05:00",
+      "section": "World",
+      "summary_auto": "People across Spain have shut down businesses, factories and the country’s rail system as part of a general strike. The action comes as many in the country grapple with rising rents and home ownership costs.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.802,
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5b3fbed29e6141441213529a847a0b56508e8fc2",
+      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-brampton-carney-federal-government-funding-deals-9.7417238?cmp=rss",
+      "title": "Did Stellantis violate its deals with the feds? Funding contract provided exceptions around Brampton",
+      "published_at": "2026-11-11T12:01:59-05:00",
+      "section": "Canada",
+      "summary_auto": "On Tuesday, Prime Minister Mark Carney called Stellantis' now-confirmed plans to sell an automotive assembly plant in Brampton, Ont., \"a betrayal\" of the global automaker's \"obligations to Canada and by extension to all Canadians.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ff9d25271aa3434434a69a97ace80a2e625beb4b",
+      "url": "https://www.cbc.ca/news/world/us-house-republicans-leader-jordan-9.7417743?cmp=rss",
+      "title": "Jim Jordan, once called a 'legislative terrorist' by a top Republican, will now lead the party in U.S. House",
+      "published_at": "2026-11-11T12:01:02-05:00",
+      "section": "World",
+      "summary_auto": "The Republicans may have just lost control of the House of Representatives in resounding fashion, but they signalled Tuesday they may not be in a conciliatory mood with Democrats, picking combative Ohio Rep. Jim Jordan as their leader in the chamber.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.307,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "819d0ebae8e7b3f95bd33e2632e2f5d3d89beada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/livestory/remembrance-day-alberta-ceremonies-9.7417704?cmp=rss",
+      "title": "Alberta marks Remembrance Day with ceremonies that feel 'closer to home' in shadow of CFB Wainwright tragedy",
+      "published_at": "2026-11-11T10:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aab09de9a79f6cedaf4161c598af6dba97a9794b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-fall-rainstorm-nov-10-9.7417639?cmp=rss",
+      "title": "Parts of B.C. could be without power for days as storm continues to batter province",
+      "published_at": "2026-11-11T09:24:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "B.C. Hydro is warning that some drenched areas of the province could be without power for days, as a fall storm continued to make its presence felt on Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4d91e46b123e1cc3a6e11edc8defb79e64c46651",
+      "url": "https://www.cbc.ca/news/legions-say-they-need-more-support-9.7417403?cmp=rss",
+      "title": "After a century of service, Sask. legions say more support is needed",
+      "published_at": "2026-11-11T08:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "As Saskatchewan legions mark 100 years of supporting veterans, branches across the province are grappling with declining membership, aging volunteers and the challenge of connecting with younger generations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1448c2d8a8a24a3ebf0b72f715ed5157b0839190",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/the-chinese-canadian-soldiers-who-fought-for-a-country-that-excluded-them-9.7410776?cmp=rss",
+      "title": "The remarkable story behind the secret Canadian guerrilla force you've never heard of",
+      "published_at": "2026-11-11T08:27:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ad814a1fb85d0860ff46ed8288431c812c228b53",
+      "url": "https://www.cbc.ca/news/world/us-russia-ukraine-abu-dhabi-peace-talks-9.7417687?cmp=rss",
+      "title": "Russia-Ukraine talks mediated by U.S. end with news of 'good momentum,' large-scale prisoner swap",
+      "published_at": "2026-11-11T07:55:15-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Russia's chief negotiator at the latest Ukraine peace talks in Abu Dhabi said Wednesday after their conclusion that mutual understanding ‌had been achieved on some issues, but not on others — and that more negotiations would take place.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.238,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "43291782abf8186b033471056cac7bc3f440d661",
+      "url": "https://www.cbc.ca/news/world/us-trump-arch-kennedys-objection-9.7417679?cmp=rss",
+      "title": "Joining lawsuit, Kennedy family members say Trump's arch would be 'denigration' of JFK, RFK plots at Arlington",
+      "published_at": "2026-11-11T06:32:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Nine family members of the Kennedy political dynasty are asking a judge to block U.S. President Donald Trump's plan to build a towering memorial arch, saying the 76-metre structure would cast a shadow over their relatives' gravesites at Arlington National Cemetery.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cb0f121e86e7dc9dcdeb35026982d8e8cf51e9b8",
+      "url": "https://www.cbc.ca/news/canada/edmonton/names-of-metis-veterans-live-on-thanks-to-expanded-monument-at-metis-crossing-9.7414479?cmp=rss",
+      "title": "Names of Métis veterans live on thanks to expanded monument at Métis Crossing",
+      "published_at": "2026-11-11T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Nearly 60 years after her brother was killed in action March 12, 1969, Penny Fedorus now knows his name will live on long into the future, thanks to an expansion of the Métis veteran monument at Métis Crossing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "81aaaad30f33e56b6838a6a63d7724d22c127780",
+      "url": "https://www.cbc.ca/news/canada/calgary/remembrance-day-wwii-veteran-didsbury-bill-jepp-9.7417467?cmp=rss",
+      "title": "'It was an adventure': 100-year-old navy veteran reflects on WW II",
+      "published_at": "2026-11-11T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Enlisting in the Royal Canadian Navy when he was just 17 years old, Bill Jepps escorted ally ships across the North Atlantic throughout his years of service, forming a close bond with his company.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "013f8d95e7881793a0e5752305dd973bf3390f3f",
+      "url": "https://www.cbc.ca/player/play/9.7413084?cmp=rss",
+      "title": "This Ontario legion got over 500 new members this year",
+      "published_at": "2026-11-11T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Legions across Waterloo region are seeing a massive boost in new members this year. The Royal Canadian Legion has been encouraging new members to join with no fees this year to celebrate its centennial. CBC's Aastha Shetty visited Branch 272 in Hespeler to hear more about what's drawing new members in.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b3d50fc693aeae77fbc41540e906c37ce0c3d03f",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/monument-regina-honours-polish-veterans-displaced-second-world-war-9.7417361?cmp=rss",
+      "title": "Polish woman shares harrowing WW II story with Sask. community",
+      "published_at": "2026-11-11T06:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Decades after rebuilding their lives in Saskatchewan, Polish survivors are working to ensure those experiences are never forgotten.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.667,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "18fa616e0b3558e52420f4f06ddf549385051908",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/veteran-medals-replica-remembrance-day-9.7415513?cmp=rss",
+      "title": "N.B. veteran to wear replica medals on Remembrance Day after originals were stolen",
+      "published_at": "2026-11-11T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 91-year-old New Brunswick veteran thought he might have to spend this Remembrance Day without his medals after his were stolen from his home this summer. But that won't be the case for retired lieutenant-colonel Alan Kennedy. While they aren't the originals, the replicas, made possible because of the effort of a fellow veteran and kindness of a local businesswoman, will be pinned over his heart on Nov. 11.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7b8f2afaa8a165344f6e6f50f86eb135f2b93ac7",
+      "url": "https://www.cbc.ca/news/canada/toronto/stellantis-sale-roshel-brampton-businesses-workers-react-9.7416735?cmp=rss",
+      "title": "Stellantis auto plant sale draws optimism, hurt in Brampton, Ont., after 2,000 jobs lost",
+      "published_at": "2026-11-11T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Workers and local politicians are expressing disappointment at Stellantis's decision to sell its Brampton, Ont., plant to armoured vehicle maker Roshel Inc., but some local businesses and experts say the new company could bring more jobs and foot traffic to the community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.412,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "849bcdc894e8057e1b1b57bcc9035853dff55b24",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/u-889-second-world-war-royal-canadian-navy-shelburne-nova-scotia-9.7394780?cmp=rss",
+      "title": "Why the first U-boat to surrender in North America landed in this N.S. town",
+      "published_at": "2026-11-11T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Speaking through an interpreter, the U-boat's commander said he would 'very much' like to stay in Canada or the U.S.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.417,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "812e45d20a184c8d48d62d649783b28227c3e366",
+      "url": "https://www.cbc.ca/news/health/congo-ebola-outbreak-cases-9.7417666?cmp=rss",
+      "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
+      "published_at": "2026-11-11T04:54:39-05:00",
+      "section": "World",
+      "summary_auto": "The latest Health Ministry data showed 11,042 people have been infected by the deadly virus that has now killed 5,387, nearly half of those infected, in the country's deadliest outbreak.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7b41c099484e1a5f3135c83ff61ca02754edeb17",
+      "url": "https://www.cbc.ca/news/world/three-dead-vehicle-pedestrians-los-angeles-9.7417662?cmp=rss",
+      "title": "3 dead, driver arrested after vehicle plows into pedestrians in Los Angeles",
+      "published_at": "2026-11-11T04:52:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The 61-year-old driver of a minivan that killed three people when it  crashed outside a Los Angeles metro station during rush hour was arrested on three counts of murder, a police spokesperson said Wednesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.967,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3c7b9c818deeec251b45545f8ee1c8da40cead66",
+      "url": "https://www.cbc.ca/news/politics/dna-test-british-canadian-families-wwii-war-babies-9.7414750?cmp=rss",
+      "title": "Canadian family finds long-lost WW II baby in England after 80 years",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Rod Anderson grew up in the United Kingdom always wondering who his father was. At 81 years old, he received a call out of the blue this year that stunned him. It turns out his father was a Canadian soldier stationed in Britain during the Second World War. A family in New Brunswick spent almost 20 years trying to find him.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b103f4a806938ca26acf8382ed4f8d718bca2fb2",
+      "url": "https://www.cbc.ca/news/politics/afghan-war-canada-trump-soldiers-remembrance-9.7417195?cmp=rss",
+      "title": "Canadians fought a war in Afghanistan. Why do we struggle to talk about it?",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Is Afghanistan in danger of becoming Canada's forgotten war? Parliament is struggling with a bill that would designate the 13-year conflict — where more than 40,000 Canadians served — as a war. The prime minister's Veterans' Week statement mentions the tragedy in Wainwright and service in the first Gulf War, but not Afghanistan. And an increasing number of veterans say the war and understanding what happened is now slipping from the national conscience.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.973,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a97234e7a90d33e470e7afe2c0066bbf7b9faac5",
+      "url": "https://www.cbc.ca/news/canada/ottawa/afghanistan-veteran-national-military-cemetery-beechwood-cemetery-9.7416026?cmp=rss",
+      "title": "For this Afghanistan vet, no memorial can ever rival this hallowed ground",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "On Remembrance Day, retired colonel Mark Gasparotto attends the service at Canada's National Military Cemetery in Ottawa. Afterward, the Afghanistan veteran walks among the rows of graves where he recognizes many of the names engraved on the headstones.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "176b48c22344e0e5b1ef17863fe9b05777a17f38",
+      "url": "https://www.cbc.ca/news/science/seti-extraterrestrial-signal-9.7416954?cmp=rss",
+      "title": "Are we alone? Institute searching for alien signals is using a new way to answer that age-old question",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Where are all the aliens? We've yet to find life outside of that on Earth, but that doesn't mean scientists aren't looking. In fact, the search for extraterrestrial intelligence is going strong, and now the SETI Institute is listening for radio signals in a new way.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.858,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9b02878fb6ca86b49740d75b0e1b75524aa5b408",
+      "url": "https://www.cbc.ca/news/politics/carney-apec-asean-francophonie-trip-9.7416895?cmp=rss",
+      "title": "Carney embarks on a worldwide summit tour to build bridges with Europe and Asia",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Prime Minister Mark Carney will travel around the world over the next week as he attends the summits of the European Political Community, the Association of Southeast Asian Nations, the Francophonie and Asia-Pacific Economic Cooperation. Both defence and trade will be discussed in a range of multilateral and bilateral meetings.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.103,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "196f5194b73cbd15dd36fca518d9e984f778f134",
+      "url": "https://www.cbc.ca/news/canada/southwest-asia-deployment-link-cancer-veteran-fight-for-benefits-9.7412811?cmp=rss",
+      "title": "This veteran thinks his brain cancer is linked to his deployment. He pushed for special benefits — and won",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "It took three attempts for a retired military officer diagnosed with a rare brain cancer to receive special benefits from Veterans Affairs Canada. Bruce Mayo researched and found others with the same diagnosis who also served in Southwest Asia. Mayo wants Canada to change its presumptive injury list, putting it in line with U.S. policy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cbb9586c5338bfba1db3c8e197f6192ad274c657",
+      "url": "https://www.cbc.ca/news/canada/manitoba/hidden-soldier-care-package-found-9.7415966?cmp=rss",
+      "title": "A Christmas care package for a Canadian WWII soldier was left behind. 80 years later, his family is getting it",
+      "published_at": "2026-11-11T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Descendants of a Second World War soldier from Manitoba are thrilled by the discovery of a Christmas care package hidden for more than 80 years in the attic of an English mansion. The package will soon be returned to the soldier's son, who hopes to put it on display.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
         "subjectivity_hint": "low"
       }
     },
@@ -73,7 +385,7 @@
       "url": "https://www.cbc.ca/news/world/vazquez-wedding-charges-9.7417199?cmp=rss",
       "title": "Slain cartel boss 'The General' provided Ryan Wedding with fake police ID to evade capture, U.S. alleges",
       "published_at": "2026-11-10T18:19:15-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. federal charges announced on Tuesday provide new insight into two alleged accomplices accused of helping to protect Canadian Ryan Wedding while he was a fugitive in Mexico.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,24 +394,11 @@
       }
     },
     {
-      "id": "0cbb12cffdcd137d87d352c3340c156b0d729e35",
-      "url": "https://www.cbc.ca/radio/asithappens/steven-guilbeault-arctic-drilling-9.7417332?cmp=rss",
-      "title": "Canada should not end its Arctic drilling ban, warns former environment minister",
-      "published_at": "2026-11-10T18:12:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As the federal government opens the door to lifting Canada's moratorium on Arctic oil-and-gas drilling, a former environment minister says it's not worth the risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.593,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "25eae16df9f64bbc0f5d7443139b42efffa5a1e0",
       "url": "https://www.cbc.ca/news/world/us-charges-3-with-planning-terror-attacks-uk-airbase-9.7417230?cmp=rss",
       "title": "3 charged in U.S. with planning terror attacks, including alleged planned assault on British airbase",
       "published_at": "2026-11-10T18:03:11-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. authorities accused three men Tuesday of being Iran-supported operatives who plotted nearly 20 attacks on Jewish communities in Europe and the U.S., as well as a planned assault on a British airbase used by the U.S. Air Force.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +411,7 @@
       "url": "https://www.cbc.ca/news/canada/montreal/st-pierre-plamondon-carney-canada-us-trade-9.7417092?cmp=rss",
       "title": "Tensions between PM, Quebec premier continue to flare in new tiff over U.S. relations",
       "published_at": "2026-11-10T17:53:03-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Premier Paul St-Pierre Plamondon sent letters to U.S. elected officials, as part of his intention to negotiate directly with American states. The move appeared to irritate Prime Minister Mark Carney, who said, \"in a negotiation, it's always a good idea to have a single negotiator.\"",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,24 +424,11 @@
       "url": "https://www.cbc.ca/news/canada/new-brunswick/irving-oil-pleaded-guilty-woodstock-diesel-spill-9.7417100?cmp=rss",
       "title": "Irving Oil, Grant Enterprises plead guilty to environment charges over N.B. diesel spill next to Tim Hortons",
       "published_at": "2026-11-10T17:48:32-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Irving Oil Ltd. and Grant Enterprises 1984 Ltd. have pleaded guilty in provincial court to charges under the Clean Environment Act due to a 200,000-plus-litre diesel spill in Woodstock.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "15a3ca1e49b926273d195ce4c950f6d62b3c713a",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-s-ucp-faces-backlash-for-pledge-that-limits-riding-presidents-independence-talk-9.7417108?cmp=rss",
-      "title": "Alberta's United Conservative Party faces backlash for pledge that limits riding presidents' independence talk",
-      "published_at": "2026-11-10T17:46:23-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Some senior party organizers refuse to sign a new NDA stating they'll \"abide by\" the referendum result.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
         "subjectivity_hint": "low"
       }
     },
@@ -160,15 +446,15 @@
       }
     },
     {
-      "id": "fdc305450a37507258d7efc6067bb11156f917cc",
-      "url": "https://www.cbc.ca/news/canada/manitoba/private-money-homelessness-finance-minister-9.7416698?cmp=rss",
-      "title": "Philanthropy will play role in federal government's plan to end homelessness in Winnipeg: finance minister",
-      "published_at": "2026-11-10T17:19:54-05:00",
-      "section": "Canada",
-      "summary_auto": "Canada's finance minister says private money has a role to play in making the government's $1-billion plan to end homelessness in Winnipeg a success.",
+      "id": "3a2d0e107f6e0f9be4f58152b1527d699157f4be",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fresh-prep-vancouver-meal-kit-goodfood-9.7416870?cmp=rss",
+      "title": "Vancouver-based meal kit company Fresh Prep approved to purchase competitor Goodfood",
+      "published_at": "2026-11-10T17:19:15-05:00",
+      "section": "Business",
+      "summary_auto": "Fresh Prep refused to disclose how much it will pay for Goodfood but says the deal is expected to close on or around Friday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.818,
+        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -190,24 +476,11 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/marissa-shephard-elizabeth-fry-society-9.7417151?cmp=rss",
       "title": "N.S. group apologizes for including woman convicted in a brutal killing on a panel",
       "published_at": "2026-11-10T17:04:18-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Elizabeth Fry Society of Mainland Nova Scotia is apologizing after it hosted a panel discussion on violence that featured Marissa Shephard. Shephard was sentenced to 12 years in jail after she pleaded guilty to manslaughter and arson in the death of Baylee Wylie.",
+      "section": "Canada",
+      "summary_auto": "The Elizabeth Fry Society of Mainland Nova Scotia is apologizing after it hosted a panel discussion on violence that featured Marissa Shephard. Shephard was sentenced to 12 years in prison after she pleaded guilty to manslaughter and arson in the death of Baylee Wylie.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.96,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7df5ead8c05f9ce540ff86fa57efe48086c6801b",
-      "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
-      "title": "Why Canada is budgeting for extreme earthquake preparedness",
-      "published_at": "2026-11-10T16:16:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
+        "sentiment": -0.97,
         "subjectivity_hint": "low"
       }
     },
@@ -221,19 +494,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.904,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "31bdc6acfd431091c69c054e6c708e831ecdd12b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/search-suspended-canoer-vancouver-island-bc-9.7416767?cmp=rss",
-      "title": "RCMP search suspended for missing canoeist off Vancouver Island while community-led search continues",
-      "published_at": "2026-11-10T15:36:49-05:00",
-      "section": "Canada",
-      "summary_auto": "A police search for missing canoeist James \"Dakota\" Smith off northern Vancouver Island has been suspended as RCMP say challenging weather has made the chance of his survival unlikely. The Ma’amtagila Tribe Society is continuing their search for Smith and are calling for a coordinated, resourced search operation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
         "subjectivity_hint": "low"
       }
     },
@@ -264,45 +524,6 @@
       }
     },
     {
-      "id": "bb10d07e6465b31c02e651cd2828b37c61b44d0b",
-      "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-trial-call-aiden-pleterski-3m-9.7416821?cmp=rss",
-      "title": "Crypto King's alleged kidnappers’ trial hears call Aiden Pleterski made to landlord asking for $3M",
-      "published_at": "2026-11-10T15:02:28-05:00",
-      "section": "Canada",
-      "summary_auto": "The jury trial for three men accused of kidnapping and extorting the self-described \"Crypto King\" Aiden Pleterski began Tuesday in Toronto with testimony from his former landlord.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1275dedadf8152143035f268d1eb92ec54e752f",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
-      "title": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
-      "published_at": "2026-11-10T14:53:12-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A post purporting to be a true account of Inuk war hero John Shiwak’s WW I military service is circulating and its has chair of the Royal Newfoundland Regiment Museum Frank Gogos calling it out as “garbage.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "aa93eab8ef6aa5c57b066d86d017650e0c36f1c5",
-      "url": "https://www.cbc.ca/news/politics/supreme-court-reserves-decision-on-firearms-ban-9.7416672?cmp=rss",
-      "title": "Supreme Court reserves decision on whether federal firearms ban should stand",
-      "published_at": "2026-11-10T14:13:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The question of whether the federal government had the authority to ban hundreds of makes and models of firearms is now in the hands of the country's top court after it heard arguments from gun advocates and government lawyers.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "02de3a7c1deb9fe7874580d1291611225d06d313",
       "url": "https://www.cbc.ca/news/canada/ottawa/protesters-denounce-ovechkin-s-support-for-putin-as-capitals-visit-senators-in-ottawa-9.7416605?cmp=rss",
       "title": "Protesters denounce Ovechkin's support for Putin as Capitals visit Senators in Ottawa",
@@ -329,19 +550,6 @@
       }
     },
     {
-      "id": "5447323f440110fd598acfef3ed0bbb34bc8fa5e",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/grizzly-bear-bella-coola-attack-update-9.7416743?cmp=rss",
-      "title": "4 grizzly bears responsible for killing mother and daughter in B.C., officials say",
-      "published_at": "2026-11-10T13:43:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The B.C. Conservation Officer Service says four grizzly bears have been killed in connection with an attack near Bella Coola that left a mother and daughter dead.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.943,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "73520f9137ed500eb51f1e6373531e4f37a81b1a",
       "url": "https://www.cbc.ca/news/entertainment/david-williams-accused-9.7416549?cmp=rss",
       "title": "David Walliams, U.K. comedian and author, accused of preying on teenage girls",
@@ -355,236 +563,15 @@
       }
     },
     {
-      "id": "9a8647eb35460163b28e708091f7333ccb114f6f",
-      "url": "https://www.cbc.ca/news/canada/north/jean-marie-river-family-representatives-9.7413099?cmp=rss",
-      "title": "Rethinking leadership: How Jean Marie River, N.W.T., created a council of family representatives",
-      "published_at": "2026-11-10T12:21:16-05:00",
+      "id": "7b480edcd4bb8004e3f522a0bf0d73d8865125c6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nhl-dillon-boucher-chicago-blackhawks-9.7416591?cmp=rss",
+      "title": "This 29-year-old's NHL debut didn't feel real — until he got punched in the face",
+      "published_at": "2026-11-10T13:18:53-05:00",
       "section": "Top Stories",
-      "summary_auto": "Jean Marie River has a new chief, Paul Simon, and new representatives for youth and elders, all elected on Oct. 28. But four of the councillors joining them weren’t elected in the same way.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1df80f5938afe9213ea26b7ab3c48829ff3332a3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/jon-the-editor-josh-johnson-viral-comedy-9.7416381?cmp=rss",
-      "title": "U.S. comedian Josh Johnson surprised by CBC journalist in viral video",
-      "published_at": "2026-11-10T12:15:53-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to talk cats, disappearing islands and journalism.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fc570423ed37848a350cce56c53d481dba01029",
-      "url": "https://www.cbc.ca/news/politics/stellantis-poilievre-joly-job-fire-9.7416427?cmp=rss",
-      "title": "Stellantis auto plant closure in Brampton a 'betrayal' to all Canadians, Carney says",
-      "published_at": "2026-11-10T12:02:56-05:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "709da103037dac15061b63275bf8a0f728690175",
-      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-qualifying-standards-2028-olympics-los-angeles-9.7416313?cmp=rss",
-      "title": "World Athletics raises qualifying standards for 2028 LA Olympics, gets tough on endurance events",
-      "published_at": "2026-11-10T10:43:31-05:00",
-      "section": "World",
-      "summary_auto": "Athletes chasing ​qualification for the Los Angeles 2028 Olympics will face much tougher entry standards than for Paris two years ago, with World Athletics on Tuesday tightening benchmarks across track events while increasing reliance on world rankings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fab8ef14bf87842c98b7b5c141394476aec49efc",
-      "url": "https://www.cbc.ca/news/canada/manitoba/connor-hellebuyck-return-to-winnipeg-9.7416133?cmp=rss",
-      "title": "Connor Hellebuyck tells media online death threats, family played roles in trade demand",
-      "published_at": "2026-11-10T09:51:55-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Connor Hellebuyck says online death threats and his family were major factors in his Winnipeg trade demand.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "833393f334df62966d8c6c358d0c6d9d2dc3bb2c",
-      "url": "https://www.cbc.ca/news/business/nvidia-jensen-huang-lawsuit-spying-9.7416186?cmp=rss",
-      "title": "Nvidia and CEO Jensen Huang face lawsuit over handling of ties to alleged Chinese spy",
-      "published_at": "2026-11-10T09:51:36-05:00",
-      "section": "World",
-      "summary_auto": "The lawsuit filed in San Jose, Calif., on Monday accuses the CEO and his company of misleading shareholders by concealing the relationship with a woman accused of feeding information to Bejing, and not disclosing that the matter raised national security concerns ‌that threatened Nvidia's reputation and business prospects.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c9ddf6d12608fbab78f580854485eb9bec267a69",
-      "url": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
-      "title": "Republicans block impeachment push against Pete Hegseth",
-      "published_at": "2026-11-10T09:42:08-05:00",
-      "section": "World",
-      "summary_auto": "Republicans in the U.S. House of Representatives voted Tuesday to sideline a resolution that aimed to impeach Secretary of War Pete Hegseth.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "650ea84101da9efdb53ae53692e30ab18b300b58",
-      "url": "https://www.cbc.ca/news/business/anthropic-ipo-9.7416077?cmp=rss",
-      "title": "Anthropic eyes $1 trillion US valuation in hotly anticipated IPO that's a key test for AI market",
-      "published_at": "2026-11-10T09:20:09-05:00",
-      "section": "World",
-      "summary_auto": "Anthropic's initial public offering  plans to raise as much as $64.4 billion US, a regulatory filing showed on Tuesday, testing Wall Street's faith in the AI boom amid growing worries about its risks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.103,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5281ef3df37e1f0b0e5f2bf1e3246af218b355e5",
-      "url": "https://www.cbc.ca/news/canada/manitoba/sentencing-hearing-drug-house-shootings-jamie-felix-9.7416169?cmp=rss",
-      "title": "Crown asks for 25 years without parole during sentencing hearing for man who killed 5 in Winnipeg shootings",
-      "published_at": "2026-11-10T09:17:54-05:00",
-      "section": "Canada",
-      "summary_auto": "It only took about eight seconds for Jamie Felix to end the lives of five people in a Winnipeg rooming house in 2023. But the devastation that's unfolded since that shooting has rippled far beyond those fleeting moments, court heard during his sentencing hearing Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.798,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "56d07e0479d68761a18cc33383addfcfbbd5e079",
-      "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
-      "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
-      "published_at": "2026-11-10T08:09:06-05:00",
-      "section": "World",
-      "summary_auto": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b96316488b76346d3d48ccb6275eb6e9a0d60852",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/southwest-bc-fall-storm-nov-9-9.7415915?cmp=rss",
-      "title": "More than 250 mm of rain forecast for parts of B.C. as storm makes landfall",
-      "published_at": "2026-11-10T06:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The B.C. River Forecast Centre has issued flood watches for the South Coast, Vancouver Island and river basins in the Central Coast and Fraser Valley.",
+      "summary_auto": "Dillon Boucher, who grew up in Head of Chezzetcook, N.S., made his NHL debut with the Chicago Blackhawks last week at the age of 29 after grinding it out in the minor leagues for several seasons.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2d53c2be8c56e716e5ad0caf454da37db3102b54",
-      "url": "https://www.cbc.ca/news/canada/edmonton/specialized-burn-treatments-soldiers-wainwright-military-base-fire-9.7415813?cmp=rss",
-      "title": "Specialized burn treatments deployed for soldiers injured in Alberta military base fire",
-      "published_at": "2026-11-10T06:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "In Alberta, 21 soldiers remain in hospital, with nine in critical condition, according to a provincial health agency. Fifteen of those patients are on ventilators to help them breathe.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.572,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "774f8871f139e27aba1f09ff998a53c38a9b423c",
-      "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014?cmp=rss",
-      "title": "Russia, Ukraine engage in 4-hour session on first day of U.S.-mediated talks in Abu Dhabi",
-      "published_at": "2026-11-10T04:57:22-05:00",
-      "section": "World",
-      "summary_auto": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made another push to end the war that followed  Moscow's all-out invasion of its neighbour nearly five years ago.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ec2696f8157e1ba812d4d0bd979c4aeaf2c505be",
-      "url": "https://www.cbc.ca/news/world/trump-will-hold-off-on-fresh-iran-strikes-9.7416010?cmp=rss",
-      "title": "Trump says he will hold off on fresh Iran strikes for now",
-      "published_at": "2026-11-10T04:55:37-05:00",
-      "section": "World",
-      "summary_auto": "U.S. President Donald Trump said on Monday he plans to hold off on new military strikes against Iran for the time being after appeals from countries in the region, including from Qatar's prime minister in White House talks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e91313d072cd070413289a7f1f59c5f5f0cf8265",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/confronting-crisis-sarah-pomeroy-9.7413264?cmp=rss",
-      "title": "For this couple, staying away from drugs meant getting away from N.L.",
-      "published_at": "2026-11-10T04:30:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Sarah Pomeroy keeps a list of people she’s lost to drug use. It’s running past three pages now, and she believes her name would have made it if she hadn’t moved out of St. John’s.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "81fbdaa6cbd7c2d449b0d66737aad4b64d3e110d",
-      "url": "https://www.cbc.ca/news/world/trump-tariffs-war-iran-immigration-9.7415288?cmp=rss",
-      "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
-      "published_at": "2026-11-10T04:00:00-05:00",
-      "section": "World",
-      "summary_auto": "After his party's calamitous loss in the midterms, a looming question is whether U.S. President Donald Trump will shift course on any of his three biggest initiatives since returning to the White House: tariffs, the war with Iran and immigration enforcement.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b322712787c01d13136f76d41e93dea2477e4660",
-      "url": "https://www.cbc.ca/news/canada/calgary/oilsands-oilpatch-danielle-smith-royalty-incentive-9.7415489?cmp=rss",
-      "title": "Why Danielle Smith wants to give a subsidy to the oilpatch despite near-record profits",
-      "published_at": "2026-11-10T04:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "The Alberta government is preparing to unveil new subsidies later this month for oil companies to ramp up production to help fill the province’s proposed Pacific Link pipeline to the West Coast.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.076,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "47aae783f110dea25695a4304d88b34186fa7ffe",
-      "url": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss",
-      "title": "Why health care for Canadian women veterans is falling short",
-      "published_at": "2026-11-10T04:00:00-05:00",
-      "section": "Health",
-      "summary_auto": "Women are the fastest growing segment of Canada’s veteran population, but they have complex physical and mental health problems that often get treated in isolation. A report released in June identified an urgent need for co-ordinated, trauma-informed care for female vets with chronic pain.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     }
