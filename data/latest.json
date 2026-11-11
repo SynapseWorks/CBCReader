@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-10T19:22:05.878465-05:00",
+  "generated_at": "2026-11-11T03:43:24.561049-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "a4bab704bf2e3b9fefb328b8ce13c170a574cf11",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/amy-hamm-supreme-court-hearing-9.7417263?cmp=rss",
+      "title": "Fired nurse raises question of trans discrimination versus sex-based rights at appeal hearing",
+      "published_at": "2026-11-10T22:45:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Amy Hamm is a former B.C. nurse who was fired after a discipline panel found comments she made while off-duty were discriminatory against transgender people.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f660198b3b0d48cde33ebd58b72f5387751fe8f1",
+      "url": "https://www.cbc.ca/news/entertainment/stacy-keach-obituary-actor-mike-hammer-9.7417622?cmp=rss",
+      "title": "Stacy Keach, stage actor and Mike Hammer star, dead at 85",
+      "published_at": "2026-11-10T22:28:56-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV and whose career was nearly derailed after he was imprisoned in 1984 for trying to smuggle cocaine into Britain, died Tuesday. He was 85.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1b01d3e576cdd22ced9ea7ba55ce7b74c99c675b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/galloway-defamation-trial-defendant-closes-case-9.7417578?cmp=rss",
+      "title": "Defendant in defamation trial says she believed Steven Galloway's accuser",
+      "published_at": "2026-11-10T21:45:29-05:00",
+      "section": "Canada",
+      "summary_auto": "A defendant in Steven Galloway's defamation lawsuit has testified how unproven allegations of rape and sexual assault against the author and writing professor came to light in late 2015 against a backdrop of criticism over how Galloway's employer, the University of British Columbia, was handling such complaints.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.943,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8e5e2587519b7356fbec08ba994f642f232ae3c0",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/edin-vrazalica-manslaughter-sentence-20-years-lee-perkins-9.7417414?cmp=rss",
+      "title": "Judge imposes 20-year manslaughter sentence for 'absolute atrocity' Saskatoon homicide",
+      "published_at": "2026-11-10T19:42:24-05:00",
+      "section": "Canada",
+      "summary_auto": "\"I don't think I'll ever be able to wrap my mind around the pain my brother was forced to endure. It kills me inside to know I couldn't protect him,\" says the brother of Lee Perkins, who was killed by Edin Vrazalica and Dillon Singler in 2024.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.948,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "06c08756a6f6574610277d68a00b967134ab5d6d",
+      "url": "https://www.cbc.ca/news/canada/edmonton/paramedic-widow-police-shot-9.7417357?cmp=rss",
+      "title": "Widow tells court she was reviving fallen Edmonton officer when she realized her husband was also shot",
+      "published_at": "2026-11-10T18:20:32-05:00",
+      "section": "Canada",
+      "summary_auto": "Paramedic Ashley Ryan said she was trying to revive one of two Edmonton police officers who had been shot when she realized the other victim was her husband. She recounted the traumatic moment at a sentencing hearing Tuesday for the man who supplied the shooter's rifle.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "59b043e9fcd2a1a55866c804b72ff16f2b63c1d9",
       "url": "https://www.cbc.ca/news/world/vazquez-wedding-charges-9.7417199?cmp=rss",
@@ -151,7 +216,7 @@
       "url": "https://www.cbc.ca/news/world/meghan-markle-father-thomas-markle-child-sexual-abuse-charges-9.7416922?cmp=rss",
       "title": "Meghan Markle's father cut off ankle monitor days after arrest, U.S. officials say",
       "published_at": "2026-11-10T15:45:39-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Thomas Markle, the 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said Tuesday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -195,19 +260,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3cc1a6576c2563ffa7b7b7ef496c187e45eff225",
-      "url": "https://www.cbc.ca/news/politics/private-company-workers-major-projects-office-9.7416899?cmp=rss",
-      "title": "More than a dozen private companies lend workers to Major Projects Office: document",
-      "published_at": "2026-11-10T15:03:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Private sector companies have lent 17 employees to work at the federal Major Projects Office, according to a document provided to the House environment committee.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -303,19 +355,6 @@
       }
     },
     {
-      "id": "61f423b5635ccb3874dcb00480a831d2a6e388f7",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/national-indigenous-veterans-day-ceremony-thunder-bay-9.7416473?cmp=rss",
-      "title": "National Indigenous Veterans Day event in Thunder Bay, Ont., recognizes military contributions, sacrifices",
-      "published_at": "2026-11-10T12:50:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Some 50 elders and community representatives gathered in the Agora on Monday in Thunder Bay, Ont., for the National Indigenous Veterans Day Ceremony by Lakehead University’s Office of Indigenous Initiatives. Established in 1994, the day is recognized across Canada on Nov. 8 to commemorate the military contributions and sacrifices of First Nations, Inuit and Métis people, and acknowledges the historical injustices many of these veterans faced during and after their service.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "9a8647eb35460163b28e708091f7333ccb114f6f",
       "url": "https://www.cbc.ca/news/canada/north/jean-marie-river-family-representatives-9.7413099?cmp=rss",
       "title": "Rethinking leadership: How Jean Marie River, N.W.T., created a council of family representatives",
@@ -351,19 +390,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.891,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "682bac1252082fb484d35392f9a5065a676ba0f6",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/missing-boaters-rescued-9.7416146?cmp=rss",
-      "title": "Missing boaters sheltered in abandoned Labrador cabin, burned hill-top fire to get rescued, says son",
-      "published_at": "2026-11-10T11:38:44-05:00",
-      "section": "Canada",
-      "summary_auto": "A multi-day search for two missing boaters ended in tears of joy this weekend, after Julius Lampe and Ephriam Merkuratsuk survived a weekend against the Labrador elements.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -411,7 +437,7 @@
       "url": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
       "title": "Republicans block impeachment push against Pete Hegseth",
       "published_at": "2026-11-10T09:42:08-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Republicans in the U.S. House of Representatives voted Tuesday to sideline a resolution that aimed to impeach Secretary of War Pete Hegseth.",
       "bias_heuristic": {
         "article_type": "News",
@@ -430,6 +456,19 @@
         "article_type": "News",
         "sentiment": -0.103,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5281ef3df37e1f0b0e5f2bf1e3246af218b355e5",
+      "url": "https://www.cbc.ca/news/canada/manitoba/sentencing-hearing-drug-house-shootings-jamie-felix-9.7416169?cmp=rss",
+      "title": "Crown asks for 25 years without parole during sentencing hearing for man who killed 5 in Winnipeg shootings",
+      "published_at": "2026-11-10T09:17:54-05:00",
+      "section": "Canada",
+      "summary_auto": "It only took about eight seconds for Jamie Felix to end the lives of five people in a Winnipeg rooming house in 2023. But the devastation that's unfolded since that shooting has rippled far beyond those fleeting moments, court heard during his sentencing hearing Tuesday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.798,
+        "subjectivity_hint": "low"
       }
     },
     {
