@@ -1,18 +1,226 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-12T00:27:14.871843-05:00",
+  "generated_at": "2026-11-12T09:27:32.441650-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | Canadians honour their veterans",
-      "published_at": "2026-11-11T21:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Nov. 11, 2026 | Canadians mark Remembrance Day with tributes to soldiers past and present, including those lost and injured in the fire at CFB Wainwright. A Quebec pilot dies during an honorary formation flight. And, authorities move against Ryan Wedding's alleged money launderers.",
+      "id": "4fa5d03783cd0d30132ae1d4f8b019c3559842ad",
+      "url": "https://www.cbc.ca/news/politics/stellantis-carney-deal-plant-9.7418797?cmp=rss",
+      "title": "Carney aware of 'some aspects' of Stellantis auto plant sale, but says company still broke deal",
+      "published_at": "2026-11-12T08:46:47-05:00",
+      "section": "Business",
+      "summary_auto": "Prime Minister Mark Carney said on Thursday that he had been informed of \"some aspects\" of Stellantis's plan to sell a Brampton, Ont., auto plant to Canadian armoured vehicle maker Roshel Inc.. before the deal was announced by the automaker.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.077,
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6807181d7f3017c95be469b59a1a49638387a9ff",
+      "url": "https://www.cbc.ca/news/business/nvidia-ceo-huang-9.7418736?cmp=rss",
+      "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+      "published_at": "2026-11-12T08:14:13-05:00",
+      "section": "Business",
+      "summary_auto": "Nvidia has announced Jensen Huang's resignation as president and CEO of the company he co-founded.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e705de2d5f9d1c743aa522d051fed16ebd714b97",
+      "url": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
+      "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+      "published_at": "2026-11-12T08:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "14312803eacb7a581f3441e4e2f68fe997939fdb",
+      "url": "https://www.cbc.ca/news/entertainment/us-dallas-verdict-beezy-noble-shooting-9.7418743?cmp=rss",
+      "title": "Yella Beezy found guilty in murder-for-hire of fellow Dallas rapper",
+      "published_at": "2026-11-12T06:10:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Rapper Yella Beezy was found guilty on Wednesday of hiring the gunman who fatally shot rapper MO3 in a brazen daylight attack on a busy Dallas interstate in 2020.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.917,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e83a60cd25898b794480d0daba917c4639dfaae9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/voyeur-online-images-9.7416874?cmp=rss",
+      "title": "Anti-child porn group fights to remove 'countless' online images from Canada's most prolific voyeur",
+      "published_at": "2026-11-12T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Even as Yin Yeung Derek Chan went to prison earlier this year, the actions of Canada's most prolific voyeur continued to \"irrevocably scar\" the lives of victims, a judge said. Chan had uploaded many of the \"countless\" videos and images secretly recorded of at least 652 women and children online.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.807,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "713b6a2cc6948916966a8d07ba00a5fbf7fc022c",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss",
+      "title": "Canada has the opportunity to become a global LNG leader, new report says",
+      "published_at": "2026-11-12T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada’s only liquified natural gas facility began operating last year, yet the country has an opportunity to scale up that industry and become one of the top natural gas exporters in the world, according to a new report.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.886,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8aaaacdf6d56fecbcd69e53feeb82dd976e36868",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733?cmp=rss",
+      "title": "Halifax-area hospitals see pest control budgets soar amid mice, pigeon infestations",
+      "published_at": "2026-11-12T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "CBC News has learned that several Halifax-area hospitals have been dealing with soaring costs to deal with mice and pigeon infestations. Nova Scotia Health says it could take years to rid its facilities of the mice issue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "69a53c03f1263bc55b8dbbc3babcd1af43c98341",
+      "url": "https://www.cbc.ca/news/canada/sudbury/moose-population-decline-ministry-9.7418174?cmp=rss",
+      "title": "Ontario's moose population is in decline, scientists have different theories on the reasons why",
+      "published_at": "2026-11-12T05:00:00-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "The Ministry of Natural Resources and Forestry says strong predation numbers of wolves and black bears could be a major factor in moose decline while a conservationist says rising temperatures are putting stress on the large mammals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fb7bcae19d6b769bba11f5171301760028d4f3b6",
+      "url": "https://www.cbc.ca/news/world/indonesia-vice-president-resigns-9.7418723?cmp=rss",
+      "title": "Indonesia's vice-president resigns after academic credentials questioned",
+      "published_at": "2026-11-12T04:57:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Constitutional Court and the Supreme Court ruled last month that the documents Gibran Rakabuming Raka submitted regarding his overseas education didn't meet election requirements.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "191280235da9bbbb9122549c09552dc20cfc7d99",
+      "url": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss",
+      "title": "Missing teen found alive after 6 days in the Australian woodlands",
+      "published_at": "2026-11-12T04:54:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A 17-year-old boy with autism was found alive Thursday after six days lost in eastern Australian woodlands.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "deb5dd1df87375b0890acd9307cad41b9f7f1a82",
+      "url": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
+      "title": "Israeli strike on a Gaza hospital kills 6 people, including surgeon, health authorities say",
+      "published_at": "2026-11-12T04:53:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Israeli airstrike on southern Gaza's main hospital overnight killed at least six Palestinians, including a surgeon and a teenage boy, medics said, the latest Israeli attack to undermine a year-old ceasefire in the war-shattered territory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b5f89c08b98d123f59fabbdcc55d95cbd275d69b",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379?cmp=rss",
+      "title": "LinkedIn, Monster take down over 1,000 fake job postings after CBC investigation",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 1,500 misleading job postings on LinkedIn and Monster were actually connected to a multi-level marketing company, a CBC News visual investigation has found.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.724,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b569aca6d694697f833111f032897ac6e0a5787e",
+      "url": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438?cmp=rss",
+      "title": "Montreal tenants without hot water, electricity during heated dispute over renovations",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A group of private investors bought the units in 2024 under the banner Norgate Québec Inc. The Comité logement Saint-Laurent says many of the units are occupied by immigrants and recent newcomers to Quebec.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6089aece4998dce33c69b5f0743ea7c96423ef39",
+      "url": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss",
+      "title": "American Airlines resumes flights to Haiti, providing a vital route into the country",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to security concerns.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ef145af4c3bea6e515d15f87bc24dbc4b6b2cdf3",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320?cmp=rss",
+      "title": "Severe stomach bug hits Montreal’s homeless population, shelter workers raise alarm",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A severe stomach bug has spread through Montreal's homeless population, raising concern among shelter workers who say not enough is being done to contain it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1c2a271a5be53d046ab3de42b82e74c84bad9508",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/naps-border-control-pilot-program-9.7418064?cmp=rss",
+      "title": "Border control pilot launched to stem drug smuggling into 5 First Nations in northern Ontario",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A new border control pilot program aims to prevent drug and alcohol smuggling into five First Nation communities in northern Ontario, with some pointing to the Toronto area as a source of drugs entering the communities. The program, led by the largest Indigenous police force in Canada, was launched as Nishnawbe Aski Nation is in a state of emergency over drug trafficking and related violence.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.896,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7eed7ca28c74c4d8d85d8bcc0a3c8b3916ea4149",
+      "url": "https://www.cbc.ca/news/world/nvidia-chips-china-ban-9.7416670?cmp=rss",
+      "title": "How China gets around the U.S. ban on Nvidia chips",
+      "published_at": "2026-11-12T04:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "The revelation that Nvidia CEO Jensen Huang had an affair with a former executive of a Singapore-based company has raised concerns about China's ability to acquire top-tier microchips restricted to the country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -58,14 +266,14 @@
     {
       "id": "7bca8f7fe8963507ce12287ab905a12087b7adee",
       "url": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-      "title": "2 dead, 4 critically injured after building collapses in New York City",
+      "title": "Death toll climbs to 8 in Brooklyn building collapse",
       "published_at": "2026-11-11T18:42:52-05:00",
       "section": "Top Stories",
-      "summary_auto": "Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least two people and trapping others beneath the wreckage.",
+      "summary_auto": "At least eight people have died after a three-storey building in Brooklyn collapsed at the edge of a construction site, New York City's mayor said Thursday, as firefighters kept digging through the rubble to find others who may be trapped beneath the wreckage.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.94,
-        "subjectivity_hint": "low"
+        "sentiment": -0.945,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -73,7 +281,7 @@
       "url": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567?cmp=rss",
       "title": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
       "published_at": "2026-11-11T18:37:27-05:00",
-      "section": "Canada",
+      "section": "Top Stories",
       "summary_auto": "The federal government had been made aware for months about the possibility that Stellantis would sell its Brampton, Ont., assembly plant to a light armoured vehicle manufacturer, a source has told CBC News.",
       "bias_heuristic": {
         "article_type": "News",
@@ -86,7 +294,7 @@
       "url": "https://www.cbc.ca/news/world/scott-colom-mississippi-senate-democrats-9.7418482?cmp=rss",
       "title": "Mississippi's Scott Colom secures Senate seat in another midterm win for Democrats",
       "published_at": "2026-11-11T18:14:39-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Mississippi Democrat Scott Colom will be the state's first Black senator since the post-Civil War Reconstruction era. Colom's victory also offers Democrats an unexpected boost in their effort to win control of the U.S. Senate.",
       "bias_heuristic": {
         "article_type": "News",
@@ -99,7 +307,7 @@
       "url": "https://www.cbc.ca/radio/asithappens/mlk-dream-speech-auction-9.7418361?cmp=rss",
       "title": "Martin Luther King Jr.'s handwritten draft of 'I Have a Dream' speech found in desk drawer",
       "published_at": "2026-11-11T18:13:44-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The day Martin Luther King Jr. stood on the steps of the Lincoln Memorial and delivered his iconic \"I Have A Dream\" speech is forever etched in the annals of history. But the night before — when the U.S. civil rights leader stayed up alone in his hotel room scribbling his now-famous words on a yellow notepad — was a moment lost to time. Until now.",
       "bias_heuristic": {
         "article_type": "News",
@@ -123,9 +331,22 @@
     {
       "id": "7e05ce5e05e6e09fbc3713c06f6eac61bfad10b0",
       "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
+      "title": "Canadian government says Russian players with visas will still be barred from WJC",
+      "published_at": "2026-11-11T18:09:18-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7e05ce5e05e6e09fbc3713c06f6eac61bfad10b0",
+      "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
       "title": "Canada says Russian hockey players with visas will still be barred from world junior championship",
       "published_at": "2026-11-11T18:09:18-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
       "bias_heuristic": {
         "article_type": "News",
@@ -138,7 +359,7 @@
       "url": "https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477?cmp=rss",
       "title": "Jays' Anthony Santander stays quiet after team asks him to publicly address anti-Muslim social media posts",
       "published_at": "2026-11-11T17:38:29-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran outfielder has remained quiet and hasn't issued an apology.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +372,7 @@
       "url": "https://www.cbc.ca/news/canada/nova-scotia/brian-ahern-halifax-obituary-music-producer-9.7418309?cmp=rss",
       "title": "Halifax’s Brian Ahern, who produced albums by Anne Murray and Johnny Cash, dead at 81",
       "published_at": "2026-11-11T17:13:50-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A Halifax-born music producer who played a big role in helping encourage fellow Bluenoser Anne Murray to pursue a career in music and later produced albums by artists such as Johnny Cash and Emmylou Harris is being remembered for the mark he left on the music industry.",
       "bias_heuristic": {
         "article_type": "News",
@@ -164,7 +385,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/molson-coors-recall-nl-9.7418429?cmp=rss",
       "title": "Various beers under Molson Coors banner recalled Canada-wide",
       "published_at": "2026-11-11T16:46:02-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Various beers, both alcoholic and non-alcoholic, under the Molson Coors banner have been recalled across Canada due to pieces of metal, according to Health Canada.",
       "bias_heuristic": {
         "article_type": "News",
@@ -177,7 +398,7 @@
       "url": "https://www.cbc.ca/news/business/cibc-mutual-fund-settlement-11-million-9.7418367?cmp=rss",
       "title": "Deadline nears to claim piece of $11-million CIBC mutual funds settlement",
       "published_at": "2026-11-11T16:38:17-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Investors who held units of a CIBC mutual fund or a Renaissance mutual fund on or before Sept. 5, 2025 might be eligible for compensation. The deadline to apply is Nov. 18.",
       "bias_heuristic": {
         "article_type": "News",
@@ -190,7 +411,7 @@
       "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373?cmp=rss",
       "title": "Quebec government to table bill restricting access to English-language colleges",
       "published_at": "2026-11-11T16:35:14-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Next year will mark half a century since the adoption of Quebec's Charter of the French Language, and the Parti Québécois government intends to mark the milestone by reforming the law, says Pascal Bérubé, the minister of the French language.",
       "bias_heuristic": {
         "article_type": "News",
@@ -229,7 +450,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/princeton-search-and-rescue-scent-detecting-mule-sonny-9.7415519?cmp=rss",
       "title": "B.C. search-and-rescue mule using his nose to help solve Arizona cold case",
       "published_at": "2026-11-11T15:29:32-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A British Columbia mule with a nose that knows is helping investigators trying to crack a missing persons cold case in Arizona.",
       "bias_heuristic": {
         "article_type": "News",
@@ -242,7 +463,7 @@
       "url": "https://www.cbc.ca/news/world/baby-found-buried-alive-south-carolina-9.7418243?cmp=rss",
       "title": "Father of baby who was rescued after being buried alive is charged with attempted murder",
       "published_at": "2026-11-11T14:28:26-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A missing 11-month-old infant was rescued Tuesday after being buried alive in a dog crate in South Carolina. His father has been charged with attempted murder.",
       "bias_heuristic": {
         "article_type": "News",
@@ -255,7 +476,7 @@
       "url": "https://www.cbc.ca/sports/hockey/nhl/rogers-monday-hockey-inflates-prices-nov-11-9.7418160?cmp=rss",
       "title": "TV providers say Rogers' Monday hockey move inflates prices, 'erodes' sports viewing",
       "published_at": "2026-11-11T13:10:41-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "A trio of television providers are accusing Rogers Communications Inc. of violating competition rules and inflating Canadian sports fans' bills by moving Monday night hockey broadcasts exclusively to its Sportsnet Plus streaming service for this NHL season.",
       "bias_heuristic": {
         "article_type": "News",
@@ -316,19 +537,6 @@
       }
     },
     {
-      "id": "41087b033b4242c8c4978c50971081ebb71f23d1",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/watson-veteran-swift-current-9.7417219?cmp=rss",
-      "title": "Sask. WW II vet says laughter helped him live to 100",
-      "published_at": "2026-11-11T12:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "One of increasingly few surviving Second World War veterans, John Watson still attends all the Remembrance Day ceremonies in Swift Current, Sask. He also recently returned to the Netherlands to mark the anniversary of its liberation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "0266a1b59a27b295afb3526baf5aba88923aa12d",
       "url": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941?cmp=rss",
       "title": "Sleeping driver in self-driving vehicle woken up, stopped and charged in Ottawa",
@@ -351,123 +559,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aa1be66b513d1374cfcf2402edbeaf9baca2c138",
-      "url": "https://www.cbc.ca/news/politics/remembrance-day-ottawa-ceremony-9.7417795?cmp=rss",
-      "title": "Remembrance Day 2026: Canadians remember veterans, fallen soldiers in shadow of Wainwright tragedy",
-      "published_at": "2026-11-11T09:56:29-05:00",
-      "section": "Canada",
-      "summary_auto": "As Canadians gather across the country for Remembrance Day ceremonies on Wednesday, Prime Minister Mark Carney said he wants them to know that the act of remembering itself is \"an act of vigilance and determination.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "aab09de9a79f6cedaf4161c598af6dba97a9794b",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-fall-rainstorm-nov-10-9.7417639?cmp=rss",
-      "title": "Flooding prompts evacuation orders in Pemberton area as storm batters B.C.",
-      "published_at": "2026-11-11T09:24:19-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Village of Pemberton issued an evacuation order for a number of properties due to flooding on Wednesday, as heavy rain continued to pound parts of British Columbia.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.077,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "43291782abf8186b033471056cac7bc3f440d661",
-      "url": "https://www.cbc.ca/news/world/us-trump-arch-kennedys-objection-9.7417679?cmp=rss",
-      "title": "Joining lawsuit, Kennedy family members say Trump's arch would be 'denigration' of JFK, RFK plots at Arlington",
-      "published_at": "2026-11-11T06:32:33-05:00",
-      "section": "World",
-      "summary_auto": "Nine family members of the Kennedy political dynasty are asking a judge to block U.S. President Donald Trump's plan to build a towering memorial arch, saying the 76-metre structure would cast a shadow over their relatives' gravesites at Arlington National Cemetery.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.586,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "849bcdc894e8057e1b1b57bcc9035853dff55b24",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/u-889-second-world-war-royal-canadian-navy-shelburne-nova-scotia-9.7394780?cmp=rss",
-      "title": "Why the first U-boat to surrender in North America landed in this N.S. town",
-      "published_at": "2026-11-11T05:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Speaking through an interpreter, the U-boat's commander said he would 'very much' like to stay in Canada or the U.S.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.417,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "812e45d20a184c8d48d62d649783b28227c3e366",
-      "url": "https://www.cbc.ca/news/health/congo-ebola-outbreak-cases-9.7417666?cmp=rss",
-      "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
-      "published_at": "2026-11-11T04:54:39-05:00",
-      "section": "World",
-      "summary_auto": "The latest Health Ministry data showed 11,042 people have been infected by the deadly virus that has now killed 5,387, nearly half of those infected, in the country's deadliest outbreak.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b41c099484e1a5f3135c83ff61ca02754edeb17",
-      "url": "https://www.cbc.ca/news/world/three-dead-vehicle-pedestrians-los-angeles-9.7417662?cmp=rss",
-      "title": "3 dead, driver arrested after vehicle plows into pedestrians in Los Angeles",
-      "published_at": "2026-11-11T04:52:19-05:00",
-      "section": "World",
-      "summary_auto": "The 61-year-old driver of a minivan that killed three people when it  crashed outside a Los Angeles metro station during rush hour was arrested on three counts of murder, a police spokesperson said Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.967,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1b38f6d6962cc26690cd3de7a644d86aaf0e3e57",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/maison-blanche-film-9.7406840?cmp=rss",
-      "title": "Film seeks to highlight work documenting French cave Canadian WW I soldiers called home",
-      "published_at": "2026-11-11T04:30:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Last September, men in uniforms dating back to the First World War descended the narrow and slippery steps in the dark to visit Maison Blanche souteraine in northern France. It’s part of a documentary highlighting the work of non-profit Canadigm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "196f5194b73cbd15dd36fca518d9e984f778f134",
-      "url": "https://www.cbc.ca/news/canada/southwest-asia-deployment-link-cancer-veteran-fight-for-benefits-9.7412811?cmp=rss",
-      "title": "This veteran thinks his brain cancer is linked to his deployment. He pushed for special benefits — and won",
-      "published_at": "2026-11-11T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "It took three attempts for a retired military officer diagnosed with a rare brain cancer to receive special benefits from Veterans Affairs Canada. Bruce Mayo researched and found others with the same diagnosis who also served in Southwest Asia. Mayo wants Canada to change its presumptive injury list, putting it in line with U.S. policy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3c7b9c818deeec251b45545f8ee1c8da40cead66",
-      "url": "https://www.cbc.ca/news/politics/dna-test-british-canadian-families-wwii-war-babies-9.7414750?cmp=rss",
-      "title": "Canadian family finds long-lost WW II baby in England after 80 years",
-      "published_at": "2026-11-11T04:00:00-05:00",
-      "section": "World",
-      "summary_auto": "Rod Anderson grew up in the United Kingdom always wondering who his father was. At 81 years old, he received a call out of the blue this year that stunned him. It turns out his father was a Canadian soldier stationed in Britain during the Second World War. A family in New Brunswick spent almost 20 years trying to find him.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     }
