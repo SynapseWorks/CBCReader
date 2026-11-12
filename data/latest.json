@@ -1,19 +1,84 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-11T18:55:34.974056-05:00",
+  "generated_at": "2026-11-12T00:27:14.871843-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "7bca8f7fe8963507ce12287ab905a12087b7adee",
-      "url": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-      "title": "1 dead, 4 critically injured after building collapse in New York City",
-      "published_at": "2026-11-11T18:42:52-05:00",
+      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
+      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+      "title": "The National | Canadians honour their veterans",
+      "published_at": "2026-11-11T21:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least one person and trapping others beneath the wreckage.",
+      "summary_auto": "Nov. 11, 2026 | Canadians mark Remembrance Day with tributes to soldiers past and present, including those lost and injured in the fire at CFB Wainwright. A Quebec pilot dies during an honorary formation flight. And, authorities move against Ryan Wedding's alleged money launderers.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.949,
+        "sentiment": -0.077,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ce26cfb4825eddf1e18a211748629b35ca03045",
+      "url": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
+      "title": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
+      "published_at": "2026-11-11T20:14:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A soldier guarding the Tomb of the Unknown Soldier at Arlington National Cemetery issued a verbal reprimand to a group of advisers and staffers with U.S. War Secretary Pete Hegseth following a Veterans Day ceremony.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a59365014b12b102eb1b1147ada9041e8d27be8",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss",
+      "title": "Series of storms leaves B.C. woman with tree stuck on her house for days",
+      "published_at": "2026-11-11T19:47:39-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As B.C. continues to batten down its hatches amid the third in a series of major fall storms, one resident who saw a tree fall onto her house last Friday says it'll have to remain in place as high winds continue to batter the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9e733b1a631c602335d326f875ce29cfd2944bcd",
+      "url": "https://www.cbc.ca/news/canada/toronto/port-perry-poppy-project-9.7418589?cmp=rss",
+      "title": "Thousands of handmade poppies blanket Port Perry, Ont., township office for Remembrance Day",
+      "published_at": "2026-11-11T18:52:41-05:00",
+      "section": "Canada",
+      "summary_auto": "A quilt-like installation made of thousands of crocheted poppies has hung over the township office in Port Perry for the past two weeks, with the organizer saying the project was a collective effort to mark Remembrance Day.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7bca8f7fe8963507ce12287ab905a12087b7adee",
+      "url": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
+      "title": "2 dead, 4 critically injured after building collapses in New York City",
+      "published_at": "2026-11-11T18:42:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least two people and trapping others beneath the wreckage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.94,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b19e4b13e4cb02a4eacdd3568e823becdfd20054",
+      "url": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567?cmp=rss",
+      "title": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
+      "published_at": "2026-11-11T18:37:27-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government had been made aware for months about the possibility that Stellantis would sell its Brampton, Ont., assembly plant to a light armoured vehicle manufacturer, a source has told CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -151,7 +216,7 @@
       "url": "https://www.cbc.ca/news/world/spain-strike-protest-march-housing-costs-9.7418346?cmp=rss",
       "title": "Millions of workers strike across Spain as citizens protest soaring housing costs",
       "published_at": "2026-11-11T16:20:40-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Millions of Spanish workers shut down businesses and public transportation across the eurozone's fourth largest economy on Wednesday before thousands took to the streets of major cities in a nationwide protest over soaring rents and real estate prices.",
       "bias_heuristic": {
         "article_type": "News",
@@ -208,32 +273,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.925,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d573c153b2a84bd3885e3d0e78a4b335b5c258c5",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/three-arrested-assault-guelph-homecoming-9.7417807?cmp=rss",
-      "title": "3 arrested after assault near Guelph, Ont., homecoming street party",
-      "published_at": "2026-11-11T12:39:34-05:00",
-      "section": "Canada",
-      "summary_auto": "Police in Guelph say three men have been charged with assault after two people were assaulted at a commercial plaza near where an unsanctioned street party was held the weekend of the university's homecoming.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e31347971b0d6dd9b33c44b57486021dc35a0237",
-      "url": "https://www.cbc.ca/sports/hockey/canada-finland-recap-womens-hockey-worlds-roundup-9.7418010?cmp=rss",
-      "title": "Canada beats Finland 2-0, stays perfect heading into women's worlds quarterfinals",
-      "published_at": "2026-11-11T12:36:07-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada completed the preliminary round at the women's ice hockey world championship with a perfect record after blanking Finland 2-0 on Wednesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.883,
         "subjectivity_hint": "low"
       }
     },
@@ -331,7 +370,7 @@
     {
       "id": "aab09de9a79f6cedaf4161c598af6dba97a9794b",
       "url": "https://www.cbc.ca/news/canada/british-columbia/bc-fall-rainstorm-nov-10-9.7417639?cmp=rss",
-      "title": "Flooding prompts evacuation order for part of Pemberton as storm batters B.C.",
+      "title": "Flooding prompts evacuation orders in Pemberton area as storm batters B.C.",
       "published_at": "2026-11-11T09:24:19-05:00",
       "section": "Top Stories",
       "summary_auto": "The Village of Pemberton issued an evacuation order for a number of properties due to flooding on Wednesday, as heavy rain continued to pound parts of British Columbia.",
@@ -339,19 +378,6 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1448c2d8a8a24a3ebf0b72f715ed5157b0839190",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/the-chinese-canadian-soldiers-who-fought-for-a-country-that-excluded-them-9.7410776?cmp=rss",
-      "title": "The remarkable story behind the secret Canadian guerrilla force you've never heard of",
-      "published_at": "2026-11-11T08:27:26-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -442,19 +468,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f660198b3b0d48cde33ebd58b72f5387751fe8f1",
-      "url": "https://www.cbc.ca/news/entertainment/stacy-keach-obituary-actor-mike-hammer-9.7417622?cmp=rss",
-      "title": "Stacy Keach, stage actor and Mike Hammer star, dead at 85",
-      "published_at": "2026-11-10T22:28:56-05:00",
-      "section": "World",
-      "summary_auto": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV and whose career was nearly derailed after he was imprisoned in 1984 for trying to smuggle cocaine into Britain, died Tuesday. He was 85.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
         "subjectivity_hint": "low"
       }
     }
