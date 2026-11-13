@@ -1,8 +1,125 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-12T16:59:28.809929-05:00",
+  "generated_at": "2026-11-12T21:29:02.259540-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "5a7070d78bf4a659c8b7a983bd379a798b4aa018",
+      "url": "https://www.cbc.ca/news/business/nvidia-jensen-huang-ceo-selloff-investments-retirement-9.7420093?cmp=rss",
+      "title": "The Nvidia scandal has wiped away $1T in value. What that means for your investments",
+      "published_at": "2026-11-12T20:25:54-05:00",
+      "section": "Business",
+      "summary_auto": "Nvidia shares plunged early Thursday after CEO Jensen Huang resigned, before climbing back up to finish the day down 4.3 per cent. It's bad news for industry-watchers, but touches regular investors too because of the chipmaker's weight in major stock indexes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "be34e7d94718f4ddb4b4417e87bbf12c18ec48a4",
+      "url": "https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss",
+      "title": "Indigenous women leaders say budget doesn't address their realities",
+      "published_at": "2026-11-12T19:34:21-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Indigenous leaders from across Canada gathered in Ottawa on Thursday to say Prime Minister Mark Carney’s new budget leaves Indigenous women out of the decisions made in the more than 500-page document.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "daca3168f422861962106c50d47001d6b994be24",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-elks-grey-cup-week-coach-beard-9.7420094?cmp=rss",
+      "title": "Ahead of Grey Cup game, Elks explain why coach’s change in facial hair symbolizes commitment to team",
+      "published_at": "2026-11-12T19:12:24-05:00",
+      "section": "Canada",
+      "summary_auto": "\"My wife's all for it, she knew why I did it,\" Edmonton Elks head coach Mark Kilam said as he explained why he shaved off his beard.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9138c90983a22a6848ac176e4f5c2400106294b3",
+      "url": "https://www.cbc.ca/news/entertainment/christine-applegate-breast-implants-ms-misdiagnosis-health-9.7419211?cmp=rss",
+      "title": "Christina Applegate asks if breast implants are behind symptoms after MS misdiagnosis",
+      "published_at": "2026-11-12T18:50:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. actor Christina Applegate is questioning whether her breast implants could be contributing to her pain and fatigue. Experts say symptoms associated with breast implant illness can overlap with other conditions, so people experiencing them should seek a thorough medical evaluation before making decisions about their implants.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "26a3e772e993022a2a975232940afe65d2e320c4",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/educationplanner-bc-cybersecurity-incident-9.7419937?cmp=rss",
+      "title": "B.C. post-secondary application portal affected by data breach",
+      "published_at": "2026-11-12T18:45:43-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In a Thursday update, EducationPlannerBC says that, on Nov. 3, it identified a \"cybersecurity incident affecting its application system.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "329df533775dd5c355ed191956b3fb73fe386c18",
+      "url": "https://www.cbc.ca/player/play/9.7419970?cmp=rss",
+      "title": "Report of children confined in locker at Quebec school draws education minister’s condemnation",
+      "published_at": "2026-11-12T18:45:40-05:00",
+      "section": "Canada",
+      "summary_auto": "Four school staff members have been suspended and a police investigation is underway at a primary school in the Centre de services scolaire des Mille-Îles, after employees allegedly shut children in a metal locker to calm them down.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f0affe5947804f4cec26b986c24c47a0ba1aacc",
+      "url": "https://www.cbc.ca/news/health/pfizer-premarin-menopause-canada-discontinued-9.7419988?cmp=rss",
+      "title": "Pfizer ends sale of hormone therapy cream Premarin in Canada",
+      "published_at": "2026-11-12T18:41:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Pfizer will no longer sell its hormone replacement therapy Premarin in Canada following an internal review. The product has been available as a vaginal cream and three strengths of oral tablets.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d6e17448c8bb6c15d3468da468b3dd73af55a607",
+      "url": "https://www.cbc.ca/news/world/microsoft-outage-9.7419814?cmp=rss",
+      "title": "Microsoft says services being slowly restored after widespread outages across its platforms",
+      "published_at": "2026-11-12T17:15:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Microsoft said it was returning some of its affected servers to full service late Thursday afternoon, after widespread outages hit many of its platforms including Outlook, with users encountering trouble using their email accounts and other errors across the tech giant's suite of apps.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d56ff0a4608944aa232e391a812706d987361d7a",
+      "url": "https://www.cbc.ca/news/entertainment/star-wars-new-hope-rerelease-9.7419561?cmp=rss",
+      "title": "Original Star Wars returning to theatres for 50th anniversary",
+      "published_at": "2026-11-12T17:07:03-05:00",
+      "section": "Top Stories",
+      "summary_auto": "If you missed the chance to see Star Wars in the theatre in 1977 — or weren't yet born — you'll get another chance on Feb. 19, when Disney re-releases both the original film and a 70-millimetre Imax version to mark its 50th anniversary.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "40e96db1feac6e6df1e6f39b69a6d5db504213f3",
       "url": "https://www.cbc.ca/news/politics/carney-europe-ireland-meetings-9.7419715?cmp=rss",
@@ -32,13 +149,13 @@
     {
       "id": "125756eec667ba49aeaa0d8dba263bbaca6f0a14",
       "url": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
-      "title": "Industry minister terminates resolution talks with Stellantis over Brampton auto plant sale",
+      "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
       "published_at": "2026-11-12T16:00:00-05:00",
       "section": "Business",
-      "summary_auto": "Industry Minister Mélanie Joly has written the CEO of Stellantis Canada saying the government is terminating a resolution process and notifying the automaker that it is in default of a 2022 funding agreement after the company announced its intentions to sell its Brampton, Ont., plant to an armoured vehicle manufacturer.",
+      "summary_auto": "Automaker Stellantis says it will pay back $24 million in federal subsidies after it announced plans to sell its Brampton, Ont. assembly plant — but Industry Minister Mélanie Joly says the company owes far more than what it is offering.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.494,
+        "sentiment": -0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -58,7 +175,7 @@
     {
       "id": "cb3eb70363bd6c3bf05edd51c9a0f579a4d57861",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519?cmp=rss",
-      "title": "A PAL Airlines flight lost a wheel 2 weeks ago. It's happened again — to the same plane",
+      "title": "A PAL Airlines flight lost a wheel less than 2 weeks ago. It's happened again — to the same plane",
       "published_at": "2026-11-12T14:13:45-05:00",
       "section": "Top Stories",
       "summary_auto": "Less than two weeks after a PAL Airlines flight lost a wheel, the airline has confirmed the same plane lost another one Thursday. Flight 411 was bound for Deer Lake, Newfoundland and Labrador, but instead landed in St. John's.",
@@ -91,19 +208,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7f77388576beb12bfdbe8d84d7de98f38647af20",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/hockey-night-in-canada-pwhl-broadcast-team-9.7419253?cmp=rss",
-      "title": "CBC announces Hockey Night in Canada broadcast team for PWHL season",
-      "published_at": "2026-11-12T12:12:32-05:00",
-      "section": "Top Stories",
-      "summary_auto": "In forming its broadcast team for the return of Hockey Night in Canada with Professional Women’s Hockey League coverage, CBC Sports has turned to broadcasters, journalists, and former players.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -149,13 +253,26 @@
     {
       "id": "86863d0e0b77532640904ee11c1ba60e05b5739c",
       "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
-      "title": "U.S. envoys head to Dublin to talk to Zelenskyy, after prior sitdown with Putin",
+      "title": "U.S. envoys talk to Zelenskyy in Dublin, after prior sitdown with Putin in Moscow",
       "published_at": "2026-11-12T09:48:39-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.542,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aff947e95855b9126f9eeadcf4beecbd9bb033be",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storm-nov-12-9.7418790?cmp=rss",
+      "title": "Shelter-in-place advisory issued for B.C.'s Pemberton Valley, parts of Squamish as flooding closes roads",
+      "published_at": "2026-11-12T09:28:59-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Shelter-in-place advisories have been issued in the Pemberton Valley and parts of the District of Squamish as flooding threatens local properties and roads. Líl̓wat Nation expanded an evacuation order for its community Thursday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
         "subjectivity_hint": "low"
       }
     },
@@ -212,58 +329,6 @@
       }
     },
     {
-      "id": "b1d4cc32d296b6a71b81076c379ddd68fe36b75f",
-      "url": "https://www.cbc.ca/news/canada/north/lockdowns-are-happening-at-whitehorse-jail-for-wrong-reasons-advocates-say-9.7416639?cmp=rss",
-      "title": "Lockdowns are happening at Whitehorse jail for wrong reasons, advocates say",
-      "published_at": "2026-11-12T06:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Inmates at Whitehorse Correctional Centre faced unscheduled lockdowns almost every second day this year, adding up to hundreds of additional hours confined to their cells. Lawyers say that affects mental health, access to programming and court proceedings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e83a60cd25898b794480d0daba917c4639dfaae9",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/voyeur-online-images-9.7416874?cmp=rss",
-      "title": "How a charity is trying to remove 'countless' images posted by Canada's most prolific voyeur",
-      "published_at": "2026-11-12T06:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Yin Yeung Derek Chan was sent to prison earlier this year, but some of the \"countless\" videos and photos he took of 652 women and girls in Greater Victoria continue to spread online.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "69a53c03f1263bc55b8dbbc3babcd1af43c98341",
-      "url": "https://www.cbc.ca/news/canada/sudbury/moose-population-decline-ministry-9.7418174?cmp=rss",
-      "title": "Ontario's moose population is in decline, and the province is trying to figure out why",
-      "published_at": "2026-11-12T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Ministry of Natural Resources and Forestry says strong predation numbers of wolves and black bears could be a major factor in moose decline while a conservationist says rising temperatures are putting stress on the large mammals.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.459,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "713b6a2cc6948916966a8d07ba00a5fbf7fc022c",
-      "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss",
-      "title": "Canada has the opportunity to become a global LNG leader, new report says",
-      "published_at": "2026-11-12T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada’s only liquified natural gas facility began operating last year, yet the country has an opportunity to scale up that industry and become one of the top natural gas exporters in the world, according to a new report.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.886,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8aaaacdf6d56fecbcd69e53feeb82dd976e36868",
       "url": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733?cmp=rss",
       "title": "Mice, pigeon infestations at Halifax-area hospitals lead to soaring pest-control costs",
@@ -274,6 +339,19 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "713b6a2cc6948916966a8d07ba00a5fbf7fc022c",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss",
+      "title": "Canada has the opportunity to become a global LNG leader, new report says",
+      "published_at": "2026-11-12T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada’s only liquified natural gas facility began operating last year, yet the country has an opportunity to scale up that industry and become one of the top natural gas exporters in the world, according to a new report.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.886,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -320,7 +398,7 @@
       "url": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
       "title": "Israeli strike on a Gaza hospital kills 6 people, including surgeon, health authorities say",
       "published_at": "2026-11-12T04:53:34-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "An Israeli airstrike on southern Gaza's main hospital overnight killed at least six Palestinians, including a surgeon and a teenage boy, medics said, the latest Israeli attack to undermine a year-old ceasefire in the war-shattered territory.",
       "bias_heuristic": {
         "article_type": "News",
@@ -359,7 +437,7 @@
       "url": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438?cmp=rss",
       "title": "Montreal tenants without hot water, electricity during heated dispute over renovations",
       "published_at": "2026-11-12T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A group of private investors bought the units in 2024 under the banner Norgate Québec Inc. The Comité logement Saint-Laurent says many of the units are occupied by immigrants and recent newcomers to Quebec.",
       "bias_heuristic": {
         "article_type": "News",
@@ -416,149 +494,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.599,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2ce26cfb4825eddf1e18a211748629b35ca03045",
-      "url": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
-      "title": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
-      "published_at": "2026-11-11T20:14:10-05:00",
-      "section": "World",
-      "summary_auto": "A soldier guarding the Tomb of the Unknown Soldier at Arlington National Cemetery issued a verbal reprimand to a group of advisers and staffers with U.S. War Secretary Pete Hegseth following a Veterans Day ceremony.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1a59365014b12b102eb1b1147ada9041e8d27be8",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss",
-      "title": "Series of storms leaves B.C. woman with tree stuck on her house for days",
-      "published_at": "2026-11-11T19:47:39-05:00",
-      "section": "Canada",
-      "summary_auto": "A B.C. woman who saw a tree fall onto her house last Friday says it'll have to remain in place as high winds continue to batter the province.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7bca8f7fe8963507ce12287ab905a12087b7adee",
-      "url": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-      "title": "Death toll climbs to 8 in Brooklyn building collapse",
-      "published_at": "2026-11-11T18:42:52-05:00",
-      "section": "World",
-      "summary_auto": "Eight people have died after a three-storey building in Brooklyn collapsed at the edge of a construction site, New York City's mayor said Thursday, as firefighters kept digging through the rubble to find others who may be trapped beneath the wreckage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.945,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b19e4b13e4cb02a4eacdd3568e823becdfd20054",
-      "url": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567?cmp=rss",
-      "title": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
-      "published_at": "2026-11-11T18:37:27-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government had been made aware for months about the possibility that Stellantis would sell its Brampton, Ont., assembly plant to a light armoured vehicle manufacturer, a source has told CBC News.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "439aaaaa1274d8c487a425c2eae9d365d6acc0a0",
-      "url": "https://www.cbc.ca/news/world/scott-colom-mississippi-senate-democrats-9.7418482?cmp=rss",
-      "title": "Mississippi's Scott Colom secures Senate seat in another midterm win for Democrats",
-      "published_at": "2026-11-11T18:14:39-05:00",
-      "section": "World",
-      "summary_auto": "Mississippi Democrat Scott Colom will be the state's first Black senator since the post-Civil War Reconstruction era. Colom's victory also offers Democrats an unexpected boost in their effort to win control of the U.S. Senate.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5343cb54f7d8907c065d61fff5e39585b2bd6cda",
-      "url": "https://www.cbc.ca/radio/asithappens/mlk-dream-speech-auction-9.7418361?cmp=rss",
-      "title": "Martin Luther King Jr.'s handwritten draft of 'I Have a Dream' speech found in desk drawer",
-      "published_at": "2026-11-11T18:13:44-05:00",
-      "section": "World",
-      "summary_auto": "The day Martin Luther King Jr. stood on the steps of the Lincoln Memorial and delivered his iconic \"I Have A Dream\" speech is forever etched in the annals of history. But the night before — when the U.S. civil rights leader stayed up alone in his hotel room scribbling his now-famous words on a yellow notepad — was a moment lost to time. Until now.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.535,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "e3f68e36206fe4d2a9192db01325d8e300b94916",
-      "url": "https://www.cbc.ca/player/play/9.7418524?cmp=rss",
-      "title": "Heritage Minute filmed in Wainwright honours fallen Canadian soldier",
-      "published_at": "2026-11-11T18:11:21-05:00",
-      "section": "Canada",
-      "summary_auto": "Capt. Jon Snyder received a Star of Military Valour for his leadership and bravery when his team was attacked in Afghanistan in 2008. The Heritage Minute was filmed at CFB Wainwright and the surrounding area over the summer.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7e05ce5e05e6e09fbc3713c06f6eac61bfad10b0",
-      "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-      "title": "Canadian government says Russian players with visas will still be barred from WJC",
-      "published_at": "2026-11-11T18:09:18-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.44,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7e05ce5e05e6e09fbc3713c06f6eac61bfad10b0",
-      "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-      "title": "Canada says Russian hockey players with visas will still be barred from world junior championship",
-      "published_at": "2026-11-11T18:09:18-05:00",
-      "section": "World",
-      "summary_auto": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d569a53f8a8754afcbe6fc9827777f23de3b30f4",
-      "url": "https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477?cmp=rss",
-      "title": "Jays' Anthony Santander stays quiet after team asks him to publicly address anti-Muslim social media posts",
-      "published_at": "2026-11-11T17:38:29-05:00",
-      "section": "Canada",
-      "summary_auto": "The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran outfielder has remained quiet and hasn't issued an apology.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.262,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e7b5e6d65262781d09ef3d2875948fbea9638b9b",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/brian-ahern-halifax-obituary-music-producer-9.7418309?cmp=rss",
-      "title": "Halifax’s Brian Ahern, who produced albums by Anne Murray and Johnny Cash, dead at 81",
-      "published_at": "2026-11-11T17:13:50-05:00",
-      "section": "Canada",
-      "summary_auto": "A Halifax-born music producer who played a big role in helping encourage fellow Bluenoser Anne Murray to pursue a career in music and later produced albums by artists such as Johnny Cash and Emmylou Harris is being remembered for the mark he left on the music industry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
         "subjectivity_hint": "low"
       }
     }
