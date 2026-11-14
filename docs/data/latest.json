@@ -1,8 +1,151 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-13T14:02:48.333695-05:00",
+  "generated_at": "2026-11-13T19:35:34.295532-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "e56c824f0efb1eaed2ac18d02708bc57ec93db18",
+      "url": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss",
+      "title": "COVID-19 school disruptions still impacting students today, learning loss report finds",
+      "published_at": "2026-11-13T18:25:25-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A new report says Canadian students are still feeling the impact of the COVID pandemic's massive upset to their schooling, with declining achievement — particularly in math — and a discrepancy between standardized test scores and the grades kids receive in class.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "98f9b0a2cb874af9bb7009e3a9d9a1b378c047da",
+      "url": "https://www.cbc.ca/news/health/regional-insecurity-ebola-9.7421378?cmp=rss",
+      "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
+      "published_at": "2026-11-13T17:52:23-05:00",
+      "section": "World",
+      "summary_auto": "UN health officials on Friday hailed progress in the Ebola response six months after the ​outbreak first prompted global concerns, but cautioned that ‌the disease continues to spread to more remote and dangerous parts of Congo.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.467,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "14b496a34869a22dd416ccb0619a5db1b84e65ca",
+      "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss",
+      "title": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
+      "published_at": "2026-11-13T17:44:26-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Self-described \"Crypto King\" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.935,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd7380238044aa78b64bbf677862c326b6b5be80",
+      "url": "https://www.cbc.ca/radio/quirks/voyager-birds-cop31-dino-blood-genes-9.7420645?cmp=rss",
+      "title": "Voyager approaches one light-day away, and more...",
+      "published_at": "2026-11-13T17:31:53-05:00",
+      "section": "Technology & Science",
+      "summary_auto": "Plus: Why we love birds, avoiding global meltdown, dinosaur blood discovery and genes affect drug response",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e1d4100cc5e90ba442b477aa8b0a35eb8d641a6c",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-sovereignty-act-court-challenge-first-nation-9.7421573?cmp=rss",
+      "title": "Alberta government asks judge to dismiss First Nation’s challenge of its sovereignty act",
+      "published_at": "2026-11-13T17:31:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Alberta's government is asking a judge to strike down a First Nation's constitutional challenge of its sovereignty act, arguing the law hasn't had any impact on treaty rights.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "496e282655d5cc40e0a6841f57a07b9ccd0a2b8d",
+      "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
+      "title": "Canada's 4 major airports bring in traffic safety measures after planes grounded across U.S.",
+      "published_at": "2026-11-13T17:18:32-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f15803008bd05187bdcd1c45d41448ca850908b2",
+      "url": "https://www.cbc.ca/news/canada/toronto/blue-jays-santander-social-media-apology-9.7421387?cmp=rss",
+      "title": "'I sincerely apologize': Blue Jays outfielder Santander apologizes days after anti-Muslim social media posts",
+      "published_at": "2026-11-13T16:37:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Santander said in an Instagram post Friday that reflection and conversations with people he trusts made him recognize he should have been more thoughtful about what he shared.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.924,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0868b873384327c54df7a133695aec34d5d4378f",
+      "url": "https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss",
+      "title": "U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips",
+      "published_at": "2026-11-13T16:17:33-05:00",
+      "section": "Top Stories",
+      "summary_auto": "U.S. Treasury Secretary Scott Bessent said Friday he was frustrated with the Commerce Department's delay in placing restrictions on Nvidia chip exports to a company led by an alleged Chinese spy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.818,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "19853107935f6f16ba8d4d370a8ab7b312922a10",
+      "url": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
+      "title": "All aboard river cruise boat survive crash with tanker in New Orleans",
+      "published_at": "2026-11-13T16:06:41-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.052,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "db6c0f863f04764b20512aa3e56057f3f7c3f149",
+      "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-oilsands-royalties-9.7421165?cmp=rss",
+      "title": "Alberta announces royalty program as part of plan to double oilsands production",
+      "published_at": "2026-11-13T15:20:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The province says the OGP is designed to lower upfront financial barriers to new projects and expansions, particularly as proponents of the Pacific Link pipeline look for companies to fill upcoming capacity.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "54c277c3798321c6fe708e138e1bcda8382319fc",
+      "url": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
+      "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
+      "published_at": "2026-11-13T14:04:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "27133cb840e04f3588fc802cf7710dec23b5538b",
       "url": "https://www.cbc.ca/news/canada/sudbury/monarch-butterfly-manitoulin-island-9.7420929?cmp=rss",
@@ -21,7 +164,7 @@
       "url": "https://www.cbc.ca/news/entertainment/russell-brand-sexual-assault-more-allegations-9.7420884?cmp=rss",
       "title": "Russell Brand accused by 6 women of sexual misconduct, assault following rape conviction",
       "published_at": "2026-11-13T13:30:59-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Six more women have come forward alleging sexual misconduct and predatory behaviour by ex-comedian Russell Brand, according to an investigation by the U.K.-based The Times, following his conviction on rape and sexual assault earlier this week.",
       "bias_heuristic": {
         "article_type": "News",
@@ -43,28 +186,15 @@
       }
     },
     {
-      "id": "5c16a8404b51adc0910d4085c411b7f6e849bb55",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/2-dead-1-missing-squamish-boating-incident-9.7420872?cmp=rss",
-      "title": "2 dead, 1 missing after boating incident near Squamish, B.C.",
+      "id": "21593c8ab51ca9c1dde169b13768d5cb13a6185b",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss",
+      "title": "3 dead after boat crash in flooded river near Squamish, B.C.",
       "published_at": "2026-11-13T13:14:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Two people have died, and one person is missing after a boating incident in the Squamish Valley on Thursday.",
+      "section": "Top Stories",
+      "summary_auto": "Three people are confirmed dead after a boat crashed on the Squamish River on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.906,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "54c277c3798321c6fe708e138e1bcda8382319fc",
-      "url": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
-      "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-      "published_at": "2026-11-13T13:13:30-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Hamilton steelmaker Stelco is recalling 175 workers that had been laid off earlier this fall.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -151,7 +281,7 @@
       "url": "https://www.cbc.ca/news/entertainment/kindergarten-cop-christian-cousins-child-actor-dead-9.7420620?cmp=rss",
       "title": "Kindergarten Cop child actor Christian Cousins dead at 43",
       "published_at": "2026-11-13T12:21:49-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Former child actor Christian Cousins, who shared the role of Dominic Palmieri in Kindergarten Cop with his twin brother, Joey, has died at 43. His half-brother, Jonas Roeser, announced the news on Instagram, writing Cousins had been seriously ill with liver disease.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,11 +290,24 @@
       }
     },
     {
+      "id": "a8a4fee88f3e0d3468e3bc95a314e33693e53f1b",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pal-wheel-incident-9.7420742?cmp=rss",
+      "title": "Transportation Safety Board not investigating after PAL Airlines lost wheel twice in 2 weeks",
+      "published_at": "2026-11-13T12:19:13-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Transportation Safety Board of Canada says it's still gathering information regarding a plane that lost two different wheels in separate incidents in the past two weeks.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d0badd7acb78e767720539832a499450e4b2eff9",
       "url": "https://www.cbc.ca/news/science/spacex-starship-flight-15-9.7420700?cmp=rss",
       "title": "SpaceX to attempt to catch its first Starship on land in 15th flight",
       "published_at": "2026-11-13T12:07:34-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "SpaceX's latest Starship flight planned for Friday will include its first attempt to catch the spacecraft at its Texas launch site, rather than discarding it in ‌the ocean — a key test of Elon Musk's bid to make a fully reusable rocket system.",
       "bias_heuristic": {
         "article_type": "News",
@@ -186,19 +329,6 @@
       }
     },
     {
-      "id": "fa0d5a72426762fdcee183a6a66d76656a8ea317",
-      "url": "https://www.cbc.ca/sports/youth-olympics-wrap-canada-five-medals-senegal-9.7420672?cmp=rss",
-      "title": "Canada finishes 14-day Youth Olympics with 5 medals in Senegal",
-      "published_at": "2026-11-13T11:07:41-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada finished with five medals in four sports as the Summer Youth Olympics concluded Friday in Dakar, Senegal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "eec38b27e513fc8e7ded148a6fd9e597b0572f4e",
       "url": "https://www.cbc.ca/news/canada/edmonton/constituency-presidents-united-conservative-party-alberta-unity-referendum-9.7420042?cmp=rss",
       "title": "15 United Conservative constituency presidents won't sign agreement to publicly back Alberta referendum result",
@@ -216,7 +346,7 @@
       "url": "https://www.cbc.ca/news/entertainment/ebenezer-review-9.7420174?cmp=rss",
       "title": "Ebenezer review: Merry Christmas, Johnny Depp! Is this your comeback yet?",
       "published_at": "2026-11-13T10:15:27-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Ebenezer, the latest remake of Charles Dickens's A Christmas Carol, isn't terrible. It's also not particularly interesting.",
       "bias_heuristic": {
         "article_type": "News",
@@ -253,27 +383,14 @@
     {
       "id": "da35359293de4dd765ca633a93dd4a87c0ffc517",
       "url": "https://www.cbc.ca/news/world/livestory/microsoft-outage-outlook-teams-copilot-9.7420354?cmp=rss",
-      "title": "Microsoft 'deeply sorry' for multi-day outage affecting customers worldwide",
+      "title": "No timeline for when Microsoft's multi-day outage might be fully fixed, company says",
       "published_at": "2026-11-13T07:44:25-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.151,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "955fa57cd350b0baf75de29778e2b3b237fe8967",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alta-autism-arrest-9.7416738?cmp=rss",
-      "title": "Parents of autistic teen detained by Alberta RCMP demand release of delayed watchdog report",
-      "published_at": "2026-11-13T07:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The parents of an autistic teenager who was arrested at an Alberta playground and detained by RCMP four years ago are calling for the results of a watchdog investigation to be released.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.872,
-        "subjectivity_hint": "low"
+        "sentiment": -0.296,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -281,7 +398,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879?cmp=rss",
       "title": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
       "published_at": "2026-11-13T06:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Documents obtained by CBC News reveal the existence of a previously unreported Bishnoi cell known as the Baweja group. Members have been tied to multiple shootings and extortion threats in Alberta and B.C.",
       "bias_heuristic": {
         "article_type": "News",
@@ -292,26 +409,13 @@
     {
       "id": "0363d8ca0725a3c8015d1b7e34617b6bd5353897",
       "url": "https://www.cbc.ca/news/world/microsoft-outage-friday-activity-9.7420313?cmp=rss",
-      "title": "Microsoft's global outage extends into 2nd day, company not aware of malicious activity",
+      "title": "Microsoft reports progress in reviving some services amid global outage disrupting businesses, governments",
       "published_at": "2026-11-13T05:55:43-05:00",
       "section": "World",
-      "summary_auto": "A more than 12-hour outage of Microsoft Outlook and Teams crippled communications for businesses and governments globally on Friday, forcing some organizations to ‌revert to fax machines and halting at least one bond repurchase in Europe.",
+      "summary_auto": "Microsoft said progress is being made in bringing its popular workplace software back online as a global outage enters its second day, disrupting business communications, police crime reporting, court operations, AI tools and many other services.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "adb3cde21ccab44d4e341235ca1ca643e9b0ba79",
-      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-lipedema-complications-hsc-9.7419370?cmp=rss",
-      "title": "Winnipeg woman spends weeks in hospital after surgery to treat chronic illness goes wrong",
-      "published_at": "2026-11-13T05:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A Winnipeg nurse says she's spent more than three weeks at Health Sciences Centre after a surgery to treat her chronic illness left her with gaping wounds, necrotic tissue and an infection. Emma Cloney had a skin-excision surgery to help treat lipedema on Oct. 20.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
+        "sentiment": 0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -326,19 +430,6 @@
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "569cf229714eb889380902a13ff968b7dafce969",
-      "url": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591?cmp=rss",
-      "title": "An AI agent pitched a story to CBC Quebec. We replied to see what would happen",
-      "published_at": "2026-11-13T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "An autonomous AI agent calling itself Nameless pitched a story to CBC Quebec, openly admitting it wasn't human. What followed was a bizarre back-and-forth — and a warning from experts about what’s coming for journalism.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.572,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -365,6 +456,19 @@
         "article_type": "News",
         "sentiment": -0.758,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "569cf229714eb889380902a13ff968b7dafce969",
+      "url": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591?cmp=rss",
+      "title": "An AI agent pitched a story to CBC Quebec. We replied to see what would happen",
+      "published_at": "2026-11-13T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "An autonomous AI agent calling itself Nameless pitched a story to CBC Quebec, openly admitting it wasn't human. What followed was a bizarre back-and-forth — and a warning from experts about what’s coming for journalism.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -443,162 +547,6 @@
         "article_type": "News",
         "sentiment": -0.34,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "daca3168f422861962106c50d47001d6b994be24",
-      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-elks-grey-cup-week-coach-beard-9.7420094?cmp=rss",
-      "title": "Ahead of Grey Cup game, Elks explain why coach’s change in facial hair symbolizes commitment to team",
-      "published_at": "2026-11-12T19:12:24-05:00",
-      "section": "Canada",
-      "summary_auto": "\"My wife's all for it, she knew why I did it,\" Edmonton Elks head coach Mark Kilam said as he explained why he shaved off his beard.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f51db5b18b1ec3f6ddcb02c62e2090c4d5a53fd3",
-      "url": "https://www.cbc.ca/news/canada/calgary/allistair-chapman-conspiracy-murder-extradition-ryan-wedding-disclosure-9.7420008?cmp=rss",
-      "title": "Sovereignty 'abdicated' if U.S. extradition allowed in case of Calgarian allegedly working for cartel: lawyers",
-      "published_at": "2026-11-12T19:10:33-05:00",
-      "section": "Canada",
-      "summary_auto": "Defence lawyers fighting the extradition of Allistair Chapman, who is accused of working for alleged cartel kingpin Ryan Wedding, say he should not be sent to the United States to face charges for alleged crimes that took place in Canada, and doing so amounts to “cherry picking” the jurisdiction with the stiffer punishments.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.66,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9138c90983a22a6848ac176e4f5c2400106294b3",
-      "url": "https://www.cbc.ca/news/entertainment/christine-applegate-breast-implants-ms-misdiagnosis-health-9.7419211?cmp=rss",
-      "title": "Christina Applegate asks if breast implants are behind symptoms after MS misdiagnosis",
-      "published_at": "2026-11-12T18:50:45-05:00",
-      "section": "Health",
-      "summary_auto": "U.S. actor Christina Applegate is questioning whether her breast implants could be contributing to her pain and fatigue. Experts say symptoms associated with breast implant illness can overlap with other conditions, so people experiencing them should seek a thorough medical evaluation before making decisions about their implants.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "26a3e772e993022a2a975232940afe65d2e320c4",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/educationplanner-bc-cybersecurity-incident-9.7419937?cmp=rss",
-      "title": "B.C. post-secondary application portal affected by data breach",
-      "published_at": "2026-11-12T18:45:43-05:00",
-      "section": "Canada",
-      "summary_auto": "In a Thursday update, EducationPlannerBC says that, on Nov. 3, it identified a \"cybersecurity incident affecting its application system.\"",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "329df533775dd5c355ed191956b3fb73fe386c18",
-      "url": "https://www.cbc.ca/player/play/9.7419970?cmp=rss",
-      "title": "Report of children confined in locker at Quebec school draws education minister’s condemnation",
-      "published_at": "2026-11-12T18:45:40-05:00",
-      "section": "Canada",
-      "summary_auto": "Four school staff members have been suspended and a police investigation is underway at a primary school in the Centre de services scolaire des Mille-Îles, after employees allegedly shut children in a metal locker to calm them down.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.681,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9f0affe5947804f4cec26b986c24c47a0ba1aacc",
-      "url": "https://www.cbc.ca/news/health/pfizer-premarin-menopause-canada-discontinued-9.7419988?cmp=rss",
-      "title": "Pfizer ends sale of hormone therapy cream Premarin in Canada",
-      "published_at": "2026-11-12T18:41:41-05:00",
-      "section": "Health",
-      "summary_auto": "Pfizer will no longer sell its hormone replacement therapy Premarin in Canada following an internal review. The product has been available as a vaginal cream and three strengths of oral tablets.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d6e17448c8bb6c15d3468da468b3dd73af55a607",
-      "url": "https://www.cbc.ca/news/world/microsoft-outage-9.7419814?cmp=rss",
-      "title": "Microsoft outage continues as planned fixes are not working as expected, company says",
-      "published_at": "2026-11-12T17:15:24-05:00",
-      "section": "Business",
-      "summary_auto": "A widespread Microsoft outage that began Thursday afternoon continues to affect many of the tech giant's apps and tools, including email, Teams and Copilot.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "40e96db1feac6e6df1e6f39b69a6d5db504213f3",
-      "url": "https://www.cbc.ca/news/politics/carney-europe-ireland-meetings-9.7419715?cmp=rss",
-      "title": "Carney wraps meetings on security, trade with European leaders in Ireland",
-      "published_at": "2026-11-12T16:22:04-05:00",
-      "section": "World",
-      "summary_auto": "Prime Minister Mark Carney heard from Ukrainian President Volodymyr Zelenskyy on Thursday about the state of negotiations with Russia as the two discussed continental security with European leaders.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "54ca476d53e19f9df1d33be0c321b3c03126db48",
-      "url": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss",
-      "title": "Russian federation head Tretiak says it will seek compensation if barred from world juniors in Alberta",
-      "published_at": "2026-11-12T16:21:01-05:00",
-      "section": "World",
-      "summary_auto": "Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior championship in Alberta if Russia is barred from competing.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "125756eec667ba49aeaa0d8dba263bbaca6f0a14",
-      "url": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
-      "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
-      "published_at": "2026-11-12T16:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "Automaker Stellantis says it will pay back $24 million in federal subsidies after it announced plans to sell its Brampton, Ont. assembly plant — but Industry Minister Mélanie Joly says the company owes far more than what it is offering.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1ffe033ce2e40a0a4a6cd61a17234d76b316cde9",
-      "url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876?cmp=rss",
-      "title": "Will U.S. travel pick up after midterm 'blue wave'? Not so fast, say these Canadians",
-      "published_at": "2026-11-12T14:24:05-05:00",
-      "section": "World",
-      "summary_auto": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encouraging' sign, they say it's too soon to visit the U.S. again amid continued distrust.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cb3eb70363bd6c3bf05edd51c9a0f579a4d57861",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519?cmp=rss",
-      "title": "A PAL Airlines flight lost a wheel less than 2 weeks ago. It's happened again — to the same plane",
-      "published_at": "2026-11-12T14:13:45-05:00",
-      "section": "Canada",
-      "summary_auto": "Less than two weeks after a PAL Airlines flight lost a wheel, the airline has confirmed the same plane lost another one Thursday. Flight 411 was bound for Deer Lake, Newfoundland and Labrador, but instead landed in St. John's.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.45,
-        "subjectivity_hint": "low"
       }
     }
   ]
