@@ -1,8 +1,73 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-13T19:35:34.295532-05:00",
+  "generated_at": "2026-11-14T03:26:08.390872-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "dbc3f5437e15a5c17439116a2a54bf1cdbb89a89",
+      "url": "https://www.cbc.ca/news/politics/canada-philippines-free-trade-agreement-talks-9.7422009?cmp=rss",
+      "title": "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
+      "published_at": "2026-11-13T22:27:16-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada and the Philippines have concluded talks for a free-trade agreement, which is expected to be formally signed next year.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e1afdafe6c6565cc976afaca266c82d65a7690ef",
+      "url": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713?cmp=rss",
+      "title": "Sentencing delayed for Edmonton man who left beaten girlfriend to drown, believing she was already dead",
+      "published_at": "2026-11-13T20:18:08-05:00",
+      "section": "Canada",
+      "summary_auto": "WARNING: This story contains distressing and graphic details.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.959,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "34d90c23c20692955473b50fe911344a141c5054",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mosque-defaced-9.7421550?cmp=rss",
+      "title": "Alleged vandal who defaced Vancouver's oldest mosque 'meant to intimidate': police",
+      "published_at": "2026-11-13T19:55:47-05:00",
+      "section": "Canada",
+      "summary_auto": "Security footage captured a person spray-painting the doors of the Al Masjid Al Jamia mosque on Thursday night. Mosque director Haroon Khan said he was heartbroken to hear about what had happened.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9c3527776357801dfbdbb17d1e2b83b744489387",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834?cmp=rss",
+      "title": "B.C. arbitrator imposes 1st union contract for Amazon workers in North America",
+      "published_at": "2026-11-13T19:39:44-05:00",
+      "section": "Canada",
+      "summary_auto": "A union representing about 800 Amazon workers in Delta, B.C., says they are now covered by the first binding collective agreement for the retailing giant's workers in North America.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "641e35c95e2af245214e9933fd2f96d5c5866dc5",
+      "url": "https://www.cbc.ca/news/canada/london/london-family-raises-500k-for-daughter-s-us-surgery-after-ontario-denied-funding-9.7421072?cmp=rss",
+      "title": "London, Ont., family raises $500K for daughter's U.S. surgery after being denied funding",
+      "published_at": "2026-11-13T18:34:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A London, Ont., father and daughter who have been fundraising for a major surgery in the United States have now surpassed their goal and are moving ahead with a potentially life-changing procedure that no doctor in Canada would perform.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "e56c824f0efb1eaed2ac18d02708bc57ec93db18",
       "url": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss",
@@ -43,6 +108,32 @@
       }
     },
     {
+      "id": "1e0cfd7cde09d82fd9284433264392d806ddc6d9",
+      "url": "https://www.cbc.ca/sports/soccer/jesus-owono-suspension-12-games-fatal-collision-jesus-de-miguel-9.7421591?cmp=rss",
+      "title": "Spanish goalkeeper barred 12 games for collision leading to death of Tenerife striker",
+      "published_at": "2026-11-13T17:42:42-05:00",
+      "section": "World",
+      "summary_auto": "While Spain mourns the death of a soccer player who suffered a cardiac arrest after an on-field collision, the emergency medical treatment he received is falling under scrutiny.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.975,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecf9b2a815ecc29ec8a2a0ba61ec5d1ccb476a03",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/timothy-roy-child-luring-moncton-rcmp-photo-nova-scotia-labrador-ontario-b-c-9.7420904?cmp=rss",
+      "title": "Moncton man charged in child luring case has 'spent time in' 5 provinces, RCMP say",
+      "published_at": "2026-11-13T17:34:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "New Brunswick RCMP have released the photo of a Moncton man facing several charges in connection with a child luring investigation, as well as a list of communities he has \"spent time in\" across Canada to encourage people with information to come forward.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "fd7380238044aa78b64bbf677862c326b6b5be80",
       "url": "https://www.cbc.ca/radio/quirks/voyager-birds-cop31-dino-blood-genes-9.7420645?cmp=rss",
       "title": "Voyager approaches one light-day away, and more...",
@@ -71,13 +162,13 @@
     {
       "id": "496e282655d5cc40e0a6841f57a07b9ccd0a2b8d",
       "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
-      "title": "Canada's 4 major airports bring in traffic safety measures after planes grounded across U.S.",
+      "title": "U.S. flights cleared to take off again after ground stop order caused thousands of delays and cancellations",
       "published_at": "2026-11-13T17:18:32-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.421,
+        "sentiment": -0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -108,15 +199,28 @@
       }
     },
     {
+      "id": "955bdb1665d091c9e347399b6e86cc5778b92bda",
+      "url": "https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064?cmp=rss",
+      "title": "Canada appoints new Indigenous languages commissioner",
+      "published_at": "2026-11-13T16:10:36-05:00",
+      "section": "Canada",
+      "summary_auto": "Dorothy Myo has been appointed Canada's new commissioner of Indigenous languages, a role mandated to support the revitalization of Indigenous languages across Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "19853107935f6f16ba8d4d370a8ab7b312922a10",
       "url": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
-      "title": "All aboard river cruise boat survive crash with tanker in New Orleans",
+      "title": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
       "published_at": "2026-11-13T16:06:41-05:00",
       "section": "Top Stories",
       "summary_auto": "A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.052,
+        "sentiment": 0.612,
         "subjectivity_hint": "low"
       }
     },
@@ -130,6 +234,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6b93d0ddcf4aade4a1841d0217de3c194e5a4238",
+      "url": "https://www.cbc.ca/sports/a-new-game-plan/new-game-plan-nso-sports-future-funding-participation-nov13-9.7421104?cmp=rss",
+      "title": "With increase of funding, Canada's sports leaders know there is expectation to increase participation",
+      "published_at": "2026-11-13T15:16:06-05:00",
+      "section": "Canada",
+      "summary_auto": "The distribution of increased funding in Canadian has begun and with an emphasis on participation, national sport organizations will have to get to work on new ideas and ways to bring more people into their sports.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
         "subjectivity_hint": "low"
       }
     },
@@ -169,19 +286,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.965,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b02a01859e568c7ceb844dc644e1b2ccb8ec97c",
-      "url": "https://www.cbc.ca/news/canada/calgary/court-of-appeal-class-action-certification-pandemic-restriction-overturned-9.7420934?cmp=rss",
-      "title": "Alberta's top court overturns certification for class-action lawsuit over COVID restrictions",
-      "published_at": "2026-11-13T13:26:32-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Alberta’s top court has overturned the certification of a class-action lawsuit filed by a group of business owners who were seeking compensation for losses suffered due to pandemic-related public health restrictions and closures.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
         "subjectivity_hint": "low"
       }
     },
@@ -251,19 +355,6 @@
       }
     },
     {
-      "id": "c778a6c51a807a4629670dc109416aa73fbf6a48",
-      "url": "https://www.cbc.ca/news/world/mexico-ryan-wedding-motorbike-collection-auction-9.7420729?cmp=rss",
-      "title": "Mexico raises $5.4M for social services by selling off Ryan Wedding's motorbike collection",
-      "published_at": "2026-11-13T12:43:39-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Mexico has raised roughly $5.4 million by auctioning off a rare collection of motorcycles seized from alleged Canadian drug lord Ryan Wedding, with the funds earmarked for social services.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "060794d87ec991e61e6793cb1b5692c4746f0fbc",
       "url": "https://www.cbc.ca/sports/hockey/finland-block-russian-athletes-nhl-game-helsinki-9.7420789?cmp=rss",
       "title": "NHL indicates Finland's block on Russian athletes could affect future games there",
@@ -316,19 +407,6 @@
       }
     },
     {
-      "id": "25a2df9935fc1448655cac318d84310943467035",
-      "url": "https://www.cbc.ca/news/canada/toronto/richard-neil-woodland-verdict-9.7409563?cmp=rss",
-      "title": "Richard Neil found guilty in 1990s 'woodland rapist' cold case",
-      "published_at": "2026-11-13T11:11:43-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A three-decade search for a predator dubbed southern Ontario's \"woodland rapist\" has ended with a Toronto man convicted of kidnapping and sexual assault.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.955,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "eec38b27e513fc8e7ded148a6fd9e597b0572f4e",
       "url": "https://www.cbc.ca/news/canada/edmonton/constituency-presidents-united-conservative-party-alberta-unity-referendum-9.7420042?cmp=rss",
       "title": "15 United Conservative constituency presidents won't sign agreement to publicly back Alberta referendum result",
@@ -370,13 +448,13 @@
     {
       "id": "4b77225e441c49566083027eeac64f015334a732",
       "url": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385?cmp=rss",
-      "title": "More stormy weather forecast for B.C. with warnings for flooding, heavy rain, fog",
+      "title": "More stormy weather forecast for B.C., but alerts and warnings downgraded",
       "published_at": "2026-11-13T08:37:10-05:00",
       "section": "Canada",
-      "summary_auto": "As rain persists on Vancouver Island, fog advisories have been issued for the Cariboo, East Kootenay, Similkameen and South Okanagan regions on Friday.",
+      "summary_auto": "A multitude of weather related warnings and advisories have been downgraded or lifted for southwestern B.C. as a series of storms moves through the province.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.296,
+        "sentiment": -0.681,
         "subjectivity_hint": "low"
       }
     },
@@ -521,32 +599,6 @@
         "article_type": "News",
         "sentiment": 0.606,
         "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "ac5df0f72993452df3ea986b898d3d39d7589275",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190?cmp=rss",
-      "title": "Several people involved in fatal boating incident near Squamish: RCMP",
-      "published_at": "2026-11-12T21:38:19-05:00",
-      "section": "Canada",
-      "summary_auto": "Police are investigating a fatal boating incident in the Squamish Valley on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.791,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5a7070d78bf4a659c8b7a983bd379a798b4aa018",
-      "url": "https://www.cbc.ca/news/business/nvidia-jensen-huang-ceo-selloff-investments-retirement-9.7420093?cmp=rss",
-      "title": "The Nvidia scandal has wiped away $1T in value. What that means for your investments",
-      "published_at": "2026-11-12T20:25:54-05:00",
-      "section": "Business",
-      "summary_auto": "Nvidia shares plunged early Thursday after CEO Jensen Huang resigned, before climbing back up to finish the day down 4.3 per cent. It's bad news for industry-watchers, but touches regular investors too because of the chipmaker's weight in major stock indexes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.34,
-        "subjectivity_hint": "medium"
       }
     }
   ]
