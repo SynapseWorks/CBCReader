@@ -1,15 +1,54 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-14T16:52:47.437430-05:00",
+  "generated_at": "2026-11-14T20:28:22.738507-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "25d9883b32877719024bd1ea10ea3275a2415429",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466?cmp=rss",
+      "title": "Nova Scotia's MacDougall uses 5-point 8th end to win mixed curling nationals",
+      "published_at": "2026-11-14T18:16:14-05:00",
+      "section": "Canada",
+      "summary_auto": "Nova Scotia's Brent MacDougall is the Canadian mixed curling champion. The Nova Scotia rink, down 5-4 entering the eighth and final end, scored five to defeat New Brunswick's Sylvie Quillian 9-5 in Saturday's gold-medal final in Woodstock, P.E.I.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1f04dbbe963316fcc56695677cd2edc37e0d41db",
+      "url": "https://www.cbc.ca/news/politics/green-party-leader-mike-morrice-9.7422321?cmp=rss",
+      "title": "Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote",
+      "published_at": "2026-11-14T17:51:24-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Green Party of Canada enters a new era with former MP Mike Morrice taking over the political party's top job.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cb9640ee36c14d278545ab809e061b769fd695e6",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/customers-frustrated-paying-for-accommodation-after-cancellations-9.7422364?cmp=rss",
+      "title": "Stranded B.C. flyers out thousands amid flight cancellations due to Friday's ground stop",
+      "published_at": "2026-11-14T16:18:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some frustrated Air Canada passengers say spotty communication and a lack of rebooking help has left them paying thousands out of pocket amid widespread flight cancellations due to the FAA-ordered ground stop Friday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "6c466a11ee3523f8c2c62e011b35ae03cf00007a",
       "url": "https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss",
       "title": "AFC Toronto beats Montreal Roses to win 1st NSL title",
       "published_at": "2026-11-14T16:09:30-05:00",
       "section": "Top Stories",
-      "summary_auto": "Olivia Chisholm's first half goal allowed AFC Toronto to capture their first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
+      "summary_auto": "Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.586,
@@ -19,13 +58,26 @@
     {
       "id": "83c78a0309845b6b1e9b3a19395c4a0a77f77ef7",
       "url": "https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365?cmp=rss",
-      "title": "A 5th soldier injured in CFB Wainwright fire has died, officials say",
+      "title": "Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say",
       "published_at": "2026-11-14T15:57:06-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A fifth soldier, Pte. William Douglas Dal Bianco, has died as a result of the fire at Canadian Forces Base Wainwright in Alberta, the Department of National Defence says.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.923,
+        "sentiment": -0.938,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "417293d29113253e1e0c1faa8fdfe927f7717f8e",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/bird-flu-outbreak-at-national-sask-poultry-show-9.7422320?cmp=rss",
+      "title": "Avian flu outbreak spreads to other provinces at national poultry show: CFIA",
+      "published_at": "2026-11-14T15:12:05-05:00",
+      "section": "Canada",
+      "summary_auto": "Avian flu has been detected in three flocks, including in Manitoba and Alberta, following an outbreak at a national poultry show in Saskatchewan earlier this month, the Canadian Food Inspection Agency has told CBC News.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
         "subjectivity_hint": "low"
       }
     },
@@ -203,7 +255,7 @@
       "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352?cmp=rss",
       "title": "Snowbirds set to fly iconic jets for last time this weekend",
       "published_at": "2026-11-14T05:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Fifty-five years after the team's formation, the Canadian Forces Snowbirds' iconic jets will grace the skies one last time. The aerobatics team's CT-114 Tutor jets are set to fly over Calgary's McMahon Stadium on Sunday as part of the 113th Grey Cup festivities, before being grounded permanently.",
       "bias_heuristic": {
         "article_type": "News",
@@ -281,24 +333,11 @@
       "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117?cmp=rss",
       "title": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
       "published_at": "2026-11-14T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Thousands of post-secondary and university students held strikes across Quebec this week to denounce “austerity measures and growing precariousness” among students in the face of the rising cost of living and the provincewide housing crisis. Among other things, the coalition is calling for a reform of Quebec's student financial aid program.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "464a0d2a0616cea3c866de9e5c8605d4d6db5888",
-      "url": "https://www.cbc.ca/news/canada/living-wage-minimum-wage-canada-9.7416320?cmp=rss",
-      "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
-      "published_at": "2026-11-14T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Of the 59 cities and regions in reports for every province reviewed by CBC News, none had a provincial minimum wage equal to the calculated living wage — the amount a full-time worker needs to meet their basic needs, manage unexpected expenses and participate meaningfully in their community.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -329,6 +368,19 @@
       }
     },
     {
+      "id": "464a0d2a0616cea3c866de9e5c8605d4d6db5888",
+      "url": "https://www.cbc.ca/news/canada/living-wage-minimum-wage-canada-9.7416320?cmp=rss",
+      "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
+      "published_at": "2026-11-14T04:00:00-05:00",
+      "section": "Business",
+      "summary_auto": "Of the 59 cities and regions in reports for every province reviewed by CBC News, none had a provincial minimum wage equal to the calculated living wage — the amount a full-time worker needs to meet their basic needs, manage unexpected expenses and participate meaningfully in their community.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "46eeff113d88de6bb0ca547289601a469c8a8497",
       "url": "https://www.cbc.ca/news/health/hepatitis-b-drug-vaccines-9.7421089?cmp=rss",
       "title": "Is a cure on the horizon for hepatitis B? New drug offers hope, but there's a 'long way to go'",
@@ -342,19 +394,6 @@
       }
     },
     {
-      "id": "346860886a829ace3e53c5fc2c7f3489cf6bc93c",
-      "url": "https://www.cbc.ca/sports/tennis/wta-finals-nov-13-9.7422028?cmp=rss",
-      "title": "Canada's Dabrowski, Brazil's Stefani advance to semifinals at WTA Finals after perfect group stage",
-      "published_at": "2026-11-14T01:07:34-05:00",
-      "section": "Canada",
-      "summary_auto": "Ottawa’s Gabriela Dabrowski and Brazil’s Luisa Stefani advanced to the doubles semifinals at the WTA Finals after defeating Latvia’s Jelena Ostapenko and Taiwan’s Su-Wei Hsieh 2-6, 7-6 (2), 10-3 on Friday in Indian Wells, Calif.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.625,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "062d3978b485f52443782494e974e53404022073",
       "url": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss",
       "title": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations",
@@ -364,97 +403,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1afdafe6c6565cc976afaca266c82d65a7690ef",
-      "url": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713?cmp=rss",
-      "title": "Sentencing delayed for Edmonton man who left beaten girlfriend to drown, believing she was already dead",
-      "published_at": "2026-11-13T20:18:08-05:00",
-      "section": "Canada",
-      "summary_auto": "WARNING: This story contains distressing and graphic details.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.959,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e56c824f0efb1eaed2ac18d02708bc57ec93db18",
-      "url": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss",
-      "title": "COVID-19 school disruptions still impacting students today, learning loss report finds",
-      "published_at": "2026-11-13T18:25:25-05:00",
-      "section": "Canada",
-      "summary_auto": "A new report says Canadian students are still feeling the impact of the COVID pandemic's massive upset to their schooling, with declining achievement — particularly in math — and a discrepancy between standardized test scores and the grades kids receive in class.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "98f9b0a2cb874af9bb7009e3a9d9a1b378c047da",
-      "url": "https://www.cbc.ca/news/health/regional-insecurity-ebola-9.7421378?cmp=rss",
-      "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
-      "published_at": "2026-11-13T17:52:23-05:00",
-      "section": "World",
-      "summary_auto": "UN health officials on Friday hailed progress in the Ebola response six months after the ​outbreak first prompted global concerns, but cautioned that ‌the disease continues to spread to more remote and dangerous parts of Congo.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.467,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "14b496a34869a22dd416ccb0619a5db1b84e65ca",
-      "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss",
-      "title": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
-      "published_at": "2026-11-13T17:44:26-05:00",
-      "section": "Canada",
-      "summary_auto": "Self-described \"Crypto King\" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.935,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1e0cfd7cde09d82fd9284433264392d806ddc6d9",
-      "url": "https://www.cbc.ca/sports/soccer/jesus-owono-suspension-12-games-fatal-collision-jesus-de-miguel-9.7421591?cmp=rss",
-      "title": "Spanish goalkeeper barred 12 games for collision leading to death of Tenerife striker",
-      "published_at": "2026-11-13T17:42:42-05:00",
-      "section": "World",
-      "summary_auto": "While Spain mourns the death of a soccer player who suffered a cardiac arrest after an on-field collision, the emergency medical treatment he received is falling under scrutiny.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.975,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "fd7380238044aa78b64bbf677862c326b6b5be80",
-      "url": "https://www.cbc.ca/radio/quirks/voyager-birds-cop31-dino-blood-genes-9.7420645?cmp=rss",
-      "title": "Voyager approaches one light-day away, and more...",
-      "published_at": "2026-11-13T17:31:53-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Plus: Why we love birds, avoiding global meltdown, dinosaur blood discovery and genes affect drug response",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "d8ee3eef73a482b6541814403904491443e42ab3",
-      "url": "https://www.cbc.ca/news/world/livestory/airport-delays-faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421992?cmp=rss",
-      "title": "Copper wire replacement caused air traffic control issue that grounded flights across U.S.: White House",
-      "published_at": "2026-11-13T17:18:32-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
