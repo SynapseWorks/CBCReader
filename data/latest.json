@@ -1,8 +1,21 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-14T20:28:22.738507-05:00",
+  "generated_at": "2026-11-15T03:42:32.194179-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "40575bd0c0a4abb841725247796ad02ef475e5e1",
+      "url": "https://www.cbc.ca/sports/tennis/wta-finals-november-14-9.7422131?cmp=rss",
+      "title": "Canada's Dabrowski, Brazil's Stefani fall in doubles semifinals at WTA Finals",
+      "published_at": "2026-11-14T23:07:23-05:00",
+      "section": "Canada",
+      "summary_auto": "Canadian Gabriela Dabrowski's unbeaten run at the WTA Finals came to an end Saturday night as she and partner Luisa Stefani of Brazil were beaten in the doubles semifinals in Indian Wells, Calif.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "25d9883b32877719024bd1ea10ea3275a2415429",
       "url": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466?cmp=rss",
@@ -26,6 +39,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.872,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fc187999304ef89bbcd2b66fd64c73739676d004",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-paul-st-pierre-plamondon-francophonie-vote-9.7422366?cmp=rss",
+      "title": "Premier says Quebec ready to vote independently from Canada for Francophonie leadership",
+      "published_at": "2026-11-14T17:35:38-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Quebec Premier Paul St-Pierre Plamondon is in Cambodia to attend a summit of the international body of French-speaking states and governments. Quebec, Canada and New Brunswick all have the right to vote in Monday's election to choose a new secretary-general.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
         "subjectivity_hint": "low"
       }
     },
@@ -99,7 +125,7 @@
       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
       "published_at": "2026-11-14T14:06:09-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Ukrainian President Volodymyr Zelenskyy said the United States had raised the possibility of a new security framework for Europe as part of efforts to end Russia’s war in Ukraine, warning that Moscow could use such discussions to weaken NATO and reshape the continent’s borders.",
       "bias_heuristic": {
         "article_type": "News",
@@ -123,13 +149,13 @@
     {
       "id": "82efea74226f6274aa1ca7543bc94b8705aa1cff",
       "url": "https://www.cbc.ca/news/world/spacex-starship-re-entry-space-earth-9.7422284?cmp=rss",
-      "title": "SpaceX Starship re-enters Earth, lands at same spot from which it launched a day ago",
+      "title": "SpaceX Starship successfully re-docks at Texas launch pad after orbiting Earth",
       "published_at": "2026-11-14T13:29:44-05:00",
       "section": "Top Stories",
-      "summary_auto": "SpaceX's Starship spacecraft on Saturday returned from its longest flight in orbit yet to the Texas launch tower it was launched from a day prior, demonstrating the first key recovery of the rocket system's centerpiece vessel in the company's decade-long effort to ‌develop a fully reusable rocket.",
+      "summary_auto": "SpaceX's Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier. It's the first key recovery of the rocket system's centerpiece vessel in the company's decade-long effort to ‌develop a fully reusable rocket.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.25,
+        "sentiment": 0.765,
         "subjectivity_hint": "low"
       }
     },
@@ -390,19 +416,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.766,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "062d3978b485f52443782494e974e53404022073",
-      "url": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss",
-      "title": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations",
-      "published_at": "2026-11-13T22:14:56-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Manitoba Premier Wab Kinew says the provincial government is reaching the limits of what it can do to ease the cost of living without sacrificing the revenue needed to fund public services, and that corporate giants need to do their part.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
         "subjectivity_hint": "low"
       }
     }
