@@ -1,8 +1,99 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-16T18:56:05.725803-05:00",
+  "generated_at": "2026-11-17T01:19:45.109551-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "c47ad93b7630dd326d653a26d1ea5b23b64554c8",
+      "url": "https://www.cbc.ca/books/p-e-i-author-nicholas-herring-wins-2026-giller-prize-for-your-breath-in-charcoal-9.7424611?cmp=rss",
+      "title": "P.E.I. author Nicholas Herring wins 2026 Giller Prize for Your Breath in Charcoal",
+      "published_at": "2026-11-16T22:33:37-05:00",
+      "section": "Entertainment",
+      "summary_auto": "Herring is honoured for his novel about two blue-collar islanders in the late ’90s.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.91,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fc10b19e01633adc4dcf48ce9509b39410ac443b",
+      "url": "https://www.cbc.ca/player/play/9.7424600?cmp=rss",
+      "title": "Hundreds of Rocky Balboas break Guinness World Record  | The Moment",
+      "published_at": "2026-11-16T22:08:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mason Lemme tells The National about the moment he was among the 570 people to break the Guinness World Record for the most people dressed as Sylvester Stallone's character Rocky Balboa, at the steps of the Philadelphia Museum of Art.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "efad1370427a5f098a89d5e2e71e028138ad6207",
+      "url": "https://www.cbc.ca/books/livestory/giller-prize-2026-9.7423662?cmp=rss",
+      "title": "Nicholas Herring wins the $100K Giller Prize for novel Your Breath in Charcoal",
+      "published_at": "2026-11-16T20:15:02-05:00",
+      "section": "Canada",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.852,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74ae74ca93d75acd8f719c1fdc1137720f06b3ee",
+      "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-escape-attempt-9.7424448?cmp=rss",
+      "title": "'Crypto King' Aiden Pleterski testifies about escape attempt during alleged kidnapping",
+      "published_at": "2026-11-16T19:53:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Self-described \"Crypto King\" Aiden Pleterski described how he tried to escape and how his alleged kidnappers ultimately released him during his continued testimony at their jury trial in Toronto on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79483d2448bad632b4ad5caadeb395620b3c37c0",
+      "url": "https://www.cbc.ca/news/canada/manitoba/volunteers-operation-walk-manitoba-doug-brown-9.7424408?cmp=rss",
+      "title": "Volunteers back in Manitoba after grounding of U.S. flights set them on long road trip home",
+      "published_at": "2026-11-16T19:35:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A group of Manitobans doing volunteer work are back home after Friday's closure of U.S. airspace forced them on a long journey across that country.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "12adca6402335833f38e54c80767abd4c602360b",
+      "url": "https://www.cbc.ca/news/politics/meta-encryption-services-lawful-access-9.7424473?cmp=rss",
+      "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
+      "published_at": "2026-11-16T19:34:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Representatives from Meta say the social media company would have to \"consider\" pulling encryption services from Canada if the government's proposed lawful access bill passes without further changes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e99fe63f1edbe4246efd00c5b4a1873aaa10011d",
+      "url": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
+      "title": "The battle for Trump's 'Trash Island' golf course | About That",
+      "published_at": "2026-11-16T19:05:23-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.743,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "aa769e387cb855557a78059269f76d3e1f02e1aa",
       "url": "https://www.cbc.ca/news/climate/data-centres-carbon-emissions-cop31-study-9.7424144?cmp=rss",
@@ -32,7 +123,7 @@
     {
       "id": "b7c5746bfe10c268d56e92c0e1c78dc20419d67d",
       "url": "https://www.cbc.ca/radio/asithappens/uk-abortion-pardons-9.7424193?cmp=rss",
-      "title": "The U.K. is granting pardons to women for past abortion convictions",
+      "title": "The U.K. is granting pardons to women convicted for having abortions",
       "published_at": "2026-11-16T18:20:41-05:00",
       "section": "Top Stories",
       "summary_auto": "The U.K. government says it will grant automatic pardons to all women convicted of having illegal abortions over the last 165 years.",
@@ -48,7 +139,7 @@
       "title": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
       "published_at": "2026-11-16T18:15:35-05:00",
       "section": "Top Stories",
-      "summary_auto": "Canada's second-in-command is standing behind the proposed purchase of six Saab GlobalEye surveillance jets despite air force concerns about their capabilities. Vice-Admiral Angus Topshee told MPs he's satisfied with the procurement process, arguing the aircraft will contribute to an integrated continental defence network alongside satellites and ground-based radar systems.",
+      "summary_auto": "Vice-Admiral Angus Topshee told MPs on Monday that he's satisfied with the procurement process for Saab's GlobalEye surveillance jets, arguing the aircraft will contribute to an integrated continental defence network.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.052,
@@ -86,7 +177,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-churchill-river-9.7424046?cmp=rss",
       "title": "N.L. premier waiting to hear from Quebec on Churchill River power deal",
       "published_at": "2026-11-16T16:09:41-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Quebec Energy Minister Stéphane Paquet said the Churchill River power deal is not set in stone, setting off a series of questions for Premier Tony Wakeham in Newfoundland and Labrador's House of Assembly.",
       "bias_heuristic": {
         "article_type": "News",
@@ -151,7 +242,7 @@
       "url": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295?cmp=rss",
       "title": "U.S. Supreme Court set to hear 3 major Trump agenda immigration cases",
       "published_at": "2026-11-16T14:39:34-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "The U.S. Supreme Court made at least two significant rulings to shape immigration policy last year. In the coming months, there will at least three more opinions that could be impactful, as U.S. President Donald Trump's administration seeks to reinterpret a number of laws concerning asylum, deportations and the detention of unauthorized persons in the U.S.",
       "bias_heuristic": {
         "article_type": "News",
@@ -216,7 +307,7 @@
       "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-canada-united-states-herning-9.7423741?cmp=rss",
       "title": "U.S. captures third women's world hockey title in 4 years, downing rival Canadians",
       "published_at": "2026-11-16T13:13:25-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Hilary Knight and Kelly Pannek each scored twice as the United States defended its women's world hockey title with a 6-2 win over Canada in Monday's gold-medal game in Herning, Denmark.",
       "bias_heuristic": {
         "article_type": "News",
@@ -255,7 +346,7 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/burlington-fire-update-9.7423480?cmp=rss",
       "title": "1 man, 2 children dead in Burlington, Ont., house fire, Ontario Fire Marshal says",
       "published_at": "2026-11-16T11:36:31-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A man, a 12-year-old child and a one-year-old boy are dead following a house fire in Burlington, Ont., the Ontario Fire Marshal said Monday morning in a news briefing.",
       "bias_heuristic": {
         "article_type": "News",
@@ -498,45 +589,6 @@
       }
     },
     {
-      "id": "5f73bd3a69572356adc12309f1e26481902f20a3",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/kaylee-crowchild-inquest-begins-9.7421522?cmp=rss",
-      "title": "Coroner's inquest into Alberta woman's death in Kenora, Ont., slated to start today",
-      "published_at": "2026-11-16T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A coroner’s inquest into the death of a 29-year-old Alberta woman at Lake of the Woods District Hospital (LWDH) in Kenora, Ont., is expected to start  later Monday morning. Here is what we know about the upcoming proceedings.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.832,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7021bee9e89dc0ccd6aada73b7a5ee7319a79e0a",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-police-academy-nicolet-training-racial-profiling-9.7416762?cmp=rss",
-      "title": "Do Quebec police recruits get enough racial profiling training? We checked the curriculum",
-      "published_at": "2026-11-16T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "At Quebec's police academy, aspiring officers spend hundreds of hours on technical skills, from firing weapons to physically restraining suspects. Far less of their time explicitly addresses issues such as racial profiling and ethical breaches — which led to the firing of seven Montreal police officers earlier this month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.7,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "de281def43de56e3febf9d0d2537f864f085cad4",
-      "url": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365?cmp=rss",
-      "title": "CBSA demoting border officers who permanently lost ability to use sidearm",
-      "published_at": "2026-11-16T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Canada Border Services Agency has informed 63 employees that they will have to take on new, lower-paid positions because of medical conditions that prevent them from carrying a sidearm.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.026,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "61d200dc8067db90cb558786afa2ad47d8f326e3",
       "url": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-ccw-geneva-9.7418597?cmp=rss",
       "title": "What will it take for the world's superpowers to agree on AI regulations in war?",
@@ -559,19 +611,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.802,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b08d6029cafd18cf96e23b8388585ebd709f1c1e",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116?cmp=rss",
-      "title": "3 friends complete 8,000-km canoe journey across Canada, arriving at Vancouver's Jericho Beach",
-      "published_at": "2026-11-15T23:11:45-05:00",
-      "section": "Canada",
-      "summary_auto": "After more than 200 days, thousands of kilometres and countless hours on the water, three longtime friends from Toronto completed their canoe journey from Quebec to B.C. on Sunday at Vancouver's Jericho Beach.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.735,
         "subjectivity_hint": "low"
       }
     }
