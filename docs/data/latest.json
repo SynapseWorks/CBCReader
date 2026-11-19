@@ -1,19 +1,71 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-18T20:35:52.297689-05:00",
+  "generated_at": "2026-11-19T04:43:36.446614-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "3fb117c4a25f51f402235e41fafcabc46ff2ecb9",
-      "url": "https://www.cbc.ca/player/play/9.7427592?cmp=rss",
-      "title": "Ford apologizes for 'poor' French",
-      "published_at": "2026-11-18T20:11:09-05:00",
+      "id": "222b29cde47f802bf9da28b9c7c41283b97a4ef9",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-avoids-jail-9.7426301?cmp=rss",
+      "title": "Cocaine smuggler avoids prison sentence, as judge seeks to keep child out of foster care",
+      "published_at": "2026-11-19T04:30:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Ontario Premier Doug Ford attempted to deliver a few lines in French while speaking at a Chamber of Commerce of Metropolitan Montreal event on Tuesday. He later told the crowd the thought of speaking French stressed him out so much he was 'up all night.'",
+      "summary_auto": "A man who played a pivotal role in smuggling more than three kilograms of cocaine into Newfoundland has staved off a federal prison sentence, as a judge sought to keep the man's son from going into foster care.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.459,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "053ad968652a82ed0a0394142e4f2c2b9fc740dd",
+      "url": "https://www.cbc.ca/news/business/gas-prices-falling-canada-9.7426928?cmp=rss",
+      "title": "It's costing you less to fill up your gas tank. What's behind falling pump prices?",
+      "published_at": "2026-11-19T04:01:50-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "14fb3b5783a036734117300f52918c7d7c923291",
+      "url": "https://www.cbc.ca/news/canada/montreal/via-rail-services-resumes-new-carlisle-2028-9.7426622?cmp=rss",
+      "title": "VIA Rail heading back to Quebec’s Gaspé region after 15 years — a partial win that brings hope",
+      "published_at": "2026-11-19T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Gaspé residents who have been waiting for the return of passenger train service since 2011 hope new federal investments and commitments from VIA Rail will lead to full service resumption down the line.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "48a5b126f52b6687b0025dbac674568b543c7f69",
+      "url": "https://www.cbc.ca/news/entertainment/grand-theft-auto-time-off-work-9.7426919?cmp=rss",
+      "title": "Skipping work to play Grand Theft Auto VI? You're not alone",
+      "published_at": "2026-11-19T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Got IT problems at work? Call somebody else. Need to develop some corporate training? It'll have to wait until next week. That's because many video game fans are taking time off to play the highly-anticipated Grand Theft Auto VI that comes out Thursday. HR experts say it's far from the first cultural event to have people skipping work.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.855,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75058c18b18db2e55cfb52fe723f66f9262a26b7",
+      "url": "https://www.cbc.ca/news/canada/hamilton/juliet-daniel-death-memorial-cancer-researcher-black-women-stem-9.7427182?cmp=rss",
+      "title": "Juliet Daniel changed cancer research. Students of the late Canadian scientist say she also changed lives",
+      "published_at": "2026-11-19T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Friends, students and colleagues gathered this week at McMaster University in Hamilton to celebrate Juliet Daniel, a Barbadian-Canadian professor and scientist who died April 28 at age 61. They remembered her for her accomplishments in science and for what she brought to the lives of others.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -97,9 +149,22 @@
     {
       "id": "1c3714ebb7b10e4aabffc62296b8c28828cc88b8",
       "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856?cmp=rss",
-      "title": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
+      "title": "Anthropic's public offering exceeds every Canadian IPO combined over last 30 years",
       "published_at": "2026-11-18T18:58:12-05:00",
       "section": "Top Stories",
+      "summary_auto": "Anthropic has set a stock price of $83 US per share for its hotly anticipated initial public offering, with shares of the U.S. artificial intelligence giant set to debut on the Nasdaq exchange on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.758,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1c3714ebb7b10e4aabffc62296b8c28828cc88b8",
+      "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856?cmp=rss",
+      "title": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
+      "published_at": "2026-11-18T18:58:12-05:00",
+      "section": "World",
       "summary_auto": "Anthropic has set a stock price of $83 US per share for its hotly anticipated initial public offering, with shares of the U.S. artificial intelligence giant set to debut on the Nasdaq exchange on Thursday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -144,19 +209,6 @@
         "article_type": "News",
         "sentiment": -0.557,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a521e470c1b109a1eb9a37c1567ff8444a9f7b54",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/rob-manfred-mlb-team-owners-salary-cap-lockout-9.7427289?cmp=rss",
-      "title": "MLB commissioner says owners won't compromise on salary cap, leaving sport headed to lockout",
-      "published_at": "2026-11-18T17:35:46-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Major League Baseball commissioner Rob Manfred says team owners will not move off their demand for a salary cap, leaving the sport on track for a lockout starting Dec. 2 that could threaten the 2027 season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.772,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -279,19 +331,6 @@
     {
       "id": "baa61b71ce239b3a5ea999af88a76e206dd2301c",
       "url": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945?cmp=rss",
-      "title": "Would a Quebecor-Telus merger mean higher cellphone bills for Canadians?",
-      "published_at": "2026-11-18T15:40:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Quebecor says its proposal to acquire one of the four main Canadian telecoms will lead to lower costs for consumers, but policy analysts and competition advocates aren't quite buying it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "baa61b71ce239b3a5ea999af88a76e206dd2301c",
-      "url": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945?cmp=rss",
       "title": "If Quebecor buys Telus, less competition could mean higher cellphone bills, experts say",
       "published_at": "2026-11-18T15:40:00-05:00",
       "section": "Canada",
@@ -346,7 +385,7 @@
       "url": "https://www.cbc.ca/news/business/competition-bureau-gap-old-navy-advertising-9.7426966?cmp=rss",
       "title": "Competition Bureau examining marketing practices by Gap, Old Navy",
       "published_at": "2026-11-18T15:21:02-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Competition Bureau is moving ahead with an investigation into whether clothing giants Gap and Old Navy are violating marketing regulations by making potentially false or misleading claims in their advertising.",
       "bias_heuristic": {
         "article_type": "News",
@@ -485,19 +524,6 @@
       }
     },
     {
-      "id": "9feb9e07c3870d385f4ad3e53f89ed7b40f6827c",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315?cmp=rss",
-      "title": "Cadet leader says he's paralyzed from waist down after attack in Hamilton restaurant",
-      "published_at": "2026-11-18T09:39:10-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A cadet leader who underwent spinal surgery after a violent attack says he is currently paralyzed from the waist down and will\nrequire months of physical rehabilitation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.878,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "009acb97c6dd677444384f7ff9b18d474694e0dc",
       "url": "https://www.cbc.ca/news/business/waymo-california-ban-9.7426164?cmp=rss",
       "title": "Waymo temporarily pulls robotaxis from U.S. highways",
@@ -515,7 +541,7 @@
       "url": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
       "title": "Xi, Putin and Trump expected to meet for about an hour, Kremlin says",
       "published_at": "2026-11-18T07:21:51-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
       "bias_heuristic": {
         "article_type": "News",
@@ -585,71 +611,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.927,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "957797f6d5c38e749eaae2aa407e6b1074443537",
-      "url": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
-      "title": "Big tech getting glimpse at espionage threats, which extend beyond sector",
-      "published_at": "2026-11-18T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a12d47502eb7d792ad0068b8fa78046247507f19",
-      "url": "https://www.cbc.ca/news/world/air-traffic-control-nav-canada-9.7425458?cmp=rss",
-      "title": "What the U.S. might learn from Canada's privatized air traffic control",
-      "published_at": "2026-11-18T04:00:00-05:00",
-      "section": "World",
-      "summary_auto": "It's not often that commentators from the U.S. political right will look to Canada as a model for how their country should run a particular function. Yet the grounding of thousands of flights days ago has sparked renewed calls for the U.S. to privatize its air traffic control system like Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "4dbc2c09be4636ca5201f0d401181dfc7dd1680b",
-      "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
-      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
-      "published_at": "2026-11-18T04:00:00-05:00",
-      "section": "World",
-      "summary_auto": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "022b0f148016ac0958d9b4bbc83bc50078da0cc3",
-      "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
-      "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
-      "published_at": "2026-11-17T22:56:54-05:00",
-      "section": "World",
-      "summary_auto": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S. President Donald Trump repeatedly won by wide margins.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ba9ecad6a177523b2041d9f21a4f9074146c36c6",
-      "url": "https://www.cbc.ca/news/world/cambridge-dictionary-2026-word-of-the-year-9.7426019?cmp=rss",
-      "title": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-      "published_at": "2026-11-17T21:02:44-05:00",
-      "section": "World",
-      "summary_auto": "The Cambridge Dictionary has chosen \"human\" as its word of the year, reflecting concerns about artificial intelligence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
         "subjectivity_hint": "medium"
       }
     }
