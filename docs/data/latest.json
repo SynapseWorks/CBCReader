@@ -1,8 +1,424 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-18T13:33:28.250364-05:00",
+  "generated_at": "2026-11-18T20:35:52.297689-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3fb117c4a25f51f402235e41fafcabc46ff2ecb9",
+      "url": "https://www.cbc.ca/player/play/9.7427592?cmp=rss",
+      "title": "Ford apologizes for 'poor' French",
+      "published_at": "2026-11-18T20:11:09-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Premier Doug Ford attempted to deliver a few lines in French while speaking at a Chamber of Commerce of Metropolitan Montreal event on Tuesday. He later told the crowd the thought of speaking French stressed him out so much he was 'up all night.'",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "c4bb9681587c0f25e8505535db49e48ec8a04018",
+      "url": "https://www.cbc.ca/news/canada/manitoba/impaired-driving-stay-proceedings-rcmp-officer-9.7427281?cmp=rss",
+      "title": "Manitoba judge stays charge in 'rare' decision after Mountie failed to disclose relationship with key witness",
+      "published_at": "2026-11-18T19:46:58-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Drunk driving charges against a woman were stayed after an investigating RCMP officer appeared to have deliberately withheld information about his romantic relationship with a key witness, a Manitoba judge ruled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38ab1ee93fd4ac4032882afc3d01ad9b6f6fc96f",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305?cmp=rss",
+      "title": "Grand Theft Auto VI release means Surrey, B.C., landscaping company employees get the day off",
+      "published_at": "2026-11-18T19:40:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Surrey, B.C., landscaping company is giving its employees the day off on Thursday when the much-hyped Grand Theft Auto VI video game finally releases, in what has been billed as perhaps the biggest entertainment launch ever.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e223ae190197737593d0cb64de96e5fd77b4d977",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-justice-duncan-beveridge-9.7427275?cmp=rss",
+      "title": "P.E.I. tasks retired N.S. justice to lead independent review into how police handled Byron Carr murder case",
+      "published_at": "2026-11-18T19:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Prince Edward Island government has found the person it wants to lead an independent review into how police handled the Byron Carr murder investigation, and that will be retired Nova Scotia justice Duncan Beveridge.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "cf5888002f6a2f8dad06b396350e18f1d7a90e52",
+      "url": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003?cmp=rss",
+      "title": "Judge orders Kinew government to disclose who excluded Tesla from Manitoba EV rebate program and why",
+      "published_at": "2026-11-18T19:22:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Manitoba judge has taken the \"exceptional and unusual\" step of ordering the NDP government to disclose who made the decision to exclude Tesla Motors Canada from the province's electric-vehicle rebate program — and explain why that decision was made.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e2bc4472cb2b847126abaa9462cd989c14f4ff69",
+      "url": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss",
+      "title": "Crimea bridge attacked again, Russian governor says",
+      "published_at": "2026-11-18T19:10:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Traffic was temporarily suspended over the Crimean Bridge after ‌an attack, Sergei Aksyonov, Crimea's Russian-installed governor, said on Telegram on Thursday, adding ​that assessment of the ​damage was underway.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "565d7fdcd36a923ac2d6b99a3d5427a7ed07ec79",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-oil-gas-well-cleanup-fund-9.7427452?cmp=rss",
+      "title": "Alberta bill would force oil and gas companies to save money for cleanup of each new well drilled",
+      "published_at": "2026-11-18T19:09:03-05:00",
+      "section": "Canada",
+      "summary_auto": "The Alberta government has introduced legislation that would require oil and gas companies to set aside funds for the future cleanup of every new well drilled.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.751,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1c3714ebb7b10e4aabffc62296b8c28828cc88b8",
+      "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856?cmp=rss",
+      "title": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
+      "published_at": "2026-11-18T18:58:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Anthropic has set a stock price of $83 US per share for its hotly anticipated initial public offering, with shares of the U.S. artificial intelligence giant set to debut on the Nasdaq exchange on Thursday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.878,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "5fcd0cd517b1bec7cefb3c2fd69480ad2c6b1a92",
+      "url": "https://www.cbc.ca/player/play/9.7427222?cmp=rss",
+      "title": "Group claiming responsibility for Montreal Metro vandalism cites rising cost of living",
+      "published_at": "2026-11-18T18:26:18-05:00",
+      "section": "Canada",
+      "summary_auto": "A group of masked individuals vandalized the Université-de-Montréal station at around 5 a.m. Wednesday. The STM says the individuals brought in tools, damaging toll collection equipment, turnstiles and the attendant’s booth — all in less than two minutes.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bebcf9ca88b6ac25b7b7a40ee3b55f1242873460",
+      "url": "https://www.cbc.ca/news/world/florida-pastor-haiti-president-assassination-9.7427251?cmp=rss",
+      "title": "Florida pastor convicted of U.S. charges in 2021 killing of Haitian president",
+      "published_at": "2026-11-18T17:46:17-05:00",
+      "section": "World",
+      "summary_auto": "A Florida pastor with dual Haitian-American citizenship was convicted Wednesday of U.S. charges arising from the 2021 assassination of Haitian president Jovenel Moïse, a killing that plunged the Caribbean nation into deep turmoil.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.961,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ed1b776f4c5b20a2636bac33e6b2dc1599c1c780",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/first-nations-health-watchdog-investigating-boy-surgery-9.7426924?cmp=rss",
+      "title": "First Nations health watchdog investigating how Sask. boy lost small intestine after routine surgery",
+      "published_at": "2026-11-18T17:39:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Saskatchewan's First Nations Health Ombudsperson is investigating how a Regina boy lost his small intestine after a routine surgery for appendicitis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a521e470c1b109a1eb9a37c1567ff8444a9f7b54",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/rob-manfred-mlb-team-owners-salary-cap-lockout-9.7427289?cmp=rss",
+      "title": "MLB commissioner says owners won't compromise on salary cap, leaving sport headed to lockout",
+      "published_at": "2026-11-18T17:35:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Major League Baseball commissioner Rob Manfred says team owners will not move off their demand for a salary cap, leaving the sport on track for a lockout starting Dec. 2 that could threaten the 2027 season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "531d3a8945f754950b5f303351b962ec6614c268",
+      "url": "https://www.cbc.ca/player/play/9.7427166?cmp=rss",
+      "title": "New grad rules for Alberta high schools have people talking",
+      "published_at": "2026-11-18T17:13:31-05:00",
+      "section": "Canada",
+      "summary_auto": "Trading English for phys ed? Alberta's government says students entering high school in 2028 will only need 47 credits in core classes, down from the current 56. The government's new requirements mean that students will only need to complete one senior level course in either English or social studies, while senior level math and science classes will still be optional. What will be mandatory though is physical education.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "51d792bc744324020a66361f642c2973fdb5a63b",
+      "url": "https://www.cbc.ca/radio/asithappens/mia-latter-russell-brand-age-of-consent-9.7427011?cmp=rss",
+      "title": "She says Russell Brand sexually assaulted her when she was 16. She's waiving her anonymity to speak out",
+      "published_at": "2026-11-18T17:13:12-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Mia Latter has decided to waive her legal right to anonymity and speak publicly about her teenage relationship with disgraced actor Russell Brand. She's calling for changes to the U.K.'s age-of-consent laws.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1492fe6084b72a637146bf9539601667025b9513",
+      "url": "https://www.cbc.ca/news/politics/air-force-major-charged-negligence-abuse-9.7427221?cmp=rss",
+      "title": "Canadian Air Force major charged with negligent performance, abuse of subordinates",
+      "published_at": "2026-11-18T17:00:59-05:00",
+      "section": "Canada",
+      "summary_auto": "Maj. Peter Headley has been charged with four military service offences related to his time as commander of Air Task Force Prestwick in the United Kingdom.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.771,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "78f57f4e4c91eb20a9d5fbf7575ce07fa58b90c0",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/student-protests-cell-phone-ban-9.7426743?cmp=rss",
+      "title": "High school students across N.B. walk out over cellphone ban",
+      "published_at": "2026-11-18T16:33:47-05:00",
+      "section": "Canada",
+      "summary_auto": "Hundreds of students at New Brunswick high schools walked out Wednesday afternoon to protest against the coming broader ban on cellphones in schools.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.848,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b360fcbaa3f2cfc1fc6b1e48d905828967eb04ef",
+      "url": "https://www.cbc.ca/news/canada/toronto/grand-theft-auto-inspired-video-game-set-in-toronto-9.7427072?cmp=rss",
+      "title": "GTA VI in the GTA? Man builds Grand Theft Auto-inspired video game set in Toronto",
+      "published_at": "2026-11-18T16:31:46-05:00",
+      "section": "Canada",
+      "summary_auto": "Ahead of one of the most anticipated video game releases of the decade, one designer has created a made-in-Toronto tribute that builds on the visual style and gameplay of Grand Theft Auto.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "35d8119085310de7af5bbd614bda38594b209a3d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854?cmp=rss",
+      "title": "Gitxsan hereditary chiefs call for halt to rail cargo as diesel leaks from train derailment along river in B.C.",
+      "published_at": "2026-11-18T16:26:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A second landslide and train derailment into the Skeena River in eight months has reignited calls by the Gitxsan Huwilp Government to immediately stop train hauling in the vicinity of its traditional territory.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0e5d948d13b71ee6067ddb948ae97e38aea17ab2",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-proposed-restrictions-data-centres-9.7427099?cmp=rss",
+      "title": "Alberta government proposing more restrictions on upcoming data centre projects",
+      "published_at": "2026-11-18T16:13:18-05:00",
+      "section": "Canada",
+      "summary_auto": "The Alberta government is putting forward a series of restrictions on upcoming data centre projects as it sees an uptick in proposals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a23078e46dfaf7d6385ccf206fd3d9338e19a188",
+      "url": "https://www.cbc.ca/player/play/9.7426981?cmp=rss",
+      "title": "Who will win the battle over Trump’s ‘Trash Island’? | About That",
+      "published_at": "2026-11-18T15:58:31-05:00",
+      "section": "World",
+      "summary_auto": "A U.S. federal judge blocked the closure of Washington's East Potomac golf course, just hours before President Donald Trump promised to shut it down for a massive renovation. Andrew Chang explains the fight over what Trump calls 'Trash Island' — and why some oppose his plans to rebuild the existing century-old course. (Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.361,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b1b38074317c78f0cd11f213b67f8c2821685015",
+      "url": "https://www.cbc.ca/news/world/trump-tech-outages-jd-vance-homeland-security-intelligence-9.7426781?cmp=rss",
+      "title": "Trump's team scrambles to calm U.S. fears over tech outages",
+      "published_at": "2026-11-18T15:49:14-05:00",
+      "section": "World",
+      "summary_auto": "After U.S. President Donald Trump brushed aside concern over the past week's series of tech outages, members of his adminstration ramped up efforts Wednesday to try to reassure the American public there truly is no reason to panic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "baa61b71ce239b3a5ea999af88a76e206dd2301c",
+      "url": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945?cmp=rss",
+      "title": "Would a Quebecor-Telus merger mean higher cellphone bills for Canadians?",
+      "published_at": "2026-11-18T15:40:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Quebecor says its proposal to acquire one of the four main Canadian telecoms will lead to lower costs for consumers, but policy analysts and competition advocates aren't quite buying it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "baa61b71ce239b3a5ea999af88a76e206dd2301c",
+      "url": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945?cmp=rss",
+      "title": "If Quebecor buys Telus, less competition could mean higher cellphone bills, experts say",
+      "published_at": "2026-11-18T15:40:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Quebecor says its proposal to acquire one of the four main Canadian telecoms will lead to lower costs for consumers, but policy analysts and competition advocates aren't quite buying it.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.153,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "061f79822627ce12d64acd6e131c721f17e3dc2d",
+      "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",
+      "title": "Cadets being told to stand down as Canada adds billions to defence",
+      "published_at": "2026-11-18T15:38:54-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financial pressures despite billions in new defence spending.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "443d99c917a1b83d4b0621e6a00ab2d03dd5accd",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/emo-train-derailment-investigation-completed-9.7426818?cmp=rss",
+      "title": "CN freight train derailment in northwestern Ontario last year highlights risks of wheels built before 2003: TSB report",
+      "published_at": "2026-11-18T15:36:38-05:00",
+      "section": "Canada",
+      "summary_auto": "The Transportation Safety Board of Canada says a train derailment in northwestern Ontario last year highlights safety risks posed by wheels built before 2003, when manufacturing standards were updated. On Feb. 4, 2025, a CN freight train was travelling west from Fort Frances to Winnipeg when 14 loaded hopper cars carrying fertilizer derailed near Emo. Here's what was determined from the investigation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "89b6ebd8a010467201c530f0321dce9b3bc98702",
+      "url": "https://www.cbc.ca/news/canada/montreal/bishops-university-womens-varsity-rugby-gaitors-9.7426853?cmp=rss",
+      "title": "Women's rugby players fight to save team after Bishop's University cuts varsity program",
+      "published_at": "2026-11-18T15:26:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Bishop’s University in Sherbrooke, Que., has decided to cut its women’s varsity rugby team. The news comes as Canada’s women’s rugby team ranks third in the world, and university varsity teams are a pipeline to fuel the national team roster.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7cc09aed4572d0f8ee3c3f158a85bcfd0524c6e6",
+      "url": "https://www.cbc.ca/news/business/competition-bureau-gap-old-navy-advertising-9.7426966?cmp=rss",
+      "title": "Competition Bureau examining marketing practices by Gap, Old Navy",
+      "published_at": "2026-11-18T15:21:02-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Competition Bureau is moving ahead with an investigation into whether clothing giants Gap and Old Navy are violating marketing regulations by making potentially false or misleading claims in their advertising.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0af456bc238d81a06588bcceba80a93964d9c026",
+      "url": "https://www.cbc.ca/news/health/measles-elimination-status-canada-us-mexico-9.7426328?cmp=rss",
+      "title": "What it will take for Canada to regain its measles elimination status",
+      "published_at": "2026-11-18T15:15:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The U.S., Bolivia and Mexico lost their measles elimination status this week, as Canada did this time last year. What would it take for Canada to regain its status?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "0af456bc238d81a06588bcceba80a93964d9c026",
+      "url": "https://www.cbc.ca/news/health/measles-elimination-status-canada-us-mexico-9.7426328?cmp=rss",
+      "title": "Low vaccine rates cost Canada its measles elimination status",
+      "published_at": "2026-11-18T15:15:00-05:00",
+      "section": "Health",
+      "summary_auto": "The U.S., Bolivia and Mexico lost their measles elimination status this week, as Canada did this time last year. What would it take for Canada to regain its status?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "de9d99083386c5f5a5c85f0dd30f3257788a3a2b",
+      "url": "https://www.cbc.ca/news/canada/calgary/canada-strong-pass-banff-national-park-9.7425708?cmp=rss",
+      "title": "Parks Canada budget cuts, tourism growth raise concerns for Canada Strong Pass return",
+      "published_at": "2026-11-18T15:11:25-05:00",
+      "section": "Canada",
+      "summary_auto": "The return of the Canada Strong Pass is getting mixed reviews. The pass will come back for a third year as Parks Canada is intending to lay off 517 full-time positions, and Banff National Park hit a record 4.5 million visitors.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0b38d87e9cf8a915b6ca98f7da1d5d1d6430267",
+      "url": "https://www.cbc.ca/news/politics/hoekstra-petition-9.7426916?cmp=rss",
+      "title": "Nearly 300,000 people sign petition demanding U.S. Ambassador Pete Hoekstra's removal",
+      "published_at": "2026-11-18T14:45:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 285,000 people have signed a petition asking the federal government to remove U.S. Ambassador Pete Hoekstra from Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd3cfb666b09d2fa224c8c528d3587bc21e37eb0",
+      "url": "https://www.cbc.ca/news/world/tech-outages-united-states-flights-emails-banking-9.7426436?cmp=rss",
+      "title": "Flights, banks, emails: What we know about a U.S. wave of tech outages",
+      "published_at": "2026-11-18T14:20:46-05:00",
+      "section": "World",
+      "summary_auto": "A string of technical outages across the U.S. has disrupted everything from air travel and banking to security systems, raising questions about whether the seemingly unrelated incidents are caused by a larger cybersecurity issue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "98ccdc2fafed01d91ad2dcb1b70b17ac8c18fb6d",
       "url": "https://www.cbc.ca/news/world/fiona-hippo-zoo-hat-9.7426251?cmp=rss",
@@ -21,7 +437,7 @@
       "url": "https://www.cbc.ca/news/world/us-democrats-house-leader-jeffries-9.7426505?cmp=rss",
       "title": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
       "published_at": "2026-11-18T12:03:55-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the U.S. House of Representatives, as he brushed past skeptics and was on track to make history as the country's first Black American with the gavel.",
       "bias_heuristic": {
         "article_type": "News",
@@ -34,24 +450,11 @@
       "url": "https://www.cbc.ca/news/entertainment/nathan-fielder-lookalike-contest-9.7425643?cmp=rss",
       "title": "Nathan Fielder lookalike contest crowns a deadpan winner",
       "published_at": "2026-11-18T11:41:28-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Dozens competed in a Nathan Fielder lookalike contest in Toronto on Tuesday, taking on business pitches, a staring contest and an improvised conversation with an Elizabeth Holmes impersonator.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.586,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "951fb9868a5e729488dcdb9d421862bae1db94fa",
-      "url": "https://www.cbc.ca/player/play/9.7426438?cmp=rss",
-      "title": "Russia can’t compete at the World Juniors. What about other sports?",
-      "published_at": "2026-11-18T11:36:52-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A CBC News analysis found at least a dozen international sports federations have quietly welcomed Russian athletes back to compete. It comes after the International Olympic Committee decided to start rolling back bans that were put in place following Russia's 2022",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -69,19 +472,6 @@
       }
     },
     {
-      "id": "9feb9e07c3870d385f4ad3e53f89ed7b40f6827c",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315?cmp=rss",
-      "title": "Cadet captain says he's paralyzed from waist down after attack while distributing Remembrance Day poppies",
-      "published_at": "2026-11-18T10:12:06-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "8419ef87efd86843ec0845ae0806c4cb0f06d81c",
       "url": "https://www.cbc.ca/news/canada/british-columbia/el-nino-ocean-temperatures-bc-9.7425742?cmp=rss",
       "title": "Record-high ocean temperatures off B.C. coast attributed to El Niño",
@@ -95,11 +485,24 @@
       }
     },
     {
+      "id": "9feb9e07c3870d385f4ad3e53f89ed7b40f6827c",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315?cmp=rss",
+      "title": "Cadet leader says he's paralyzed from waist down after attack in Hamilton restaurant",
+      "published_at": "2026-11-18T09:39:10-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A cadet leader who underwent spinal surgery after a violent attack says he is currently paralyzed from the waist down and will\nrequire months of physical rehabilitation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "009acb97c6dd677444384f7ff9b18d474694e0dc",
       "url": "https://www.cbc.ca/news/business/waymo-california-ban-9.7426164?cmp=rss",
       "title": "Waymo temporarily pulls robotaxis from U.S. highways",
       "published_at": "2026-11-18T07:45:44-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +515,7 @@
       "url": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
       "title": "Xi, Putin and Trump expected to meet for about an hour, Kremlin says",
       "published_at": "2026-11-18T07:21:51-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,7 +528,7 @@
       "url": "https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838?cmp=rss",
       "title": "Biologists are using AI to track individual birds by their songs alone",
       "published_at": "2026-11-18T07:05:00-05:00",
-      "section": "Canada",
+      "section": "Technology & Science",
       "summary_auto": "A paper published this month in Nature Methods relied on sound recordings and artificial intelligence to identify individual birds based on their songs alone.",
       "bias_heuristic": {
         "article_type": "News",
@@ -134,37 +537,11 @@
       }
     },
     {
-      "id": "7331af6c738281c88715747aa1658dcdc469d370",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-flavoured-vapes-ban-9.7425719?cmp=rss",
-      "title": "Proposed flavoured vape ban 'years in the making,' says N.L.'s top doctor",
-      "published_at": "2026-11-18T07:01:18-05:00",
-      "section": "Canada",
-      "summary_auto": "Newfoundland and Labrador will give retailers at least six months from when the current sitting of the House of Assembly wraps up, but intends to see flavoured vape products removed from store shelves.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7c33dc7079adeb400413c4529b406dd40ce1fbd6",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-glace-bay-pizza-67-collapse-explosion-fire-9.7426154?cmp=rss",
-      "title": "Apartment building collapses after explosion, fire in Glace Bay, N.S.",
-      "published_at": "2026-11-18T06:58:59-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Cape Breton Regional Municipality say 17 people were reported injured in the early morning incident, and it's not clear yet if there were any fatalities.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.908,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "5e816e7c0f4f5368c031d39e4e6349a119046d3f",
       "url": "https://www.cbc.ca/news/entertainment/grand-theft-auto-vi-review-9.7425005?cmp=rss",
       "title": "Grand Theft Auto VI is a spectacular, cynical and sometimes shallow joyride through the American psyche",
       "published_at": "2026-11-18T06:00:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Beyond an impossibly lavish presentation, the latest Grand Theft Auto game is mostly a familiar formula with some smart additions — and for the vast majority of players, it's exactly what they've been waiting for.",
       "bias_heuristic": {
         "article_type": "News",
@@ -173,24 +550,11 @@
       }
     },
     {
-      "id": "32b80b93f5637a7011b0bea5dd418a526e75fa9f",
-      "url": "https://www.cbc.ca/news/canada/calgary/medicine-hat-seeks-to-become-drone-city-as-defence-dollars-roll-in-9.7425670?cmp=rss",
-      "title": "Medicine Hat, Alta., seeks to become 'drone city' as defence dollars roll in",
-      "published_at": "2026-11-18T06:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "As Canada boosts its military spending, officials in Medicine Hat, Alta., are seeking out new investment and economic activity tied to new private sector engagement by the Canadian Forces at CFB Suffield.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "48399d598f33cec89b8c634c5e71334c6a21923f",
       "url": "https://www.cbc.ca/player/play/9.7426142?cmp=rss",
       "title": "Why SNL's 'Sister' sketch felt too real",
       "published_at": "2026-11-18T05:49:43-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "SNL's 'Sister' sketch went viral after it satirized the toll that caregiving for aging parents can play, particularly on women. CBC's Nick Logan breaks down the stats behind caregiving in Canada and why some viewers said the sketch hit hard.",
       "bias_heuristic": {
         "article_type": "News",
@@ -203,25 +567,12 @@
       "url": "https://www.cbc.ca/news/science/voyager-1-light-day-9.7425162?cmp=rss",
       "title": "The new milestone Voyager 1 just crossed in interstellar space",
       "published_at": "2026-11-18T05:15:00-05:00",
-      "section": "Top Stories",
+      "section": "Technology & Science",
       "summary_auto": "Voyager 1, already the farthest a human-made object has ever gone, has crossed the arbitrary but important threshold of a light day. It now takes 24 hours to send a message to the probe, now in interstellar space.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "285cf510ee77223c7251d0bb46acef19eb1b4a21",
-      "url": "https://www.cbc.ca/news/canada/manitoba/wait-times-mri-ultrasound-ct-scan-9.7424042?cmp=rss",
-      "title": "Wait for the most common diagnostic scans in Manitoba 'worse now than it ever has been': doctor",
-      "published_at": "2026-11-18T05:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Doctors and patients say a diagnostic wait time crisis is putting people's lives at risk, as the highest number of Manitobans on record wait for scans that help diagnose brain tumours, heart disease and other potentially deadly medical conditions.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -238,55 +589,16 @@
       }
     },
     {
-      "id": "4e01abfa136f5560073193115526fc71863f1b2a",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/zachary-dunphy-bail-denied-9.7425265?cmp=rss",
-      "title": "‘Not anymore’: N.L. judge denies bail to man who bragged about Canada's easy release",
-      "published_at": "2026-11-18T04:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Justice Vikas Khaladkar roundly rejected a bail proposal from a man who texted the sister of his former intimate partner, saying: \"I’ll get bail. This is Canada. She’ll be with me by the end of the day.”",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "60bf6a6109aabe142aaf024cc7d056a8dd9942ee",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/body-cam-justice-system-9.7425438?cmp=rss",
-      "title": "Body cam footage could overload the justice system, warns senior Crown prosecutor",
-      "published_at": "2026-11-18T04:30:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Body cameras can be a valuable source of evidence for the justice system, but it gives legal professionals a lot of extra footage to review. The head of the province’s Crown Attorney Association says there’s not enough resources for prosecutors to process body camera footage.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.643,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "50d41e10ac0c120dace90ad196090781346df22c",
-      "url": "https://www.cbc.ca/news/canada/montreal/saqijuq-mobile-intervention-team-kuujjuaq-quebec-police-nunavik-9.7425441?cmp=rss",
-      "title": "Fatal police shootings in Nunavik shattered trust. Can these new intervention teams help?",
+      "id": "957797f6d5c38e749eaae2aa407e6b1074443537",
+      "url": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
+      "title": "Big tech getting glimpse at espionage threats, which extend beyond sector",
       "published_at": "2026-11-18T04:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Saqijuq's Mobile Intervention Team (MIT) in Kuujjuaq is pairing intervention workers with officers in an effort to reduce police involvement, arrests and use of force. It comes on the heels of years of distrust between Inuit and the Nunavik Police Service.",
+      "summary_auto": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.743,
+        "sentiment": -0.827,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4dbc2c09be4636ca5201f0d401181dfc7dd1680b",
-      "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
-      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
-      "published_at": "2026-11-18T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -303,16 +615,16 @@
       }
     },
     {
-      "id": "957797f6d5c38e749eaae2aa407e6b1074443537",
-      "url": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
-      "title": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
+      "id": "4dbc2c09be4636ca5201f0d401181dfc7dd1680b",
+      "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
+      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
       "published_at": "2026-11-18T04:00:00-05:00",
       "section": "World",
-      "summary_auto": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
+      "summary_auto": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.637,
-        "subjectivity_hint": "low"
+        "sentiment": 0.296,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -320,24 +632,11 @@
       "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
       "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
       "published_at": "2026-11-17T22:56:54-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S. President Donald Trump repeatedly won by wide margins.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.758,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "cb4d8eba458fe31aa23c8492b735ebad5343306f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/prince-george-save-on-arrest-9.7425921?cmp=rss",
-      "title": "3 charged after attack sends 20-year-old Save-On-Foods employee to hospital",
-      "published_at": "2026-11-17T21:06:12-05:00",
-      "section": "Canada",
-      "summary_auto": "The store's ownership group says the trio were attempting to shoplift $2,600 of groceries.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -352,318 +651,6 @@
         "article_type": "News",
         "sentiment": 0.718,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "f43e0150dc5d29fbc07205ac198719c9658703f5",
-      "url": "https://www.cbc.ca/news/world/transgender-us-army-troops-appeal-9.7425966?cmp=rss",
-      "title": "Appeals court blocks Pentagon from forcing transgender troops out of the U.S. army",
-      "published_at": "2026-11-17T20:10:08-05:00",
-      "section": "World",
-      "summary_auto": "A U.S. federal appeals court on Tuesday blocked the Pentagon from forcing more than two dozen transgender troops out of the military, several months after it found that President Donald Trump's administration unlawfully imposed the ban.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d1d3a0e1421ea533160e38cf1416e4f3522f3be8",
-      "url": "https://www.cbc.ca/player/play/9.7424221?cmp=rss",
-      "title": "When Canada’s health care fails to be ‘universal’",
-      "published_at": "2026-11-17T19:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "People living in parts of northern Ontario say they’re being denied access to critical medical care — sometimes with deadly consequences. For The National, CBC’s Nick Purdon takes a closer look at what happens when the health-care system fails to be truly universal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2e3717b536ceb9feee3ac42f32ef5d21366ba69a",
-      "url": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862?cmp=rss",
-      "title": "Elks celebrate 1st Grey Cup championship in more than a decade",
-      "published_at": "2026-11-17T18:59:13-05:00",
-      "section": "Canada",
-      "summary_auto": "Edmonton Elks players hoisted a sign saying “City of Champions” in front of thousands of fans wearing green and gold at the Expo Centre on Tuesday evening to celebrate the football club’s first Grey Cup championship since 2015.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.927,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f417b6c37cfae52157e9f9c6b6687b1b295a49ec",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625?cmp=rss",
-      "title": "Nicholas Herring's Giller Prize win a 'huge opportunity' for P.E.I. authors, says literary community",
-      "published_at": "2026-11-17T18:16:45-05:00",
-      "section": "Canada",
-      "summary_auto": "After a Prince Edward Island author won Canada's most prestigious prize for literature, the province's literary community says it could mean more opportunities for writers here at home.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.97,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "79737629a0ab651a228f95edd3f3c1bc475773ba",
-      "url": "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620?cmp=rss",
-      "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
-      "published_at": "2026-11-17T17:56:59-05:00",
-      "section": "World",
-      "summary_auto": "Nvidia board chair Harvey Jones opened an investor conference call on Tuesday by saying the AI chip company would ‌not rehire co-founder Jensen Huang as CEO and would not take questions on the matter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "051107039de3260097039fd23ef05e405daf5602",
-      "url": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605?cmp=rss",
-      "title": "Oprah Winfrey names book by Ontario-born author as her latest book club pick",
-      "published_at": "2026-11-17T17:28:11-05:00",
-      "section": "Canada",
-      "summary_auto": "Previous Canadian books featured on Oprah’s Book Club include A Fine Balance by Rohinton Mistry and Fall on Your Knees by Ann-Marie Macdonald.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f0c2f4a88fbcf1057617dfd6b65881ff3fae3a10",
-      "url": "https://www.cbc.ca/news/world/outages-faa-banks-microsoft-nsa-are-they-related-9.7425366?cmp=rss",
-      "title": "Multiple tech outages have Americans asking: Can somebody fix this?",
-      "published_at": "2026-11-17T17:18:44-05:00",
-      "section": "World",
-      "summary_auto": "First, Microsoft Outlook goes down. Next, flights are grounded across the U.S. over a communications outage. Then, customers of three major U.S. banks can't access their accounts online. Finally, the agency whose mandate includes protecting U.S. government communications networks finds its own secure communications network offline.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "337f7bf677da7c24b2aeaf94d19086126cdd36f1",
-      "url": "https://www.cbc.ca/player/play/9.7425656?cmp=rss",
-      "title": "Why jackrabbits keep storming the field at CFL games in Calgary",
-      "published_at": "2026-11-17T17:18:38-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "A jackrabbit went viral after darting across the field at the CFL Grey Cup — and this isn’t the first time it’s happened. CBC Kids News contributor Matthew Hines explains why jackrabbits keep storming McMahon Stadium in Calgary, Alberta.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.052,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d210f551faafd1352f8b0c0400de16898729fb0d",
-      "url": "https://www.cbc.ca/news/world/faa-airport-ground-stop-routers-installation-halted-9.7425635?cmp=rss",
-      "title": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
-      "published_at": "2026-11-17T17:17:13-05:00",
-      "section": "World",
-      "summary_auto": "The U.S. Federal Aviation Administration has paused installing routers linked to last week's ground stop that caused chaos for travellers, the agency said Tuesday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "62b9c1f8b1c0ddeabcaddfcf5751dc37970051dd",
-      "url": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
-      "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
-      "published_at": "2026-11-17T17:15:29-05:00",
-      "section": "World",
-      "summary_auto": "The organization is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "8a8ef840178e5633621ef04e022cceb15ff12e97",
-      "url": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597?cmp=rss",
-      "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
-      "published_at": "2026-11-17T17:05:09-05:00",
-      "section": "Canada",
-      "summary_auto": "As Opposition MPs call for more study, the Liberal government has limited debate on its proposed changes to Canada's medical assistance in dying law.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "286ef46a01ddf64166dbf4a98f5d9665778cc79e",
-      "url": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445?cmp=rss",
-      "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
-      "published_at": "2026-11-17T16:52:34-05:00",
-      "section": "Canada",
-      "summary_auto": "The federal government is writing off billions of dollars' worth of outstanding debt related to COVID-19 benefits sent to individuals it later deemed ineligible.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6d4b7302d4f05faa6c9a77607f22f57c3af573e7",
-      "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
-      "title": "IIHF confirms cyberattack after website goes offline",
-      "published_at": "2026-11-17T16:44:05-05:00",
-      "section": "World",
-      "summary_auto": "The International Ice Hockey Federation has confirmed it has been targeted by a cyberattack, with the organization's website offline since Tuesday morning.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.25,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e1b6a20786c01c2e5d61afce649ba6ed46f230e9",
-      "url": "https://www.cbc.ca/news/entertainment/game-of-the-year-9.7425430?cmp=rss",
-      "title": "Grand Theft Auto VI nominated for game of the year, even though it isn't out yet",
-      "published_at": "2026-11-17T16:35:44-05:00",
-      "section": "World",
-      "summary_auto": "Grand Theft Auto VI has yet to be released to the general public, but already it's being touted as the potential game of the year. The Game Awards released its nomination list on Tuesday, with Grand Theft Auto VI receiving eight nominations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.839,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6958cd1f26b721eea417e11ec03831415db1e3c1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423?cmp=rss",
-      "title": "B.C. caregivers explain why a recent SNL sketch has struck a nerve",
-      "published_at": "2026-11-17T16:22:33-05:00",
-      "section": "Canada",
-      "summary_auto": "What started as a joke on a late-night sketch comedy show quickly blew up online in the hours following its airing. It’s garnered more than 11.9 million views on Instagram alone, and shared hundreds of thousands of times.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.477,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6958cd1f26b721eea417e11ec03831415db1e3c1",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423?cmp=rss",
-      "title": "An SNL sketch about elder care has gone viral. B.C. caregivers explain why",
-      "published_at": "2026-11-17T16:22:33-05:00",
-      "section": "Health",
-      "summary_auto": "What started as a joke on a late-night sketch comedy show quickly blew up online in the hours following its airing. It’s garnered more than 11.9 million views on Instagram alone, and shared hundreds of thousands of times.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.807,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "63105e37bd9653ed28b0ecabc084ae56a6d4b281",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/scam-minor-hockey-teams-update-9.7424983?cmp=rss",
-      "title": "Community rallies around 2 N.B. minor hockey teams who fell victim to phishing scam",
-      "published_at": "2026-11-17T16:21:08-05:00",
-      "section": "Canada",
-      "summary_auto": "The community has rallied around two Oromocto Minor Hockey Association teams that fell victim to a phishing scam and lost about $750 each.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.917,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b011094573730cf54ca28dc9c0d10f25a452b4b3",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535?cmp=rss",
-      "title": "2 hospitalized after CN Rail train derails into Skeena River near Terrace, B.C.",
-      "published_at": "2026-11-17T16:06:04-05:00",
-      "section": "Canada",
-      "summary_auto": "Police say injuries are not life-threatening and cleanup is underway.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e58a7446f7565c54541787972cfd3f28cde715d9",
-      "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
-      "title": "Canada's national emergency alert system will sound off Wednesday for testing",
-      "published_at": "2026-11-17T15:33:35-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada's National Public Alerting System is running tests of its Alert Ready system Wednesday across all provinces and territories. Alert Ready delivers alerts about critical events such as tornadoes, flooding, fires and Amber alerts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.691,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e7b1adc45806006e0f06619e0946dfa9091f7ed1",
-      "url": "https://www.cbc.ca/news/canada/calgary/st-francis-high-school-calgary-food-delivery-app-9.7425320?cmp=rss",
-      "title": "Calgary high school says too many students are getting food delivered",
-      "published_at": "2026-11-17T14:35:39-05:00",
-      "section": "Canada",
-      "summary_auto": "A Calgary high school sent parents a memo this week asking them to rein in their children’s increasing use of food delivery apps like Uber Eats and DoorDash during school hours.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.361,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "661ccc070e49815d77885670e1ea4627196d2a9c",
-      "url": "https://www.cbc.ca/news/world/united-kingdom-israel-west-bank-construction-companies-settlements-9.7425375?cmp=rss",
-      "title": "U.K. sanctions Israeli companies involved in building illegal settlements in West Bank",
-      "published_at": "2026-11-17T14:27:10-05:00",
-      "section": "World",
-      "summary_auto": "Britain said on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank, as part of its effort to protect the idea of a two-state solution.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.226,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "795720d253cbb97c37e79bca01650e00d45a2b44",
-      "url": "https://www.cbc.ca/news/entertainment/best-new-artist-grammys-2027-9.7425181?cmp=rss",
-      "title": "Meet the 2027 Grammy best new artist nominees",
-      "published_at": "2026-11-17T14:22:34-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The 2027 Grammy nominees for best new artist dropped Monday, putting a spotlight on who's reshaping the music scene. If you want to keep your playlist fresh — or at least know what everyone in the group chat is talking about — here are the names shaping the conversation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.9,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ed52c56c8929f25f1418e606e1c28035c3331189",
-      "url": "https://www.cbc.ca/news/politics/china-canada-tariffs-deal-extended-expanded-trade-pork-seafood-9.7424993?cmp=rss",
-      "title": "Canada has extended and expanded its deal with China. Here's how it affects different sectors",
-      "published_at": "2026-11-17T13:52:05-05:00",
-      "section": "Business",
-      "summary_auto": "Prime Minister Mark Carney and Chinese President Xi Jinping agreed to deepen economic and trade ties at a bilateral meeting in Shenzhen, China, on Tuesday, expanding a tariff deal to include relief on Canadian exports worth roughly $400 million, including some pork and seafood products. Here's a breakdown.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ac25b620268e535e54ffe6716a9ddd1b4a16eb98",
-      "url": "https://www.cbc.ca/news/entertainment/russell-brand-breaks-prison-rules-9.7425283?cmp=rss",
-      "title": "Convicted rapist Russell Brand under investigation for claiming innocence from behind bars",
-      "published_at": "2026-11-17T13:51:41-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The Ministry of Justice in the U.K. is investigating whether comedian and convicted rapist Russell Brand is guilty of breaking prison rules after his wife shared a message from Brand on his YouTube channel claiming his innocence.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
       }
     }
   ]
