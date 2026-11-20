@@ -1,57 +1,252 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-20T04:30:50.219020-05:00",
+  "generated_at": "2026-11-20T13:11:51.362738-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "be5cacfcece8ac564095ee3f9cacd6aef10dace8",
-      "url": "https://www.cbc.ca/news/canada/online-shopping-tactics-9.7425262?cmp=rss",
-      "title": "Ever buy more than you mean to when shopping online? This could be why",
-      "published_at": "2026-11-20T04:01:05-05:00",
+      "id": "9eb8d2de168b0e0fb264273cb3aa08436a6e8b69",
+      "url": "https://www.cbc.ca/news/world/ny-gupta-sentencing-pannun-plot-us-canada-9.7429637?cmp=rss",
+      "title": "Nikhil Gupta sentenced to over 19 years in prison for plot to kill U.S.-Canadian activist",
+      "published_at": "2026-11-20T12:55:07-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Indian man was sentenced to more than 19 years in prison in a federal court in New York on Friday after admitting guilt in a plot to kill dual U.S.-Canadian citizen Gurpatwant Pannun.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.96,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f032870a7881e30c4ba81dc0bb88e85a0f6f63a",
+      "url": "https://www.cbc.ca/news/world/pearl-harbor-deaths-galle-johnson-9.7429562?cmp=rss",
+      "title": "2 U.S. veterans, who both survived Pearl Harbor attack, die on same day",
+      "published_at": "2026-11-20T10:24:28-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Two former U.S service members who were stationed at Pearl Harbor in Hawaii when Japan attacked in 1941 died on the same day last week, it has been learned.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.883,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "539aea780ee544fa9753a055b5874d3332275bd5",
+      "url": "https://www.cbc.ca/news/canada/hamilton/leaders-respond-to-pro-nazi-demonstration-9.7428715?cmp=rss",
+      "title": "White nationalist demonstrators need to 'get out of our city,' Hamilton mayor says at 1st news conference",
+      "published_at": "2026-11-20T10:21:52-05:00",
+      "section": "Top Stories",
+      "summary_auto": "After a demonstration that witnesses said included pro-Nazi chants, Hamilton community leaders are calling for a city-wide response to white supremacy and anti-immigrant hate. New Mayor Keanin Loomis's first news conference addressed the issue.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5271ce8203599fca5152bde0744b036bfe056eed",
+      "url": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534?cmp=rss",
+      "title": "Nasdaq wipes out 2026 gains, S&P 500 falls into correction territory",
+      "published_at": "2026-11-20T09:04:38-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
+        "sentiment": 0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6291c19234e9b16790eedec8e4cea9a25d53f3e9",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/quensel-pulp-mill-federal-aid-questions-9.7428821?cmp=rss",
+      "title": "MP demands answers over $100M federal aid given to company curtailing Quesnel pulp mill",
+      "published_at": "2026-11-20T09:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Todd Doherty, the MP for Cariboo-Prince George-Omineca, questioned the federal government over its tariff loan program after Millar Western Forest Products halted operations at its Quesnel pulp mill following the receipt of $100 million in federal support.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3d72cfac7283a1acc6e90337c400efec09769aa7",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384?cmp=rss",
+      "title": "B.C. premier to be sworn in, announce cabinet at Government House",
+      "published_at": "2026-11-20T08:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Lorne Doerkson will be sworn in on Friday as B.C. 's 38th premier by Lt.-Gov. Wendy Cocchia, alongside his cabinet.",
+      "bias_heuristic": {
+        "article_type": "News",
         "sentiment": 0.0,
-        "subjectivity_hint": "medium"
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "24731c11b4cc502156a8a1b50327c29f436500c2",
+      "url": "https://www.cbc.ca/news/entertainment/gta6-parents-kids-tips-9.7425673?cmp=rss",
+      "title": "Your kid wants to play Grand Theft Auto VI? Here's what you need to know",
+      "published_at": "2026-11-20T08:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The latest Grand Theft Auto instalment continues in the franchise tradition of riling folks up with its mature content, inevitably boosting the game's illicit allure for kids. Experts share tips on navigating its release with young gamers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "060cf129dc6a70a9d409c3e3e399f3f2834e17df",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898?cmp=rss",
+      "title": "Canadian military will keep firing howitzers to trigger B.C. avalanches, pausing plan to end program",
+      "published_at": "2026-11-20T07:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Parks Canada and the Canadian Armed Forces say that after \"further consideration,\" they no longer have plans to end Operation Palaci, a long-running avalanche control program in Rogers Pass through the Selkirk Mountains in Glacier National Park.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "low"
       }
     },
     {
       "id": "9978ea4d259b7a73990afe2ecdc79eeb75cc252a",
       "url": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
       "title": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
-      "published_at": "2026-11-20T04:00:00-05:00",
+      "published_at": "2026-11-20T06:39:04-05:00",
       "section": "Top Stories",
-      "summary_auto": "A young Canadian woman travelled to Turkey after graduating from medical school. In her last days there, she fell ill and died within hours. Authorities there blame food poisoning, but a joint investigation by Enquête and the fifth estate revealed 12 similar deaths and a different poison at work.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.979,
+        "sentiment": -0.66,
         "subjectivity_hint": "medium"
       }
     },
     {
-      "id": "05479d208f5ccc31950762bb9ae954a22246935a",
-      "url": "https://www.cbc.ca/news/world/us-90-day-grid-outage-doomsday-prepping-stockpiling-9.7428489?cmp=rss",
-      "title": "Why some Americans are stockpiling for a 90-day power outage",
-      "published_at": "2026-11-20T04:00:00-05:00",
+      "id": "7207cf3c11d45ae7490e34785af960fa74e762ea",
+      "url": "https://www.cbc.ca/news/world/icj-genocide-decision-9.7429041?cmp=rss",
+      "title": "What an international court's historic genocide ruling could mean for future cases",
+      "published_at": "2026-11-20T06:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "The number of Americans stockpiling bottled water, non-perishable food and other emergency supplies has spiked over the past few weeks, a trend that has only accelerated in the wake of a series of high-profile tech outages.",
+      "summary_auto": "Legal experts say the International Court of Justice's first finding of genocide committed by a state may also help shape how others like it are decided in the future. Victims and activists also hoped it would open up new ways of delivering justice on the world stage.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.888,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "950974a4c2b6fb9e73ffcaea7f24c5c0e0de76d6",
+      "url": "https://www.cbc.ca/radio/frontburner/relax-its-probably-not-a-cyber-attack-9.7429069?cmp=rss",
+      "title": "Relax, it’s probably not a cyber attack",
+      "published_at": "2026-11-20T06:00:00-05:00",
+      "section": "World",
+      "summary_auto": "A string of major tech outages have had many people suspecting something coordinated and nefarious may be going on. What’s really happening?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.58,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "da27a54badcf1063eada2444d59c18abf67030f9",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/family-loses-food-truck-business-leomay-fusion-9.7426283?cmp=rss",
+      "title": "They finally had their dream food truck. Then it was repossessed",
+      "published_at": "2026-11-20T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A family ran their business, LeoMay Fusion, out of a food truck for about a year in rural Nova Scotia until RCMP officers showed up in mid-October and they learned a previous lender was repossessing the vehicle.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "fe115dd11329ec9e23342cb215ce1cc620d04d14",
-      "url": "https://www.cbc.ca/news/world/canadian-investment-dollars-are-one-of-the-villains-in-spains-election-fight-over-housing-9.7424797?cmp=rss",
-      "title": "Canadian investment dollars are one of the villains in Spain’s election fight over housing",
-      "published_at": "2026-11-20T04:00:00-05:00",
+      "id": "cf96b41fe8f7faad4e4498ce01d6b387c21d017a",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-driving-school-instructor-parents-upset-9.7428803?cmp=rss",
+      "title": "Parents say this N.S. driving school ‘ghosted’ them after they paid hundreds of dollars",
+      "published_at": "2026-11-20T05:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Canadian investment firms, led by Toronto-based Brookfield, have become central targets in Spain’s Nov. 29 election fight over housing affordability. Long-term Madrid tenants living in former public housing allege Brookfield plans to let their rent-controlled leases expire and sell their apartments at unaffordable market prices.",
+      "summary_auto": "Several parents with children enrolled in Marshall Law Driving Academy say they feel blindsided by its sudden closure last week after each paying the company hundreds of dollars.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.863,
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "385b69e96dfa5cffa31b78e6ffcd85f698f3f483",
+      "url": "https://www.cbc.ca/news/canada/manitoba/cfb-shilo-military-growth-brandon-9.7429044?cmp=rss",
+      "title": "Manitoba military base aims to nearly double in size over decade while growing area's economy",
+      "published_at": "2026-11-20T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "An influx of federal funding is poised to nearly double the size of CFB Shilo over the next 10 years, pumping hundreds of millions of dollars into surrounding southwestern Manitoba communities.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d3296800e78848d43ef8d44c85b2276499265df1",
+      "url": "https://www.cbc.ca/news/world/russian-attacks-on-kyiv-9.7429460?cmp=rss",
+      "title": "Russia fires hundreds of missiles, drones at Ukraine — and allegedly into Poland",
+      "published_at": "2026-11-20T04:53:27-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Russian firepower hit three bridges in Kyiv overnight, killing six people in the capital and two elsewhere according to Ukrainian ‌officials, while also allegedly entering Polish airspace, prompting a rebuke from Warsaw.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "be5cacfcece8ac564095ee3f9cacd6aef10dace8",
+      "url": "https://www.cbc.ca/news/canada/online-shopping-tactics-9.7425262?cmp=rss",
+      "title": "The sneaky design choices that get you to spend more money online",
+      "published_at": "2026-11-20T04:01:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fbc3edfedec8f771adb34417d267568257365c6c",
+      "url": "https://www.cbc.ca/news/world/mexico-u-s-caravan-migrants-9.7428712?cmp=rss",
+      "title": "Migrant caravan makes its way through Mexico to U.S. after Democrats win midterms",
+      "published_at": "2026-11-20T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Emboldened by the results of this month's U.S. midterm elections, giving the Democrats control of Congress in the new year, hundreds of migrants are making their way from southern Mexico to the border with the United States — despite having almost no chance of gaining entry.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.89,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "626300f2fb869b440ac8819c3375b4b7364873c9",
+      "url": "https://www.cbc.ca/news/entertainment/hunger-games-sunrise-on-the-reaping-review-9.7429249?cmp=rss",
+      "title": "Sunrise on the Reaping may be a prequel, but it's the worst way to start The Hunger Games",
+      "published_at": "2026-11-20T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The framing of The Hunger Games: Sunrise on the Reaping as a painful, nihilistic and unrelentingly dour backstory for a single character makes it a deeply strange movie when viewed as a standalone feature.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.953,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a92a5278e49fe65aaa7f749308d629b5c7864059",
+      "url": "https://www.cbc.ca/news/world/tenants-in-madrid-say-toronto-based-brookfield-is-pricing-them-out-of-formerly-public-housing-9.7424797?cmp=rss",
+      "title": "Tenants in Madrid say Toronto-based Brookfield is pricing them out of formerly public housing",
+      "published_at": "2026-11-20T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canadian investment firms, led by Toronto-based Brookfield, have become central targets in Spain's Nov. 29 election fight over housing affordability. Long-term Madrid tenants living in former public housing allege Brookfield plans to let their rent-controlled leases expire and sell their apartments at unaffordable market prices.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
         "subjectivity_hint": "low"
       }
     },
@@ -73,7 +268,7 @@
       "url": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902?cmp=rss",
       "title": "Health-care report highlights chronic conditions, inequities in northern Ontario First Nations",
       "published_at": "2026-11-20T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A new report by an alliance of 11 First Nations health and social service agencies highlights health-care inequities facing northern Ontario communities, including high rates of rheumatoid arthritis, chronic pancreatitis and substance use disorder.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,9 +277,22 @@
       }
     },
     {
+      "id": "d389f2ba6a63a4af4ec407e15380ee2ff08db48d",
+      "url": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908?cmp=rss",
+      "title": "Canada looks to break Starlink's grip on Arctic military communications",
+      "published_at": "2026-11-20T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Two Canadian high-tech firms have taken a step toward challenging Elon Musk's Starlink with plans for a homegrown military satellite communications system. Dominion Dynamics has signed a $2.2-million deal with Telesat to develop Arctic-ready technology, part of a broader effort to strengthen Canadian sovereignty and develop an uncrewed combat aircraft.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "aa0e2ab3e59a86f616eb6cf5bee5a75bbbd70d72",
       "url": "https://www.cbc.ca/news/canada/montreal/pickpack-quebec-election-signs-packages-9.7428705?cmp=rss",
-      "title": "Orders roll in for Quebec company's quirky shipping boxes made from campaign posters",
+      "title": "Premier packaging: Quebec company turns election campaign posters into shipping boxes",
       "published_at": "2026-11-20T04:00:00-05:00",
       "section": "Canada",
       "summary_auto": "Quebec’s provincial election may be over, but the faces of the candidates are about to make a comeback.",
@@ -108,67 +316,15 @@
       }
     },
     {
-      "id": "626300f2fb869b440ac8819c3375b4b7364873c9",
-      "url": "https://www.cbc.ca/news/entertainment/hunger-games-sunrise-on-the-reaping-review-9.7429249?cmp=rss",
-      "title": "Sunrise on the Reaping may be a prequel, but it's the worst way to start The Hunger Games",
-      "published_at": "2026-11-20T04:00:00-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The framing of The Hunger Games: Sunrise on the Reaping as a painful, nihilistic and unrelentingly dour backstory for a single character makes it a deeply strange movie when viewed as a standalone feature.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.953,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "51e5c0c05b49efdd3db29fc44e18c50edc486743",
-      "url": "https://www.cbc.ca/news/world/trump-doj-alaska-lawsuit-dismissed-peltola-9.7429320?cmp=rss",
-      "title": "Trump administration moves to drop lawsuit challenging Alaska Senate election result",
-      "published_at": "2026-11-19T22:37:47-05:00",
+      "id": "3782b0d434e7297921a6b71e67bb2b9110dfe134",
+      "url": "https://www.cbc.ca/player/play/9.7429434?cmp=rss",
+      "title": "Daughters prank Costco-loving dad on his birthday",
+      "published_at": "2026-11-19T23:03:33-05:00",
       "section": "Top Stories",
-      "summary_auto": "The Trump administration on Thursday moved to effectively drop its lawsuit that sought to block the certification of Democrat Mary Peltola's victory in Alaska's U.S. Senate race, ending a much-criticized gambit by the president to prevent one of his political rivals from taking office.",
+      "summary_auto": "Danielle Blizzard tells The National about the moment she and her sister pranked their Costco-loving dad on his birthday by stacking the aisles with all his friends.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.649,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3dad693894ec9bb03cb1cd76d0c7cd3a3cab88be",
-      "url": "https://www.cbc.ca/news/world/texas-florida-executions-dennes-overton-9.7429412?cmp=rss",
-      "title": "Texas death row execution takes more than an hour as inmate heard complaining of pain",
-      "published_at": "2026-11-19T22:34:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The execution of Reinaldo Dennes in Texas took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying the lethal dose of the sedative pentobarbital. He was the second person put to death in the country Thursday after Florida carried out a record-breaking 20th execution of the year, of Thomas Mitchell Overton.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.956,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a18807306a0808b6ddfb60f54c101cd2b7c2b63f",
-      "url": "https://www.cbc.ca/news/world/cairncross-out-cyber-white-house-9.7429359?cmp=rss",
-      "title": "Sean Cairncross out, Kirsten A. Davies in as White House national cyber director: source",
-      "published_at": "2026-11-19T21:45:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Sean Cairncross is out as the White House's national cyber director, a source close to the White House told CBC News on Thursday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "22060c748639fdeeff9fab790886e8aa3c47d8b2",
-      "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-defence-9.7429201?cmp=rss",
-      "title": "'Crypto King' faked kidnapping, created video for sympathy, defence says",
-      "published_at": "2026-11-19T21:10:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A lawyer defending one of so-called \"Crypto King\" Aiden Pleterski’s alleged kidnappers says the kidnapping was a \"farce\" and that Pleterski created a video pretending to be kidnapped in order to gain sympathy from his investors, who were trying to recover funds from him.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.859,
+        "sentiment": 0.477,
         "subjectivity_hint": "low"
       }
     },
@@ -177,7 +333,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/cn-derailment-diesel-skeena-oil-by-rail-9.7429141?cmp=rss",
       "title": "CN derailments into Skeena River raise fresh concerns over shipping hazardous materials through northwest B.C.",
       "published_at": "2026-11-19T19:53:14-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The company says a suspected rockslide pushed a locomotive and several cars down an embankment and into the waters of the Skeena River Tuesday, with diesel from the locomotive then leaking more than a kilometre downstream. It's the second such incident this year, following a similar derailment during extreme weather this past March.",
       "bias_heuristic": {
         "article_type": "News",
@@ -186,16 +342,16 @@
       }
     },
     {
-      "id": "369a9c70ddc4167dce9175c8c652f22d5402b325",
-      "url": "https://www.cbc.ca/news/canada/ndrangheta-canada-us-sanctions-luigi-vescio-sr-9.7429102?cmp=rss",
-      "title": "U.S. sanctions Italian mafia's alleged Canadian branch, including Toronto-area funeral homes",
-      "published_at": "2026-11-19T18:44:26-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The United States on Thursday announced sanctions targeting what authorities described as the Canadian arm of the 'Ndrangheta, one of Italy's most powerful criminal organizations.",
+      "id": "1682bdaaec40943ec2c27b5caaacba4bbbb07645",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-well-clean-up-9.7429047?cmp=rss",
+      "title": "Rancher says Alberta well cleanup fund a positive step, but litany of concerns remain",
+      "published_at": "2026-11-19T19:10:45-05:00",
+      "section": "Business",
+      "summary_auto": "Alberta legislation that would require oil and gas companies to pay upfront for the eventual cleanup of each well seems positive on the surface, but much will depend on how it's implemented and enforced, says a rancher and landowner advocate.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.073,
-        "subjectivity_hint": "low"
+        "sentiment": 0.869,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -203,7 +359,7 @@
       "url": "https://www.cbc.ca/news/world/baby-death-hypothermia-gaza-9.7428594?cmp=rss",
       "title": "9-month-old dies of hypothermia in Gaza as territory heads into winter season",
       "published_at": "2026-11-19T18:28:53-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Kinan Arqiq was nine months old when he died of hypothermia in Gaza, as heavy rains caused flooding in makeshift tent cities.",
       "bias_heuristic": {
         "article_type": "News",
@@ -216,7 +372,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/david-teboul-rcmp-officer-assault-case-9.7428491?cmp=rss",
       "title": "Former top Mountie, guilty of rec centre teen assault, gets conditional discharge",
       "published_at": "2026-11-19T17:28:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "A former high-ranking B.C. RCMP officer has been granted a conditional discharge in an assault case stemming from an incident at the Abbotsford Recreation Centre in the summer of 2025.",
       "bias_heuristic": {
         "article_type": "News",
@@ -248,19 +404,6 @@
         "article_type": "News",
         "sentiment": 0.915,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a30c4f70ca9600bda78d75886954eb7d109d1172",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-birds-poultry-show-avian-flu-9.7428882?cmp=rss",
-      "title": "This Sask. woman took some birds to a poultry show. Now avian flu is taking her whole flock",
-      "published_at": "2026-11-19T17:07:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "More than 18 million birds in Canada, including more than 1.2 million in Saskatchewan, have been lost due to the highly pathogenic disease since 2021.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -303,19 +446,6 @@
       }
     },
     {
-      "id": "7a127de57dbc4fbb266cdafd8c03f0aa6de5e237",
-      "url": "https://www.cbc.ca/news/world/fiona-hippo-dies-9.7428804?cmp=rss",
-      "title": "Fiona the hippo dies after ingesting visitor's hat",
-      "published_at": "2026-11-19T16:01:08-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Cincinnati Zoo says Fiona the hippo, who became a social media darling after surviving her premature birth, has died, days after ingesting a visitor's hat.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "3fad487aaabad32f462ad1319cd28ffda009405b",
       "url": "https://www.cbc.ca/news/world/kirkland-ellis-law-firm-pro-bono-work-trump-administration-9.7428718?cmp=rss",
       "title": "Law firm has done $11.8M US worth of free legal work for Trump administration, Democrats say",
@@ -346,7 +476,7 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/konrad-narth-interim-leader-news-release-9.7428665?cmp=rss",
       "title": "Leaked news release announces Konrad Narth will lead Manitoba PCs into election — before members vote",
       "published_at": "2026-11-19T15:04:45-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "The Manitoba NDP obtained a leaked draft of a Progressive Conservative news release announcing Konrad Narth would lead the Tories into the 2027 election — before the party's executive council even voted on the possibility.",
       "bias_heuristic": {
         "article_type": "News",
@@ -359,7 +489,7 @@
       "url": "https://www.cbc.ca/news/entertainment/the-body-petition-netflix-9.7428453?cmp=rss",
       "title": "Petition asks Netflix to cancel The Body for 'blasphemous' and 'anti-Christian' content",
       "published_at": "2026-11-19T14:30:00-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "The new Netflix show The Body is garnering backlash for being \"blasphemous\" and \"anti-Christian,\" with over 110,000 people signing a petition asking Netflix to cancel the show. The Body, which released on the streaming platform on Nov. 11, is a coming-of-age drama by writer, actor and director Quinn Shephard that tells the story of a dance team at a Catholic school.",
       "bias_heuristic": {
         "article_type": "News",
@@ -371,12 +501,12 @@
       "id": "f6f94968265ff03e2f6bce7dba8b14d7fe994966",
       "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
       "title": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
-      "published_at": "2026-11-19T14:24:03-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
+      "published_at": "2026-11-19T14:04:59-05:00",
+      "section": "Business",
+      "summary_auto": "Canada-U.S. Trade Minister Dominic LeBlanc says if Canada can reach an interim agreement with the Trump administration, then that would likely kickstart formal talks around reviewing the trilateral trade pact with the U.S. and Mexico.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.612,
+        "sentiment": 0.807,
         "subjectivity_hint": "medium"
       }
     },
@@ -391,6 +521,19 @@
         "article_type": "News",
         "sentiment": -0.202,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b29252e4894e23b778e4d87b3bd39788ac567029",
+      "url": "https://www.cbc.ca/news/climate/what-on-earth-butterfly-restoration-9.7427781?cmp=rss",
+      "title": "What it takes to bring rare butterflies back",
+      "published_at": "2026-11-19T14:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "In this issue of our environmental newsletter, we learn what it takes to bring rare butterflies back to places they've been wiped out; see the giant waves and flooding that have hit California; and find out how growing seasons have changed for crops like strawberries.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -430,266 +573,6 @@
         "article_type": "News",
         "sentiment": 0.894,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "08d6cedff05aa4387a722f9b2e7503e8a66e24e5",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520?cmp=rss",
-      "title": "Alberta government to revise policy as school boards say new flag regulations could cost millions of dollars",
-      "published_at": "2026-11-19T13:01:50-05:00",
-      "section": "Canada",
-      "summary_auto": "Alberta’s education and childcare minister says he will change an incoming school flags regulation that has school divisions collectively preparing to spend millions of dollars on hundreds of new outdoor flagpoles.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "1b1a647b481ecbacf4ce8831d045159fec9c5074",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215?cmp=rss",
-      "title": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
-      "published_at": "2026-11-19T12:52:17-05:00",
-      "section": "Canada",
-      "summary_auto": "Viola Baker says she was in bed Wednesday morning when she heard a big bang, and all of a sudden the walls started caving in. She rushed to help rescue her daughter and 15-year-old grandson.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "db9a7551bc6f454eeb9a2e6a25bcfeb136f55e5a",
-      "url": "https://www.cbc.ca/sports/hockey/pwhl/canadian-pwhl-takeover-tour-2026-27-stops-9.7428309?cmp=rss",
-      "title": "6 Canadian cities announced as stops on PWHL Takeover Tour",
-      "published_at": "2026-11-19T12:42:20-05:00",
-      "section": "Canada",
-      "summary_auto": "Edmonton, Calgary, Halifax, Saskatoon, Winnipeg and Quebec City will host games this upcoming season as part of the PWHL's Takeover Tour. The 24-game tour is the league's largest yet and will visit cities without PWHL teams.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "01e6fc26440059c8f19a7b591cb0a76e7ec7ca93",
-      "url": "https://www.cbc.ca/news/business/anthropic-first-day-trading-9.7428367?cmp=rss",
-      "title": "Anthropic stock soars by double-digits, a 'big near-term win' for a 'very nervous' tech sector",
-      "published_at": "2026-11-19T12:37:14-05:00",
-      "section": "Business",
-      "summary_auto": "Shares of Anthropic rose on their first day of trading, as investors weighted AI enthusiasm against a massive valuation and uncertain path to profitability.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.751,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "067ab67c5efb9e30752918a77aa62873d07b6a84",
-      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365?cmp=rss",
-      "title": "Alberta bill would ban some bike lanes, let transportation minister remove others",
-      "published_at": "2026-11-19T12:27:11-05:00",
-      "section": "Canada",
-      "summary_auto": "Alberta’s government is proposing to ban future bike lanes that remove or restrict motor-vehicle traffic and give itself the power to remove some existing bike lanes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.869,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "fcac57dfb619162636ea34d633cf69f6995536e7",
-      "url": "https://www.cbc.ca/news/world/hague-icj-court-myanmar-rohingya-ruling-9.7427764?cmp=rss",
-      "title": "Myanmar committed genocide against Rohingya ethnic minority, International Court of Justice rules",
-      "published_at": "2026-11-19T11:22:16-05:00",
-      "section": "World",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.67,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6158bcd95c5ced45fd108a9d5810500948119199",
-      "url": "https://www.cbc.ca/news/canada/sudbury/northlander-returns-dec-tenth-9.7428203?cmp=rss",
-      "title": "Ontario Northlander rail service to resume on Dec. 10",
-      "published_at": "2026-11-19T11:15:44-05:00",
-      "section": "Canada",
-      "summary_auto": "The Ontario Northlander passenger rail service is expected to return on Dec. 10, according to Ontario Northland.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b2b851b969798271c1ded468990c0b048cdec917",
-      "url": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132?cmp=rss",
-      "title": "Mother in Burlington, Ont., house fire over the weekend has died, family friend says",
-      "published_at": "2026-11-19T10:56:40-05:00",
-      "section": "Canada",
-      "summary_auto": "Talika 'Tilly' Stuart was one of five people rescued from a house fire on Saturday. Her husband and two of her children, 12 and 1, died as a result of their injuries. A five-year-old child was also injured.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.827,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "91a63331ec3345a731a0512629ee998c0f0864e4",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787?cmp=rss",
-      "title": "Montreal byelections crucial for rebuilding NDP, party leader Avi Lewis says",
-      "published_at": "2026-11-19T10:33:28-05:00",
-      "section": "Canada",
-      "summary_auto": "Avi Lewis said a win in either Montreal byelection would be \"incredible\" but he sees these contests — and the four others taking place across Canada on Dec. 7 — as a means to continue building up the NDP's support base for the next general election.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "2baf7b8c41c81368d11bcd9903ce1124c40a07a8",
-      "url": "https://www.cbc.ca/news/canada/toronto/toys-r-us-partnership-staples-9.7427933?cmp=rss",
-      "title": "Toys 'R' Us partnership has Staples Canada playing around with its business model",
-      "published_at": "2026-11-19T10:32:41-05:00",
-      "section": "Business",
-      "summary_auto": "In a bid to bring back the beloved brand, Toys \"R\" Us and Parties \"R\" Us departments are moving into portions of 300 Staples Canada stores by the end of next year. Retail consultants say the office supply company is responding to the shrinking of the core business it's known for.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.778,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "234a406c8efe7dbcffbc39d065d17e201563a76d",
-      "url": "https://www.cbc.ca/news/canada/sudbury/moose-factory-water-levels-9.7427967?cmp=rss",
-      "title": "Water levels ‘critically low’ at Moose Factory Island water treatment plant in northern Ontario",
-      "published_at": "2026-11-19T09:44:39-05:00",
-      "section": "Canada",
-      "summary_auto": "Water levels at the water treatment plant on Moose Factory Island, in Ontario’s far north, are critically low, according to the Ontario Clean Water Agency.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "799e7c477999ca3bcb3c3864901322359b9b65a0",
-      "url": "https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838?cmp=rss",
-      "title": "KPMG Canada client documents accessed in cybersecurity breach, accounting firm says",
-      "published_at": "2026-11-19T09:34:37-05:00",
-      "section": "Canada",
-      "summary_auto": "KPMG did not provide details about the breach, including the scope or nature of the attack. But a spokesperson says the company is confident that the accessed data is not available online, or being misused for any purpose.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.502,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3e79c665df515ff1296e52421770dbc079d2c6d5",
-      "url": "https://www.cbc.ca/player/play/9.7427580?cmp=rss",
-      "title": "Watch this eagle be released into the wild, weeks after it was hit by a car",
-      "published_at": "2026-11-19T09:00:00-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "A bald eagle is back in the skies over Yukon, thanks to a chance encounter and a little help along the way. CBC's George Maratos has the story.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.744,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "c5b6317e1988bb750d1df845f9080c915881ebc9",
-      "url": "https://www.cbc.ca/news/world/dozens-missing-migrant-boat-capsize-senegal-coast-9.7427784?cmp=rss",
-      "title": "Dozens missing off Senegal as West African departures for Europe surge",
-      "published_at": "2026-11-19T08:19:05-05:00",
-      "section": "World",
-      "summary_auto": "Dozens of people were missing on Thursday after a boat carrying migrants bound for Europe capsized off the coast of Senegal, a local non-governmental organization said, in the latest incident along the West Africa route.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.527,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fc55bd15766a34a20f87b1da3e867587263bf24",
-      "url": "https://www.cbc.ca/news/science/cop31-draft-climate-deal-9.7427790?cmp=rss",
-      "title": "Fossil fuel limits cut from latest draft of UN climate deal",
-      "published_at": "2026-11-19T08:16:27-05:00",
-      "section": "World",
-      "summary_auto": "Climate negotiators stripped out any reference to ending the use of fossil fuels in a slimmed-down draft deal text published on Thursday, as ‌the COP31 meeting in Antalya, Turkey, approaches its Friday deadline.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "47bbb3ad7c74101db12f92184718a2beff55c980",
-      "url": "https://www.cbc.ca/news/entertainment/country-music-awards-ella-langley-dolly-parton-taylor-swift-9.7427721?cmp=rss",
-      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift returns for 1st performance in 13 years",
-      "published_at": "2026-11-19T06:17:29-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Ella Langley and her unstoppable hit Choosin' Texas dominated the Country Music Association Awards on Wednesday at ‌a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.718,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "825c2c3072bf920e318f05f6341a1a47ff000311",
-      "url": "https://www.cbc.ca/news/canada/calgary/sidhu-calgary-condo-building-boom-price-drop-9.7426910?cmp=rss",
-      "title": "Calgary’s condo market is shifting as supply outpaces demand",
-      "published_at": "2026-11-19T06:00:00-05:00",
-      "section": "Business",
-      "summary_auto": "After years of increases, some sellers are now cutting asking prices by tens of thousands of dollars to attract buyers. And with more housing on the way, the pressure on prices may not be over.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.178,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b391dc343529ca63493b84c84ddf10da86897923",
-      "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
-      "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-      "published_at": "2026-11-19T05:25:01-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5cf07abfeab641d5c94c1aa868644b1b5cd7254c",
-      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-o-canada-national-anthem-mandatory-schools-9.7427293?cmp=rss",
-      "title": "Should playing O Canada be mandatory in all P.E.I. schools? One MLA thinks so",
-      "published_at": "2026-11-19T05:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "For decades, students in Canadian schools have started their day hearing the national anthem. Now, PC MLA Tyler DesRoches wants to make that mandatory across Prince Edward Island.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.34,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "b335256231e3df3c79f40f27862f75d4123b94b7",
-      "url": "https://www.cbc.ca/news/world/south-korea-overturns-charges-against-ex-prime-minister-9.7427717?cmp=rss",
-      "title": "South Korea's top court overturns charges against ex-prime minister for his role in martial law",
-      "published_at": "2026-11-19T04:50:40-05:00",
-      "section": "World",
-      "summary_auto": "South Korea's Supreme Court on Thursday overturned the conviction of former Prime Minister Han Duck-soo for aiding in the declaration of martial law in December 2024.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.511,
-        "subjectivity_hint": "low"
       }
     }
   ]
