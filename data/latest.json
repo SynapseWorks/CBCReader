@@ -1,18 +1,96 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-21T12:01:40.390178-05:00",
+  "generated_at": "2026-11-21T17:40:11.681290-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "aa5a8fdb446778686acf6d8556153936cd31ebc4",
-      "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
-      "title": "Mexico detains top cartel boss El Chapo Isidro, one of FBI's 10 most wanted fugitives",
-      "published_at": "2026-11-21T11:32:44-05:00",
+      "id": "cc7612213435268bba5ebb2db333851a2571b39d",
+      "url": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768?cmp=rss",
+      "title": "Cavalry FC defeats Atlético Ottawa 3-2 to claim CPL title and historic double",
+      "published_at": "2026-11-21T17:21:50-05:00",
       "section": "Top Stories",
-      "summary_auto": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, in the state of Sinaloa overnight, resulting in a burst of violence that rattled civilians.",
+      "summary_auto": "Cavalry FC defeated Atlético Ottawa 3-2 to claim the Canadian Premier League title and an unprecedented double in the soccer league.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.361,
+        "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc3121245ea9ecb73a4a416ef0571bfd05f096f0",
+      "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
+      "title": "Ontario Liberals elect Navdeep Bains as new party leader",
+      "published_at": "2026-11-21T16:35:51-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ontario Liberals have elected Navdeep Bains as the party's new leader after a marathon nine-month leadership race, with Bains emerging as victor less than one percentage point ahead of his next closest competitor, provincial caucus member Lee Fairclough.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d6c567460b2f1e59aa5048317fc49d79e36c78da",
+      "url": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss",
+      "title": "UN talks on AI in warfare end with no commitment to binding rules",
+      "published_at": "2026-11-21T16:05:20-05:00",
+      "section": "Top Stories",
+      "summary_auto": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in deadly autonomous weapons.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.713,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0184f9b7bb952fdaab8f0b61965fee72cdb9365a",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/etsy-ai-model-training-backlash-9.7431142?cmp=rss",
+      "title": "Etsy faces backlash over including AI model training in new policy update",
+      "published_at": "2026-11-21T14:30:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Some Etsy sellers across Canada are removing products from the platform amid criticism for introducing AI model training as part of a policy change.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea3927c73437aed1a7211bb8276dc9ce7f437314",
+      "url": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
+      "title": "FBI investigating apparent hack of its criminal database",
+      "published_at": "2026-11-21T12:36:13-05:00",
+      "section": "World",
+      "summary_auto": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberattack since September.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3fdb320277e15f84fa00dbd28388ab67654eee9f",
+      "url": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss",
+      "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
+      "published_at": "2026-11-21T12:34:01-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office, the DPCP, issued a warrant.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aa5a8fdb446778686acf6d8556153936cd31ebc4",
+      "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
+      "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
+      "published_at": "2026-11-21T11:32:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.929,
         "subjectivity_hint": "low"
       }
     },
@@ -22,10 +100,10 @@
       "title": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
       "published_at": "2026-11-21T09:38:36-05:00",
       "section": "World",
-      "summary_auto": "An Israeli strike killed three Palestinians in a vehicle carrying papers and food for the World Central Kitchen charity in Gaza City on Saturday, according to Gaza's Health Ministry and eyewitnesses.",
+      "summary_auto": "Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said the vehicle was not affiliated with it.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.802,
+        "sentiment": -0.153,
         "subjectivity_hint": "low"
       }
     },
@@ -34,7 +112,7 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
       "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
       "published_at": "2026-11-21T08:26:36-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -82,15 +160,28 @@
       }
     },
     {
-      "id": "ccb4dd455cfdd1b51f69e29b151558036ba8f140",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss",
-      "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
-      "published_at": "2026-11-21T05:00:00-05:00",
+      "id": "4f691b7a26e46232f4caed69f92b9c4c9595b02c",
+      "url": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss",
+      "title": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
+      "published_at": "2026-11-21T06:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.",
+      "summary_auto": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.878,
+        "sentiment": -0.883,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a9728644a77d3f0dcd373a2d072235472a834d0",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss",
+      "title": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
+      "published_at": "2026-11-21T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Funeral Service Association of Canada.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
         "subjectivity_hint": "low"
       }
     },
@@ -108,6 +199,32 @@
       }
     },
     {
+      "id": "465d2818a0059a7e525f65fbec3c6c75366ff332",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/giller-prize-goose-lane-9.7430024?cmp=rss",
+      "title": "N.B. publisher of Giller Prize-winning novel says win proves important stories can come out of the Maritimes",
+      "published_at": "2026-11-21T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "Susanne Alexander, the publisher at Goose Lane Editions, said Nicholas Herring was a dark horse in the running for the Giller Prize. When he won, she was ecstatic.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.953,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ccb4dd455cfdd1b51f69e29b151558036ba8f140",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss",
+      "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
+      "published_at": "2026-11-21T05:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d438e3d075c1c7423fbfe4989f019374913b68b5",
       "url": "https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss",
       "title": "The pros, cons and risks of using AI as your personal assistant",
@@ -118,32 +235,6 @@
         "article_type": "News",
         "sentiment": -0.273,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0b802c8995829b32c19704db6ac52fd0a6254d0f",
-      "url": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
-      "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
-      "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.11,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ac292ce4e5207ca5f676f5333db6f3f71c7b41b9",
-      "url": "https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss",
-      "title": "Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway",
-      "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a growing number of other climate lawsuits in Canada pan out.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.557,
-        "subjectivity_hint": "medium"
       }
     },
     {
@@ -173,6 +264,19 @@
       }
     },
     {
+      "id": "0b802c8995829b32c19704db6ac52fd0a6254d0f",
+      "url": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
+      "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+      "published_at": "2026-11-21T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.11,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "4307067bfcc9f574742f0dec81495fdf6aba64af",
       "url": "https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss",
       "title": "Elon Musk looks to break up with MAGA. To what end?",
@@ -186,6 +290,19 @@
       }
     },
     {
+      "id": "ac292ce4e5207ca5f676f5333db6f3f71c7b41b9",
+      "url": "https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss",
+      "title": "Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway",
+      "published_at": "2026-11-21T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a growing number of other climate lawsuits in Canada pan out.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.557,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "83541b186fb9d7702b9567e4ab5a0458b582c978",
       "url": "https://www.cbc.ca/news/entertainment/survivor-contestant-auction-9.7428869?cmp=rss",
       "title": "How Canadian Survivor contestant Daniel Kilby lost most of his belongings to auction after filming the show",
@@ -195,32 +312,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.202,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "335c295b9167762cd4dcebae8a33aea0a8e18e7d",
-      "url": "https://www.cbc.ca/sports/a-new-game-plan/sport-integrity-canada-new-rules-competition-manipulation-9.7430464?cmp=rss",
-      "title": "Canada's sport integrity watchdog introduces rules aimed at match fixing",
-      "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canada’s sport integrity watchdog has created new rules aimed at discouraging competition manipulation, something its CEO describes as “a serious safety issue” for athletes.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.557,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f5d8ec27f14ce1e3e9f3fd215155447a8b72ba60",
-      "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661?cmp=rss",
-      "title": "A popular Quebec immigration program is closed — again. People who count on it want answers",
-      "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The popular immigration pathway known as the PEQ was temporarily revived earlier this year. The first period for applications was open between July 2 and Oct. 31, and it's not clear when the Quebec government will open a second window for applicants.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.574,
         "subjectivity_hint": "low"
       }
     },
@@ -264,24 +355,11 @@
       }
     },
     {
-      "id": "695ddd8fc788822d617e15e96311eb95e4656bb1",
-      "url": "https://www.cbc.ca/news/canada/staples-print-website-breach-9.7431120?cmp=rss",
-      "title": "Staples Canada says customer data accessed during 'security incident' on print website",
-      "published_at": "2026-11-20T22:58:29-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Staples Canada says there was a \"security incident\" on its staplesprint.ca website in early November, which saw a third party get unauthorized access to certain customer data.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.823,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "0d586da9cd9a3fc100a2c64adb26c0e1b95f2246",
       "url": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796?cmp=rss",
       "title": "Peguis First Nation members, including chief and councillor, try to oust CFS leader",
       "published_at": "2026-11-20T22:24:18-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Anger and frustration with Peguis Child and Family Services came to a head Thursday when the First Nation's chief and band members tried to enter the organization's building, and a chain was attached to its doors in an apparent attempt to break them open.",
       "bias_heuristic": {
         "article_type": "News",
@@ -329,19 +407,6 @@
       }
     },
     {
-      "id": "8f8ecfaa6d22de33a09c0f357b4f80b6aa4e1c2d",
-      "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
-      "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-      "published_at": "2026-11-20T17:57:06-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
       "id": "071573ecd9158abebc0fc1c09871c678741fc149",
       "url": "https://www.cbc.ca/radio/quirks/whale-snot-space-potatoes-spider-sleep-animal-tempo-9.7429781?cmp=rss",
       "title": "Flying drones through whale snot, and more...",
@@ -352,175 +417,6 @@
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0614c54878810470baf063500be727a6217a3de5",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/northland-restaurant-group-missing-tips-9.7430320?cmp=rss",
-      "title": "B.C. restaurant group alleges $2.1M in missing staff tips, sues payment company executives",
-      "published_at": "2026-11-20T17:13:05-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A B.C.-based restaurant group that operates Moxie's, Chop Steakhouse and Shark Club is suing six current and former executives and directors of a digital payment company over more than $2.1 million in funds allegedly owed to the group.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.511,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "d8130b2842f04558ba58d66a9375d2fb34e40057",
-      "url": "https://www.cbc.ca/news/business/bell-agentic-cyber-attack-9.7430468?cmp=rss",
-      "title": "Bell says it's investigating cyberattack that led to potential theft of business customer data",
-      "published_at": "2026-11-20T16:54:02-05:00",
-      "section": "Business",
-      "summary_auto": "Bell says it's investigating a cyber incident in which some enterprise client data may have been stolen. A spokesperson confirmed an \"agentic\" threat actor was able to access some of the company's systems, including one used for ordering and supplying telecommunication networks.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.765,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "5e741a7371929dcdf97638b0b605991031f0130a",
-      "url": "https://www.cbc.ca/news/canada/calgary/jamie-dacosta-threats-prime-minister-mark-carney-guilty-plea-9.7430401?cmp=rss",
-      "title": "Calgary man who threatened to kill Prime Minister Mark Carney in TikTok, YouTube videos pleads guilty",
-      "published_at": "2026-11-20T16:53:48-05:00",
-      "section": "Canada",
-      "summary_auto": "A Calgary man who threatened to kill Prime Minister Mark Carney and one of his children in videos posted to social media pleaded guilty to a number of offences on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.972,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b8e2c48a82cd148613d4a5d2a462af030c873369",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/sean-fraser-canadian-bar-association-9.7430396?cmp=rss",
-      "title": "Justice minister warns 'troubling narrative' creeping into criticism of judges' decisions",
-      "published_at": "2026-11-20T16:49:25-05:00",
-      "section": "Canada",
-      "summary_auto": "Federal Justice Minister Sean Fraser is encouraging more lawyers to apply to be judges, and warns the profession can't be undermined by political actors who attack the credibility of the courts.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.252,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6e9e03b46b86c04d88f58ae2a42097eb1648c79b",
-      "url": "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss",
-      "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
-      "published_at": "2026-11-20T16:35:47-05:00",
-      "section": "World",
-      "summary_auto": "U.S. tech companies that build artificial intelligence data centers in other countries will face \"a tremendous tax,\" President Donald Trump said on Friday.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.128,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b01803bdd98f17df2dad8cd2d1df7ae5abf3c404",
-      "url": "https://www.cbc.ca/news/world/katie-zacharia-california-state-bar-investigation-9.7430437?cmp=rss",
-      "title": "Former White House press secretary Katie Zacharia investigated by California state bar",
-      "published_at": "2026-11-20T16:21:40-05:00",
-      "section": "World",
-      "summary_auto": "California's state bar is investigating former White House press secretary Katie Zacharia after a complaint she represented herself as a lawyer without having ever passed the bar exam.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "94bc21b1fcf12d23868542828e7d21f4c18dc300",
-      "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-study-economy-productivity-9.7430154?cmp=rss",
-      "title": "Alto-backed study predicts major economic gains along proposed high-speed rail corridor",
-      "published_at": "2026-11-20T16:06:02-05:00",
-      "section": "Canada",
-      "summary_auto": "A new study commissioned by the group behind Eastern Canada's proposed high-speed rail line lays out the project's potential to benefit people's lives, their communities and the region's economy if it's done right.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.689,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "ae0884fe5070262888971e5cbe78e90f3e4f7687",
-      "url": "https://www.cbc.ca/news/entertainment/dwts-season-35-finale-songs-9.7430229?cmp=rss",
-      "title": "Dancing with the Stars Season 35 finale: What you can expect",
-      "published_at": "2026-11-20T16:02:35-05:00",
-      "section": "Entertainment",
-      "summary_auto": "The Dancing With The Stars Season 35 finale airs Tuesday, Nov. 24. Five stars remain: Olympic figure skater Amber Glenn, comedian and podcaster Connor Wood, Paralympic gold medallist Ezra Frech, reality star Maura Higgins and actor Tatyana Ali.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "6adc4d8d53eff42c2ffac707b3380293d3cc3595",
-      "url": "https://www.cbc.ca/news/canada/windsor/joshua-smith-windsor-police-uttering-threats-9.7430310?cmp=rss",
-      "title": "'I should know better': Windsor police officer gets 2nd conditional discharge after latest guilty plea",
-      "published_at": "2026-11-20T16:01:15-05:00",
-      "section": "Canada",
-      "summary_auto": "A Windsor, Ont., police officer has pleaded guilty to uttering threats and was given a conditional discharge for a second time, related to two separate cases.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.67,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "ab10bb96d40ff1d41303e587447787cbcf8fb8fa",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/scotties-tournament-of-hearts-will-be-played-in-vernon-b-c-in-2028-9.7430393?cmp=rss",
-      "title": "Vernon to host curling's Scotties Tournament of Hearts in 2028",
-      "published_at": "2026-11-20T15:30:47-05:00",
-      "section": "Canada",
-      "summary_auto": "It will be the 10th Tournament of Hearts held in B.C. and the first since Kerri Einarson won her fourth straight Canadian title in Kamloops in 2023.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.935,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "08fa2151d612e2ee0e201055a47adea347f38f97",
-      "url": "https://www.cbc.ca/news/entertainment/onlyfans-erika-eleniak-baywatch-9.7430177?cmp=rss",
-      "title": "Baywatch's Erika Eleniak says OnlyFans has her 'calling the shots' after money woes",
-      "published_at": "2026-11-20T15:21:18-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Original Baywatch star Erika Eleniak is opening up about work and money challenges — including nearly being evicted from her home — amid a recent career upswing since joining OnlyFans, the online subscriber platform known for its popularity with adult audiences.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "8cbbc697faf0ec5566886325bada868842dfd7a6",
-      "url": "https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss",
-      "title": "Trump says he's working on a 'fair' trade deal with Canada",
-      "published_at": "2026-11-20T13:51:14-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.318,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f9d784674d052efb87d691eeeddc53423b008d9d",
-      "url": "https://www.cbc.ca/news/health/flu-season-november-h1n1-9.7427025?cmp=rss",
-      "title": "Despite early start, Canada's flu season may be 'far from peak' as holidays approach",
-      "published_at": "2026-11-20T13:22:37-05:00",
-      "section": "Health",
-      "summary_auto": "Influenza appeared relatively early this fall, with a strain that often impacts younger adults. Medical experts aren't yet sure if this wave of infections will peter out before the holidays or if Canada will see a second surge of flu later in the winter.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.287,
-        "subjectivity_hint": "medium"
       }
     }
   ]
