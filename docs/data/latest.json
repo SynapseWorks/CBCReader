@@ -1,8 +1,34 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-21T17:40:11.681290-05:00",
+  "generated_at": "2026-11-21T23:34:38.687112-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "7357df08ac5dddee4d6bbd64cdb820416c516a45",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561?cmp=rss",
+      "title": "Death outside Vancouver Island hospital raises questions about rural emergency care access",
+      "published_at": "2026-11-21T19:26:27-05:00",
+      "section": "Canada",
+      "summary_auto": "The death of a person outside the Port Hardy Hospital on northern Vancouver Island has renewed concerns about access to emergency care in rural B.C., where staffing shortages have forced some hospitals to close their emergency departments overnight.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "85c30d306a73f8cd0a7766b8c49d05962043699b",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-shut-down-public-transit-bargaining-9.7431432?cmp=rss",
+      "title": "City of Regina plans to shut down public transit starting Monday",
+      "published_at": "2026-11-21T17:58:35-05:00",
+      "section": "Top Stories",
+      "summary_auto": "ATU Canada president said workers have not had a new collective agreement for almost two years and the city chose to suspend services after the union said it would implement a ban on voluntary overtime starting Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "medium"
+      }
+    },
     {
       "id": "cc7612213435268bba5ebb2db333851a2571b39d",
       "url": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768?cmp=rss",
@@ -13,6 +39,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74683d1e192135300bd040071b18ab1f8edee2a6",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/becky-druhan-wins-n-s-liberal-leadership-becomes-first-woman-to-lead-party-9.7431358?cmp=rss",
+      "title": "Becky Druhan wins N.S. Liberal leadership, becomes first woman to lead party",
+      "published_at": "2026-11-21T17:11:25-05:00",
+      "section": "Canada",
+      "summary_auto": "Becky Druhan has defeated Amanda Mombourquette in a two-person race to become the first female leader of the Nova Scotia Liberals.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -47,7 +86,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/etsy-ai-model-training-backlash-9.7431142?cmp=rss",
       "title": "Etsy faces backlash over including AI model training in new policy update",
       "published_at": "2026-11-21T14:30:46-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "summary_auto": "Some Etsy sellers across Canada are removing products from the platform amid criticism for introducing AI model training as part of a policy change.",
       "bias_heuristic": {
         "article_type": "News",
@@ -74,7 +113,7 @@
       "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
       "published_at": "2026-11-21T12:34:01-05:00",
       "section": "Top Stories",
-      "summary_auto": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office, the DPCP, issued a warrant.",
+      "summary_auto": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office issued a warrant.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.949,
@@ -112,7 +151,7 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
       "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
       "published_at": "2026-11-21T08:26:36-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "summary_auto": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
       "bias_heuristic": {
         "article_type": "News",
@@ -160,15 +199,28 @@
       }
     },
     {
-      "id": "4f691b7a26e46232f4caed69f92b9c4c9595b02c",
-      "url": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss",
-      "title": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
-      "published_at": "2026-11-21T06:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
+      "id": "656cdd79301f7a1a48b555f0e12833145bcd94b3",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139?cmp=rss",
+      "title": "Age-Friendly initiative works to help Sask. seniors stay in their home communities",
+      "published_at": "2026-11-21T07:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A program started by the World Health Organization is now developing in 16 locations across the province. Each community forms a committee that follows a template designed to address gaps in services available to older adults.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.883,
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5cc61d63318f0ee2ac14dc385ac32d2cacf37909",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257?cmp=rss",
+      "title": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
+      "published_at": "2026-11-21T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Satellites are constantly photographing Earth, and a new website designed by a University of Waterloo student is making these public photos more accessible to the general public.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -182,6 +234,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4f691b7a26e46232f4caed69f92b9c4c9595b02c",
+      "url": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss",
+      "title": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
+      "published_at": "2026-11-21T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.883,
         "subjectivity_hint": "low"
       }
     },
@@ -212,15 +277,15 @@
       }
     },
     {
-      "id": "ccb4dd455cfdd1b51f69e29b151558036ba8f140",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss",
-      "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
-      "published_at": "2026-11-21T05:00:00-05:00",
+      "id": "e941427d69bad3161e1064ee2fee67a9617fcf99",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rohingya-genocide-ruling-nl-survivor-9.7429263?cmp=rss",
+      "title": "Rohingya 'clearance operation' survivor in N.L. triumphant following genocide ruling",
+      "published_at": "2026-11-21T04:30:00-05:00",
       "section": "Canada",
-      "summary_auto": "William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.",
+      "summary_auto": "Muhammad Rofique of St. John's is celebrating, but still reflecting upon the atrocities he lived through in Myanmar as the world’s highest court declares the country committed genocide against his people.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.878,
+        "sentiment": 0.788,
         "subjectivity_hint": "low"
       }
     },
@@ -238,19 +303,6 @@
       }
     },
     {
-      "id": "3f36cb8d0f31fe2ff3ac0d832e71831e3688b856",
-      "url": "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss",
-      "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
-      "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.668,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "c1818c6f46df111b8991c2cd27f36f3838b82809",
       "url": "https://www.cbc.ca/news/health/lancet-retraction-motherisk-gideon-koren-study-codeine-breast-milk-9.7430487?cmp=rss",
       "title": "A Canadian study pinned a baby's death on codeine passed through breast milk. 20 years on, it's been retracted",
@@ -260,6 +312,19 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.874,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3f36cb8d0f31fe2ff3ac0d832e71831e3688b856",
+      "url": "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss",
+      "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
+      "published_at": "2026-11-21T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.668,
         "subjectivity_hint": "low"
       }
     },
@@ -303,15 +368,15 @@
       }
     },
     {
-      "id": "83541b186fb9d7702b9567e4ab5a0458b582c978",
-      "url": "https://www.cbc.ca/news/entertainment/survivor-contestant-auction-9.7428869?cmp=rss",
-      "title": "How Canadian Survivor contestant Daniel Kilby lost most of his belongings to auction after filming the show",
+      "id": "7ee34d69ff13ae0e56d0a9e843189c91a103fb7f",
+      "url": "https://www.cbc.ca/news/canada/sudbury/robinson-huron-treaty-settlement-lawyers-fees-appeal-9.7429960?cmp=rss",
+      "title": "Lawyers appeal nearly $500M cut to fees in historic $10B Robinson Huron Treaty settlement",
       "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Canadian Survivor contestant Daniel Kilby lost many of his personal belongings earlier this year, including a painting of a \"cheetah dressed as a general,\" his PlayStation 5 and many household appliances, after missed payments on a storage locker while he was on the show led to his belongings being put up for auction.",
+      "section": "Canada",
+      "summary_auto": "Ontario’s top court heard an appeal Friday by the legal team behind the $10-billion Robinson Huron Treaty settlement — challenging a judge’s decision to slash their legal fees by nearly half a billion dollars.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.202,
+        "sentiment": 0.052,
         "subjectivity_hint": "low"
       }
     },
@@ -329,93 +394,15 @@
       }
     },
     {
-      "id": "e5028445825866b861a8bb5cd74ae9e968e73e23",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
-      "title": "Ontario Liberals to elect new leader today after lengthy race",
+      "id": "83541b186fb9d7702b9567e4ab5a0458b582c978",
+      "url": "https://www.cbc.ca/news/entertainment/survivor-contestant-auction-9.7428869?cmp=rss",
+      "title": "How Canadian Survivor contestant Daniel Kilby lost most of his belongings to auction after filming the show",
       "published_at": "2026-11-21T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Ontario Liberals will choose their new leader today as the once dominant party makes its latest attempt to escape the political wilderness and insiders say no \"runaway winner\" has emerged over the course of the lenghty race.",
+      "section": "Entertainment",
+      "summary_auto": "Canadian Survivor contestant Daniel Kilby lost many of his personal belongings earlier this year, including a painting of a \"cheetah dressed as a general,\" his PlayStation 5 and many household appliances, after missed payments on a storage locker while he was on the show led to his belongings being put up for auction.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.22,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "2f9310e394e07f71b83d08974037c9c42cf3ac02",
-      "url": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143?cmp=rss",
-      "title": "Canadian hockey player Daniel Carr faces Swiss criminal probe over on-ice punch",
-      "published_at": "2026-11-21T01:48:03-05:00",
-      "section": "Canada",
-      "summary_auto": "Swiss prosecutors have opened criminal proceedings against former NHL forward Daniel Carr on suspicion of attempted serious assault over an on-ice incident in a Swiss National League game last month.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.926,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "0d586da9cd9a3fc100a2c64adb26c0e1b95f2246",
-      "url": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796?cmp=rss",
-      "title": "Peguis First Nation members, including chief and councillor, try to oust CFS leader",
-      "published_at": "2026-11-20T22:24:18-05:00",
-      "section": "Canada",
-      "summary_auto": "Anger and frustration with Peguis Child and Family Services came to a head Thursday when the First Nation's chief and band members tried to enter the organization's building, and a chain was attached to its doors in an apparent attempt to break them open.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.778,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "709046479e22c1e10f97b9c72acbdf90f21059e4",
-      "url": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722?cmp=rss",
-      "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
-      "published_at": "2026-11-20T18:59:54-05:00",
-      "section": "Canada",
-      "summary_auto": "New Democrats are accusing the Liberals of taking a colonial approach to their major projects legislation.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "9ac63fd74933cd39ba47d83137100b4e40da7105",
-      "url": "https://www.cbc.ca/sports/baseball/mlb/davis-schneider-becomes-free-agent-9.7430834?cmp=rss",
-      "title": "Davis Schneider becomes free agent after 4 seasons with Blue Jays",
-      "published_at": "2026-11-20T18:18:35-05:00",
-      "section": "Canada",
-      "summary_auto": "Davis Schneider became a free agent Friday after the Toronto Blue Jays declined to offer him a contract for 2027.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.765,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "625fc3e8bde094afc217c0adf92a4e2f576720d1",
-      "url": "https://www.cbc.ca/radio/asithappens/vampire-camel-9.7430634?cmp=rss",
-      "title": "Behold the vampire camel, the fanged beast that once roamed North America",
-      "published_at": "2026-11-20T18:03:25-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Despite its \"sexy name,\" the newly identified Vampyrocamelus was no blood-sucking fiend.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.609,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "071573ecd9158abebc0fc1c09871c678741fc149",
-      "url": "https://www.cbc.ca/radio/quirks/whale-snot-space-potatoes-spider-sleep-animal-tempo-9.7429781?cmp=rss",
-      "title": "Flying drones through whale snot, and more...",
-      "published_at": "2026-11-20T17:54:26-05:00",
-      "section": "Technology & Science",
-      "summary_auto": "Plus: space potatoes, spider sleep, animals share tempo and the birth of plate tectonics",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.296,
+        "sentiment": -0.202,
         "subjectivity_hint": "low"
       }
     }
