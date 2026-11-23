@@ -1,45 +1,227 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-22T21:06:53.692241-05:00",
+  "generated_at": "2026-11-23T08:55:44.217123-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "53cff7a0315a987d2e499feb0d2061cc0758e7e0",
-      "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-      "title": "The National | Hegseth reportedly moves to restrict defence ties",
-      "published_at": "2026-11-22T21:00:00-05:00",
+      "id": "bc77c4f7f281b0d7c7aa760186a7ff0b07cdd426",
+      "url": "https://www.cbc.ca/news/canada/bell-cybersecurity-incident-virgin-plus-9.7432273?cmp=rss",
+      "title": "Bell says cybersecurity incident affected customers at Virgin Plus, Lucky Mobile",
+      "published_at": "2026-11-23T08:50:46-05:00",
       "section": "Top Stories",
-      "summary_auto": "Nov. 22, 2026 | U.S. Secretary of War Pete Hegseth reportedly issues a memo restricting defence ties with Canada. A father and daughter arrested by ICE at a Seattle airport draws backlash. And Go Public investigates a man's fight against AI customer service.",
+      "summary_auto": "A spokesperson for Bell says customers across its network of subsidiaries, including Virgin Plus and Lucky Mobile, were affected by a Nov. 17 breach but no \"highly sensitive\" information such as credit card numbers or banking information was impacted.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.919,
+        "sentiment": 0.421,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f87fe60e9b6c57c0359e5da49f17d6076e3b999b",
+      "url": "https://www.cbc.ca/news/canada/edmonton/cattle-auction-9.7430383?cmp=rss",
+      "title": "Sold! Why live cattle auctions still matter to Alberta ranchers in an era of online bidding",
+      "published_at": "2026-11-23T07:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Ranchers say you can still tell when it’s auction day in farming towns: trucks are lined up on the streets, the coffee shops are busy and local commerce surges.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.101,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "807537132bfd26434534819daf63281429e1f31e",
+      "url": "https://www.cbc.ca/news/gopublic/canadian-telecom-long-hold-times-9.7428880?cmp=rss",
+      "title": "Canadians fed up with long hold times want telcos to answer calls within 10 minutes",
+      "published_at": "2026-11-23T06:05:06-05:00",
+      "section": "Top Stories",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d507522c22c0f8988bbe92a01b07b7af080842db",
+      "url": "https://www.cbc.ca/radio/frontburner/who-s-spying-on-whom-and-why-9.7432033?cmp=rss",
+      "title": "Who's spying on whom and why?",
+      "published_at": "2026-11-23T06:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "NVIDIA's former CEO is alleged to have been compromised by a Chinese spy. We explore the state of spycraft in the contemporary age.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9e4d4365504445a0755e7a22201a473a789a1fed",
+      "url": "https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss",
+      "title": "Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s",
+      "published_at": "2026-11-23T05:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why. Documents obtained by CBC News reveal the late Anishinaabe leader Tobasonakwut Kinew was under surveillance in the 1960s, an early target in a countrywide infiltration initiative later dubbed the \"Native extremism program.\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "804cc286fa97d1f47b9f04658af52e2707610e37",
+      "url": "https://www.cbc.ca/news/entertainment/don-toliver-concert-evacuated-9.7432218?cmp=rss",
+      "title": "Audience evacuated from Don Toliver concert in Manchester after unknown substance released in crowd",
+      "published_at": "2026-11-23T04:51:49-05:00",
+      "section": "Top Stories",
+      "summary_auto": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver after an unknown substance was released in the crowd, British police said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4f4fb1a08bf124379c0977b36c67acfcbf20fb8a",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/gold-mine-valentine-buchans-9.7426369?cmp=rss",
+      "title": "A gold mine has created a 'little town' in central Newfoundland — and it's about to get bigger",
+      "published_at": "2026-11-23T04:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Step inside the Valentine gold mine near Buchans, which is now Atlantic Canada's largest.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6627ab4f84603a26c4c4977ede671cc7b7ee21a2",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/odriscoll-stayed-at-castle-hunting-lodge-mowi-paid-9.7429872?cmp=rss",
+      "title": "N.L. fisheries minister stayed in Scottish castle, ‘luxury’ shooting lodge on aquaculture giant’s dime",
+      "published_at": "2026-11-23T04:30:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Newfoundland and Labrador’s NDP says the province’s fisheries minister put himself in a “brutal” conflict of interest when he stayed in a castle, then a “luxury” shooting lodge — all on the dime of an aquaculture company — during a trip to Scotland last June.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f929203f744575fb379d5e4d1a150338c701be2c",
+      "url": "https://www.cbc.ca/news/world/india-biggest-slum-dharavi-redevelopment-9.7426347?cmp=rss",
+      "title": "Inside India's bold plan to transform its largest slum, Dharavi, into a multibillion-dollar development",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "India's largest slum is being cleared to make room for a modern urban development to include rehabilitated slum housing plus luxury condos and office towers. It's a massive regeneration project, funded by private and public money. But will it work?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c56f6d74f58c7884988074315038cd94273940b0",
+      "url": "https://www.cbc.ca/news/health/daily-cannabis-use-higher-alcohol-cigarettes-9.7430174?cmp=rss",
+      "title": "More Canadians are using cannabis daily than are drinking alcohol daily: study",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Daily use of cannabis has outstripped daily use of alcohol in Canada, with young Canadians at the front of the trend, new data shows. Experts say this generational shift brings some positives, but that many Canadians remain unaware that there are risks with overuse of cannabis.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.392,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7b849554801bcb05d8a7326434ada2a35eb6aca4",
+      "url": "https://www.cbc.ca/news/canada/manitoba/canadian-government-step-independently-reviewing-wrongful-convictions-9.7432027?cmp=rss",
+      "title": "Feds launch recruitment for independent Miscarriage of Justice Review Commission",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Guilt or innocence will not be determined by the commission, but it will instead investigate potential miscarriage of justice and may order a remedy, such as a new trial or new appeal.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.76,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "79749842a28ca65a0b0a67aa566a6018629eecb5",
+      "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-privacy-senate-9.7430455?cmp=rss",
+      "title": "Big tech, law enforcement make final pitches as Senate considers data access bill's future",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Big tech is launching its final salvo to scale back the Liberal government's contentious proposed national security legislation, which would change how companies retain and hand over user data to Canadian police and intelligence officers, as it nears its last legislative hurdle in the Senate. Law enforcement agencies are also making a passionate appeal for senators to pass the bill as soon as possible.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.872,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3f630ff146e6fb37db24e0adb73984642aa945bd",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-crossing-guard-ontario-money-9.7430436?cmp=rss",
+      "title": "Toronto to receive $29M top-up for crossing guards that speed cameras used to fund",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Ford government banned speed cameras across Ontario in November 2025, leaving many cities worrying about safety and funding. Now, the City of Toronto looks set to receive a one-time payment of almost $30 million to help with lost revenue that used to pay for crossing guards.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "da3bb3aed9370c8b995b276b5420797367653b3d",
+      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-unifor-contract-negotiations-brampton-windsor-federal-9.7430088?cmp=rss",
+      "title": "'Unprecedented': Why this round of Stellantis, Unifor contract talks is like no other",
+      "published_at": "2026-11-23T04:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "In the spring, Unifor Local 444 president James Stewart, who represents 6,000 workers at the Stellantis assembly plant in Windsor, Ont., warned that this year's contract talks with the global carmaker would be the toughest round of bargaining ever in the powerful union's long history — even worse than during the 2008 financial crisis. He seems to have been right.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "medium"
       }
     },
     {
       "id": "a4340ec05a289320b68c4edc8f588676d1e740a2",
       "url": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
       "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
-      "published_at": "2026-11-22T20:55:29-05:00",
+      "published_at": "2026-11-22T23:28:09-05:00",
       "section": "Top Stories",
-      "summary_auto": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
+      "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.848,
+        "sentiment": 0.402,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "0a9a604509e08a7eab314facf1e8861a995356f5",
-      "url": "https://www.cbc.ca/player/play/9.7432128?cmp=rss",
-      "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
-      "published_at": "2026-11-22T20:29:23-05:00",
+      "id": "829de02578a0f7ccd6250bd904b20d82489c086d",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148?cmp=rss",
+      "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
+      "published_at": "2026-11-22T22:55:29-05:00",
       "section": "Canada",
-      "summary_auto": "Prime Minister Mark Carney delivered a few jabs at his fellow politicians, journalists and U.S. President Donald Trump at the annual Parliamentary Press Gallery dinner in Ottawa on Saturday. 'This is a tough room. And I've been in the Oval Office, alone, with its new interior decorator,' Carney said, in an apparent poke at the U.S. leader. (Raw, unedited speech)",
+      "summary_auto": "After 16 years in business, a Vancouver burger chain has announced the permanent closure of its restaurants because of ongoing financial challenges. It's the latest in a series of closures highlighting the pressures facing the food service industry.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.361,
-        "subjectivity_hint": "medium"
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3ace68fab753447bff763cf33b604a6649c9cc31",
+      "url": "https://www.cbc.ca/news/canada/montreal/dylan-larkin-montreal-canadiens-9.7432157?cmp=rss",
+      "title": "Montreal Canadiens acquire centre Dylan Larkin from Red Wings in blockbuster trade",
+      "published_at": "2026-11-22T21:39:36-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Red Wings traded centre Dylan Larkin to the Montreal Canadiens in a blockbuster deal on Sunday, ending a drawn-out saga after Detroit's former captain requested a move in the off-season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.832,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -86,7 +268,7 @@
       "url": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss",
       "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
       "published_at": "2026-11-22T12:57:36-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "Lewis Pugh, who is a United Nations Patron of the Oceans, spent three days last week swimming parts of the dangerous waterway to highlight how Iran war threatens the area's habitat and wildlife.",
       "bias_heuristic": {
         "article_type": "News",
@@ -112,7 +294,7 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss",
       "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
       "published_at": "2026-11-22T10:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,154 +307,11 @@
       "url": "https://www.cbc.ca/news/entertainment/miley-cyrus-maxx-morando-wedding-9.7431784?cmp=rss",
       "title": "Miley Cyrus weds Maxx Morando in California, People magazine reports",
       "published_at": "2026-11-22T09:51:58-05:00",
-      "section": "Top Stories",
+      "section": "Entertainment",
       "summary_auto": "Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx ‌Morando, in California on Saturday, People magazine and other U.S. entertainment news ​outlets reported.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.421,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "753127cf28dea8bbc1ded72448d0a8fc10443ca3",
-      "url": "https://www.cbc.ca/news/world/indonesian-candy-factory-fire-9.7431686?cmp=rss",
-      "title": "Fire at Indonesian candy factory leaves 3 dead, dozens of workers missing",
-      "published_at": "2026-11-22T08:17:40-05:00",
-      "section": "World",
-      "summary_auto": "A fire swept through a candy factory in Indonesia's Banten province Saturday, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for, officials said.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.906,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "085d987a0b1f06af4fe7c97232cdff0b4cf92b53",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss",
-      "title": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
-      "published_at": "2026-11-22T08:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Prince George's Meryeta O'Dine suffered fractured ankle in a devastating crash during a snowboard cross training run in February and was unable to compete at the 2026 Olympics.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.888,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "414daf38e2c8b07103f8907556069d9b1166d42f",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss",
-      "title": "B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home",
-      "published_at": "2026-11-22T07:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A West Kootenay couple is counting their blessings after a massive fire destroyed their home-based mechanic shop in Burton, B.C. — and came dangerously close to taking their house with it.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.898,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "a3a79459e8e185d1a99486ebc18a4665d14126fc",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/bedford-scream-club-uses-screaming-as-therapy-9.7424996?cmp=rss",
-      "title": "Frustrated? Angry? Why these Nova Scotians say you should scream it out",
-      "published_at": "2026-11-22T05:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "A group of Nova Scotians now meet weekly to scream their frustrations into the ocean. From grocery prices to global instability, they say there's plenty to motivate them these days.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.916,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "7b65ae3832f058fa44e3669b43c581064cd0ebf6",
-      "url": "https://www.cbc.ca/player/play/9.7431001?cmp=rss",
-      "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
-      "published_at": "2026-11-22T04:30:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.901,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "637b000eb1c9170b8eb3fa47b011c1b614981e55",
-      "url": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss",
-      "title": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
-      "published_at": "2026-11-22T04:01:42-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.153,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da7f0203bcbbf5b55628ff012a0d963b0dd8cb95",
-      "url": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
-      "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-      "published_at": "2026-11-22T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "bab420c372ac2aee7dea37fc2aac1da4ec3aab5d",
-      "url": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
-      "title": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-      "published_at": "2026-11-22T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\"  emphasizing a call for workers  to refuse to handle weapons and military equipment destined for Israel.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.813,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "90717b278386d4efbae3fa589398ee1ac915fe70",
-      "url": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
-      "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-      "published_at": "2026-11-22T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.598,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "9b62735c60208825fa3ef69528fd4fcd1d1718cd",
-      "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
-      "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
-      "published_at": "2026-11-22T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada. Rights advocates say that would cut refugees and other newcomers off from a key platform they rely on to get information and stay connected to relatives back home.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.784,
-        "subjectivity_hint": "high"
-      }
-    },
-    {
-      "id": "38e0dfa601f71ac6fb938a49c5265cd4fe2c961f",
-      "url": "https://www.cbc.ca/player/play/9.7430888?cmp=rss",
-      "title": "Hudson, Que., community brings landmark church back to life after massive fire in 2024",
-      "published_at": "2026-11-22T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "More than two and a half years after a fire ripped through the historic St. James Church, work continues to bring it back to its former glory — but with a twist. The new space will serve not just as a church, but as a multipurpose community and cultural centre.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     }
