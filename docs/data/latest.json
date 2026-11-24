@@ -1,54 +1,262 @@
 {
   "source": "CBC News",
-  "generated_at": "2026-11-23T08:55:44.217123-05:00",
+  "generated_at": "2026-11-23T20:26:39.829144-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
-      "id": "bc77c4f7f281b0d7c7aa760186a7ff0b07cdd426",
-      "url": "https://www.cbc.ca/news/canada/bell-cybersecurity-incident-virgin-plus-9.7432273?cmp=rss",
-      "title": "Bell says cybersecurity incident affected customers at Virgin Plus, Lucky Mobile",
-      "published_at": "2026-11-23T08:50:46-05:00",
-      "section": "Top Stories",
-      "summary_auto": "A spokesperson for Bell says customers across its network of subsidiaries, including Virgin Plus and Lucky Mobile, were affected by a Nov. 17 breach but no \"highly sensitive\" information such as credit card numbers or banking information was impacted.",
+      "id": "06c192e859bf17c7704a5b3a91fa281bb472b324",
+      "url": "https://www.cbc.ca/player/play/9.7433479?cmp=rss",
+      "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
+      "published_at": "2026-11-23T19:32:27-05:00",
+      "section": "World",
+      "summary_auto": "Nvidia's board unanimously voted to reinstate Jensen Huang as CEO, stating the decision followed consultation with multiple stakeholders — including the U.S. government. Andrew Chang breaks down how the CEO of a trillion-dollar tech company returned just 11 days after being forced to step down following reports of an affair with a suspected Chinese spy. (Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.421,
+        "sentiment": -0.037,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "f87fe60e9b6c57c0359e5da49f17d6076e3b999b",
-      "url": "https://www.cbc.ca/news/canada/edmonton/cattle-auction-9.7430383?cmp=rss",
-      "title": "Sold! Why live cattle auctions still matter to Alberta ranchers in an era of online bidding",
-      "published_at": "2026-11-23T07:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Ranchers say you can still tell when it’s auction day in farming towns: trucks are lined up on the streets, the coffee shops are busy and local commerce surges.",
+      "id": "de36024656957f3009d99154d9d3f9c081315809",
+      "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+      "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+      "published_at": "2026-11-23T18:32:21-05:00",
+      "section": "World",
+      "summary_auto": "The Pentagon has escalated its criticism of Canada, accusing Ottawa of failing to meet NATO and NORAD obligations and putting domestic economic interests ahead of military effectiveness. The extraordinary public rebuke comes amid mounting tensions over bilateral defence co-operation, military readiness and the Carney government’s review of the F-35 purchase.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.101,
+        "sentiment": -0.361,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "807537132bfd26434534819daf63281429e1f31e",
-      "url": "https://www.cbc.ca/news/gopublic/canadian-telecom-long-hold-times-9.7428880?cmp=rss",
-      "title": "Canadians fed up with long hold times want telcos to answer calls within 10 minutes",
-      "published_at": "2026-11-23T06:05:06-05:00",
+      "id": "9ef9408c6ed3d4c42d70bb23b89a8cfd49b9b72c",
+      "url": "https://www.cbc.ca/radio/asithappens/arizona-toddler-rescue-9.7433239?cmp=rss",
+      "title": "'I'm not a hero,' says Arizona man who found lost toddler alone in the desert",
+      "published_at": "2026-11-23T18:16:05-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Search parties with helicopters, K-9 units and heat-seeking drones scoured the rural dessert community of Eloy, Ariz. for hours looking two-year-old Vella Campillo after she wandered away from her backyard — all to no avail. Then Jay Stewart found her hiding in a bush.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.786,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e5de2f2aa03ae23523326ff1cfaf3fbb588448a1",
+      "url": "https://www.cbc.ca/news/world/west-bank-violence-settlers-phri-9.7433262?cmp=rss",
+      "title": "Rights group details 'surge' in violent attacks on Palestinian health-care workers",
+      "published_at": "2026-11-23T18:11:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Based on testimony from health-care workers, Physicians for Human Rights Israel says there’s been a 350 per cent increase in violence against Palestinian health workers by settlers and the Israeli military. Israel denies the report's claims.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0d7b4bf5c1c71f4434e4f628d03540effdc3da01",
+      "url": "https://www.cbc.ca/news/world/masar-badil-added-terrorist-entity-list-9.7433007?cmp=rss",
+      "title": "Canada adds Masar Badil group to terrorist entity list, citing status as alias for Samidoun",
+      "published_at": "2026-11-23T17:38:31-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Canada's public safety minister announced Monday that Masar Badil had been added to the country's terrorist entity list, as an alias for Samidoun, a group which was added to the same list in 2024.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7414a7012ac2e9e9793921527bb7800840b9fd3d",
+      "url": "https://www.cbc.ca/news/politics/privacy-commissioner-surveillance-pricing-9.7433216?cmp=rss",
+      "title": "More transparency needed on surveillance pricing, privacy commissioner says",
+      "published_at": "2026-11-23T17:29:33-05:00",
+      "section": "Canada",
+      "summary_auto": "Canada's privacy commissioner says people should be warned when they are being targeted by surveillance pricing.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4c4c30ae2ff353e648806f2349b3acacd6b46b43",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/gander-resident-matthew-collins-accused-of-making-threat-against-mosque-police-say-9.7433124?cmp=rss",
+      "title": "Court holds N.L. man over fear he will commit terrorist acts after threats against mosque",
+      "published_at": "2026-11-23T17:16:45-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Facing eight charges and a court application used when there is a “fear of terrorism offence,” Matthew Collins was allegedly making threats against a mosque.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.958,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "78cadb9574a419d9283a6bcba7b37890263b4e94",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-natural-gas-market-legisation-9.7433146?cmp=rss",
+      "title": "Legislation would enable Alberta to create a Crown corporation for natural gas transmission",
+      "published_at": "2026-11-23T16:40:19-05:00",
+      "section": "Canada",
+      "summary_auto": "The Natural Gas Infrastructure Act, if passed, would also allow the government to create a separate provincial entity to plan natural gas infrastructure in the province.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.891,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9c16ce81248b1e50792d7e19720e8ee75d753203",
+      "url": "https://www.cbc.ca/player/play/9.7433139?cmp=rss",
+      "title": "How Ukraine destroyed one of Russia's newest warships",
+      "published_at": "2026-11-23T16:26:22-05:00",
+      "section": "World",
+      "summary_auto": "Ukraine says its naval drones sank one of Russia's newest vessels – the corvette Merkury – in a Libyan port. Seven drones were used in the attack, which also hit a cargo ship which President Volodymyr Zelenskyy said Russia used to transport weapons. CBC's Briar Stewart explains what we know about the operation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.866,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "64eb04aa79b946e5c9b53d606891eda81998adc5",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-school-attack-girl-bail-hearing-9.7432951?cmp=rss",
+      "title": "Girl, 14, planned random killing of child at her former Winnipeg elementary school: Crown",
+      "published_at": "2026-11-23T16:17:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A teen girl accused of planning to kill a child at her former Winnipeg elementary school was radicalized online and had a romantic fantasy about an American school shooter, a court heard before the teen was granted bail last week.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d1605a35145ec3ffd66686b66c037cd4098a808",
+      "url": "https://www.cbc.ca/news/canada/toronto/interprovincial-trade-ford-smith-ontario-alberta-9.7433089?cmp=rss",
+      "title": "Ontario, Alberta premiers weigh in on interprovincial trade, say it remains complicated",
+      "published_at": "2026-11-23T16:08:26-05:00",
+      "section": "Canada",
+      "summary_auto": "During a fireside chat held by the Toronto Region Board of Trade, the leaders of Ontario and Alberta said internal trade barriers remain across the country despite moves to open up interprovincial free trade.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46f54013e9c2f72bac5825941858b1fba2b53b59",
+      "url": "https://www.cbc.ca/news/politics/dnd-cadet-program-top-up-9.7432950?cmp=rss",
+      "title": "Defence Department tops up cadet program after outrage over cancelled activities",
+      "published_at": "2026-11-23T15:06:34-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The Defence Department will top up the budget of the cadet and junior ranger programs to allow weekend training and other activities to continue into the new year, Defence Minister David McGuinty said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "68a65ce99c96d10b745df36935c8be16ce7e3708",
+      "url": "https://www.cbc.ca/news/entertainment/jennifer-lopez-latina-roles-comments-backlash-9.7432743?cmp=rss",
+      "title": "Jennifer Lopez says being Latina limited her early acting roles. Not everyone agrees",
+      "published_at": "2026-11-23T15:05:55-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Jennifer Lopez said being Latina limited her early acting opportunities, prompting her to create roles for herself — a claim that drew online criticism because of her high profile and extensive career.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.38,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4e00cdec2b69c95267d63cf63d82e4dc6ecec5de",
+      "url": "https://www.cbc.ca/news/canada/windsor/more-charges-windsor-sexual-assault-investigation-9.7432908?cmp=rss",
+      "title": "Windsor, Ont., hospital ex-employee facing 3 more sex assault charges after patients come forward: police",
+      "published_at": "2026-11-23T14:41:42-05:00",
+      "section": "Canada",
+      "summary_auto": "Windsor, Ont., police say new sexual assault charges have been brought against 29-year-old Cody Tyler Desbien, a former hospital ultrasound technician, bringing the count to four after more patients came forward.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.907,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a770fd84bacceca7d66147cdd45c0fe3a2060547",
+      "url": "https://www.cbc.ca/news/world/iran-singer-flogging-9.7432912?cmp=rss",
+      "title": "Iranian singer subjected to 74 lashes for performing without her hijab",
+      "published_at": "2026-11-23T14:32:44-05:00",
+      "section": "Top Stories",
+      "summary_auto": "An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency ‌by producing and publishing obscene and immoral content online,\" an Iranian news website said on Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1a6aed71439bb343545ad51278145f41eb3b24d",
+      "url": "https://www.cbc.ca/news/canada/london/jackie-dunleavy-murder-case-solved-dna-9.7432089?cmp=rss",
+      "title": "London, Ont., police solve 1968 murder of teenager Jackie Dunleavy using genetic genealogy",
+      "published_at": "2026-11-23T14:16:53-05:00",
       "section": "Top Stories",
       "summary_auto": "",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.077,
+        "sentiment": -0.599,
         "subjectivity_hint": "low"
       }
     },
     {
-      "id": "d507522c22c0f8988bbe92a01b07b7af080842db",
-      "url": "https://www.cbc.ca/radio/frontburner/who-s-spying-on-whom-and-why-9.7432033?cmp=rss",
-      "title": "Who's spying on whom and why?",
-      "published_at": "2026-11-23T06:00:00-05:00",
+      "id": "9cf0d3bab65db5fa4051d94dabe7c2c6772d2685",
+      "url": "https://www.cbc.ca/news/canada/montreal/defence-bank-quebec-bid-9.7432873?cmp=rss",
+      "title": "Quebec rallies behind Montreal’s bid for global defence bank headquarters",
+      "published_at": "2026-11-23T14:07:08-05:00",
+      "section": "Canada",
+      "summary_auto": "Montreal is competing to host the headquarters of the Defence, Security and Resilience Bank (DSRB), and Quebec's sovereignist government has thrown its full support behind the bid.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "11138ffd4795440160e4a5ca205e0c0c02734f96",
+      "url": "https://www.cbc.ca/news/world/seattle-airport-ice-arrest-9.7432394?cmp=rss",
+      "title": "What happened at the Seattle airport? Outrage as ICE arrests man and daughter boarding flight",
+      "published_at": "2026-11-23T14:00:41-05:00",
       "section": "Top Stories",
-      "summary_auto": "NVIDIA's former CEO is alleged to have been compromised by a Chinese spy. We explore the state of spycraft in the contemporary age.",
+      "summary_auto": "A chaotic scene unfolded at Seattle-Tacoma International Airport Saturday as a father and daughter were detained by masked immigration officers while boarding their flight bound for L.A.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fc73e0c35b079f0c8650b970ad545cbd54fc0fba",
+      "url": "https://www.cbc.ca/news/canada/hamilton/brianne-jenner-inaugural-captain-hamilton-havoc-pwhl-9.7432819?cmp=rss",
+      "title": "Brianne Jenner named Hamilton Havoc's first-ever captain",
+      "published_at": "2026-11-23T13:44:49-05:00",
+      "section": "Canada",
+      "summary_auto": "Forward Brianne Jenner has been named the first captain in Hamilton Havoc history, the PWHL team said Monday.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5a14fb2a288db708cdbe30af222ea51cd474b83e",
+      "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-100m-world-box-office-9.7432823?cmp=rss",
+      "title": "You Can See Everything crosses $100M US worldwide at the box office",
+      "published_at": "2026-11-23T13:44:22-05:00",
+      "section": "Top Stories",
+      "summary_auto": "As Nathan Fielder's You Can See Everything makes its way into cinemas around the globe, the buzzy documentary is proving a big-screen draw with international audiences, too, taking in more than $100 million US at box offices worldwide.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -56,12 +264,168 @@
       }
     },
     {
-      "id": "9e4d4365504445a0755e7a22201a473a789a1fed",
-      "url": "https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss",
-      "title": "Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s",
-      "published_at": "2026-11-23T05:00:00-05:00",
+      "id": "4af0cad1f62acb460b65b027d0eb7d9dd89bdf75",
+      "url": "https://www.cbc.ca/player/play/9.7432634?cmp=rss",
+      "title": "Arriving at Son of a Critch finale 'surreal', says Benjamin Evan Ainsworth",
+      "published_at": "2026-11-23T13:30:00-05:00",
+      "section": "Canada",
+      "summary_auto": "He's played a young Mark Critch for the last five seasons on CBC's Son of a Critch. And on Tuesday, Benjamin Evan Ainsworth will tune into the show's finale. Ahead of the finale episode, Ainsworth shared his thoughts and memories of working on the show in Newfoundland and Labrador with the CBC's Jen White.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3de4bbb9c1d8c7bde4c8a75a5d8134bbbc834a57",
+      "url": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-dentist-9.7432787?cmp=rss",
+      "title": "Dentist pleads guilty to professional misconduct in 23-year-old's death",
+      "published_at": "2026-11-23T13:19:54-05:00",
       "section": "Top Stories",
-      "summary_auto": "Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why. Documents obtained by CBC News reveal the late Anishinaabe leader Tobasonakwut Kinew was under surveillance in the 1960s, an early target in a countrywide infiltration initiative later dubbed the \"Native extremism program.\"",
+      "summary_auto": "A Manitoba dentist was found guilty of professional misconduct Monday in connection with a woman's 2024 death, admitting he gave Virginia Blatz much more local anesthetic than the recommended dose.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a0e47468a40e829a62db1f957b7d07c8cd505dc",
+      "url": "https://www.cbc.ca/news/canada/manitoba/black-river-first-nation-sio-silica-sand-mining-9.7432530?cmp=rss",
+      "title": "'The land is ours': First Nation intends to mine sand in Manitoba through Sio Silica partnership",
+      "published_at": "2026-11-23T13:08:48-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A Manitoba First Nation is planning to push ahead with a proposed sand mining operation to support a solar panel manufacturing facility, whether the provincial government likes it or not.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6125406af230102a7fb624a994b74b238ec1ead2",
+      "url": "https://www.cbc.ca/news/canada/edmonton/corn-maze-killing-not-criminally-responsible-9.7432801?cmp=rss",
+      "title": "Man charged in Edmonton-area corn maze killing found not criminally responsible",
+      "published_at": "2026-11-23T12:54:00-05:00",
+      "section": "Canada",
+      "summary_auto": "A man charged with second-degree murder for a fatal stabbing at an Edmonton-area corn maze has been found not criminally responsible because of a mental disorder.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.968,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "07645dd5ff10af809f2afc4b6be4f0d75809edd7",
+      "url": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
+      "title": "U.S. army can detonate Iowa's degraded bomb-making material, federal appeals court says",
+      "published_at": "2026-11-23T12:52:57-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A federal appeals court has cleared the way for the U.S. army to detonate several tonnes of degraded bomb-making material at an Iowa ammunition plant, finding that the plan should limit the dispersal of lead dust into the atmosphere and address concerns raised by environmental groups.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.637,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5fb86b85073c0a6ed30c57d115473d5ccff7f29b",
+      "url": "https://www.cbc.ca/news/canada/calgary/jon-wells-blood-tribe-calgary-police-officers-charged-manslaughter-9.7432609?cmp=rss",
+      "title": "3 Calgary police officers charged with manslaughter in death of unarmed Blood Tribe man",
+      "published_at": "2026-11-23T12:04:14-05:00",
+      "section": "Top Stories",
+      "summary_auto": "Three Calgary police officers have been charged with manslaughter two years after an unarmed Blood Tribe man died while in police custody.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.878,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "55ee07a20b7d562a0e1ec173903d932d0d24bb9d",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/womens-world-cup-host-bids-soccer-united-states-england-9.7432482?cmp=rss",
+      "title": "FIFA picks American-led bid as 2031 Women's World Cup host",
+      "published_at": "2026-11-23T10:28:29-05:00",
+      "section": "World",
+      "summary_auto": "FIFA on Monday confirmed the United States will lead a four-nation, regional co-hosting of the 2031 Women's World Cup, and a UK project led by England was ratified for the 2035 edition.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7357d313084126dbe56a4ef33aa6ba10f21069ac",
+      "url": "https://www.cbc.ca/news/business/jensen-huang-reinstated-nvidia-9.7432353?cmp=rss",
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "published_at": "2026-11-23T09:18:53-05:00",
+      "section": "World",
+      "summary_auto": "Nvidia's board reinstated Jensen Huang as its president and CEO on Monday in a surprise move shortly after rejecting his offer to return. It's the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e97dc458bdfa992af73b1de276bee0a7e9bf2fdf",
+      "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7432277?cmp=rss",
+      "title": "North American stocks soar, recovering half of last week's plunge after Jensen Huang returns as Nvidia's CEO",
+      "published_at": "2026-11-23T09:02:18-05:00",
+      "section": "Business",
+      "summary_auto": "Nvidia led a tremendous rally on Wall Street on Monday following the surprise return of Jensen Huang as its CEO. Nvidia's stock finished just shy of its best day since 2000.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc77c4f7f281b0d7c7aa760186a7ff0b07cdd426",
+      "url": "https://www.cbc.ca/news/canada/bell-cybersecurity-incident-virgin-plus-9.7432273?cmp=rss",
+      "title": "Bell confirms data breach of Virgin Plus, Lucky Mobile. What should customers do?",
+      "published_at": "2026-11-23T08:50:46-05:00",
+      "section": "Top Stories",
+      "summary_auto": "A spokesperson for Bell says customers across its network of subsidiaries, including Virgin Plus and Lucky Mobile, were affected by a Nov. 17 breach but no \"highly sensitive\" information such as credit card numbers or banking information was impacted.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a12da78f63e9c41de2ee78ddb932ac886c07238e",
+      "url": "https://www.cbc.ca/news/canada/tighter-funding-leaves-northern-cadets-out-in-the-cold-9.7432055?cmp=rss",
+      "title": "Tighter funding leaves northern cadets out in the cold",
+      "published_at": "2026-11-23T08:39:37-05:00",
+      "section": "Canada",
+      "summary_auto": "The federal government is investing heavily in the North, but some people involved with the cadet program say Department of National Defence is shortchanging northern kids.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0e60a75e25a0955acd8b41bec7925b69d6a603ab",
+      "url": "https://www.cbc.ca/news/canada/montreal/2-americans-to-be-sentenced-in-murder-of-quebec-couple-in-dominica-9.7432250?cmp=rss",
+      "title": "2 Americans sentenced to life in prison for murder of Quebec couple in Dominica",
+      "published_at": "2026-11-23T07:18:19-05:00",
+      "section": "Top Stories",
+      "summary_auto": "The two Americans convicted of murdering Quebec entrepreneur Daniel Langlois and his partner Dominique Marchand in Dominica in December 2023 were sentenced on Monday to life in prison without parole.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.95,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6f3723d89152b2f0d3edf26d82475cb27eb19e65",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/yorkton-melville-2026-byelection-9.7429846?cmp=rss",
+      "title": "How will Mark Carney's appeal influence the Yorkton-Melville byelection?",
+      "published_at": "2026-11-23T07:00:00-05:00",
+      "section": "Canada",
+      "summary_auto": "The Liberals are running Aaron Kienle, the sitting Mayor of Yorkton, as their candidate in the byelection set for Dec. 7.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -69,15 +433,15 @@
       }
     },
     {
-      "id": "804cc286fa97d1f47b9f04658af52e2707610e37",
-      "url": "https://www.cbc.ca/news/entertainment/don-toliver-concert-evacuated-9.7432218?cmp=rss",
-      "title": "Audience evacuated from Don Toliver concert in Manchester after unknown substance released in crowd",
-      "published_at": "2026-11-23T04:51:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver after an unknown substance was released in the crowd, British police said Monday.",
+      "id": "485749682889e9e0c3f410f91c89cf04f919f888",
+      "url": "https://www.cbc.ca/news/world/ukraine-attack-russian-warship-libya-merkury-9.7432215?cmp=rss",
+      "title": "Zelenskyy confirms Ukraine was behind attack on Russian warship off Libya",
+      "published_at": "2026-11-23T04:47:02-05:00",
+      "section": "World",
+      "summary_auto": "Ukraine carried out an attack on a Russian warship moored at a naval base in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the vessel in a surprise assault the previous day.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.0,
+        "sentiment": -0.883,
         "subjectivity_hint": "low"
       }
     },
@@ -86,7 +450,7 @@
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/gold-mine-valentine-buchans-9.7426369?cmp=rss",
       "title": "A gold mine has created a 'little town' in central Newfoundland — and it's about to get bigger",
       "published_at": "2026-11-23T04:30:00-05:00",
-      "section": "Top Stories",
+      "section": "Canada",
       "summary_auto": "Step inside the Valentine gold mine near Buchans, which is now Atlantic Canada's largest.",
       "bias_heuristic": {
         "article_type": "News",
@@ -95,16 +459,16 @@
       }
     },
     {
-      "id": "6627ab4f84603a26c4c4977ede671cc7b7ee21a2",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/odriscoll-stayed-at-castle-hunting-lodge-mowi-paid-9.7429872?cmp=rss",
-      "title": "N.L. fisheries minister stayed in Scottish castle, ‘luxury’ shooting lodge on aquaculture giant’s dime",
-      "published_at": "2026-11-23T04:30:00-05:00",
+      "id": "f7779f7079c5603aab0ef819e5634ae600faee6e",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-lawyer-block-parliamentary-work-oath-king-9.7431849?cmp=rss",
+      "title": "Quebec's legislative session in limbo as court mandates oath to the King",
+      "published_at": "2026-11-23T04:00:00-05:00",
       "section": "Top Stories",
-      "summary_auto": "Newfoundland and Labrador’s NDP says the province’s fisheries minister put himself in a “brutal” conflict of interest when he stayed in a castle, then a “luxury” shooting lodge — all on the dime of an aquaculture company — during a trip to Scotland last June.",
+      "summary_auto": "A Quebec Superior Court judge has suspended the province’s law that made the oath to King Charles optional, ordering that members of the province's legislature must swear allegiance before sitting at the National Assembly. Premier Paul St-Pierre Plamondon said Monday he would refuse to take the oath, and that he would fight the ruling.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.178,
-        "subjectivity_hint": "low"
+        "sentiment": -0.557,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -112,7 +476,7 @@
       "url": "https://www.cbc.ca/news/world/india-biggest-slum-dharavi-redevelopment-9.7426347?cmp=rss",
       "title": "Inside India's bold plan to transform its largest slum, Dharavi, into a multibillion-dollar development",
       "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "summary_auto": "India's largest slum is being cleared to make room for a modern urban development to include rehabilitated slum housing plus luxury condos and office towers. It's a massive regeneration project, funded by private and public money. But will it work?",
       "bias_heuristic": {
         "article_type": "News",
@@ -125,193 +489,11 @@
       "url": "https://www.cbc.ca/news/health/daily-cannabis-use-higher-alcohol-cigarettes-9.7430174?cmp=rss",
       "title": "More Canadians are using cannabis daily than are drinking alcohol daily: study",
       "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Top Stories",
+      "section": "Health",
       "summary_auto": "Daily use of cannabis has outstripped daily use of alcohol in Canada, with young Canadians at the front of the trend, new data shows. Experts say this generational shift brings some positives, but that many Canadians remain unaware that there are risks with overuse of cannabis.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.392,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "7b849554801bcb05d8a7326434ada2a35eb6aca4",
-      "url": "https://www.cbc.ca/news/canada/manitoba/canadian-government-step-independently-reviewing-wrongful-convictions-9.7432027?cmp=rss",
-      "title": "Feds launch recruitment for independent Miscarriage of Justice Review Commission",
-      "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Guilt or innocence will not be determined by the commission, but it will instead investigate potential miscarriage of justice and may order a remedy, such as a new trial or new appeal.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.76,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "79749842a28ca65a0b0a67aa566a6018629eecb5",
-      "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-privacy-senate-9.7430455?cmp=rss",
-      "title": "Big tech, law enforcement make final pitches as Senate considers data access bill's future",
-      "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Top Stories",
-      "summary_auto": "Big tech is launching its final salvo to scale back the Liberal government's contentious proposed national security legislation, which would change how companies retain and hand over user data to Canadian police and intelligence officers, as it nears its last legislative hurdle in the Senate. Law enforcement agencies are also making a passionate appeal for senators to pass the bill as soon as possible.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.872,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "3f630ff146e6fb37db24e0adb73984642aa945bd",
-      "url": "https://www.cbc.ca/news/canada/toronto/toronto-crossing-guard-ontario-money-9.7430436?cmp=rss",
-      "title": "Toronto to receive $29M top-up for crossing guards that speed cameras used to fund",
-      "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "The Ford government banned speed cameras across Ontario in November 2025, leaving many cities worrying about safety and funding. Now, the City of Toronto looks set to receive a one-time payment of almost $30 million to help with lost revenue that used to pay for crossing guards.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "da3bb3aed9370c8b995b276b5420797367653b3d",
-      "url": "https://www.cbc.ca/news/canada/windsor/stellantis-unifor-contract-negotiations-brampton-windsor-federal-9.7430088?cmp=rss",
-      "title": "'Unprecedented': Why this round of Stellantis, Unifor contract talks is like no other",
-      "published_at": "2026-11-23T04:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "In the spring, Unifor Local 444 president James Stewart, who represents 6,000 workers at the Stellantis assembly plant in Windsor, Ont., warned that this year's contract talks with the global carmaker would be the toughest round of bargaining ever in the powerful union's long history — even worse than during the 2008 financial crisis. He seems to have been right.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.758,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "a4340ec05a289320b68c4edc8f588676d1e740a2",
-      "url": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
-      "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
-      "published_at": "2026-11-22T23:28:09-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.402,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "829de02578a0f7ccd6250bd904b20d82489c086d",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148?cmp=rss",
-      "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
-      "published_at": "2026-11-22T22:55:29-05:00",
-      "section": "Canada",
-      "summary_auto": "After 16 years in business, a Vancouver burger chain has announced the permanent closure of its restaurants because of ongoing financial challenges. It's the latest in a series of closures highlighting the pressures facing the food service industry.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3ace68fab753447bff763cf33b604a6649c9cc31",
-      "url": "https://www.cbc.ca/news/canada/montreal/dylan-larkin-montreal-canadiens-9.7432157?cmp=rss",
-      "title": "Montreal Canadiens acquire centre Dylan Larkin from Red Wings in blockbuster trade",
-      "published_at": "2026-11-22T21:39:36-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Red Wings traded centre Dylan Larkin to the Montreal Canadiens in a blockbuster deal on Sunday, ending a drawn-out saga after Detroit's former captain requested a move in the off-season.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.832,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "abb9f1e6d6563504118bc53d5c7fedab48c6cac7",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127?cmp=rss",
-      "title": "First Nations leader warns of 'dire' consequences if B.C. repeals the Declaration on the Rights of Indigenous Peoples Act",
-      "published_at": "2026-11-22T20:06:09-05:00",
-      "section": "Canada",
-      "summary_auto": "British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premier Lorne Doerkson.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.599,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0deee8b33254dd8664e140f8f239454a98fc4378",
-      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
-      "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
-      "published_at": "2026-11-22T15:53:49-05:00",
-      "section": "Top Stories",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.71,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "64749039575c8ea59d3ba08c673d9b79cf62982e",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776?cmp=rss",
-      "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
-      "published_at": "2026-11-22T13:40:48-05:00",
-      "section": "Top Stories",
-      "summary_auto": "The Vancouver Police Board has discontinued pay for a high-profile officer accused of fraud and theft.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.938,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "b569df0b4cc50bd3e99dca282c481f7c557d46bf",
-      "url": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss",
-      "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
-      "published_at": "2026-11-22T12:57:36-05:00",
-      "section": "World",
-      "summary_auto": "Lewis Pugh, who is a United Nations Patron of the Oceans, spent three days last week swimming parts of the dangerous waterway to highlight how Iran war threatens the area's habitat and wildlife.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.727,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "92fe12e67ed10e136e73cad0918de768b72f9a64",
-      "url": "https://www.cbc.ca/player/play/9.7431916?cmp=rss",
-      "title": "Trump calling Putin a friend is 'appalling,' says former ambassador to NATO",
-      "published_at": "2026-11-22T12:55:16-05:00",
-      "section": "World",
-      "summary_auto": "Kurt Volker, former U.S. Ambassador to NATO, tells CBC's Rosemary Barton that it’s 'appalling' to hear U.S. President Donald Trump double down on calling Russian President Vladimir Putin his 'friend.' Volker also weighs in on the leaked classified Pentagon memo about restricting defence ties with Canada.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.273,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "52522a36dc5805252a04a1612ff733c42f04f6d2",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss",
-      "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
-      "published_at": "2026-11-22T10:00:00-05:00",
-      "section": "Canada",
-      "summary_auto": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.714,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "4f5c12ed1eb997d151632a8c2865da7e44ae434d",
-      "url": "https://www.cbc.ca/news/entertainment/miley-cyrus-maxx-morando-wedding-9.7431784?cmp=rss",
-      "title": "Miley Cyrus weds Maxx Morando in California, People magazine reports",
-      "published_at": "2026-11-22T09:51:58-05:00",
-      "section": "Entertainment",
-      "summary_auto": "Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx ‌Morando, in California on Saturday, People magazine and other U.S. entertainment news ​outlets reported.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     }
