@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Root &amp; Render News Reader</title>
+  <title>World Reader</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header>
-    <h1>Root &amp; Render News Reader</h1>
+    <h1>World Reader</h1>
+    <p>One world. Many perspectives.</p>
   </header>
   <main>
     <div id="filters">
@@ -17,7 +18,7 @@
           <option value="all">All Sections</option>
         </select>
       </label>
-      <input type="text" id="searchInput" placeholder="Search headlines" />
+      <input type="text" id="searchInput" placeholder="Search issues, concepts or sources" />
       <label>
         <input type="checkbox" id="opinionOnly" /> Opinion only
       </label>
@@ -29,7 +30,7 @@
       <span class="close">&times;</span>
       <h2 id="modalTitle"></h2>
       <p id="modalSummary"></p>
-      <p><a href="#" id="modalLink" target="_blank">Read full article</a></p>
+      <p><a href="#" id="modalLink" target="_blank" rel="noopener noreferrer">Read full article</a></p>
     </div>
   </div>
   <script src="app.js"></script>
