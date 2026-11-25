@@ -179,3 +179,4 @@ main {
   cursor: pointer;
   color: var(--accent);
 }
+.article-actions{display:flex;flex-wrap:wrap;align-items:center;gap:.75rem;margin-top:.8rem;font-size:.85rem}.article-actions button{font:inherit;color:var(--fg);background:var(--accent-light);border:1px solid var(--accent);border-radius:.4rem;padding:.35rem .65rem;cursor:pointer}.article-actions a,.related-panel a{color:var(--accent);text-decoration:underline}.related-panel{border-top:1px solid var(--accent);margin-top:1rem;padding-top:.5rem}.related-panel p{font-size:.9rem}.modal-content{width:min(680px,85vw);box-sizing:border-box}.modal-content h2{padding-right:1rem}#newsList>h2{font-size:1.25rem;overflow-wrap:anywhere}.chip{overflow-wrap:anywhere}button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
