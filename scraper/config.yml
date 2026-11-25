@@ -55,6 +55,49 @@ sections:
     url: https://rss.cbc.ca/lineup/arts.xml
     max_items: 5
 
+  aljazeera:
+    name: Al Jazeera
+    source: Al Jazeera
+    country: Qatar
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    max_items: 30
+  scmp:
+    name: South China Morning Post
+    source: South China Morning Post
+    country: Hong Kong, China
+    url: https://www.scmp.com/rss/91/feed
+    max_items: 30
+  thehindu:
+    name: The Hindu
+    source: The Hindu
+    country: India
+    url: https://www.thehindu.com/news/international/feeder/default.rss
+    max_items: 30
+  bbc:
+    name: BBC
+    source: BBC
+    country: United Kingdom
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    max_items: 30
+  abc:
+    name: ABC News
+    source: ABC News
+    country: Australia
+    url: https://www.abc.net.au/news/feed/51120/rss.xml
+    max_items: 30
+  france24:
+    name: France 24
+    source: France 24
+    country: France
+    url: https://www.france24.com/en/rss
+    max_items: 30
+  chinadaily:
+    name: China Daily
+    source: China Daily
+    country: China
+    url: https://www.chinadaily.com.cn/rss/world_rss.xml
+    max_items: 30
+
 # Set this to true to allow the scraper to fetch the full article
 # page and perform a deeper summary.  Because the scraper is
 # designed to respect the site’s terms of service and avoid heavy
