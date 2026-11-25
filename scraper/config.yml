@@ -129,6 +129,49 @@ sections:
     url: https://www.dailynewsegypt.com/feed/
     max_items: 25
 
+  agenciabrasil:
+    name: Agência Brasil
+    source: Agência Brasil
+    country: Brazil
+    url: https://agenciabrasil.ebc.com.br/en/rss.xml
+    max_items: 20
+  mexiconewsdaily:
+    name: Mexico News Daily
+    source: Mexico News Daily
+    country: Mexico
+    url: https://mexiconewsdaily.com/feed/
+    max_items: 20
+  antaranews:
+    name: ANTARA News
+    source: ANTARA News
+    country: Indonesia
+    url: https://en.antaranews.com/rss/news.xml
+    max_items: 20
+  vietnamnews:
+    name: Viet Nam News
+    source: Viet Nam News
+    country: Vietnam
+    url: https://vietnamnews.vn/rss/home.rss
+    max_items: 20
+  nation:
+    name: Nation Africa
+    source: Nation Africa
+    country: Kenya
+    url: https://nation.africa/kenya/rss
+    max_items: 20
+  dailymaverick:
+    name: Daily Maverick
+    source: Daily Maverick
+    country: South Africa
+    url: https://www.dailymaverick.co.za/feed/
+    max_items: 20
+  rnzp:
+    name: RNZ Pacific
+    source: RNZ Pacific
+    country: New Zealand
+    url: https://www.rnz.co.nz/rss/pacific.xml
+    max_items: 20
+
 # Set this to true to allow the scraper to fetch the full article
 # page and perform a deeper summary.  Because the scraper is
 # designed to respect the site’s terms of service and avoid heavy
