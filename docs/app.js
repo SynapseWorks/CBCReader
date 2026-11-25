@@ -14,11 +14,40 @@
   let items = [];
   const controls = document.getElementById('filters');
   const makeSelect = (label, values) => { const s = document.createElement('select'); s.setAttribute('aria-label', label); for (const [v,t] of values) s.add(new Option(t,v)); controls.appendChild(s); s.addEventListener('change',renderList); return s; };
-  const mode = makeSelect('Group by', [['concept','By concept'],['source','By publication'],['country','By publisher location'],['latest','Latest articles']]);
+  const mode = makeSelect('Group by', [['concept','By concept'],['story','Possible shared stories'],['source','By publication'],['country','By publisher location'],['latest','Latest articles']]);
   const sourceFilter = makeSelect('Publication', [['all','All publications']]);
   const countryFilter = makeSelect('Publisher location', [['all','All publisher locations']]);
   const concepts = [ ['Gender & LGBTQ+ rights', /transgender|gender.affirm|lgbtq|same.sex|queer|conversion therapy/i], ['Climate & energy', /climate|emissions|renewable|solar|wind power|coal|fossil fuel|battery|energy|cop\d+/i], ['Human rights & freedoms', /human rights|civil rights|censorship|freedom|discrimination|refugee|asylum|indigenous/i], ['Governance & democracy', /election|democra|parliament|government|legislation|politic|minister|president|court/i], ['Conflict & diplomacy', /war|military|ceasefire|diplomac|sanction|nato|invasion|peace talks/i], ['Economy & society', /econom|trade|tariff|housing|inflation|poverty|business|jobs/i], ['Health & science', /health|hospital|nurs|medicine|research|science|technology|space|vaccine/i] ];
-  function concept(item) { const t = item.title+' '+(item.summary_auto||''); return concepts.find(([n,re])=>re.test(t))?.[0] || 'Other developments'; }
+  concepts.push(['Education & culture', /school|universit|education|museum|culture|language|student/i], ['Technology & privacy', /artificial intelligence|cyber|privacy|surveillance|digital|internet|software/i], ['Migration & communities', /migration|immigrant|border|diaspora|community|communities/i], ['Food & environment', /agricultur|food security|biodiversity|forest|wildlife|water quality|pollution/i]);
+  const aliases = [['Gender & LGBTQ+ rights', /\btrans\b|gender identity|marriage equality|sexual orientation/i], ['Climate & energy', /global warming|decarbon|electric vehicle|net zero|carbon tax/i], ['Human rights & freedoms', /free speech|civil liberties|press freedom|bodily autonomy/i]];
+  function tags(item) { const t=item.title+' '+(item.summary_auto||''); return [...new Set([...concepts,...aliases].filter(([n,re])=>re.test(t)).map(([n])=>n))]; }
+  function concept(item) { return item.tags[0] || 'Other developments'; }
+  const stop = new Set('the a an and or in on at for of to from with by as is are was were be been has have had it its this that these those will would could can may says said say after before over about into new more than not their they them his her our your who what when where how why news report reports latest update world people year years day days amid against during'.split(' '));
+  function tokens(s) {return [...new Set((s.toLowerCase().match(/[\\p{L}\\p{N}]+/gu)||[]).filter(w=>w.length>=3&&!stop.has(w)).map(w=>w.length>5?w.replace(/(?:ing|ed|s)$/,''):w))];}
+  let weights=new Map(), links=new Map(), groups=new Map();
+  function indexNews(){
+    const df=new Map();
+    for(const item of items){item.tags=tags(item);item.words=tokens(item.title+' '+(item.summary_auto||''));item.head=new Set(tokens(item.title));for(const w of item.words)df.set(w,(df.get(w)||0)+1);}
+    weights=new Map([...df].map(([w,n])=>[w,1+Math.log((items.length+1)/(n+1))]));
+    for(const item of items){item.vector=new Map(item.words.map(w=>[w,weights.get(w)*(item.head.has(w)?2:1)]));item.norm=Math.hypot(...item.vector.values());links.set(item.id,[]);}
+    for(let i=0;i<items.length;i++)for(let j=i+1;j<items.length;j++){
+      const a=items[i],b=items[j];const hours=Math.abs(Date.parse(a.published_at)-Date.parse(b.published_at))/3600000;if(!Number.isFinite(hours)||hours>72)continue;
+      const common=a.words.filter(w=>b.vector.has(w));const headOverlap=common.filter(w=>a.head.has(w)&&b.head.has(w)).length;
+      const score=common.reduce((n,w)=>n+a.vector.get(w)*b.vector.get(w),0)/(a.norm*b.norm||1);
+      const story=hours<=48&&score>=0.38&&common.length>=3&&headOverlap>=2;
+      const related=score>=0.19&&common.length>=2;
+      if(story||related){links.get(a.id).push({item:b,score,story});links.get(b.id).push({item:a,score,story});}
+    }
+    for(const item of items)links.get(item.id).sort((a,b)=>Number(b.story)-Number(a.story)||b.score-a.score);
+    // Conservative anchor groups: every member must match the anchor; no transitive chaining.
+    for(const item of items){if(groups.has(item.id))continue;const matches=links.get(item.id).filter(x=>x.story&&!groups.has(x.item.id));if(!matches.some(x=>x.item.source!==item.source))continue;groups.set(item.id,item.title);for(const x of matches)groups.set(x.item.id,item.title);}
+  }
+  function matchesQuery(item,q){if(!q)return true;const raw=[item.title,item.summary_auto,item.source,item.country,...item.tags].join(' ').toLowerCase();if(raw.includes(q))return true;const words=tokens(q);const pool=new Set(tokens(raw));return words.length>0&&words.every(w=>pool.has(w));}
+  const cross=document.createElement('input');cross.type='checkbox';cross.checked=true;const crossLabel=document.createElement('label');crossLabel.append(cross,' Include related coverage beyond selected sources');controls.append(crossLabel);cross.addEventListener('change',renderList);
+  const relatedPanel=document.createElement('section');relatedPanel.className='related-panel';modalLink.parentElement.after(relatedPanel);
+  function originalLink(item,label){const a=document.createElement('a');a.textContent=label;try{const url=new URL(item.url);if(!['http:','https:'].includes(url.protocol))throw Error();a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';}catch{a.textContent='Original link unavailable';}return a;}
+  function relatedList(item){relatedPanel.replaceChildren();const all=links.get(item.id)||[];const foreign=all.filter(x=>x.item.country!==item.country);const rest=all.filter(x=>x.item.country===item.country);const selected=[...foreign,...rest].sort((a,b)=>Number(b.story)-Number(a.story)||Number(b.item.country!==item.country)-Number(a.item.country!==item.country)||b.score-a.score).slice(0,12);for(const story of [true,false]){const h=document.createElement('h3');h.textContent=story?'Possible same-event coverage':'Related context';relatedPanel.append(h);const rows=selected.filter(x=>x.story===story);if(!rows.length){const p=document.createElement('p');p.textContent='No matching articles in the current snapshot.';relatedPanel.append(p);}for(const x of rows){const p=document.createElement('p');p.append(originalLink(x.item,x.item.title),document.createElement('br'),document.createTextNode(x.item.source+' • '+x.item.country+' • '+new Date(x.item.published_at).toLocaleString()));relatedPanel.append(p);}}const n=document.createElement('small');n.textContent='Automated headline and RSS excerpt similarity; not verified event identity or independent corroboration.';relatedPanel.append(n);}
+
   function fill(s, vals) { for(const v of [...new Set(vals)].sort()) s.add(new Option(v,v)); }
   const notice=document.createElement('p'); notice.className='meta'; controls.after(notice);
 
@@ -32,8 +61,9 @@
       }
       const data = await resp.json();
       items = (data.items || []).map(item => ({...item, source:item.source || 'CBC News', country:item.country || 'Canada'}));
+      indexNews();
       fill(sourceFilter,items.map(i=>i.source)); fill(countryFilter,items.map(i=>i.country));
-      notice.textContent='Snapshot: '+(data.generated_at ? new Date(data.generated_at).toLocaleString() : 'unknown')+' • Publisher location is not a national viewpoint. Concept groups are keyword-based, not verified matches of the same event.';
+      notice.textContent='Snapshot: '+(data.generated_at ? new Date(data.generated_at).toLocaleString() : 'unknown')+' • Publisher location is not a national viewpoint. Concepts and possible story matches use headlines and RSS excerpts; connections are suggestions, not verification.';
       if (items.length === 0) {
         const stamp = data.generated_at ? new Date(data.generated_at).toLocaleString() : 'unknown';
         newsList.textContent = `The news feed currently has no articles. Last generated: ${stamp}. Please check back after the next update.`;
@@ -64,7 +94,7 @@
     const selectedSection = sectionSelect.value;
     const searchQuery = searchInput.value.trim().toLowerCase();
     const opinionOnly = opinionOnlyCheckbox.checked;
-    const filtered = items.filter(item => {
+    let filtered = items.filter(item => {
       if(sourceFilter.value !== 'all' && item.source !== sourceFilter.value) return false;
       if(countryFilter.value !== 'all' && item.country !== countryFilter.value) return false;
       // Section filter
@@ -72,18 +102,20 @@
         return false;
       }
       // Opinion toggle
-      if (opinionOnly && item.bias_heuristic.article_type !== 'Opinion') {
+      if (opinionOnly && item.bias_heuristic?.article_type !== 'Opinion') {
         return false;
       }
       // Search filter
-      if (searchQuery && ![item.title,item.summary_auto,item.source,item.country,concept(item)].join(' ').toLowerCase().includes(searchQuery)) {
+      if (!matchesQuery(item,searchQuery)) {
         return false;
       }
       return true;
     });
+    const direct=new Set(filtered.map(i=>i.id));
+    if(cross.checked&&(searchQuery||sourceFilter.value!=='all'||countryFilter.value!=='all')){const extra=new Map();for(const item of filtered)for(const x of (links.get(item.id)||[]).slice(0,5)){if(!direct.has(x.item.id)&&(!opinionOnly||x.item.bias_heuristic?.article_type==='Opinion'))extra.set(x.item.id,x.item);}filtered=[...filtered,...extra.values()];}
     // Clear list
     newsList.innerHTML = '';
-    const key = item => mode.value==='concept' ? concept(item) : mode.value==='source' ? item.source : mode.value==='country' ? item.country : '';
+    const key = item => mode.value==='story' ? (groups.get(item.id)||'No strong cross-publication match') : mode.value==='concept' ? concept(item) : mode.value==='source' ? item.source : mode.value==='country' ? item.country : '';
     if(mode.value!=='latest') filtered.sort((a,b)=>key(a).localeCompare(key(b)) || a.source.localeCompare(b.source) || new Date(b.published_at)-new Date(a.published_at));
     let group=null;
     filtered.forEach(item => {
@@ -101,21 +133,16 @@
       // Article type chip
       const typeChip = document.createElement('span');
       typeChip.className = 'chip';
-      typeChip.textContent = item.bias_heuristic.article_type;
+      typeChip.textContent = item.bias_heuristic?.article_type || 'Unclassified';
       chips.appendChild(typeChip);
-      // Sentiment chip
-      const sentChip = document.createElement('span');
-      sentChip.className = 'chip';
-      sentChip.textContent = `Sent: ${item.bias_heuristic.sentiment.toFixed(2)}`;
-      // Sentiment is not a reliability score; omit from display.
-      // Subjectivity chip
-      const subjChip = document.createElement('span');
-      subjChip.className = 'chip';
-      subjChip.textContent = `Subj: ${item.bias_heuristic.subjectivity_hint}`;
-      // Subjectivity heuristic is not an evidence assessment.
+      for(const tag of item.tags){const chip=document.createElement('span');chip.className='chip';chip.textContent=tag;chips.append(chip);}
+      if(!direct.has(item.id)){const chip=document.createElement('span');chip.className='chip';chip.textContent='Related result';chips.append(chip);}
+      const peers=(links.get(item.id)||[]).filter(x=>x.story&&x.item.country!==item.country);
+      if(peers.length){const chip=document.createElement('span');chip.className='chip';chip.textContent='Possible same story: '+new Set(peers.map(x=>x.item.country)).size+' other publisher locations';chips.append(chip);}
       card.appendChild(titleEl);
       card.appendChild(metaEl);
       card.appendChild(chips);
+      const actions=document.createElement('div');actions.className='article-actions';const compare=document.createElement('button');compare.type='button';compare.textContent='Compare coverage ('+(links.get(item.id)||[]).length+')';compare.addEventListener('click',e=>{e.stopPropagation();openModal(item);});const original=originalLink(item,'Read original ↗');original.addEventListener('click',e=>e.stopPropagation());actions.append(compare,original);card.append(actions);
       card.addEventListener('click', () => openModal(item));
       newsList.appendChild(card);
     });
@@ -128,7 +155,8 @@
     modalTitle.textContent = item.title;
     modalLink.textContent = 'Read original at '+item.source+' ('+item.country+')';
     modalSummary.textContent = item.summary_auto || 'No summary available.';
-    modalLink.href = item.url;
+    const safe=originalLink(item,'');modalLink.removeAttribute('href');if(safe.hasAttribute('href'))modalLink.href=safe.href;
+    relatedList(item);
     modal.classList.add('show');
   }
 
@@ -152,5 +180,6 @@
   });
 
   // Initialise
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
   fetchNews();
 })();
