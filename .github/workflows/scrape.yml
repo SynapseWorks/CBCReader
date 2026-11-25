@@ -1,8 +1,8 @@
-name: Update CBC News
+name: Update World Reader
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # every 2 hours (UTC)
+    - cron: '17 13,19,1 * * *'  # 08/14/20 EST; 09/15/21 EDT
   workflow_dispatch: {}
   push:
     paths:
@@ -35,8 +35,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scraper/requirements.txt
 
-      - name: Run scraper (time-gated in code)
-        run: python scraper/main.py ${{ github.event_name == 'schedule' && '' || '--force' }}
+      - name: Run scraper (schedule controlled by workflow)
+        run: python scraper/main.py --force
         # For a one-off test, you can temporarily force:
         # run: python scraper/main.py --force
 
