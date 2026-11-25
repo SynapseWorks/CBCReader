@@ -8,7 +8,7 @@
 # from article URLs within working feeds; CBC's separate Opinion feed returns HTTP 400.  See README.md for details.
 
 timezone: America/Toronto
-rate_limit_seconds: 1
+rate_limit_seconds: 2
 window_hours: 24
 
 # Only run the scraper when the local time (America/Toronto) is
@@ -95,8 +95,39 @@ sections:
     name: China Daily
     source: China Daily
     country: China
-    url: https://www.chinadaily.com.cn/rss/world_rss.xml
+    url: https://www.chinadaily.com.cn/rss/china_rss.xml
     max_items: 30
+
+  mercopress:
+    name: MercoPress
+    source: MercoPress
+    country: Uruguay
+    url: https://en.mercopress.com/rss/
+    max_items: 25
+  japantimes:
+    name: The Japan Times
+    source: The Japan Times
+    country: Japan
+    url: https://www.japantimes.co.jp/feed/topstories/
+    max_items: 25
+  koreaherald:
+    name: The Korea Herald
+    source: The Korea Herald
+    country: South Korea
+    url: https://www.koreaherald.com/rss/newsAll
+    max_items: 25
+  dailytrust:
+    name: Daily Trust
+    source: Daily Trust
+    country: Nigeria
+    url: https://dailytrust.com/feed/
+    max_items: 25
+  dailynewsegypt:
+    name: Daily News Egypt
+    source: Daily News Egypt
+    country: Egypt
+    url: https://www.dailynewsegypt.com/feed/
+    max_items: 25
 
 # Set this to true to allow the scraper to fetch the full article
 # page and perform a deeper summary.  Because the scraper is
