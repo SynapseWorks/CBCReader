@@ -77,7 +77,7 @@ def make_session() -> requests.Session:
         status_forcelist=(500, 502, 503, 504),
         allowed_methods=frozenset({"GET"}),
         raise_on_status=False,
-        respect_retry_after_header=True,
+        respect_retry_after_header=False,
     )
     adapter = HTTPAdapter(max_retries=retry, pool_connections=4, pool_maxsize=4)
     s.mount("http://", adapter)
@@ -138,6 +138,8 @@ def scrape_section(
         logger.warning("Feed parse warning for %s: %s", name, getattr(feed, "bozo_exception", "unknown"))
     logger.info("Feed %s: %d entries, %d bytes", name, len(feed.entries), len(raw))
 
+    if not feed.entries and getattr(feed, 'bozo', False):
+        raise ValueError('Feed returned no parseable entries')
     items = []
     tz_name = config.get("timezone", "UTC")
     window_start = now - timedelta(hours=config.get("window_hours", 24))
@@ -167,6 +169,8 @@ def scrape_section(
 
         url_entry = entry.get("link")
         title = html.unescape(entry.get("title", "")).strip()
+        if not title or not url_entry or not url_entry.startswith(('https://', 'http://')):
+            continue
         summary_raw = entry.get("summary") or entry.get("description") or ""
         summary_auto = summarize(summary_raw, max_chars=500)
 
@@ -186,6 +190,9 @@ def scrape_section(
                 "source": section_cfg.get("source", "CBC News"),
                 "country": section_cfg.get("country", "Canada"),
                 "summary_auto": summary_auto,
+                "byline": str(entry.get("author") or "")[:250],
+                "feed_key": name,
+                "first_seen_at": now.isoformat(),
                 "bias_heuristic": bias.to_dict(),
             }
         )
@@ -226,6 +233,7 @@ def main() -> None:
     now = datetime.now(tz.gettz(config.get("timezone", "UTC")))
     allow_extract = bool(config.get("allow_extract", False))
     all_items = []
+    feed_status = []
 
     session = make_session()
     per_request_sleep = float(config.get("rate_limit_seconds", 1.0))
@@ -234,8 +242,10 @@ def main() -> None:
         try:
             items = scrape_section(sec_key, config, now, allow_extract, session)
             all_items.extend(items)
+            feed_status.append(dict(key=sec_key, source=config['sections'][sec_key].get('source', 'CBC News'), country=config['sections'][sec_key].get('country', 'Canada'), status='ok', count=len(items)))
         except Exception as exc:
             logger.error("Error scraping section %s: %s", sec_key, exc)
+            feed_status.append(dict(key=sec_key, source=config["sections"][sec_key].get("source", "CBC News"), country=config["sections"][sec_key].get("country", "Canada"), status="unavailable", count=0))
         finally:
             # jittered delay between sections: (rate_limit_seconds ± 50%)
             jitter = per_request_sleep * (0.5 + random.random())
@@ -269,12 +279,50 @@ def main() -> None:
         logger.error("Zero usable CBC articles across all feeds; refusing to overwrite published news.")
         raise RuntimeError("CBC scraper returned no articles. Previous news data preserved.")
 
+    # Rolling RSS metadata history, no extra fetches.
+    previous_path = os.path.join(base_dir, os.pardir, "data", "latest.json")
+    previous = []
+    try:
+        with open(previous_path, encoding="utf-8") as f:
+            previous = json.load(f).get("items", [])
+    except FileNotFoundError:
+        pass
+    cutoff = now - timedelta(days=14)
+    merged = {}
+    for item in previous + final_items:
+        try:
+            dt = datetime.fromisoformat(item["published_at"])
+            if dt < cutoff or dt > now + timedelta(hours=6):
+                continue
+            key = item["id"]
+            prior = merged.get(key, {})
+            item = {**prior, **item}
+            item["first_seen_at"] = prior.get("first_seen_at") if prior else item.get("first_seen_at")
+            merged[key] = item
+        except (ValueError, KeyError, TypeError):
+            continue
+    history = sorted(merged.values(), key=lambda x: datetime.fromisoformat(x["published_at"]), reverse=True)
+    per_source = defaultdict(int)
+    retained = []
+    for item in history:
+        source = item.get("source", "CBC News")
+        if per_source[source] >= 250:
+            continue
+        retained.append(item)
+        per_source[source] += 1
+        if len(retained) >= 2500:
+            break
+    final_items = retained
+
     # Write to ../data/latest.json relative to scraper directory
     output = {
         "source": "World Reader",
         "generated_at": now.isoformat(),
         "timezone": config.get("timezone", "UTC"),
         "items": final_items,
+        "feed_status": feed_status,
+        "retention_days": 14,
+        "history_limit": 2500,
     }
     data_dir = os.path.join(base_dir, os.pardir, "data")
     os.makedirs(data_dir, exist_ok=True)
