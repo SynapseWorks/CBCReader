@@ -180,6 +180,8 @@ def scrape_section(
                 "title": title,
                 "published_at": published_at,
                 "section": section_cfg["name"],
+                "source": section_cfg.get("source", "CBC News"),
+                "country": section_cfg.get("country", "Canada"),
                 "summary_auto": summary_auto,
                 "bias_heuristic": bias.to_dict(),
             }
@@ -239,7 +241,7 @@ def main() -> None:
     # ----- Opinion relabel + caps (INSIDE main) -----
     # Relabel opinions by URL pattern
     for it in all_items:
-        if "/opinion/" in (it.get("url") or ""):
+        if it.get("source") == "CBC News" and "/opinion/" in (it.get("url") or ""):
             it["section"] = "Opinion"
 
     # Sort newest → oldest
@@ -266,7 +268,7 @@ def main() -> None:
 
     # Write to ../data/latest.json relative to scraper directory
     output = {
-        "source": "CBC News",
+        "source": "World Reader",
         "generated_at": now.isoformat(),
         "timezone": config.get("timezone", "UTC"),
         "items": final_items,
