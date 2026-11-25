@@ -72,9 +72,9 @@ def should_run_now(config: dict, force: bool = False) -> bool:
 def make_session() -> requests.Session:
     s = requests.Session()
     retry = Retry(
-        total=6,
+        total=1,
         backoff_factor=0.8,  # 0.8, 1.6, 3.2, ...
-        status_forcelist=(429, 500, 502, 503, 504),
+        status_forcelist=(500, 502, 503, 504),
         allowed_methods=frozenset({"GET"}),
         raise_on_status=False,
         respect_retry_after_header=True,
@@ -94,6 +94,9 @@ def make_session() -> requests.Session:
 def fetch_feed_bytes(session: requests.Session, url: str, timeout: int = 20) -> bytes:
     time.sleep(0.8 + random.random() * 1.2)  # polite jitter
     resp = session.get(url, timeout=timeout)
+    if resp.status_code == 429:
+        logger.warning("Publisher rate limit reached; skipping feed until next scheduled collection: %s", url)
+        resp.raise_for_status()
     resp.raise_for_status()
     return resp.content
 
