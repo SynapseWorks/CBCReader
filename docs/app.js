@@ -23,7 +23,7 @@
   function tags(item) { const t=item.title+' '+(item.summary_auto||''); return [...new Set([...concepts,...aliases].filter(([n,re])=>re.test(t)).map(([n])=>n))]; }
   function concept(item) { return item.tags[0] || 'Other developments'; }
   const stop = new Set('the a an and or in on at for of to from with by as is are was were be been has have had it its this that these those will would could can may says said say after before over about into new more than not their they them his her our your who what when where how why news report reports latest update world people year years day days amid against during'.split(' '));
-  function tokens(s) {return [...new Set((s.toLowerCase().match(/[\\p{L}\\p{N}]+/gu)||[]).filter(w=>w.length>=3&&!stop.has(w)).map(w=>w.length>5?w.replace(/(?:ing|ed|s)$/,''):w))];}
+  function tokens(s) {return [...new Set((s.toLowerCase().match(/[\p{L}\p{N}]+/gu)||[]).filter(w=>w.length>=3&&!stop.has(w)).map(w=>w.length>5?w.replace(/(?:ing|ed|s)$/,''):w))];}
   let weights=new Map(), links=new Map(), groups=new Map();
   function indexNews(){
     const df=new Map();
