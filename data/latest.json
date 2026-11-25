@@ -1,6 +1,6 @@
 {
   "source": "World Reader",
-  "generated_at": "2026-11-25T10:08:07.260436-05:00",
+  "generated_at": "2026-11-25T10:11:00.355522-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269?cmp=rss",
       "title": "Yemen's Houthis claim attack on major Saudi oil refinery",
       "published_at": "2026-11-25T10:04:30-05:00",
-      "section": "World",
+      "section": "Top Stories",
       "source": "CBC News",
       "country": "Canada",
       "summary_auto": "Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's Ras Tanura oil refinery, the kingdom's largest, which is near a major export terminal for Saudi crude.",
@@ -38,7 +38,7 @@
       "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss",
       "title": "AI stocks drag Wall Street lower, S&P 500 slumps 2.6%",
       "published_at": "2026-11-25T10:00:22-05:00",
-      "section": "Business",
+      "section": "Top Stories",
       "source": "CBC News",
       "country": "Canada",
       "summary_auto": "AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.",
@@ -90,6 +90,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1b0f2523ab998df57d17874a53ff3cc4cdb1a04e",
+      "url": "https://en.antaranews.com/news/445423/aceh-customs-foil-attempt-to-smuggle-six-kg-of-gold-to-malaysia",
+      "title": "Aceh customs foil attempt to smuggle six kg of gold to Malaysia",
+      "published_at": "2026-11-25T09:38:52-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Customs officers in Aceh have foiled an attempt by three foreign nationals to smuggle 6,078 grams of gold worth 14.3 ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
         "subjectivity_hint": "low"
       }
     },
@@ -154,6 +169,96 @@
       }
     },
     {
+      "id": "fde791e9beb112984cefed9b26ed5fd91e6b3c16",
+      "url": "https://en.antaranews.com/news/445419/prabowo-orders-garuda-indonesia-revamp-into-world-class-airline",
+      "title": "Prabowo orders Garuda Indonesia revamp into world-class airline",
+      "published_at": "2026-11-25T09:23:02-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "President Prabowo Subianto has instructed Garuda Indonesia management to carry out a complete transformation ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6708f030a99d12bc3fa03387a1a9a51ba8f0b213",
+      "url": "https://en.antaranews.com/news/445415/danantara-invests-rp162-trillion-across-energy-food-and-hajj-sectors",
+      "title": "Danantara invests Rp162 trillion across energy, food and hajj sectors",
+      "published_at": "2026-11-25T09:18:23-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia’s sovereign investment agency, Danantara, has deployed Rp162 trillion (approximately US$8.85 billion) ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e325c57c7dccbb94f05fc165e04edfc02c223c21",
+      "url": "https://en.antaranews.com/news/445411/rights-body-urges-recovery-care-for-wildfire-smoke-victims",
+      "title": "Rights body urges recovery care for wildfire smoke victims",
+      "published_at": "2026-11-25T09:17:40-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia's National Commission on Human Rights (Komnas HAM) has urged the government to strengthen health services ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0cf80e62fdf1a6b2c11effea7a68155cfe7227b1",
+      "url": "https://en.antaranews.com/news/445407/jambi-maintains-wildfire-alert-despite-no-active-fires",
+      "title": "Jambi maintains wildfire alert despite no active fires",
+      "published_at": "2026-11-25T09:16:07-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Jambi Province will maintain its forest and land fire alert status through Nov. 30, 2026, despite improving weather ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "234dec969c72b7015df06811b23341c002b7b93f",
+      "url": "https://en.antaranews.com/news/445403/bali-deports-five-foreigners-including-russian-man",
+      "title": "Bali deports five foreigners, including Russian man",
+      "published_at": "2026-11-25T09:15:19-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Bali immigration authorities have deported five foreign nationals, including a Russian man suspected of having a mental ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0e2c6e44058e30766f3000273e27f5fa080b325a",
+      "url": "https://en.antaranews.com/news/445399/bali-tightens-checks-on-foreigners-over-visa-violations",
+      "title": "Bali tightens checks on foreigners over visa violations",
+      "published_at": "2026-11-25T09:13:20-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Bali's Ngurah Rai Immigration Office has stepped up joint enforcement against foreign nationals suspected of ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8f9a982fbd6d53b2999be660c2ed485abeeafa1a",
       "url": "https://www.koreaherald.com/article/10949511",
       "title": "Korea to retain 15% tariff cap under new US tariff proposal",
@@ -195,6 +300,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.735,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "4837b30f58467ab09a314a01daac520b3c81ef84",
+      "url": "https://en.antaranews.com/news/445395/bi-posts-rp1178-trillion-budget-surplus-as-of-september",
+      "title": "BI posts Rp117.8 trillion budget surplus as of September",
+      "published_at": "2026-11-25T09:07:07-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Bank Indonesia reported a budget surplus of Rp117.8 trillion (US$6.43 billion) through September, equal to 567.42 ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "medium"
       }
     },
@@ -244,6 +364,21 @@
       }
     },
     {
+      "id": "2cf71dccf4ebb2ccc41934d75fcc5b01e1460041",
+      "url": "https://mexiconewsdaily.com/lifestyle/nfl-mexico-moment-fiercely-loyal-fans/",
+      "title": "Why the NFL’s Mexico moment belongs to its fiercely loyal fans",
+      "published_at": "2026-11-25T09:00:58-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "MND contributor Alan Chazaro visited several NFL fan events ahead of the league's highly anticipated return to Mexico City to find out what makes a football super fan south of the border. The post  Why the NFL’s Mexico moment belongs to its fiercely loyal fans  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.929,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "7d4c1904123ebe0b4f40941328aa12deb5e23e18",
       "url": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
       "title": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
@@ -289,6 +424,21 @@
       }
     },
     {
+      "id": "49abaf01eedf0cbc9875ac396b327a55ff793583",
+      "url": "https://en.antaranews.com/news/445391/ieu-cepa-marks-new-chapter-in-indonesia-italy-trade-ties-kadin",
+      "title": "IEU-CEPA marks new chapter in Indonesia-Italy trade ties: Kadin",
+      "published_at": "2026-11-25T08:56:06-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The newly signed Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) is set to usher in a ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8b684c993ea4b2dda36a02ccc74a88fd0fd5c1d3",
       "url": "https://www.scmp.com/news/hong-kong/education/article/3375798/hong-kong-government-holds-firm-proposed-3-year-certification-renewal-teachers",
       "title": "Hong Kong government holds firm on proposed 3-year certification renewal for teachers",
@@ -319,6 +469,21 @@
       }
     },
     {
+      "id": "fb697265935fc72fe304b67b32635fd3b8e839c8",
+      "url": "https://en.antaranews.com/news/445387/indonesia-sees-rising-interest-in-vasectomy-among-educated-groups",
+      "title": "Indonesia sees rising interest in vasectomy among educated groups",
+      "published_at": "2026-11-25T08:53:15-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Interest in vasectomy, a permanent form of male contraception, is growing among educated Indonesians, but access ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.519,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0cb7d7045c39dee12dd404f8c7f0da4bd0197531",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
       "title": "Syrian teams clear landmines after deadly explosion",
@@ -330,6 +495,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "707d863bc02a2782b4a47a685dd4d0c65f29f031",
+      "url": "https://en.antaranews.com/news/445383/danantara-streamlines-380-soes-targets-600-by-end-of-2026",
+      "title": "Danantara streamlines 380 SOEs, targets 600 by end of 2026",
+      "published_at": "2026-11-25T08:45:45-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia’s sovereign investment agency, Danantara, has streamlined 380 state-owned enterprises (SOEs) and aims ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -375,6 +555,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.869,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "238509483122c2c6966c83c1f92600167f7aba48",
+      "url": "https://en.antaranews.com/news/445379/ri-eyes-opportunities-in-us1-trillion-global-semiconductor-market",
+      "title": "RI eyes opportunities in US$1 trillion global semiconductor market",
+      "published_at": "2026-11-25T08:33:19-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia is eyeing opportunities arising from the rapid expansion of the global semiconductor market, which is ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
         "subjectivity_hint": "medium"
       }
     },
@@ -694,6 +889,21 @@
       }
     },
     {
+      "id": "2a0b8dfba6658d42e43d00d755726ca8cfb7ec10",
+      "url": "https://en.antaranews.com/news/445375/mpr-verifies-authenticity-of-vp-candidate-sugionos-diploma",
+      "title": "MPR verifies authenticity of VP candidate Sugiono's diploma",
+      "published_at": "2026-11-25T07:37:17-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia's People's Consultative Assembly (MPR) on Wednesday confirmed the authenticity of Vice Presidential ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "afe8ef9c5a8440fb6a2468d8b199d9d7c1b1af9c",
       "url": "https://www.scmp.com/news/hong-kong/education/article/3375788/five-popular-hong-kong-schools-allowed-add-extra-form-one-class-next-year",
       "title": "5 popular Hong Kong schools allowed to add extra Form One class next year",
@@ -705,6 +915,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.859,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "25bffadc3c7167541a79a965e28cfc1d7f5031ec",
+      "url": "https://en.antaranews.com/news/445371/mpr-set-to-adopt-six-resolutions-on-vice-presidential-succession",
+      "title": "MPR set to adopt six resolutions on vice presidential succession",
+      "published_at": "2026-11-25T07:34:34-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The People's Consultative Assembly (MPR) is set to adopt six resolutions concerning Gibran Rakabuming Raka's ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
         "subjectivity_hint": "low"
       }
     },
@@ -750,6 +975,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ff9d5e807e1621561ddc5b90ab8a659cda18dd8",
+      "url": "https://en.antaranews.com/news/445367/idms-addresses-sumatras-post-disaster-recovery-acceleration-ministry",
+      "title": "IDMS addresses Sumatra's post-disaster recovery acceleration: ministry",
+      "published_at": "2026-11-25T07:25:12-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The Coordinating Ministry for Human Development and Culture stated that the 2026 Indonesia Disaster Management Summit ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
         "subjectivity_hint": "low"
       }
     },
@@ -859,6 +1099,21 @@
       }
     },
     {
+      "id": "0d443ee7f13ff63f7ae0f2fd690d52ae163ff325",
+      "url": "https://en.antaranews.com/news/445363/ieu-cepa-expected-to-boost-clean-energy-investment-den",
+      "title": "IEU-CEPA expected to boost clean energy investment: DEN",
+      "published_at": "2026-11-25T07:16:19-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The recently signed Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) is expected to ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.893,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "5042ebc63ac199b39e67778375b89bc9fef16076",
       "url": "https://www.koreaherald.com/article/10949469",
       "title": "Remains of Korean soldier return home after 59 years",
@@ -870,6 +1125,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c41be5450dc78b69bc25d895def9f6250c3a9cbc",
+      "url": "https://en.antaranews.com/news/445359/idx-treats-msci-sentiment-as-wake-up-call-for-structural-reforms",
+      "title": "IDX treats MSCI sentiment as wake-up call for structural reforms",
+      "published_at": "2026-11-25T07:12:19-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia Stock Exchange (IDX) is treating recent MSCI index sentiment—which has triggered disruptions in the ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
         "subjectivity_hint": "low"
       }
     },
@@ -900,6 +1170,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1a767675626a6979615c458783788ad5c8f68771",
+      "url": "https://en.antaranews.com/news/445355/indonesia-readies-3-improvement-programs-for-medium-scale-industries",
+      "title": "Indonesia readies 3 improvement programs for medium-scale industries",
+      "published_at": "2026-11-25T07:11:22-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia's Manpower Minister Yassierli has unveiled three productivity enhancement programs for medium-scale ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
         "subjectivity_hint": "low"
       }
     },
@@ -1144,6 +1429,21 @@
       }
     },
     {
+      "id": "5501e0d1feaf161ae9c7f46791d93cec7c113362",
+      "url": "https://en.antaranews.com/news/445351/ministry-outlines-four-challenges-for-free-public-university",
+      "title": "Ministry outlines four challenges for free public university",
+      "published_at": "2026-11-25T06:38:49-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Deputy Higher Education, Science, and Technology Minister Stella Christie said four strategic challenges must be ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "0a9ae518972459a82aea7e5da2e5f1ce795912b1",
       "url": "https://www.scmp.com/news/world/europe/article/3375783/denmark-bans-headscarves-prosecutors-religious-dress-debate-intensifies",
       "title": "Denmark bans headscarves for prosecutors as religious dress debate intensifies",
@@ -1155,6 +1455,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "41163462953c59a24c2d4772f5de1f29d273f883",
+      "url": "https://en.antaranews.com/news/445347/minister-backs-2028-peparnas-aligned-with-paralympic-sports",
+      "title": "Minister backs 2028 Peparnas aligned with Paralympic sports",
+      "published_at": "2026-11-25T06:35:18-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Youth and Sports Minister Erick Thohir supported the 2028 National Paralympic Week (Peparnas), which aligns its sports ...",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
         "subjectivity_hint": "low"
       }
     },
@@ -3094,6 +3409,21 @@
       }
     },
     {
+      "id": "460ad34f20ac01ccf182fe05d5fa4f8ea31eeade",
+      "url": "https://www.rnz.co.nz/news/pacific/2771868/solomon-islands-australia-sign-new-treaty-to-keep-foreign-military-bases-out",
+      "title": "Solomon Islands, Australia sign new treaty to keep foreign military bases out",
+      "published_at": "2026-11-24T20:57:08-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "Solomon Islands has singed a sweeping new treaty with Australia that will ensure there is \"no foreign military or security base\" in the island nation.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b3fe328704e5de17d5f0e6f6b0bcb5e9f876eddf",
       "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
       "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
@@ -3289,6 +3619,21 @@
       }
     },
     {
+      "id": "1c448ff252e0689bb2bfe426fc3d614d443e89f8",
+      "url": "https://mexiconewsdaily.com/business/ebrard-pushes-more-mexican-exports-to-china/",
+      "title": "In Beijing, Ebrard pushes for more Mexican exports to China",
+      "published_at": "2026-11-24T18:58:00-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "The Mexican economy minister's urging led to the creation of a Mexico-China working group charged with seeking mechanisms for facilitating more Mexican exports to narrow the trade gap between the two nations. The post  In Beijing, Ebrard pushes for more Mexican exports to China  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b0516828696a09ee31d9e68976c5f3004bdba085",
       "url": "https://www.cbc.ca/news/world/thomas-markle-child-sex-abuse-materials-9.7434831?cmp=rss",
       "title": "Megan Markle's father indicted on 2 counts of possessing child sex abuse materials",
@@ -3331,6 +3676,36 @@
         "article_type": "News",
         "sentiment": 0.931,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "5a1973a3f9b5459682b1751338d586c6aa16fc54",
+      "url": "https://www.rnz.co.nz/news/pacific/2771094/french-forces-seize-more-than-3-point-3-tonnes-of-meth-on-tanker-near-french-polynesia",
+      "title": "French forces seize more than 3.3 tonnes of meth on tanker near French Polynesia",
+      "published_at": "2026-11-24T18:21:55-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "More than 3.3 tonnes of methamphetamine has been seized from an unflagged light oil tanker near French Polynesia by the French military.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4550a14d5cdb417703605fba9fef61f36759721d",
+      "url": "https://mexiconewsdaily.com/news/nescafe-coffee-producers-protest/",
+      "title": "Nescafé coffee producers protest in southern Mexico over low pay",
+      "published_at": "2026-11-24T18:08:02-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "According to one protester, farmers have held talks with Nestlé, but the company has not agreed to adjust prices in response to the cost increases producers have faced. The post  Nescafé coffee producers protest in southern Mexico over low pay  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.849,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -3409,6 +3784,21 @@
       }
     },
     {
+      "id": "513af496f0e05da628b3f6d5a362cbd765a37539",
+      "url": "https://mexiconewsdaily.com/news/mexico-record-fdi-january-september/",
+      "title": "Mexico attracts record US $43.1B in FDI through September, but new investment plunges 42%",
+      "published_at": "2026-11-24T17:59:03-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "Mexico received a record-high US $43.09 billion in foreign direct investment (FDI) in the first nine months of 2026, but new investment accounted for 8.8% of the FDI total in the first nine months of the year, down from a 16% share in the same period of last year. The post  Mexico attracts record US $43.1B in FDI through September, but new investment plunges 42%  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
       "id": "bdcc31ada9a9c3a8b06875d31bafb666d7926f5d",
       "url": "https://en.mercopress.com/2026/11/24/the-flag-at-waist-height-the-rules-for-visiting-the-argentine-military-cemetery-in-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
       "title": "The flag at waist height: the rules for visiting the Argentine Military Cemetery in the Falklands",
@@ -3420,6 +3810,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.039,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f69d99107a204d4a35ba49b66f32f1ebbd6916d2",
+      "url": "https://www.rnz.co.nz/news/pacific/2770594/world-s-deepest-explosive-volcanic-activity-discovered-in-mariana-trench",
+      "title": "World's deepest explosive volcanic activity discovered in Mariana Trench",
+      "published_at": "2026-11-24T17:29:51-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "Scientists exploring the Mariana Trench in the western Pacific have discovered evidence of the world's deepest known explosive volcanic eruptions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -3529,6 +3934,21 @@
       }
     },
     {
+      "id": "fb5c022f721bdcfc3c7774f000790b87a1a05bc9",
+      "url": "https://www.rnz.co.nz/news/pacific/2770237/proposed-council-cuts-to-libraries-pools-could-hurt-the-soul-of-the-city",
+      "title": "Proposed council cuts to libraries, pools could hurt the 'soul of the city'",
+      "published_at": "2026-11-24T16:49:12-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "\"How is it fair when our most vulnerable communities are the ones missing out?\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.771,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "4bf3b46dafe396129f1e4cb9b096b2a23f253400",
       "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596?cmp=rss",
       "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
@@ -3619,6 +4039,21 @@
       }
     },
     {
+      "id": "ffce3c8d36802a2bf6e08eb87e4e6cdacbd88c5e",
+      "url": "https://mexiconewsdaily.com/sports/mexico-co-host-2031-fifa-womens-world-cup-with-us-jamaica-costa-rica/",
+      "title": "It’s official! Mexico will co-host the 2031 FIFA Women’s World Cup",
+      "published_at": "2026-11-24T15:51:19-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "Mexico will share hosting duties again with the United States, but not with Canada as in the men's tournament earlier this year. Instead, Jamaica and Costa Rica will be co-hosts. The post  It’s official! Mexico will co-host the 2031 FIFA Women’s World Cup  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.474,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "e33ebb5dce62210c540176f811ead4ce43b22160",
       "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-court-gas-station-waterboarding-alleged-kidnapping-9.7434459?cmp=rss",
       "title": "'Crypto King' was actually at gas station when he testified alleged kidnappers waterboarded him elsewhere",
@@ -3630,6 +4065,51 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9724d512050b602c663f37608ff30576fc1cf358",
+      "url": "https://mexiconewsdaily.com/business/hsbc-survey-half-mexican-firms-us-tariffs-impact-costs/",
+      "title": "Nearly half of Mexican firms report that US tariffs impact their cost structure",
+      "published_at": "2026-11-24T15:32:12-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "But the vast majority of firms are planning to expand international trade anyway, and the mitigating strategies being adopted in response to the tariffs' effects are seen as long-range improvements. The post  Nearly half of Mexican firms report that US tariffs impact their cost structure  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6f24f50b843fed6639c1c6ea51974385ae822405",
+      "url": "https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims",
+      "title": "'Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims",
+      "published_at": "2026-11-24T15:12:59-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "Papua New Guinea's government has condemned the killing of five women accused of sorcery in a Southern Highlands village.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.939,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "23c277a3ae89fd3c962f30f0c19ca8d81ea8f8d5",
+      "url": "https://mexiconewsdaily.com/north-central-pacific-coast/mnd-local-puerto-vallarta-activities-family/",
+      "title": "MND Local Puerto Vallarta: All-ages activities for family visits to Vallarta",
+      "published_at": "2026-11-24T15:00:50-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "As promised, MND's Puerto Vallarta expert Debbie Slobe shares a list of her favorite activities that are perfect for the entire family — from art and entertainment to natural wonders. The post  MND Local Puerto Vallarta: All-ages activities for family visits to Vallarta  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.94,
         "subjectivity_hint": "low"
       }
     },
@@ -3724,6 +4204,21 @@
       }
     },
     {
+      "id": "7cfd71515bb1eb461d976f5f4bc5ef4611dca0cd",
+      "url": "https://www.rnz.co.nz/news/pacific/2768558/pacific-governments-step-up-el-nino-response-as-drought-and-water-crisis-deepen",
+      "title": "Pacific governments step up El Niño response as drought and water crisis deepen",
+      "published_at": "2026-11-24T13:30:13-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "Three Pacific governments have stepped up their response to ongoing El Niño droughts in their nations.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "39d1ef5e3aaa007be852a14df97612a9aebb53f9",
       "url": "https://dailynewsegypt.com/2026/11/24/national-economic-transformation-programme-targets-3-million-jobs-through-five-productive-sectors-rostom/",
       "title": "National Economic Transformation Programme targets 3 million jobs through five productive sectors: Rostom",
@@ -3735,6 +4230,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5dd21ac4fb2c7b71a35e95ed4c69ed7ce5edfa71",
+      "url": "https://www.rnz.co.nz/news/pacific/2768585/call-for-probe-after-west-papuan-student-leader-dies-weeks-after-alleged-police-assault",
+      "title": "Call for probe after West Papuan student leader dies weeks after alleged police assault",
+      "published_at": "2026-11-24T13:25:02-05:00",
+      "section": "RNZ Pacific",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "summary_auto": "A West Papuan university student leader has died, weeks after an alleged police assault in Jayapura.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.904,
         "subjectivity_hint": "low"
       }
     },
@@ -3784,6 +4294,21 @@
       }
     },
     {
+      "id": "b1358903815258065a39b7d17d4f0d706fae4d58",
+      "url": "https://mexiconewsdaily.com/news/inflation-rises-to-nearly-4-in-first-half-of-november/",
+      "title": "Inflation rises to nearly 4% in first half of November",
+      "published_at": "2026-11-24T13:21:21-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "Mexico's annual headline rate has now risen in five consecutive 15-day periods between the first half of September and the first half of November. The post  Inflation rises to nearly 4% in first half of November  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "47d2a5a14a1971623a8ce2100a021652f72f893a",
       "url": "https://dailynewsegypt.com/2026/11/24/al-sisi-discusses-post-war-reconstruction-with-sudans-pm-idris/",
       "title": "Al-Sisi discusses post-war reconstruction with Sudan’s PM Idris",
@@ -3810,6 +4335,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.965,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "839a32b337572b36084da86a091d932041418d47",
+      "url": "https://mexiconewsdaily.com/travel/aeromexico-offers-7-day-cdmx-stopovers/",
+      "title": "Aeroméxico now offers 7-day Mexico City stopovers as tourism to the capital surges",
+      "published_at": "2026-11-24T12:55:05-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "Travelers can take advantage of the offer from both the Mexico City International Airport (AICM) and the Felipe Ángeles International Airport (AIFA), and can use it on the outbound trip, the return or both. The post  Aeroméxico now offers 7-day Mexico City stopovers as tourism to the capital surges  appeared first on  Mexico News Daily",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.25,
         "subjectivity_hint": "low"
       }
     },
@@ -3889,17 +4429,17 @@
       }
     },
     {
-      "id": "54de1a2fd3bf0ec362705c1fc728355ef31415cd",
-      "url": "https://www.cbc.ca/news/canada/edmonton/sovereignty-act-motion-nov-24-9.7434055?cmp=rss",
-      "title": "Alberta pushes back against federal hate speech law that removed religious exemption",
-      "published_at": "2026-11-24T11:57:36-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "Alberta’s government is planning to introduce a motion under the province’s Sovereignty Act targeting the federal government’s recent anti-hate legislation.",
+      "id": "614a8e60b286586db7a05f5eeae2211c5c707b9e",
+      "url": "https://mexiconewsdaily.com/politics/mexico-smart-hospital-china-mananera-tuesday/",
+      "title": "Mexico to establish smart hospital with China’s help: Tuesday’s mañanera recapped",
+      "published_at": "2026-11-24T12:15:51-05:00",
+      "section": "Mexico News Daily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "summary_auto": "Following her visit to a 1,500-bed smart hospital in Shenzhen last week, Sheinbaum said that China agreed to collaborate on the construction of a smart hospital in Mexico as well as scientific training and research, including sending Mexican doctors to China for training. The post  Mexico to establish smart hospital with China’s help: Tuesday’s mañanera recapped  appeared first on  Mexico News Daily",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.572,
+        "sentiment": 0.955,
         "subjectivity_hint": "low"
       }
     },
@@ -3945,21 +4485,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.863,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "f63a43907d9ed318ee522c26db8f079ba3f8f257",
-      "url": "https://www.cbc.ca/news/canada/toronto/anthem-maple-leafs-islanders-apology-9.7433907?cmp=rss",
-      "title": "Anthem singer apologizes for botched O Canada lyrics at Leafs game against Islanders",
-      "published_at": "2026-11-24T10:32:17-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "The anthem singer at the Toronto Maple Leafs game against New York Monday night apologized on social media after singing the wrong lyrics to the Canadian national anthem.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.178,
         "subjectivity_hint": "low"
       }
     }
