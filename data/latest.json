@@ -1,8 +1,26 @@
 {
   "source": "World Reader",
-  "generated_at": "2026-11-25T10:11:00.355522-05:00",
+  "generated_at": "2026-11-25T10:14:54.208391-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "3e60c2dcfbee47031bf69603857406f65f9ed0cb",
+      "url": "https://www.cbc.ca/news/health/covid19-vaccine-faq-2026-9.7434872?cmp=rss",
+      "title": "Yes, COVID cases are on the rise again. And yes, experts say, it's still a very good idea to get vaccinated",
+      "published_at": "2026-11-25T10:09:58-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.822,
+        "subjectivity_hint": "medium"
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
+    },
     {
       "id": "48de25f448c199a5475a29b7a9f024e899f5c615",
       "url": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269?cmp=rss",
@@ -16,7 +34,10 @@
         "article_type": "News",
         "sentiment": -0.869,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "5e8567db5f12fc23dce2aa3f7fd64e1d41f4277d",
@@ -31,7 +52,10 @@
         "article_type": "News",
         "sentiment": -0.974,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Kyodo",
+      "feed_key": "scmp"
     },
     {
       "id": "cec62759e8bb60781da249a5faca321285b2aeec",
@@ -46,7 +70,10 @@
         "article_type": "News",
         "sentiment": -0.796,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "f4f6ae13c8c05cd84ac3b341bc49a9137ff8a53d",
@@ -61,7 +88,10 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "9fc3d5c54210836b9d746f6de83da2e7e8a6a6cc",
@@ -76,7 +106,10 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "2ade0562e21e5c9fa7a242e7c77c5c77024ecc93",
@@ -91,7 +124,10 @@
         "article_type": "News",
         "sentiment": -0.128,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "1b0f2523ab998df57d17874a53ff3cc4cdb1a04e",
@@ -106,7 +142,10 @@
         "article_type": "News",
         "sentiment": -0.511,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "24961590a948058d993cf64798e6d44fdb8ed4db",
@@ -121,7 +160,10 @@
         "article_type": "News",
         "sentiment": -0.808,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "c0ea9fa6b629435ae62184ee3bd2b1af1cc8107b",
@@ -136,7 +178,10 @@
         "article_type": "News",
         "sentiment": 0.996,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "58d3722cc523707aeb80456cdd847909ebcd1eb4",
@@ -151,7 +196,10 @@
         "article_type": "News",
         "sentiment": -0.691,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "ff153663ca9120beddeb3f8988534f3ce1351887",
@@ -166,7 +214,10 @@
         "article_type": "News",
         "sentiment": -0.649,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Cannix Yau",
+      "feed_key": "scmp"
     },
     {
       "id": "fde791e9beb112984cefed9b26ed5fd91e6b3c16",
@@ -181,7 +232,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "6708f030a99d12bc3fa03387a1a9a51ba8f0b213",
@@ -196,7 +250,10 @@
         "article_type": "News",
         "sentiment": 0.273,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "e325c57c7dccbb94f05fc165e04edfc02c223c21",
@@ -211,7 +268,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "0cf80e62fdf1a6b2c11effea7a68155cfe7227b1",
@@ -226,7 +286,10 @@
         "article_type": "News",
         "sentiment": 0.153,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "234dec969c72b7015df06811b23341c002b7b93f",
@@ -241,7 +304,10 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "0e2c6e44058e30766f3000273e27f5fa080b325a",
@@ -256,7 +322,10 @@
         "article_type": "News",
         "sentiment": -0.649,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "8f9a982fbd6d53b2999be660c2ed485abeeafa1a",
@@ -271,7 +340,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "fc1f64a21e996476ec326011bc105f7b79bdd0ec",
@@ -286,7 +358,10 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "abc"
     },
     {
       "id": "c153b3204999fed515e3d3124d96f115d78b891d",
@@ -301,7 +376,10 @@
         "article_type": "News",
         "sentiment": -0.735,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "4837b30f58467ab09a314a01daac520b3c81ef84",
@@ -316,7 +394,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "b26e691764ed2b26e741f9ffc4b2fbef8ab385bc",
@@ -331,7 +412,10 @@
         "article_type": "News",
         "sentiment": 0.572,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "96dc0d7e60d3bac25cc329bfae0ed9833a81786b",
@@ -346,7 +430,10 @@
         "article_type": "News",
         "sentiment": -0.128,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Nayan Seth,Mark Magnier,Khushboo Razdan",
+      "feed_key": "scmp"
     },
     {
       "id": "d50e05cf108fbb099216b1b1753772444101cb42",
@@ -361,7 +448,10 @@
         "article_type": "News",
         "sentiment": -0.904,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Hanan Dervisevic",
+      "feed_key": "abc"
     },
     {
       "id": "2cf71dccf4ebb2ccc41934d75fcc5b01e1460041",
@@ -376,7 +466,10 @@
         "article_type": "News",
         "sentiment": 0.929,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alan Chazaro",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "7d4c1904123ebe0b4f40941328aa12deb5e23e18",
@@ -391,7 +484,10 @@
         "article_type": "News",
         "sentiment": 0.802,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Liu Zhen",
+      "feed_key": "scmp"
     },
     {
       "id": "b65adb33db6dd899c4d13f2e3b78b85db76f286b",
@@ -406,7 +502,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Elissa Fitzgerald",
+      "feed_key": "abc"
     },
     {
       "id": "db42d88ca06e41eeda6ad95e3bff208fdc4b9ebe",
@@ -421,7 +520,10 @@
         "article_type": "News",
         "sentiment": -0.273,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "49abaf01eedf0cbc9875ac396b327a55ff793583",
@@ -436,7 +538,10 @@
         "article_type": "News",
         "sentiment": 0.637,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "8b684c993ea4b2dda36a02ccc74a88fd0fd5c1d3",
@@ -451,7 +556,10 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "William Yiu",
+      "feed_key": "scmp"
     },
     {
       "id": "ccc75a816b2253abeca818528ef503e398a340c2",
@@ -466,7 +574,10 @@
         "article_type": "News",
         "sentiment": -0.957,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "fb697265935fc72fe304b67b32635fd3b8e839c8",
@@ -481,7 +592,10 @@
         "article_type": "News",
         "sentiment": 0.519,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "0cb7d7045c39dee12dd404f8c7f0da4bd0197531",
@@ -496,7 +610,10 @@
         "article_type": "News",
         "sentiment": 0.637,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "707d863bc02a2782b4a47a685dd4d0c65f29f031",
@@ -511,7 +628,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "8112b45811c5f41b8541f5ea399e78985746b438",
@@ -526,7 +646,10 @@
         "article_type": "News",
         "sentiment": 0.459,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Xinyi Wu",
+      "feed_key": "scmp"
     },
     {
       "id": "63336486a4013a58cd6055edac72fecc43327f2f",
@@ -541,7 +664,10 @@
         "article_type": "News",
         "sentiment": -0.9,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "433e79f30035d9f38e5c76f3736ad5827fc6673b",
@@ -556,7 +682,10 @@
         "article_type": "News",
         "sentiment": -0.869,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Associated Press",
+      "feed_key": "scmp"
     },
     {
       "id": "238509483122c2c6966c83c1f92600167f7aba48",
@@ -571,7 +700,10 @@
         "article_type": "News",
         "sentiment": 0.637,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "63f79cda8f1ad2a0a8cd77ccb4575956b2b9c399",
@@ -586,7 +718,10 @@
         "article_type": "News",
         "sentiment": 0.052,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Nick Murray",
+      "feed_key": "top_stories"
     },
     {
       "id": "0dc77b6294730f6f2db7c2901d1f51cb6814e95a",
@@ -601,7 +736,10 @@
         "article_type": "News",
         "sentiment": 0.863,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Fan Chen,Carol Yang",
+      "feed_key": "scmp"
     },
     {
       "id": "7a7fd84050df4bc8d79326b41d6c754728117da7",
@@ -616,7 +754,10 @@
         "article_type": "News",
         "sentiment": -0.778,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "ff98d8c4e355e12d7b94546e789ce4810954f600",
@@ -631,7 +772,10 @@
         "article_type": "News",
         "sentiment": -0.202,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "15fe9d3d40f33926ac851f57dab9f51f224942da",
@@ -646,7 +790,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "7af112a9bb0e4f88de742c7762353f40cc68a4b2",
@@ -661,7 +808,10 @@
         "article_type": "News",
         "sentiment": -0.836,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "8ab83ba0e2b177d49c3f779ddbe6c60e414df1f8",
@@ -676,7 +826,10 @@
         "article_type": "News",
         "sentiment": 0.66,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Taiwo George",
+      "feed_key": "dailytrust"
     },
     {
       "id": "fe2066634304eaa46bbd7dca4e4b8146516757bd",
@@ -691,7 +844,10 @@
         "article_type": "News",
         "sentiment": -0.973,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "b9c571e609483ece75db1304f59fdaa4cbaf87ef",
@@ -706,7 +862,10 @@
         "article_type": "News",
         "sentiment": 0.791,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "11c5983683302ff247488b6c4e72ff32b44c4976",
@@ -721,7 +880,10 @@
         "article_type": "News",
         "sentiment": 0.586,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "e4dedc11de60859e2f43273947019dc8ce7cfc9d",
@@ -736,7 +898,10 @@
         "article_type": "News",
         "sentiment": 0.153,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Cao Jiaxuan",
+      "feed_key": "scmp"
     },
     {
       "id": "4c094ee82862041a8ce17dce5a2d827cdff3b72f",
@@ -751,7 +916,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "939aaa18634e8493c81ee9e3ddfecd7df0722faa",
@@ -766,7 +934,10 @@
         "article_type": "News",
         "sentiment": -0.637,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "210017cf545bac320fcd416781f2c2542c385e1a",
@@ -781,7 +952,10 @@
         "article_type": "News",
         "sentiment": -0.869,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "32ce8fd338a0546c9cbb1a5b743c476e9a5f515b",
@@ -796,7 +970,10 @@
         "article_type": "News",
         "sentiment": 0.625,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Carys GARLAND",
+      "feed_key": "france24"
     },
     {
       "id": "4279bc47eb52fab0029b2cc6d8a3a31b9af6de36",
@@ -811,7 +988,10 @@
         "article_type": "News",
         "sentiment": 0.908,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "43c8cdd0ea2739de0ce09783b518c2f286ff3047",
@@ -826,7 +1006,10 @@
         "article_type": "News",
         "sentiment": -0.925,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Abdulyassar Abdulhamid",
+      "feed_key": "dailytrust"
     },
     {
       "id": "ecccfdef4e57d838cdaf1a80eb5a937f11e4f4cb",
@@ -841,7 +1024,10 @@
         "article_type": "News",
         "sentiment": 0.34,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "f41cbcdc20ed399c7793257c15d4e3b5ed3d5558",
@@ -856,7 +1042,10 @@
         "article_type": "News",
         "sentiment": -0.784,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "b47458e2e36167e0c6e2502f04a404f6b9db2bbc",
@@ -871,7 +1060,10 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "e7960cb79109a0ea3fafe41ec00a7b24a9e8190d",
@@ -886,7 +1078,10 @@
         "article_type": "News",
         "sentiment": -0.382,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "2a0b8dfba6658d42e43d00d755726ca8cfb7ec10",
@@ -901,7 +1096,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "afe8ef9c5a8440fb6a2468d8b199d9d7c1b1af9c",
@@ -916,7 +1114,10 @@
         "article_type": "News",
         "sentiment": 0.859,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "William Yiu",
+      "feed_key": "scmp"
     },
     {
       "id": "25bffadc3c7167541a79a965e28cfc1d7f5031ec",
@@ -931,7 +1132,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "44b01ce1b1e995087662de81ba901563d9cc85cf",
@@ -946,7 +1150,10 @@
         "article_type": "News",
         "sentiment": 0.402,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "fda550ef6f734f9678b53d1cf68cdd768588e267",
@@ -961,7 +1168,10 @@
         "article_type": "News",
         "sentiment": -0.912,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Rosemary Bassey",
+      "feed_key": "dailytrust"
     },
     {
       "id": "d156b37e1ab0b9f932640ed2b3cc23a2350e7701",
@@ -976,7 +1186,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "6ff9d5e807e1621561ddc5b90ab8a659cda18dd8",
@@ -991,7 +1204,10 @@
         "article_type": "News",
         "sentiment": -0.625,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "b20ea6580614c93e54beb152452130609882594c",
@@ -1006,7 +1222,10 @@
         "article_type": "News",
         "sentiment": 0.318,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "99b6c37be4c016cd715b953a2a36df25119fc748",
@@ -1021,7 +1240,10 @@
         "article_type": "News",
         "sentiment": -0.802,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "3efb062ecab51a0d7fc26c6968ec0b53236f3a57",
@@ -1036,7 +1258,10 @@
         "article_type": "News",
         "sentiment": -0.25,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "3ae1349c025d8a36020ca12b6d2b5ba5cf307b3c",
@@ -1051,7 +1276,10 @@
         "article_type": "News",
         "sentiment": -0.818,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "bfeff7070b81c00c89de36c6f3be97a2d7d149b8",
@@ -1066,7 +1294,10 @@
         "article_type": "News",
         "sentiment": 0.974,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "dca406a17140f30657281323897c2c2aa9ca03a9",
@@ -1081,7 +1312,10 @@
         "article_type": "News",
         "sentiment": -0.681,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "82c96fcfe95c9483febcb46ea9541fd371a0fe28",
@@ -1096,7 +1330,10 @@
         "article_type": "News",
         "sentiment": -0.891,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "0d443ee7f13ff63f7ae0f2fd690d52ae163ff325",
@@ -1111,7 +1348,10 @@
         "article_type": "News",
         "sentiment": 0.893,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "5042ebc63ac199b39e67778375b89bc9fef16076",
@@ -1126,7 +1366,10 @@
         "article_type": "News",
         "sentiment": -0.718,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "c41be5450dc78b69bc25d895def9f6250c3a9cbc",
@@ -1141,7 +1384,10 @@
         "article_type": "News",
         "sentiment": -0.34,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "5c017fd9222906fdb9e7fb7a67e7602877f39148",
@@ -1156,7 +1402,10 @@
         "article_type": "News",
         "sentiment": -0.34,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily Trust",
+      "feed_key": "dailytrust"
     },
     {
       "id": "0ab4d7515940f919e5427e0fd17d607d6d0d015d",
@@ -1171,7 +1420,10 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Agence France-Presse",
+      "feed_key": "scmp"
     },
     {
       "id": "1a767675626a6979615c458783788ad5c8f68771",
@@ -1186,7 +1438,10 @@
         "article_type": "News",
         "sentiment": 0.459,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "74e61631afd6da493076c3e790b25bf0c012c72a",
@@ -1201,7 +1456,10 @@
         "article_type": "News",
         "sentiment": -0.026,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Hamisu Kabir Matazu",
+      "feed_key": "dailytrust"
     },
     {
       "id": "9226ade6d7ec164cdebe513e5fa80cbb4debb273",
@@ -1216,7 +1474,10 @@
         "article_type": "News",
         "sentiment": -0.434,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Lo Hoi-ying",
+      "feed_key": "scmp"
     },
     {
       "id": "d2e73adba3ad62f9b0c952d1783bc7241322ac3f",
@@ -1231,7 +1492,10 @@
         "article_type": "News",
         "sentiment": 0.599,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Holly Chik",
+      "feed_key": "scmp"
     },
     {
       "id": "e594d93c578e0e417ebe8d6b6ead2685bcd4b078",
@@ -1246,7 +1510,10 @@
         "article_type": "News",
         "sentiment": -0.758,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Jennifer Keiller",
+      "feed_key": "top_stories"
     },
     {
       "id": "a0d9d5908de4e6288ca6269c83adbba2e85d637e",
@@ -1261,7 +1528,10 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Wallis Snowdon",
+      "feed_key": "canada"
     },
     {
       "id": "c316a2a9b736021833de327a30107cf783a4353f",
@@ -1276,7 +1546,10 @@
         "article_type": "News",
         "sentiment": -0.922,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "dd525b34660dc6364d488081e37315a51136e62c",
@@ -1291,7 +1564,10 @@
         "article_type": "News",
         "sentiment": 0.743,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Ibrahim Musa Giginya",
+      "feed_key": "dailytrust"
     },
     {
       "id": "6e4dedf4e5d1fd371faf008980f25e5ee31ca182",
@@ -1306,7 +1582,10 @@
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "e2df78af3b24f9a6600eb9cdd7e3e15ee5034b75",
@@ -1321,7 +1600,10 @@
         "article_type": "News",
         "sentiment": -0.318,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "a11f6129fac20547da8ef3a6b71e75ca5c67c579",
@@ -1336,7 +1618,10 @@
         "article_type": "News",
         "sentiment": -0.66,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "8059d83579e672108eb3090f300bcb2f3f5f4379",
@@ -1351,7 +1636,10 @@
         "article_type": "News",
         "sentiment": 0.944,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "6076025e61cd25646e3d31bb3ceb81e508c36909",
@@ -1366,7 +1654,10 @@
         "article_type": "News",
         "sentiment": -0.048,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Luqman Awwal Agono",
+      "feed_key": "dailytrust"
     },
     {
       "id": "c63f2b8e26fb372375ddda9c3ff5d0ebba4896f1",
@@ -1381,7 +1672,10 @@
         "article_type": "News",
         "sentiment": 0.273,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "17f4f2706334140f1d92cfa06f3fc87046af33b1",
@@ -1396,7 +1690,10 @@
         "article_type": "News",
         "sentiment": 0.667,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "c1bf4bb35a304f0845876e30eb24f4da86ec509c",
@@ -1411,7 +1708,10 @@
         "article_type": "News",
         "sentiment": 0.34,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "7e6ac303b2bc55a23c4cfc627cd6d0baee3ef114",
@@ -1426,7 +1726,10 @@
         "article_type": "News",
         "sentiment": -0.735,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "abc"
     },
     {
       "id": "5501e0d1feaf161ae9c7f46791d93cec7c113362",
@@ -1441,7 +1744,10 @@
         "article_type": "News",
         "sentiment": 0.599,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "0a9ae518972459a82aea7e5da2e5f1ce795912b1",
@@ -1456,7 +1762,10 @@
         "article_type": "News",
         "sentiment": -0.802,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Agence France-Presse",
+      "feed_key": "scmp"
     },
     {
       "id": "41163462953c59a24c2d4772f5de1f29d273f883",
@@ -1471,7 +1780,10 @@
         "article_type": "News",
         "sentiment": 0.273,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "antaranews"
     },
     {
       "id": "affe12d48d234fba5a39a819d6070a7f9300c701",
@@ -1486,22 +1798,10 @@
         "article_type": "News",
         "sentiment": 0.128,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "0c993306d2ac5c06c23a7d8a29f1fe026d6cc977",
-      "url": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588?cmp=rss",
-      "title": "From 'Super' to 'Godzilla' to 'Mega': Just how monstrous is this year's El Niño?",
-      "published_at": "2026-11-25T06:31:16-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.599,
-        "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Lam Ka-sing",
+      "feed_key": "scmp"
     },
     {
       "id": "3fa9786cb51b0c8dfc37dc5dd903b0ef9472b7d9",
@@ -1516,7 +1816,10 @@
         "article_type": "News",
         "sentiment": -0.361,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Emily Hung",
+      "feed_key": "scmp"
     },
     {
       "id": "08f49a2955529a0bb6fcaba85e1ac7bff0a17667",
@@ -1531,7 +1834,10 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alice Li",
+      "feed_key": "scmp"
     },
     {
       "id": "6662d8c355ee3f07c5ba3cb7ee9ad7a401a6a516",
@@ -1546,7 +1852,10 @@
         "article_type": "News",
         "sentiment": 0.625,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "0a71ace042b3668cd30f55e740f06a1d66fc5363",
@@ -1561,7 +1870,10 @@
         "article_type": "News",
         "sentiment": -0.796,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "f858ac60e4812e1e87dcbdb9fd3e7004e915867c",
@@ -1576,7 +1888,10 @@
         "article_type": "News",
         "sentiment": 0.637,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "ddfd22b076733480ae9d6c6217dc81f4a5f3132a",
@@ -1591,7 +1906,10 @@
         "article_type": "News",
         "sentiment": 0.886,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "ae7181caeda65b11036d05940bf2738a0384c88b",
@@ -1606,7 +1924,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "bb54b67828a4a68df610de9d5d48b1c3c79dedca",
@@ -1621,7 +1942,10 @@
         "article_type": "News",
         "sentiment": 0.557,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "1012b343d001d2aeb7643637508f367464f7acc8",
@@ -1636,7 +1960,10 @@
         "article_type": "News",
         "sentiment": 0.71,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "cb432651ce09d5e5c876ad852f9488f313c48ffa",
@@ -1651,7 +1978,10 @@
         "article_type": "News",
         "sentiment": -0.898,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Antonia KERRIGAN",
+      "feed_key": "france24"
     },
     {
       "id": "b0ae7b1c2b7df8ba4e07a01c53bcc48f2f96896c",
@@ -1666,7 +1996,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "1674540c898e3cbb7fd92303f86f61d2db8b771d",
@@ -1681,7 +2014,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "e3c518c7cc02eddf19c898a21bbdb507c8077be4",
@@ -1696,7 +2032,10 @@
         "article_type": "News",
         "sentiment": -0.943,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "d2de4bc23071466b635bdaca34b60d42171f6097",
@@ -1711,7 +2050,10 @@
         "article_type": "News",
         "sentiment": -0.881,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "8cfe7c56b51275df37869d8c031ad66624ea4889",
@@ -1726,7 +2068,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "1349564e137f5eb7c4eeb5a787fd88a8eb5373d4",
@@ -1741,7 +2086,10 @@
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "5586ff8c06026cf7980e568afb8b10a25a0d4c4b",
@@ -1756,7 +2104,10 @@
         "article_type": "News",
         "sentiment": 0.128,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Biman Mukherji",
+      "feed_key": "scmp"
     },
     {
       "id": "fa3cc2f5c213c5d17b2e9cfa76fd3e5e97d7670e",
@@ -1771,7 +2122,10 @@
         "article_type": "News",
         "sentiment": 0.9,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Victoria Bela",
+      "feed_key": "scmp"
     },
     {
       "id": "66a322d2b624b2dfd2b20ecd34532aae2010457d",
@@ -1786,7 +2140,10 @@
         "article_type": "News",
         "sentiment": -0.287,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "79b6dc364f0842668d1469924d6d71a824b8834d",
@@ -1801,7 +2158,10 @@
         "article_type": "News",
         "sentiment": -0.965,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Hannah Spray",
+      "feed_key": "canada"
     },
     {
       "id": "67da811d6dbba737f814dd04dfd07741791486bd",
@@ -1816,7 +2176,10 @@
         "article_type": "News",
         "sentiment": -0.631,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "aaac63a07e9af4d383442bb6495d7fe51e9d3072",
@@ -1831,7 +2194,10 @@
         "article_type": "News",
         "sentiment": -0.937,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Associated Press",
+      "feed_key": "scmp"
     },
     {
       "id": "5fe1c4ac52dfeb3049e22de1ec1ad53103bc7c8e",
@@ -1846,7 +2212,10 @@
         "article_type": "News",
         "sentiment": 0.892,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Resty Woro Yuniar",
+      "feed_key": "scmp"
     },
     {
       "id": "83ae8b5bbf9e1b7b2592380e55d17707a9dafbb8",
@@ -1861,7 +2230,10 @@
         "article_type": "News",
         "sentiment": -0.836,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "6b0e889e011aa9762a5e9432a5cfd8d7bf937dcb",
@@ -1876,7 +2248,10 @@
         "article_type": "News",
         "sentiment": -0.052,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Vivian Au,Eric Jiang",
+      "feed_key": "scmp"
     },
     {
       "id": "644245a2f1985cd6e655b0f5adb715a61b8a71ad",
@@ -1891,7 +2266,10 @@
         "article_type": "News",
         "sentiment": -0.914,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Fiona Sun",
+      "feed_key": "scmp"
     },
     {
       "id": "ad056cd7373cb0459f39d77aec550ed1b15a171d",
@@ -1906,7 +2284,10 @@
         "article_type": "News",
         "sentiment": 0.039,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "c1a0b09f31b95dc64dc8563db48b4feca8ccc67d",
@@ -1921,7 +2302,10 @@
         "article_type": "News",
         "sentiment": -0.511,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alyssa Chen",
+      "feed_key": "scmp"
     },
     {
       "id": "5dfa604e0ad6bf054aeda507e9d1eb613229a141",
@@ -1936,7 +2320,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "353be2ca0bc0debae2d98308633183c8553cd5e9",
@@ -1951,7 +2338,10 @@
         "article_type": "News",
         "sentiment": -0.572,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "70cbec7c22f3e8b800f21d1e114472b7228f9984",
@@ -1966,7 +2356,10 @@
         "article_type": "News",
         "sentiment": -0.949,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Mya Kordic and Greig Johnston",
+      "feed_key": "abc"
     },
     {
       "id": "090132a97a8dae5bc12094d61e57fc0c3a380833",
@@ -1981,7 +2374,10 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Yousuf Shameel and Rachel Hagan",
+      "feed_key": "abc"
     },
     {
       "id": "2aa37a57dad2c553d132c675d38fae412e62ee1a",
@@ -1996,7 +2392,10 @@
         "article_type": "News",
         "sentiment": -0.67,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Cannix Yau",
+      "feed_key": "scmp"
     },
     {
       "id": "9749119cb1ee63a0bd70f5928dc1b09f1a52ef67",
@@ -2011,7 +2410,10 @@
         "article_type": "News",
         "sentiment": 0.791,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Theodora Yu",
+      "feed_key": "scmp"
     },
     {
       "id": "9528aedc90b3296d5b7d4697c264cf3f9359338a",
@@ -2026,7 +2428,10 @@
         "article_type": "News",
         "sentiment": 0.727,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Howard Liu",
+      "feed_key": "scmp"
     },
     {
       "id": "14912463faab67788b0c3c9e68255fa1eac5f215",
@@ -2041,7 +2446,10 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Brooke Fryer and Carly Williams",
+      "feed_key": "abc"
     },
     {
       "id": "ec1374253bc8a66b45dc3700824da816e11cea18",
@@ -2056,22 +2464,10 @@
         "article_type": "News",
         "sentiment": -0.8,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "153ef34139d6b74f121ef0f2fa86ee3ebafa574e",
-      "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-      "title": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
-      "published_at": "2026-11-25T05:14:45-05:00",
-      "section": "France 24",
-      "source": "France 24",
-      "country": "France",
-      "summary_auto": "",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.077,
-        "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "aljazeera"
     },
     {
       "id": "33dbb5c6db6ee2c34dd66497e738eddf61973280",
@@ -2086,7 +2482,10 @@
         "article_type": "News",
         "sentiment": -0.791,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Courtney Withers",
+      "feed_key": "abc"
     },
     {
       "id": "1eb84eaa14f68148421f1d8bde3f98920e6000fe",
@@ -2101,7 +2500,10 @@
         "article_type": "News",
         "sentiment": -0.34,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Agence France-Presse",
+      "feed_key": "scmp"
     },
     {
       "id": "33902beebc629cdacff76fba86c9e27bb2727eb4",
@@ -2116,7 +2518,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "153ef34139d6b74f121ef0f2fa86ee3ebafa574e",
@@ -2131,7 +2536,10 @@
         "article_type": "News",
         "sentiment": -0.178,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "c527641a49163cb88bbf6362f6aebf3ebbb9134e",
@@ -2146,7 +2554,10 @@
         "article_type": "News",
         "sentiment": 0.969,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "0fcde500632cf31381d215a7a725e6003560cb24",
@@ -2161,7 +2572,10 @@
         "article_type": "News",
         "sentiment": -0.296,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alice Yan",
+      "feed_key": "scmp"
     },
     {
       "id": "4c7d4581efa224946327b8f1660a1adccd3b9b05",
@@ -2175,6 +2589,27 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.329,
+        "subjectivity_hint": "low"
+      },
+      "first_seen_at": null,
+      "byline": "Luke Ettinger",
+      "feed_key": "top_stories"
+    },
+    {
+      "id": "6891abfd04919daa00458ecc4ab841e64e666097",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/youth-government-care-files-mental-health-nova-scotia-9.7432913?cmp=rss",
+      "title": "She grew up in group homes. Now she’s piecing together her past",
+      "published_at": "2026-11-25T05:00:00-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Marisa Wright, 37, is trying to piece together her broken childhood through school, police and government records. Some agencies initially supplied only a limited amount of information in a few summary pages and others denied access completely.",
+      "byline": "Angela MacIvor",
+      "feed_key": "top_stories",
+      "first_seen_at": "2026-11-25T10:14:54.208391-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
         "subjectivity_hint": "low"
       }
     },
@@ -2191,7 +2626,10 @@
         "article_type": "News",
         "sentiment": -0.103,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Brian Rhoads,Raymond Ma",
+      "feed_key": "scmp"
     },
     {
       "id": "19927bf9d0d1472445f8ff0d9d7e0f00923febaa",
@@ -2206,7 +2644,10 @@
         "article_type": "News",
         "sentiment": -0.765,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily Trust",
+      "feed_key": "dailytrust"
     },
     {
       "id": "7ac88c57b1094c771e14b49d642790293b14d9e9",
@@ -2221,7 +2662,10 @@
         "article_type": "News",
         "sentiment": -0.888,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Abdulyassar Abdulhamid",
+      "feed_key": "dailytrust"
     },
     {
       "id": "e3cb07b380ef63662bee288014d5e2b4066d51dd",
@@ -2236,7 +2680,10 @@
         "article_type": "News",
         "sentiment": -0.318,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Idowu Isamotu",
+      "feed_key": "dailytrust"
     },
     {
       "id": "3db9f2d68fe8e30778d72014d41a66d445d91674",
@@ -2251,7 +2698,10 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "top_stories"
     },
     {
       "id": "d875f4592d8ad028ec1fbb9cb97a8691252448a5",
@@ -2266,52 +2716,10 @@
         "article_type": "News",
         "sentiment": 0.968,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "5f01e5273163ce1a49bb60e4f735724051b6aa3b",
-      "url": "https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss",
-      "title": "Can AI chatbots really help shoppers find the best deals?",
-      "published_at": "2026-11-25T04:00:00-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.919,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3e60c2dcfbee47031bf69603857406f65f9ed0cb",
-      "url": "https://www.cbc.ca/news/health/covid19-vaccine-faq-2026-9.7434872?cmp=rss",
-      "title": "Yes, COVID cases are on the rise again. And yes, experts say, it's still a very good idea to get vaccinated",
-      "published_at": "2026-11-25T04:00:00-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "Infectious disease specialists say there's plenty of reason to get the COVID-19 vaccine to reduce risk of severe infection, either for yourself or someone around you who may be at higher risk.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.42,
-        "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "9965fc3c941dd15a6c1b2290a55045a9e5a16b5d",
-      "url": "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875?cmp=rss",
-      "title": "Highest MP turnover rate in decades making for byelection bonanza this Parliament",
-      "published_at": "2026-11-25T04:00:00-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "A slew of MP resignations is putting this Parliament on track to have the most byelections this soon after a general election in over half a century.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.296,
-        "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily Trust",
+      "feed_key": "dailytrust"
     },
     {
       "id": "0c993306d2ac5c06c23a7d8a29f1fe026d6cc977",
@@ -2326,7 +2734,46 @@
         "article_type": "News",
         "sentiment": 0.843,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Eric Michael Johnson",
+      "feed_key": "world"
+    },
+    {
+      "id": "5f01e5273163ce1a49bb60e4f735724051b6aa3b",
+      "url": "https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss",
+      "title": "Can AI chatbots really help shoppers find the best deals?",
+      "published_at": "2026-11-25T04:00:00-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.919,
+        "subjectivity_hint": "low"
+      },
+      "first_seen_at": null,
+      "byline": "Philippe de Montigny, Abby Hughes",
+      "feed_key": "top_stories"
+    },
+    {
+      "id": "9965fc3c941dd15a6c1b2290a55045a9e5a16b5d",
+      "url": "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875?cmp=rss",
+      "title": "Highest MP turnover rate in decades making for byelection bonanza this Parliament",
+      "published_at": "2026-11-25T04:00:00-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "A slew of MP resignations is putting this Parliament on track to have the most byelections this soon after a general election in over half a century.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "low"
+      },
+      "first_seen_at": null,
+      "byline": "Darren Major, Graeme Bruce",
+      "feed_key": "top_stories"
     },
     {
       "id": "e21fde41ea3b7f36174173d511f1817023187796",
@@ -2341,7 +2788,10 @@
         "article_type": "News",
         "sentiment": 0.898,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "2e55d27bf952476f01e1ba7b3782d91f3759b21d",
@@ -2356,7 +2806,10 @@
         "article_type": "News",
         "sentiment": 0.866,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Griffin Jaeger",
+      "feed_key": "top_stories"
     },
     {
       "id": "cf6fae30a25d6dab4166598370c465a5cb5b0a64",
@@ -2371,7 +2824,10 @@
         "article_type": "News",
         "sentiment": -0.923,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "abc"
     },
     {
       "id": "2ce339b4506f32b43d83b3094591abe23ad1ac07",
@@ -2386,7 +2842,10 @@
         "article_type": "News",
         "sentiment": -0.527,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily Trust",
+      "feed_key": "dailytrust"
     },
     {
       "id": "f3b96bb983b9a4871622a07047ee5b1d3ff6fff0",
@@ -2401,7 +2860,10 @@
         "article_type": "News",
         "sentiment": 0.863,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "9cde1e92230783abfd5f000bf246bc8adcee8139",
@@ -2416,7 +2878,10 @@
         "article_type": "News",
         "sentiment": -0.796,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily Trust",
+      "feed_key": "dailytrust"
     },
     {
       "id": "6eb204a15bb19b840f1eb6e8eeb3f8af332b5a68",
@@ -2431,7 +2896,10 @@
         "article_type": "News",
         "sentiment": 0.914,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "faadeeb339165cc84dfbd57df573013bb91a3fc8",
@@ -2446,7 +2914,10 @@
         "article_type": "News",
         "sentiment": -0.84,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Maureen Onochie",
+      "feed_key": "dailytrust"
     },
     {
       "id": "9d0d80f757394099cfc2c9b400100fb40a68e803",
@@ -2461,7 +2932,10 @@
         "article_type": "News",
         "sentiment": -0.527,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Paul Johnson",
+      "feed_key": "abc"
     },
     {
       "id": "4a890cbec545007c3a60bcc7cedce64debf9686f",
@@ -2476,7 +2950,10 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Conor Byrne and Rosanne Maloney",
+      "feed_key": "abc"
     },
     {
       "id": "c31f624beb61fe4d3005adb66d735cc0c26510da",
@@ -2491,7 +2968,10 @@
         "article_type": "News",
         "sentiment": 0.796,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "6136f4516121ee80d4bfccb5a4a5c6cdb8da7922",
@@ -2506,7 +2986,10 @@
         "article_type": "News",
         "sentiment": -0.881,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Josh Duggan and Adam Holmes",
+      "feed_key": "abc"
     },
     {
       "id": "574bb711d952d1204ab7d11e22086fa5dc79ce6f",
@@ -2521,7 +3004,10 @@
         "article_type": "News",
         "sentiment": 0.796,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "abc"
     },
     {
       "id": "9003c301009e9fb4f5ef077b4ebdd47d53452c2a",
@@ -2536,7 +3022,10 @@
         "article_type": "News",
         "sentiment": 0.931,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Courtney Barrett Peters",
+      "feed_key": "abc"
     },
     {
       "id": "24222637d798a5ecabd8d9abd010ddd3eb5b8472",
@@ -2551,7 +3040,10 @@
         "article_type": "News",
         "sentiment": -0.527,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Cath Adams",
+      "feed_key": "abc"
     },
     {
       "id": "bd1c1c5f9c1d9ab8a7638ec2b4958d6db5d4ef80",
@@ -2566,7 +3058,10 @@
         "article_type": "News",
         "sentiment": 0.97,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "3e40848502ddaffc045c514d6b27117e7c0febbb",
@@ -2581,7 +3076,10 @@
         "article_type": "News",
         "sentiment": 0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "d37621bbe3d49d8d89d7ed34394dad543817334c",
@@ -2596,7 +3094,10 @@
         "article_type": "News",
         "sentiment": -0.888,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Bryn Wakefield",
+      "feed_key": "abc"
     },
     {
       "id": "64023fd4d57b777a4c14104d8c18309ee74cca93",
@@ -2611,7 +3112,10 @@
         "article_type": "News",
         "sentiment": -0.827,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Lucy Thackray and Jen McCutcheon",
+      "feed_key": "abc"
     },
     {
       "id": "bbb010d1205fc03e4271f7ef134d21a4d1b22763",
@@ -2626,7 +3130,10 @@
         "article_type": "News",
         "sentiment": -0.715,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "56f966b1de6677184e709cf9c1ec48ccfb458535",
@@ -2641,7 +3148,10 @@
         "article_type": "News",
         "sentiment": -0.318,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "8776f9e2c596bb34ff8d5db0c889edc9d472e875",
@@ -2656,7 +3166,10 @@
         "article_type": "News",
         "sentiment": -0.796,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Emma D'Agostino",
+      "feed_key": "abc"
     },
     {
       "id": "7b5d90e5d90a45fbfd43a6ee1b48f24e04ac0731",
@@ -2671,7 +3184,10 @@
         "article_type": "News",
         "sentiment": -0.727,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "29d729a70af713965049a4db958b28389701bf38",
@@ -2686,7 +3202,10 @@
         "article_type": "News",
         "sentiment": 0.784,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "447d0d9189ba4e594c668b594a4c01d12debf1ef",
@@ -2701,7 +3220,10 @@
         "article_type": "News",
         "sentiment": -0.952,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "29bc7810358d9a5f7c698617909913bb8158d759",
@@ -2716,7 +3238,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Tahlia Fahey and Jodie Hamilton",
+      "feed_key": "abc"
     },
     {
       "id": "99d677d8fb1c991891d0aca345789391498c87a0",
@@ -2731,7 +3256,10 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "4d2011335d580b28d024847c711056762e571779",
@@ -2746,7 +3274,10 @@
         "article_type": "News",
         "sentiment": -0.71,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "941e745e6dd81dc036aa8fd0a555775756dcaeda",
@@ -2761,7 +3292,10 @@
         "article_type": "News",
         "sentiment": -0.791,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "cb95e5fb1973efb602c21059d259d1d8dc294db5",
@@ -2776,7 +3310,10 @@
         "article_type": "News",
         "sentiment": 0.886,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Tom Crowley",
+      "feed_key": "abc"
     },
     {
       "id": "64d3b64515d16328cfed3be0e15d033ebff96eae",
@@ -2791,7 +3328,10 @@
         "article_type": "News",
         "sentiment": -0.649,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "abc"
     },
     {
       "id": "b455450efcf2ea2fe7a9b0d554bdae154a9441ec",
@@ -2806,7 +3346,10 @@
         "article_type": "News",
         "sentiment": -0.974,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "f45c3671edf33e82ae91b4162801b1bcd21cb031",
@@ -2821,7 +3364,10 @@
         "article_type": "News",
         "sentiment": -0.625,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "940a03e50d78a046d78039b3fa8dae2ca46852dd",
@@ -2836,7 +3382,10 @@
         "article_type": "News",
         "sentiment": 0.791,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "da014c6b0da43298026beac75bd21fcc79ac8f09",
@@ -2851,7 +3400,10 @@
         "article_type": "News",
         "sentiment": -0.844,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Olivia Jenkins",
+      "feed_key": "abc"
     },
     {
       "id": "f9e1396acbde917b5fec1c7746827ab7ce74c69b",
@@ -2866,7 +3418,10 @@
         "article_type": "News",
         "sentiment": 0.718,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Simon Smale",
+      "feed_key": "abc"
     },
     {
       "id": "dec6947f868739c5b36bb33e61fb1a4711360a63",
@@ -2881,7 +3436,10 @@
         "article_type": "News",
         "sentiment": -0.717,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "b23476533043d0ccad5cca47750c3fda85cfc9b6",
@@ -2896,7 +3454,10 @@
         "article_type": "News",
         "sentiment": 0.66,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "1d3e6c36b4a35479d356ae252fdc5742db480efd",
@@ -2911,7 +3472,10 @@
         "article_type": "News",
         "sentiment": 0.772,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "L'Equipe TV",
+      "feed_key": "france24"
     },
     {
       "id": "e123de1a396366629ef7d0c4b1bfe32c5caad874",
@@ -2926,7 +3490,10 @@
         "article_type": "News",
         "sentiment": 0.802,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "6f1cff90e5d68b714f2c4f46a801b2f1ea1cb866",
@@ -2941,7 +3508,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "908e3900f86ed48981860a6220750e08f24cde90",
@@ -2956,7 +3526,10 @@
         "article_type": "News",
         "sentiment": -0.768,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "7118db10ae517b6e82878ff8f6f12529553d0746",
@@ -2971,7 +3544,10 @@
         "article_type": "News",
         "sentiment": 0.402,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alex Brewster",
+      "feed_key": "abc"
     },
     {
       "id": "4557718bed5331bf1f4a5afc11c15ba05d5e63c1",
@@ -2986,7 +3562,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "263b3a9795f465405c0dcfd95f57e789bee7b446",
@@ -3001,7 +3580,10 @@
         "article_type": "News",
         "sentiment": -0.791,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Richard Willingham and James Oaten",
+      "feed_key": "abc"
     },
     {
       "id": "a7b8427af8ff644309d188c633217164f77948cf",
@@ -3016,7 +3598,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "dab1e62fc86eb57bb6977f7da567bde9e6b8411d",
@@ -3031,7 +3616,10 @@
         "article_type": "News",
         "sentiment": -0.586,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "63bb460cf24bc5e87525e623ccc1c42fec0bc1e5",
@@ -3046,7 +3634,10 @@
         "article_type": "News",
         "sentiment": 0.877,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "a3ecc8b803ebca22eec24a5e7059c361e0dfb37d",
@@ -3061,7 +3652,10 @@
         "article_type": "News",
         "sentiment": 0.649,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "a8e9ed99c9aed1bc00b96bbc846d2c65d363c515",
@@ -3076,7 +3670,10 @@
         "article_type": "News",
         "sentiment": 0.527,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "b4047804d34c622a3d3fa4b38aa03445474a1439",
@@ -3091,7 +3688,10 @@
         "article_type": "News",
         "sentiment": 0.625,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "223a51cf1c08e57b2e54e674ab42a5621036c55d",
@@ -3106,7 +3706,10 @@
         "article_type": "News",
         "sentiment": 0.818,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald"
     },
     {
       "id": "096b467323654d035975d0900ac0ce5babb7b794",
@@ -3121,7 +3724,10 @@
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "f9ce1a83fe904e56564cdb67e7d5733261a34cfd",
@@ -3136,7 +3742,10 @@
         "article_type": "News",
         "sentiment": -0.727,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "702a1e42105b69b8d057b857ad6b09d0559a6f19",
@@ -3151,7 +3760,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "d9f8110f4824738d49d5c28fc3e097ee0bfadee8",
@@ -3166,7 +3778,10 @@
         "article_type": "News",
         "sentiment": 0.013,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "6db0279d853df0e2d5df75eaecda505aac8ef3da",
@@ -3181,7 +3796,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "42da767bdd9246634a27f8524aa0905b62399b22",
@@ -3196,7 +3814,10 @@
         "article_type": "News",
         "sentiment": 0.875,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "c9505695c8fa56c2bed4fd88941a85f498bdcb4e",
@@ -3211,7 +3832,10 @@
         "article_type": "News",
         "sentiment": -0.974,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "441443314d38315f6694323101cdd6cca8bd6b75",
@@ -3226,7 +3850,10 @@
         "article_type": "News",
         "sentiment": 0.346,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "f4443fc946636faefa3ad31385174ce8b171f85c",
@@ -3241,7 +3868,10 @@
         "article_type": "News",
         "sentiment": 0.153,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "10e0f2c9fb09e6a17f2dcd88ac92c6905b6fd8a6",
@@ -3256,7 +3886,10 @@
         "article_type": "News",
         "sentiment": 0.612,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "3c830aad232a2733a3603e847e9faad950f06ff2",
@@ -3271,7 +3904,10 @@
         "article_type": "News",
         "sentiment": -0.382,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "5ad39cf0c2d29e20b5f21f676f7e1b61243fc327",
@@ -3286,7 +3922,10 @@
         "article_type": "News",
         "sentiment": -0.826,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "4ca9b014402980447ac333fc6cc9111e666c82f1",
@@ -3301,7 +3940,10 @@
         "article_type": "News",
         "sentiment": -0.778,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "ca6bd074c97c660efdfe9ed49a981adf11e58a6a",
@@ -3316,7 +3958,10 @@
         "article_type": "News",
         "sentiment": -0.202,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "95b0d5ee7f93e2e9abb7b2a9ef555bd10e7c4a56",
@@ -3331,7 +3976,10 @@
         "article_type": "News",
         "sentiment": -0.527,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "81eb63b114973160b63468fd6bcf5827b67412ca",
@@ -3346,7 +3994,10 @@
         "article_type": "News",
         "sentiment": 0.153,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "504529c212c876eaf23c4fa0273e04e896bdf1e5",
@@ -3361,7 +4012,10 @@
         "article_type": "News",
         "sentiment": -0.402,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "3e05f460eaea70134e7fb6021b0f30d6f4a5b9da",
@@ -3376,7 +4030,10 @@
         "article_type": "News",
         "sentiment": -0.488,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "6bb1a9bf25e8f914a9eee24ffb91b517119ee33d",
@@ -3391,7 +4048,10 @@
         "article_type": "News",
         "sentiment": -0.459,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "5c6a3a3a3179d4941fe262cda87adbc550bc4a64",
@@ -3406,7 +4066,10 @@
         "article_type": "News",
         "sentiment": -0.691,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "460ad34f20ac01ccf182fe05d5fa4f8ea31eeade",
@@ -3421,7 +4084,10 @@
         "article_type": "News",
         "sentiment": 0.612,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "b3fe328704e5de17d5f0e6f6b0bcb5e9f876eddf",
@@ -3436,7 +4102,10 @@
         "article_type": "News",
         "sentiment": -0.962,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "91c79ba845783f38cdc52af6b426852b3ffb3f36",
@@ -3451,7 +4120,10 @@
         "article_type": "News",
         "sentiment": -0.923,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "769710ef94e2f14a5b8d8ff393d0669cd21a4bef",
@@ -3466,7 +4138,10 @@
         "article_type": "News",
         "sentiment": -0.178,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "544f6d2c74a904d994ffc35addbd3da099f1c5bd",
@@ -3481,7 +4156,10 @@
         "article_type": "News",
         "sentiment": 0.71,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "0d19f5e7a16c19df7d17157c7a0002eedfb83f5e",
@@ -3496,7 +4174,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "7b396d8d476723d481e1f1f139a0f2533dd2f3e4",
@@ -3511,7 +4192,10 @@
         "article_type": "News",
         "sentiment": 0.296,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "7f6a68b604972312a7226c1bf2e364625c2da8d0",
@@ -3526,7 +4210,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "c173ce113aa1c885ef52cdb18b7aac06dccc5b04",
@@ -3541,7 +4228,10 @@
         "article_type": "News",
         "sentiment": -0.743,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "e64f683b969e87fec2cd81a1ccf0c28db964d63c",
@@ -3556,7 +4246,10 @@
         "article_type": "News",
         "sentiment": 0.557,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "63cd30f88f23e6c79b881b8b439f406a811bc9f4",
@@ -3571,7 +4264,10 @@
         "article_type": "News",
         "sentiment": -0.681,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "c2f1c9c14e1c06141cf80ec6b8f242009f1180b7",
@@ -3586,7 +4282,10 @@
         "article_type": "News",
         "sentiment": -0.94,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "b0ea74eb8b3d25c46ed380fd918b0422033bcf07",
@@ -3601,7 +4300,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "thehindu"
     },
     {
       "id": "dd4bc31d3646eebb52570a692245c40368a0a8c0",
@@ -3616,7 +4318,10 @@
         "article_type": "News",
         "sentiment": -0.586,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Murray Brewster",
+      "feed_key": "world"
     },
     {
       "id": "1c448ff252e0689bb2bfe426fc3d614d443e89f8",
@@ -3631,7 +4336,10 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "b0516828696a09ee31d9e68976c5f3004bdba085",
@@ -3646,7 +4354,10 @@
         "article_type": "News",
         "sentiment": -0.856,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "9bb180198b6730493aacdfe4a44c06f199e93489",
@@ -3661,7 +4372,10 @@
         "article_type": "News",
         "sentiment": -0.691,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "a0e02efe055c5e672bf2ec0ee4d7ef6c77d45f18",
@@ -3676,7 +4390,10 @@
         "article_type": "News",
         "sentiment": 0.931,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Sheena Goodyear",
+      "feed_key": "technology_science"
     },
     {
       "id": "5a1973a3f9b5459682b1751338d586c6aa16fc54",
@@ -3691,7 +4408,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "4550a14d5cdb417703605fba9fef61f36759721d",
@@ -3706,7 +4426,10 @@
         "article_type": "News",
         "sentiment": -0.849,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "f36443930b94ec3ec2e1771ac21ad753b4617612",
@@ -3721,7 +4444,10 @@
         "article_type": "News",
         "sentiment": 0.544,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "0073f74c979972ef93054a00868724c474d3a008",
@@ -3736,7 +4462,10 @@
         "article_type": "News",
         "sentiment": -0.727,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "a9497bf46bd63779fb95bbb7b4cf432ef41a5d60",
@@ -3751,7 +4480,10 @@
         "article_type": "News",
         "sentiment": -0.778,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "4b7e6f563d18623d32aa719e85895f9773fc337c",
@@ -3766,7 +4498,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "cca4dd33dad31fc34eea990c05adeaf7bae5c0e0",
@@ -3781,7 +4516,10 @@
         "article_type": "News",
         "sentiment": 0.906,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE 24",
+      "feed_key": "france24"
     },
     {
       "id": "513af496f0e05da628b3f6d5a362cbd765a37539",
@@ -3796,7 +4534,10 @@
         "article_type": "News",
         "sentiment": 0.802,
         "subjectivity_hint": "high"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "bdcc31ada9a9c3a8b06875d31bafb666d7926f5d",
@@ -3811,7 +4552,10 @@
         "article_type": "News",
         "sentiment": -0.039,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "mercopress"
     },
     {
       "id": "f69d99107a204d4a35ba49b66f32f1ebbd6916d2",
@@ -3826,7 +4570,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "bef2c850eed766e833ebee1142a34bd624324d07",
@@ -3841,7 +4588,10 @@
         "article_type": "News",
         "sentiment": -0.896,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "91d604960cc1e0a04aabc516410dfebe91a94063",
@@ -3856,7 +4606,10 @@
         "article_type": "News",
         "sentiment": 0.646,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Philip Drost",
+      "feed_key": "canada"
     },
     {
       "id": "fa1bf5f1d055ea192ecccf3fd9c19d4bb1f73531",
@@ -3871,7 +4624,10 @@
         "article_type": "News",
         "sentiment": 0.178,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     },
     {
       "id": "3023884089de4a2e04b6539973e633816ca2c2b2",
@@ -3886,7 +4642,10 @@
         "article_type": "News",
         "sentiment": 0.128,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Sharon GAFFNEY",
+      "feed_key": "france24"
     },
     {
       "id": "75527305e2af618791a83b8a503135ab474b7a7f",
@@ -3901,7 +4660,10 @@
         "article_type": "News",
         "sentiment": -0.402,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Christine Pagulayan",
+      "feed_key": "world"
     },
     {
       "id": "8c168d26172ab60599f7f8c5f25c9ac2ae77cfa3",
@@ -3916,7 +4678,10 @@
         "article_type": "News",
         "sentiment": -0.649,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Gavin Axelrod",
+      "feed_key": "canada"
     },
     {
       "id": "5ecb03524faf4a696f4a87cb8ebb872fbbf47848",
@@ -3931,7 +4696,10 @@
         "article_type": "News",
         "sentiment": 0.66,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "FRANCE24",
+      "feed_key": "france24"
     },
     {
       "id": "fb5c022f721bdcfc3c7774f000790b87a1a05bc9",
@@ -3946,7 +4714,10 @@
         "article_type": "News",
         "sentiment": -0.771,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "4bf3b46dafe396129f1e4cb9b096b2a23f253400",
@@ -3961,7 +4732,10 @@
         "article_type": "News",
         "sentiment": -0.052,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "a0ce7360368b4d7b82a9a1d626674c60646f1564",
@@ -3976,7 +4750,10 @@
         "article_type": "News",
         "sentiment": 0.813,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "canada"
     },
     {
       "id": "dca213e78e7cf6526a16e2c79d48247722a3dde8",
@@ -3991,7 +4768,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Jennifer Keiller",
+      "feed_key": "canada"
     },
     {
       "id": "03360e78bfd1026af3a719dac96d6d789248ab4c",
@@ -4006,7 +4786,10 @@
         "article_type": "News",
         "sentiment": -0.947,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "bfbe9d0cca1baef7a574c7ebaaf71157f523d612",
@@ -4021,7 +4804,10 @@
         "article_type": "News",
         "sentiment": -0.557,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Sammy Hudes",
+      "feed_key": "canada"
     },
     {
       "id": "7f50f6636a9d1de18c9332644278f47c5e041851",
@@ -4036,7 +4822,10 @@
         "article_type": "News",
         "sentiment": -0.077,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alexandra Mae Jones",
+      "feed_key": "world"
     },
     {
       "id": "ffce3c8d36802a2bf6e08eb87e4e6cdacbd88c5e",
@@ -4051,7 +4840,10 @@
         "article_type": "News",
         "sentiment": 0.474,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "e33ebb5dce62210c540176f811ead4ce43b22160",
@@ -4066,7 +4858,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Nicole Brockbank",
+      "feed_key": "canada"
     },
     {
       "id": "9724d512050b602c663f37608ff30576fc1cf358",
@@ -4081,7 +4876,10 @@
         "article_type": "News",
         "sentiment": 0.71,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "6f24f50b843fed6639c1c6ea51974385ae822405",
@@ -4096,7 +4894,10 @@
         "article_type": "News",
         "sentiment": -0.939,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "23c277a3ae89fd3c962f30f0c19ca8d81ea8f8d5",
@@ -4111,7 +4912,10 @@
         "article_type": "News",
         "sentiment": 0.94,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Debbie Slobe",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "8db38bbc57611026c31f5a9360f5b74deae53ea0",
@@ -4126,7 +4930,10 @@
         "article_type": "News",
         "sentiment": 0.494,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Alex Kennedy",
+      "feed_key": "canada"
     },
     {
       "id": "6719b69a31c4ebe77d48723c6fda351ac77b8822",
@@ -4141,7 +4948,8 @@
         "article_type": "News",
         "sentiment": -0.927,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null
     },
     {
       "id": "8fbff8fba1331c83ddc898432405673f7db5b10c",
@@ -4156,7 +4964,10 @@
         "article_type": "News",
         "sentiment": -0.944,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Jessica Wong",
+      "feed_key": "entertainment"
     },
     {
       "id": "f22910d08663b2bb939895bcf99db2fb149005f4",
@@ -4171,7 +4982,10 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "David Baxter",
+      "feed_key": "canada"
     },
     {
       "id": "11b3b71ca4b514eb4856fab3163d7141512f5fe7",
@@ -4186,7 +5000,10 @@
         "article_type": "News",
         "sentiment": 0.881,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Mahmoud Moataz",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "8056ab32f9662b3b97b5c43594317af0eb90c438",
@@ -4201,7 +5018,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "7cfd71515bb1eb461d976f5f4bc5ef4611dca0cd",
@@ -4216,7 +5036,10 @@
         "article_type": "News",
         "sentiment": -0.625,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "39d1ef5e3aaa007be852a14df97612a9aebb53f9",
@@ -4231,7 +5054,10 @@
         "article_type": "News",
         "sentiment": 0.511,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "5dd21ac4fb2c7b71a35e95ed4c69ed7ce5edfa71",
@@ -4246,7 +5072,10 @@
         "article_type": "News",
         "sentiment": -0.904,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "rnzp"
     },
     {
       "id": "37cb4de206d129a355535295f589710ad5f4c07c",
@@ -4261,7 +5090,10 @@
         "article_type": "News",
         "sentiment": 0.382,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "0bd65f3362af78ed16dfcd3442d02e8cfbeee2b7",
@@ -4276,7 +5108,10 @@
         "article_type": "News",
         "sentiment": 0.477,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "b2a40f32b4c78b4066b129caa0df3ef1e7659733",
@@ -4291,7 +5126,10 @@
         "article_type": "News",
         "sentiment": 0.273,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Jeff Lagerquist",
+      "feed_key": "business"
     },
     {
       "id": "b1358903815258065a39b7d17d4f0d706fae4d58",
@@ -4306,7 +5144,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "47d2a5a14a1971623a8ce2100a021652f72f893a",
@@ -4321,7 +5162,10 @@
         "article_type": "News",
         "sentiment": -0.727,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "d31924d5cb87e0c464d921a3ef3d5b966f28c339",
@@ -4336,7 +5180,10 @@
         "article_type": "News",
         "sentiment": 0.965,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Chris Iorfida",
+      "feed_key": "world"
     },
     {
       "id": "839a32b337572b36084da86a091d932041418d47",
@@ -4351,7 +5198,10 @@
         "article_type": "News",
         "sentiment": 0.25,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "12ccd2345b6782cdbece06b890beb445beedae4a",
@@ -4366,7 +5216,10 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "7584be7f7825ce269609ec64031e08e450a324e6",
@@ -4381,7 +5234,10 @@
         "article_type": "News",
         "sentiment": 0.637,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "fd7590bdd729abd809e07f35261a514eb24fb02e",
@@ -4396,7 +5252,10 @@
         "article_type": "News",
         "sentiment": -0.44,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "bc6273b99de3770ab077d56d6616aabe5b756055",
@@ -4411,7 +5270,10 @@
         "article_type": "News",
         "sentiment": 0.077,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "Daily News Egypt",
+      "feed_key": "dailynewsegypt"
     },
     {
       "id": "c51bae4e2d5313b94541300fbeeef22b44187fdf",
@@ -4426,7 +5288,10 @@
         "article_type": "News",
         "sentiment": -0.932,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "world"
     },
     {
       "id": "614a8e60b286586db7a05f5eeae2211c5c707b9e",
@@ -4441,7 +5306,10 @@
         "article_type": "News",
         "sentiment": 0.955,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "MND Staff",
+      "feed_key": "mexiconewsdaily"
     },
     {
       "id": "fc03dce611b5ff0df18b99f34e17acf715517286",
@@ -4456,7 +5324,10 @@
         "article_type": "News",
         "sentiment": -0.202,
         "subjectivity_hint": "medium"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "canada"
     },
     {
       "id": "955b9f4cd621fa36c73bc6ce0995d9a9bc790e1a",
@@ -4471,7 +5342,10 @@
         "article_type": "News",
         "sentiment": -0.881,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "health"
     },
     {
       "id": "828037c2e0af649f61c814a87f15b088b509b910",
@@ -4486,7 +5360,196 @@
         "article_type": "News",
         "sentiment": -0.863,
         "subjectivity_hint": "low"
-      }
+      },
+      "first_seen_at": null,
+      "byline": "",
+      "feed_key": "bbc"
     }
-  ]
+  ],
+  "feed_status": [
+    {
+      "key": "top_stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "key": "canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 19
+    },
+    {
+      "key": "world",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 17
+    },
+    {
+      "key": "business",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 5
+    },
+    {
+      "key": "technology_science",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 3
+    },
+    {
+      "key": "health",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "key": "entertainment",
+      "source": "CBC News",
+      "country": "Canada",
+      "status": "ok",
+      "count": 5
+    },
+    {
+      "key": "aljazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "key": "scmp",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "key": "thehindu",
+      "source": "The Hindu",
+      "country": "India",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "key": "bbc",
+      "source": "BBC",
+      "country": "United Kingdom",
+      "status": "ok",
+      "count": 24
+    },
+    {
+      "key": "abc",
+      "source": "ABC News",
+      "country": "Australia",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "key": "france24",
+      "source": "France 24",
+      "country": "France",
+      "status": "ok",
+      "count": 24
+    },
+    {
+      "key": "chinadaily",
+      "source": "China Daily",
+      "country": "China",
+      "status": "unavailable",
+      "count": 0
+    },
+    {
+      "key": "mercopress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "key": "japantimes",
+      "source": "The Japan Times",
+      "country": "Japan",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "key": "koreaherald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "key": "dailytrust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "key": "dailynewsegypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "key": "agenciabrasil",
+      "source": "Agência Brasil",
+      "country": "Brazil",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "key": "mexiconewsdaily",
+      "source": "Mexico News Daily",
+      "country": "Mexico",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "key": "antaranews",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "key": "vietnamnews",
+      "source": "Viet Nam News",
+      "country": "Vietnam",
+      "status": "unavailable",
+      "count": 0
+    },
+    {
+      "key": "nation",
+      "source": "Nation Africa",
+      "country": "Kenya",
+      "status": "unavailable",
+      "count": 0
+    },
+    {
+      "key": "dailymaverick",
+      "source": "Daily Maverick",
+      "country": "South Africa",
+      "status": "unavailable",
+      "count": 0
+    },
+    {
+      "key": "rnzp",
+      "source": "RNZ Pacific",
+      "country": "New Zealand",
+      "status": "ok",
+      "count": 7
+    }
+  ],
+  "retention_days": 14,
+  "history_limit": 2500
 }
