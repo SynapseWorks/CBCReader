@@ -1,8 +1,98 @@
 {
   "source": "World Reader",
-  "generated_at": "2026-11-25T09:43:52.459048-05:00",
+  "generated_at": "2026-11-25T10:08:07.260436-05:00",
   "timezone": "America/Toronto",
   "items": [
+    {
+      "id": "48de25f448c199a5475a29b7a9f024e899f5c615",
+      "url": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269?cmp=rss",
+      "title": "Yemen's Houthis claim attack on major Saudi oil refinery",
+      "published_at": "2026-11-25T10:04:30-05:00",
+      "section": "World",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's Ras Tanura oil refinery, the kingdom's largest, which is near a major export terminal for Saudi crude.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.869,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5e8567db5f12fc23dce2aa3f7fd64e1d41f4277d",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375803/hundreds-evacuated-japanese-mall-after-fatal-stabbing-parking-attendant",
+      "title": "Hundreds evacuated from Japanese mall after fatal stabbing of parking attendant",
+      "published_at": "2026-11-25T10:00:46-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "A bicycle parking lot attendant was fatally stabbed in Fukuoka, southwestern Japan, on Wednesday, and a nearby shopping centre was evacuated after the attacker fled the scene, police said. The police later arrested Norio Kawatani, a 49-year-old resident of Fukuoka, for allegedly hitting a man at a subway station in the city. They are questioning him about his possible connection to the attendant’s death. The victim was identified as Yoshiaki Ishikawa, 70, who lived in the neighbourhood.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.974,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cec62759e8bb60781da249a5faca321285b2aeec",
+      "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss",
+      "title": "AI stocks drag Wall Street lower, S&P 500 slumps 2.6%",
+      "published_at": "2026-11-25T10:00:22-05:00",
+      "section": "Business",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f4f6ae13c8c05cd84ac3b341bc49a9137ff8a53d",
+      "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+      "title": "Trump announces new trade tariffs: Which countries will they target?",
+      "published_at": "2026-11-25T09:54:44-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9fc3d5c54210836b9d746f6de83da2e7e8a6a6cc",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+      "title": "Knesset advances October 7 probe despite Netanyahu’s objections",
+      "published_at": "2026-11-25T09:53:49-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ade0562e21e5c9fa7a242e7c77c5c77024ecc93",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "published_at": "2026-11-25T09:46:41-05:00",
+      "section": "BBC",
+      "source": "BBC",
+      "country": "United Kingdom",
+      "summary_auto": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.128,
+        "subjectivity_hint": "low"
+      }
+    },
     {
       "id": "24961590a948058d993cf64798e6d44fdb8ed4db",
       "url": "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
@@ -16,6 +106,21 @@
         "article_type": "News",
         "sentiment": -0.808,
         "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "c0ea9fa6b629435ae62184ee3bd2b1af1cc8107b",
+      "url": "https://www.koreaherald.com/article/10949515",
+      "title": "'Hope' wins best film at 47th Blue Dragon Film Awards",
+      "published_at": "2026-11-25T09:36:19-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Na Hong-jin's \"Hope\" won best film at the 47th Blue Dragon Film Awards on Wednesday. Lee Chang-dong's \"Possible Love\" won four awards, including both lead acting prizes. Best film \"Hope\" led all films with 10 nominations. It also won the cinematography and lighting award, which went to Hong Kyung-pyo and Park Jung-woo. Director Na Hong-jin, whose film competed at Cannes this year, joked, \"They should have given me this at Cannes. Why here?\"",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.996,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -46,6 +151,21 @@
         "article_type": "News",
         "sentiment": -0.649,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f9a982fbd6d53b2999be660c2ed485abeeafa1a",
+      "url": "https://www.koreaherald.com/article/10949511",
+      "title": "Korea to retain 15% tariff cap under new US tariff proposal",
+      "published_at": "2026-11-25T09:08:57-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The Trump administration on Wednesday proposed new tariffs under Section 301 of the Trade Act of 1974 on 14 trading partners over industrial overcapacity, while maintaining the 15 percent tariff ceiling agreed upon under last year’s trade deal with South Korea. A senior US administration official said the proposed duties would not exceed the tariff ceilings negotiated under existing trade agreements, Reuters reported.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -349,6 +469,21 @@
       }
     },
     {
+      "id": "8ab83ba0e2b177d49c3f779ddbe6c60e414df1f8",
+      "url": "https://dailytrust.com/zamfara-senatorial-candidates-step-down-for-yari/",
+      "title": "Zamfara senatorial candidates step down for Yari",
+      "published_at": "2026-11-25T08:15:56-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Eight senatorial candidates from various political parties contesting for the Zamfara West race have withdrawn to support the incumbent Sen. Abdulaziz Yari of the All Progressives Congress (APC). This is contained in a statement issued by the Coordinator of Yari’s constituency office, Sha’ayau’u Sarkinfawa on Wednesday in Gusau. According to him, the candidates announced their […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "fe2066634304eaa46bbd7dca4e4b8146516757bd",
       "url": "https://www.france24.com/en/video/20261125-the-forgotten-victims-of-femicide-children-orphaned-by-violence-in-italy",
       "title": "The forgotten victims of femicide: Children orphaned by violence in Italy",
@@ -484,6 +619,21 @@
       }
     },
     {
+      "id": "43c8cdd0ea2739de0ce09783b518c2f286ff3047",
+      "url": "https://dailytrust.com/things-to-know-about-pete-edochie/",
+      "title": "Things to know about Pete Edochie",
+      "published_at": "2026-11-25T07:46:43-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Veteran Nigerian actor and broadcaster, Chief Pete Edochie, has passed away at the age of 79. Edochie died on Wednesday, November 25, 2026, in Enugu, after a prolonged battle with prostate cancer. Below are things to know about the late veteran actor: Birth and Early Education Obaigbena Recounts Meetings With FirstBank Chairman, Denies Police Invitation […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.925,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "ecccfdef4e57d838cdaf1a80eb5a937f11e4f4cb",
       "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
       "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
@@ -574,6 +724,21 @@
       }
     },
     {
+      "id": "fda550ef6f734f9678b53d1cf68cdd768588e267",
+      "url": "https://dailytrust.com/obi-mbah-funke-akindele-others-mourn-veteran-pete-edochie/",
+      "title": "Obi, Mbah, Funke Akindele, others mourn Veteran Pete Edochie",
+      "published_at": "2026-11-25T07:28:32-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Former Anambra State Governor, Peter Obi, Enugu State Governor, Peter Mbah, Nollywood actress, Funke Akindele, and other prominent Nigerians have mourned veteran actor Pete Edochie, who died on Wednesday at the age of 79. Obi described Edochie’s death as a profound loss to the Igbo people, Nigeria and Africa, noting that the actor used his […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.912,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "d156b37e1ab0b9f932640ed2b3cc23a2350e7701",
       "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
       "title": "Catalan separatist Puigdemont to return to Spain on December 12",
@@ -600,6 +765,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "99b6c37be4c016cd715b953a2a36df25119fc748",
+      "url": "https://www.koreaherald.com/article/10949472",
+      "title": "Additional personal info leaked from Bithumb in hacks",
+      "published_at": "2026-11-25T07:24:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "More personal information than initially reported had been leaked from Bithumb in a recent cyberattack, the cryptocurrency exchange said Wednesday. Bithumb reported a data breach late last month affecting some 7,100 customers and employees, but the exchange said more personal information has been leaked. The leaked personal information includes names, phone numbers, passport numbers and account numbers.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
         "subjectivity_hint": "low"
       }
     },
@@ -634,6 +814,21 @@
       }
     },
     {
+      "id": "bfeff7070b81c00c89de36c6f3be97a2d7d149b8",
+      "url": "https://dailynewsegypt.com/2026/11/25/aaib-9m-2026-results-net-profit-303-million/",
+      "title": "AAIB nine-month net profit rises 19% to $303.1m as lending jumps 25%",
+      "published_at": "2026-11-25T07:21:19-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Arab African International Bank (AAIB) reported a 19% rise in net profit to $303.1m for the nine months to the end of September 2026, driven by strong lending growth and higher net interest income. Net banking income rose 14% year on year to $597.6m. Net interest income increased 15% to $508.6m and the net interest […] \n The post  AAIB nine-month net profit rises 19% to $303.1m as lending jumps 25%  first appeared on  Dailynewsegypt .",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.974,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "dca406a17140f30657281323897c2c2aa9ca03a9",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
       "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
@@ -664,6 +859,36 @@
       }
     },
     {
+      "id": "5042ebc63ac199b39e67778375b89bc9fef16076",
+      "url": "https://www.koreaherald.com/article/10949469",
+      "title": "Remains of Korean soldier return home after 59 years",
+      "published_at": "2026-11-25T07:13:39-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The remains of Army Sgt. Ahn Gyu-tae returned to South Korea on Wednesday, 59 years after he died in the Vietnam War. “Today, the Republic of Korea has at last kept its solemn promise to find you and bring you home,” Defense Minister Kang Shin-chul said at Seoul Air Base in Seongnam, Gyeonggi Province, where a South Korean Air Force C-130 arrived from Hawaii carrying Ahn’s remains.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c017fd9222906fdb9e7fb7a67e7602877f39148",
+      "url": "https://dailytrust.com/el-rufai-recants-denies-tapping-ribadus-phone/",
+      "title": "El-Rufai recants, denies tapping Ribadu’s phone",
+      "published_at": "2026-11-25T07:12:02-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Former Governor Nasir El-Rufai of Kaduna State on Wednesday denied intercepting the telephone conversations of Mallam Nuhu Ribadu, the National Security Adviser (NSA). El-Rufai, who stated this when he opened his defence before Justice Joyce Abdulmalik of the Federal High Court in Abuja, also denied asking anyone to do so. The former governor told the […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.34,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0ab4d7515940f919e5427e0fd17d607d6d0d015d",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3375787/bangladesh-garment-workers-win-36-minimum-wage-rise-after-protests",
       "title": "Bangladesh garment workers win 36% minimum wage rise after protests",
@@ -676,6 +901,21 @@
         "article_type": "News",
         "sentiment": -0.226,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "74e61631afd6da493076c3e790b25bf0c012c72a",
+      "url": "https://dailytrust.com/im-a-mad-man-soldier-threatens-journalists-barred-from-tinubus-borno-rally/",
+      "title": "‘I’m a mad man’, Soldier threatens Journalists barred from Tinubu’s Borno Rally",
+      "published_at": "2026-11-25T07:04:37-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "A combined team of security personnel have locked out journalists accredited to cover the All Progressives Congress (APC) presidential campaign rally in Maiduguri, Borno State. Reporters from media organizations including Vanguard, Daily Trust, Punch, Leadership, The Nation, News Agency of Nigeria (NAN), TVC, News Central, TV 360, Voice of Nigeria, and others representing a 32-member […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.026,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -709,6 +949,36 @@
       }
     },
     {
+      "id": "e594d93c578e0e417ebe8d6b6ead2685bcd4b078",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-hockey-girls-team-tournament-scam-9.7434326?cmp=rss",
+      "title": "‘Pretty low’: Calgary girls' hockey team out $2,000 after tournament scam",
+      "published_at": "2026-11-25T07:00:00-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "A Calgary U-11 girls' hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a0d9d5908de4e6288ca6269c83adbba2e85d637e",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-fatality-review-9.7434435?cmp=rss",
+      "title": "Ending mandatory inquiries for in-custody deaths risks eroding trust in Alberta justice, experts warn",
+      "published_at": "2026-11-25T07:00:00-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Experts say the changes, intended to address a mounting backlog of pending fatality inquiries, would reduce the number of deaths subjected to public scrutiny and bring a previously independent review process under ministerial control.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "c316a2a9b736021833de327a30107cf783a4353f",
       "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
       "title": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
@@ -721,6 +991,36 @@
         "article_type": "News",
         "sentiment": -0.922,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dd525b34660dc6364d488081e37315a51136e62c",
+      "url": "https://dailytrust.com/daura-saga-katsina-tightens-control-over-emirs-requires-approval-for-foreign-visitors/",
+      "title": "Daura saga: Katsina Tightens Control Over Emirs, Requires Approval for Foreign Visitors",
+      "published_at": "2026-11-25T06:55:14-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "The Katsina State Government has directed Emirs and other traditional rulers in the state to obtain government approval before receiving foreign visitors in their palaces. The directive requires the traditional rulers to seek clearance from the Departments of Protocol and Cabinet/Security Matters under the Office of the Secretary to the State Government (SSG) before hosting […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.743,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6e4dedf4e5d1fd371faf008980f25e5ee31ca182",
+      "url": "https://www.koreaherald.com/article/10949465",
+      "title": "Railway union to launch work-to-rule action from Thursday",
+      "published_at": "2026-11-25T06:52:31-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The Korean Railway Workers’ Union said Wednesday it would begin a work-to-rule protest at 9 a.m. on Thursday and continue through Dec. 4, possibly delaying some trains during the period. A \"work-to-rule\" action, or slowdown, is an industrial action in which employees do only the minimum required. This can reduce productivity and disrupt operations, serving as a form of protest without a complete work stoppage.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.459,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -765,6 +1065,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.944,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6076025e61cd25646e3d31bb3ceb81e508c36909",
+      "url": "https://dailytrust.com/nigeria-daily-how-rising-cooking-gas-prices-are-putting-more-pressure-on-nigerian-households/",
+      "title": "NIGERIA DAILY: How Rising Cooking Gas Prices Are Putting More Pressure On Nigerian Households",
+      "published_at": "2026-11-25T06:45:23-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "DOWNLOAD HERE: The rising cost of cooking gas is putting more pressure on Nigerian households, forcing many families to spend more on an essential domestic need. NIGERIA DAILY: 2027 Elections — Are Nigerian Youths Ready To Take Over Political Leadership? Despite government efforts to increase supply and make the commodity more affordable, prices continue to […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.048,
         "subjectivity_hint": "low"
       }
     },
@@ -921,15 +1236,90 @@
     {
       "id": "0a71ace042b3668cd30f55e740f06a1d66fc5363",
       "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-      "title": "Israeli strike kills Hamas official, his wife and children",
+      "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
       "published_at": "2026-11-25T06:24:37-05:00",
       "section": "Al Jazeera",
       "source": "Al Jazeera",
       "country": "Qatar",
-      "summary_auto": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+      "summary_auto": "Gaza's internal security director and his family are among seven Palestinians killed by Israeli forces on Wednesday.",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.813,
+        "sentiment": -0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f858ac60e4812e1e87dcbdb9fd3e7004e915867c",
+      "url": "https://en.mercopress.com/2026/11/25/falklands-growing-interest-in-adjacent-areas-to-navitas-sea-lion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Falklands, growing interest in adjacent areas to Navitas Sea Lion",
+      "published_at": "2026-11-25T06:21:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Exploration Company Eco (Atlantic) Oil & Gas has farmed into Israeli group Navitas Petroleum's PL001 license block off the Falkland Islands. The move comes after Eco purchased JHI Associates Inc. (JHI), giving the company a 35% working interest in the block, with Navitas holding the remaining 65%.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ddfd22b076733480ae9d6c6217dc81f4a5f3132a",
+      "url": "https://en.mercopress.com/2026/11/25/falklands-at-jmc-uk-steps-up-security-support-for-british-overseas-territories?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Falklands at JMC: UK steps up security support for British Overseas Territories",
+      "published_at": "2026-11-25T06:20:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "The UK government and elected leaders and representatives from the Overseas Territories are meeting in London, beginning this Monday until November 26, for the annual Joint Ministerial Council (JMC). The JMC is a chance for UKOT leaders to come together to celebrate partnerships with UK and tackle the major challenges of our time.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.886,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ae7181caeda65b11036d05940bf2738a0384c88b",
+      "url": "https://en.mercopress.com/2026/11/25/argentina-interested-in-purchasing-three-italian-made-built-light-frigates?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Argentina interested in purchasing three Italian made built light frigates",
+      "published_at": "2026-11-25T06:19:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Argentine defense minister Lieutenant General Carlos Alberto Presti and his Italian counterpart Guido Crosetto framed in November in Rome, a Letter of Intent for the purchase of Italian built corvettes or light frigates.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bb54b67828a4a68df610de9d5d48b1c3c79dedca",
+      "url": "https://en.mercopress.com/2026/11/25/falklands-outbreak-of-avian-influenza-among-gentoo-penguins?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Falklands, outbreak of avian influenza among Gentoo Penguins",
+      "published_at": "2026-11-25T06:19:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "The Falkland Islands Government is reporting on a new outbreak of avian influenza. On Wednesday 18 November 2026, swabs that were taken from gentoo penguins on Beaver Island and at Fox Point, Fitzroy, tested positive for highly pathogenic avian influenza.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.557,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1012b343d001d2aeb7643637508f367464f7acc8",
+      "url": "https://en.mercopress.com/2026/11/25/british-heritage-in-chile-1858-catedral-de-san-pablo-refurbished-in-city-port-valparaiso?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "British heritage in Chile, 1858 Catedral de San Pablo, refurbished in city-port Valparaiso",
+      "published_at": "2026-11-25T06:17:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Chile's oldest Anglican church will be preserved as a museum to celebrate the role of the British Anglicans building religious tolerance in Chile. St Paul's Cathedral, (Catedral de San Pablo), brought together the early immigrant British community which settled in the central port city of Valparaíso, 120km away from the capital Santiago.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
         "subjectivity_hint": "low"
       }
     },
@@ -945,6 +1335,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.898,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b0ae7b1c2b7df8ba4e07a01c53bcc48f2f96896c",
+      "url": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Falklands commissions independent review (and survey) of the Tax system",
+      "published_at": "2026-11-25T06:15:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "The Falkland Islands Government has commissioned Alma Economics to undertake an independent review of the Falkland Islands tax system.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -1066,6 +1471,36 @@
         "article_type": "News",
         "sentiment": -0.287,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "79b6dc364f0842668d1469924d6d71a824b8834d",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/dillon-singler-homicide-lee-perkins-manslaughter-stabbing-market-mall-9.7430064?cmp=rss",
+      "title": "After torturing victim over missing drugs, Saskatoon man played VLTs, stabbed a stranger",
+      "published_at": "2026-11-25T06:00:00-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Within hours of participating in a brutally violent homicide, Dillon Singler went out and played some VLTs at Market Mall in Saskatoon, where he randomly attacked and stabbed another man.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.965,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "67da811d6dbba737f814dd04dfd07741791486bd",
+      "url": "https://www.koreaherald.com/article/10949453",
+      "title": "President Lee reaffirms Cheonghae unit will widen role, but stay out of war",
+      "published_at": "2026-11-25T05:59:54-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "President Lee Jae Myung on Wednesday reaffirmed that South Korea's Cheonghae naval unit will take on a wider role in securing safe maritime passage, but will not intervene in any war. His remarks followed a vote earlier in the day by the National Assembly's defense committee approving a revised motion to widen the unit's operational zone. The unit would move from the waters off Somalia to the Arabian Sea south of Oman, about 650 kilometers from the Strait of Hormuz. \"As I said in September, the",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.631,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -1354,21 +1789,6 @@
       }
     },
     {
-      "id": "c36078df4469b2f7423ff6be421079949d9eb4ec",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
-      "title": "See motorcycle passenger’s viral cricket catch",
-      "published_at": "2026-11-25T05:10:47-05:00",
-      "section": "Al Jazeera",
-      "source": "Al Jazeera",
-      "country": "Qatar",
-      "summary_auto": "A cricket catch by a passenger on a moving motorbike in Pakistan has gone viral on social media.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "33902beebc629cdacff76fba86c9e27bb2727eb4",
       "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
       "title": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report",
@@ -1380,21 +1800,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.494,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "3fed1b0abf7702646ec7ff1fe90e3d703f524456",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/dozens-of-ports-close-as-powerful-waves-damage-perus-coastline?traffic_source=rss",
-      "title": "Dozens of ports close as powerful waves damage Peru’s coastline",
-      "published_at": "2026-11-25T05:05:58-05:00",
-      "section": "Al Jazeera",
-      "source": "Al Jazeera",
-      "country": "Qatar",
-      "summary_auto": "Dozens of ports close as powerful waves damage Peru’s coastline",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.202,
         "subjectivity_hint": "low"
       }
     },
@@ -1411,6 +1816,21 @@
         "article_type": "News",
         "sentiment": -0.178,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c527641a49163cb88bbf6362f6aebf3ebbb9134e",
+      "url": "https://www.koreaherald.com/article/10949442",
+      "title": "US reaffirms alliance as Lee overhauls security team",
+      "published_at": "2026-11-25T05:02:02-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The US State Department on Tuesday reaffirmed the importance of its alliance with South Korea after President Lee Jae Myung moved to replace three key foreign policy and national security officials amid lingering concerns over intelligence sharing. “The United States values the importance of close cooperation in the US-ROK Alliance,” a State Department spokesperson said Tuesday in response to media inquiries about Lee’s nomination of a new foreign minister, unification minister and intelligence",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.969,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -1459,17 +1879,47 @@
       }
     },
     {
-      "id": "ee655f2c22128030ac9145651af58a3c9166f6ff",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3375752/israeli-strike-gaza-kills-hamas-security-chief-wife-and-teenage-daughters",
-      "title": "Israeli strike in Gaza kills Hamas security chief, wife and teenage daughters",
-      "published_at": "2026-11-25T04:27:55-05:00",
-      "section": "South China Morning Post",
-      "source": "South China Morning Post",
-      "country": "Hong Kong, China",
-      "summary_auto": "An Israeli strike killed a Gaza security official, his wife and their two daughters on Wednesday, first responders and officials said, while the Israeli military said it “targeted a Hamas terrorist”. Civil defence spokesman Mahmoud Bassal said that an Israeli strike on a residential building in the Al-Shati refugee camp west of Gaza City killed four people including “a man, his wife and his two daughters” and wounded 12 others. The civil defence, a rescue force which operates under Hamas...",
+      "id": "19927bf9d0d1472445f8ff0d9d7e0f00923febaa",
+      "url": "https://dailytrust.com/obaigbena-recounts-meetings-with-firstbank-chairman-denies-police-invitation/",
+      "title": "Obaigbena Recounts Meetings With FirstBank Chairman, Denies Police Invitation",
+      "published_at": "2026-11-25T04:11:32-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Chairman of THISDAY/ARISE Media Group, Nduka Obaigbena, has denied receiving any police invitation over an alleged threat to the life of FirstBank Managing Director, Olusegun Alebiosu. Obaigbena also recounted his meetings with the bank’s chairman, Femi Otedola, as part of ongoing efforts to resolve financial disagreements between the parties. In a statement issued by his […]",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.796,
+        "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7ac88c57b1094c771e14b49d642790293b14d9e9",
+      "url": "https://dailytrust.com/obi-kwankwasos-followers-carry-sticks-to-campaigns-but-harm-nobody/",
+      "title": "Obi: Kwankwaso’s followers carry sticks to campaigns but harm nobody",
+      "published_at": "2026-11-25T04:08:58-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Presidential Candidate of the Nigeria Democratic Congress (NDC), Peter Obi, has defended members of the Kwankwasiyya Movement over allegations that some of them attend political campaigns with sticks, insisting that he has never witnessed them use such items to harm anybody. Obi said he has been part of the Kwankwasiyya political family for some time […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e3cb07b380ef63662bee288014d5e2b4066d51dd",
+      "url": "https://dailytrust.com/2027-how-military-tackled-political-tension-in-north-weakened-terrorists-activities/",
+      "title": "2027: How military tackled political tension in North, weakened terrorists’ activities",
+      "published_at": "2026-11-25T04:07:47-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Less than three months to another general election in the country, the military high command has continued to assist other security agencies maintaining internal security to reduce potential threats and other election-related violence particularly in the North, Daily Trust reports. The military, under the leadership of General Olufemi Olatunbosun Oluyede, has specifically increased its efforts […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
         "subjectivity_hint": "low"
       }
     },
@@ -1485,6 +1935,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d875f4592d8ad028ec1fbb9cb97a8691252448a5",
+      "url": "https://dailytrust.com/firm-marks-10th-anniversary-unveils-luxury-plaza/",
+      "title": "Firm marks 10th anniversary, unveils luxury plaza",
+      "published_at": "2026-11-25T04:00:43-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Baffi Furniture, one of Nigeria’s prominent furniture and interior furnishing brands, celebrated its 10th anniversary alongside the grand opening of Baffi Luxury Plaza, marking a decade of growth, innovation and excellence. The event had His Royal Highness, Muhammadu Sanusi II, as the Chief Guest of Honour, alongside other distinguished guests, business leaders, industry stakeholders and […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.968,
         "subjectivity_hint": "low"
       }
     },
@@ -1549,6 +2014,21 @@
       }
     },
     {
+      "id": "e21fde41ea3b7f36174173d511f1817023187796",
+      "url": "https://www.koreaherald.com/article/10949391",
+      "title": "Hanwha chair puts food safety first on first Ourhome visit",
+      "published_at": "2026-11-25T03:49:56-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Hanwha Group Chair Kim Seung-youn on Wednesday urged employees at the group’s food service subsidiary to prioritize food safety. “Providing customers with safe food is even more important than developing distinctive flavors,” Kim said during his first visit to an Ourhome site since it joined Hanwha in May 2025. “Once trust in food safety is lost, it is difficult to regain.” At the Magok Food Research Center in western Seoul, Kim observed tests for heavy metals, antibiotic residues and foodborne",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.898,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "2e55d27bf952476f01e1ba7b3782d91f3759b21d",
       "url": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-finale-who-won-mirrorball-9.7435133?cmp=rss",
       "title": "Dancing with the Stars Season 35 finale: Who won the Mirrorball?",
@@ -1575,6 +2055,81 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2ce339b4506f32b43d83b3094591abe23ad1ac07",
+      "url": "https://dailytrust.com/police-why-we-declared-obaigbena-8-others-wanted/",
+      "title": "Police: Why we declared Obaigbena, 8 others wanted",
+      "published_at": "2026-11-25T03:45:41-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "The police have declared Prince Nduka Obaigbena, Chairman of Arise News Television, and eight other persons wanted over alleged threat to the life of First Bank of Nigeria Ltd. Managing Director, Mr Olusegun Alebiosu. The Assistant Inspector-General of Police (AIG), Zone 2, Mr Olohundare Jimoh, disclosed this on Tuesday in Lagos. Jimoh spoke while briefing […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f3b96bb983b9a4871622a07047ee5b1d3ff6fff0",
+      "url": "https://www.koreaherald.com/article/10949386",
+      "title": "Samsung Display to become ams Osram’s largest shareholder",
+      "published_at": "2026-11-25T03:43:11-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Samsung Display said Wednesday it had agreed to buy a 9.1 percent stake in Austrian semiconductor maker ams Osram for 210 million euros ($230 million) as part of a partnership to develop ultra-small micro-LEDs for displays. Under the agreement, Samsung Display will purchase 9,984,439 newly issued shares, which would make it ams Osram’s largest shareholder. The transaction is expected to close by early next year, subject to regulatory review and approval.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.863,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9cde1e92230783abfd5f000bf246bc8adcee8139",
+      "url": "https://dailytrust.com/just-take-me-what-pete-edochie-said-about-death-in-recent-interview/",
+      "title": "‘Just Take Me’, What Pete Edochie Said About Death In Recent Interview",
+      "published_at": "2026-11-25T03:42:13-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Veteran Nollywood actor, Pete Edochie, had, in a poignant reflection on his declining health weeks before his death, prayed to God to take him whenever his time came rather than allow him to become a burden to those around him. The 79-year-old actor made the emotional remark during a visit to ailing Ghanaian actor Emmanuel […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.796,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "6eb204a15bb19b840f1eb6e8eeb3f8af332b5a68",
+      "url": "https://www.koreaherald.com/article/10949381",
+      "title": "Aespa's different approaches to Japan and the US",
+      "published_at": "2026-11-25T03:38:13-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Aespa's distinct promotional strategies in two of the world's largest music markets offer a glimpse into how SM Entertainment adapts its approach to different overseas audiences. In Japan, the agency's leading girl group on Friday released a remix of \"Kiss N Tell,\" the lead track from its first Japanese EP. Taku Takahashi of Japanese electronic music group m-flo produced the remix, giving the song a festive arrangement for the holiday season.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.914,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "faadeeb339165cc84dfbd57df573013bb91a3fc8",
+      "url": "https://dailytrust.com/delta-killings-nigerians-can-no-longer-rely-on-police-for-protection-obidients/",
+      "title": "Delta Killings: Nigerians Can No Longer Rely on Police for Protection – Obidients",
+      "published_at": "2026-11-25T03:28:16-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "The Obidient Movement Worldwide has expressed concern over the ability of the Nigeria Police Force to protect citizens, following the deadly attack on Senator Ovie Omo-Agege and members of the Nigeria Democratic Congress (NDC) campaign team in Delta State. The attack, which occurred on November 23, 2026, at Uduere, Ughelli North Local Government Area, left […]",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.84,
         "subjectivity_hint": "low"
       }
     },
@@ -1606,6 +2161,21 @@
         "article_type": "News",
         "sentiment": -0.421,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c31f624beb61fe4d3005adb66d735cc0c26510da",
+      "url": "https://www.koreaherald.com/article/10949349",
+      "title": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm",
+      "published_at": "2026-11-25T03:15:51-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Representatives from Apple, Amazon Web Services and Qualcomm met with South Korean AI policymaker Ha Jung-woo on Wednesday to discuss how US companies could help expand Korea’s AI infrastructure and speed up AI adoption in manufacturing. The American Chamber of Commerce in Korea hosted the closed-door roundtable at its office in Yeouido, western Seoul.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.796,
+        "subjectivity_hint": "high"
       }
     },
     {
@@ -1665,6 +2235,36 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bd1c1c5f9c1d9ab8a7638ec2b4958d6db5d4ef80",
+      "url": "https://www.koreaherald.com/article/10949312",
+      "title": "Samsung SDI's Ulsan plant wins top green management award",
+      "published_at": "2026-11-25T02:59:26-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Samsung SDI said Wednesday its Ulsan plant had won the top prize in the Excellent Green Company category at the 2026 Green Management Awards for its efforts to cut emissions and conserve resources. The plant reuses 90 percent of its wastewater and has reduced its annual use of municipal water by about 74,000 cubic meters, according to Samsung SDI. According to the company, the plant was the first private-sector site recognized under the climate ministry’s water conservation program in April.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.97,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3e40848502ddaffc045c514d6b27117e7c0febbb",
+      "url": "https://www.koreaherald.com/article/10949309",
+      "title": "Woongjin Foods expands Vietnam footprint through largest coffee chain",
+      "published_at": "2026-11-25T02:56:56-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Four bottled drinks from Woongjin Foods’ Gaya Farm brand have hit the shelves at most Highlands Coffee outlets across Vietnam, the South Korean beverage-maker said Wednesday, giving it a nationwide sales channel through the country’s largest coffee chain. The drinks, available in aloe, mango, pear and peach flavors, went on sale in late October. The rollout comes about a year after Woongjin Foods established its Vietnamese subsidiary in late November 2025.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
         "subjectivity_hint": "low"
       }
     },
@@ -1756,6 +2356,21 @@
         "article_type": "News",
         "sentiment": -0.727,
         "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "29d729a70af713965049a4db958b28389701bf38",
+      "url": "https://www.koreaherald.com/article/10949278",
+      "title": "Seoul shares retreat over 6% on revived AI uncertainties",
+      "published_at": "2026-11-25T02:26:15-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Korean shares retreated over 6 percent Wednesday, reversing the previous session's rally, as an overnight sell-off in technology stocks on Wall Street revived concerns over the sustainability of the artificial intelligence trade. The Korean won was trading higher against the US dollar. After falling as low as 4,672.55, the benchmark Korea Composite Stock Price Index ended the regular trading session down 308.52 points, or 6.16 percent, to close at 4,697.51.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.784,
+        "subjectivity_hint": "medium"
       }
     },
     {
@@ -1879,6 +2494,36 @@
       }
     },
     {
+      "id": "f45c3671edf33e82ae91b4162801b1bcd21cb031",
+      "url": "https://www.koreaherald.com/article/10949190",
+      "title": "AI trust crisis exposes cracks in Korea's stock market",
+      "published_at": "2026-11-25T01:41:03-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Korea's stock market has lost nearly half its value in five months, as doubts about returns on artificial intelligence investment expose the risks of its heavy reliance on semiconductor stocks. The Kospi, which closed at a record 9,114.55 points on June 22, fell to an intraday low of 4,586.80 on Monday. It rebounded 6.32 percent Tuesday to reclaim the 5,000 mark after Nvidia CEO Jensen Huang's return, then slid back into the 4,700 range Wednesday morning.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "940a03e50d78a046d78039b3fa8dae2ca46852dd",
+      "url": "https://www.koreaherald.com/article/10949188",
+      "title": "Winner’s Mino to resume military service for 102 days",
+      "published_at": "2026-11-25T01:40:09-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Song Min-ho of boy group Winner, better known as Mino, will resume his mandatory military service later this month, serving an additional 102 days to make up for unauthorized absences during his previous service as a social service agent. According to local media reports Wednesday, the Military Manpower Administration recently completed administrative procedures for Song’s return to service and assigned him to a facility in Seoul.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "da014c6b0da43298026beac75bd21fcc79ac8f09",
       "url": "https://www.abc.net.au/news/2026-11-25/la-trobe-street-fatal-stabbing-accused-denied-bail/107425670",
       "title": "18-year-old denied bail over fatal stabbing in Melbourne CBD",
@@ -1924,6 +2569,21 @@
       }
     },
     {
+      "id": "b23476533043d0ccad5cca47750c3fda85cfc9b6",
+      "url": "https://www.koreaherald.com/article/10949157",
+      "title": "Fragile Kospi faces fresh test",
+      "published_at": "2026-11-25T01:22:09-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The South Korean benchmark Kospi remains gripped by heightened volatility as questions persist over whether its recovery can develop into a sustained rally or peter out as a temporary reprieve amid lingering concerns over an artificial intelligence bubble. On Wednesday, the benchmark index fell 6.16 percent to 4,697.51, slipping below the 5,000 mark and reversing the previous session's 6.32 percent rebound.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "1d3e6c36b4a35479d356ae252fdc5742db480efd",
       "url": "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
       "title": "AFCON 2025: CAS gives title back to Senegal as Morocco vows to challenge verdict",
@@ -1935,6 +2595,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e123de1a396366629ef7d0c4b1bfe32c5caad874",
+      "url": "https://www.koreaherald.com/article/10949147",
+      "title": "S-Oil completes W9tr Shaheen petrochemical project",
+      "published_at": "2026-11-25T01:18:18-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "S-Oil marked the completion of its Shaheen petrochemical complex in Ulsan on Wednesday, capping South Korea’s largest-ever petrochemical investment as the refiner moves to expand its chemicals business. The project cost 9.26 trillion won ($6.9 billion). The Shaheen Project is scheduled to begin commercial operations in 2027 after trial runs. It will add about 3.2 million metric tons of annual petrochemical production capacity and raise the share of petrochemicals in S-Oil’s total output from 12",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
         "subjectivity_hint": "low"
       }
     },
@@ -1954,6 +2629,21 @@
       }
     },
     {
+      "id": "908e3900f86ed48981860a6220750e08f24cde90",
+      "url": "https://www.koreaherald.com/article/10949146",
+      "title": "Why Lee is keeping North Korea’s ‘enemy’ label despite his peace push",
+      "published_at": "2026-11-25T01:16:45-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Korea will retain its designation of the North Korean regime and military as enemies in the first defense white paper under President Lee Jae Myung, breaking with the practice of previous liberal administrations. The decision, confirmed by Defense Ministry officials Wednesday, comes amid Pyongyang’s increasingly hostile stance toward Seoul. “We have decided to retain the wording identifying the North Korean military and regime as our enemies,” a ministry official told The Korea Herald.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.768,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "7118db10ae517b6e82878ff8f6f12529553d0746",
       "url": "https://www.abc.net.au/news/2026-11-25/murray-watt-qld-governmental-environmental-law-review/107426774",
       "title": "Queensland and Canberra clash over environmental law review 'stunt'",
@@ -1965,6 +2655,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4557718bed5331bf1f4a5afc11c15ba05d5e63c1",
+      "url": "https://www.koreaherald.com/article/10949143",
+      "title": "The 32-second rollout: Inside GM Korea’s zero-downtime transmission plant",
+      "published_at": "2026-11-25T01:13:49-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "BORYEONG, South Chungcheong Province — Above the factory floor at GM Korea’s Boryeong plant, valve bodies and gear packs glide along an overhead conveyor toward the main assembly line on a recent visit. A completed six-speed automatic transmission rolls off the line every 32 seconds on average. The plant, which marks its 30th anniversary this year, is running at its annual capacity of 500,000 transmissions.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
         "subjectivity_hint": "low"
       }
     },
@@ -1999,6 +2704,51 @@
       }
     },
     {
+      "id": "dab1e62fc86eb57bb6977f7da567bde9e6b8411d",
+      "url": "https://www.koreaherald.com/article/10949124",
+      "title": "A ferry ride for cheaper weight-loss drugs",
+      "published_at": "2026-11-25T01:01:29-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Koreans are traveling to Japan to buy weight-loss drugs at a fraction of domestic prices, reigniting a debate over whether national health insurance should cover obesity treatment. The growing practice of obtaining prescriptions online from Korea and collecting drugs such as Wegovy and Mounjaro in Japan has raised concerns over medical supervision. But it also highlights a wider problem: Access to obesity treatment in Korea increasingly depends on how much patients can afford to pay.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "63bb460cf24bc5e87525e623ccc1c42fec0bc1e5",
+      "url": "https://www.koreaherald.com/article/10949123",
+      "title": "Why this British private school picked Busan for its first overseas campus",
+      "published_at": "2026-11-25T01:01:26-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "For international professionals with children who are considering a move to Busan, the decision can come down to more than job opportunities and living conditions. Where they can send their child to school also matters. British private school Royal Russell, which plans to open its first overseas campus in Busan in 2028, hopes to broaden the educational options available to international families as the southeastern port city seeks to attract more global businesses and talent.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.877,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a3ecc8b803ebca22eec24a5e7059c361e0dfb37d",
+      "url": "https://www.koreaherald.com/article/10949122",
+      "title": "Traditional finance eyes opportunities, crypto industry warns of regulation",
+      "published_at": "2026-11-25T01:01:20-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The Digital Asset Basic Act proposed by the Financial Services Commission is drawing mixed reactions from concerned industries, with some seeing opportunities while others see excessive regulation and unclear rules. For the industries, the proposed 20 percent cap on major shareholders' stakes in crypto exchanges and a bank-led stablecoin issuance framework have emerged as key points of contention.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "a8e9ed99c9aed1bc00b96bbc846d2c65d363c515",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
@@ -2010,6 +2760,36 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4047804d34c622a3d3fa4b38aa03445474a1439",
+      "url": "https://www.koreaherald.com/article/10949120",
+      "title": "Korea finalizes plan to move 31 state agencies to Sejong by 2031",
+      "published_at": "2026-11-25T01:00:29-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The government has finalized plans to relocate 31 state agencies and more than 5,400 civil service positions to Sejong by 2031, accelerating its push to strengthen the city’s role as South Korea’s administrative capital. The plan, approved by President Lee Jae Myung on Tuesday evening, marks the first phase of a broader relocation initiative involving 44 government agencies announced on Oct. 13. Of the 31 agencies, 22 with a combined staff of 1,600 will move into leased offices in Sejong by the",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "223a51cf1c08e57b2e54e674ab42a5621036c55d",
+      "url": "https://www.koreaherald.com/article/10949116",
+      "title": "GS Retail CEO promoted to president amid record profits",
+      "published_at": "2026-11-25T00:57:01-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Hur Suh-hong, a fourth-generation member of GS Group’s founding family, was promoted to president of GS Retail on Wednesday, raising his profile within the conglomerate as the retailer’s earnings rebound. Hur, previously an executive vice president, was elevated in a groupwide reshuffle nearly two years after taking the helm at GS Retail. He is the eldest son of Samyang International Chairman Hur Kwang-soo and a relative of GS Group Chairman Huh Tae-soo.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.818,
         "subjectivity_hint": "low"
       }
     },
@@ -2175,21 +2955,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.382,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "e9082ddc71c3ba119fe6321ded61ac06c8eff97f",
-      "url": "https://www.cbc.ca/news/canada/balsillie-prize-rick-westhead-hockey-culture-9.7435105?cmp=rss",
-      "title": "Sports journalist Rick Westhead wins Balsillie prize for book about hockey culture in Canada",
-      "published_at": "2026-11-24T23:03:53-05:00",
-      "section": "Top Stories",
-      "source": "CBC News",
-      "country": "Canada",
-      "summary_auto": "Veteran sports journalist Rick Westhead's book that takes a deep dive into hockey culture in Canada has won the $70,000 Balsillie Prize for Public Policy.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.932,
         "subjectivity_hint": "low"
       }
     },
@@ -2374,6 +3139,21 @@
       }
     },
     {
+      "id": "544f6d2c74a904d994ffc35addbd3da099f1c5bd",
+      "url": "https://en.mercopress.com/2026/11/25/cia-and-us-intelligence-office-suffer-intrusion-exposing-unclassified-information?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "CIA and US intelligence office suffer intrusion exposing unclassified information",
+      "published_at": "2026-11-24T20:08:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "The Central Intelligence Agency (CIA) and the US Office of the Director of National Intelligence recently discovered a computer intrusion that exposed unclassified information from an open-source intelligence analysis system, The New York Times reported on Tuesday. Unlike the system outages of recent weeks, attributed to technical failures, this is a security breach.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "0d19f5e7a16c19df7d17157c7a0002eedfb83f5e",
       "url": "https://www.thehindu.com/news/international/daily-quiz-on-portuguese-military-campaigns-and-personalities/article71740887.ece",
       "title": "Daily Quiz: On Portuguese military campaigns and personalities",
@@ -2446,6 +3226,21 @@
         "article_type": "News",
         "sentiment": 0.557,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "63cd30f88f23e6c79b881b8b439f406a811bc9f4",
+      "url": "https://en.mercopress.com/2026/11/25/argentina-enters-technical-recession-after-two-quarters-of-contraction-the-first-since-2024?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
+      "published_at": "2026-11-24T19:55:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Argentina's economy has entered a technical recession, with two consecutive quarters of contraction, for the first time since the first half of 2024. GDP fell 0.6% in the second quarter, and INDEC's monthly activity indicator points to a contraction of about 1.8% between July and September.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.681,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -2610,6 +3405,21 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bdcc31ada9a9c3a8b06875d31bafb666d7926f5d",
+      "url": "https://en.mercopress.com/2026/11/24/the-flag-at-waist-height-the-rules-for-visiting-the-argentine-military-cemetery-in-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "The flag at waist height: the rules for visiting the Argentine Military Cemetery in the Falklands",
+      "published_at": "2026-11-24T17:31:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Tourism authorities in the Falklands have asked operators to remind visitors of the rules of conduct at the Argentine Military Cemetery at Darwin, while a programme to repair its stonework, which has deteriorated over time, is being drawn up. The rules, set out in a bilingual document, allow the Argentine flag to be placed on graves but consider holding it above waist height a political gesture.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.039,
         "subjectivity_hint": "low"
       }
     },
@@ -2884,6 +3694,66 @@
       }
     },
     {
+      "id": "11b3b71ca4b514eb4856fab3163d7141512f5fe7",
+      "url": "https://dailynewsegypt.com/2026/11/24/victoria-panova-egypts-brics-membership-opens-new-investment-opportunities-across-key-sectors/",
+      "title": "Victoria Panova: Egypt’s BRICS membership opens new investment opportunities across key sectors",
+      "published_at": "2026-11-24T13:49:21-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "BRICS’ expanding economic influence is creating new opportunities for Egypt to attract investment, diversify trade and strengthen its position as a regional industrial and logistics hub.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8056ab32f9662b3b97b5c43594317af0eb90c438",
+      "url": "https://dailynewsegypt.com/2026/11/24/greek-archaeological-mission-uncovers-massive-foundations-in-alexandrias-ancient-royal-quarter/",
+      "title": "Greek archaeological mission uncovers massive foundations in Alexandria’s Ancient Royal Quarter",
+      "published_at": "2026-11-24T13:33:37-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "A Greek archaeological mission has uncovered massive stone foundations of a building in the Royal Quarter of ancient Alexandria, raising the possibility that the structure could be linked to a Ptolemaic royal tomb referenced in historical sources.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "39d1ef5e3aaa007be852a14df97612a9aebb53f9",
+      "url": "https://dailynewsegypt.com/2026/11/24/national-economic-transformation-programme-targets-3-million-jobs-through-five-productive-sectors-rostom/",
+      "title": "National Economic Transformation Programme targets 3 million jobs through five productive sectors: Rostom",
+      "published_at": "2026-11-24T13:27:59-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Minister of Planning and Economic Development Ahmed Rostom said the government is implementing the National Economic Transformation Programme, which aims to stimulate five key productive sectors critical to economic growth and employment: manufacturing, agriculture, communications and information technology, tourism, and energy.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "37cb4de206d129a355535295f589710ad5f4c07c",
+      "url": "https://dailynewsegypt.com/2026/11/24/egypt-concludes-inaugural-international-social-protection-forum-with-400-participants/",
+      "title": "Egypt concludes inaugural International Social Protection Forum with 400 participants",
+      "published_at": "2026-11-24T13:23:55-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Egypt concluded its first International Social Protection Forum on Tuesday after a two-day meeting attended by around 400 ministers, officials, experts and representatives of countries with established social protection programmes. Discussions focused on sustainable financing, digital transformation and economic empowerment.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "0bd65f3362af78ed16dfcd3442d02e8cfbeee2b7",
       "url": "https://www.cbc.ca/news/science/bepicolombo-spacecraft-mercury-glitch-9.7434242?cmp=rss",
       "title": "Despite 'glitch,' BepiColombo spacecraft reaches Mercury after 8 years, space agency says",
@@ -2903,13 +3773,28 @@
       "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
       "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
       "published_at": "2026-11-24T13:22:26-05:00",
-      "section": "Canada",
+      "section": "Business",
       "source": "CBC News",
       "country": "Canada",
       "summary_auto": "Bank of Canada governor Tiff Macklem sees high energy prices continuing to sting consumers at the fuel pump and beyond in 2027, even as oil prices fall from recent peaks.",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "47d2a5a14a1971623a8ce2100a021652f72f893a",
+      "url": "https://dailynewsegypt.com/2026/11/24/al-sisi-discusses-post-war-reconstruction-with-sudans-pm-idris/",
+      "title": "Al-Sisi discusses post-war reconstruction with Sudan’s PM Idris",
+      "published_at": "2026-11-24T13:17:50-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Egyptian President Abdel Fattah Al-Sisi discussed efforts to end the war in Sudan, post-war reconstruction and cooperation in infrastructure, energy and transport with Sudanese Prime Minister Kamil Idris on Tuesday. He also ordered a review of the cases of Sudanese prisoners and detainees in Egypt. Al-Sisi separately met Equatorial Guinea’s Vice President Teodoro Nguema Obiang […] \n The post  Al-Sisi discusses post-war reconstruction with Sudan’s PM Idris  first appeared on  Dailynewsegypt .",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.727,
         "subjectivity_hint": "low"
       }
     },
@@ -2929,17 +3814,62 @@
       }
     },
     {
-      "id": "1f9b448a86c6ceea124186251b6df7270dfdde5d",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "published_at": "2026-11-24T13:07:46-05:00",
-      "section": "BBC",
-      "source": "BBC",
-      "country": "United Kingdom",
-      "summary_auto": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "id": "12ccd2345b6782cdbece06b890beb445beedae4a",
+      "url": "https://dailynewsegypt.com/2026/11/24/hidab-properties-enters-egyptian-market-targeting-egp-10bn-in-investments-over-two-years/",
+      "title": "HIDAB Properties enters Egyptian market, targeting EGP 10bn in investments over two years",
+      "published_at": "2026-11-24T12:52:53-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "HIDAB Properties has officially entered the Egyptian real estate market, targeting EGP 10bn in investments over the next two years and EGP 7.5bn in sales from its debut project, FORMS, in New Cairo. The company announced its launch at a press conference attended by members of its board of directors, representatives of the real estate […] \n The post  HIDAB Properties enters Egyptian market, targeting EGP 10bn in investments over two years  first appeared on  Dailynewsegypt .",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": -0.318,
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7584be7f7825ce269609ec64031e08e450a324e6",
+      "url": "https://dailynewsegypt.com/2026/11/24/egypt-steps-up-efforts-to-accelerate-start-up-growth/",
+      "title": "Egypt steps up efforts to accelerate start-up growth",
+      "published_at": "2026-11-24T12:50:37-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Deputy Prime Minister for Economic Affairs and Chairperson of the Ministerial Group for Entrepreneurship Hussein Eissa and Minister of Planning and Economic Development Ahmed Rostom held two extensive meetings to develop a practical roadmap for accelerating the growth of Egypt’s start-up sector.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "fd7590bdd729abd809e07f35261a514eb24fb02e",
+      "url": "https://dailynewsegypt.com/2026/11/24/fra-allows-insurers-to-issue-foreign-language-policies-for-international-operations-specialised-risks/",
+      "title": "FRA allows insurers to issue foreign-language policies for international operations, specialised risks",
+      "published_at": "2026-11-24T12:41:48-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "The Financial Regulatory Authority (FRA) has issued a decision allowing insurance companies to issue policies in foreign languages for international operations and specialised technical risks, in a move aimed at expanding insurance activity, facilitating new types of coverage and broadening the scope of operations. Decision No.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "bc6273b99de3770ab077d56d6616aabe5b756055",
+      "url": "https://dailynewsegypt.com/2026/11/24/egypt-offers-oman-expertise-in-industrial-zone-development-model/",
+      "title": "Egypt offers Oman expertise in industrial zone development model",
+      "published_at": "2026-11-24T12:38:43-05:00",
+      "section": "Daily News Egypt",
+      "source": "Daily News Egypt",
+      "country": "Egypt",
+      "summary_auto": "Nahid Youssef, Chairperson of the Industrial Development Authority (IDA), received a high-level delegation from Oman’s Public Establishment for Industrial Estates (Madayn), headed by its CEO, Dawood bin Salem Al-Hadabi, at the authority’s headquarters to discuss cooperation and the transfer of Egypt’s industrial developer model.",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
         "subjectivity_hint": "low"
       }
     },
@@ -3031,21 +3961,6 @@
         "article_type": "News",
         "sentiment": 0.178,
         "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "1d9e85a585e1566431c6a9dc26cf253c71f0b1a5",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "published_at": "2026-11-24T10:17:28-05:00",
-      "section": "BBC",
-      "source": "BBC",
-      "country": "United Kingdom",
-      "summary_auto": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.925,
-        "subjectivity_hint": "medium"
       }
     }
   ]
