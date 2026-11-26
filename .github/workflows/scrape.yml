@@ -2,7 +2,9 @@ name: Update World Reader
 
 on:
   schedule:
-    - cron: '17 13,19,1 * * *'  # 08/14/20 EST; 09/15/21 EDT
+    - cron: '17 13 * * *'  # morning: 08:17 EST / 09:17 EDT
+    - cron: '17 19 * * *'  # afternoon: 14:17 EST / 15:17 EDT
+    - cron: '17 1 * * *'   # evening: 20:17 EST / 21:17 EDT
   workflow_dispatch: {}
   push:
     paths:
@@ -19,6 +21,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository (full history)
         uses: actions/checkout@v4
