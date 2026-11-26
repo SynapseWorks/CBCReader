@@ -138,11 +138,11 @@ def scrape_section(
         logger.warning("Feed parse warning for %s: %s", name, getattr(feed, "bozo_exception", "unknown"))
     logger.info("Feed %s: %d entries, %d bytes", name, len(feed.entries), len(raw))
 
-    if not feed.entries and getattr(feed, 'bozo', False):
+    if not feed.entries and (getattr(feed, 'bozo', False) or not getattr(feed, "version", "")):
         raise ValueError('Feed returned no parseable entries')
     items = []
     tz_name = config.get("timezone", "UTC")
-    window_start = now - timedelta(hours=config.get("window_hours", 24))
+    window_start = now - timedelta(hours=section_cfg.get("window_hours", config.get("window_hours", 24)))
 
     skipped_missing_date = 0
     skipped_stale = 0
@@ -192,6 +192,7 @@ def scrape_section(
                 "summary_auto": summary_auto,
                 "byline": str(entry.get("author") or "")[:250],
                 "feed_key": name,
+                "language": section_cfg.get("language", "en"),
                 "first_seen_at": now.isoformat(),
                 "bias_heuristic": bias.to_dict(),
             }
