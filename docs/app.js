@@ -49,6 +49,21 @@
   const cross=document.createElement('input');cross.type='checkbox';cross.checked=true;const crossLabel=document.createElement('label');crossLabel.append(cross,' Include related coverage beyond selected sources');controls.append(crossLabel);cross.addEventListener('change',renderList);
   const relatedPanel=document.createElement('section');relatedPanel.className='related-panel';modalLink.parentElement.after(relatedPanel);
   function originalLink(item,label){const a=document.createElement('a');a.textContent=label;try{const url=new URL(item.url);if(!['http:','https:'].includes(url.protocol))throw Error();a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';}catch{a.textContent='Original link unavailable';}return a;}
+  function lanternLink(item){
+    try{
+      const source=new URL(item.url);
+      if(!['http:','https:'].includes(source.protocol)||source.username||source.password||source.href.length>4000||!item.title?.trim())return null;
+      const href=new URL('https://osaether.netlify.app/lantern-desk.html');
+      href.hash=new URLSearchParams({lead:source.href,title:item.title.slice(0,4000)}).toString();
+      const link=document.createElement('a');
+      link.href=href.href;
+      link.target='_blank';
+      link.rel='noopener noreferrer';
+      link.textContent='Open as Lantern lead ↗';
+      link.addEventListener('click',event=>event.stopPropagation());
+      return link;
+    }catch{return null;}
+  }
   function addText(parent,tag,text){const e=document.createElement(tag);e.textContent=text;parent.append(e);return e;}
   function originHint(item){const text=(item.byline||'')+' '+(item.summary_auto||'').slice(0,160);const known=[[/\bReuters\b/i,'Reuters'],[/\bAssociated Press\b|\(AP\)/i,'Associated Press'],[/\bAgence France.Presse\b|\bAFP\b/i,'AFP'],[/\bCanadian Press\b/i,'The Canadian Press'],[/\bXinhua\b/i,'Xinhua']];return known.filter(([re])=>re.test(text)).map(([,name])=>name);}
   function comparisonDetails(item){
@@ -172,7 +187,7 @@
       card.appendChild(titleEl);
       card.appendChild(metaEl);
       card.appendChild(chips);
-      const actions=document.createElement('div');actions.className='article-actions';const compare=document.createElement('button');compare.type='button';compare.textContent='Compare coverage ('+(links.get(item.id)||[]).length+')';compare.addEventListener('click',e=>{e.stopPropagation();openModal(item);});const original=originalLink(item,'Read original ↗');original.addEventListener('click',e=>e.stopPropagation());actions.append(compare,original);card.append(actions);
+      const actions=document.createElement('div');actions.className='article-actions';const compare=document.createElement('button');compare.type='button';compare.textContent='Compare coverage ('+(links.get(item.id)||[]).length+')';compare.addEventListener('click',e=>{e.stopPropagation();openModal(item);});const original=originalLink(item,'Read original ↗');original.addEventListener('click',e=>e.stopPropagation());actions.append(compare,original);const lead=lanternLink(item);if(lead)actions.append(lead);card.append(actions);
       card.addEventListener('click', () => openModal(item));
       newsList.appendChild(card);
     });
