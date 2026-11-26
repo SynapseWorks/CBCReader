@@ -91,12 +91,12 @@ sections:
     country: France
     url: https://www.france24.com/en/rss
     max_items: 30
-  chinadaily:
-    name: China Daily
-    source: China Daily
+  cgtn:
+    name: CGTN
+    source: CGTN
     country: China
-    url: https://www.chinadaily.com.cn/rss/china_rss.xml
-    max_items: 30
+    url: https://www.cgtn.com/subscribe/rss/section/china.xml
+    max_items: 20
 
   mercopress:
     name: MercoPress
@@ -106,6 +106,7 @@ sections:
     max_items: 25
   japantimes:
     name: The Japan Times
+    window_hours: 168
     source: The Japan Times
     country: Japan
     url: https://www.japantimes.co.jp/feed/topstories/
@@ -131,9 +132,10 @@ sections:
 
   agenciabrasil:
     name: Agência Brasil
+    language: pt
     source: Agência Brasil
     country: Brazil
-    url: https://agenciabrasil.ebc.com.br/en/rss.xml
+    url: https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml
     max_items: 20
   mexiconewsdaily:
     name: Mexico News Daily
@@ -147,23 +149,23 @@ sections:
     country: Indonesia
     url: https://en.antaranews.com/rss/news.xml
     max_items: 20
-  vietnamnews:
-    name: Viet Nam News
-    source: Viet Nam News
+  vnexpress:
+    name: VnExpress International
+    source: VnExpress International
     country: Vietnam
-    url: https://vietnamnews.vn/rss/home.rss
+    url: https://e.vnexpress.net/rss/news.rss
     max_items: 20
-  nation:
-    name: Nation Africa
-    source: Nation Africa
+  capitalfm:
+    name: Capital FM
+    source: Capital FM
     country: Kenya
-    url: https://nation.africa/kenya/rss
+    url: https://capitalfm.africa/news/feed/
     max_items: 20
-  dailymaverick:
-    name: Daily Maverick
-    source: Daily Maverick
+  news24:
+    name: News24
+    source: News24
     country: South Africa
-    url: https://www.dailymaverick.co.za/feed/
+    url: https://feeds.news24.com/articles/news24/TopStories/rss
     max_items: 20
   rnzp:
     name: RNZ Pacific
