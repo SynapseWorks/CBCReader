@@ -1,12 +1,2482 @@
 {
   "source": "World Reader",
-  "generated_at": "2026-11-27T20:57:02.175716-05:00",
+  "generated_at": "2026-11-28T03:56:11.514188-05:00",
   "timezone": "America/Toronto",
   "items": [
     {
+      "id": "79d3696ca29c9ce567b51a508fcb9db7f814fdb2",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3376125/teary-eyed-fiancee-brother-firefighter-ho-wai-ho-receive-posthumous-medal",
+      "title": "Teary-eyed fiancée, brother of firefighter Ho Wai-ho receive posthumous medal",
+      "published_at": "2026-11-28T03:54:33-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Tears welled up in the eyes of the late firefighter Ho Wai-ho’s fiancée as she appeared with his brother on Saturday to accept a gold medal for bravery from Hong Kong’s leader, days after the first anniversary of the city’s deadliest blaze in decades. Ho, who died aged 37, was posthumously awarded the Medal for Bravery (Gold) for his “act of the most conspicuous courage, selflessness and bravery” during last November’s Tai Po fire, which claimed 168 lives and displaced about 5,000 residents.",
+      "byline": "Cannix Yau",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.924,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cc3f3f46e7989aa8c98b5024686787d786d5a6c7",
+      "url": "https://en.antaranews.com/news/446027/ministry-urges-industrial-zones-to-go-green-for-competitiveness",
+      "title": "Ministry urges industrial zones to go green for competitiveness",
+      "published_at": "2026-11-28T03:52:26-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Indonesia's Ministry of Industry has urged industrial zone managers in Indonesia to transform into green industrial ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4664e73ba0675a012885c7ad64380e1d4731a39b",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376123/canada-prosecutors-seek-25-year-prison-term-suicide-poison-seller",
+      "title": "Canada prosecutors seek 25-year prison term for suicide poison seller",
+      "published_at": "2026-11-28T03:49:20-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Canadian prosecutors on Friday requested a 25-year prison sentence for a man who sold poison to help people take their own lives, stressing his victims were largely young and experiencing mental distress. Former chef Kenneth Law pleaded guilty earlier this year to aiding 14 suicides in Canada, but he has admitted to selling hundreds of so-called suicide kits globally through a series of online forums.",
+      "byline": "Agence France-Presse",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.962,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0f3f11932fd203518d76b2c3a5f55d6e1b6e3624",
+      "url": "https://en.antaranews.com/news/446023/investment-success-measured-by-jobs-not-permits-deputy-minister",
+      "title": "Investment success measured by jobs, not permits: Deputy Minister",
+      "published_at": "2026-11-28T03:45:28-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Deputy Home Affairs Minister Akhmad Wiyagus stressed that regional investment success is judged not by the number of ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.698,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "defb59e77fdb2b159bb33463cc88a106d4923249",
+      "url": "https://www.abc.net.au/news/2026-11-28/jess-wilson-victorian-liberals-form-government-state-election/107438320",
+      "title": "Breaking: Jess Wilson to become Victoria's premier as Coalition wins election",
+      "published_at": "2026-11-28T03:44:23-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Victoria has a new state government after the Coalition defeated Labor.",
+      "byline": "Mikaela Ortolan",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c8bd0dfb4794d6720e636a55f886f94852e1065e",
+      "url": "https://www.abc.net.au/news/2026-11-28/jess-wilson-young-liberals-victoria-leader-millennial/107422040",
+      "title": "Who is Jess Wilson? The efficient rise of Victoria's millennial leader",
+      "published_at": "2026-11-28T03:44:23-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The daughter of a Liberal politician went from president of the Victorian Young Liberals to state premier in just 10 years.",
+      "byline": "Kate Ashton",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "dcabf8e0def373cf292f7983063a7b965c8efae6",
+      "url": "https://en.antaranews.com/news/446019/minister-condemns-violence-that-killed-malang-schoolgirl",
+      "title": "Minister condemns violence that killed Malang schoolgirl",
+      "published_at": "2026-11-28T03:40:52-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Women's Empowerment and Child Protection Minister Arifah Fauzi strongly condemned violence that caused the death of ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.971,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b4938067947147dbee03a7432e7f0324588cd5c1",
+      "url": "https://en.antaranews.com/news/446015/jambi-accelerates-the-revitalization-of-lake-kerinci",
+      "title": "Jambi accelerates the revitalization of Lake Kerinci",
+      "published_at": "2026-11-28T03:33:28-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Jambi Provincial Government is to accelerate the revitalization of Lake Kerinci so that the potential of the lake can ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d998eeda6d00996ff9a4cdbd3a669de1df0233d5",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3375799/post-property-boom-china-still-has-plenty-build-and-upgrade",
+      "title": "Post-property boom, China still has plenty to build and upgrade",
+      "published_at": "2026-11-28T03:30:08-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "It was no happy accident that last week’s Asia-Pacific Economic Cooperation (Apec) summit took place in Shenzhen. The futuristic southern metropolis is home to the nation’s technology champions and provides the ideal backdrop for China’s economic transformation and vision. Shenzhen also illustrates the change in the foundational drivers of China’s economy. It has been five years since one of China’s largest private property developers defaulted on its debt, marking the beginning of a housing...",
+      "byline": "David Chao",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "Opinion",
+        "sentiment": 0.706,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8a2148340b6b6cb29e01807ea7f4aff032408946",
+      "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+      "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
+      "published_at": "2026-11-28T03:24:03-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "In litter-strewn Khartoum, disease and rubble threaten health.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.527,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2474bfe2ddeee88f475ebd16e46dee7453e7c895",
+      "url": "https://en.antaranews.com/news/446011/ministry-revitalizes-school-to-ensure-safety-of-disabled-students",
+      "title": "Ministry revitalizes school to ensure safety of disabled students",
+      "published_at": "2026-11-28T03:21:04-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The Ministry of Primary and Secondary Education is upgrading Idaman Hati Special School in Tangerang, Banten, under the ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.796,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0703d16df0746201910f4107239f8e96925e6e86",
+      "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+      "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+      "published_at": "2026-11-28T03:05:18-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Albanese leaves the Costa Rican airport where she has been held after the court orders her to be released from the premises.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.153,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2803a08811843bb73a77816e699d085272f39fcd",
+      "url": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+      "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+      "published_at": "2026-11-28T03:03:42-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "There was no immediate information on what caused the explosion",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6024d1d259fa5769440f7eb6967bbbc9850e84a1",
+      "url": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece",
+      "title": "Cheers, tears as Maria Machado seeks ideas for Venezuela reform",
+      "published_at": "2026-11-28T02:46:53-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "Her initiative aims to gather proposals from across the nation and Venezuela's diaspora for democratic reform, 11 months after Washington ousted president Nicolas Maduro",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "997dba68971bd1f35fe958f49a4ee45857cf1f0d",
+      "url": "https://en.antaranews.com/news/446007/govt-accelerates-the-housing-program-in-aceh",
+      "title": "Gov't accelerates the housing program in Aceh",
+      "published_at": "2026-11-28T02:45:31-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The government continues to accelerate the handling of community housing needs in Aceh through various housing ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "483f565baaaadde4597de9c7aae442acd059c3e3",
+      "url": "https://capitalfm.africa/kisumu-acting-speaker-moses-ochele-sworn-in-pledges-impartial-leadership/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "Kisumu Acting Speaker Moses Ochele Sworn In, Pledges Impartial Leadership",
+      "published_at": "2026-11-28T02:44:06-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "The swearing-in clears the way for Ochele to assume leadership of the county legislature, where he has pledged to uphold the Constitution and safeguard the independence of the Assembly.",
+      "byline": "OJWANG JOE",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0a392ffc32fd24326032f0c2276b4d1cfb5d82c7",
+      "url": "https://capitalfm.africa/sha-verifies-nhif-pending-bills-for-448-hospitals-sets-december-4-appeals-deadline/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "SHA verifies NHIF pending bills for 448 hospitals, sets December 4 appeals deadline",
+      "published_at": "2026-11-28T02:43:34-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 28 – The Social Health Authority (SHA) has completed verification of outstanding claims inherited from the defunct National Hospital Insurance Fund (NHIF) for 448 healthcare facilities, paving…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.649,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "086d0c6a6d6de56ae03070ea5dff9e816e91d45b",
+      "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+      "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+      "published_at": "2026-11-28T02:42:09-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.836,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "53a6ce8ee96756b7ff9b8601ddda7ddb658cfc70",
+      "url": "https://en.antaranews.com/news/446003/ministry-boosts-irrigation-infrastructure-synergy-for-food-security",
+      "title": "Ministry boosts irrigation infrastructure synergy for food security",
+      "published_at": "2026-11-28T02:40:58-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "The Ministry of Public Works (PU) continues to strengthen support for water resources and irrigation infrastructure to ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.827,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "f8e3dca7b99d690b075db1a41d7ec6a9d80bcc55",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3376121/about-200-evacuated-scaffolding-catches-fire-hong-kong-industrial-building",
+      "title": "About 200 evacuated as scaffolding catches fire at Hong Kong industrial building",
+      "published_at": "2026-11-28T02:36:59-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "About 200 people have been evacuated after a fire broke out at an industrial building in Hong Kong’s Tuen Mun when exterior scaffolding caught alight. Police said they were alerted to the blaze at No 2 Kin Fat Lane at about 2pm on Saturday. No injuries had been reported as of 2.50pm and an investigation was under way. The fire prompted the evacuation of about 200 people from the building, according to police.",
+      "byline": "Fiona Sun",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.908,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "4a30fa5713e1b9627f783f0722149156bfc8148f",
+      "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
+      "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
+      "published_at": "2026-11-28T02:35:52-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "A Saudi-led coalition backing Yemen's internationally recognised government has been regularly bombing areas controlled by the Iran-backed group since Yemen's civil war reignited over the summer",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eafbe91a9e8a14e28ec61f5757d56e6187b48922",
+      "url": "https://en.antaranews.com/news/445999/analyst-praises-danantaras-role-to-supporting-state-tax-revenues",
+      "title": "Analyst praises Danantara's role to supporting state tax revenues",
+      "published_at": "2026-11-28T02:35:30-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "State-owned enterprise (SOE) observer Herry Gunawan has praised the Danantara ecosystem for contributing Rp567.2 ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.859,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "21263e86dac5beecddfe464415e07fe037468153",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "published_at": "2026-11-28T02:31:14-05:00",
+      "section": "BBC",
+      "source": "BBC",
+      "country": "United Kingdom",
+      "summary_auto": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "byline": "",
+      "feed_key": "bbc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "843af8530bf9d8e93cf7665d4625cf1459465c8c",
+      "url": "https://www.abc.net.au/news/2026-11-28/victoria-election-results-by-electorate/107436184",
+      "title": "What's the result in your electorate? Take a look at the map of your seat",
+      "published_at": "2026-11-28T02:28:39-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Explore the results across Melbourne and regional Victoria with these maps.",
+      "byline": "Casey Briggs",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a4e726b5bb59739efcd8289f61c2deefbe32f752",
+      "url": "https://www.abc.net.au/news/2026-11-28/matildas-live-updates-australia-vs-colombia-in-canberra/107435020",
+      "title": "Live: Catley named skipper in milestone game as Matildas face Colombia",
+      "published_at": "2026-11-28T02:25:57-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The Matildas are in action in the first of two international friendlies against Colombia at Canberra Stadium. Follow live.",
+      "byline": "Marnie Vinall",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b45a9ef6e2149034521bdb64cdfa96ca3f51da3e",
+      "url": "https://capitalfm.africa/court-order-halts-72-million-litres-of-daily-bulk-water-supply-to-kiambu/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "Court order halts 72 million litres of daily bulk water supply to Kiambu",
+      "published_at": "2026-11-28T02:23:36-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 27 – Athi Water Works Development Agency (AWWDA) has shut down bulk water supply to six water service providers in Kiambu County following a High Court order…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1309e69db04dcb3675ff6511d279a1791429d07",
+      "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+      "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+      "published_at": "2026-11-28T02:22:17-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.016,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ea873130cc2ed411b609226d81d84c0823e055ce",
+      "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+      "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+      "published_at": "2026-11-28T02:21:22-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "32574b912540e607e564a84076dc2fb2a75e150b",
+      "url": "https://www.thehindu.com/news/international/zelenskyy-urges-us-to-pressure-russia-and-questions-trump-referring-putin-as-friend/article71753434.ece",
+      "title": "Zelenskyy urges U.S. to pressure Russia and questions Trump referring Putin as ‘friend’",
+      "published_at": "2026-11-28T02:20:26-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "In an interview to BBC broadcast, the Ukrainian President wants the U.S. to apply more pressure on Russia to stop invation of Ukraine",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-27T20:57:02.175716-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.709,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c5ccb0181f1fbb85cc6e1629122bf676de86e8f",
+      "url": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+      "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+      "published_at": "2026-11-28T02:12:00-05:00",
+      "section": "France 24",
+      "source": "France 24",
+      "country": "France",
+      "summary_auto": "Russia shot down over 1,200 drones targeting Moscow overnight, Russian authorities said Saturday. Both Russia and Ukraine have stepped up their attacks using projectiles in recent months, with Ukraine confirming on Friday it had downed a Russian jet-powered drone with laser technology for the first time. Follow our liveblog for the latest updates.",
+      "byline": "FRANCE 24",
+      "feed_key": "france24",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.772,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "fb439b2104f29c559d9fa95a32979fa707fda914",
+      "url": "https://www.koreaherald.com/article/10952493",
+      "title": "Global legal community raises alarm over push to impeach Korea's chief justice",
+      "published_at": "2026-11-28T02:09:16-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "The International Bar Association, a global organization of legal practitioners, issued a statement Friday expressing concern over a push by the ruling party to impeach Supreme Court Chief Justice Cho Hee-dae. \"The IBA expresses support for the Korean Bar Association's statement of concern over the proposed impeachment of Chief Justice Cho Hee-dae,\" the organization said in the statement.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.957,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "942be03b5cfd406c694a15aa237de7cdad24af3a",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376114/abby-chois-ex-husband-deflects-blame-he-defends-claim-his-father-killed-her",
+      "title": "Abby Choi’s ex-husband deflects blame as he insists his father killed her",
+      "published_at": "2026-11-28T02:00:13-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Slain Hong Kong socialite Abby Choi Tin-fung’s ex-husband has blamed several people in court while defending an account of the killing that the prosecution and two family members also on trial have dismissed as fictitious. Alex Kwong Kong-chi concluded his testimony in the ninth week of the murder trial by blaming police, defence lawyers, Choi’s mother and the model herself, while trying to resolve alleged contradictions in his account that his father fatally struck Choi during a violent...",
+      "byline": "Brian Wong",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.988,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0225f56bb84efa85b67056eef1e1a56197b952cd",
+      "url": "https://www.koreaherald.com/article/10950724",
+      "title": "Apgujeong Rodeo, reinvented for a new generation",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Apgujeong Rodeo Street has been called Korea's \"No. 1 address for trends\" since the early 1990s. It was named after Rodeo Drive in Beverly Hills, and for years it was known as the street where children of wealthy families drove imported cars and wore luxury labels. Today it is better described as a showcase for youth culture, with restaurants and hangouts. The neighborhood's center has also shifted. Before the COVID-19 pandemic, the buzz belonged to Garosu-gil in Sinsa-dong, closer to Apgujeong",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "99763ce0176cc32a67dfb625d099162b58d41577",
+      "url": "https://www.koreaherald.com/article/10950714",
+      "title": "From royal bronzeware to doorbells: Korea’s best souvenirs revealed",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "A hand-forged bronze tableware set modeled on a 19th-century tightrope walker's fan took the top prize at this year's Korea Tourist Souvenir Contest, which honored 25 products that turn Korean heritage into everyday objects. The winners were announced on Nov. 20 at the opening of the 2026 Souvenir Fair at Dongdaemun Design Plaza in Seoul.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.963,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cd6fc13cad25f36e2ec4f740d60dd82f1328a82e",
+      "url": "https://www.koreaherald.com/article/10950316",
+      "title": "A closer look at gim, a Korean pantry staple",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Thin, dark and crisp, gim is a popular and simple addition to many Korean tables, but has more to offer than meets the eye. Though the dried seaweed is commonly recognized for its near-black appearance, it in fact contains several natural pigments, including chlorophyll, carotenoids and phycobiliproteins. Together, these create a wide range of green, yellow, and red hues based on how the gim is manufactured and served. Gim adds a savory flavor and crisp texture, too. An enduring pairing is with",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "39e2dc114c109b75c3861eee87345115e014da21",
+      "url": "https://www.koreaherald.com/article/10950179",
+      "title": "A taste of Sapporo on a bitterly cold Seoul night",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Seongsu's Sapporo Premium Beer Stand, one of only two such locations worldwide, brings Tokyo's signature beer-pouring techniques to Seoul. Trained beer masters serve two distinct styles, Perfect Pour and Classic Pour, offering visitors a closer look at the Japanese brewer's approach to a perfectly poured glass.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.71,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7826bf9d6a2f61344dc72cd37bba0ca9246f19d7",
+      "url": "https://www.koreaherald.com/article/10949832",
+      "title": "In Korea's Hyrox boom, the finish line means more when shared",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "With the last of their 100 wall ball throws behind them, Hwang Hyun-jung and her exhausted 68-year-old father ran hand in hand toward the finish line. Looking at him, she saw the little girl she once was. Memories of her father holding the back of her bicycle and taking her hand as she ran came flooding back. This time, she was the one guiding him. \"I said, ‘Dad, you did great! That was fun, right? Aren't you glad we did it?’",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.946,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a54e801861a27ed27e7770b6ab0a3f3496119555",
+      "url": "https://capitalfm.africa/millions-of-pupils-attend-school-without-meals-knbs-report-shows/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "Millions of pupils attend school without meals, KNBS report shows",
+      "published_at": "2026-11-28T02:00:00-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya Nov – Millions of Kenyan children attending day schools may be missing out on meals during the school day, with a new government report showing that more than…",
+      "byline": "DAVIS AYEGA",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.296,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "51639c04dd7de28ed8e3095be989d948840c8127",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "title": "Trump’s tariffs have become America’s new normal",
+      "published_at": "2026-11-28T01:57:19-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "8956cb21ae021a523c51b4b6a8e3007c96b9dd7c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3376120/no-tenders-yet-hong-kongs-first-university-town-education-chief-says",
+      "title": "No tenders yet for Hong Kong’s first university town, education chief says",
+      "published_at": "2026-11-28T01:57:07-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Hong Kong universities have yet to apply for sites in the city’s first university town in the Northern Metropolis, but the education chief remains confident the area will attract institutions. Secretary for Education Christine Choi Yuk-lin said on Saturday that local institutions had expressed interest in expanding into the Hung Shui Kiu University Town, although the tight timeline for preparing tenders had posed challenges. “Now these universities are drawing up plans and budgets for their...",
+      "byline": "Leopold Chen",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.928,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d6fd8501def27262da93c03a56672d53b9a7536a",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/killed-sister-family-driving-drunk-speaking-together-forgiveness-9.7440189?cmp=rss",
+      "title": "She killed his sister and her family while driving drunk. Now they're speaking together about forgiveness",
+      "published_at": "2026-11-28T01:52:57-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "In 2016 Catherine McKay killed a family of four in a car collision outside of Saskatoon. A court later heard her blood alcohol was three times the legal limit.",
+      "byline": "Maeve Ellis",
+      "feed_key": "canada",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.906,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "002b0bc97aa64a9de0872b66fa19a46ee1aab2c9",
+      "url": "https://capitalfm.africa/police-commanders-sign-contracts-in-push-for-greater-accountability/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "Police commanders sign contracts in push for greater accountability",
+      "published_at": "2026-11-28T01:52:44-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 28 – Deputy Inspector General of the Kenya Police Service Eliud Lagat has stepped up pressure on senior police commanders to deliver on set targets, with directors,…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "af8cf94c8a2d6c722d6b55950a2e3a80c849b105",
+      "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
+      "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
+      "published_at": "2026-11-28T01:45:00-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "decb71095a2a92ec3860ce2bdd6e80580335a3f4",
+      "url": "https://www.abc.net.au/news/2026-11-28/bendigo-writers-festival-apology-randa-abdel-fattah/107438282",
+      "title": "Bendigo Writers Festival offers 'unreserved' apology to author Abdel-Fattah",
+      "published_at": "2026-11-28T01:43:59-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Festival organiser Greater Bendigo City Council says it sincerely regrets infringing Palestinian Australian academic Dr Randa Abdel-Fattah's intellectual and artistic freedom.",
+      "byline": "Anna McGuinness",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.953,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ee693d11e513ce0024fa27ea12ec3c3a2a7e86d9",
+      "url": "https://en.antaranews.com/news/445995/indonesia-sees-longer-stays-higher-spending-by-foreign-tourists",
+      "title": "Indonesia sees longer stays, higher spending by foreign tourists",
+      "published_at": "2026-11-28T01:41:26-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Tourism Minister Widiyanti Putri Wardhana stated that both the length of stay of foreign tourists and their average ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "e7592a3e8a59486690e7f3d7ce2209467698347c",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3376119/india-finds-unsafe-bisleri-sample-due-bacteria-amid-bottled-water-crackdown",
+      "title": "India finds unsafe Bisleri sample due to bacteria amid bottled water crackdown",
+      "published_at": "2026-11-28T01:30:21-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Indian authorities have found a sample of Bisleri-branded water to be unsafe due to coliform bacteria, a regulatory document shows, the second such finding to come to light in recent days on the nation’s biggest ‌and most popular packaged-water brand. Bisleri’s 20-US cent bottles have made the company a household name in India, where poor water quality has turned bottled water into a necessity for homes and restaurants.",
+      "byline": "Reuters",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.002,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "316bd06ce9559b639009ec571228af55eb932bc1",
+      "url": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+      "title": "Taiwan holds local elections under Beijing's watchful gaze",
+      "published_at": "2026-11-28T01:25:33-05:00",
+      "section": "France 24",
+      "source": "France 24",
+      "country": "France",
+      "summary_auto": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the island-nation’s electoral system. Chinese authorities reject the allegations.",
+      "byline": "FRANCE 24",
+      "feed_key": "france24",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d9d9ce02969bf88606aa10f9cd49f9184565fe78",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+      "title": "Elon Musk can afford a little MAGA amnesia",
+      "published_at": "2026-11-28T01:25:24-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.511,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2dc74bfae7b11ab5ac174f6b5731a2d267c8c462",
+      "url": "https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266",
+      "title": "Israeli air strike on Doctors Without Borders Gaza office kills two",
+      "published_at": "2026-11-28T01:20:19-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The World Health Organization condemns attacks on health facilities after an Israeli air strike on an MSF building in Gaza killed two people.",
+      "byline": "Rudi Maxwell",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.945,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1aafc35f8698a982e39636f8f8982cff9d936479",
+      "url": "https://dailytrust.com/china-diaries-where-students-build-the-future/",
+      "title": "CHINA DIARIES: Where Students Build the Future",
+      "published_at": "2026-11-28T01:18:09-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "I must confess, I was not quite prepared for what I saw during my visit to the Qinling Workshop at Xi’an Aeronautical Vocational and Technical College in China. For someone fascinated by technology and innovation, walking into the institution’s aircraft hangar was an experience in itself. There were aircraft and helicopters, aviation equipment and specialised […]",
+      "byline": "Ibrahim Shehu",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.588,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "e28ed0ee5f296b72924991a0e5c28d35862d0000",
+      "url": "https://dailytrust.com/alonso-getting-it-all-wrong-at-chelsea/",
+      "title": "Alonso getting it all wrong at Chelsea",
+      "published_at": "2026-11-28T01:17:21-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "There are undoubtedly many problems at Chelsea and last weekend’s humiliating 4-1 home defeat by Leeds United magnified just about all of them. It was the first time Leeds had won a match at Stamford Bridge since 1999. Chelsea have some exceptionally talented footballers but they are performing as individuals and not as a team. […]",
+      "byline": "David Billington",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.012,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "c1c6c097b16812ba9f1bca8f79edf559c2203eb0",
+      "url": "https://capitalfm.africa/dci-kdf-test-50-officers-to-strengthen-reliability-of-forensic-evidence/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "DCI, KDF test 50 officers to strengthen reliability of forensic evidence",
+      "published_at": "2026-11-28T01:16:22-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 28 – The Directorate of Criminal Investigations (DCI) has subjected 50 fingerprint officers from the agency and the Kenya Defence Forces (KDF) to specialised examinations aimed at…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3082d688225cdc7519cbfa217386af53a6686df1",
+      "url": "https://www.abc.net.au/news/2026-11-28/snails-south-australia-harvest-eyre-yorke-peninsula/107420962",
+      "title": "Snails cause harvest headache for South Australian farmers",
+      "published_at": "2026-11-28T01:08:05-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "An increase in snail numbers is causing issues for some farmers in the middle of what is expected to be a record-breaking harvest.",
+      "byline": "Isabella Kelly",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "38468b355c85c2def9df3a62b46e382d73484bb3",
+      "url": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+      "title": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+      "published_at": "2026-11-28T01:04:56-05:00",
+      "section": "France 24",
+      "source": "France 24",
+      "country": "France",
+      "summary_auto": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system had been accessed, but insists its networks remain secure amid an ongoing spate of cyber-related data incidents.",
+      "byline": "FRANCE 24",
+      "feed_key": "france24",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.444,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "87ff133c75d669fa2f44405e3e0163a73a025083",
+      "url": "https://www.scmp.com/news/china/article/3376116/chinese-engineers-defy-hormuz-blockade-install-abu-dhabi-drilling-rigs",
+      "title": "Chinese engineers defy Hormuz blockade to install Abu Dhabi drilling rigs",
+      "published_at": "2026-11-28T01:00:13-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "As fighter jets screamed just above, a group of Chinese engineers defied wartime blockades in the Strait of Hormuz to deliver and install drilling rigs on an Abu Dhabi island. A team from Honghua Group, a unit of state-owned Dongfang Electric Group, transited the strait into the Persian Gulf to deliver two AI-enabled drill rigs to Abu Dhabi earlier this year, and has since raised the derrick of a third, according to a report by China Electric Power News on Thursday.",
+      "byline": "Eve Qiao",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a04dabe8adb4d97a8f7c01fb0adc2e6c4ee5fe20",
+      "url": "https://www.abc.net.au/news/2026-11-28/emma-kearney-kate-shierlaw-annouce-retirement-afl/107438332",
+      "title": "North Melbourne AFLW duo announce retirement after historic three-peat",
+      "published_at": "2026-11-28T00:43:58-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Inaugural AFLW Kangaroos captain and eight-time All Australian Emma Kearney has announced her retirement following North Melbourne's third straight premiership victory alongside teammate and partner Kate Shierlaw.",
+      "byline": "Marnie Vinall and Erin Marsicovetere",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9bf097d0f7114b04355adf7333b87fdac071c071",
+      "url": "https://dailytrust.com/2027-alliance-atiku-or-obi/",
+      "title": "2027 alliance: Atiku or Obi?",
+      "published_at": "2026-11-28T00:41:25-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Presidential candidates of the African Democratic Congress (ADC), Alhaji Atiku Abubakar, Nigeria Democratic Congress (NDC), Peter Obi, Allied Peoples Movement (APM), Seyi Makinde, Peoples Redemption Party (PRP), Donald Dukea and the Social Democratic Party (SDP), Adewole Adebayo, would be meeting in Abuja on Monday. The agenda, as widely known, is to forge collaboration among the […]",
+      "byline": "Our Reporters",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.66,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "83eb272ae1a52a2ec5d757140740d4d3770d139c",
+      "url": "https://dailytrust.com/gridlocks-shutdowns-costs-of-presidential-movements/",
+      "title": "Gridlocks, shutdowns: Costs of ‘presidential movements’",
+      "published_at": "2026-11-28T00:40:06-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "The closure of major roads during ‘movements’ of Nigeria’s presidents across the country’s cities under successive administrations is raising concerns. Some citizens have expressed concerns over the infringement of their fundamental rights, economic losses and the hardship imposed on commuters, workers, businesses and people seeking emergency medical attention. While lawyers have warned that arbitrary and […]",
+      "byline": "Our Reporters",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "41028e207464cec71dcfe78d76e76bc9972c57cd",
+      "url": "https://dailytrust.com/dry-season-farmers-face-rising-cost-of-cultivation-insecurity/",
+      "title": "Dry season: Farmers face rising cost of cultivation, insecurity",
+      "published_at": "2026-11-28T00:39:18-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "As wet season comes to an end, dry season farming activities have begun in most production areas across the North. Across Taraba, Kano, Kaduna, Plateau, Katsina and other places, irrigation farmers are weighing rising cost against falling prices, insecurity against survival and many are deciding to farm less or not at all. For millions of […]",
+      "byline": "Our Reporters",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.735,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "560377f328f04582cc070b099e5feafd08fce5e3",
+      "url": "https://dailytrust.com/how-to-make-state-police-work-ex-dig-ciroma/",
+      "title": "How to make state police work – Ex-DIG Ciroma",
+      "published_at": "2026-11-28T00:38:58-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "With more than three decades of experience in policing and law enforcement, Deputy Inspector-General of Police Bala Ciroma (retd), is well placed to assess the implications of Nigeria’s proposed state police system. Enlisted into the Nigeria Police Force in March 1990, Ciroma rose through the ranks, serving as Commissioner of Police in the Federal Capital […]",
+      "byline": "Clement A. Oloyede",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5d709696232bd45d0d2db4186d9c5a00c40cecde",
+      "url": "https://dailytrust.com/2027-jega-gambari-others-call-for-transparency-level-playing-field/",
+      "title": "2027: Jega, Gambari, others call for transparency, level-playing field",
+      "published_at": "2026-11-28T00:37:59-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "With 49 days to the 2027 general elections, a former chairman of the Independent National Electoral Commission (INEC), Prof Attahiru Jega, former under secretary-general of the United Nations, Prof Ibrahim Gambari and eight other concerned Nigerians have called for transparency and a level-playing field in the management of the electoral process. The group, under the […]",
+      "byline": "Itodo Daniel Sule",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.421,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a69cab0b7cb4d277ff943f173ba7d686f88cbbfa",
+      "url": "https://www.koreaherald.com/article/10952461",
+      "title": "DL Group chairman draws criticism over late-night summons of hundreds of employees",
+      "published_at": "2026-11-28T00:37:23-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "DL Group Chairman Lee Hae-wook has come under fire for summoning hundreds of employees of a group affiliate to the office late Friday night while reprimanding executives over the company's poor performance. According to local reports Saturday, Lee presided over a meeting of the plant engineering division's design department at DL E&C on Friday afternoon. The meeting was initially attended only by Lee, company executives and team leaders.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7447ef28ddaa0bdd982015d65aaad868a4dc508d",
+      "url": "https://dailytrust.com/the-nigeria-of-our-dream/",
+      "title": "The Nigeria of our dream",
+      "published_at": "2026-11-28T00:36:32-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "Every country is shaped not only by its natural resources, political institutions or economic policies but also by its values, attitudes and responsibilities of its citizens. The Nigeria of our dream is a country where patriotism is not merely expressed through words but demonstrated in daily actions; where public resources are treated as trust, where […]",
+      "byline": ".",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.914,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7e577360542f7d0c7d7a760041e05bacc6e76ec6",
+      "url": "https://capitalfm.africa/knbs-report-counties-where-one-jss-teacher-handles-140-pupils/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "KNBS report: Counties where one JSS teacher handles 140 pupils",
+      "published_at": "2026-11-28T00:36:28-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya Nov 28 – Public junior schools are facing a serious teacher shortage, with some counties having more than 100 learners for every teacher, according to a new report…",
+      "byline": "DAVIS AYEGA",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "62206f9c5e14427c177654f745f8d254f60a77cc",
+      "url": "https://en.mercopress.com/2026/11/28/colombia-s-president-backs-abascal-spain-deserves-a-president-like-you?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Colombia's president backs Abascal: \"Spain deserves a president like you\"",
+      "published_at": "2026-11-28T00:36:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "Colombian President Abelardo de la Espriella has backed Vox leader Santiago Abascal ahead of Sunday's general election in Spain, in a video Abascal himself shared on X on Friday, the last day of campaigning. \"Dear friend, Spain deserves a president like you,\" the Colombian president said.",
+      "byline": "",
+      "feed_key": "mercopress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.902,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8f6c2f98409ef54f233b0beb10a282aced59aa07",
+      "url": "https://dailytrust.com/greed-personal-ambitions-may-ruin-opposition-alliance-ex-gov-yahya-abdulkareem/",
+      "title": "Greed, personal ambitions may ruin opposition alliance – Ex-Gov Yahya Abdulkareem",
+      "published_at": "2026-11-28T00:35:42-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "A former governor of old Sokoto State, Malam Yahya Abdulkareem, has said that personal ambitions and the struggle for political positions could frustrate efforts by opposition parties to form an alliance against President Bola Ahmed Tinubu in the 2027 general elections. In this interview in Sokoto, the chieftain of the All Progressives Congress (APC) also […]",
+      "byline": "Abubakar Auwal",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.844,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "f76cec2b0b8f572be3bdbd967efd65d0a9540f07",
+      "url": "https://dailytrust.com/the-cash-behind-2027/",
+      "title": "The cash behind 2027",
+      "published_at": "2026-11-28T00:33:45-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "As Nigeria inches towards the 2027 elections, an astonishing river of cash and material support appears to be flowing into the All Progressives Congress (APC’s) political machinery. Reports of billion-naira donations, fleets of luxury vehicles, campaign offices, cash grants and large-scale mobilisation programmes portray a campaign war chest being replenished by powerful interests and wealthy […]",
+      "byline": ".",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a1a46ac85a8f7518e352053045066b3c6f0d9a90",
+      "url": "https://en.mercopress.com/2026/11/28/spain-wraps-up-its-campaign-sanchez-appeals-for-a-progressive-majority-feijoo-for-change?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "title": "Spain wraps up its campaign: Sánchez appeals for a \"progressive majority\", Feijóo for \"change\"",
+      "published_at": "2026-11-28T00:33:00-05:00",
+      "section": "MercoPress",
+      "source": "MercoPress",
+      "country": "Uruguay",
+      "summary_auto": "The main candidates in Spain's snap general election on Sunday closed their campaigns on Friday with packed rallies, at which Socialist Prime Minister Pedro Sánchez appealed for a \"progressive majority\" and People's Party leader Alberto Núñez Feijóo even asked left-wing voters to back \"change\". The latest published polls gave the PP and Vox a combined majority.",
+      "byline": "",
+      "feed_key": "mercopress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "414f20032a77108c15155d0650421a21312f4f78",
+      "url": "https://dailytrust.com/that-sleazy-embarrassment-from-daura/",
+      "title": "That sleazy embarrassment from Daura",
+      "published_at": "2026-11-28T00:30:54-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "It was shocking when the news broke out last week of an incredible ‘drama’ that sought to confirm the axiom of performance artists who say “the world is a stage.” Even in the world of fiction, that Daura episode was weird. The sitting Emir of Daura in Katsina State, Alhaji Umar Faruk Umar, was accused […]",
+      "byline": "M.U. NDAGI",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.883,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7f2c7d5dc3159ac7de75e7a7887cb0d277f3abb4",
+      "url": "https://dailytrust.com/ai-is-rewriting-the-certificate-on-your-wall/",
+      "title": "AI is rewriting the certificate on your wall",
+      "published_at": "2026-11-28T00:27:49-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "In many Nigerian homes, the certificate hangs in the parlour, framed, beside the wedding photograph. It announces that this child has graduated. I understand the pride. But in an age of AI, I believe the most dangerous phrase in Nigerian education is: “I’ve finished school.” Last week, I argued that schools must build reasoning, not […]",
+      "byline": ".",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.799,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "8de95ab18ca5b7dd45d39695cd3e65421f58b492",
+      "url": "https://dailytrust.com/yobe-celebrates-as-students-win-at-islamic-competition-in-morocco/",
+      "title": "Yobe celebrates as students win at Islamic competition in Morocco",
+      "published_at": "2026-11-28T00:26:26-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "The Yobe State Government has celebrated two of its students who won top positions at an international Islamic competition held in Fez, Morocco recently. While Bashir Yunus emerged second in the World Qur’anic Recitation Competition, Muhammad Babayo Yarima clinched first position in the Essay Writing Competition on Islamic History. The competition, which took place on […]",
+      "byline": "Habibu Gimba",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.949,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "09126f7f59a9abcb854a964611993d34198eb760",
+      "url": "https://dailytrust.com/my-45-year-journey-in-journalism-professional-leadership-public-service/",
+      "title": "My 45-year journey in journalism, professional leadership, public service",
+      "published_at": "2026-11-28T00:26:04-05:00",
+      "section": "Daily Trust",
+      "source": "Daily Trust",
+      "country": "Nigeria",
+      "summary_auto": "There is a saying attributed to the late premier of Northern Nigeria, Sir Ahmadu Bello, the Sardauna of Sokoto – if you don’t blow your trumpet, nobody will because they will be busy blowing theirs. I have always found wisdom in that observation. At 65, having spent 45 years in journalism and public service, I […]",
+      "byline": ".",
+      "feed_key": "dailytrust",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "2f04ead3c9fbbd9319fb6bf8ef77f770a0230c53",
+      "url": "https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece",
+      "title": "Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus",
+      "published_at": "2026-11-28T00:25:36-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "Kenyan cult leader Paul Mackenzie, already sentenced to 200 years in prison this month for the murder of 191 people, was convicted along with 29 followers, including his wife",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.93,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "61c871e5070c2e46f5c93d03ebcda577a2f8c0a3",
+      "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+      "title": "Hamas says Israel tried to kill chief’s son in Gaza",
+      "published_at": "2026-11-28T00:25:04-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-27T20:57:02.175716-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "22f3883196161414110314318ad87c5e0a4b98a5",
+      "url": "https://www.scmp.com/week-asia/politics/article/3376115/sarawak-state-election-retreat-anwar-and-rivals-brings-ruling-gps-closer-victory",
+      "title": "Sarawak state election: retreat by Anwar and rivals brings ruling GPS closer to victory",
+      "published_at": "2026-11-28T00:21:19-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "The move by Malaysia’s Prime Minister Anwar Ibrahim and his political rivals to sit out next month’s election in Sarawak has led to the state’s ruling coalition, Gabungan Parti Sarawak (GPS), coming in striking distance of victory on Saturday even before a single ballot is cast. Anwar and his federal partners are courting GPS, whose support could once again determine who governs Malaysia after what is expected to be a tightly fought general election, due by February 2028. The retreat of the...",
+      "byline": "Joseph Sipalan",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9fafe89b7a98203bce61e567f3ef8e9b3188223a",
+      "url": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "published_at": "2026-11-28T00:19:35-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "Between November 1 and 18, brands diverted about $254 million worth ⁠of orders from Bangladesh, with most moving to neighbouring India, the owners said",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "cce9c0aeced6b9e3f6d3f01a899dfab7c4d6c45c",
+      "url": "https://capitalfm.africa/how-chinese-support-is-keeping-vulnerable-mathare-children-in-school/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "How Chinese support is keeping vulnerable Mathare children in school",
+      "published_at": "2026-11-28T00:16:00-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 27 – For some children at MCEDO Beijing School in Mathare, the food they receive at school is not just a meal to get them through the…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a5d4cb14c6d20150fdffbfe4f0964ff27256a620",
+      "url": "https://www.koreaherald.com/article/10952453",
+      "title": "Lee vows all-out efforts to lead AI race at data center groundbreaking in Gangwon",
+      "published_at": "2026-11-28T00:06:25-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "President Lee Jae Myung pledged Saturday to mobilize all government resources to make South Korea a leading country in the global artificial intelligence race, as he attended a groundbreaking ceremony for GS Group's AI data center in the eastern province of Gangwon, his office said. GS Group is building the 2.4-gigawatt AI data center campus in the eastern city of Donghae as part of the government's three major megaprojects announced in June.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "46bac8c921e24e10f3b9b2b7a4675502ddae610f",
+      "url": "https://en.antaranews.com/news/445991/minister-taps-dry-port-development-to-boost-industrial-competitiveness",
+      "title": "Minister taps dry port development to boost industrial competitiveness",
+      "published_at": "2026-11-28T00:04:57-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Industry Minister Muhammad Sarmuji is targeting the development of dry ports in several regions to improve logistics ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.681,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b53a5ff720aa8a84352b22181d96158d8a92c8aa",
+      "url": "https://e.vnexpress.net/news/news/education/australian-universities-cut-jobs-as-international-student-numbers-decline-5149898.html",
+      "title": "Australian universities cut jobs as international student numbers decline",
+      "published_at": "2026-11-28T00:00:00-05:00",
+      "section": "VnExpress International",
+      "source": "VnExpress International",
+      "country": "Vietnam",
+      "summary_auto": "Facing mounting deficits from a decline in overseas student numbers, major Australian universities, including the University of Melbourne, are cutting hundreds of jobs to rein in costs.",
+      "byline": "",
+      "feed_key": "vnexpress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ddc09eaeeb322ade0a286448649b1c115e73c6fe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
+      "title": "Behind India’s IIT dream: Student suicides and gaps in support",
+      "published_at": "2026-11-27T23:59:50-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Rishikesh Kumar made it to IIT, but died months later in a suspected suicide, reviving questions about student support.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.863,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0a8f2c04d5ba5b924cc8697597b76cb1460a0afa",
+      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+      "published_at": "2026-11-27T23:57:32-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5bbd4ed729ca4a371967869fdee94dde9ef59726",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+      "title": "US military says cyber systems secure after reports of Air Force hack",
+      "published_at": "2026-11-27T23:53:31-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "The US military denied on Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked, in what would be the latest high-profile breach of US digital infrastructure in recent weeks. Asked whether the Air Force’s Cloud One platform had been hacked, the Pentagon did not specifically deny that the system had been breached. Instead, a Defence Department official said late on Friday: “The Department of War’s systems are safe, secure, and...",
+      "byline": "Agence France-Presse",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.5,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "bc918bb3bee62445936343c41370e887a9047adc",
+      "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+      "title": "UN chief frontrunner urged to speak out over Albanese detention",
+      "published_at": "2026-11-27T23:46:16-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.612,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "b2cd68efce0b1c4c24067e408c7729234d74f88a",
+      "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-results-what-you-need-to-know/107435176",
+      "title": "Seats to watch and what to expect as Victoria's votes come in",
+      "published_at": "2026-11-27T23:45:41-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "For months, the politics and polls of this Victorian state election have been signalling that the result may be one of the most complex in Australian political history.",
+      "byline": "Casey Briggs",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "91e67620607a2578a67d7e67c1ad18a4132d35f4",
+      "url": "https://www.abc.net.au/news/2026-11-28/trees-saved-for-adelaide-motogp-circuit/107437992",
+      "title": "MotoGP circuit to claim fewer trees as transplant solution offered",
+      "published_at": "2026-11-27T23:44:15-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The state government says it will \"save\" 94 olive trees originally destined for removal to make way for the MotoGP circuit design.",
+      "byline": "Evelyn Leckie",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "482be1c047a1cfa30e430312324077cda196128b",
+      "url": "https://capitalfm.africa/saccos-face-money-laundering-risks-as-kenya-seeks-exit-from-fatf-grey-list/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "SACCOs face money laundering risks as Kenya seeks exit from FATF grey list",
+      "published_at": "2026-11-27T23:33:27-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "SACCOs face heightened exposure to money laundering risks due to gaps in compliance systems, with experts urging greater investment in technology and capacity building as Kenya seeks removal from the FATF grey list.",
+      "byline": "Spencer Walela",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.077,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "75164ed636969cc6a52ccd77d88037f1662e0c76",
+      "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
+      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
+      "published_at": "2026-11-27T23:31:57-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "The main race to watch is for the Taipei mayorship, where Chiang ‌has faced a stiff challenge from Shen, an academic-turned-lawmaker and an expert on China’s information warfare",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d4f62329faa88066b60e2fdfb32c624972735b3c",
+      "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+      "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+      "published_at": "2026-11-27T23:30:16-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.665,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0a4e5a3e165d006be0d94186684805680855e831",
+      "url": "https://en.antaranews.com/news/445987/bi-sees-bank-credit-growth-accelerating-to-9-13-percent-in-2027",
+      "title": "BI sees bank credit growth accelerating to 9-13 percent in 2027",
+      "published_at": "2026-11-27T23:22:28-05:00",
+      "section": "ANTARA News",
+      "source": "ANTARA News",
+      "country": "Indonesia",
+      "summary_auto": "Bank Indonesia (BI) projects bank lending to grow by 9-13 percent in 2027, up from its 2026 forecast of 8-12 percent, ...",
+      "byline": "",
+      "feed_key": "antaranews",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.637,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ecb5df903f5b9d3a24b3794f941912d3862ea737",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "published_at": "2026-11-27T23:19:16-05:00",
+      "section": "BBC",
+      "source": "BBC",
+      "country": "United Kingdom",
+      "summary_auto": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "byline": "",
+      "feed_key": "bbc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.625,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a3b94a570d61e3c1ffe54ca652ec265dfe68dbc7",
+      "url": "https://www.abc.net.au/news/2026-11-28/two-aboriginal-language-dictionaries-created-in-the-pilbara/107435892",
+      "title": "Culture preserved in new Aboriginal language dictionaries",
+      "published_at": "2026-11-27T23:16:31-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Linguists worked with current-day speakers to safeguard two Aboriginal languages in WA's Pilbara. Traditional owners say they can be an important resource for the next generation.",
+      "byline": "Beth Mackiewicz",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "ebac9b377c52b03f1501cda5b596d223e9aa7c51",
+      "url": "https://www.thehindu.com/news/international/putin-unveils-new-nuclear-submarine/article71753555.ece",
+      "title": "Putin unveils new nuclear submarine",
+      "published_at": "2026-11-27T23:14:12-05:00",
+      "section": "The Hindu",
+      "source": "The Hindu",
+      "country": "India",
+      "summary_auto": "Nuclear-powered submarines are a key part of Russia's nuclear deterrent because their ability to operate covertly underwater ensures a retaliatory strike capability in the event of an attack",
+      "byline": "",
+      "feed_key": "thehindu",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.318,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6815b669d4187498e74e2fc6ddfb9016024b0ba7",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "published_at": "2026-11-27T23:13:45-05:00",
+      "section": "BBC",
+      "source": "BBC",
+      "country": "United Kingdom",
+      "summary_auto": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "byline": "",
+      "feed_key": "bbc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5e7a78e007680332fea330b38afd92e944fdbcce",
+      "url": "https://e.vnexpress.net/news/news/traffic/china-mongolia-russia-train-route-welcomes-passengers-again-after-six-year-suspension-5149688.html",
+      "title": "China, Mongolia, Russia train route welcomes passengers again after six-year suspension",
+      "published_at": "2026-11-27T23:09:38-05:00",
+      "section": "VnExpress International",
+      "source": "VnExpress International",
+      "country": "Vietnam",
+      "summary_auto": "A direct passenger railway service connecting China, Mongolia, and Russia has reopened after six years, with the first train departing from Beijing Railway Station on Nov. 25.",
+      "byline": "",
+      "feed_key": "vnexpress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.402,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac997a114b8b629965821eb8131d9a5f9f299062",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376111/european-financial-firms-plan-larger-hong-kong-investment-treasury-chief-says",
+      "title": "European financial firms plan larger Hong Kong investment, treasury chief says",
+      "published_at": "2026-11-27T23:08:11-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "European financial institutions plan to expand investment in Hong Kong’s commodities, gold and renminbi businesses, and are keen to learn from its green finance and tokenised bond experience, the city’s treasury chief has said. During his visit to Germany, Belgium and Luxembourg last week, Secretary for Financial Services and the Treasury Christopher Hui Ching-yu delivered keynote speeches at Euro Finance Week and met government officials and sector representatives.",
+      "byline": "Ambrose Li",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9f671240f04713b10319083ed360bd5c2473523b",
+      "url": "https://capitalfm.africa/chinese-embassy-enterprises-inject-additional-sh7m-into-mathare-school-as-enrolment-tops-550/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+      "title": "Chinese Embassy, enterprises inject additional Sh7m into Mathare school as enrolment tops 550",
+      "published_at": "2026-11-27T23:08:00-05:00",
+      "section": "Capital FM",
+      "source": "Capital FM",
+      "country": "Kenya",
+      "summary_auto": "NAIROBI, Kenya, Nov 27 – The Chinese Embassy in Kenya and Chinese companies have donated an additional Sh7.01 million to MCEDO Beijing School in Mathare to support learning, feeding programmes…",
+      "byline": "BRUHAN MAKONG",
+      "feed_key": "capitalfm",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "04b2e543fd99773fee08c9ecac0ceed011c17f10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+      "title": "The split-second teamwork behind an F1 pit stop",
+      "published_at": "2026-11-27T23:01:24-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "ac872dce068ffffdbffd0b1f12342419c4242b19",
+      "url": "https://www.scmp.com/week-asia/opinion/article/3376068/southeast-asia-chinas-split-personality-stands-out",
+      "title": "The many Chinas Southeast Asia may see",
+      "published_at": "2026-11-27T23:00:13-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Countries, like people, can have several identities at once. They are a source of strength, but also of tension when different identities pull in different directions. China is reaching that point, with Southeast Asia confronting growing gaps between the Global South identity that Beijing claims, the great-power capabilities it wields and the expectations placed on it as an emerging global leader. China describes itself as the world’s largest developing country.",
+      "byline": "Hoang Thi Ha",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "Opinion",
+        "sentiment": 0.307,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "3b38a48f39cdab0e0bcd69623938bc72b2a899fb",
+      "url": "https://www.scmp.com/news/china/military/article/3376023/cambodias-ream-naval-base-back-spotlight-after-chinese-radar-features-joint-drill",
+      "title": "Cambodia’s Ream Naval Base back in spotlight after Chinese radar features in joint drill",
+      "published_at": "2026-11-27T23:00:11-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Chinese-made long-range radar equipment has been spotted at Cambodia’s Ream Naval Base during the ongoing Golden Dragon 2026 exercises, a move likely to draw fresh attention to the air surveillance capabilities at the Chinese-funded naval facility. Photos and video released to local media showed an LCQ-776 air surveillance and early warning radar alongside Cambodian troops and mounted on a truck with a Royal Cambodian Armed Forces licence plate. It remains unclear whether this indicates the...",
+      "byline": "Amber Wang",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "0e82811f3e35ec8f7466b45bdd895c80ba378761",
+      "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
+      "title": "Workers losing their jobs to AI say they're also addicted to using it",
+      "published_at": "2026-11-27T22:50:39-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "AI has transformed China's entertainment industry, and even those who have lost their jobs to it still find themselves captured by its allure.",
+      "byline": "Allyson Horn and Kat Tse",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "d5c7b4da815605e6ca55e6c5e309563f8649a1be",
+      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+      "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+      "published_at": "2026-11-27T22:45:58-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "MSF says premises 'clearly marked' with its logos, location communicated to and known by Israeli military.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.202,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "033078f9dfb3d4cd560146cb989a4ebce140a3b0",
+      "url": "https://www.koreaherald.com/article/10952433",
+      "title": "High-tech cheating fears reshape Korea’s exam halls",
+      "published_at": "2026-11-27T22:32:24-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Korea tightened security measures for the Test of Proficiency in Korean, or TOPIK, and several other examinations held Saturday amid growing concerns over artificial intelligence-assisted cheating. The National Institute for International Education deployed metal detectors and radio frequency detectors at testing centers for Saturday's internet-based TOPIK. Additional inspections were to be conducted if suspicious signals are detected during the exam.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.856,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "aeb097905737dadf6908ada096120d8d5a2acf73",
+      "url": "https://www.scmp.com/news/world/americas/article/3376110/costa-rica-bars-un-picked-human-rights-expert-palestinian-territories",
+      "title": "Costa Rica bars UN-picked human rights expert on Palestinian territories",
+      "published_at": "2026-11-27T22:27:22-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Costa Rica denied entry ⁠to the United Nations special rapporteur on ⁠the Israeli-occupied Palestinian territories, drawing criticism from UN human rights chief Volker Turk on Friday. Costa Rica’s move put the small Central American country’s increasingly close alignment with Washington and Israel on security and foreign policy into the spotlight.",
+      "byline": "Reuters",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.273,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "139d7271c63bc55c2bd0c79dd1dbfe02f4104655",
+      "url": "https://www.abc.net.au/news/2026-11-28/nt-man-attacks-22yo-partner-with-machete-serious-injuries/107438030",
+      "title": "Alleged machete attack on NT woman by partner prompts police search",
+      "published_at": "2026-11-27T22:06:51-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Police are searching for a man who allegedly attacked his 22-year-old female partner with a machete, resulting in her receiving \"serious injuries\" to her left arm.",
+      "byline": "",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.751,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "3419151db24b0497391fc18245aece76d99dc8b2",
+      "url": "https://www.scmp.com/week-asia/economics/article/3376089/japans-airlines-brace-looming-2030-problem-pilot-shortages",
+      "title": "Japan’s airlines brace for looming ‘2030 problem’: pilot shortages",
+      "published_at": "2026-11-27T22:00:13-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "Japan’s aviation industry is set to face a severe shortage of pilots – dubbed the “2030 problem” – as more long-serving crew members retire in the next few years and demand in the tourism sector continues to rise. The nation’s major airlines say they are taking steps to ensure there are no disruptions to services by stepping up pilot training and recruitment.",
+      "byline": "Julian Ryall",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.374,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1de2748fdb3c308c4c25d333c7c748aa1d67e105",
+      "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+      "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+      "published_at": "2026-11-27T22:00:00-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.625,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "dbfce70d33038d99ab233bdcce0453f4a4699b93",
+      "url": "https://e.vnexpress.net/photo/news/inside-hcmcs-31m-exhibition-center-recently-opened-5149823.html",
+      "title": "Inside HCMC's $31M exhibition center recently opened",
+      "published_at": "2026-11-27T22:00:00-05:00",
+      "section": "VnExpress International",
+      "source": "VnExpress International",
+      "country": "Vietnam",
+      "summary_auto": "After 13 years of construction, Ho Chi Minh City's Planning Exhibition Center, known for its two inward-leaning architectural blocks, opened on Nov. 23.",
+      "byline": "",
+      "feed_key": "vnexpress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.226,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5cbc842ecc701935ac0cbc86e66e62a734bd8e10",
+      "url": "https://news.cgtn.com/news/2026-11-28/Giant-panda-Ran-Ran-departs-for-Belgium-s-Pairi-Daiza-1SqUSrrUioo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Giant panda Ran Ran departs for Belgium's Pairi Daiza",
+      "published_at": "2026-11-27T21:59:27-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "Giant panda Ran Ran departs for Belgium's Pairi Daiza",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6f463ad75148c234b06aad14c6c292c62526dad4",
+      "url": "https://www.abc.net.au/news/2026-11-28/calls-for-cassowary-ai-signs-amid-deaths/107435502",
+      "title": "Deaths double for endangered Queensland bird as AI solution stalls",
+      "published_at": "2026-11-27T21:43:32-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Cassowary advocates in Far North Queensland are questioning why a successful AI road sign trial hasn't been rolled out, as road deaths of the endangered bird almost double this year.",
+      "byline": "Rosanne Maloney",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.691,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2b196321098dd7601d41bb65aa8a6fdcf37a7899",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3376108/japan-tighten-anime-and-game-support-under-fund-boost-its-soft-power",
+      "title": "Japan to tighten anime and game support under fund to boost its soft power",
+      "published_at": "2026-11-27T21:40:42-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "The Japanese government plans to tighten scrutiny of financial support for anime, video games and other content as it compiles its 2027 financial budget, after the Cool Japan Fund incurred massive losses while promoting Japanese culture-related products overseas. With the public-private fund’s cumulative losses swelling to 54 billion yen (US$340 million), largely due to the poor performance of domestic start-ups in which it had invested, the government is discussing merging or scrapping the...",
+      "byline": "Kyodo",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.527,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "b42a724b14316d5ca3eaa0a7b65f0480027d56fb",
+      "url": "https://www.abc.net.au/news/2026-11-28/north-melbourne-dominates-three-phases-to-secure-third-aflw-flag/107438000",
+      "title": "The tactics that secured North Melbourne's third AFLW premiership",
+      "published_at": "2026-11-27T21:38:16-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The AFLW champions were tested, but in three specific phases of the game, North Melbourne made history by winning another grand final.",
+      "byline": "",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.913,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2e9c59434d1d58c36dd43fb992658b2f2dffc102",
+      "url": "https://www.abc.net.au/news/2026-11-28/report-shows-failings-legal-practice-board-western-australia/107430436",
+      "title": "Culture of fear, revenge revealed at WA's legal industry regulator",
+      "published_at": "2026-11-27T21:32:44-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "It is supposed to uphold \"trust and confidence\" in WA's legal system, but a bombshell report into the state's Legal Practice Board shows the regulator is scarcely fit for purpose.",
+      "byline": "Courtney Withers",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.62,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "6ae20b1bb0092f4936277be684131af5a24dbdfb",
+      "url": "https://news.cgtn.com/news/2026-11-28/China-launches-new-remote-sensing-satellite-1SqPV9dCC9W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China launches new remote sensing satellite",
+      "published_at": "2026-11-27T21:30:39-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "China launches new remote sensing satellite",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8bbbdcd9355bb27e9989a4e8812cbb72bf3f3c8f",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+      "title": "Bulgarians demand action by French after Marseille match violence",
+      "published_at": "2026-11-27T21:30:27-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.881,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "83d8fc06a2f724792b8421551e296600a178cb66",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-lawsuit-decision-reserved-9.7440019?cmp=rss",
+      "title": "Judge reserves decision in bestselling author Steven Galloway's defamation lawsuit",
+      "published_at": "2026-11-27T21:18:49-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Steven Galloway is suing a woman and three other defendants over alleged defamatory statements published on social media and elsewhere between 2015 and 2018 regarding claims of sexual assault.",
+      "byline": "Brenna Owen",
+      "feed_key": "top_stories",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.778,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "5c267f94011f4a613bdb10b50bd1eb3d7a8221e9",
+      "url": "https://news.cgtn.com/news/2026-11-28/China-outlines-plan-to-boost-science-outreach-in-basic-research-1SqSQMIalqM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China outlines plan to boost science outreach in basic research",
+      "published_at": "2026-11-27T21:18:29-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "China outlines plan to boost science outreach in basic research",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.823,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "7d49b6d43be6ccc56175cdb8187767705c43855d",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3376107/chinese-wife-asks-online-gamers-repeatedly-kill-husband-curb-late-night-gaming-habit",
+      "title": "Chinese wife asks online gamers to repeatedly ‘kill’ husband to curb late-night gaming habit",
+      "published_at": "2026-11-27T21:13:57-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "A woman in southern China’s Guangdong province called on gamers to “kill” her husband in an online game to stop him staying up all night playing the game. Her plan worked after numerous players joined the hunt. The woman, surnamed Chen, posted a video on November 14 showing her husband, surnamed Li, playing the online game. She asked other players to “kill” him at around 1am so he would come to bed with her. Chen said Li had stayed up playing until 3 or 4am for the previous three nights,...",
+      "byline": "Fran Lu",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.296,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "1d504789548e9680abb3e3f11472a3bbc166cf61",
+      "url": "https://www.koreaherald.com/article/10952405",
+      "title": "Korea Post confirms data breach affecting at least 113,000",
+      "published_at": "2026-11-27T21:13:20-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "Personal information of registered mail customers was compromised in a cyberattack targeting Korea Post’s online postal service using overseas IP addresses, the state-run postal service confirmed Saturday. Korea Post said it had confirmed that customers’ personal information and mail submission records had been compromised in the cyberattack and that it was still working to determine the full extent of the breach.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "201e9bbc8a3c42350df1e9190ec82206af8aa6a8",
+      "url": "https://e.vnexpress.net/news/news/traffic/norwegian-long-haul-budget-airline-halts-all-flights-putting-bangkok-and-phuket-winter-services-in-doubt-5149680.html",
+      "title": "Norwegian long-haul budget airline halts all flights, putting Bangkok and Phuket winter services in doubt",
+      "published_at": "2026-11-27T21:10:55-05:00",
+      "section": "VnExpress International",
+      "source": "VnExpress International",
+      "country": "Vietnam",
+      "summary_auto": "Norwegian long-haul budget airline Norse Atlantic Airways suspended all flights on Thursday and warned it would file for bankruptcy unless it urgently secures financing, putting its expanded winter services to Bangkok and Phuket in doubt.",
+      "byline": "",
+      "feed_key": "vnexpress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.784,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "9d4f78e6e2200f13d4afca33397a28c6c274f90d",
+      "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+      "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+      "published_at": "2026-11-27T21:08:11-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.586,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "054c7e38eb26b8898f94b597bfd9279e2d1e119f",
+      "url": "https://www.abc.net.au/news/2026-11-28/wwe-wrestler-bronson-reed-dies-aged-38/107438016",
+      "title": "Adelaide-born WWE wrestler Bronson Reed dies at 38",
+      "published_at": "2026-11-27T21:05:33-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "Tributes are flowing for Adelaide-born wrestler Jermaine Haley, aka Bronson Reed, whose death has been attributed to medical complications.",
+      "byline": "",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.599,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "8feb438bba16a140f3173bc35899f1c01974feda",
+      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "published_at": "2026-11-27T21:05:27-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "9989ebb92c5aa887af35d50e2cdbbbed8c10e877",
+      "url": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-quebec-bill-21-legislative-racism-alberta-saskatchewan-discrimination-supreme-court-ruling-9.7440050?cmp=rss",
+      "title": "Upheld Quebec religious symbols bill 'legislative racism,' Manitoba premier says",
+      "published_at": "2026-11-27T21:03:24-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Manitoba's premier is condemning other provincial governments using the notwithstanding clause to target minorities, calling a Quebec law now upheld by Canada's top court an act of \"legislative racism.\"",
+      "byline": "Arturo Chang",
+      "feed_key": "canada",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.813,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "a508b0afc2f5744429aef5d8db2ee9b48d8bf987",
+      "url": "https://e.vnexpress.net/news/news/education/chinese-phds-from-tsinghua-cambridge-are-ending-up-as-high-school-teachers-5148727.html",
+      "title": "Chinese PhDs from Tsinghua, Cambridge are ending up as high school teachers",
+      "published_at": "2026-11-27T21:02:41-05:00",
+      "section": "VnExpress International",
+      "source": "VnExpress International",
+      "country": "Vietnam",
+      "summary_auto": "China is producing record numbers of PhDs, but with jobs at universities and research institutes increasingly scarce, many are turning to high school teaching instead.",
+      "byline": "",
+      "feed_key": "vnexpress",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2f7f9d5c6b04bd893a26bc6b665f0281309644be",
+      "url": "https://www.cbc.ca/sports/jermaine-haley-bronson-reed-obit-9.7440009?cmp=rss",
+      "title": "Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38",
+      "published_at": "2026-11-27T21:02:35-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Jermaine Haley, known as the WWE wrestler Bronson Reed, has died due to medical complications. He was 38. World Wrestling Entertainment announced Haley's death on Friday, but did not provide details.",
+      "byline": "",
+      "feed_key": "top_stories",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.67,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "30fb087f9a2ba88362e52c731d3c54e00d87cfdd",
+      "url": "https://www.koreaherald.com/article/10952401",
+      "title": "Spy agency says monitoring developments amid speculation over NK leader's possible China visit",
+      "published_at": "2026-11-27T21:02:17-05:00",
+      "section": "The Korea Herald",
+      "source": "The Korea Herald",
+      "country": "South Korea",
+      "summary_auto": "South Korea's spy agency said Saturday it is closely monitoring developments amid speculation that North Korean leader Kim Jong-un could make another visit to China. \"We are monitoring various developments,\" the National Intelligence Service said in response to a Yonhap News Agency inquiry about media reports that Kim's visit to China could be imminent.",
+      "byline": "The Korea Herald",
+      "feed_key": "koreaherald",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.477,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "9861d221253501a89cfb8c03fcb70af4a0bc83f5",
+      "url": "https://www.scmp.com/week-asia/people/article/3376083/mary-jane-veloso-life-after-death-row-indonesia-and-finding-freedom-i-was-reborn",
+      "title": "Mary Jane Veloso on life after death row in Indonesia and finding freedom: ‘I was reborn’",
+      "published_at": "2026-11-27T21:00:13-05:00",
+      "section": "South China Morning Post",
+      "source": "South China Morning Post",
+      "country": "Hong Kong, China",
+      "summary_auto": "On April 29, 2015, Mary Jane Veloso was preparing to die. The then-30-year-old Filipino woman, who had gone to Indonesia to work as a domestic helper, had spent five years on death row on drug smuggling charges and was due to be executed by firing squad on the prison island of Nusa Kambangan. Twenty minutes before she was to face her executioners, Veloso, a Roman Catholic, made one last appeal to God. “God, many people believe I am innocent. Many people also believe I am guilty. But You know...",
+      "byline": "Sam Beltran",
+      "feed_key": "scmp",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.799,
+        "subjectivity_hint": "high"
+      }
+    },
+    {
+      "id": "631ca0ebd4ce63218db4080f1c61db6302c53ada",
+      "url": "https://www.abc.net.au/news/2026-11-28/norseman-gp-dispute-highlights-funding-gap/107422374",
+      "title": "No end in sight to three-year dispute between outback council and their only GP",
+      "published_at": "2026-11-27T20:59:04-05:00",
+      "section": "ABC News",
+      "source": "ABC News",
+      "country": "Australia",
+      "summary_auto": "The long-running dispute that could see Norseman lose its only medical clinic highlights the pressure country councils are facing to keep doctors in town.",
+      "byline": "Daniel Holmes",
+      "feed_key": "abc",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.888,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "a89cfc699210d91ca89718c12bafb35e6089998c",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "published_at": "2026-11-27T20:55:03-05:00",
+      "section": "Al Jazeera",
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "summary_auto": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+      "byline": "",
+      "feed_key": "aljazeera",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.875,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "799605320949046864374e431e030ce08482e6a6",
       "url": "https://www.abc.net.au/news/2026-11-28/grace-tame-former-media-exec-matt-handbury-rape-comment-nsw/107437856",
-      "title": "Former media exec admits saying Grace Tame was 'looking to be raped again'",
+      "title": "Grace Tame says business chairman said she was 'looking to be raped again'",
       "published_at": "2026-11-27T20:43:34-05:00",
       "section": "ABC News",
       "source": "ABC News",
@@ -18,7 +2488,7 @@
       "first_seen_at": "2026-11-27T20:57:02.175716-05:00",
       "bias_heuristic": {
         "article_type": "News",
-        "sentiment": 0.619,
+        "sentiment": 0.535,
         "subjectivity_hint": "medium"
       }
     },
@@ -30,7 +2500,7 @@
       "section": "ABC News",
       "source": "ABC News",
       "country": "Australia",
-      "summary_auto": "The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is waiting at the airport while a petition to enter the country is pending.",
+      "summary_auto": "The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is spending her second night stranded at the airport while a petition to enter the country is pending.",
       "byline": "",
       "feed_key": "abc",
       "language": "en",
@@ -82,7 +2552,7 @@
     {
       "id": "dd0b7a8a7e75522f9b9e93308f0e395eb85b9823",
       "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
-      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "title": "Nigeria's 'ultimate hard man' who became an online meme",
       "published_at": "2026-11-27T20:20:35-05:00",
       "section": "BBC",
       "source": "BBC",
@@ -114,25 +2584,6 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.743,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
-      "id": "32574b912540e607e564a84076dc2fb2a75e150b",
-      "url": "https://www.thehindu.com/news/international/zelenskyy-urges-us-to-pressure-russia-and-questions-trump-referring-putin-as-friend/article71753434.ece",
-      "title": "Zelenskyy urges U.S. to pressure Russia and questions Trump referring Putin as ‘friend’",
-      "published_at": "2026-11-27T20:07:56-05:00",
-      "section": "The Hindu",
-      "source": "The Hindu",
-      "country": "India",
-      "summary_auto": "In an interview to BBC broadcast, the Ukrainian President wants the U.S. to apply more pressure on Russia to stop invation of Ukraine",
-      "byline": "",
-      "feed_key": "thehindu",
-      "language": "en",
-      "first_seen_at": "2026-11-27T20:57:02.175716-05:00",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.709,
         "subjectivity_hint": "low"
       }
     },
@@ -190,6 +2641,25 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.765,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "461f80788f109c3bbad75bc5eab303bb75328535",
+      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-scott-moe-lorne-doerkson-ucp-agm-9.7439775?cmp=rss",
+      "title": "'Team West': 3 conservative premiers unite at UCP AGM as party unity looms large",
+      "published_at": "2026-11-27T19:57:11-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Alberta's United Conservatives are gathering at Calgary's BMO Centre this weekend. Much about the party's future is expected to come into focus as it grapples with the fallout of a divisive referendum.",
+      "byline": "Joel Dryden",
+      "feed_key": "canada",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.599,
         "subjectivity_hint": "low"
       }
     },
@@ -840,6 +3310,25 @@
       }
     },
     {
+      "id": "695b47ce8301caa6657ed262e24b9262ea32ca14",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/george-heyman-former-bc-environment-minister-9.7439691?cmp=rss",
+      "title": "Former B.C. environment minister George Heyman dead at 77",
+      "published_at": "2026-11-27T17:46:04-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Former B.C. NDP environment minister George Heyman has died of cancer, a longtime colleague confirmed. He was 77.",
+      "byline": "Akshay Kulkarni",
+      "feed_key": "canada",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.923,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "dd81050c4798216c89eee55d58605b484abb5aa2",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/distribuidoras-de-energia-oferecem-descontos-para-renegociar-dividas",
       "title": "Distribuidoras de energia oferecem descontos para renegociar dívidas",
@@ -994,7 +3483,7 @@
     {
       "id": "0a48f5803933b93689699bcb82fb7787153c9f96",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
-      "title": "Congress chiefs rush to reassure Beijing as envoy berates lawmakers in Taiwan",
+      "title": "Colombian Congress chiefs rush to reassure Beijing as envoy berates lawmakers in Taiwan",
       "published_at": "2026-11-27T17:27:36-05:00",
       "section": "South China Morning Post",
       "source": "South China Morning Post",
@@ -1065,25 +3554,6 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
-      }
-    },
-    {
-      "id": "61c871e5070c2e46f5c93d03ebcda577a2f8c0a3",
-      "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
-      "title": "Hamas says Israel tried to kill chief’s son in Gaza",
-      "published_at": "2026-11-27T17:18:41-05:00",
-      "section": "The Hindu",
-      "source": "The Hindu",
-      "country": "India",
-      "summary_auto": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP",
-      "byline": "",
-      "feed_key": "thehindu",
-      "language": "en",
-      "first_seen_at": "2026-11-27T20:57:02.175716-05:00",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": -0.402,
-        "subjectivity_hint": "low"
       }
     },
     {
@@ -1197,6 +3667,25 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.718,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "63ede6d9fccb0ec5d0407ebe9c16df919987e490",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/jazz-chisholm-signing-blue-jays-report-mlb-yankees-9.7439624?cmp=rss",
+      "title": "Blue Jays reportedly agree to deal with speedy infielder/outfielder Jazz Chisholm Jr.",
+      "published_at": "2026-11-27T16:59:40-05:00",
+      "section": "Top Stories",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "It appears the Toronto Blue Jays have reached a contract agreement with Jazz Chisholm Jr., the former New York Yankees infielder who hit .231 this past season with 19 home runs and career-high 41 stolen bases for the New York Yankees.",
+      "byline": "Ronald Blum",
+      "feed_key": "top_stories",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.44,
         "subjectivity_hint": "low"
       }
     },
@@ -1885,6 +4374,25 @@
       }
     },
     {
+      "id": "67c12cd3721bc6d5c24f067128a94481b32a2d8c",
+      "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/megan-oldham-silver-medal-big-air-world-cup-innsbruck-9.7439377?cmp=rss",
+      "title": "Canadian freestyle skier Megan Oldham opens World Cup season with big air silver",
+      "published_at": "2026-11-27T15:27:01-05:00",
+      "section": "Canada",
+      "source": "CBC News",
+      "country": "Canada",
+      "summary_auto": "Canada's Megan Oldham opened the freeski World Cup season with a silver in women's big air competition Friday in Innsbruck, Austria.",
+      "byline": "",
+      "feed_key": "canada",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.178,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "24b7c7fd8dfa8df350aa9b1d4521777754ad7455",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
       "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
@@ -2246,25 +4754,6 @@
       }
     },
     {
-      "id": "9fafe89b7a98203bce61e567f3ef8e9b3188223a",
-      "url": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
-      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
-      "published_at": "2026-11-27T14:27:54-05:00",
-      "section": "The Hindu",
-      "source": "The Hindu",
-      "country": "India",
-      "summary_auto": "Between November 1 and 18, brands diverted about $254 million worth ⁠of orders from Bangladesh, with most moving to neighbouring India, the owners said",
-      "byline": "",
-      "feed_key": "thehindu",
-      "language": "en",
-      "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.226,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b97d4a705f0211f2c8c84dacea36012e6061d4ff",
       "url": "https://www.abc.net.au/news/2026-11-28/wallabies-vs-ireland-nations-championship-live-blog-updates/107437612",
       "title": "Live: Wallabies end 2026 with 38-14 loss to Ireland in London",
@@ -2307,12 +4796,12 @@
       "url": "https://www.cbc.ca/news/business/canada-post-results-q3-2026-9.7439127?cmp=rss",
       "title": "Canada Post narrows Q3 loss to $451M as parcel and flyer business picks up",
       "published_at": "2026-11-27T14:23:46-05:00",
-      "section": "Top Stories",
+      "section": "Business",
       "source": "CBC News",
       "country": "Canada",
       "summary_auto": "The third-quarter loss is an improvement of nearly 17 per cent, compared with the $541-million loss in the same period last year. The postal carrier has been struggling as fewer people send letter mail.",
       "byline": "",
-      "feed_key": "top_stories",
+      "feed_key": "business",
       "language": "en",
       "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
       "bias_heuristic": {
@@ -2991,12 +5480,12 @@
       "url": "https://www.cbc.ca/news/world/zelensky-eu-ukraine-funding-9.7438377?cmp=rss",
       "title": "Zelenskyy criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
       "published_at": "2026-11-27T12:41:21-05:00",
-      "section": "Top Stories",
+      "section": "World",
       "source": "CBC News",
       "country": "Canada",
       "summary_auto": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Russian President Vladimir Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that aired just as an EU budget deal that was to approve a $70 billion loan to the war-ravaged country fell apart.",
       "byline": "William Denselow",
-      "feed_key": "top_stories",
+      "feed_key": "world",
       "language": "en",
       "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
       "bias_heuristic": {
@@ -3956,25 +6445,6 @@
       }
     },
     {
-      "id": "af8cf94c8a2d6c722d6b55950a2e3a80c849b105",
-      "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
-      "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
-      "published_at": "2026-11-27T10:48:55-05:00",
-      "section": "The Hindu",
-      "source": "The Hindu",
-      "country": "India",
-      "summary_auto": "Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix",
-      "byline": "",
-      "feed_key": "thehindu",
-      "language": "en",
-      "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
-      "bias_heuristic": {
-        "article_type": "News",
-        "sentiment": 0.0,
-        "subjectivity_hint": "low"
-      }
-    },
-    {
       "id": "b62e37d43daf09f0ceb2328e08e5db98dd499b77",
       "url": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece",
       "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
@@ -4009,6 +6479,25 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": -0.382,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "557adf9b43c4c7498997c721f56e00f7b6b543d5",
+      "url": "https://news.cgtn.com/news/2026-11-27/Bangkok-hosts-seminar-on-Xi-s-book-on-protecting-human-rights-1SpY0m6Brl6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Bangkok hosts seminar on Xi's book on protecting human rights",
+      "published_at": "2026-11-27T10:31:59-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "An academic seminar on the book \"Xi Jinping: On Respecting and Protecting Human Rights\" was held in Bangkok on Thursday.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.494,
         "subjectivity_hint": "low"
       }
     },
@@ -4374,6 +6863,44 @@
       }
     },
     {
+      "id": "e1d4fd3ae49685b8108e08c04ec1cb98953c9c45",
+      "url": "https://news.cgtn.com/news/2026-11-27/China-Coast-Guard-expels-illegal-Japanese-boat-in-waters-of-Diaoyu-Dao-1Sq4kkmOzGU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China Coast Guard expels illegal Japanese boat in waters of Diaoyu Dao",
+      "published_at": "2026-11-27T09:27:12-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "The China Coast Guard (CCG) expelled a Japanese fishing boat that had intruded into the territorial waters of China's Diaoyu Dao on Thursday.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.802,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "05211f67e8c4616ad8c0ecfebcf7fd27c487da48",
+      "url": "https://news.cgtn.com/news/2026-11-27/China-forms-new-ethics-body-to-guide-emerging-tech-1Sq1CXD6uaY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China forms new ethics body to guide emerging tech",
+      "published_at": "2026-11-27T09:26:37-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "China forms new ethics body to guide emerging tech",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "ebb82cffad594b39f166aae6df02aadc2ef7d5aa",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3376096/indian-police-rescue-164-malaysians-and-indonesians-delhi-scam-ring",
       "title": "Indian police rescue 164 Malaysians and Indonesians from Delhi scam ring",
@@ -4507,6 +7034,44 @@
       }
     },
     {
+      "id": "5e784f7ab057bc86bc839138ed05bccf3431dd62",
+      "url": "https://news.cgtn.com/news/2026-11-27/Dongfeng-landing-site-ready-for-Shenzhou-23-crew-s-return-1Sq00Sf3brO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Dongfeng landing site ready for Shenzhou-23 crew's return",
+      "published_at": "2026-11-27T08:45:51-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "The Dongfeng landing site in north China has conducted its final full-system search, rescue and recovery drill ahead of the Shenzhou-23 crewed spacecraft's scheduled return to Earth in the coming days.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "193920ef42b25dda2350f73b62abf0550ae7d8cc",
+      "url": "https://news.cgtn.com/news/2026-11-27/PLA-Army-to-display-Z-20T-other-advanced-weaponry-at-Zhuhai-airshow-1SpX8gMCJlC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "PLA Army to display Z-20T, other advanced weaponry at Zhuhai airshow",
+      "published_at": "2026-11-27T08:44:30-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "The Army of the Chinese People's Liberation Army (PLA) will stage flight demonstrations with three types of helicopters, the Z-10, Z-20 and Z-20T, at the 16th China International Aviation and Aerospace Exhibition, also known as Airshow China, the service said Friday.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.026,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "b751f41a1b2553aa641a8e031bc7506b85cc9b67",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
       "title": "Rare turtles found inside baggage at Amsterdam airport",
@@ -4538,6 +7103,25 @@
       "feed_key": "dailytrust",
       "language": "en",
       "first_seen_at": "2026-11-27T16:58:45.883713-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "1685b8a180feee4efc31a4acee0e78408069d864",
+      "url": "https://news.cgtn.com/news/2026-11-27/Chinese-premier-to-meet-10-international-economic-organizations-heads-1SpVKk0qFVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Chinese premier to meet 10 international economic organizations' heads",
+      "published_at": "2026-11-27T08:34:15-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "Chinese Premier Li Qiang will hold the \"1+10\" Dialogue in the city of Xiamen, east China's Fujian Province, on the morning of December 2, a Chinese foreign ministry spokesperson announced on Friday.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.0,
@@ -4731,6 +7315,25 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.758,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "2a5153401779a30f1d403febdb8b78c9f9da7639",
+      "url": "https://news.cgtn.com/news/2026-11-27/Three-new-high-speed-lines-connect-industries-in-Yangtze-River-Delta-1SpMzE8JfOg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Three new high-speed lines connect industries in Yangtze River Delta",
+      "published_at": "2026-11-27T07:54:37-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "China just expanded its high-speed rail network in the Yangtze River Delta to over 8,500 km after opening three new lines in east China's Anhui Province on Friday. By linking Hefei's tech scene, Huaibei's aluminum-based materials, Fuyang's green food industry and Ma'anshan's steel and smart manufacturing, the new lines will accelerate the flow of talent, technology and industry.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.67,
         "subjectivity_hint": "low"
       }
     },
@@ -5096,6 +7699,25 @@
       }
     },
     {
+      "id": "778f054311d3c6e4e5270b191da29a9857dff654",
+      "url": "https://news.cgtn.com/news/2026-11-27/From-the-Vision-of-an-Industrial-Nation-to-China-Today-1SpKs1em5Wg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "From the Vision of an Industrial Nation to China Today",
+      "published_at": "2026-11-27T05:54:21-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "From the Vision of an Industrial Nation to China Today",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.459,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "98d3c272eedf56b3982913d3957f1ce1a00bcb7c",
       "url": "https://www.scmp.com/presented/news/hong-kong/topics/50-years-construction-industry-training/article/3375854/tools-change-spirit-does-not-50-years-hong-kong-construction-industry-training",
       "title": "‘The tools change, the spirit does not’: 50 years of Hong Kong construction industry training",
@@ -5286,6 +7908,25 @@
       }
     },
     {
+      "id": "1d6cda1e127ce4fe238480ea46ebe4ac239bc3b0",
+      "url": "https://news.cgtn.com/news/2026-11-27/Zhuge-Village-A-Community-s-Timeless-Legacy-1SpjapcdHBC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Zhuge Village: A Community's Timeless Legacy",
+      "published_at": "2026-11-27T05:15:54-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "Zhuge Village: A Community's Timeless Legacy",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "092988ce453653d0dcfad05c317fa4a9578ab0ac",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376062/aeon-sets-cardless-payment-limit-0-customers-affected-cyber-attack",
       "title": "Hong Kong’s Octopus hit by cyberattack, affecting 30,000 users and merchants",
@@ -5305,6 +7946,25 @@
       }
     },
     {
+      "id": "0dd835be01f614b273fd224b0cbad364f452587c",
+      "url": "https://news.cgtn.com/news/2026-11-27/How-China-s-hydrogen-is-powering-a-green-future-1SpN8VIH90k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "How China's hydrogen is powering a green future",
+      "published_at": "2026-11-27T05:09:37-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "How China's hydrogen is powering a green future",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.0,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
       "id": "8f4879a3987a0fb61bf43c2e704b01533996d06c",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3376059/chinese-city-turns-retired-buses-mobile-cafes-retraining-transit-workers-baristas",
       "title": "Chinese city turns retired buses into mobile cafes, retraining transit workers as baristas",
@@ -5320,6 +7980,25 @@
       "bias_heuristic": {
         "article_type": "News",
         "sentiment": 0.66,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "eca246b5ff92e4cb56ee4470f64ba163a1cd15e6",
+      "url": "https://news.cgtn.com/news/2026-11-27/-A-mystery-gift-is-heading-to-Miami--1SpKwRB5iCY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "A mystery gift is heading to Miami!",
+      "published_at": "2026-11-27T05:03:29-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "A mystery gift is heading to Miami!",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.749,
         "subjectivity_hint": "low"
       }
     },
@@ -5419,6 +8098,44 @@
       }
     },
     {
+      "id": "7321a9b5b298eb9d9a2e749807c64cf99bac3add",
+      "url": "https://news.cgtn.com/news/2026-11-27/China-urges-nationals-in-Japan-to-take-precautions-against-earthquakes-1SpKtsdjM2c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China urges nationals in Japan to take precautions against earthquakes",
+      "published_at": "2026-11-27T04:50:08-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "The Chinese Embassy in Japan on Friday issued a notice reminding Chinese nationals in the country to take precautions against earthquakes and other natural disasters and make emergency preparations in advance.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": -0.572,
+        "subjectivity_hint": "low"
+      }
+    },
+    {
+      "id": "429b82282a8452033f5a55cbf36e1bbf22f12a0b",
+      "url": "https://news.cgtn.com/news/2026-11-27/Chinese-business-community-urges-US-to-withdraw-proposed-tariff-hikes-1SpJ8tBnWVi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Chinese business community urges US to withdraw proposed tariff hikes",
+      "published_at": "2026-11-27T04:49:29-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "China's business community has voiced strong opposition to the US proposed tariff hikes following a Section 301 investigation into alleged \"structural excess capacity\" in manufacturing, urging Washington to withdraw the measures, the China Council for the Promotion of International Trade (CCPIT) said on Friday.",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.511,
+        "subjectivity_hint": "medium"
+      }
+    },
+    {
       "id": "340a1993121dfd386667ef5408a0b7917d18037d",
       "url": "https://en.antaranews.com/news/445831/basarnas-boosts-readiness-for-2026-2027-hydrometeorological-disasters",
       "title": "Basarnas boosts readiness for 2026-2027 hydrometeorological disasters",
@@ -5511,6 +8228,25 @@
         "article_type": "News",
         "sentiment": 0.0,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "7593f5195771d3ff4f6256f2b96df978703df0b3",
+      "url": "https://news.cgtn.com/news/2026-11-27/The-Iron-Bond-Stories-from-Pak-China-Friendship-Hospital-1SpBuoXtDaM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "The Iron Bond: Stories from Pak-China Friendship Hospital",
+      "published_at": "2026-11-27T04:24:13-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "The Iron Bond: Stories from Pak-China Friendship Hospital",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.7,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -5929,6 +8665,25 @@
         "article_type": "News",
         "sentiment": 0.665,
         "subjectivity_hint": "medium"
+      }
+    },
+    {
+      "id": "e2ceb7222b4ffbc37656433c1d5f34efb42a9632",
+      "url": "https://news.cgtn.com/news/2026-11-27/BRI-energy-ministers-meet-in-Qingdao-to-advance-transition-security--1SpF5qwnBQc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "BRI energy ministers meet in Qingdao to advance transition, security",
+      "published_at": "2026-11-27T03:56:54-05:00",
+      "section": "CGTN",
+      "source": "CGTN",
+      "country": "China",
+      "summary_auto": "BRI energy ministers meet in Qingdao to advance transition, security",
+      "byline": "",
+      "feed_key": "cgtn",
+      "language": "en",
+      "first_seen_at": "2026-11-28T03:56:11.514188-05:00",
+      "bias_heuristic": {
+        "article_type": "News",
+        "sentiment": 0.791,
+        "subjectivity_hint": "low"
       }
     },
     {
@@ -27917,7 +30672,7 @@
       "source": "CBC News",
       "country": "Canada",
       "status": "ok",
-      "count": 15
+      "count": 20
     },
     {
       "key": "world",
@@ -27973,14 +30728,14 @@
       "source": "The Hindu",
       "country": "India",
       "status": "ok",
-      "count": 26
+      "count": 20
     },
     {
       "key": "bbc",
       "source": "BBC",
       "country": "United Kingdom",
       "status": "ok",
-      "count": 19
+      "count": 16
     },
     {
       "key": "abc",
@@ -28001,7 +30756,7 @@
       "source": "CGTN",
       "country": "China",
       "status": "ok",
-      "count": 7
+      "count": 18
     },
     {
       "key": "mercopress",
@@ -28022,7 +30777,7 @@
       "source": "The Korea Herald",
       "country": "South Korea",
       "status": "ok",
-      "count": 25
+      "count": 19
     },
     {
       "key": "dailytrust",
@@ -28085,7 +30840,7 @@
       "source": "RNZ Pacific",
       "country": "New Zealand",
       "status": "ok",
-      "count": 2
+      "count": 1
     }
   ],
   "retention_days": 14,
